@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part4_p097</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p097</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_97">
+         <graphic url="TL-0571.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZUVKJSDRJEGTGRQIZTKZLHTH&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,257 2298,257 2298,929 298,929" rendition="TextRegion" xml:id="facs_97_tr_3">
+            <zone points="1118,315 1131,315 1141,325 1173,320 1178,325 1188,325 1196,318 1203,323 1218,323 1228,313 1241,313 1241,263 1206,263 1191,248 1173,263 1163,260 1153,270 1118,270" rendition="Line" xml:id="facs_97_tr_3_tl_1"/>
+            <zone points="285,463 2291,470 2291,413 285,428" rendition="Line" xml:id="facs_97_tr_3_tl_2"/>
+            <zone points="295,618 710,615 783,668 2234,630 2196,568 295,573" rendition="Line" xml:id="facs_97_tr_3_tl_3"/>
+            <zone points="288,768 2179,775 2124,703 288,725" rendition="Line" xml:id="facs_97_tr_3_tl_4"/>
+            <zone points="288,923 1278,995 1473,915 2224,933 2261,865 288,873" rendition="Line" xml:id="facs_97_tr_3_tl_5"/>
+         </zone>
+         <zone points="280,1006 2289,1006 2289,2589 280,2589" rendition="TextRegion" xml:id="facs_97_tr_2">
+            <zone points="285,1073 1936,1086 2079,1068 2079,1018 285,1046" rendition="Line" xml:id="facs_97_tr_2_tl_1"/>
+            <zone points="288,1226 2149,1228 2149,1156 288,1181" rendition="Line" xml:id="facs_97_tr_2_tl_2"/>
+            <zone points="278,1373 2206,1373 2119,1311 278,1328" rendition="Line" xml:id="facs_97_tr_2_tl_3"/>
+            <zone points="503,1526 2189,1541 2284,1526 2284,1471 503,1481" rendition="Line" xml:id="facs_97_tr_2_tl_4"/>
+            <zone points="273,1676 2026,1686 2114,1673 2114,1618 273,1643" rendition="Line" xml:id="facs_97_tr_2_tl_5"/>
+            <zone points="273,1828 2029,1828 2209,1821 2209,1771 273,1801" rendition="Line" xml:id="facs_97_tr_2_tl_6"/>
+            <zone points="273,1973 2209,1973 2209,1903 273,1948" rendition="Line" xml:id="facs_97_tr_2_tl_7"/>
+            <zone points="273,2126 1561,2141 2091,2091 273,2101" rendition="Line" xml:id="facs_97_tr_2_tl_8"/>
+            <zone points="505,2279 1261,2324 1588,2271 2179,2279 2206,2226 505,2229" rendition="Line" xml:id="facs_97_tr_2_tl_9"/>
+            <zone points="273,2429 2196,2429 2196,2369 273,2404" rendition="Line" xml:id="facs_97_tr_2_tl_10"/>
+            <zone points="265,2576 2094,2581 2151,2521 265,2531" rendition="Line" xml:id="facs_97_tr_2_tl_11"/>
+         </zone>
+         <zone points="23,2660 2224,2660 2224,3464 23,3464" rendition="TextRegion" xml:id="facs_97_tr_1">
+            <zone points="275,2746 2179,2726 2179,2666 275,2691" rendition="Line" xml:id="facs_97_tr_1_tl_1"/>
+            <zone points="265,2876 2114,2879 2209,2876 2209,2821 265,2834" rendition="Line" xml:id="facs_97_tr_1_tl_2"/>
+            <zone points="265,3032 2091,3037 2194,3029 2194,2976 265,3007" rendition="Line" xml:id="facs_97_tr_1_tl_3"/>
+            <zone points="263,3182 2219,3182 2221,3127 263,3157" rendition="Line" xml:id="facs_97_tr_1_tl_4"/>
+            <zone points="13,3419 25,3419 55,3444 85,3424 95,3432 118,3429 130,3442 155,3437 148,3287 58,3294 5,3289" rendition="Line" xml:id="facs_97_tr_1_tl_5"/>
+            <zone points="170,3437 195,3432 213,3412 260,3417 283,3432 310,3427 320,3437 350,3419 375,3437 430,3404 428,3304 255,3302 228,3292 168,3304" rendition="Line" xml:id="facs_97_tr_1_tl_6"/>
+            <zone points="738,3427 835,3434 910,3407 1033,3427 1138,3404 1161,3427 1251,3429 1296,3454 1356,3447 1356,3297 793,3287 738,3302" rendition="Line" xml:id="facs_97_tr_1_tl_7"/>
+            <zone points="465,3459 558,3429 573,3437 615,3429 635,3412 745,3429 748,3282 585,3269 468,3277" rendition="Line" xml:id="facs_97_tr_1_tl_8"/>
+            <zone points="1346,3439 1383,3427 1426,3439 1443,3454 1491,3447 1523,3462 1548,3454 1533,3337 1438,3322 1416,3327 1331,3319" rendition="Line" xml:id="facs_97_tr_1_tl_9"/>
+            <zone points="1813,3452 1828,3452 1851,3437 1868,3459 1878,3462 1903,3444 1916,3447 1938,3297 1926,3294 1911,3302 1888,3299 1873,3304 1866,3297 1833,3294" rendition="Line" xml:id="facs_97_tr_1_tl_10"/>
+            <zone points="813,3459 850,3462 875,3444 918,3462 990,3447 1043,3464 1056,3454 1151,3462 1191,3452 1188,3424 1158,3424 1136,3404 1078,3417 1026,3404 1011,3419 910,3407 860,3422 810,3399" rendition="Line" xml:id="facs_97_tr_1_tl_11"/>
+            <zone points="33,3459 165,3462 178,3452 215,3462 295,3447 383,3462 385,3412 360,3412 328,3434 293,3412 268,3422 215,3409 180,3432 158,3409 95,3432 33,3422" rendition="Line" xml:id="facs_97_tr_1_tl_12"/>
+            <zone points="665,3444 685,3444 693,3452 705,3449 715,3454 730,3452 743,3462 748,3462 765,3444 788,3444 788,3419 775,3419 768,3427 753,3424 693,3427 680,3414 665,3414" rendition="Line" xml:id="facs_97_tr_1_tl_13"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0571.jpg" n="part4_p097.jpg" xml:id="img_0097" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p097.jpg"/>
+            
+            <ab facs="#facs_97_tr_3">
+               <lb facs="#facs_97_tr_3_tl_1" n="N001"/>-566
+               <lb facs="#facs_97_tr_3_tl_2" n="N002"/>had by my very highly daicatnd friend Karl Mannheim, who came as a refugee to England in 1934 and
+               <lb facs="#facs_97_tr_3_tl_3" n="N003"/>’35, and introduced “sociology of knowledge”—which was his very special interest-namely trying
+               <lb facs="#facs_97_tr_3_tl_4" n="N004"/>to find out which sociological group is responsible for a special ideology. This of course means
+               <lb facs="#facs_97_tr_3_tl_5" n="N005"/>UNDERCUTTING the certainly of these ideologies. So the English people, the (educated broups
+            </ab>
+            <ab facs="#facs_97_tr_2">
+               <lb facs="#facs_97_tr_2_tl_1" n="N001"/>and the professors, to a great extent, resisted his influence fremendously. And only in the
+               <lb facs="#facs_97_tr_2_tl_2" n="N002"/>catastrophes of the Second World War and a little bit after it—actually only in the years [after]
+               <lb facs="#facs_97_tr_2_tl_3" n="N003"/>his death, he became generally acknowledged as an important man even for the English situation.
+               <lb facs="#facs_97_tr_2_tl_4" n="N004"/>Now this was the resistance of conformity against analysis of the roots of this conformity.
+               <lb facs="#facs_97_tr_2_tl_5" n="N005"/>And you can find this always, that very self-certain group[s] are extremelv Jensitive if they are
+               <lb facs="#facs_97_tr_2_tl_6" n="N006"/>sociologically kanalyzed, because they feel that this undercuts the unbroken self-identity of their
+               <lb facs="#facs_97_tr_2_tl_7" n="N007"/>existence, it undercuts their natural conformity. Of course such resistance ALREADY transforms
+               <lb facs="#facs_97_tr_2_tl_8" n="N008"/>conformity into conformism, and the situation in England is very much in the balance now.
+               <lb facs="#facs_97_tr_2_tl_9" n="N009"/>Now in this country, the European individualism never was very strong. The so-called
+               <lb facs="#facs_97_tr_2_tl_10" n="N010"/> subscribe "rugged individualism" is an economic factum [?] and has very little to do with
+               <lb facs="#facs_97_tr_2_tl_11" n="N011"/>ideology, with ideas generally, with the idea of the individual as developed in the romantic and
+            </ab>
+            <ab facs="#facs_97_tr_1">
+               <lb facs="#facs_97_tr_1_tl_1" n="N001"/>post-romantic tradition, and Bohemian tradition, which we can call post-romantic tradition in
+               <lb facs="#facs_97_tr_1_tl_2" n="N002"/>Europe. very little of this existed genuinely in this country. The economic individualism did not
+               <lb facs="#facs_97_tr_1_tl_3" n="N003"/>express itself in intellectual individualism.. The most rugged individualist became the most pious
+               <lb facs="#facs_97_tr_1_tl_4" n="N004"/>members of some church and gave millions and billions of money either to these churches or other
+               <lb facs="#facs_97_tr_1_tl_5" n="N005"/>ne sont pas
+               <lb facs="#facs_97_tr_1_tl_6" n="N006"/>dʼune manière
+               <lb facs="#facs_97_tr_1_tl_7" n="N007"/>dʼaprès-dessus que je nʼai pas
+               <lb facs="#facs_97_tr_1_tl_8" n="N008"/>dʼune manière
+               <lb facs="#facs_97_tr_1_tl_9" n="N009"/>dʼune manière
+               <lb facs="#facs_97_tr_1_tl_10" n="N010"/>de ses
+               <lb facs="#facs_97_tr_1_tl_11" n="N011"/>de votre beau moi que je lʼai eu
+               <lb facs="#facs_97_tr_1_tl_12" n="N012"/>dʼavoir lʼautre vie de ses
+               <lb facs="#facs_97_tr_1_tl_13" n="N013"/>in me.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

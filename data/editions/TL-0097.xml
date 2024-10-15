@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p097</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p097</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_97">
+         <graphic url="TL-0097.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WQOSLWUGVOKAPPDZFACNLLCK&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="259,265 259,2950 2269,2950 2269,265" rendition="TextRegion" xml:id="facs_97_tr_3">
+            <zone points="1112,314 1130,316 1137,324 1160,324 1167,316 1177,326 1202,324 1205,271 1185,271 1175,261 1172,264 1162,261 1152,271 1114,269" rendition="Line" xml:id="facs_97_tr_3_tl_1"/>
+            <zone points="264,499 778,537 1278,530 1335,472 2071,494 2071,419 264,444" rendition="Line" xml:id="facs_97_tr_3_tl_2"/>
+            <zone points="254,572 2101,565 2101,512 1935,502 254,542" rendition="Line" xml:id="facs_97_tr_3_tl_3"/>
+            <zone points="256,663 2111,653 2111,597 256,610" rendition="Line" xml:id="facs_97_tr_3_tl_4"/>
+            <zone points="261,756 1147,773 1192,730 1411,730 1847,773 1898,725 2061,730 2061,675 261,713" rendition="Line" xml:id="facs_97_tr_3_tl_5"/>
+            <zone points="261,856 2061,818 2061,771 2008,758 261,796" rendition="Line" xml:id="facs_97_tr_3_tl_6"/>
+            <zone points="256,914 2076,901 2078,851 1842,836 259,868" rendition="Line" xml:id="facs_97_tr_3_tl_7"/>
+            <zone points="261,1004 2179,991 2179,941 2096,921 261,951" rendition="Line" xml:id="facs_97_tr_3_tl_8"/>
+            <zone points="254,1077 1521,1067 1842,1112 2088,1077 2088,1017 1983,1014 254,1037" rendition="Line" xml:id="facs_97_tr_3_tl_9"/>
+            <zone points="264,1172 2048,1157 2131,1150 2134,1099 266,1122" rendition="Line" xml:id="facs_97_tr_3_tl_10"/>
+            <zone points="261,1260 359,1300 899,1288 974,1237 2146,1245 2146,1190 1988,1177 261,1205" rendition="Line" xml:id="facs_97_tr_3_tl_11"/>
+            <zone points="254,1335 2159,1318 2159,1263 254,1290" rendition="Line" xml:id="facs_97_tr_3_tl_12"/>
+            <zone points="251,1431 2236,1406 2236,1353 1895,1343 251,1378" rendition="Line" xml:id="facs_97_tr_3_tl_13"/>
+            <zone points="248,1503 2262,1483 2234,1431 248,1453" rendition="Line" xml:id="facs_97_tr_3_tl_14"/>
+            <zone points="251,1589 2139,1574 2139,1524 2063,1514 251,1549" rendition="Line" xml:id="facs_97_tr_3_tl_15"/>
+            <zone points="256,1669 2176,1662 2176,1611 1624,1629 1478,1586 725,1642 256,1626" rendition="Line" xml:id="facs_97_tr_3_tl_16"/>
+            <zone points="254,1757 2154,1760 2154,1694 2058,1682 254,1709" rendition="Line" xml:id="facs_97_tr_3_tl_17"/>
+            <zone points="261,1845 986,1882 1468,1822 2186,1830 2189,1780 264,1792" rendition="Line" xml:id="facs_97_tr_3_tl_18"/>
+            <zone points="254,1930 2139,1918 2139,1865 1955,1850 254,1882" rendition="Line" xml:id="facs_97_tr_3_tl_19"/>
+            <zone points="248,2005 2028,1998 2028,1945 1860,1938 248,1963" rendition="Line" xml:id="facs_97_tr_3_tl_20"/>
+            <zone points="251,2093 2144,2078 2144,2026 1945,2013 1903,2046 251,2043" rendition="Line" xml:id="facs_97_tr_3_tl_21"/>
+            <zone points="248,2171 2166,2151 2141,2101 1990,2098 248,2131" rendition="Line" xml:id="facs_97_tr_3_tl_22"/>
+            <zone points="248,2254 2221,2246 2221,2196 2159,2181 248,2226" rendition="Line" xml:id="facs_97_tr_3_tl_23"/>
+            <zone points="248,2339 334,2359 542,2334 572,2357 873,2347 873,2292 248,2309" rendition="Line" xml:id="facs_97_tr_3_tl_24"/>
+            <zone points="547,2420 2068,2422 2191,2412 2194,2344 1022,2390 547,2359" rendition="Line" xml:id="facs_97_tr_3_tl_25" subtype="paragraph"/>
+            <zone points="248,2513 873,2513 861,2452 776,2475 748,2457 520,2460 499,2480 479,2462 449,2480 404,2460 384,2480 366,2460 251,2460" rendition="Line" xml:id="facs_97_tr_3_tl_26"/>
+            <zone points="537,2625 1270,2625 1328,2583 1614,2578 2098,2618 2098,2507 2046,2500 1770,2505 1722,2553 537,2533" rendition="Line" xml:id="facs_97_tr_3_tl_27" subtype="paragraph"/>
+            <zone points="256,2726 876,2723 946,2671 2249,2668 2249,2613 949,2648 366,2610 256,2643" rendition="Line" xml:id="facs_97_tr_3_tl_28"/>
+            <zone points="251,2779 2214,2748 2169,2688 2071,2721 251,2728" rendition="Line" xml:id="facs_97_tr_3_tl_29"/>
+            <zone points="246,2851 2106,2841 2063,2774 246,2809" rendition="Line" xml:id="facs_97_tr_3_tl_30"/>
+            <zone points="251,2937 321,2937 334,2949 512,2939 512,2884 487,2884 474,2897 449,2884 359,2897 339,2884 324,2899 276,2884 251,2897" rendition="Line" xml:id="facs_97_tr_3_tl_31"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0097.jpg" n="part1_p097.jpg" xml:id="img_0097" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p097.jpg"/>
+            
+            <ab facs="#facs_97_tr_3">
+               <lb facs="#facs_97_tr_3_tl_1" n="N001"/>[94]
+               <lb facs="#facs_97_tr_3_tl_2" n="N002"/><advertisement>because advertisement, ALSO, has two functions. In the one sense it is a necessary
+               <lb break="no" facs="#facs_97_tr_3_tl_3" n="N003"/>function, namely announcing that there are products which can be used for the satis-
+               <lb break="no" facs="#facs_97_tr_3_tl_4" n="N004"/>faction of needs, and that is the legitimate function of advertisement, which is always
+               <lb break="no" facs="#facs_97_tr_3_tl_5" n="N005"/>going on. And there is the other function, what one calls ''high-pressuring,'' on the
+               <lb break="no" facs="#facs_97_tr_3_tl_6" n="N006"/>evoking of needs. And that is what is going on to such an extent that today the
+               <lb break="no" facs="#facs_97_tr_3_tl_7" n="N007"/>situation becomes more and more so, that that which CAN BE REACHED with the
+               <lb break="no" facs="#facs_97_tr_3_tl_8" n="N008"/>help of advertisement, and with the help of the tools to which the advertisement points,
+               <lb break="no" facs="#facs_97_tr_3_tl_9" n="N009"/>is spoiled by that by which it can be reached. Now that is a paradoxical statement
+               <lb break="no" facs="#facs_97_tr_3_tl_10" n="N010"/>which will become a very important factor in the life at least of your generation--it is
+               <lb break="no" facs="#facs_97_tr_3_tl_11" n="N011"/>already partly in my generation. You can go easily to every place in the world today,
+               <lb break="no" facs="#facs_97_tr_3_tl_12" n="N012"/>but when you GO, it is not the place to which you want to go, because the means of
+               <lb break="no" facs="#facs_97_tr_3_tl_13" n="N013"/>going there have spoiled it, have ruined it, and not only in terms of advertisement but also
+               <lb break="no" facs="#facs_97_tr_3_tl_14" n="N014"/>in terms of those machines which make it possible that we reach it. It is almost impossible
+               <lb break="no" facs="#facs_97_tr_3_tl_15" n="N015"/>today, in Europe--and I warn you if you plan to travel in Europe--to find ANY place
+               <lb break="no" facs="#facs_97_tr_3_tl_16" n="N016"/>where one can enjoy quietly the beauty of old European cities or lakes or mountains or
+               <lb break="no" facs="#facs_97_tr_3_tl_17" n="N017"/>whatever you want, because the means of transportation to these places ruin the places.
+               <lb break="no" facs="#facs_97_tr_3_tl_18" n="N018"/>This is a very profound dialectic of means and ends--the fact that advertisement ruins the
+               <lb break="no" facs="#facs_97_tr_3_tl_19" n="N019"/>American landscape is obvious to everybody who goes through streets and roads where,
+               <lb break="no" facs="#facs_97_tr_3_tl_20" n="N020"/>by chance or great luck or divine Providence, they are spared from advertisement.
+               <lb break="no" facs="#facs_97_tr_3_tl_21" n="N021"/>If this is NOT the case, it makes no sense to drive there any more because the means
+               <lb break="no" facs="#facs_97_tr_3_tl_22" n="N022"/>for driving--for instance, [the] car--are announced every ten meters, and ruin the land-
+               <lb break="no" facs="#facs_97_tr_3_tl_23" n="N023"/>scape. And so on and so on--your imagination is big enough to continue this lamentation
+               <lb break="no" facs="#facs_97_tr_3_tl_24" n="N024"/>of Jeremiah! <hi style="font-style: italic;">[much laughter]</hi></advertisement>
+               <lb facs="#facs_97_tr_3_tl_25" n="N025"/>Now we have here a problem, one of the many problems which I want to
+               <lb facs="#facs_97_tr_3_tl_26" n="N026"/>bring to a deeper level now:
+               <lb facs="#facs_97_tr_3_tl_27" n="N027"/>POSSIBILITY IS TEMPTATION, in all realms of life. Where there is
+               <lb facs="#facs_97_tr_3_tl_28" n="N028"/>possibility, there is temptation. And TEMPTATION, in the technical realm, is based on the
+               <lb facs="#facs_97_tr_3_tl_29" n="N029"/>possibility of producing innumerable things. And this can be done actually, only if, at the
+               <lb facs="#facs_97_tr_3_tl_30" n="N030"/>same time, needs are created so that the production of these things can economically
+               <lb facs="#facs_97_tr_3_tl_31" n="N031"/>be justified.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

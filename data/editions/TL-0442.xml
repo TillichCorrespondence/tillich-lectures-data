@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part3_p050</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p050</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_50">
+         <graphic url="TL-0442.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NJGKAJYHNQLXHPJEIMOIJPUR&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="292,353 2289,353 2289,2535 292,2535" rendition="TextRegion" xml:id="facs_50_tr_1">
+            <zone points="1139,406 1152,406 1177,421 1239,421 1249,411 1274,411 1274,371 1259,371 1254,366 1242,371 1222,351 1209,346 1204,349 1187,334 1157,369 1139,369" rendition="Line" xml:id="facs_50_tr_1_tl_1"/>
+            <zone points="301,569 2230,567 2175,487 301,497" rendition="Line" xml:id="facs_50_tr_1_tl_2"/>
+            <zone points="299,715 1731,733 1806,718 1806,670 299,675" rendition="Line" xml:id="facs_50_tr_1_tl_3"/>
+            <zone points="549,866 2132,878 2283,868 2283,815 549,818" rendition="Line" xml:id="facs_50_tr_1_tl_4"/>
+            <zone points="291,1024 2168,1021 2190,966 291,996" rendition="Line" xml:id="facs_50_tr_1_tl_5"/>
+            <zone points="1066,1169 2235,1174 2235,1119 1182,1111 1066,1141" rendition="Line" xml:id="facs_50_tr_1_tl_6"/>
+            <zone points="294,1172 401,1187 735,1177 790,1182 813,1204 855,1197 855,1121 544,1126 524,1146 504,1126 294,1129" rendition="Line" xml:id="facs_50_tr_1_tl_7"/>
+            <zone points="283,1320 715,1327 768,1380 2092,1327 2022,1254 283,1274" rendition="Line" xml:id="facs_50_tr_1_tl_8"/>
+            <zone points="294,1473 2168,1470 2168,1417 294,1422" rendition="Line" xml:id="facs_50_tr_1_tl_9"/>
+            <zone points="283,1618 2140,1623 2163,1568 283,1575" rendition="Line" xml:id="facs_50_tr_1_tl_10"/>
+            <zone points="291,1784 2097,1796 2158,1716 291,1729" rendition="Line" xml:id="facs_50_tr_1_tl_11"/>
+            <zone points="286,1934 2230,1924 2278,1867 286,1887" rendition="Line" xml:id="facs_50_tr_1_tl_12"/>
+            <zone points="283,2075 2090,2085 2253,2070 2253,2025 381,2002 283,2050" rendition="Line" xml:id="facs_50_tr_1_tl_13"/>
+            <zone points="283,2228 2150,2240 2205,2170 283,2183" rendition="Line" xml:id="facs_50_tr_1_tl_14"/>
+            <zone points="278,2381 2213,2373 2215,2308 281,2333" rendition="Line" xml:id="facs_50_tr_1_tl_15"/>
+            <zone points="283,2531 2170,2526 2137,2461 283,2476" rendition="Line" xml:id="facs_50_tr_1_tl_16"/>
+         </zone>
+         <zone points="62,2607 2298,2607 2298,3485 62,3485" rendition="TextRegion" xml:id="facs_50_tr_2">
+            <zone points="278,2674 2180,2682 2290,2669 2290,2617 278,2632" rendition="Line" xml:id="facs_50_tr_2_tl_1"/>
+            <zone points="286,2762 2203,2767 2195,2719 2012,2704 286,2725" rendition="Line" xml:id="facs_50_tr_2_tl_2"/>
+            <zone points="356,2820 2032,2830 2235,2820 2235,2770 356,2775" rendition="Line" xml:id="facs_50_tr_2_tl_3"/>
+            <zone points="351,2880 2230,2885 2230,2822 351,2852" rendition="Line" xml:id="facs_50_tr_2_tl_4"/>
+            <zone points="354,2945 424,2958 467,2940 554,2958 569,2943 783,2940 871,2958 871,2895 740,2908 728,2895 595,2893 557,2910 469,2895 452,2913 354,2913" rendition="Line" xml:id="facs_50_tr_2_tl_5"/>
+            <zone points="48,3457 65,3455 73,3462 105,3462 110,3467 128,3457 146,3457 146,3382 108,3384 93,3377 48,3377" rendition="Line" xml:id="facs_50_tr_2_tl_6"/>
+            <zone points="517,3477 529,3477 544,3467 562,3485 597,3485 597,3342 517,3344" rendition="Line" xml:id="facs_50_tr_2_tl_7"/>
+            <zone points="55,3485 75,3485 78,3482 80,3485 95,3485 98,3482 115,3485 118,3482 120,3487 140,3487 143,3457 58,3455" rendition="Line" xml:id="facs_50_tr_2_tl_8"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0442.jpg" n="part3_p050.jpg" xml:id="img_0050" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p050.jpg"/>
+            
+            <ab facs="#facs_50_tr_1">
+               <lb facs="#facs_50_tr_1_tl_1" n="N001"/> spol.
+               <lb facs="#facs_50_tr_1_tl_2" n="N002"/>is a direct intreference of God, i.e., a fundamental substance which is the point of unity in all this.
+               <lb facs="#facs_50_tr_1_tl_3" n="N003"/>When we today speak of atomizing individualism, we usually mean this type.
+               <lb facs="#facs_50_tr_1_tl_4" n="N004"/>Then there is a third type of individualism—I called it the Renaissance type, but you can
+               <lb facs="#facs_50_tr_1_tl_5" n="N005"/>also call it the romantic type, but it has negative connotations, and "Renaissance" does not have
+               <lb facs="#facs_50_tr_1_tl_6" n="N006"/>theologians! This Renaisaance type of individualism has a
+               <lb facs="#facs_50_tr_1_tl_7" n="N007"/>too much—except for some
+               <lb facs="#facs_50_tr_1_tl_8" n="N008"/>basis in the philosophy of Nicholas Cusanus, namely the idea that in every individual being,
+               <lb facs="#facs_50_tr_1_tl_9" n="N009"/>especially in man, the whole universe is mirrored. For this reason, man is called the microcosm
+               <lb facs="#facs_50_tr_1_tl_10" n="N010"/>in contrast to the macrocosm, but representing the matrocosm and being at the same time a
+               <lb facs="#facs_50_tr_1_tl_11" n="N011"/>part of it. And since the macrocosm is the self-manifestation of the Divine, is the Divine
+               <lb facs="#facs_50_tr_1_tl_12" n="N012"/>going over into manifestness, according to the Renaissance man, every individual becomes the morror
+               <lb facs="#facs_50_tr_1_tl_13" n="N013"/>of the divine ground of being himself. As such, the individual represents something unique, but not
+               <lb facs="#facs_50_tr_1_tl_14" n="N014"/>étnique as before God, in CHRISTIAN thinking, namely an object of the love of God, but unique
+               <lb facs="#facs_50_tr_1_tl_15" n="N015"/>in the kultural sense, the Cepresentative of unique creative possibility. This is the DIFTERANCE
+               <lb facs="#facs_50_tr_1_tl_16" n="N016"/>from the ration) concept also, because it is not the development of CONSCIOUSNESS which is
+            </ab>
+            <ab facs="#facs_50_tr_2">
+               <lb facs="#facs_50_tr_2_tl_1" n="N001"/>decjaive here, but it is a Wnalitative character, qualitive elements, which are potentially in every man¬
+               <lb facs="#facs_50_tr_2_tl_2" n="N002"/>*Cf. Karl-Hermann Kandler, "Die Einheit von Endlichem und Unendlichem. Zum Verhältnis von
+               <lb facs="#facs_50_tr_2_tl_3" n="N003"/>Paul Tillich und Nikolaus von Kues.” KuD 25, 1974, 106-122. [Noted in his article, “Nikolaus
+               <lb facs="#facs_50_tr_2_tl_4" n="N004"/>von Kues als Theologe." Theologische Literaturzeitung, 115, No. 7, July 1890, cols. 481-490,
+               <lb facs="#facs_50_tr_2_tl_5" n="N005"/>esp. 488, 49on.68.— PHJ
+               <lb facs="#facs_50_tr_2_tl_6" n="N006"/>zyn
+               <lb facs="#facs_50_tr_2_tl_7" n="N007"/>de mon ami
+               <lb facs="#facs_50_tr_2_tl_8" n="N008"/>dʼadresse à
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

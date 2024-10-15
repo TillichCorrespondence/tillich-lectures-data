@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p170</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p170</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_170">
+         <graphic url="TL-0170.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HOFYSTBYYAJYICQGANTKUVGX&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="44,262 44,3491 2343,3491 2343,262" rendition="TextRegion" xml:id="facs_170_tr_1">
+            <zone points="1206,339 1237,342 1265,370 1278,370 1298,349 1313,342 1331,342 1331,273 1306,275 1293,288 1280,291 1270,291 1257,278 1242,291 1206,291" rendition="Line" xml:id="facs_170_tr_1_tl_1"/>
+            <zone points="362,472 1489,495 1568,548 2244,536 2244,469 2104,459 362,426" rendition="Line" xml:id="facs_170_tr_1_tl_2"/>
+            <zone points="469,632 1520,650 1520,597 469,576" rendition="Line" xml:id="facs_170_tr_1_tl_3"/>
+            <zone points="344,765 2262,821 2259,742 2127,775 2063,734 2009,770 1466,729 1321,760 1285,724 1255,757 1028,711 778,745 342,694" rendition="Line" xml:id="facs_170_tr_1_tl_4"/>
+            <zone points="339,918 701,933 747,979 1104,943 1176,997 1550,1000 2252,972 2252,903 1642,921 1589,887 1086,908 337,862" rendition="Line" xml:id="facs_170_tr_1_tl_5"/>
+            <zone points="332,1068 2239,1122 2147,1058 706,1051 571,992 332,1040" rendition="Line" xml:id="facs_170_tr_1_tl_6"/>
+            <zone points="332,1219 847,1265 2014,1267 2109,1316 2275,1313 2272,1209 2234,1206 1153,1211 1109,1178 1079,1211 1020,1176 813,1204 382,1158 332,1191" rendition="Line" xml:id="facs_170_tr_1_tl_7"/>
+            <zone points="332,1405 385,1443 518,1410 829,1443 859,1410 1543,1446 1765,1410 1828,1471 2300,1454 2298,1359 332,1341" rendition="Line" xml:id="facs_170_tr_1_tl_8"/>
+            <zone points="319,1522 332,1522 342,1530 362,1535 382,1530 428,1535 446,1530 446,1476 423,1479 380,1471 319,1474" rendition="Line" xml:id="facs_170_tr_1_tl_9"/>
+            <zone points="523,1657 1112,1665 1364,1734 1563,1668 1619,1701 1660,1665 2285,1680 2282,1581 1706,1601 1454,1476 1329,1471 1102,1586 520,1543" rendition="Line" xml:id="facs_170_tr_1_tl_10" subtype="paragraph"/>
+            <zone points="316,1747 2285,1805 2285,1762 2145,1731 316,1716" rendition="Line" xml:id="facs_170_tr_1_tl_11"/>
+            <zone points="316,1895 1956,1956 2333,1943 2333,1907 314,1861" rendition="Line" xml:id="facs_170_tr_1_tl_12"/>
+            <zone points="309,2050 1859,2083 1938,2137 2096,2150 2272,2145 2336,2101 2336,2063 2244,2035 309,1994" rendition="Line" xml:id="facs_170_tr_1_tl_13"/>
+            <zone points="298,2234 469,2277 926,2275 959,2241 1046,2277 1844,2277 1882,2244 2150,2254 2150,2188 296,2145" rendition="Line" xml:id="facs_170_tr_1_tl_14"/>
+            <zone points="306,2359 2218,2405 2216,2338 306,2300" rendition="Line" xml:id="facs_170_tr_1_tl_15"/>
+            <zone points="283,2496 2247,2596 2244,2489 283,2468" rendition="Line" xml:id="facs_170_tr_1_tl_16"/>
+            <zone points="293,2632 1818,2721 2045,2670 2275,2680 2275,2619 291,2601" rendition="Line" xml:id="facs_170_tr_1_tl_17"/>
+            <zone points="283,2780 2226,2828 2224,2769 2045,2762 283,2754" rendition="Line" xml:id="facs_170_tr_1_tl_18"/>
+            <zone points="280,2932 1826,2968 1887,3012 2073,3014 2076,2910 278,2904" rendition="Line" xml:id="facs_170_tr_1_tl_19"/>
+            <zone points="278,3111 334,3142 1232,3121 1280,3170 1606,3172 1742,3119 2320,3134 2318,3065 275,3052" rendition="Line" xml:id="facs_170_tr_1_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0170.jpg" n="part1_p170.jpg" xml:id="img_0170" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p170.jpg"/>
+            
+            <ab facs="#facs_170_tr_1">
+               <lb facs="#facs_170_tr_1_tl_1" n="N001"/>[167]
+               <lb facs="#facs_170_tr_1_tl_2" n="N002"/>QN: If Christianity is the message that <rs type="person">Jesus of Nazareth</rs> is the Christ, why would it not destroy
+               <lb facs="#facs_170_tr_1_tl_3" n="N003"/>Christianity if it could be proven there was no Jesus?
+               <lb facs="#facs_170_tr_1_tl_4" n="N004"/>PT: ... These two questions are difficult, but point to the same reality. lt is a little difficult that
+               <lb facs="#facs_170_tr_1_tl_5" n="N005"/>I have to go into theological problems which belong to the system of theology, in order to answer
+               <lb facs="#facs_170_tr_1_tl_6" n="N006"/>these questions in a lecture on religion and culture generally, but l will try to do my best because
+               <lb facs="#facs_170_tr_1_tl_7" n="N007"/>I have been asked these questions for twenty-two years without interruption <hi style="font-style: italic;">[laughter]</hi>, and never
+               <lb facs="#facs_170_tr_1_tl_8" n="N008"/>was able to answer them---but nobody else was able [to] either! <hi style="font-style: italic;">[laughter]</hi>, so we are all in the same
+               <lb facs="#facs_170_tr_1_tl_9" n="N009"/>boat.
+               <lb facs="#facs_170_tr_1_tl_10" n="N010"/>There are only two answers which are unambiguous. The one is that you accept what the
+               <lb facs="#facs_170_tr_1_tl_11" n="N011"/><rs type="keyword" ref="#Bible">Bible</rs> says---and that is that there is no problem except that there are some hidden problems to know
+               <lb facs="#facs_170_tr_1_tl_12" n="N012"/>what the <rs type="keyword" ref="#Bible">Bible</rs> really says <hi style="font-style: italic;">[laughter]</hi>, but these problems l will not take too seriously at this moment---
+               <lb facs="#facs_170_tr_1_tl_13" n="N013"/>there is certainly an assurance about innumerable facts about the life of Jesus. The other unambiguous
+               <lb facs="#facs_170_tr_1_tl_14" n="N014"/>answer is that <rs type="keyword" ref="#Faith">faith </rs>is a kind of belief, beliefs are always in the realm of probability, and if the
+               <lb facs="#facs_170_tr_1_tl_15" n="N015"/>existence of Jesus, or any other statement of religion, is a matter of very questionable belief, then
+               <lb facs="#facs_170_tr_1_tl_16" n="N016"/>faith also is questionable. Now these are two unambiguous answers; both, in my opinion, are either
+               <lb facs="#facs_170_tr_1_tl_17" n="N017"/>meaningless (the latter one, for instance) because then we would not have faith at all; we would have
+               <lb facs="#facs_170_tr_1_tl_18" n="N018"/>only belief. The other is dependent on the relationship of research to faith, and if you define faith
+               <lb facs="#facs_170_tr_1_tl_19" n="N019"/>as <ultimate_concern>being-ultimately-concerned</ultimate_concern>, then you must take <rs type="keyword" ref="#Historical_research">historical research</rs> seriously. So the two
+               <lb facs="#facs_170_tr_1_tl_20" n="N020"/>unambiguous answers are very simple answers and very wrong answers, as simple answers very often are.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

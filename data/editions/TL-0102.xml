@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p102</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p102</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_102">
+         <graphic url="TL-0102.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DISNJZXIGRXCMFQBBKNZUIRF&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="44,265 44,3477 2397,3477 2397,265" rendition="TextRegion" xml:id="facs_102_tr_1">
+            <zone points="1179,306 1205,308 1210,314 1228,311 1234,316 1244,314 1257,319 1265,311 1283,311 1283,254 1231,256 1226,251 1202,267 1179,267" rendition="Line" xml:id="facs_102_tr_1_tl_1"/>
+            <zone points="308,470 583,499 991,463 1129,499 1438,494 1485,457 2243,463 2243,408 2175,397 308,397" rendition="Line" xml:id="facs_102_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="301,601 1553,614 1618,659 2172,643 2169,562 298,565" rendition="Line" xml:id="facs_102_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="209,782 1273,808 1435,805 1474,766 1581,805 2224,774 2224,716 2159,711 369,727 282,687 209,721" rendition="Line" xml:id="facs_102_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="306,910 2172,949 2172,855 306,863" rendition="Line" xml:id="facs_102_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="301,1090 2224,1074 2224,1019 1837,1004 301,1012" rendition="Line" xml:id="facs_102_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="301,1142 2235,1140 2235,1087 301,1098" rendition="Line" xml:id="facs_102_tr_1_tl_7"/>
+            <zone points="308,1205 2245,1208 2245,1163 1830,1142 308,1163" rendition="Line" xml:id="facs_102_tr_1_tl_8"/>
+            <zone points="306,1276 2250,1276 2250,1228 2175,1215 306,1228" rendition="Line" xml:id="facs_102_tr_1_tl_9"/>
+            <zone points="311,1341 2295,1349 2295,1289 2248,1283 311,1294" rendition="Line" xml:id="facs_102_tr_1_tl_10"/>
+            <zone points="306,1411 2324,1427 2324,1364 2237,1351 306,1351" rendition="Line" xml:id="facs_102_tr_1_tl_11"/>
+            <zone points="301,1469 2209,1477 2209,1430 2107,1419 301,1430" rendition="Line" xml:id="facs_102_tr_1_tl_12"/>
+            <zone points="306,1532 1746,1542 1743,1485 303,1495" rendition="Line" xml:id="facs_102_tr_1_tl_13"/>
+            <zone points="536,1626 2182,1634 2182,1576 1976,1566 536,1560" rendition="Line" xml:id="facs_102_tr_1_tl_14" subtype="paragraph"/>
+            <zone points="306,1694 2358,1712 2358,1636 306,1647" rendition="Line" xml:id="facs_102_tr_1_tl_15"/>
+            <zone points="306,1754 2316,1767 2316,1707 2219,1704 306,1712" rendition="Line" xml:id="facs_102_tr_1_tl_16"/>
+            <zone points="583,1830 2196,1822 2196,1780 2070,1770 583,1772" rendition="Line" xml:id="facs_102_tr_1_tl_17"/>
+            <zone points="298,1885 541,1921 959,1879 2277,1892 2277,1840 2057,1827 298,1827" rendition="Line" xml:id="facs_102_tr_1_tl_19"/>
+            <zone points="295,1958 2253,1958 2253,1903 1879,1892 1811,1929 1456,1895 295,1926" rendition="Line" xml:id="facs_102_tr_1_tl_20"/>
+            <zone points="301,2026 2235,2028 2203,1971 1921,1984 1827,1947 1174,2000 933,1958 301,1971" rendition="Line" xml:id="facs_102_tr_1_tl_21"/>
+            <zone points="298,2088 2277,2094 2277,2047 1986,2031 298,2041" rendition="Line" xml:id="facs_102_tr_1_tl_22"/>
+            <zone points="295,2146 2305,2156 2305,2096 295,2117" rendition="Line" xml:id="facs_102_tr_1_tl_24"/>
+            <zone points="295,2206 2279,2211 2232,2151 295,2167" rendition="Line" xml:id="facs_102_tr_1_tl_25"/>
+            <zone points="295,2264 2274,2279 2250,2216 295,2227" rendition="Line" xml:id="facs_102_tr_1_tl_26"/>
+            <zone points="295,2326 2282,2329 2282,2287 2057,2269 295,2282" rendition="Line" xml:id="facs_102_tr_1_tl_27"/>
+            <zone points="523,2386 2292,2386 2292,2331 2232,2329 523,2342" rendition="Line" xml:id="facs_102_tr_1_tl_28" subtype="paragraph"/>
+            <zone points="298,2452 2376,2444 2373,2399 2300,2379 295,2397" rendition="Line" xml:id="facs_102_tr_1_tl_29"/>
+            <zone points="295,2499 2305,2501 2305,2452 2088,2446 295,2452" rendition="Line" xml:id="facs_102_tr_1_tl_30"/>
+            <zone points="295,2564 2253,2575 2224,2504 295,2504" rendition="Line" xml:id="facs_102_tr_1_tl_31"/>
+            <zone points="293,2627 2394,2627 2360,2561 2007,2548 1900,2580 293,2567" rendition="Line" xml:id="facs_102_tr_1_tl_32"/>
+            <zone points="290,2674 2243,2676 2243,2632 2185,2627 290,2627" rendition="Line" xml:id="facs_102_tr_1_tl_33"/>
+            <zone points="290,2739 2250,2731 2250,2692 2172,2676 290,2690" rendition="Line" xml:id="facs_102_tr_1_tl_34"/>
+            <zone points="290,2794 2188,2820 2164,2739 290,2755" rendition="Line" xml:id="facs_102_tr_1_tl_35"/>
+            <zone points="439,2852 481,2878 1234,2867 1234,2807 1147,2797 904,2815 507,2794 439,2815" rendition="Line" xml:id="facs_102_tr_1_tl_36"/>
+            <zone points="293,2935 389,2967 2049,2956 2049,2901 293,2906" rendition="Line" xml:id="facs_102_tr_1_tl_38" subtype="footnote"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0102.jpg" n="part1_p102.jpg" xml:id="img_0102" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p102.jpg"/>
+            
+            <ab facs="#facs_102_tr_1">
+               <lb facs="#facs_102_tr_1_tl_1" n="N001"/>[99]
+               <lb facs="#facs_102_tr_1_tl_2" n="N002"/>is the object of a LIMITED desire. It EXCLUDES others. And the same thing is with the world of
+               <lb facs="#facs_102_tr_1_tl_3" n="N003"/>objects: something is EXCLUDED, if you have something else. Of course there is a drive in us,
+               <lb facs="#facs_102_tr_1_tl_4" n="N004"/>in ALL of us, to draw the whole of reality into ourselves. <_the>And the machine is perhaps the highest,
+               <lb break="no" facs="#facs_102_tr_1_tl_5" n="N005"/>and in this sense in a new way the most demonic, symbol for this insatiable desire to go beyond
+               <lb break="no" facs="#facs_102_tr_1_tl_6" n="N006"/>anything given to the new which is given. Now in almost a caricature, this is the case in the selling
+               <lb break="no" facs="#facs_102_tr_1_tl_7" n="N007"/>and buying attitudes of our present trade activities, where everything which is one or two years old
+               <lb break="no" facs="#facs_102_tr_1_tl_8" n="N008"/>of usage is thrown away and replaced by something new, and the main attraction of something new
+               <lb break="no" facs="#facs_102_tr_1_tl_9" n="N009"/>is that it has a little bit more gadgets, or a little bit different, maybe essentially even less work, but
+               <lb break="no" facs="#facs_102_tr_1_tl_10" n="N010"/>there is something new in it, and so it is better than what was before. This kind of drive is the symbol
+               <lb break="no" facs="#facs_102_tr_1_tl_11" n="N011"/>for what the old theology called ''concupiscence,'' endless desire. The desire in itself is good, it belongs
+               <lb break="no" facs="#facs_102_tr_1_tl_12" n="N012"/>to human finitude--we all need the other one and the other thing. But the infinity of it: that is
+               <lb break="no" facs="#facs_102_tr_1_tl_13" n="N013"/>what the old theology condemned as concupiscence, the endlessness of it.
+               <lb break="no" facs="#facs_102_tr_1_tl_14" n="N014"/>If we therefore ask ourselves: how can we overcome this situation? (which certainly
+               <lb break="no" facs="#facs_102_tr_1_tl_15" n="N015"/>cannot be overcome absolutely in our situation of time and space--we cannot create a utopian situation),
+               <lb break="no" facs="#facs_102_tr_1_tl_16" n="N016"/>then the only answer I can give is one which has been given in a book by my friend Professor [Herbert]
+               <lb break="no" facs="#facs_102_tr_1_tl_17" n="N017"/>Marcuse, <hi style="font-style: italic;">Eros and Civilization</hi>, who is in Brandeis, a sociologist, and his answer, in this
+               <lb break="no" facs="#facs_102_tr_1_tl_19" n="N018"/>analysis, is EROS, in some way.* Now I don’t know whether the answer can be used in the whole of
+               <lb break="no" facs="#facs_102_tr_1_tl_20" n="N019"/>society as a real transformation of the forms of life as we live together today. There the problem of
+               <lb break="no" facs="#facs_102_tr_1_tl_21" n="N020"/>the interpretation of history, of utopia, etc., comes in. But the fundamental point of this answer is
+               <lb break="no" facs="#facs_102_tr_1_tl_22" n="N021"/>true, that the eros relationship between man and man, between man and object, has been lost. I first
+               <lb break="no" facs="#facs_102_tr_1_tl_24" n="N022"/>noticed that when I came to this country and saw people go into the nature. There are others, and it is
+               <lb break="no" facs="#facs_102_tr_1_tl_25" n="N023"/>never the final insight you have, if you observe something in this country--it is always something else
+               <lb break="no" facs="#facs_102_tr_1_tl_26" n="N024"/>also. But at least it was a partial impression I had--they go into the car, they run to the country, they
+               <lb break="no" facs="#facs_102_tr_1_tl_27" n="N025"/>stop for a look, take their N. Y. Times, read it, and go on! <hi style="font-style: italic;">[laughter]</hi> This is ''going out into nature.''
+               <lb break="no" facs="#facs_102_tr_1_tl_28" n="N026"/>Now what is lacking here? What is lacking is eros, because eros means commitment to that
+               <lb break="no" facs="#facs_102_tr_1_tl_29" n="N027"/>which you want to have, with which you want to fill your need. And then something miraculous happens:
+               <lb break="no" facs="#facs_102_tr_1_tl_30" n="N028"/>nature also commits itself to you, and comes to you, and this is a mutual relationship. But if you treat
+               <lb break="no" facs="#facs_102_tr_1_tl_31" n="N029"/>it as something at which you look in glimpses and then go on speedily, then it DOESN'T REVEAL
+               <lb break="no" facs="#facs_102_tr_1_tl_32" n="N030"/>ITSELF TO YOU. That is one example for the situation in which the possibilities ruin the eros relationship.
+               <lb break="no" facs="#facs_102_tr_1_tl_33" n="N031"/>And what l want, as my last word to this whole section on technology and religion, is [to say] that
+               <lb break="no" facs="#facs_102_tr_1_tl_34" n="N032"/>religion, on the basis of becoming ultimate concern, may HELP us perhaps to be concerned on
+               <lb break="no" facs="#facs_102_tr_1_tl_35" n="N033"/>this basis about the PRELIMINARY things in an ultimate depth, and the ultimate depth of ALL
+               <lb break="no" facs="#facs_102_tr_1_tl_36" n="N034"/>relations between finite realities is love.</_the>
+               <lb facs="#facs_102_tr_1_tl_38" n="N035"/>*PT, in aside to visitor in the audience (Jacob Taubes): ''I see that you have it with you!''
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

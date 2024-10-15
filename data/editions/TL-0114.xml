@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p114</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p114</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_114">
+         <graphic url="TL-0114.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ODASSSSFZWMBCYPKPRNYZAOL&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="336,250 336,3478 2367,3478 2367,250" rendition="TextRegion" xml:id="facs_114_tr_2">
+            <zone points="1158,307 1176,312 1188,309 1198,317 1265,317 1282,312 1282,238 1247,238 1233,230 1213,230 1190,250 1158,250" rendition="Line" xml:id="facs_114_tr_2_tl_1"/>
+            <zone points="384,450 609,460 626,478 661,460 827,478 968,463 968,394 943,391 874,396 844,426 817,403 770,426 715,391 567,389 431,391 384,421" rendition="Line" xml:id="facs_114_tr_2_tl_3" subtype="heading"/>
+            <zone points="389,611 1554,621 1554,559 634,579 389,549" rendition="Line" xml:id="facs_114_tr_2_tl_4"/>
+            <zone points="386,681 1982,700 1982,646 386,626" rendition="Line" xml:id="facs_114_tr_2_tl_5"/>
+            <zone points="381,829 510,844 522,834 532,844 634,842 634,790 532,780 522,787 512,777 488,790 468,770 450,770 431,790 416,775 398,790 381,790" rendition="Line" xml:id="facs_114_tr_2_tl_6" subtype="heading"/>
+            <zone points="621,913 2331,933 2329,866 2141,886 2074,819 1928,886 1698,884 1661,846 1609,886 1567,844 1438,881 1351,844 1228,879 619,842" rendition="Line" xml:id="facs_114_tr_2_tl_7" subtype="paragraph"/>
+            <zone points="381,1057 2210,1094 2210,1027 2173,1025 381,1007" rendition="Line" xml:id="facs_114_tr_2_tl_8"/>
+            <zone points="381,1208 2200,1240 2260,1228 2260,1176 379,1158" rendition="Line" xml:id="facs_114_tr_2_tl_9"/>
+            <zone points="374,1364 2351,1386 2351,1327 374,1307" rendition="Line" xml:id="facs_114_tr_2_tl_10"/>
+            <zone points="361,1500 2331,1557 2329,1483 1987,1468 1067,1490 562,1440 361,1475" rendition="Line" xml:id="facs_114_tr_2_tl_11"/>
+            <zone points="374,1695 1275,1732 1398,1681 2364,1693 2364,1634 374,1619" rendition="Line" xml:id="facs_114_tr_2_tl_12"/>
+            <zone points="361,1814 2279,1839 2279,1787 2230,1780 361,1792" rendition="Line" xml:id="facs_114_tr_2_tl_13"/>
+            <zone points="356,1965 2193,1987 2193,1935 517,1906 356,1943" rendition="Line" xml:id="facs_114_tr_2_tl_14"/>
+            <zone points="361,2116 1933,2141 1930,2084 1708,2067 361,2094" rendition="Line" xml:id="facs_114_tr_2_tl_15"/>
+            <zone points="562,2279 1052,2282 1129,2341 1361,2339 1443,2282 2304,2299 2304,2240 1381,2235 1336,2190 562,2247" rendition="Line" xml:id="facs_114_tr_2_tl_16" subtype="paragraph"/>
+            <zone points="359,2487 1208,2453 2265,2500 2265,2388 2148,2374 359,2393" rendition="Line" xml:id="facs_114_tr_2_tl_17"/>
+            <zone points="354,2574 2275,2579 2166,2524 354,2529" rendition="Line" xml:id="facs_114_tr_2_tl_18"/>
+            <zone points="351,2737 416,2787 765,2732 2225,2742 2225,2683 351,2671" rendition="Line" xml:id="facs_114_tr_2_tl_20"/>
+            <zone points="356,2869 2242,2883 2242,2836 2185,2824 2064,2856 1975,2822 356,2826" rendition="Line" xml:id="facs_114_tr_2_tl_21"/>
+            <zone points="354,3029 2166,3037 2166,2992 2091,2980 354,2980" rendition="Line" xml:id="facs_114_tr_2_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0114.jpg" n="part1_p114.jpg" xml:id="img_0114" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p114.jpg"/>
+            
+            <ab facs="#facs_114_tr_2">
+               <lb facs="#facs_114_tr_2_tl_1" n="N001"/>[111]
+               <lb facs="#facs_114_tr_2_tl_3" n="N002"/>LECTURE XII, Nov. 8, 1955
+               <lb facs="#facs_114_tr_2_tl_4" n="N003"/>QN: Please comment on the architecture of Memorial Hall.
+               <lb facs="#facs_114_tr_2_tl_5" n="N004"/>PT: No comment! <hi style="font-style: italic;">[Smiling-pause-sotto voce]</hi>: The worst would be too good!
+               <lb facs="#facs_114_tr_2_tl_6" n="N005"/>LECTURE:
+               <lb facs="#facs_114_tr_2_tl_7" n="N006"/>We have started the discussion on religion and that part of culture which we call science.
+               <lb facs="#facs_114_tr_2_tl_8" n="N007"/>Last time l gave you a description of the situation of the man in the 16th and 17th centuries,
+               <lb facs="#facs_114_tr_2_tl_9" n="N008"/>when the earth was out of its central position, and the consequences for this, for man's feeling of
+               <lb facs="#facs_114_tr_2_tl_10" n="N009"/>security and for the whole mythological framework within which the man of the Middle Ages moved,
+               <lb facs="#facs_114_tr_2_tl_11" n="N010"/>in a kind of divine-demonic safety. This shows the reason why a conflict arose between modern
+               <lb facs="#facs_114_tr_2_tl_12" n="N011"/>science, represented by Copernicus and Galileo, and the religious groups which felt responsible for the
+               <lb facs="#facs_114_tr_2_tl_13" n="N012"/>continuation of this system of safety, as it had developed during the Middle Ages. It was not the
+               <lb facs="#facs_114_tr_2_tl_14" n="N013"/>scientific method as such, but it was that element in the new sciences which concerned man's
+               <lb facs="#facs_114_tr_2_tl_15" n="N014"/>existence itself: the hidden religious element which brought about the conflict.
+               <lb facs="#facs_114_tr_2_tl_16" n="N015"/>And this is always the case. <rs type="keyword" ref="#Thesis">My thesis of course is that since religion is ultimate concern,
+               <lb break="no" facs="#facs_114_tr_2_tl_17" n="N016"/>and ultimate concern represents a special DIMENSION of reality, there can be no real conflict on
+               <lb break="no" facs="#facs_114_tr_2_tl_18" n="N017"/>the level of scientific statements as such. But there are very few scientific statements AS SUCH--
+               <lb break="no" facs="#facs_114_tr_2_tl_20" n="N018"/>they are usually embedded into a matrix of philosophical and religious presuppositions, and the
+               <lb break="no" facs="#facs_114_tr_2_tl_21" n="N019"/>conflict usually arises in the realm of this matrix, in the realm of these presuppositions.</rs> My first
+               <lb facs="#facs_114_tr_2_tl_22" n="N020"/>example was the tremendous shaking of the foundations of the medieval man, when modern
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

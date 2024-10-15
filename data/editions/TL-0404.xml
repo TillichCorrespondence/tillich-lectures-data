@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part3_p012</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p012</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_12">
+         <graphic url="TL-0404.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UMIUBTXLYELGTOUXOAKCYLVA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="62,75 2251,75 2251,1031 62,1031" rendition="TextRegion" xml:id="facs_12_tr_1">
+            <zone points="51,140 70,147 75,145 97,145 97,147 101,147 121,101 111,97 99,101 89,99 87,101 82,99 77,101 68,97" rendition="Line" xml:id="facs_12_tr_1_tl_1"/>
+            <zone points="48,164 367,164 367,43 259,41 172,126 135,114 114,135 48,133" rendition="Line" xml:id="facs_12_tr_1_tl_2"/>
+            <zone points="1174,408 1186,408 1206,420 1225,423 1281,423 1285,418 1298,418 1300,346 1237,346 1211,370 1177,370" rendition="Line" xml:id="facs_12_tr_1_tl_3"/>
+            <zone points="307,609 510,677 631,575 1534,599 2112,573 2112,529 536,532 423,476 307,541" rendition="Line" xml:id="facs_12_tr_1_tl_4"/>
+            <zone points="309,720 2090,735 2090,677 1880,662 309,689" rendition="Line" xml:id="facs_12_tr_1_tl_5"/>
+            <zone points="307,867 1993,884 2206,877 2206,819 307,841" rendition="Line" xml:id="facs_12_tr_1_tl_6"/>
+            <zone points="307,1027 2245,1032 2245,976 2090,966 307,976" rendition="Line" xml:id="facs_12_tr_1_tl_7"/>
+         </zone>
+         <zone points="307,1188 2227,1188 2227,2013 307,2013" rendition="TextRegion" xml:id="facs_12_tr_3">
+            <zone points="302,1244 1474,1240 1708,1298 2221,1252 2221,1184 302,1215" rendition="Line" xml:id="facs_12_tr_3_tl_1"/>
+            <zone points="300,1474 556,1394 619,1445 2170,1401 2170,1336 495,1358 300,1259" rendition="Line" xml:id="facs_12_tr_3_tl_2"/>
+            <zone points="300,1546 814,1558 838,1542 875,1556 904,1549 906,1493 785,1508 556,1508 539,1493 478,1525 433,1500 302,1503" rendition="Line" xml:id="facs_12_tr_3_tl_3"/>
+            <zone points="297,1701 2194,1701 1964,1638 778,1670 633,1571 544,1643 297,1638" rendition="Line" xml:id="facs_12_tr_3_tl_4"/>
+            <zone points="715,1822 735,1829 807,1822 855,1829 889,1819 918,1824 918,1774 785,1783 749,1774 735,1788 715,1788" rendition="Line" xml:id="facs_12_tr_3_tl_5"/>
+            <zone points="894,1853 2056,1868 2216,1853 2216,1805 894,1822" rendition="Line" xml:id="facs_12_tr_3_tl_6"/>
+            <zone points="295,1853 404,1868 643,1853 720,1861 720,1810 295,1812" rendition="Line" xml:id="facs_12_tr_3_tl_7"/>
+            <zone points="295,2001 2080,2015 2105,1960 295,1976" rendition="Line" xml:id="facs_12_tr_3_tl_8"/>
+         </zone>
+         <zone points="298,2093 2182,2093 2182,3222 298,3222" rendition="TextRegion" xml:id="facs_12_tr_2">
+            <zone points="297,2153 2073,2158 2073,2105 1839,2095 297,2109" rendition="Line" xml:id="facs_12_tr_2_tl_1"/>
+            <zone points="288,2300 2134,2308 2134,2252 288,2257" rendition="Line" xml:id="facs_12_tr_2_tl_2"/>
+            <zone points="297,2469 2097,2491 2097,2402 1967,2395 297,2414" rendition="Line" xml:id="facs_12_tr_2_tl_3"/>
+            <zone points="285,2610 590,2607 703,2682 2134,2626 2134,2549 285,2564" rendition="Line" xml:id="facs_12_tr_2_tl_4"/>
+            <zone points="283,2682 295,2684 307,2694 333,2687 350,2692 387,2668 401,2670 413,2614 382,2610 343,2614 336,2610 314,2624 297,2622" rendition="Line" xml:id="facs_12_tr_2_tl_5"/>
+            <zone points="285,2820 568,2817 609,2786 892,2784 892,2718 865,2706 285,2711" rendition="Line" xml:id="facs_12_tr_2_tl_6"/>
+            <zone points="285,2907 2068,2912 2155,2909 2155,2861 285,2873" rendition="Line" xml:id="facs_12_tr_2_tl_7"/>
+            <zone points="317,2979 365,2996 399,2991 413,2999 430,2991 454,3006 524,2989 585,2996 585,2938 536,2950 512,2950 493,2933 478,2948 449,2950 404,2950 375,2936 365,2945 317,2945" rendition="Line" xml:id="facs_12_tr_2_tl_8"/>
+            <zone points="290,3069 1964,3069 2177,3061 2177,3008 290,3015" rendition="Line" xml:id="facs_12_tr_2_tl_9"/>
+            <zone points="285,3216 1914,3221 2119,3211 2119,3158 285,3163" rendition="Line" xml:id="facs_12_tr_2_tl_10"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0404.jpg" n="part3_p012.jpg" xml:id="img_0012" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p012.jpg"/>
+            
+            <ab facs="#facs_12_tr_1">
+               <lb facs="#facs_12_tr_1_tl_1" n="N001"/>peuil
+               <lb facs="#facs_12_tr_1_tl_2" n="N002"/>cʼest lʼétat de ses
+               <lb facs="#facs_12_tr_1_tl_3" n="N003"/>-399.
+               <lb facs="#facs_12_tr_1_tl_4" n="N004"/>mystical, but then you must have a lecture of two semesters only in order to remove all the
+               <lb facs="#facs_12_tr_1_tl_5" n="N005"/>nonsense from the connotation of the word "mystical." But what I mean here is just this,
+               <lb facs="#facs_12_tr_1_tl_6" n="N006"/>nothing else but this, nothing irrational, nothing AGAINST reason, but simply the experience of
+               <lb facs="#facs_12_tr_1_tl_7" n="N007"/>the holy which grasps you, anderslates you,, and makes you transcend the subject-object situation.
+            </ab>
+            <ab facs="#facs_12_tr_3">
+               <lb facs="#facs_12_tr_3_tl_1" n="N001"/>QN: What would be the difference between what you say—" encounter with the holy"—and what
+               <lb facs="#facs_12_tr_3_tl_2" n="N002"/>Buber says: “encounter with the eternal Thou”? What you say is the subject-object world and
+               <lb facs="#facs_12_tr_3_tl_3" n="N003"/>what he calls the world of "it"
+               <lb facs="#facs_12_tr_3_tl_4" n="N004"/>PT: What he calls "it," I call the realm of objects. Now his ego-Thou is different from my own
+               <lb facs="#facs_12_tr_3_tl_5" n="N005"/>encounter
+               <lb facs="#facs_12_tr_3_tl_6" n="N006"/>with the holy insofar as I believe the more adequate this ego-Thou
+               <lb facs="#facs_12_tr_3_tl_7" n="N007"/>interpretation of the
+               <lb facs="#facs_12_tr_3_tl_8" n="N008"/>encounter with God is, the more the separation of ego and thou is overcome by God acting
+            </ab>
+            <ab facs="#facs_12_tr_2">
+               <lb facs="#facs_12_tr_2_tl_1" n="N001"/>[N us, in His [his?] encounter with himself [Himself?], so that, so to speak, there are not
+               <lb facs="#facs_12_tr_2_tl_2" n="N002"/>two individuals separated by different bodies, or by space or anything like that, but there is a
+               <lb facs="#facs_12_tr_2_tl_3" n="N003"/>power grasping us which has both personal and supra-personal character. And if for "supra¬
+               <lb facs="#facs_12_tr_2_tl_4" n="N004"/>personal" you say "mystical," then this is another way of speaking about the mystic, but it is
+               <lb facs="#facs_12_tr_2_tl_5" n="N005"/>de
+               <lb facs="#facs_12_tr_2_tl_6" n="N006"/>by no means the anti-rational.
+               <lb facs="#facs_12_tr_2_tl_7" n="N007"/>QN: Do you think that ours is the first period of history in which such great objectivetion has
+               <lb facs="#facs_12_tr_2_tl_8" n="N008"/>taken place?
+               <lb facs="#facs_12_tr_2_tl_9" n="N009"/>PT: This is a very Bey justified question, whether our period is the first in which such objectivation
+               <lb facs="#facs_12_tr_2_tl_10" n="N010"/>has taken place. I have learned about the whole thing only by studying the history of Greek
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

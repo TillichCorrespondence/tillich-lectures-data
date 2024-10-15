@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p042</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p042</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_42">
+         <graphic url="TL-0326.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YMKQGGQNGKRRCMLSISLCVLWB&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="256,296 2304,296 2304,1881 256,1881" rendition="TextRegion" xml:id="facs_42_tr_2">
+            <zone points="1102,359 1122,353 1135,364 1184,369 1205,366 1228,348 1251,366 1295,366 1293,315 1269,315 1259,304 1231,304 1215,292 1189,292 1184,286 1171,286 1146,312 1099,312" rendition="Line" xml:id="facs_42_tr_2_tl_1"/>
+            <zone points="250,513 2185,508 2203,457 738,472 658,395 575,472 250,477" rendition="Line" xml:id="facs_42_tr_2_tl_2"/>
+            <zone points="261,673 1896,699 2082,691 2149,604 261,622" rendition="Line" xml:id="facs_42_tr_2_tl_3"/>
+            <zone points="250,823 348,869 1969,859 2234,805 2234,743 250,789" rendition="Line" xml:id="facs_42_tr_2_tl_4"/>
+            <zone points="261,1017 1948,993 2211,962 2211,906 263,939" rendition="Line" xml:id="facs_42_tr_2_tl_5"/>
+            <zone points="243,1117 1984,1117 2229,1102 2229,1045 243,1068" rendition="Line" xml:id="facs_42_tr_2_tl_6"/>
+            <zone points="250,1277 2237,1262 2301,1192 250,1220" rendition="Line" xml:id="facs_42_tr_2_tl_7"/>
+            <zone points="245,1422 1950,1422 2165,1404 2165,1352 245,1393" rendition="Line" xml:id="facs_42_tr_2_tl_8"/>
+            <zone points="248,1574 2159,1561 2185,1496 248,1545" rendition="Line" xml:id="facs_42_tr_2_tl_9"/>
+            <zone points="243,1721 2170,1718 2242,1651 245,1687" rendition="Line" xml:id="facs_42_tr_2_tl_10"/>
+            <zone points="245,1876 2141,1863 2183,1811 245,1847" rendition="Line" xml:id="facs_42_tr_2_tl_11"/>
+         </zone>
+         <zone points="47,1944 2325,1944 2325,3492 47,3492" rendition="TextRegion" xml:id="facs_42_tr_1">
+            <zone points="240,2023 2185,2023 2270,1971 240,1997" rendition="Line" xml:id="facs_42_tr_1_tl_1"/>
+            <zone points="243,2172 2038,2165 2201,2159 2203,2105 243,2149" rendition="Line" xml:id="facs_42_tr_1_tl_2"/>
+            <zone points="243,2330 273,2332 284,2343 343,2330 562,2332 565,2291 519,2294 498,2273 286,2273 266,2294 245,2294" rendition="Line" xml:id="facs_42_tr_1_tl_3"/>
+            <zone points="423,2397 2118,2399 2260,2340 423,2363" rendition="Line" xml:id="facs_42_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="248,2549 2281,2541 2322,2477 248,2523" rendition="Line" xml:id="facs_42_tr_1_tl_5"/>
+            <zone points="235,2699 1938,2704 2206,2686 2206,2621 898,2670 596,2621 235,2673" rendition="Line" xml:id="facs_42_tr_1_tl_6"/>
+            <zone points="245,2853 2180,2846 2260,2833 2263,2774 245,2802" rendition="Line" xml:id="facs_42_tr_1_tl_7"/>
+            <zone points="240,3008 372,3011 382,3021 415,3011 526,3011 544,3024 575,3016 575,2959 346,2964 333,2952 320,2964 279,2959 240,2985" rendition="Line" xml:id="facs_42_tr_1_tl_8"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0326.jpg" n="part2_p042.jpg" xml:id="img_0042" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p042.jpg"/>
+            
+            <ab facs="#facs_42_tr_2">
+               <lb facs="#facs_42_tr_2_tl_1" n="N001"/>[322a]
+               <lb facs="#facs_42_tr_2_tl_2" n="N002"/>to write about the merits of these singers or of this music? These are two different attitudes which
+               <lb facs="#facs_42_tr_2_tl_3" n="N003"/>are based on the fact of double symbolization. This expresses itself for instance in the fact that
+               <lb facs="#facs_42_tr_2_tl_4" n="N004"/>often works of music can be great works of music with a religious subject matter, but they cannot be
+               <lb facs="#facs_42_tr_2_tl_5" n="N005"/>used for the cult, for ritual activity, because of the predominance of the aesthetic side. And often,
+               <lb facs="#facs_42_tr_2_tl_6" n="N006"/>for instance in our hymns, there are hymns which are aesthetically poor---and I am sorry to say that
+               <lb facs="#facs_42_tr_2_tl_7" n="N007"/>probably four-fifths, or nine-tenths, of all [the hymns] in our hymnbooks are so! But nevertheless
+               <lb facs="#facs_42_tr_2_tl_8" n="N008"/>they can have religious connotations which are strong enough to overcome, if the congregation is
+               <lb facs="#facs_42_tr_2_tl_9" n="N009"/>singing, the limits of aesthetic perfection. Ideal, of course, is the unity, but this ideal presupposes
+               <lb facs="#facs_42_tr_2_tl_10" n="N010"/>the having-appeared of the Kingdom of God, or the Heavenly Jerusalem, in which there is no religion
+               <lb facs="#facs_42_tr_2_tl_11" n="N011"/>nor art as something special, but because God is everything in everything, all functions of man are
+            </ab>
+            <ab facs="#facs_42_tr_1">
+               <lb facs="#facs_42_tr_1_tl_1" n="N001"/>filled with His presence! On earth, you are in a dialectical situation whenever you encounter religious
+               <lb facs="#facs_42_tr_1_tl_2" n="N002"/>art; you have these two sides, these two sets of symbols, and you have the phenomenon of double
+               <lb facs="#facs_42_tr_1_tl_3" n="N003"/>symbolization.
+               <lb facs="#facs_42_tr_1_tl_4" n="N004"/>I would say the same about visual arts---and on this basis my showing of pictures will go on---
+               <lb facs="#facs_42_tr_1_tl_5" n="N005"/>namely there are religious contents, subject matters, taken from the traditional symbols---of Christianity,
+               <lb facs="#facs_42_tr_1_tl_6" n="N006"/>for instance: we have the scene of Crucifixion, and the way to this ultimate moment; we have the
+               <lb facs="#facs_42_tr_1_tl_7" n="N007"/>scene of Resurrection, which, in the Easter story, already has a double symbolization (a mythological
+               <lb facs="#facs_42_tr_1_tl_8" n="N008"/>and a poetical).
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

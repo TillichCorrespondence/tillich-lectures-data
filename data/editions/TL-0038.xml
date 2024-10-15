@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p038</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p038</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_38">
+         <graphic url="TL-0038.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HGXMXRJQXULUXQBIFTENBTEZ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="53,238 77,3217 2273,3233 2310,238" rendition="TextRegion" xml:id="facs_38_tr_1">
+            <zone points="1243,283 1263,285 1268,293 1296,293 1298,290 1328,293 1331,243 1318,243 1308,230 1293,240 1281,240 1276,235 1266,243 1243,240" rendition="Line" xml:id="facs_38_tr_1_tl_1"/>
+            <zone points="540,450 2221,470 2221,403 1553,408 1501,368 1458,408 540,405" rendition="Line" xml:id="facs_38_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="293,530 2141,548 2141,495 1943,480 293,508" rendition="Line" xml:id="facs_38_tr_1_tl_3"/>
+            <zone points="295,625 400,678 443,645 620,670 963,655 963,578 923,568 810,593 768,573 640,593 618,570 295,593" rendition="Line" xml:id="facs_38_tr_1_tl_4"/>
+            <zone points="540,700 835,708 880,750 1211,743 1256,705 1313,740 2144,748 2106,650 540,628" rendition="Line" xml:id="facs_38_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="178,833 313,795 365,833 1556,788 1786,838 2146,798 2146,745 178,740" rendition="Line" xml:id="facs_38_tr_1_tl_7"/>
+            <zone points="295,868 2136,885 2136,825 1996,820 295,833" rendition="Line" xml:id="facs_38_tr_1_tl_8"/>
+            <zone points="303,955 2206,965 2206,905 2154,903 303,913" rendition="Line" xml:id="facs_38_tr_1_tl_9"/>
+            <zone points="295,1038 2181,1053 2179,985 295,1011" rendition="Line" xml:id="facs_38_tr_1_tl_10"/>
+            <zone points="295,1123 593,1156 735,1123 925,1156 1483,1133 1483,1086 1438,1076 295,1081" rendition="Line" xml:id="facs_38_tr_1_tl_11"/>
+            <zone points="540,1211 1098,1256 1318,1211 2144,1218 2144,1163 1858,1146 1471,1181 1366,1143 1323,1178 1271,1143 540,1163" rendition="Line" xml:id="facs_38_tr_1_tl_12" subtype="paragraph"/>
+            <zone points="293,1288 1316,1333 1628,1286 1671,1323 2151,1346 2236,1301 2236,1246 293,1246" rendition="Line" xml:id="facs_38_tr_1_tl_13"/>
+            <zone points="290,1376 990,1426 2151,1381 2151,1333 1733,1316 290,1333" rendition="Line" xml:id="facs_38_tr_1_tl_14"/>
+            <zone points="293,1466 613,1506 760,1451 2304,1468 2304,1421 2121,1406 293,1428" rendition="Line" xml:id="facs_38_tr_1_tl_15"/>
+            <zone points="295,1548 2224,1548 2224,1501 2136,1491 295,1516" rendition="Line" xml:id="facs_38_tr_1_tl_16"/>
+            <zone points="295,1628 2206,1631 2204,1588 2116,1573 293,1581" rendition="Line" xml:id="facs_38_tr_1_tl_17"/>
+            <zone points="295,1716 2149,1718 2149,1668 1871,1653 295,1668" rendition="Line" xml:id="facs_38_tr_1_tl_18"/>
+            <zone points="293,1786 2059,1796 2059,1746 1901,1733 293,1763" rendition="Line" xml:id="facs_38_tr_1_tl_19"/>
+            <zone points="293,1878 2146,1886 2146,1836 2094,1821 293,1831" rendition="Line" xml:id="facs_38_tr_1_tl_20"/>
+            <zone points="290,1968 2109,1963 2109,1916 1991,1903 290,1933" rendition="Line" xml:id="facs_38_tr_1_tl_21"/>
+            <zone points="293,2066 1278,2054 1278,2006 1188,1996 858,1993 818,2021 373,1981 293,2014" rendition="Line" xml:id="facs_38_tr_1_tl_22"/>
+            <zone points="545,2239 2086,2221 2086,2159 545,2149" rendition="Line" xml:id="facs_38_tr_1_tl_23" subtype="paragraph"/>
+            <zone points="293,2299 2091,2326 2091,2256 1726,2239 293,2254" rendition="Line" xml:id="facs_38_tr_1_tl_24"/>
+            <zone points="288,2394 350,2431 913,2389 1251,2431 2024,2411 2024,2334 288,2344" rendition="Line" xml:id="facs_38_tr_1_tl_25"/>
+            <zone points="290,2494 2139,2466 2139,2416 2054,2406 1708,2441 290,2416" rendition="Line" xml:id="facs_38_tr_1_tl_26"/>
+            <zone points="290,2551 2206,2556 2206,2509 1411,2481 1316,2521 1223,2484 943,2526 290,2509" rendition="Line" xml:id="facs_38_tr_1_tl_27"/>
+            <zone points="280,2639 810,2636 1121,2686 1228,2629 2131,2644 2131,2581 280,2596" rendition="Line" xml:id="facs_38_tr_1_tl_28"/>
+            <zone points="290,2726 583,2731 623,2771 2151,2756 2151,2679 2056,2664 290,2676" rendition="Line" xml:id="facs_38_tr_1_tl_29"/>
+            <zone points="285,2816 593,2851 778,2799 2101,2816 2101,2766 1896,2756 285,2766" rendition="Line" xml:id="facs_38_tr_1_tl_30"/>
+            <zone points="288,2889 2161,2899 2124,2834 288,2846" rendition="Line" xml:id="facs_38_tr_1_tl_31"/>
+            <zone points="288,2974 308,2981 373,2976 413,2981 420,2989 485,2981 483,2931 410,2934 395,2919 368,2934 340,2931 328,2919 310,2931 285,2931" rendition="Line" xml:id="facs_38_tr_1_tl_32"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0038.jpg" n="part1_p038.jpg" xml:id="img_0038" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p038.jpg"/>
+            
+            <ab facs="#facs_38_tr_1">
+               <lb facs="#facs_38_tr_1_tl_1" n="N001"/>[35]
+               <lb facs="#facs_38_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Language">Now in this sense the German language was able to express, in ITS philosophy
+               <lb break="no" facs="#facs_38_tr_1_tl_3" n="N003"/>and poetry, THIS encounter with reality which is quite different from other languages,
+               <lb break="no" facs="#facs_38_tr_1_tl_4" n="N004"/>perhaps nearest to the Greek.
+               <lb break="no" facs="#facs_38_tr_1_tl_6" n="N005"/>And then the French language: without the French language, no Descartes
+               <lb break="no" facs="#facs_38_tr_1_tl_7" n="N006"/>and no modern philosophy. It is the clarity of the French language, its rationality, and
+               <lb break="no" facs="#facs_38_tr_1_tl_8" n="N007"/>the endeavor of the French mind to purify this language again and again intentionally,
+               <lb break="no" facs="#facs_38_tr_1_tl_9" n="N008"/>which has produced this miracle of the French language in its combination of beauty and
+               <lb break="no" facs="#facs_38_tr_1_tl_10" n="N009"/>rationality. This of course represents what France considers ITS ultimate concern, namely
+               <lb break="no" facs="#facs_38_tr_1_tl_11" n="N010"/>this kind of culture which combines beauty and clarity.
+               <lb break="no" facs="#facs_38_tr_1_tl_12" n="N011"/>And then the English language: one of the characteristics of it, in contrast
+               <lb break="no" facs="#facs_38_tr_1_tl_13" n="N012"/>for instance to the German, is the predominance of the verb. This predominance expresses
+               <lb break="no" facs="#facs_38_tr_1_tl_14" n="N013"/>again an ultimate concern, namely the English-American activism, the dynamic character
+               <lb break="no" facs="#facs_38_tr_1_tl_15" n="N014"/>of these nations, and of course most intensively, of America. The predominance of the noun,
+               <lb break="no" facs="#facs_38_tr_1_tl_16" n="N015"/>of the substantive, in German has something static, something fixed. When I spoke about
+               <lb break="no" facs="#facs_38_tr_1_tl_17" n="N016"/>the relation of the Second Person of the Trinity to the Holy Spirit, my German students
+               <lb break="no" facs="#facs_38_tr_1_tl_18" n="N017"/>usually didn’t ask, ''Now what shell [sic.] we do about it? What is the practical consequence
+               <lb break="no" facs="#facs_38_tr_1_tl_19" n="N018"/>of this?'', but they tried to find out whether this has sense or not in itself. Here
+               <lb break="no" facs="#facs_38_tr_1_tl_20" n="N019"/>immediately the question of the verb is asked, namely the question of the action. This
+               <lb break="no" facs="#facs_38_tr_1_tl_21" n="N020"/>again is a justified ultimate concern, and brought about so many consequences in the
+               <lb break="no" facs="#facs_38_tr_1_tl_22" n="N021"/>world-historical activities of these two nations.
+               <lb break="no" facs="#facs_38_tr_1_tl_23" n="N022"/>Enough examples. Others of you who know other languages may add to
+               <lb break="no" facs="#facs_38_tr_1_tl_24" n="N023"/>this consideration from their knowledge. <rs type="keyword" ref="#Ultimacy">In any case, in each of these languages an</rs>
+               <lb break="no" facs="#facs_38_tr_1_tl_25" n="N024"/><rs type="keyword" ref="#Ultimacy">attitude of ultimate concern, in the encounter of this human group with reality,</rs>
+               <lb break="no" facs="#facs_38_tr_1_tl_26" n="N025"/><rs type="keyword" ref="#Ultimacy">is manifest</rs>. I don't mind that someone comes and says, after this climatic and agricul-
+               <lb break="no" facs="#facs_38_tr_1_tl_27" n="N026"/>tural and economic and other conditions, ''Who would doubt that everything that happens
+               <lb break="no" facs="#facs_38_tr_1_tl_28" n="N027"/>in the human mind has these conditions?'' But that does not deny the reality of the
+               <lb break="no" facs="#facs_38_tr_1_tl_29" n="N028"/>meaning itself. No historical genesis can deny or even attack a meaning which is always
+               <lb break="no" facs="#facs_38_tr_1_tl_30" n="N029"/>valid in itself, and has to be criticized in itself, and not from the very tortuous way
+               <lb break="no" facs="#facs_38_tr_1_tl_31" n="N030"/>in which, out of the living matter on earth, such a thing as Shakespeare's drama finally
+               <lb break="no" facs="#facs_38_tr_1_tl_32" n="N031"/>develops.</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

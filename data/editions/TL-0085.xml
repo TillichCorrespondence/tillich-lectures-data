@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p085</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p085</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_85">
+         <graphic url="TL-0085.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NKAWLXDHCHDJYLOQDDYDGRWJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="270,76 298,3418 2331,3418 2345,54" rendition="TextRegion" xml:id="facs_85_tr_1">
+            <zone points="1091,256 1310,247 1309,217 1090,226" rendition="Line" xml:id="facs_85_l_786"/>
+            <zone points="348,413 2185,411 2185,345 1346,360 1295,310 1247,358 348,340" rendition="Line" xml:id="facs_85_tr_1_tl_1"/>
+            <zone points="333,481 1479,534 2145,501 2145,428 333,449" rendition="Line" xml:id="facs_85_tr_1_tl_2"/>
+            <zone points="333,564 459,612 1013,615 1144,562 2132,572 2132,529 2056,519 333,524" rendition="Line" xml:id="facs_85_tr_1_tl_3"/>
+            <zone points="335,653 2245,680 2243,615 2192,600 335,605" rendition="Line" xml:id="facs_85_tr_1_tl_4"/>
+            <zone points="330,766 567,774 617,726 864,776 1215,774 1298,731 2192,748 2192,693 2082,680 1870,711 1840,680 1761,711 1724,680 330,685" rendition="Line" xml:id="facs_85_tr_1_tl_5"/>
+            <zone points="330,822 2218,829 2170,766 330,771" rendition="Line" xml:id="facs_85_tr_1_tl_6"/>
+            <zone points="320,892 673,950 948,950 1028,902 2238,925 2238,852 320,864" rendition="Line" xml:id="facs_85_tr_1_tl_7"/>
+            <zone points="320,980 2112,1013 2112,948 320,942" rendition="Line" xml:id="facs_85_tr_1_tl_8"/>
+            <zone points="610,1147 2235,1172 2235,1109 610,1104" rendition="Line" xml:id="facs_85_tr_1_tl_9" subtype="paragraph"/>
+            <zone points="315,1235 1603,1237 1676,1285 2066,1285 2064,1200 315,1194" rendition="Line" xml:id="facs_85_tr_1_tl_10"/>
+            <zone points="315,1341 2021,1333 2021,1283 1930,1275 315,1283" rendition="Line" xml:id="facs_85_tr_1_tl_11"/>
+            <zone points="318,1406 575,1446 910,1444 968,1401 2205,1424 2205,1368 2122,1361 318,1361" rendition="Line" xml:id="facs_85_tr_1_tl_12"/>
+            <zone points="307,1487 2145,1509 2145,1452 305,1431" rendition="Line" xml:id="facs_85_tr_1_tl_13"/>
+            <zone points="315,1572 2253,1575 2253,1537 1996,1525 315,1525" rendition="Line" xml:id="facs_85_tr_1_tl_14"/>
+            <zone points="307,1656 2316,1668 2253,1610 305,1613" rendition="Line" xml:id="facs_85_tr_1_tl_15"/>
+            <zone points="302,1749 2260,1751 2260,1688 302,1696" rendition="Line" xml:id="facs_85_tr_1_tl_16"/>
+            <zone points="307,1827 2172,1837 2172,1792 2026,1779 307,1789" rendition="Line" xml:id="facs_85_tr_1_tl_17"/>
+            <zone points="315,1915 2265,1925 2265,1857 315,1862" rendition="Line" xml:id="facs_85_tr_1_tl_18"/>
+            <zone points="302,1991 2328,2003 2328,1961 2197,1945 302,1948" rendition="Line" xml:id="facs_85_tr_1_tl_19"/>
+            <zone points="302,2076 670,2117 1535,2076 2119,2129 2119,2044 2079,2031 302,2034" rendition="Line" xml:id="facs_85_tr_1_tl_20"/>
+            <zone points="300,2160 2268,2180 2268,2114 300,2117" rendition="Line" xml:id="facs_85_tr_1_tl_21"/>
+            <zone points="300,2243 2182,2260 2182,2200 837,2220 300,2185" rendition="Line" xml:id="facs_85_tr_1_tl_22"/>
+            <zone points="290,2328 2122,2339 2122,2291 1741,2278 290,2286" rendition="Line" xml:id="facs_85_tr_1_tl_23"/>
+            <zone points="302,2429 2160,2427 2160,2379 1933,2366 302,2374" rendition="Line" xml:id="facs_85_tr_1_tl_24"/>
+            <zone points="290,2495 2092,2515 2092,2465 1799,2449 290,2454" rendition="Line" xml:id="facs_85_tr_1_tl_25"/>
+            <zone points="292,2586 2238,2598 2238,2545 2107,2533 292,2540" rendition="Line" xml:id="facs_85_tr_1_tl_26"/>
+            <zone points="292,2671 2180,2676 2180,2621 292,2626" rendition="Line" xml:id="facs_85_tr_1_tl_27"/>
+            <zone points="287,2754 1247,2749 1550,2797 1663,2754 2094,2762 2092,2719 285,2712" rendition="Line" xml:id="facs_85_tr_1_tl_28"/>
+            <zone points="290,2843 885,2840 935,2885 1124,2885 1157,2883 1154,2795 706,2790 668,2815 602,2787 287,2792" rendition="Line" xml:id="facs_85_tr_1_tl_29"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0085.jpg" n="part1_p085.jpg" xml:id="img_0085" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p085.jpg"/>
+            
+            <ab facs="#facs_85_tr_1">
+               <lb facs="#facs_85_l_786" n="N001"/>[82]
+               <lb facs="#facs_85_tr_1_tl_1" n="N002"/><progress>produce a better work by better technical means. The car cannot resist; its resistance
+               <lb break="no" facs="#facs_85_tr_1_tl_2" n="N003"/>can be overcome, as technique HAS overcome most resistance of the material world,
+               <lb break="no" facs="#facs_85_tr_1_tl_3" n="N004"/>in the limits of the natural laws. But in man it is not a psycho-technical procedure
+               <lb break="no" facs="#facs_85_tr_1_tl_4" n="N005"/>which makes man into something better. And this lies ultimately behind this wrong idea
+               <lb break="no" facs="#facs_85_tr_1_tl_5" n="N006"/>of progress: ''by good psycho-techniques you can do of [i.e. with--ed.] man what you
+               <lb break="no" facs="#facs_85_tr_1_tl_6" n="N007"/>can do with iron or other metals used for a machine.'' This analogy shows why the idea
+               <lb break="no" facs="#facs_85_tr_1_tl_7" n="N008"/>of progress as the universal law, according to which man becomes more and more moral,
+               <lb break="no" facs="#facs_85_tr_1_tl_8" n="N009"/>better and better, wiser and wiser, more creative any time--now that's all nonsense!
+               <lb break="no" facs="#facs_85_tr_1_tl_9" n="N010"/>Let us apply this to another realm where also creative freedom is involved,
+               <lb break="no" facs="#facs_85_tr_1_tl_10" n="N011"/>namely a realm where the technical element is very small: the realm of art and
+               <lb break="no" facs="#facs_85_tr_1_tl_11" n="N012"/>philosophy. About science, I will speak later; there are two elements involved.
+               <lb break="no" facs="#facs_85_tr_1_tl_12" n="N013"/>But take art and philosophy: it would be almost ridiculous--and I think it would have
+               <lb break="no" facs="#facs_85_tr_1_tl_13" n="N014"/>been, even in the period of the glorious victory of the idea of progress--if somebody
+               <lb break="no" facs="#facs_85_tr_1_tl_14" n="N015"/>would have said that we are better artists than the Egyptians, or Greeks, or other people--
+               <lb break="no" facs="#facs_85_tr_1_tl_15" n="N016"/>Hittites, and others, whom we dig out now; or the old Chinese, a few thousand years before
+               <lb break="no" facs="#facs_85_tr_1_tl_16" n="N017"/>Christ. It would be ridiculous if you compare their creations and quality work with OUR
+               <lb break="no" facs="#facs_85_tr_1_tl_17" n="N018"/>wuality [sic.] work. There is no other reaction possible than to LAUGH, if somebody says
+               <lb break="no" facs="#facs_85_tr_1_tl_18" n="N019"/>we are better than they. There is no progress in this realm whatsoever. BUT THERE ARE
+               <lb break="no" facs="#facs_85_tr_1_tl_19" n="N020"/>DIFFERENCES; THERE ARE NEW POSSIBILITIES. There is no doubt about this. And there
+               <lb break="no" facs="#facs_85_tr_1_tl_20" n="N021"/>will be, I hope, new possibilities. And some of you know that I am a great defender
+               <lb break="no" facs="#facs_85_tr_1_tl_21" n="N022"/>of modern visual art--that is something DIFFERENT from the Greek and Renaissance [art].
+               <lb break="no" facs="#facs_85_tr_1_tl_22" n="N023"/>But if someone tells me--although I attack Renaissance art all the time, if it is copied
+               <lb break="no" facs="#facs_85_tr_1_tl_23" n="N024"/>by bad religious magazines!--''then I say there is progress from the Renaissance to our
+               <lb break="no" facs="#facs_85_tr_1_tl_24" n="N025"/>present-day artistic expression''--that is ridiculous. The great works of the Renaissance
+               <lb break="no" facs="#facs_85_tr_1_tl_25" n="N026"/>should not be imitated. We must have our OWN [expression]. But they are great,
+               <lb break="no" facs="#facs_85_tr_1_tl_26" n="N027"/>and their greatness is in no way denied if we do our own work as well as they did their
+               <lb break="no" facs="#facs_85_tr_1_tl_27" n="N028"/>own work, under the ideal of this classic moment in which the Christian substance and
+               <lb break="no" facs="#facs_85_tr_1_tl_28" n="N029"/>the rational principles were united in people like Botticello and Leonardo, and then
+               <lb break="no" facs="#facs_85_tr_1_tl_29" n="N030"/>(in the transition, already), Michelangelo.</progress>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

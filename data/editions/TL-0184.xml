@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p184</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p184</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_184">
+         <graphic url="TL-0184.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=BLUQTQUZKQGMDFGHIEIKYCLC&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="56,214 56,3475 2337,3475 2337,214" rendition="TextRegion" xml:id="facs_184_tr_1">
+            <zone points="1192,258 1205,256 1230,271 1280,273 1283,268 1318,268 1315,205 1290,205 1278,220 1268,220 1255,208 1237,208 1222,223 1192,225" rendition="Line" xml:id="facs_184_tr_1_tl_1"/>
+            <zone points="336,421 1185,421 1185,368 1147,366 336,381" rendition="Line" xml:id="facs_184_tr_1_tl_2"/>
+            <zone points="338,566 436,564 436,493 338,493" rendition="Line" xml:id="facs_184_tr_1_tl_3"/>
+            <zone points="341,653 384,653 384,631 341,631" rendition="Line" xml:id="facs_184_l"/>
+            <zone points="328,721 1603,709 1568,646 328,679" rendition="Line" xml:id="facs_184_tr_1_tl_4"/>
+            <zone points="371,774 1578,764 1470,716 1360,746 371,736" rendition="Line" xml:id="facs_184_tr_1_tl_5"/>
+            <zone points="333,919 1899,927 1899,889 1731,862 333,879" rendition="Line" xml:id="facs_184_tr_1_tl_6"/>
+            <zone points="328,1080 2280,1077 2280,1020 328,1030" rendition="Line" xml:id="facs_184_tr_1_tl_7"/>
+            <zone points="326,1237 2290,1240 2290,1175 2217,1172 326,1177" rendition="Line" xml:id="facs_184_tr_1_tl_8"/>
+            <zone points="321,1385 2330,1388 2330,1338 2265,1320 321,1335" rendition="Line" xml:id="facs_184_tr_1_tl_9"/>
+            <zone points="328,1531 2209,1533 2209,1480 328,1475" rendition="Line" xml:id="facs_184_tr_1_tl_10"/>
+            <zone points="321,1673 2272,1673 2069,1618 321,1633" rendition="Line" xml:id="facs_184_tr_1_tl_11"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0184.jpg" n="part1_p184.jpg" xml:id="img_0184" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p184.jpg"/>
+            
+            <ab facs="#facs_184_tr_1">
+               <lb facs="#facs_184_tr_1_tl_1" n="N001"/>[180]
+               <lb facs="#facs_184_tr_1_tl_2" n="N002"/>of your existence implicitly and explicitly.
+               <lb facs="#facs_184_tr_1_tl_3" n="N003"/>===
+               <lb facs="#facs_184_l" n="N004"/>(
+               <lb facs="#facs_184_tr_1_tl_4" n="N005"/><hi style="font-style: italic;">[After the lecture, in conversation with student, Edwin Knopf:]</hi>
+               <lb facs="#facs_184_tr_1_tl_5" n="N006"/><hi style="font-style: italic;">–conceming the question about the existence, etc., of Christ--</hi>
+               <lb facs="#facs_184_tr_1_tl_6" n="N007"/>The transformation of personal reality can only happen in personal reality. ...
+               <lb facs="#facs_184_tr_1_tl_7" n="N008"/>QN: What difference does it make whether or not He was forced and unwilling to sacrifice....?
+               <lb facs="#facs_184_tr_1_tl_8" n="N009"/>PT: Then nothing was changed, because we all are unwilling. And He also was unwilling, and finally
+               <lb facs="#facs_184_tr_1_tl_9" n="N010"/>accepted. What would be the difference for personal life if somebody was murdered? That is nothing.
+               <lb facs="#facs_184_tr_1_tl_10" n="N011"/>The very fact of being murdered is nothing... The decisive thing is the personal transformation.
+               <lb facs="#facs_184_tr_1_tl_11" n="N012"/>This personal transformation is possible only in a personal acceptance of the sacrifice of finitude.---
+
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

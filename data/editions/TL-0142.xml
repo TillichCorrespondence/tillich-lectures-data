@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p142</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p142</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_142">
+         <graphic url="TL-0142.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=BOLYJJJRDLKBORULQYNZIMVA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="277,160 277,3483 2397,3483 2397,160" rendition="TextRegion" xml:id="facs_142_tr_3">
+            <zone points="1120,226 1148,233 1161,246 1227,246 1235,238 1247,238 1247,165 1217,170 1207,165 1186,170 1169,167 1156,180 1120,183" rendition="Line" xml:id="facs_142_tr_3_tl_1"/>
+            <zone points="355,484 717,492 768,545 1169,484 1257,520 2342,484 2335,416 355,433" rendition="Line" xml:id="facs_142_tr_3_tl_2"/>
+            <zone points="352,634 2322,639 2322,581 352,588" rendition="Line" xml:id="facs_142_tr_3_tl_3"/>
+            <zone points="352,788 943,783 981,821 1151,821 1260,755 1313,768 1316,707 1164,748 940,720 352,758" rendition="Line" xml:id="facs_142_tr_3_tl_4"/>
+            <zone points="548,930 2373,933 2373,867 2282,864 1415,902 548,875" rendition="Line" xml:id="facs_142_tr_3_tl_6" subtype="paragraph"/>
+            <zone points="355,1082 1430,1085 1503,1126 2375,1095 2375,1032 2337,1027 355,1052" rendition="Line" xml:id="facs_142_tr_3_tl_7"/>
+            <zone points="352,1237 1344,1235 1425,1285 2352,1232 2322,1179 2188,1176 1369,1204 677,1166 355,1204" rendition="Line" xml:id="facs_142_tr_3_tl_8"/>
+            <zone points="355,1420 1998,1379 2393,1412 2393,1328 355,1333" rendition="Line" xml:id="facs_142_tr_3_tl_9"/>
+            <zone points="264,1564 1470,1574 1582,1529 1455,1480 608,1508 408,1488 368,1447 264,1498" rendition="Line" xml:id="facs_142_tr_3_tl_11"/>
+            <zone points="360,1691 2352,1686 2352,1630 360,1638" rendition="Line" xml:id="facs_142_tr_3_tl_12"/>
+            <zone points="360,1835 2337,1845 2337,1780 360,1785" rendition="Line" xml:id="facs_142_tr_3_tl_13"/>
+            <zone points="350,1985 477,2053 512,2020 1952,2020 2223,1980 2223,1932 350,1957" rendition="Line" xml:id="facs_142_tr_3_tl_14"/>
+            <zone points="355,2142 2337,2134 2337,2079 355,2086" rendition="Line" xml:id="facs_142_tr_3_tl_15"/>
+            <zone points="352,2294 2282,2292 2282,2233 2211,2226 482,2223 352,2261" rendition="Line" xml:id="facs_142_tr_3_tl_16"/>
+            <zone points="350,2439 1975,2434 1975,2383 1556,2375 350,2411" rendition="Line" xml:id="facs_142_tr_3_tl_17"/>
+            <zone points="548,2586 2200,2616 2200,2527 1288,2558 839,2515 548,2558" rendition="Line" xml:id="facs_142_tr_3_tl_18" subtype="paragraph"/>
+            <zone points="279,2788 360,2740 2167,2733 2211,2730 2213,2672 1331,2662 636,2710 281,2657" rendition="Line" xml:id="facs_142_tr_3_tl_19"/>
+            <zone points="347,2920 702,2946 766,2892 2119,2885 2086,2829 347,2859" rendition="Line" xml:id="facs_142_tr_3_tl_20"/>
+            <zone points="350,3052 1845,3052 2147,3037 2150,2984 350,2999" rendition="Line" xml:id="facs_142_tr_3_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0142.jpg" n="part1_p142.jpg" xml:id="img_0142" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p142.jpg"/>
+            
+            <ab facs="#facs_142_tr_3">
+               <lb facs="#facs_142_tr_3_tl_1" n="N001"/>[139]
+
+               <lb facs="#facs_142_tr_3_tl_2" n="N002"/>as it is described in depth psychology, which for sociological reasons projects a special type of <rs type="keyword" ref="#RELIGION">religion</rs>
+               <lb facs="#facs_142_tr_3_tl_3" n="N003"/>in order to escape the miserable situation in this world, or in order to maintain the power of a ruling
+               <lb facs="#facs_142_tr_3_tl_4" n="N004"/>class, which <rs type="person" key="Marx, Karl">Marx</rs> has called "<rs type="keyword" ref="#Ideology">ideology</rs>"-- I grant you this also.
+               <lb facs="#facs_142_tr_3_tl_6" n="N005"/>But now, after all this has been said, we are again in the same situation, namely the situation:
+               <lb facs="#facs_142_tr_3_tl_7" n="N006"/>what about the relationship of <ultimate_concern>ultimate concern</ultimate_concern>, namely the experience of <rs type="keyword" ref="#Ultimacy">ultimacy</rs>, which we all have,
+               <lb facs="#facs_142_tr_3_tl_8" n="N007"/>to these images? And then the answer is very clear: these images are more or less purified projections.
+               <lb facs="#facs_142_tr_3_tl_9" n="N008"/>They can be purified. There are criteria of purification. But they are, even so, projections. You cannot
+               <lb facs="#facs_142_tr_3_tl_11" n="N009"/>have images of the ultimate without the material of your daily experience, and if the <rs type="keyword" ref="#Collective_unconscious">collective
+               <lb break="no" facs="#facs_142_tr_3_tl_12" n="N010"/>unconscious</rs> creates such images, then it is the experience of the individual and collective unconscious
+               <lb facs="#facs_142_tr_3_tl_13" n="N011"/>which produces them. In this point, all the projectionists are right. But in the moment in which they
+               <lb facs="#facs_142_tr_3_tl_14" n="N012"/>mean that this is an explaining-away of that which is MEANT, in the religious act, in the act of
+               <lb facs="#facs_142_tr_3_tl_15" n="N013"/>faith, or<ultimate_concern> ultimate concern</ultimate_concern> (as I have called it), then they are completely wrong, and they are not even
+               <lb facs="#facs_142_tr_3_tl_16" n="N014"/>adequate to their technical job, namely to show WHY these projections are made by human beings
+               <lb facs="#facs_142_tr_3_tl_17" n="N015"/>unconsciously, in all periods of human history, and what the impact behind it is.
+               <lb facs="#facs_142_tr_3_tl_18" n="N016"/>Now this again is a matter of <genesis>genesis</genesis> and <rs type="keyword" ref="#Validity">validity</rs>. The genesis of the concrete
+               <lb facs="#facs_142_tr_3_tl_19" n="N017"/>images of the ultimate is a matter of much scientific research, and no theology should interfere
+               <lb facs="#facs_142_tr_3_tl_20" n="N018"/>with that research, especially not in the cases in which individual persons are subjected to
+               <lb facs="#facs_142_tr_3_tl_21" n="N019"/>psychoanalytic treatment, or in which social classes are criticized by sociological treatment.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

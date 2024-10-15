@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part4_p086</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p086</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_86">
+         <graphic url="TL-0560.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DYPAODZZKBUIAXHJGBVOCQZW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="29,18 2289,18 2289,1383 29,1383" rendition="TextRegion" xml:id="facs_86_tr_2">
+            <zone points="15,82 80,87 90,77 127,75 149,85 167,75 182,77 187,0 20,0" rendition="Line" xml:id="facs_86_tr_2_tl_1"/>
+            <zone points="1083,311 1096,311 1118,326 1140,326 1145,321 1150,326 1183,326 1193,316 1205,316 1203,256 1168,254 1143,259 1125,251 1116,261 1081,261" rendition="Line" xml:id="facs_86_tr_2_tl_2"/>
+            <zone points="284,466 2286,478 2286,393 637,431 545,369 284,433" rendition="Line" xml:id="facs_86_tr_2_tl_3"/>
+            <zone points="478,615 2012,630 2221,615 2224,565 481,575" rendition="Line" xml:id="facs_86_tr_2_tl_4"/>
+            <zone points="286,782 2194,782 2241,720 286,725" rendition="Line" xml:id="facs_86_tr_2_tl_5"/>
+            <zone points="284,924 1865,936 2136,916 2136,869 284,894" rendition="Line" xml:id="facs_86_tr_2_tl_6"/>
+            <zone points="276,1066 2196,1068 2196,1016 276,1026" rendition="Line" xml:id="facs_86_tr_2_tl_7"/>
+            <zone points="279,1250 2057,1223 2094,1168 279,1200" rendition="Line" xml:id="facs_86_tr_2_tl_8"/>
+            <zone points="279,1372 1910,1382 2161,1367 2161,1320 279,1332" rendition="Line" xml:id="facs_86_tr_2_tl_9"/>
+         </zone>
+         <zone points="286,1457 2230,1457 2230,2287 286,2287" rendition="TextRegion" xml:id="facs_86_tr_3">
+            <zone points="844,1516 2029,1521 2099,1516 2099,1469 1549,1492 1145,1457 844,1494" rendition="Line" xml:id="facs_86_tr_3_tl_1"/>
+            <zone points="279,1524 710,1534 819,1516 822,1484 737,1496 710,1472 687,1492 667,1472 496,1474 473,1496 451,1474 281,1477" rendition="Line" xml:id="facs_86_tr_3_tl_2"/>
+            <zone points="271,1673 1900,1681 2154,1668 2156,1614 271,1651" rendition="Line" xml:id="facs_86_tr_3_tl_3"/>
+            <zone points="271,1823 1843,1860 2092,1820 2092,1770 271,1800" rendition="Line" xml:id="facs_86_tr_3_tl_4"/>
+            <zone points="271,1975 2049,1977 2129,1972 2129,1920 271,1952" rendition="Line" xml:id="facs_86_tr_3_tl_5"/>
+            <zone points="279,2129 2161,2134 2176,2074 279,2084" rendition="Line" xml:id="facs_86_tr_3_tl_6"/>
+            <zone points="271,2278 1937,2293 2224,2268 2224,2211 271,2253" rendition="Line" xml:id="facs_86_tr_3_tl_7"/>
+         </zone>
+         <zone points="80,2362 2233,2362 2233,3470 80,3470" rendition="TextRegion" xml:id="facs_86_tr_1">
+            <zone points="276,2433 2024,2438 2024,2378 276,2393" rendition="Line" xml:id="facs_86_tr_1_tl_1"/>
+            <zone points="266,2577 513,2605 1307,2590 1337,2535 789,2522 266,2555" rendition="Line" xml:id="facs_86_tr_1_tl_2"/>
+            <zone points="2094,2684 2174,2684 2174,2565 2094,2565" rendition="Line" xml:id="facs_86_tr_1_tl_3"/>
+            <zone points="473,2727 1925,2734 2097,2717 2097,2662 473,2677" rendition="Line" xml:id="facs_86_tr_1_tl_4"/>
+            <zone points="279,2888 2064,2878 2082,2821 279,2839" rendition="Line" xml:id="facs_86_tr_1_tl_5"/>
+            <zone points="269,3038 1823,3048 2226,3028 2229,2976 269,2993" rendition="Line" xml:id="facs_86_tr_1_tl_6"/>
+            <zone points="276,3200 2052,3197 2154,3180 2154,3115 276,3150" rendition="Line" xml:id="facs_86_tr_1_tl_7"/>
+            <zone points="1845,3414 1927,3389 1980,3406 1999,3394 2022,3399 2029,3389 2082,3394 2079,3225 1843,3232" rendition="Line" xml:id="facs_86_tr_1_tl_8"/>
+            <zone points="1120,3404 1173,3389 1282,3426 1352,3394 1397,3426 1432,3394 1482,3439 1546,3411 1636,3421 1636,3274 1218,3269 1120,3287" rendition="Line" xml:id="facs_86_tr_1_tl_9"/>
+            <zone points="558,3416 583,3419 608,3404 630,3409 645,3396 692,3394 687,3279 660,3274 632,3277 627,3284 595,3277 550,3279" rendition="Line" xml:id="facs_86_tr_1_tl_10"/>
+            <zone points="745,3426 774,3436 799,3414 854,3396 884,3399 924,3429 976,3411 1003,3431 1023,3416 1041,3424 1048,3337 921,3334 891,3347 844,3339 822,3359 749,3362" rendition="Line" xml:id="facs_86_tr_1_tl_11"/>
+            <zone points="67,3466 122,3469 139,3451 152,3451 152,3319 129,3319 125,3314 105,3319 97,3312 90,3319 67,3319" rendition="Line" xml:id="facs_86_tr_1_tl_12"/>
+            <zone points="548,3431 578,3431 588,3439 595,3434 603,3444 618,3439 627,3444 650,3426 692,3429 700,3389 682,3389 672,3399 650,3396 625,3409 608,3404 590,3411 585,3406 575,3414 568,3406 553,3404" rendition="Line" xml:id="facs_86_tr_1_tl_13"/>
+            <zone points="299,3424 314,3424 344,3451 364,3449 376,3441 391,3444 393,3329 366,3332 351,3347 331,3357 301,3357" rendition="Line" xml:id="facs_86_tr_1_tl_14"/>
+            <zone points="1170,3446 1185,3449 1215,3429 1223,3431 1230,3426 1233,3431 1243,3424 1257,3439 1270,3441 1277,3399 1270,3396 1260,3399 1252,3394 1238,3404 1220,3401 1203,3409 1193,3394 1180,3391" rendition="Line" xml:id="facs_86_tr_1_tl_15"/>
+            <zone points="296,3466 349,3466 356,3471 371,3466 376,3471 403,3469 411,3461 423,3464 428,3459 448,3466 453,3429 413,3434 408,3439 388,3431 366,3439 356,3431 326,3439 314,3424 301,3424" rendition="Line" xml:id="facs_86_tr_1_tl_16"/>
+            <zone points="528,3469 598,3469 630,3456 647,3469 660,3469 687,3454 705,3456 702,3424 670,3429 625,3426 620,3431 605,3426 585,3436 565,3431 545,3411 525,3416" rendition="Line" xml:id="facs_86_tr_1_tl_17"/>
+            <zone points="745,3469 1178,3464 1178,3386 1081,3431 1003,3409 921,3429 862,3399 784,3429 745,3416" rendition="Line" xml:id="facs_86_tr_1_tl_18"/>
+            <zone points="1170,3461 1360,3446 1748,3461 1748,3381 1574,3421 1514,3396 1474,3426 1429,3391 1379,3414 1352,3396 1267,3439 1170,3401" rendition="Line" xml:id="facs_86_tr_1_tl_19"/>
+            <zone points="1743,3461 1773,3461 1785,3444 1813,3464 1828,3461 1840,3446 1885,3461 1935,3456 1932,3401 1892,3399 1863,3414 1820,3416 1808,3429 1793,3429 1773,3411 1741,3421" rendition="Line" xml:id="facs_86_tr_1_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0560.jpg" n="part4_p086.jpg" xml:id="img_0086" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p086.jpg"/>
+            
+            <ab facs="#facs_86_tr_2">
+               <lb facs="#facs_86_tr_2_tl_1" n="N001"/>-
+               <lb facs="#facs_86_tr_2_tl_2" n="N002"/>-555¬
+               <lb facs="#facs_86_tr_2_tl_3" n="N003"/>as the history of the German catastrophe has destroyed Hitlerism (not for all, but for most, Germans).
+               <lb facs="#facs_86_tr_2_tl_4" n="N004"/>Now the Roman Church. Here the situation is much more consistent. Hitler dephesied
+               <lb facs="#facs_86_tr_2_tl_5" n="N005"/>a thousand years—which is a very small strength of time, seen in the light of the absolute—but he got
+               <lb facs="#facs_86_tr_2_tl_6" n="N006"/>twelve! The biblical absolutism was not able to maintain itself, even in very early times of the
+               <lb facs="#facs_86_tr_2_tl_7" n="N007"/>Protestant history, because the Bible needs interpretation. And if this interpretation is done with
+               <lb facs="#facs_86_tr_2_tl_8" n="N008"/>scientific honesty, the verbal authority of the Bible must fall down. This simple problem of
+               <lb facs="#facs_86_tr_2_tl_9" n="N009"/>interpretation undercuts the demonstration of the biblicistic attitude, because interpretation can
+            </ab>
+            <ab facs="#facs_86_tr_3">
+               <lb facs="#facs_86_tr_3_tl_1" n="N001"/>except through a second authority, which then becomes a first
+               <lb facs="#facs_86_tr_3_tl_2" n="N002"/>never be commanded
+               <lb facs="#facs_86_tr_3_tl_3" n="N003"/>authority. And this was the way of the Roman Church. The Roman Church always said—and I
+               <lb facs="#facs_86_tr_3_tl_4" n="N004"/>think with historical [justification] -that the Bible is a product of the Church—although the
+               <lb facs="#facs_86_tr_3_tl_5" n="N005"/>Church is also produced, and re-produced, by the Bible. Therefore the Church must interpret
+               <lb facs="#facs_86_tr_3_tl_6" n="N006"/>the Bible. And since the Church is identical—for Roman thinking—with the head of the Church,
+               <lb facs="#facs_86_tr_3_tl_7" n="N007"/>the Vicar of Christ, theck Cope, the Pope has the. ultimate authority for interpreting the Bible, and
+            </ab>
+            <ab facs="#facs_86_tr_1">
+               <lb facs="#facs_86_tr_1_tl_1" n="N001"/>not, as in Protestantism, every layman, and not even every théological faculty,, as in early
+               <lb facs="#facs_86_tr_1_tl_2" n="N002"/>Protestantism often was the replacement of the Pope.
+               <lb facs="#facs_86_tr_1_tl_3" n="N003"/>it is
+               <lb facs="#facs_86_tr_1_tl_4" n="N004"/>This is a much more consistent ultimate authority, or authority in principle. And
+               <lb facs="#facs_86_tr_1_tl_5" n="N005"/>much more demonic for this very reason. Now why is this so? Because here ONE PLACE,
+               <lb facs="#facs_86_tr_1_tl_6" n="N006"/>IN HISTORY, is made the place in which no error is possible; that means, in which the human
+               <lb facs="#facs_86_tr_1_tl_7" n="N007"/>existential situation is radically transcended. And the formula "Vicar of Christ" is a very good
+               <lb facs="#facs_86_tr_1_tl_8" n="N008"/>le prêter de cette
+               <lb facs="#facs_86_tr_1_tl_9" n="N009"/>cʼest lʼétat de ses
+               <lb facs="#facs_86_tr_1_tl_10" n="N010"/>pour entendre
+               <lb facs="#facs_86_tr_1_tl_11" n="N011"/>cʼest lʼautre vieuse
+               <lb facs="#facs_86_tr_1_tl_12" n="N012"/>dire
+               <lb facs="#facs_86_tr_1_tl_13" n="N013"/>dʼadresse à lʼauteur
+               <lb facs="#facs_86_tr_1_tl_14" n="N014"/>devenu
+               <lb facs="#facs_86_tr_1_tl_15" n="N015"/>dans le
+               <lb facs="#facs_86_tr_1_tl_16" n="N016"/>de votre beauilleur,
+               <lb facs="#facs_86_tr_1_tl_17" n="N017"/>dʼavoir lʼautre
+               <lb facs="#facs_86_tr_1_tl_18" n="N018"/>Cela est toujours eu dʼêtre
+               <lb facs="#facs_86_tr_1_tl_19" n="N019"/>Monsieur Mounard, car cʼest lʼéviter le
+               <lb facs="#facs_86_tr_1_tl_20" n="N020"/>dʼune manière
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

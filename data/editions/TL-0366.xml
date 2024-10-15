@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p082</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p082</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_82">
+         <graphic url="TL-0366.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HUNREBYASSVWOJBTZXZEEKCW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="29,24 2301,24 2301,1422 29,1422" rendition="TextRegion" xml:id="facs_82_tr_2">
+            <zone points="1130,352 1143,352 1155,364 1227,364 1237,357 1252,357 1252,292 1217,295 1212,290 1192,292 1187,288 1165,310 1130,310" rendition="Line" xml:id="facs_82_tr_2_tl_3"/>
+            <zone points="283,508 652,528 949,516 949,439 848,441 788,382 709,459 662,473 602,439 283,444" rendition="Line" xml:id="facs_82_tr_2_tl_4" subtype="heading"/>
+            <zone points="278,659 2233,672 2176,595 278,632" rendition="Line" xml:id="facs_82_tr_2_tl_5"/>
+            <zone points="461,721 2295,741 2243,684 461,694" rendition="Line" xml:id="facs_82_tr_2_tl_6"/>
+            <zone points="451,811 508,830 1217,823 1262,818 1262,766 644,778 590,758 451,778" rendition="Line" xml:id="facs_82_tr_2_tl_7"/>
+            <zone points="275,959 1978,972 2020,900 275,932" rendition="Line" xml:id="facs_82_tr_2_tl_8" subtype="paragraph"/>
+            <zone points="275,1120 2127,1118 2127,1063 275,1073" rendition="Line" xml:id="facs_82_tr_2_tl_9"/>
+            <zone points="278,1272 2104,1269 2164,1212 278,1242" rendition="Line" xml:id="facs_82_tr_2_tl_10"/>
+            <zone points="275,1418 1869,1430 2268,1413 2268,1361 275,1368" rendition="Line" xml:id="facs_82_tr_2_tl_11"/>
+         </zone>
+         <zone points="34,1492 2218,1505 2218,2028 34,2054" rendition="TextRegion" xml:id="facs_82_tr_3">
+            <zone points="275,1569 803,1574 823,1569 823,1517 471,1519 451,1539 431,1519 320,1517 275,1544" rendition="Line" xml:id="facs_82_tr_3_tl_2"/>
+            <zone points="265,1718 2176,1725 2176,1666 1824,1646 1772,1688 265,1673" rendition="Line" xml:id="facs_82_tr_3_tl_3"/>
+            <zone points="265,1864 2090,1871 2109,1817 265,1822" rendition="Line" xml:id="facs_82_tr_3_tl_4"/>
+            <zone points="260,2018 2109,2020 2109,1966 260,1993" rendition="Line" xml:id="facs_82_tr_3_tl_5"/>
+         </zone>
+         <zone points="26,2108 2241,2108 2241,3479 26,3479" rendition="TextRegion" xml:id="facs_82_tr_1">
+            <zone points="270,2179 2119,2176 2166,2117 270,2127" rendition="Line" xml:id="facs_82_tr_1_tl_1"/>
+            <zone points="263,2325 2127,2328 2161,2266 263,2295" rendition="Line" xml:id="facs_82_tr_1_tl_2"/>
+            <zone points="263,2476 2072,2486 2236,2469 2236,2419 263,2449" rendition="Line" xml:id="facs_82_tr_1_tl_3"/>
+            <zone points="265,2630 1943,2630 2122,2620 2122,2570 265,2580" rendition="Line" xml:id="facs_82_tr_1_tl_4"/>
+            <zone points="265,2789 1936,2781 2109,2766 2109,2717 265,2729" rendition="Line" xml:id="facs_82_tr_1_tl_5"/>
+            <zone points="258,2935 1824,2935 2201,2917 2204,2860 258,2885" rendition="Line" xml:id="facs_82_tr_1_tl_6"/>
+            <zone points="263,3084 1606,3074 1606,3044 1346,3014 263,3039" rendition="Line" xml:id="facs_82_tr_1_tl_7"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0366.jpg" n="part2_p082.jpg" xml:id="img_0082" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p082.jpg"/>
+            
+            <ab facs="#facs_82_tr_2">
+               <lb facs="#facs_82_tr_2_tl_3" n="N001"/>[361]
+               <lb facs="#facs_82_tr_2_tl_4" n="N002"/>LECTURE XXIX, Feb. 23, 1956
+               <lb facs="#facs_82_tr_2_tl_5" n="N003"/>QN [Paul A. Lee, Jr.] : Valéry, when asked if he could give a definition of beauty, answered easily,
+               <lb facs="#facs_82_tr_2_tl_6" n="N004"/>''It is that which makes us despair.'' Please comment on this in reference to your formulation
+               <lb facs="#facs_82_tr_2_tl_7" n="N005"/>regarding the revelation character of art.
+               <lb facs="#facs_82_tr_2_tl_8" n="N006"/>PT: Now I want to refer to another great poet, Rilke, who in the Duino Elegies says:
+               <lb facs="#facs_82_tr_2_tl_9" n="N007"/>every angel is terrible, and the beautiful is just the beginning of the horrible which we still can
+               <lb facs="#facs_82_tr_2_tl_10" n="N008"/>stand.--In both of these statements there is a feeling for the unity of the beautiful-creative and
+               <lb facs="#facs_82_tr_2_tl_11" n="N009"/>the horrible-destructive. To this I could simply refer to the fact of the ambiguity of life in which the
+            </ab>
+            <ab facs="#facs_82_tr_3">
+               <lb facs="#facs_82_tr_3_tl_2" n="N001"/>creative always implies the destructive, and the destructive is the first in the process which
+               <lb facs="#facs_82_tr_3_tl_3" n="N002"/>leads to the creative. But this is a general statement which refers to all life. With respect to art,
+               <lb facs="#facs_82_tr_3_tl_4" n="N003"/>I could refer to what I said about the anticipatory character of art, out of which the idealistic
+               <lb facs="#facs_82_tr_3_tl_5" n="N004"/>forms of art come which are usually covered by the term beauty. You remember that I tried
+            </ab>
+            <ab facs="#facs_82_tr_1">
+               <lb facs="#facs_82_tr_1_tl_1" n="N001"/>to avoid this term because of its many ugly connotations. In any case, beauty is an element of
+               <lb facs="#facs_82_tr_1_tl_2" n="N002"/>the artistic, and this element of the artistic produces--if we look at it and feel the difference of
+               <lb facs="#facs_82_tr_1_tl_3" n="N003"/>our being to it--the estrangement from what we ought to be and could be, to what we are, produces
+               <lb facs="#facs_82_tr_1_tl_4" n="N004"/>the feeling of despair. So I have answered, I think, this question as far as I can. Since I don't
+               <lb facs="#facs_82_tr_1_tl_5" n="N005"/>know the context in which Valéry says this, I cannot answer the question fully, but the
+               <lb facs="#facs_82_tr_1_tl_6" n="N006"/>phrase of Rilke, where I know the context, in his doctrine of angels, I can tell you for sure that he
+               <lb facs="#facs_82_tr_1_tl_7" n="N007"/>points to the hidden demonic backward of the angelic form...
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

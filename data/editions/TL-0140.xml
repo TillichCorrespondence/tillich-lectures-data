@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p140</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p140</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_140">
+         <graphic url="TL-0140.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PDSQYRCNSRWGTBVQHKEITMXP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="47,169 47,3488 2406,3488 2406,169" rendition="TextRegion" xml:id="facs_140_tr_1">
+            <zone points="1111,246 1136,244 1144,251 1206,256 1216,246 1236,246 1236,174 1224,174 1198,198 1180,200 1162,182 1147,198 1111,198" rendition="Line" xml:id="facs_140_tr_1_tl_1"/>
+            <zone points="331,505 2270,487 2270,433 2206,431 736,451 667,392 608,449 331,454" rendition="Line" xml:id="facs_140_tr_1_tl_2"/>
+            <zone points="331,649 2260,628 2260,575 1459,605 644,572 331,618" rendition="Line" xml:id="facs_140_tr_1_tl_3"/>
+            <zone points="339,800 1693,787 2108,836 2178,770 2303,782 2306,718 339,741" rendition="Line" xml:id="facs_140_tr_1_tl_4"/>
+            <zone points="336,957 2257,931 2257,880 2088,841 2011,882 336,903" rendition="Line" xml:id="facs_140_tr_1_tl_5"/>
+            <zone points="341,1100 2262,1113 2265,1018 344,1067" rendition="Line" xml:id="facs_140_tr_1_tl_6"/>
+            <zone points="336,1254 1454,1236 1513,1270 1711,1229 2257,1231 2175,1175 336,1195" rendition="Line" xml:id="facs_140_tr_1_tl_7"/>
+            <zone points="341,1393 1452,1444 1680,1426 1726,1385 2314,1377 2314,1316 1998,1352 341,1341" rendition="Line" xml:id="facs_140_tr_1_tl_8"/>
+            <zone points="328,1544 693,1603 770,1570 893,1603 952,1544 1737,1575 2326,1534 2329,1477 328,1495" rendition="Line" xml:id="facs_140_tr_1_tl_9"/>
+            <zone points="339,1706 1806,1680 1872,1734 2129,1683 2380,1693 2380,1626 339,1670" rendition="Line" xml:id="facs_140_tr_1_tl_10"/>
+            <zone points="341,1857 2306,1852 2306,1757 341,1808" rendition="Line" xml:id="facs_140_tr_1_tl_11"/>
+            <zone points="333,2047 1880,2019 1880,1929 336,1960" rendition="Line" xml:id="facs_140_tr_1_tl_12"/>
+            <zone points="436,2183 890,2211 1341,2144 2283,2134 2283,2067 1293,2114 1234,2060 990,2114 439,2093" rendition="Line" xml:id="facs_140_tr_1_tl_13" subtype="paragraph"/>
+            <zone points="336,2303 1470,2339 1518,2293 2167,2308 2393,2280 2396,2242 336,2267" rendition="Line" xml:id="facs_140_tr_1_tl_14"/>
+            <zone points="341,2457 446,2532 480,2498 831,2501 880,2452 2262,2434 2229,2378 341,2406" rendition="Line" xml:id="facs_140_tr_1_tl_15"/>
+            <zone points="336,2619 433,2662 605,2660 703,2627 1021,2627 1023,2550 813,2534 795,2552 539,2555 498,2537 431,2557 339,2537" rendition="Line" xml:id="facs_140_tr_1_tl_17"/>
+            <zone points="392,2786 2342,2732 2342,2670 1434,2686 1347,2727 785,2670 395,2704" rendition="Line" xml:id="facs_140_tr_1_tl_18"/>
+            <zone points="346,2911 1254,2950 1565,2893 1680,2942 1734,2891 2314,2886 2316,2822 346,2847" rendition="Line" xml:id="facs_140_tr_1_tl_19"/>
+            <zone points="339,3073 718,3109 1719,3052 2103,3078 2378,3060 2380,2991 339,3045" rendition="Line" xml:id="facs_140_tr_1_tl_20"/>
+            <zone points="346,3232 2085,3196 2085,3145 2034,3137 682,3163 490,3206 349,3178" rendition="Line" xml:id="facs_140_tr_1_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0140.jpg" n="part1_p140.jpg" xml:id="img_0140" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p140.jpg"/>
+            
+            <ab facs="#facs_140_tr_1">
+               <lb facs="#facs_140_tr_1_tl_1" n="N001"/>[137]
+               <lb facs="#facs_140_tr_1_tl_2" n="N002"/>devaluates the meaning of such a <rs type="keyword" ref="#Love">love</rs> relationship, I hope those of you who have had an experience
+               <lb facs="#facs_140_tr_1_tl_3" n="N003"/>of a love relationship would reject that with great passion--not with fanaticism (that would show
+               <lb facs="#facs_140_tr_1_tl_4" n="N004"/>that you feel not very safe), but you would reject it with great passion, you would simply say: this is
+               <lb facs="#facs_140_tr_1_tl_5" n="N005"/>absurd; the value, the meaning, of this relationship, IN ITSELF, is independent of all those bearers
+               <lb facs="#facs_140_tr_1_tl_6" n="N006"/>which are, genetically speaking, responsible for it. You would not deny that the biological chemist
+               <lb facs="#facs_140_tr_1_tl_7" n="N007"/>shows all the chemical conditions which are necessary to drive man to woman and woman to man.
+               <lb facs="#facs_140_tr_1_tl_8" n="N008"/>You must accept them. They are the bearers of every love relationship in this realm. And you would
+               <lb facs="#facs_140_tr_1_tl_9" n="N009"/>NOT deny the psychologist to speak about the father-and-mother bondage, and the image which you
+               <lb facs="#facs_140_tr_1_tl_10" n="N010"/>seek unconsciously in choosing the object of your love--why should you? This is all true. Nevertheless,
+               <lb facs="#facs_140_tr_1_tl_11" n="N011"/>then finally there is <rs type="keyword" ref="#Love">love</rs>, and whether it is long or short, in the moment in which it does exist, it is a
+               <lb facs="#facs_140_tr_1_tl_12" n="N012"/>reality in itself, and no genetic interpretation of it can deprive it of its validity.
+               <lb facs="#facs_140_tr_1_tl_13" n="N013"/>Now the same thing is true of <rs type="keyword" ref="#RELIGION">religion</rs>, i.e., of the state of being ultimately concerned. In this
+               <lb facs="#facs_140_tr_1_tl_14" n="N014"/>state ALSO, all the chemical and physical presuppostions [sic.] are present; you cannot deny them. And there
+               <lb facs="#facs_140_tr_1_tl_15" n="N015"/>are other things present which often have been used in order to devaluate the meaning of religion.
+               <lb facs="#facs_140_tr_1_tl_17" n="N016"/>Here the genetic theory has taken the form of psychological or sociological explaining-away the
+               <lb facs="#facs_140_tr_1_tl_18" n="N017"/>content of religion. The psychological form, in primitive ages (I mean 50 years ago), had the
+               <lb facs="#facs_140_tr_1_tl_19" n="N018"/>form of saying that the gods are the creations of fear; and today, in a less primitive atmosphere in this
+               <lb facs="#facs_140_tr_1_tl_20" n="N019"/>respect, it is the father-image which is projected and made into a god. I think this is also very primitive,
+               <lb facs="#facs_140_tr_1_tl_21" n="N020"/>insofar as it is not even technically exact, because you cannot project anything without a
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

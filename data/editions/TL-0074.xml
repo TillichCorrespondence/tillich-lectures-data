@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p074</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p074</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_74">
+         <graphic url="TL-0074.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FYMYDPCWEGDEGAJVXFDCKRQZ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="244,262 244,3465 2295,3465 2295,262" rendition="TextRegion" xml:id="facs_74_tr_2">
+            <zone points="1138,301 1151,301 1160,308 1170,306 1180,315 1234,318 1234,241 1215,244 1205,241 1185,261 1138,261" rendition="Line" xml:id="facs_74_tr_2_tl_1"/>
+            <zone points="328,478 2107,485 2107,441 1941,424 328,436" rendition="Line" xml:id="facs_74_tr_2_tl_2"/>
+            <zone points="335,567 2143,557 1959,505 335,517" rendition="Line" xml:id="facs_74_tr_2_tl_3"/>
+            <zone points="328,648 2185,658 2185,606 2072,589 328,616" rendition="Line" xml:id="facs_74_tr_2_tl_4"/>
+            <zone points="330,737 2212,749 2212,690 2148,678 330,682" rendition="Line" xml:id="facs_74_tr_2_tl_5"/>
+            <zone points="338,835 392,867 646,835 1439,860 1587,813 2185,845 2185,776 335,761" rendition="Line" xml:id="facs_74_tr_2_tl_6"/>
+            <zone points="330,924 397,961 1631,934 1685,889 2212,902 2212,860 2109,845 330,852" rendition="Line" xml:id="facs_74_tr_2_tl_7"/>
+            <zone points="535,1067 2235,1077 2235,1027 2136,1005 535,1022" rendition="Line" xml:id="facs_74_tr_2_tl_8" subtype="paragraph"/>
+            <zone points="330,1151 2089,1158 2089,1104 1882,1096 330,1106" rendition="Line" xml:id="facs_74_tr_2_tl_9"/>
+            <zone points="333,1244 2050,1237 2050,1190 1988,1178 1589,1212 333,1180" rendition="Line" xml:id="facs_74_tr_2_tl_10"/>
+            <zone points="323,1321 1712,1308 1668,1269 1461,1261 323,1289" rendition="Line" xml:id="facs_74_tr_2_tl_12"/>
+            <zone points="323,1402 1791,1399 2212,1441 2212,1362 1826,1345 323,1372" rendition="Line" xml:id="facs_74_tr_2_tl_13"/>
+            <zone points="320,1493 894,1537 1045,1481 2205,1493 2205,1446 2153,1441 320,1446" rendition="Line" xml:id="facs_74_tr_2_tl_14"/>
+            <zone points="328,1572 2166,1572 2166,1530 2094,1518 328,1537" rendition="Line" xml:id="facs_74_tr_2_tl_15"/>
+            <zone points="320,1653 2227,1661 2227,1611 320,1609" rendition="Line" xml:id="facs_74_tr_2_tl_16"/>
+            <zone points="328,1742 2193,1739 2193,1695 2124,1683 328,1693" rendition="Line" xml:id="facs_74_tr_2_tl_17"/>
+            <zone points="330,1821 2225,1828 2225,1776 2094,1769 330,1789" rendition="Line" xml:id="facs_74_tr_2_tl_18"/>
+            <zone points="323,1917 2089,1909 2089,1863 2013,1850 323,1870" rendition="Line" xml:id="facs_74_tr_2_tl_19"/>
+            <zone points="323,1991 2057,1998 2057,1946 1927,1937 323,1946" rendition="Line" xml:id="facs_74_tr_2_tl_20"/>
+            <zone points="323,2074 2082,2077 2082,2018 1991,2003 1220,2050 323,2035" rendition="Line" xml:id="facs_74_tr_2_tl_21"/>
+            <zone points="318,2158 2156,2166 2156,2114 2087,2099 318,2111" rendition="Line" xml:id="facs_74_tr_2_tl_22"/>
+            <zone points="323,2244 2143,2254 2116,2200 1909,2183 1000,2215 323,2183" rendition="Line" xml:id="facs_74_tr_2_tl_23"/>
+            <zone points="318,2328 2143,2331 2143,2284 1996,2269 318,2281" rendition="Line" xml:id="facs_74_tr_2_tl_24"/>
+            <zone points="318,2410 2217,2414 2217,2368 2104,2353 318,2368" rendition="Line" xml:id="facs_74_tr_2_tl_25"/>
+            <zone points="323,2493 2247,2501 2247,2449 2139,2439 323,2454" rendition="Line" xml:id="facs_74_tr_2_tl_26"/>
+            <zone points="318,2589 2072,2582 2045,2520 318,2538" rendition="Line" xml:id="facs_74_tr_2_tl_27"/>
+            <zone points="315,2663 2267,2678 2225,2609 315,2639" rendition="Line" xml:id="facs_74_tr_2_tl_28"/>
+            <zone points="315,2752 1237,2754 1237,2705 1143,2693 968,2720 315,2705" rendition="Line" xml:id="facs_74_tr_2_tl_29"/>
+            <zone points="572,2838 2215,2846 2215,2784 2104,2764 1954,2801 572,2782" rendition="Line" xml:id="facs_74_tr_2_tl_30" subtype="paragraph"/>
+            <zone points="306,2934 1291,2922 1670,2976 2220,2934 2220,2883 2121,2873 306,2870" rendition="Line" xml:id="facs_74_tr_2_tl_31"/>
+            <zone points="296,3006 2257,3043 2257,2959 296,2964" rendition="Line" xml:id="facs_74_tr_2_tl_32"/>
+            <zone points="298,3131 1109,3139 1165,3087 2205,3107 2277,3102 2277,3058 296,3050" rendition="Line" xml:id="facs_74_tr_2_tl_33"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0074.jpg" n="part1_p074.jpg" xml:id="img_0074" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p074.jpg"/>
+            
+            <ab facs="#facs_74_tr_2">
+               <lb facs="#facs_74_tr_2_tl_1" n="N001"/>[71]
+               <lb facs="#facs_74_tr_2_tl_2" n="N002"/><rs type="keyword" ref="#Renaissance">he did not simply renew the Greeks, as the Renaissance generally speaking is not a
+               <lb break="no" facs="#facs_74_tr_2_tl_3" n="N003"/>RENEWAL of the Greek and Latin attitude. But he used Greek concepts, of course--
+               <lb break="no" facs="#facs_74_tr_2_tl_4" n="N004"/>as all Renaissance people did--but he did it in connection with his activities: building... [?],
+               <lb break="no" facs="#facs_74_tr_2_tl_5" n="N005"/>building water institutions, building even airplanes, in his imagination and in his drawing.
+               <lb break="no" facs="#facs_74_tr_2_tl_6" n="N006"/>The technical point of view starts in the Renaissance from the very beginning, while in
+               <lb break="no" facs="#facs_74_tr_2_tl_7" n="N007"/>Greece proper, the contemplative, the theoretical, point of view was always predominant.
+               <lb break="no" facs="#facs_74_tr_2_tl_8" n="N008"/>Now what is the reason for this? It is the general reason: for the transforma-
+               <lb break="no" facs="#facs_74_tr_2_tl_9" n="N009"/>tion of antiquity into something new in the Renaissance. It is a quite inadequate
+               <lb break="no" facs="#facs_74_tr_2_tl_10" n="N010"/>idea that the Renaissance is a rebirth of Greek rationalism, and now this terrible
+               <lb break="no" facs="#facs_74_tr_2_tl_12" n="N011"/>rationalism came into this world and ruined good old theology!--Now this kind of
+               <lb break="no" facs="#facs_74_tr_2_tl_13" n="N012"/>thinking is entirely non-historical and is dangerous because it deepens the unnecessary gap
+               <lb break="no" facs="#facs_74_tr_2_tl_14" n="N013"/>between reason and revelation--or however the relationship is called. The transformation
+               <lb break="no" facs="#facs_74_tr_2_tl_15" n="N014"/>which happened in the Renaissance is fundamental, in many respects--I cannot go into
+               <lb break="no" facs="#facs_74_tr_2_tl_16" n="N015"/>this now, but I probably can later. But one of the main differences is the active interest
+               <lb break="no" facs="#facs_74_tr_2_tl_17" n="N016"/>which from the very beginning was connected with the cognitive interest in the modern
+               <lb break="no" facs="#facs_74_tr_2_tl_18" n="N017"/>world, and probably--or I would say certainly--the reason for this is that the Renaissance
+               <lb break="no" facs="#facs_74_tr_2_tl_19" n="N018"/>grew up on Christian soil, and even if some Renaissance philosophers tried hard to
+               <lb break="no" facs="#facs_74_tr_2_tl_20" n="N019"/>become pagans (as also modern philosophers try hard--it could not succeed: you
+               <lb break="no" facs="#facs_74_tr_2_tl_21" n="N020"/>cannot jump over your own shadow, you cannot cease to live out of the spiritual
+               <lb break="no" facs="#facs_74_tr_2_tl_22" n="N021"/>substance which has transformed you for centuries of historical development. And this
+               <lb break="no" facs="#facs_74_tr_2_tl_23" n="N022"/>is all clear in the Renaissance. For instance, when the Renaissance revived astrology,
+               <lb break="no" facs="#facs_74_tr_2_tl_24" n="N023"/>it changed it at the same time. In the ancient world, astrology is a calculation of an
+               <lb break="no" facs="#facs_74_tr_2_tl_25" n="N024"/>inescapable fate; in the Renaissance astrology, it is not an inescapable fate, but it is the
+               <lb break="no" facs="#facs_74_tr_2_tl_26" n="N025"/>winds which drive the boat and the sail, but the man who stands on the rudder is able
+               <lb break="no" facs="#facs_74_tr_2_tl_27" n="N026"/>to give the direction. This imagery which we often find in Renaissance pictures is
+               <lb break="no" facs="#facs_74_tr_2_tl_28" n="N027"/>characteristic of such transformation. On the basis of Christianity, the ultimate responsibility
+               <lb break="no" facs="#facs_74_tr_2_tl_29" n="N028"/>of man remains, even in view of astrology.</rs>
+               <lb facs="#facs_74_tr_2_tl_30" n="N029"/>And then in OUR case: the desire of the Jewish and Christian development,
+               <lb facs="#facs_74_tr_2_tl_31" n="N030"/>Jewish and Christian prophetism, to transform reality; the element of hope--which belongs
+               <lb facs="#facs_74_tr_2_tl_32" n="N031"/>to Jews AND Christians--is something which drives towards action, towards an action which
+               <lb facs="#facs_74_tr_2_tl_33" n="N032"/>transforms reality according to an ideal. Such an action was NOT in the religious substance
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

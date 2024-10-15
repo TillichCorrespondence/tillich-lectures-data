@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p083</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p083</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_83">
+         <graphic url="TL-0367.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=EQTCTKWXEYJHAGMKIIENGHUR&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="313,284 2221,284 2221,956 313,956" rendition="TextRegion" xml:id="facs_83_tr_3">
+            <zone points="1157,341 1174,343 1179,339 1189,348 1203,351 1277,351 1275,271 1251,271 1227,264 1213,283 1201,286 1189,298 1155,300" rendition="Line" xml:id="facs_83_tr_3_tl_1"/>
+            <zone points="459,490 2185,502 2185,444 2099,420 780,456 713,389 648,454 459,454" rendition="Line" xml:id="facs_83_tr_3_tl_2"/>
+            <zone points="300,641 2214,653 2214,600 300,612" rendition="Line" xml:id="facs_83_tr_3_tl_3"/>
+            <zone points="303,802 2116,814 2166,747 303,754" rendition="Line" xml:id="facs_83_tr_3_tl_4"/>
+            <zone points="312,956 2099,956 2099,900 312,898" rendition="Line" xml:id="facs_83_tr_3_tl_5"/>
+         </zone>
+         <zone points="298,1045 2230,1045 2230,2290 298,2290" rendition="TextRegion" xml:id="facs_83_tr_2">
+            <zone points="305,1117 2159,1124 2159,1057 305,1057" rendition="Line" xml:id="facs_83_tr_2_tl_1"/>
+            <zone points="291,1246 2089,1263 2152,1261 2152,1205 291,1222" rendition="Line" xml:id="facs_83_tr_2_tl_2"/>
+            <zone points="298,1407 2224,1419 2224,1354 2130,1347 298,1352" rendition="Line" xml:id="facs_83_tr_2_tl_3"/>
+            <zone points="303,1566 2152,1558 2152,1506 303,1508" rendition="Line" xml:id="facs_83_tr_2_tl_4"/>
+            <zone points="300,1712 1945,1731 2159,1707 2159,1650 300,1659" rendition="Line" xml:id="facs_83_tr_2_tl_5"/>
+            <zone points="293,1856 336,1871 564,1856 605,1878 648,1856 963,1861 963,1808 939,1806 293,1806" rendition="Line" xml:id="facs_83_tr_2_tl_7"/>
+            <zone points="442,1976 2183,1988 2183,1919 442,1919" rendition="Line" xml:id="facs_83_tr_2_tl_8" subtype="paragraph"/>
+            <zone points="291,2125 2118,2144 2084,2072 291,2101" rendition="Line" xml:id="facs_83_tr_2_tl_9"/>
+            <zone points="286,2281 2041,2293 2120,2284 2120,2236 286,2252" rendition="Line" xml:id="facs_83_tr_2_tl_10"/>
+         </zone>
+         <zone points="26,2374 2170,2374 2170,3485 26,3485" rendition="TextRegion" xml:id="facs_83_tr_1">
+            <zone points="281,2430 2005,2444 2079,2435 2079,2384 281,2408" rendition="Line" xml:id="facs_83_tr_1_tl_1"/>
+            <zone points="279,2581 2164,2589 2164,2529 279,2557" rendition="Line" xml:id="facs_83_tr_1_tl_2"/>
+            <zone points="281,2737 2152,2740 2103,2680 281,2687" rendition="Line" xml:id="facs_83_tr_1_tl_3"/>
+            <zone points="274,2884 2043,2901 2161,2886 2161,2833 274,2838" rendition="Line" xml:id="facs_83_tr_1_tl_4"/>
+            <zone points="276,3040 2140,3045 2140,2978 276,2982" rendition="Line" xml:id="facs_83_tr_1_tl_5"/>
+            <zone points="274,3189 1654,3206 2161,3189 2161,3134 274,3155" rendition="Line" xml:id="facs_83_tr_1_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0367.jpg" n="part2_p083.jpg" xml:id="img_0083" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p083.jpg"/>
+            
+            <ab facs="#facs_83_tr_3">
+               <lb facs="#facs_83_tr_3_tl_1" n="N001"/>[362]
+               <lb facs="#facs_83_tr_3_tl_2" n="N002"/>We have lost one or two hours already by the manifoldness of our discussion of religion
+               <lb facs="#facs_83_tr_3_tl_3" n="N003"/>and art, and especially by the showing of the pictures. But what I hope is that the gain was
+               <lb facs="#facs_83_tr_3_tl_4" n="N004"/>greater than the loss, because these pictures, which I hope you all remember, at least vaguely--
+               <lb facs="#facs_83_tr_3_tl_5" n="N005"/>or some of them, not only vaguely--have a great power of keeping us for the analysis of the
+            </ab>
+            <ab facs="#facs_83_tr_2">
+               <lb facs="#facs_83_tr_2_tl_1" n="N001"/>present situation into which we have to go now. This analysis could have been given, as I said,
+               <lb facs="#facs_83_tr_2_tl_2" n="N002"/>already at the beginning of this whole course, but then it would have been a little bit abstract.
+               <lb facs="#facs_83_tr_2_tl_3" n="N003"/>Now since it is given between the two main parts--or better, in the connection with the transitory
+               <lb facs="#facs_83_tr_2_tl_4" n="N004"/>part, namely the theoretical and the practical side of culture--it is more filled with content for
+               <lb facs="#facs_83_tr_2_tl_5" n="N005"/>your mind, and especially since you have seen, in the visual arts, an expression of our time and
+               <lb facs="#facs_83_tr_2_tl_7" n="N006"/>the whole reality in which we are living.
+               <lb facs="#facs_83_tr_2_tl_8" n="N007"/>One of the function of art--and perhaps you remember that I said the main function of
+               <lb facs="#facs_83_tr_2_tl_9" n="N008"/>art is its revelation character and it reveals in unity two things: the human situation as such,
+               <lb facs="#facs_83_tr_2_tl_10" n="N009"/>or generally; and the special situation in which this general situation becomes concrete. This
+            </ab>
+            <ab facs="#facs_83_tr_1">
+               <lb facs="#facs_83_tr_1_tl_1" n="N001"/>statement has more implications than it seems to have. These sociologists, anthropologists
+               <lb facs="#facs_83_tr_1_tl_2" n="N002"/>and Marxists who analyze a concrete situation only from the point of view of its HISTORICAL
+               <lb facs="#facs_83_tr_1_tl_3" n="N003"/>reality would not accept my statement. They would say: what we can know of man is always
+               <lb facs="#facs_83_tr_1_tl_4" n="N004"/>limited to a concrete situation, let us say to the 20th century, and here again to a special period
+               <lb facs="#facs_83_tr_1_tl_5" n="N005"/>in this century and to a special place where this period takes place. If you follow this method,
+               <lb facs="#facs_83_tr_1_tl_6" n="N006"/>then you come to the point that you cannot say anything universally about man. And that is
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

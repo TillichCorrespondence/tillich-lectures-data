@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p264</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p264</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_264">
+         <graphic url="TL-0264.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QSYQSGPNCJSUMTYQKHFIVHQT&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="107,289 107,3479 2334,3479 2334,289" rendition="TextRegion" xml:id="facs_264_tr_1">
+            <zone points="1231,351 1248,351 1252,356 1267,356 1284,363 1308,363 1315,368 1325,366 1337,356 1349,356 1352,315 1330,315 1303,286 1284,300 1267,298 1250,315 1233,315" rendition="Line" xml:id="facs_264_tr_1_tl_1"/>
+            <zone points="383,506 2330,521 2330,477 2054,453 678,463 640,426 606,463 383,465" rendition="Line" xml:id="facs_264_tr_1_tl_2"/>
+            <zone points="375,644 2277,669 2277,615 1674,598 375,623" rendition="Line" xml:id="facs_264_tr_1_tl_3"/>
+            <zone points="383,804 671,853 749,802 2265,826 2265,758 383,756" rendition="Line" xml:id="facs_264_tr_1_tl_4"/>
+            <zone points="375,950 2318,988 2318,921 2178,908 375,904" rendition="Line" xml:id="facs_264_tr_1_tl_5"/>
+            <zone points="371,1122 417,1156 957,1156 1005,1107 2139,1124 2200,1119 2200,1068 368,1054" rendition="Line" xml:id="facs_264_tr_1_tl_6"/>
+            <zone points="368,1245 2224,1267 2224,1216 1776,1197 368,1221" rendition="Line" xml:id="facs_264_tr_1_tl_7"/>
+            <zone points="366,1398 2195,1441 2195,1366 1969,1354 366,1352" rendition="Line" xml:id="facs_264_tr_1_tl_8"/>
+            <zone points="366,1553 2246,1572 2246,1519 1836,1500 1533,1502 1500,1536 366,1507" rendition="Line" xml:id="facs_264_tr_1_tl_9"/>
+            <zone points="363,1744 2173,1722 2173,1669 1984,1657 363,1674" rendition="Line" xml:id="facs_264_tr_1_tl_10"/>
+            <zone points="363,1887 809,1887 865,1923 971,1890 1473,1921 2238,1892 2238,1822 1996,1810 363,1824" rendition="Line" xml:id="facs_264_tr_1_tl_11"/>
+            <zone points="359,2035 392,2052 644,2032 676,2052 707,2047 707,1960 480,1960 465,1945 453,1957 359,1960" rendition="Line" xml:id="facs_264_tr_1_tl_12"/>
+            <zone points="557,2083 2221,2100 2221,2032 557,2040" rendition="Line" xml:id="facs_264_tr_1_tl_13" subtype="paragraph"/>
+            <zone points="342,2221 2277,2253 2277,2195 2100,2188 342,2197" rendition="Line" xml:id="facs_264_tr_1_tl_14"/>
+            <zone points="356,2379 2074,2406 2190,2398 2188,2333 354,2328" rendition="Line" xml:id="facs_264_tr_1_tl_15"/>
+            <zone points="342,2527 1441,2541 1441,2490 1238,2481 475,2476 342,2505" rendition="Line" xml:id="facs_264_tr_1_tl_16"/>
+            <zone points="545,2682 1274,2694 1328,2737 2166,2708 2166,2636 545,2626" rendition="Line" xml:id="facs_264_tr_1_tl_17" subtype="paragraph"/>
+            <zone points="351,2861 2221,2859 2221,2798 351,2781" rendition="Line" xml:id="facs_264_tr_1_tl_18"/>
+            <zone points="1008,2980 2265,2997 2265,2946 2054,2931 1008,2938" rendition="Line" xml:id="facs_264_tr_1_tl_21"/>
+            <zone points="332,3123 2219,3149 2219,3096 1877,3079 332,3101" rendition="Line" xml:id="facs_264_tr_1_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0264.jpg" n="part1_p264.jpg" xml:id="img_0264" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p264.jpg"/>
+            
+            <ab facs="#facs_264_tr_1">
+               <lb facs="#facs_264_tr_1_tl_1" n="N001"/>[260]
+               <lb facs="#facs_264_tr_1_tl_2" n="N002"/>necessity. It is of great interest to see how this theory comes into existence. It came into existence
+               <lb facs="#facs_264_tr_1_tl_3" n="N003"/>actually by the observation of the sick and of those who were subjected to laboratory conditions.
+               <lb facs="#facs_264_tr_1_tl_4" n="N004"/>In a laboratory you can isolate functions of living bodies, in biology (and of man, in psychology)
+               <lb facs="#facs_264_tr_1_tl_5" n="N005"/>which now run beside the center of the living being, or the personality. Then they can be subjected
+               <lb facs="#facs_264_tr_1_tl_6" n="N006"/>to conditioning experiments. Automatically this happens in states of sickness. Psychological
+               <lb facs="#facs_264_tr_1_tl_7" n="N007"/>compulsions have this character, and in bodily sickness the isolation of functions which are not
+               <lb facs="#facs_264_tr_1_tl_8" n="N008"/>integrated in the whole of the life process, can be observed, and they of course follow the law
+               <lb facs="#facs_264_tr_1_tl_9" n="N009"/>of conditioned reflexes. But no living being, insofar as it lives and is NOT subjected to these
+               <lb facs="#facs_264_tr_1_tl_10" n="N010"/>conditions, follows the stimulus-reflex curve, but has, in spite of all the elements of stimulus
+               <lb facs="#facs_264_tr_1_tl_11" n="N011"/>and reflexive reactions, an element of <rs type="keyword" ref="#Spontaneity">spontaneity </rs>which makes the living <rs type="keyword" ref="#Gestalt">gestalt </rs>able to express
+               <lb facs="#facs_264_tr_1_tl_12" n="N012"/>itself as a whole.
+               <lb facs="#facs_264_tr_1_tl_13" n="N013"/>Here you see the relationship of these insights to the gestalt psychology and biology:
+               <lb facs="#facs_264_tr_1_tl_14" n="N014"/>man is <rs type="keyword" ref="#Freedom">free</rs> insofar as he reacts AS A WHOLE, as a totality. This is the same in the biological realm
+               <lb facs="#facs_264_tr_1_tl_15" n="N015"/>where we have "holistic" reactions, as it is also called, and they are spontaneous, while partial
+               <lb facs="#facs_264_tr_1_tl_16" n="N016"/>reactions can be conditioned by stimulus and response.
+               <lb facs="#facs_264_tr_1_tl_17" n="N017"/>Now all this had one function, namely that <rs type="keyword" ref="#Gestalt">gestalt</rs> psychology SHOWED that man
+               <lb facs="#facs_264_tr_1_tl_18" n="N018"/>IS A WHOLE, and that living beings are wholes. It showed, in these psychological experiments,
+               <lb facs="#facs_264_tr_1_tl_21" n="N019"/>that the whole precedes the part, in our reception of the reality and in the reality itself. You can
+               <lb facs="#facs_264_tr_1_tl_22" n="N020"/>never produce a whole, a totality, but you can always abstract from a totality in thought and in
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

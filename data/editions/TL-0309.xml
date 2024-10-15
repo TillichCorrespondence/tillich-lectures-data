@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p025</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p025</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_25">
+         <graphic url="TL-0309.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=OTQZKIXVNWWHAIKASTQCTRFF&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="235,254 2242,254 2242,1311 235,1311" rendition="TextRegion" xml:id="facs_25_tr_2">
+            <zone points="1094,316 1107,316 1117,326 1145,326 1167,324 1175,316 1217,314 1217,264 1182,264 1167,251 1150,266 1137,264 1124,274 1094,274" rendition="Line" xml:id="facs_25_tr_2_tl_1"/>
+            <zone points="221,479 2179,454 2194,387 221,447" rendition="Line" xml:id="facs_25_tr_2_tl_2"/>
+            <zone points="221,633 2091,612 2236,605 2236,547 221,605" rendition="Line" xml:id="facs_25_tr_2_tl_3"/>
+            <zone points="223,783 2229,758 2231,700 223,738" rendition="Line" xml:id="facs_25_tr_2_tl_4"/>
+            <zone points="291,936 2051,916 2126,909 2126,851 294,886" rendition="Line" xml:id="facs_25_tr_2_tl_5"/>
+            <zone points="223,1084 2081,1067 2231,1052 2231,999 226,1034" rendition="Line" xml:id="facs_25_tr_2_tl_6"/>
+            <zone points="228,1270 241,1270 256,1285 326,1280 414,1285 417,1190 399,1190 387,1177 374,1190 231,1192" rendition="Line" xml:id="facs_25_tr_2_tl_7"/>
+            <zone points="407,1315 2061,1288 2146,1235 409,1232" rendition="Line" xml:id="facs_25_tr_2_tl_8" subtype="paragraph"/>
+         </zone>
+         <zone points="238,1368 2266,1368 2266,2446 238,2446" rendition="TextRegion" xml:id="facs_25_tr_3">
+            <zone points="221,1456 2081,1476 2216,1456 2216,1373 223,1423" rendition="Line" xml:id="facs_25_tr_3_tl_1"/>
+            <zone points="228,1614 248,1621 289,1616 301,1631 324,1637 349,1616 457,1614 457,1564 228,1564" rendition="Line" xml:id="facs_25_tr_3_tl_2"/>
+            <zone points="412,1689 863,1732 1320,1669 1842,1684 2259,1652 2262,1579 572,1649 414,1611" rendition="Line" xml:id="facs_25_tr_3_tl_3" subtype="paragraph"/>
+            <zone points="223,1835 2091,1812 2209,1805 2209,1749 223,1810" rendition="Line" xml:id="facs_25_tr_3_tl_4"/>
+            <zone points="231,1988 1898,1960 2013,2003 2174,1990 2176,1905 231,1958" rendition="Line" xml:id="facs_25_tr_3_tl_5"/>
+            <zone points="221,2139 1903,2164 2169,2146 2169,2061 223,2116" rendition="Line" xml:id="facs_25_tr_3_tl_6"/>
+            <zone points="223,2287 1928,2282 1928,2219 223,2264" rendition="Line" xml:id="facs_25_tr_3_tl_7"/>
+            <zone points="404,2437 1867,2430 2033,2410 2036,2364 404,2395" rendition="Line" xml:id="facs_25_tr_3_tl_8" subtype="paragraph"/>
+         </zone>
+         <zone points="95,2493 2254,2493 2254,3482 95,3482" rendition="TextRegion" xml:id="facs_25_tr_1">
+            <zone points="228,2593 1800,2580 2169,2520 231,2565" rendition="Line" xml:id="facs_25_tr_1_tl_1"/>
+            <zone points="231,2741 663,2743 728,2774 778,2736 1099,2748 1124,2683 964,2688 906,2643 858,2691 326,2691 231,2718" rendition="Line" xml:id="facs_25_tr_1_tl_2"/>
+            <zone points="409,2814 2176,2796 2249,2789 2249,2721 412,2758" rendition="Line" xml:id="facs_25_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="238,2969 2128,2942 2221,2934 2221,2879 238,2939" rendition="Line" xml:id="facs_25_tr_1_tl_4"/>
+            <zone points="238,3130 761,3125 806,3120 806,3070 238,3077" rendition="Line" xml:id="facs_25_tr_1_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0309.jpg" n="part2_p025.jpg" xml:id="img_0025" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p025.jpg"/>
+            
+            <ab facs="#facs_25_tr_2">
+               <lb facs="#facs_25_tr_2_tl_1" n="N001"/>[305]
+               <lb facs="#facs_25_tr_2_tl_2" n="N002"/>Catalonic [Catalonian?] fields---I think it was 411 or so---has been very often painted and described.
+               <lb facs="#facs_25_tr_2_tl_3" n="N003"/>And it was painted as a double battle, a battle on earth and a battle even in the realm of the air, where
+               <lb facs="#facs_25_tr_2_tl_4" n="N004"/>the spirits of the dead were continuing the fight. Now this is symbol, this means this was the decisive
+               <lb facs="#facs_25_tr_2_tl_5" n="N005"/>battle in which Western culture was saved for more than a thousand years. Therefore, far
+               <lb facs="#facs_25_tr_2_tl_6" n="N006"/>beyond the empirical events, this battle represents the existence of Western society. This is a political
+               <lb facs="#facs_25_tr_2_tl_7" n="N007"/>symbol.
+               <lb facs="#facs_25_tr_2_tl_8" n="N008"/>Now I don't need to go into this; you understand immediately that these representative
+            </ab>
+            <ab facs="#facs_25_tr_3">
+               <lb facs="#facs_25_tr_3_tl_1" n="N001"/>symbols are not only signs; they participate in the power of that which they represent and which has
+               <lb facs="#facs_25_tr_3_tl_2" n="N002"/>happened.
+               <lb facs="#facs_25_tr_3_tl_3" n="N003"/>The same is true of religious synbo symbols, and at the time when we spoke about them I said
+               <lb facs="#facs_25_tr_3_tl_4" n="N004"/>that they are the ONLY in which we can speak about that which is ultimate and transcends the
+               <lb facs="#facs_25_tr_3_tl_5" n="N005"/>material reality, the subject-matter which is used IN ORDER to symbolize the ultimate. All these
+               <lb facs="#facs_25_tr_3_tl_6" n="N006"/>symbols are taken from persons and events and qualities and acts which happen in time and space.
+               <lb facs="#facs_25_tr_3_tl_7" n="N007"/>But they all, if they are used to symbolize the ultimate, get a quite different meaning.
+               <lb facs="#facs_25_tr_3_tl_8" n="N008"/>But they cannot be exchanged, because they express, in their very nature, in their
+            </ab>
+            <ab facs="#facs_25_tr_1">
+               <lb facs="#facs_25_tr_1_tl_1" n="N001"/>double nature, pointing-beyond-itself---namely the relationship of a social group to the ultimate---
+               <lb facs="#facs_25_tr_1_tl_2" n="N002"/>which cannot be expressed in any other way.
+               <lb facs="#facs_25_tr_1_tl_3" n="N003"/>These are the common characteristics of all symbols of the last type, the representative type,
+               <lb facs="#facs_25_tr_1_tl_4" n="N004"/>which are not signs but genuine symbols. To this realm belong the artistic symbols, and I will speak
+               <lb facs="#facs_25_tr_1_tl_6" n="N005"/>more about them next time.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

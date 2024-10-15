@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p131</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p131</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_131">
+         <graphic url="TL-0131.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WVRBVDIELQEZUCGUUPIATALY&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="286,174 286,3481 2340,3481 2340,174" rendition="TextRegion" xml:id="facs_131_tr_2">
+            <zone points="1104,246 1130,243 1140,254 1163,254 1168,259 1181,259 1186,254 1229,254 1229,190 1206,190 1191,197 1186,192 1181,197 1168,195 1150,182 1140,195 1104,195" rendition="Line" xml:id="facs_131_tr_2_tl_1"/>
+            <zone points="307,487 2285,469 2285,412 469,412 377,320 307,361" rendition="Line" xml:id="facs_131_tr_2_tl_2"/>
+            <zone points="302,612 2249,620 2249,556 302,563" rendition="Line" xml:id="facs_131_tr_2_tl_3"/>
+            <zone points="300,756 1923,763 1923,704 300,730" rendition="Line" xml:id="facs_131_tr_2_tl_4"/>
+            <zone points="405,963 761,930 804,966 1117,966 1168,917 1227,963 2272,943 2272,855 405,863" rendition="Line" xml:id="facs_131_tr_2_tl_5" subtype="paragraph"/>
+            <zone points="302,1078 584,1068 638,1122 743,1127 2246,1071 2246,1012 2164,1009 302,1035" rendition="Line" xml:id="facs_131_tr_2_tl_6"/>
+            <zone points="300,1217 1089,1222 1224,1270 2175,1219 2175,1163 300,1170" rendition="Line" xml:id="facs_131_tr_2_tl_7"/>
+            <zone points="297,1396 2203,1398 2203,1314 297,1319" rendition="Line" xml:id="facs_131_tr_2_tl_8"/>
+            <zone points="292,1521 2303,1521 2303,1465 292,1468" rendition="Line" xml:id="facs_131_tr_2_tl_9"/>
+            <zone points="289,1672 2200,1675 2200,1621 2095,1608 2021,1639 289,1624" rendition="Line" xml:id="facs_131_tr_2_tl_10"/>
+            <zone points="289,1818 1050,1829 1050,1772 325,1770 289,1790" rendition="Line" xml:id="facs_131_tr_2_tl_11"/>
+            <zone points="387,1977 2180,1970 2180,1895 2103,1931 1926,1898 1767,1934 1713,1898 1296,1936 978,1936 948,1903 914,1936 543,1903 489,1936 387,1900" rendition="Line" xml:id="facs_131_tr_2_tl_12" subtype="paragraph"/>
+            <zone points="282,2121 448,2180 1045,2126 1142,2218 1291,2123 1498,2154 2328,2128 2328,2069 2277,2062 282,2072" rendition="Line" xml:id="facs_131_tr_2_tl_13"/>
+            <zone points="279,2269 999,2274 1112,2356 1165,2308 1452,2290 1501,2341 1596,2274 2267,2277 2267,2218 1608,2221 1544,2164 1483,2223 1173,2244 1124,2205 279,2244" rendition="Line" xml:id="facs_131_tr_2_tl_14"/>
+            <zone points="282,2436 2256,2428 2256,2369 1468,2374 1427,2333 1130,2390 282,2385" rendition="Line" xml:id="facs_131_tr_2_tl_15"/>
+            <zone points="279,2582 2236,2587 2236,2520 279,2528" rendition="Line" xml:id="facs_131_tr_2_tl_16"/>
+            <zone points="279,2723 1178,2733 1219,2771 2333,2738 2333,2669 279,2697" rendition="Line" xml:id="facs_131_tr_2_tl_17"/>
+            <zone points="271,2884 384,2935 2244,2879 2244,2828 2110,2807 271,2833" rendition="Line" xml:id="facs_131_tr_2_tl_18"/>
+            <zone points="274,3033 2049,3045 2274,3027 2277,2976 274,3007" rendition="Line" xml:id="facs_131_tr_2_tl_19"/>
+            <zone points="274,3184 684,3189 748,3237 1785,3232 2031,3304 2195,3291 2192,3184 2110,3214 1744,3132 274,3153" rendition="Line" xml:id="facs_131_tr_2_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0131.jpg" n="part1_p131.jpg" xml:id="img_0131" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p131.jpg"/>
+            
+            <ab facs="#facs_131_tr_2">
+               <lb facs="#facs_131_tr_2_tl_1" n="N001"/>[128]
+               <lb facs="#facs_131_tr_2_tl_2" n="N002"/><rs type="keyword" ref="#Stoicism">many periods whereby the present is usually considered to be the last, and the first one is considered
+               <lb break="no" facs="#facs_131_tr_2_tl_3" n="N003"/>as the Golden Age, or the period of the Paradise, and after this worst-of-all periods will come to an
+               <lb break="no" facs="#facs_131_tr_2_tl_4" n="N004"/>end, the world will burn and a new circular movement of the same kind will start.</rs>
+               <lb facs="#facs_131_tr_2_tl_5" n="N005"/>Now this is metaphysics and religion. It is a religion which is based on the emphasis on natural
+               <lb facs="#facs_131_tr_2_tl_6" n="N006"/>processes, on the emphasis on the repetitious character of the seasons, on the circular character of
+               <lb facs="#facs_131_tr_2_tl_7" n="N007"/>the movements of the stars. <rs type="keyword" ref="#History"><ultimate_concern>Over against this Stoic circular idea of time, which we all will find</ultimate_concern>
+               <lb break="no" facs="#facs_131_tr_2_tl_8" n="N008"/><ultimate_concern>in India and in many other places in the world, we have in Augustine the linear interpretation of</ultimate_concern>
+               <lb break="no" facs="#facs_131_tr_2_tl_9" n="N009"/><ultimate_concern>history: it has a beginning, a moment of creation; it will have an end, the moment of consummation,</ultimate_concern>
+               <lb break="no" facs="#facs_131_tr_2_tl_10" n="N010"/><ultimate_concern>and it runs from period to period through this limited amount of time and has a center, and this</ultimate_concern>
+               <lb break="no" facs="#facs_131_tr_2_tl_11" n="N011"/><ultimate_concern>center is the appearance of the Christ.</ultimate_concern>
+               <lb break="no" facs="#facs_131_tr_2_tl_12" n="N012"/>Now this is a question of ultimate concern, and has to be discussed in connection with the
+               <lb break="no" facs="#facs_131_tr_2_tl_13" n="N013"/>interpretation of history, which is always basically-religious and can express itself in metaphysical terms.
+               <lb break="no" facs="#facs_131_tr_2_tl_14" n="N014"/>But if now somebody comes--[such] as Mr. von Weizsäcker, who is a very religious man and a great
+               <lb break="no" facs="#facs_131_tr_2_tl_15" n="N015"/>physicist at the same time, l estimate him very highly--and says, ''There is so much evidence for the
+               <lb break="no" facs="#facs_131_tr_2_tl_16" n="N016"/>law of entropy that the time of the universe has the character of directed and not of circular time,''
+               <lb break="no" facs="#facs_131_tr_2_tl_17" n="N017"/>then I would say this is a scientific hypothesis which cannot be used from the point of view of theology
+               <lb break="no" facs="#facs_131_tr_2_tl_18" n="N018"/>in order to confirm Augustine over against Aristotle and the Stoics, because it is quite possible that
+               <lb break="no" facs="#facs_131_tr_2_tl_19" n="N019"/>there is some unknown physical reality which overcomes the effects of the law of entropy and which
+               <lb break="no" facs="#facs_131_tr_2_tl_20" n="N020"/>turns the wheel back. It is not possible to refute the Stoics in terms of physical time, as it is not</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

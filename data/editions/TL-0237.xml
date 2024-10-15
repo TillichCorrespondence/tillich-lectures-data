@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p237</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p237</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_237">
+         <graphic url="TL-0237.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SNNOWNDZYINROQHTPTNOOGCE&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="62,257 62,3444 2289,3444 2289,257" rendition="TextRegion" xml:id="facs_237_tr_1">
+            <zone points="1001,326 1019,326 1027,334 1105,334 1110,328 1124,328 1124,254 1094,254 1068,280 1001,280" rendition="Line" xml:id="facs_237_tr_1_tl_1"/>
+            <zone points="326,467 2143,430 2143,379 2098,376 328,422" rendition="Line" xml:id="facs_237_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="141,606 211,646 1006,611 1081,646 1220,608 2231,611 2282,576 2284,494 2191,491 448,531 403,563 144,539" rendition="Line" xml:id="facs_237_tr_1_tl_3"/>
+            <zone points="149,779 1873,742 1954,683 2116,694 2116,630 2026,630 149,699" rendition="Line" xml:id="facs_237_tr_1_tl_4"/>
+            <zone points="147,899 702,902 787,835 1930,801 2228,843 2226,747 149,819" rendition="Line" xml:id="facs_237_tr_1_tl_5"/>
+            <zone points="48,1014 1249,993 1380,961 1382,899 181,931 144,899 48,961" rendition="Line" xml:id="facs_237_tr_1_tl_6"/>
+            <zone points="326,1110 384,1158 606,1156 1516,1076 1751,1126 1911,1062 2191,1078 2226,1003 328,1041" rendition="Line" xml:id="facs_237_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="149,1230 2146,1190 2148,1129 2111,1129 152,1201" rendition="Line" xml:id="facs_237_tr_1_tl_8"/>
+            <zone points="152,1358 2247,1310 2247,1252 2156,1249 155,1326" rendition="Line" xml:id="facs_237_tr_1_tl_9"/>
+            <zone points="155,1492 2124,1444 2167,1380 157,1452" rendition="Line" xml:id="facs_237_tr_1_tl_10"/>
+            <zone points="152,1609 2180,1569 2180,1505 2143,1503 152,1575" rendition="Line" xml:id="facs_237_tr_1_tl_11"/>
+            <zone points="155,1737 2156,1703 2159,1636 2068,1633 157,1705" rendition="Line" xml:id="facs_237_tr_1_tl_12"/>
+            <zone points="152,1852 1780,1841 1783,1769 152,1825" rendition="Line" xml:id="facs_237_tr_1_tl_13"/>
+            <zone points="326,1978 1930,1954 2156,1940 2159,1876 328,1924" rendition="Line" xml:id="facs_237_tr_1_tl_14" subtype="paragraph"/>
+            <zone points="157,2106 1948,2119 2188,2084 2159,2004 160,2076" rendition="Line" xml:id="facs_237_tr_1_tl_15"/>
+            <zone points="160,2239 275,2279 702,2274 806,2244 870,2276 1027,2276 1030,2175 910,2162 163,2196" rendition="Line" xml:id="facs_237_tr_1_tl_16"/>
+            <zone points="342,2365 2020,2332 2100,2319 2103,2279 1959,2250 1927,2282 1278,2268 875,2314 342,2295" rendition="Line" xml:id="facs_237_tr_1_tl_17" subtype="paragraph"/>
+            <zone points="168,2485 2218,2453 2236,2389 168,2455" rendition="Line" xml:id="facs_237_tr_1_tl_18"/>
+            <zone points="168,2615 1879,2573 1927,2626 2012,2629 2260,2586 2263,2498 1863,2543 168,2559" rendition="Line" xml:id="facs_237_tr_1_tl_19"/>
+            <zone points="168,2749 422,2735 707,2749 707,2693 643,2679 168,2698" rendition="Line" xml:id="facs_237_tr_1_tl_20"/>
+            <zone points="344,2805 1113,2778 1172,2821 1884,2818 2215,2762 2215,2693 1105,2754 347,2743" rendition="Line" xml:id="facs_237_tr_1_tl_21" subtype="paragraph"/>
+            <zone points="163,2933 230,2981 448,2978 889,2912 2124,2893 2127,2837 1999,2821 165,2898" rendition="Line" xml:id="facs_237_tr_1_tl_22"/>
+            <zone points="165,3053 2188,3008 2167,2946 168,3026" rendition="Line" xml:id="facs_237_tr_1_tl_23"/>
+            <zone points="168,3181 2263,3133 2266,3074 2175,3074 171,3146" rendition="Line" xml:id="facs_237_tr_1_tl_24"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0237.jpg" n="part1_p237.jpg" xml:id="img_0237" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p237.jpg"/>
+            
+            <ab facs="#facs_237_tr_1">
+               <lb facs="#facs_237_tr_1_tl_1" n="N001"/>[233]
+               <lb facs="#facs_237_tr_1_tl_2" n="N002"/>for the arguments is not less intelligent than that group which works against the arguments.
+               <lb facs="#facs_237_tr_1_tl_3" n="N003"/>So if such a split occurs between the GREATEST, again and again, through the whole histoy of philosophy,
+               <lb facs="#facs_237_tr_1_tl_4" n="N004"/>one must try an explanation for this phenomenon and cannot simply continue arguing or, even less,
+               <lb facs="#facs_237_tr_1_tl_5" n="N005"/>sitting down and saying: "Now let them fight with each other; it is all nonsense anyhow." But one must
+               <lb facs="#facs_237_tr_1_tl_6" n="N006"/>try to find out what is the motive in the one or the other way.
+               <lb facs="#facs_237_tr_1_tl_7" n="N007"/>There are three main types of arguments: t<rs type="keyword" ref="#Ontological_argument">he ontological,</rs> <rs type="keyword" ref="#Cosmological_argument">the cosmological </rs>and the <rs type="keyword" ref="#Teleological_argument">teleological</rs>
+               <lb facs="#facs_237_tr_1_tl_8" n="N008"/>types. The ontological type of philosophy arguing for the existence of God speaks of the immediate
+               <lb facs="#facs_237_tr_1_tl_9" n="N009"/>certainty of something ultimate or unconditional, and derives from this immediate certainty the existence
+               <lb facs="#facs_237_tr_1_tl_10" n="N010"/>of God. The cosmological argument looks at the nature of reality as we encounter it, and its finitude
+               <lb facs="#facs_237_tr_1_tl_11" n="N011"/>and transitoriness and contingency, and derives from THAT the necessity of the existence of one God.
+               <lb facs="#facs_237_tr_1_tl_12" n="N012"/>And the teleological argument argues from the fact that there is MEANING in reality, even in nature,
+               <lb facs="#facs_237_tr_1_tl_13" n="N013"/>that there are meaningful structures, and derives from THIS the existence of God.
+               <lb facs="#facs_237_tr_1_tl_14" n="N014"/>Now l would say the following thing: These three arguments---which are only three TYPES
+               <lb facs="#facs_237_tr_1_tl_15" n="N015"/>of arguments because they are valid in many ways---are all TRUE in the DESCRIPTIVE part, and they
+               <lb facs="#facs_237_tr_1_tl_16" n="N016"/>are all WRONG in the CONCLUDING part.
+               <lb facs="#facs_237_tr_1_tl_17" n="N017"/>Let me explain this. They are true insofar as they point to the human situation; they are
+               <lb facs="#facs_237_tr_1_tl_18" n="N018"/>wrong insofar as they make a conclusion from the human situation to the existence of God. First of all,
+               <lb facs="#facs_237_tr_1_tl_19" n="N019"/>God is beyond essence and existence---one cannot say "existence" of Him in any way. God is being itself,
+               <lb facs="#facs_237_tr_1_tl_20" n="N020"/>but not one existing being.
+               <lb facs="#facs_237_tr_1_tl_21" n="N021"/>Beside this, the following can be said: the <rs type="keyword" ref="#Ontological_argument">ontological argument </rs>is right when it says that man
+               <lb facs="#facs_237_tr_1_tl_22" n="N022"/>stands between his own finitude, of which he is aware, and the infinite from which he is excluded,
+               <lb facs="#facs_237_tr_1_tl_23" n="N023"/>although he knows that he belongs to it. This does not give us any right to make a conclusion to the
+               <lb facs="#facs_237_tr_1_tl_24" n="N024"/>existence of a highest being called God. But it gave all those who DEFENDED the ontological argument
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

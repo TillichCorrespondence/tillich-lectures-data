@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p086</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p086</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_86">
+         <graphic url="TL-0370.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HAYPQQCPEPCRKMXGBQENHUNR&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="26,27 2155,27 2155,1251 26,1251" rendition="TextRegion" xml:id="facs_86_tr_1">
+            <zone points="1085,331 1110,333 1128,348 1140,341 1155,348 1206,341 1208,281 1148,281 1138,268 1120,286 1085,286" rendition="Line" xml:id="facs_86_tr_1_tl_2"/>
+            <zone points="1155,484 2138,501 2138,449 2088,434 1835,449 1799,414 1764,449 1672,424 1519,451 1318,451 1283,414 1216,414 1155,451" rendition="Line" xml:id="facs_86_tr_1_tl_3"/>
+            <zone points="233,639 2098,677 2098,586 586,609 539,564 233,612" rendition="Line" xml:id="facs_86_tr_1_tl_5"/>
+            <zone points="238,835 2130,799 2130,744 238,747" rendition="Line" xml:id="facs_86_tr_1_tl_6"/>
+            <zone points="236,935 1536,957 2038,940 2038,892 236,912" rendition="Line" xml:id="facs_86_tr_1_tl_7"/>
+            <zone points="236,1095 2080,1093 2080,1043 236,1048" rendition="Line" xml:id="facs_86_tr_1_tl_8"/>
+            <zone points="228,1241 2148,1283 2148,1190 2068,1185 228,1195" rendition="Line" xml:id="facs_86_tr_1_tl_9"/>
+         </zone>
+         <zone points="235,1335 2239,1335 2239,2425 235,2425" rendition="TextRegion" xml:id="facs_86_tr_3">
+            <zone points="231,1396 313,1446 1875,1414 2148,1404 2148,1348 231,1368" rendition="Line" xml:id="facs_86_tr_3_tl_1"/>
+            <zone points="223,1554 326,1571 852,1561 852,1511 536,1511 519,1529 499,1511 223,1514" rendition="Line" xml:id="facs_86_tr_3_tl_2"/>
+            <zone points="416,1664 1321,1664 1409,1729 1885,1729 1945,1669 2145,1664 2145,1607 1992,1594 416,1596" rendition="Line" xml:id="facs_86_tr_3_tl_3" subtype="paragraph"/>
+            <zone points="238,1812 2140,1860 2206,1754 238,1769" rendition="Line" xml:id="facs_86_tr_3_tl_4"/>
+            <zone points="223,1972 509,2018 1722,1962 1852,2013 2088,1965 2088,1912 223,1922" rendition="Line" xml:id="facs_86_tr_3_tl_5"/>
+            <zone points="221,2113 2018,2125 2236,2118 2236,2060 221,2068" rendition="Line" xml:id="facs_86_tr_3_tl_6"/>
+            <zone points="228,2271 2145,2271 2145,2213 228,2218" rendition="Line" xml:id="facs_86_tr_3_tl_7"/>
+            <zone points="228,2421 1975,2431 2168,2421 2168,2368 228,2371" rendition="Line" xml:id="facs_86_tr_3_tl_8"/>
+         </zone>
+         <zone points="35,2505 2224,2505 2224,3479 35,3479" rendition="TextRegion" xml:id="facs_86_tr_2">
+            <zone points="221,2584 1960,2576 2110,2566 2110,2514 221,2531" rendition="Line" xml:id="facs_86_tr_2_tl_1"/>
+            <zone points="216,2724 1642,2734 2020,2714 2020,2667 216,2694" rendition="Line" xml:id="facs_86_tr_2_tl_2"/>
+            <zone points="216,2875 2133,2870 2133,2815 216,2847" rendition="Line" xml:id="facs_86_tr_2_tl_3"/>
+            <zone points="218,3023 1759,3035 2221,3020 2221,2962 218,2997" rendition="Line" xml:id="facs_86_tr_2_tl_4"/>
+            <zone points="213,3180 1890,3183 1927,3105 213,3148" rendition="Line" xml:id="facs_86_tr_2_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0370.jpg" n="part2_p086.jpg" xml:id="img_0086" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p086.jpg"/>
+            
+            <ab facs="#facs_86_tr_1">
+               <lb facs="#facs_86_tr_1_tl_2" n="N001"/>[365] 
+               <lb facs="#facs_86_tr_1_tl_3" n="N002"/>Alright. After this has been said, I think I can say: in dealing with our presentday [sic.]
+               <lb facs="#facs_86_tr_1_tl_5" n="N003"/>society, I also deal with that being which HAS created the present day society by freedom and
+               <lb facs="#facs_86_tr_1_tl_6" n="N004"/>destiny together, that being which must have characteristics which make such a society possible,
+               <lb facs="#facs_86_tr_1_tl_7" n="N005"/>so that our consideration is always dual--and here a real difficulty arises, namely how much
+               <lb facs="#facs_86_tr_1_tl_8" n="N006"/>belongs to the structure of man as man, and how much belongs to the structure of the Middle
+               <lb facs="#facs_86_tr_1_tl_9" n="N007"/>Westerner in the year 1956? To distinguish these two elements, the one most universal and the
+            </ab>
+            <ab facs="#facs_86_tr_3">
+               <lb facs="#facs_86_tr_3_tl_1" n="N001"/>one most concrete, IS a continuous work of intellectual analysis. But this need [?] doesn't take
+               <lb facs="#facs_86_tr_3_tl_2" n="N002"/>away the one or the other side.
+               <lb facs="#facs_86_tr_3_tl_3" n="N003"/>When we gave the analysis of visual arts, I spoke about the concept of style, and I called
+               <lb facs="#facs_86_tr_3_tl_4" n="N004"/>''style'' an overall form in which a period expresses its ultimate concern. The term style was applied
+               <lb facs="#facs_86_tr_3_tl_5" n="N005"/>also to thinking, to politics, to science, philosophy, etc. But there is a difference between
+               <lb facs="#facs_86_tr_3_tl_6" n="N006"/>the arts and all the other functions of man’s spiritual life: they all are directed to their subject matter
+               <lb facs="#facs_86_tr_3_tl_7" n="N007"/>while art has, by its very nature, the function of expression. Of course a scientific method ALSO
+               <lb facs="#facs_86_tr_3_tl_8" n="N008"/>expresses something about man and about a special period of man, but this is not its purpose. If a
+            </ab>
+            <ab facs="#facs_86_tr_2">
+               <lb facs="#facs_86_tr_2_tl_1" n="N001"/>picture or a poem expresses something, then this is their purpose. Therefore art is always more
+               <lb facs="#facs_86_tr_2_tl_2" n="N002"/>revealing than all the other functions of the human mind for a special style, and the style is
+               <lb facs="#facs_86_tr_2_tl_3" n="N003"/>revealing for the ultimate concern of a special period. The question there is: which is the overall
+               <lb facs="#facs_86_tr_2_tl_4" n="N004"/>style which comes out in the art of our period, and which, in this, as such a style, expresses the actual
+               <lb facs="#facs_86_tr_2_tl_5" n="N005"/>situation of our period, and at the same time potentialities of human nature generally?
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

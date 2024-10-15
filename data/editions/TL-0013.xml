@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p013</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p013</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_13">
+         <graphic url="TL-0013.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=BAPWAZWWKSPDNMXBFZWHUONF&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="1194,234 1359,234 1359,340 1194,340" rendition="TextRegion" xml:id="facs_13_r">
+            <zone points="1197,322 1316,328 1316,308 1198,302" rendition="Line" xml:id="facs_13_l"/>
+         </zone>
+         <zone points="188,371 167,3279 2345,3255 2302,420" rendition="TextRegion" xml:id="facs_13_tr_2">
+            <zone points="266,452 1515,465 2070,516 2068,412 369,420 322,385 263,417" rendition="Line" xml:id="facs_13_tr_2_tl_3"/>
+            <zone points="260,585 526,537 2105,574 2105,518 260,470" rendition="Line" xml:id="facs_13_tr_2_tl_4"/>
+            <zone points="255,619 2099,667 2099,603 2054,590 255,590" rendition="Line" xml:id="facs_13_tr_2_tl_5"/>
+            <zone points="247,704 2158,755 2158,688 1996,672 247,675" rendition="Line" xml:id="facs_13_tr_2_tl_6"/>
+            <zone points="255,797 2086,840 2086,776 252,725" rendition="Line" xml:id="facs_13_tr_2_tl_7"/>
+            <zone points="247,877 680,882 731,927 880,935 2123,933 2121,858 2068,842 247,824" rendition="Line" xml:id="facs_13_tr_2_tl_8"/>
+            <zone points="244,967 1031,973 1028,933 946,922 244,914" rendition="Line" xml:id="facs_13_tr_2_tl_9"/>
+            <zone points="486,1047 680,1050 725,1092 1358,1082 1401,1119 1581,1055 2216,1090 2182,1020 1366,1028 1201,986 1087,1026 829,962 486,978" rendition="Line" xml:id="facs_13_tr_2_tl_10" subtype="paragraph"/>
+            <zone points="237,1129 2153,1167 2153,1106 237,1092" rendition="Line" xml:id="facs_13_tr_2_tl_11"/>
+            <zone points="231,1204 2004,1286 2277,1254 2275,1185 231,1175" rendition="Line" xml:id="facs_13_tr_2_tl_12"/>
+            <zone points="231,1310 2267,1350 2267,1281 229,1252" rendition="Line" xml:id="facs_13_tr_2_tl_13"/>
+            <zone points="231,1382 2105,1414 2062,1350 231,1337" rendition="Line" xml:id="facs_13_tr_2_tl_14"/>
+            <zone points="237,1464 1767,1539 2110,1501 2107,1438 237,1414" rendition="Line" xml:id="facs_13_tr_2_tl_15"/>
+            <zone points="229,1560 1217,1605 1281,1557 2054,1573 1953,1517 229,1501" rendition="Line" xml:id="facs_13_tr_2_tl_16"/>
+            <zone points="218,1632 1831,1653 2014,1695 2161,1666 2115,1605 1985,1634 1656,1592 1602,1626 1531,1592 218,1589" rendition="Line" xml:id="facs_13_tr_2_tl_17"/>
+            <zone points="218,1722 1379,1730 1587,1786 2272,1751 2224,1688 2091,1719 1711,1677 218,1672" rendition="Line" xml:id="facs_13_tr_2_tl_18"/>
+            <zone points="221,1812 590,1860 2105,1836 2089,1775 747,1783 221,1741" rendition="Line" xml:id="facs_13_tr_2_tl_19"/>
+            <zone points="226,1900 1818,1905 2006,1943 2057,1935 2057,1874 223,1831" rendition="Line" xml:id="facs_13_tr_2_tl_20"/>
+            <zone points="215,1975 2068,2006 2025,1937 1913,1967 1560,1927 1525,1959 215,1921" rendition="Line" xml:id="facs_13_tr_2_tl_21"/>
+            <zone points="215,2062 643,2105 1148,2062 2182,2094 2182,2038 213,2004" rendition="Line" xml:id="facs_13_tr_2_tl_22"/>
+            <zone points="199,2134 1645,2198 1727,2155 2216,2174 2216,2121 197,2102" rendition="Line" xml:id="facs_13_tr_2_tl_23"/>
+            <zone points="199,2230 2296,2270 2296,2195 792,2198 407,2158 199,2192" rendition="Line" xml:id="facs_13_tr_2_tl_24"/>
+            <zone points="194,2299 2009,2352 2179,2344 2179,2288 473,2275 287,2238 191,2270" rendition="Line" xml:id="facs_13_tr_2_tl_25"/>
+            <zone points="202,2389 383,2437 598,2405 1905,2429 2134,2469 2131,2378 2020,2357 202,2344" rendition="Line" xml:id="facs_13_tr_2_tl_26"/>
+            <zone points="202,2471 1403,2493 1403,2450 1331,2434 202,2426" rendition="Line" xml:id="facs_13_tr_2_tl_27"/>
+            <zone points="438,2554 2153,2628 2150,2538 2110,2522 2076,2559 1714,2511 1634,2549 1313,2511 438,2527" rendition="Line" xml:id="facs_13_tr_2_tl_28" subtype="paragraph"/>
+            <zone points="183,2650 478,2695 1273,2695 1414,2652 2110,2684 2107,2626 1913,2612 183,2586" rendition="Line" xml:id="facs_13_tr_2_tl_29"/>
+            <zone points="189,2724 898,2735 1159,2790 1600,2788 1645,2753 1693,2790 2325,2793 2325,2713 2150,2700 2091,2732 1900,2692 1634,2724 1467,2687 1238,2719 189,2695" rendition="Line" xml:id="facs_13_tr_2_tl_30"/>
+            <zone points="175,2820 715,2881 1342,2873 1408,2833 2211,2854 2211,2798 2030,2788 175,2780" rendition="Line" xml:id="facs_13_tr_2_tl_31"/>
+            <zone points="202,2915 2192,2934 2161,2873 1975,2902 202,2857" rendition="Line" xml:id="facs_13_tr_2_tl_32"/>
+            <zone points="199,3000 1703,3032 2123,3022 2121,2971 197,2950" rendition="Line" xml:id="facs_13_tr_2_tl_33"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0013.jpg" n="part1_p013.jpg" xml:id="img_0013" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p013.jpg"/>
+            
+            <ab facs="#facs_13_r">
+               <lb facs="#facs_13_l" n="N001"/>[10]
+            </ab>
+            <ab facs="#facs_13_tr_2">
+               <lb facs="#facs_13_tr_2_tl_3" n="N001"/>with these tools, other tools; and with other tools, means of consumption. The ''as''
+               <lb facs="#facs_13_tr_2_tl_4" n="N002"/>character is what is made possible through human language. Only because man is able
+               <lb facs="#facs_13_tr_2_tl_5" n="N003"/>to say "hammer" or "pot" or "cup" or "wheel'', or any other of the primitive tools,
+               <lb facs="#facs_13_tr_2_tl_6" n="N004"/>and makes a thing which always has this character, which has become a universal, which
+               <lb facs="#facs_13_tr_2_tl_7" n="N005"/>has "as'' character--tool as tool, hammer as hammer--man is different from all other
+               <lb facs="#facs_13_tr_2_tl_8" n="N006"/>living beings and produces a whole new world out of the given world, transforming the
+               <lb facs="#facs_13_tr_2_tl_9" n="N007"/>given reality into technical creations.
+               <lb facs="#facs_13_tr_2_tl_10" n="N008"/>Now the immensity of this possibility is visible to the man of the 20th century
+               <lb facs="#facs_13_tr_2_tl_11" n="N009"/>more than to any other man in all history. But even [in] the most primitive man who made
+               <lb facs="#facs_13_tr_2_tl_12" n="N010"/>the fist tool--perhaps a knife, in order to cut--the principal character of man, this fundamental
+               <lb facs="#facs_13_tr_2_tl_13" n="N011"/>function of his culture, was present, and the most complicated artificial brain of today is only
+               <lb facs="#facs_13_tr_2_tl_14" n="N012"/>a logical continuation of this fundamental power of the human mind to produce tools.
+               <lb facs="#facs_13_tr_2_tl_15" n="N013"/>And don't forget what I said, that this is possible only because man has the power of
+               <lb facs="#facs_13_tr_2_tl_16" n="N014"/>universals, is free from the given, has language. Technical functions are dependent--
+               <lb facs="#facs_13_tr_2_tl_17" n="N015"/>as are all other functions--on language. This refers to all realms of reality. I gave, for the
+               <lb facs="#facs_13_tr_2_tl_18" n="N016"/>technical or transforming function, examples only out of physical techniques, but there are also
+               <lb facs="#facs_13_tr_2_tl_19" n="N017"/>biological, psychological, sociological techniques--biological in growing plants and animals
+               <lb facs="#facs_13_tr_2_tl_20" n="N018"/>(as in agriculture, gardening, growing animals); or medicine, the techniques of growing
+               <lb facs="#facs_13_tr_2_tl_21" n="N019"/>in SPITE of interferences from other forces from outside, or disturbances from inside.
+               <lb facs="#facs_13_tr_2_tl_22" n="N020"/>The technical function is all-pervasive. Even this lecture has a technical side, without which
+               <lb facs="#facs_13_tr_2_tl_23" n="N021"/>it would not be possible. This refers also to economies, to politics, to education. This whole
+               <lb facs="#facs_13_tr_2_tl_24" n="N022"/>great realm has been often too much neglected by not only theologians but also [philosophers?].
+               <lb facs="#facs_13_tr_2_tl_25" n="N023"/>and has been treated as something of minor importance. But we cannot do that any more;
+               <lb facs="#facs_13_tr_2_tl_26" n="N024"/>the revenge of the technical realm was that it swallowed all the others, including religion.
+               <lb facs="#facs_13_tr_2_tl_27" n="N025"/>We will see this when I deal with the present situation.
+               <lb facs="#facs_13_tr_2_tl_28" n="N026"/>Generally speaking one can say: the technical function of human culture is the
+               <lb facs="#facs_13_tr_2_tl_29" n="N027"/>function in which means are used for intended ends. So we have now two [?] functions,
+               <lb facs="#facs_13_tr_2_tl_30" n="N028"/>which we have to confront with religion. In the technical function, in all transformation of reality
+               <lb facs="#facs_13_tr_2_tl_31" n="N029"/>for an end--that's technique--there is something implied. It is presupposed, and on the other
+               <lb facs="#facs_13_tr_2_tl_32" n="N030"/>hand enhances the technical function, namely the function of cognitive perception. And this
+               <lb facs="#facs_13_tr_2_tl_33" n="N031"/>is the third one, to which I refer. Now notice here one methodological point. I don't
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

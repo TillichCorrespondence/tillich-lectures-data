@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p159</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p159</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_159">
+         <graphic url="TL-0159.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XOBQHVLWCWHIEUPYKSUGVDJW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="241,268 241,3502 2283,3502 2283,268" rendition="TextRegion" xml:id="facs_159_tr_2">
+            <zone points="1263,346 1290,346 1298,354 1320,359 1365,356 1373,349 1386,349 1383,274 1348,271 1325,291 1313,291 1298,276 1260,279" rendition="Line" xml:id="facs_159_tr_2_tl_1"/>
+            <zone points="331,522 1586,582 2176,580 2174,522 329,474" rendition="Line" xml:id="facs_159_tr_2_tl_2"/>
+            <zone points="321,675 2179,773 2176,658 321,615" rendition="Line" xml:id="facs_159_tr_2_tl_3"/>
+            <zone points="314,848 768,868 803,833 896,899 1431,866 2091,926 2141,899 2139,813 311,793" rendition="Line" xml:id="facs_159_tr_2_tl_4"/>
+            <zone points="309,989 414,1029 959,1029 1022,991 2108,1037 2184,1032 2184,969 306,941" rendition="Line" xml:id="facs_159_tr_2_tl_5"/>
+            <zone points="296,1124 2209,1180 2206,1114 296,1094" rendition="Line" xml:id="facs_159_tr_2_tl_6"/>
+            <zone points="299,1278 713,1295 710,1230 575,1230 552,1252 527,1230 469,1222 296,1222" rendition="Line" xml:id="facs_159_tr_2_tl_7"/>
+            <zone points="492,1375 1938,1431 2244,1428 2241,1375 1727,1375 1687,1335 1343,1368 1303,1330 1247,1365 1205,1328 1157,1363 856,1355 675,1313 489,1345" rendition="Line" xml:id="facs_159_tr_2_tl_8" subtype="paragraph"/>
+            <zone points="291,1526 628,1531 801,1604 1554,1584 2279,1634 2277,1514 2123,1544 1938,1503 1373,1524 1268,1486 831,1509 796,1476 705,1506 289,1466" rendition="Line" xml:id="facs_159_tr_2_tl_9"/>
+            <zone points="271,1697 326,1732 2279,1765 2277,1674 271,1647" rendition="Line" xml:id="facs_159_tr_2_tl_10"/>
+            <zone points="281,1837 417,1827 530,1893 1242,1890 1300,1850 2151,1885 2149,1827 2091,1820 281,1787" rendition="Line" xml:id="facs_159_tr_2_tl_11"/>
+            <zone points="274,1980 2236,2038 2236,1970 271,1953" rendition="Line" xml:id="facs_159_tr_2_tl_12"/>
+            <zone points="266,2139 2224,2196 2221,2118 266,2098" rendition="Line" xml:id="facs_159_tr_2_tl_13"/>
+            <zone points="264,2287 1900,2342 2176,2332 2176,2272 261,2251" rendition="Line" xml:id="facs_159_tr_2_tl_14"/>
+            <zone points="248,2432 2214,2485 2229,2420 246,2400" rendition="Line" xml:id="facs_159_tr_2_tl_15"/>
+            <zone points="241,2578 2254,2638 2254,2570 241,2550" rendition="Line" xml:id="facs_159_tr_2_tl_16"/>
+            <zone points="238,2731 2196,2791 2209,2721 236,2676" rendition="Line" xml:id="facs_159_tr_2_tl_17"/>
+            <zone points="236,2876 966,2902 1057,2949 1109,2904 2254,2932 2254,2869 233,2849" rendition="Line" xml:id="facs_159_tr_2_tl_18"/>
+            <zone points="231,3040 1835,3087 1852,3017 228,2979" rendition="Line" xml:id="facs_159_tr_2_tl_19"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0159.jpg" n="part1_p159.jpg" xml:id="img_0159" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p159.jpg"/>
+            
+            <ab facs="#facs_159_tr_2">
+               <lb facs="#facs_159_tr_2_tl_1" n="N001"/>[156]
+               <lb facs="#facs_159_tr_2_tl_2" n="N002"/>than a small amount of probability, at MOST of the historical events in the biblical literature,
+               <lb facs="#facs_159_tr_2_tl_3" n="N003"/>including those events which have produced the biblical picture of Jesus insofar as he is called
+               <lb facs="#facs_159_tr_2_tl_4" n="N004"/>the Messiah, the Christ. But analagous things have been done and can be done with the holy
+               <lb facs="#facs_159_tr_2_tl_5" n="N005"/>writings of non-Christian religions. There are also many legendary traditions and mythological
+               <lb facs="#facs_159_tr_2_tl_6" n="N006"/>elements. And if modern historical methods have been applied to them, then the same situation
+               <lb facs="#facs_159_tr_2_tl_7" n="N007"/>has become evident.
+               <lb facs="#facs_159_tr_2_tl_8" n="N008"/>But all this does not necessarily mean that there is a conflict between religious truth and
+               <lb facs="#facs_159_tr_2_tl_9" n="N009"/>historical truth. <rs type="keyword" ref="#Historiography">The truth of faith, the religious truth, the truth about our ultimate concern, cannot
+               <lb break="no" facs="#facs_159_tr_2_tl_10" n="N010"/>be made dependent on the historical truth of the stories and legends in which the faith has expressed
+               <lb break="no" facs="#facs_159_tr_2_tl_11" n="N011"/>itself. And l would say this as strongly as possible: it is a disastrous distortion of the meaning
+               <lb break="no" facs="#facs_159_tr_2_tl_12" n="N012"/>of religion if it is identified with the belief in the historical validity of stories. And it is a disastrous
+               <lb break="no" facs="#facs_159_tr_2_tl_13" n="N013"/>distortion of the CHRISTIAN idea of faith if it is identified with the belief in the historical validity
+               <lb break="no" facs="#facs_159_tr_2_tl_14" n="N014"/>of the BIBLICAL stories</rs>. Unfortunately this disastrous situation exists both on high and on low
+               <lb facs="#facs_159_tr_2_tl_15" n="N015"/>levels of sophistication. <rs type="keyword" ref="#Faith">People say that others, or they themselves, cannot have faith---for instance
+               <lb break="no" facs="#facs_159_tr_2_tl_16" n="N016"/>Christian faith, or Jewish faith---because, they tell us, they are not able to believe, for instance, in the
+               <lb break="no" facs="#facs_159_tr_2_tl_17" n="N017"/>biblical miracle stories, because they don't think they are reliably documented---more reliable, they
+               <lb break="no" facs="#facs_159_tr_2_tl_18" n="N018"/>would add, than most of the miracle stories which were told at the same time, and very often had the
+               <lb break="no" facs="#facs_159_tr_2_tl_19" n="N019"/>same content in the whole pagan religious world around Judaism and Christianity</rs>.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

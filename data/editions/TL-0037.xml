@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p037</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p037</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_37">
+         <graphic url="TL-0037.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MWACZBPQIEYPNJKEPKRHWFTN&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="161,240 142,3444 2391,3439 2391,225" rendition="TextRegion" xml:id="facs_37_tr_2">
+            <zone points="1182,272 1195,272 1209,283 1228,286 1280,280 1280,212 1266,212 1252,226 1182,226" rendition="Line" xml:id="facs_37_tr_2_tl_1"/>
+            <zone points="495,455 2167,466 2164,397 493,387" rendition="Line" xml:id="facs_37_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="33,566 191,580 348,525 425,580 613,580 683,531 1015,580 1209,528 2129,539 2129,482 348,495 223,419 114,490 33,471" rendition="Line" xml:id="facs_37_tr_2_tl_4"/>
+            <zone points="237,618 1149,610 1214,645 2094,664 2094,574 2053,564 237,572" rendition="Line" xml:id="facs_37_tr_2_tl_5"/>
+            <zone points="229,700 327,743 1372,743 1590,694 2178,716 2153,653 229,672" rendition="Line" xml:id="facs_37_tr_2_tl_6"/>
+            <zone points="231,790 2216,790 2216,743 2143,730 231,741" rendition="Line" xml:id="facs_37_tr_2_tl_7"/>
+            <zone points="226,868 2115,882 2115,825 2077,822 226,819" rendition="Line" xml:id="facs_37_tr_2_tl_8"/>
+            <zone points="223,947 2148,958 2148,896 2069,893 223,907" rendition="Line" xml:id="facs_37_tr_2_tl_9"/>
+            <zone points="223,1035 1598,1040 1674,1078 1761,1037 2088,1040 2088,994 1919,988 223,1007" rendition="Line" xml:id="facs_37_tr_2_tl_10"/>
+            <zone points="226,1122 2197,1141 2197,1075 2020,1067 226,1070" rendition="Line" xml:id="facs_37_tr_2_tl_11"/>
+            <zone points="218,1203 2156,1212 2156,1163 1808,1146 218,1173" rendition="Line" xml:id="facs_37_tr_2_tl_12"/>
+            <zone points="218,1290 2115,1296 2115,1239 1960,1231 218,1241" rendition="Line" xml:id="facs_37_tr_2_tl_13"/>
+            <zone points="223,1388 1182,1367 1484,1413 2156,1413 2156,1329 223,1323" rendition="Line" xml:id="facs_37_tr_2_tl_14"/>
+            <zone points="212,1451 2162,1462 2121,1408 212,1424" rendition="Line" xml:id="facs_37_tr_2_tl_15"/>
+            <zone points="212,1533 2129,1546 2129,1497 1936,1489 212,1492" rendition="Line" xml:id="facs_37_tr_2_tl_16"/>
+            <zone points="215,1623 2110,1628 2110,1584 1966,1571 215,1582" rendition="Line" xml:id="facs_37_tr_2_tl_17"/>
+            <zone points="212,1710 1966,1718 1966,1666 1887,1653 212,1658" rendition="Line" xml:id="facs_37_tr_2_tl_18"/>
+            <zone points="460,1870 896,1873 1084,1928 1511,1873 2091,1887 2091,1824 1391,1838 1353,1800 1108,1783 460,1816" rendition="Line" xml:id="facs_37_tr_2_tl_19" subtype="paragraph"/>
+            <zone points="204,1955 2110,1966 2045,1900 1879,1933 1688,1900 1568,1933 204,1928" rendition="Line" xml:id="facs_37_tr_2_tl_20"/>
+            <zone points="204,2045 2107,2080 2107,2001 2050,1993 204,2001" rendition="Line" xml:id="facs_37_tr_2_tl_21"/>
+            <zone points="199,2126 1859,2124 1900,2164 2156,2181 2156,2088 2004,2080 199,2099" rendition="Line" xml:id="facs_37_tr_2_tl_22"/>
+            <zone points="204,2243 2031,2219 1987,2162 1015,2186 272,2129 204,2170" rendition="Line" xml:id="facs_37_tr_2_tl_23"/>
+            <zone points="204,2298 833,2341 2088,2336 2088,2257 1827,2241 204,2249" rendition="Line" xml:id="facs_37_tr_2_tl_24"/>
+            <zone points="199,2382 664,2434 1519,2426 1571,2379 2388,2399 2388,2339 2238,2328 199,2333" rendition="Line" xml:id="facs_37_tr_2_tl_25"/>
+            <zone points="199,2464 2151,2477 2151,2426 2099,2418 1609,2404 199,2423" rendition="Line" xml:id="facs_37_tr_2_tl_26"/>
+            <zone points="199,2546 1778,2548 2137,2595 2104,2475 1756,2513 199,2516" rendition="Line" xml:id="facs_37_tr_2_tl_27"/>
+            <zone points="193,2635 2069,2646 2069,2595 1870,2578 1533,2575 1481,2611 1228,2575 193,2584" rendition="Line" xml:id="facs_37_tr_2_tl_28"/>
+            <zone points="199,2725 1318,2712 1500,2755 2064,2755 2064,2676 2023,2663 199,2671" rendition="Line" xml:id="facs_37_tr_2_tl_29"/>
+            <zone points="193,2801 2028,2850 2028,2758 1993,2755 193,2755" rendition="Line" xml:id="facs_37_tr_2_tl_30"/>
+            <zone points="193,2883 1247,2899 1244,2850 1179,2837 193,2845" rendition="Line" xml:id="facs_37_tr_2_tl_31"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0037.jpg" n="part1_p037.jpg" xml:id="img_0037" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p037.jpg"/>
+            
+            <ab facs="#facs_37_tr_2">
+               <lb facs="#facs_37_tr_2_tl_1" n="N001"/>[34]
+               <lb facs="#facs_37_tr_2_tl_3" n="N002"/><rs type="keyword" ref="#Language">It is quite different with the Roman language. If you want to say something
+               <lb break="no" facs="#facs_37_tr_2_tl_4" n="N003"/>with great precision, then you use Latin, the language of that nation whose concern was
+               <lb break="no" facs="#facs_37_tr_2_tl_5" n="N004"/>the law, the law between man and man. The Roman language is characterized by the
+               <lb break="no" facs="#facs_37_tr_2_tl_6" n="N005"/>creation of the law in terms of preciseness of saying--in a way which cannot be surpassed,
+               <lb break="no" facs="#facs_37_tr_2_tl_7" n="N006"/>and never was reached, by any other language--the fundamental principles of human relations
+               <lb break="no" facs="#facs_37_tr_2_tl_8" n="N007"/>in terms of the law. The Romans considered their law as that which was guaranteed by
+               <lb break="no" facs="#facs_37_tr_2_tl_9" n="N008"/>their gods, as that for which they made their empire, as that to which they subjected all
+               <lb break="no" facs="#facs_37_tr_2_tl_10" n="N009"/>nations of the world. It is not so simple as the anti-imperialists say, as if the Romans
+               <lb break="no" facs="#facs_37_tr_2_tl_11" n="N010"/>wanted to conquer the whole world--such a thing never happens, even if the opposite group
+               <lb break="no" facs="#facs_37_tr_2_tl_12" n="N011"/>always calls it so, in propagandistic terms. But the reason is always something very similar
+               <lb break="no" facs="#facs_37_tr_2_tl_13" n="N012"/>to what happened in this country when, in the last half-century, it became an imperial
+               <lb break="no" facs="#facs_37_tr_2_tl_14" n="N013"/>power, not for the sake of conquering other nations, but driven by the belief in the right
+               <lb break="no" facs="#facs_37_tr_2_tl_15" n="N014"/>of the democratic idea. Without the sanctity of the law in the unconscious of the whole
+               <lb break="no" facs="#facs_37_tr_2_tl_16" n="N015"/>Roman nation, without the language in which this is expressed, no Roman empire would
+               <lb break="no" facs="#facs_37_tr_2_tl_17" n="N016"/>ever have been created. And it is important to know--we will come to it later--that the
+               <lb break="no" facs="#facs_37_tr_2_tl_18" n="N017"/>Christian Church took many elements of the Roman law into its own canon law.
+               <lb break="no" facs="#facs_37_tr_2_tl_19" n="N018"/><rs type="keyword" ref="#Mysticism">Or let me speak of the German language, which is my own. I didn't know</rs>
+               <lb break="no" facs="#facs_37_tr_2_tl_20" n="N019"/><rs type="keyword" ref="#Mysticism">much about it till I came to this country 22 years ago--I was already rather old--then</rs>
+               <lb break="no" facs="#facs_37_tr_2_tl_21" n="N020"/><rs type="keyword" ref="#Mysticism">noticed something about the German language, namely that it is based on the mysticism</rs>
+               <lb break="no" facs="#facs_37_tr_2_tl_22" n="N021"/><rs type="keyword" ref="#Mysticism">of the Middle Ages. This is empirically true, and is true in its very essence. The language</rs>
+               <lb break="no" facs="#facs_37_tr_2_tl_23" n="N022"/><rs type="keyword" ref="#Mysticism">of Meister Eckhart and of the great mystics of the Middle Ages was translated into</rs>
+               <lb break="no" facs="#facs_37_tr_2_tl_24" n="N023"/><rs type="keyword" ref="#Mysticism">German, and out of this the German philosophical and, partly, theological language was</rs>
+               <lb break="no" facs="#facs_37_tr_2_tl_25" n="N024"/><rs type="keyword" ref="#Mysticism">born and entered the general popular language of the Germans. And whenever you hear my lectures</rs>
+               <lb break="no" facs="#facs_37_tr_2_tl_26" n="N025"/><rs type="keyword" ref="#Mysticism">don’t forget that my encounter with reality is largely influenced by the German encounter</rs>
+               <lb break="no" facs="#facs_37_tr_2_tl_27" n="N026"/><rs type="keyword" ref="#Mysticism">with reality, which usually is called mystical. Now of course if I use the word ''mystical''</rs>
+               <lb break="no" facs="#facs_37_tr_2_tl_28" n="N027"/><rs type="keyword" ref="#Mysticism">here, and very often later on, it is never used in the sense of ''absurd,'' or ''nonsense,''</rs>
+               <lb break="no" facs="#facs_37_tr_2_tl_29" n="N028"/><rs type="keyword" ref="#Mysticism">as sometimes used today. It means what it says, in Greek, namely the presence of the</rs>
+               <lb break="no" facs="#facs_37_tr_2_tl_30" n="N029"/><rs type="keyword" ref="#Mysticism">mystery in the depth of reality, the mystery of our being, of our existence, and the</rs>
+               <lb break="no" facs="#facs_37_tr_2_tl_31" n="N030"/><rs type="keyword" ref="#Mysticism">EXPERIENCE of this mysterious depth of being.</rs></rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

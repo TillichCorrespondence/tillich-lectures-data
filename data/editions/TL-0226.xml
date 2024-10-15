@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p226</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p226</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_226">
+         <graphic url="TL-0226.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YHYGLUOGWSLCXRMUHGYBESSJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="50,197 50,3495 2316,3495 2316,197" rendition="TextRegion" xml:id="facs_226_tr_1">
+            <zone points="1168,268 1193,268 1208,278 1282,278 1282,214 1255,214 1240,207 1230,212 1223,209 1218,214 1203,209 1186,226 1168,226" rendition="Line" xml:id="facs_226_tr_1_tl_1"/>
+            <zone points="354,416 2064,423 2108,467 2248,428 2248,369 2162,310 2103,369 354,374" rendition="Line" xml:id="facs_226_tr_1_tl_2"/>
+            <zone points="344,556 2226,581 2226,526 344,512" rendition="Line" xml:id="facs_226_tr_1_tl_3"/>
+            <zone points="347,716 595,733 780,723 780,686 743,662 721,684 704,667 544,664 526,679 470,662 445,679 423,657 347,657" rendition="Line" xml:id="facs_226_tr_1_tl_4"/>
+            <zone points="524,795 622,868 706,834 1240,846 1282,804 2288,814 2288,750 2214,745 524,733" rendition="Line" xml:id="facs_226_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="342,937 2140,964 2138,900 2101,898 342,908" rendition="Line" xml:id="facs_226_tr_1_tl_6"/>
+            <zone points="347,1095 2192,1102 2192,1046 347,1060" rendition="Line" xml:id="facs_226_tr_1_tl_7"/>
+            <zone points="335,1237 2312,1264 2263,1193 335,1210" rendition="Line" xml:id="facs_226_tr_1_tl_8"/>
+            <zone points="509,1385 2295,1419 2295,1348 2234,1343 509,1358" rendition="Line" xml:id="facs_226_tr_1_tl_9" subtype="paragraph"/>
+            <zone points="332,1538 2219,1557 2219,1496 2133,1493 332,1508" rendition="Line" xml:id="facs_226_tr_1_tl_10"/>
+            <zone points="339,1697 1572,1707 1572,1651 1373,1629 1191,1663 339,1648" rendition="Line" xml:id="facs_226_tr_1_tl_11"/>
+            <zone points="509,1840 1771,1872 2266,1862 2266,1813 1552,1774 507,1796" rendition="Line" xml:id="facs_226_tr_1_tl_12" subtype="paragraph"/>
+            <zone points="335,1998 2157,2022 2155,1961 2069,1956 335,1963" rendition="Line" xml:id="facs_226_tr_1_tl_13"/>
+            <zone points="332,2145 1528,2157 1466,2093 332,2096" rendition="Line" xml:id="facs_226_tr_1_tl_14"/>
+            <zone points="499,2285 859,2303 898,2339 2061,2354 2074,2244 497,2246" rendition="Line" xml:id="facs_226_tr_1_tl_15" subtype="paragraph"/>
+            <zone points="248,2485 342,2443 2123,2460 2123,2406 1838,2386 248,2408" rendition="Line" xml:id="facs_226_tr_1_tl_16"/>
+            <zone points="320,2603 2224,2613 2224,2551 1592,2534 320,2563" rendition="Line" xml:id="facs_226_tr_1_tl_17"/>
+            <zone points="320,2750 2130,2758 2098,2696 320,2713" rendition="Line" xml:id="facs_226_tr_1_tl_18"/>
+            <zone points="317,2890 2143,2910 2143,2844 317,2849" rendition="Line" xml:id="facs_226_tr_1_tl_19"/>
+            <zone points="317,3043 2091,3060 2091,3004 317,3004" rendition="Line" xml:id="facs_226_tr_1_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0226.jpg" n="part1_p226.jpg" xml:id="img_0226" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p226.jpg"/>
+            
+            <ab facs="#facs_226_tr_1">
+               <lb facs="#facs_226_tr_1_tl_1" n="N001"/>[222]
+               <lb facs="#facs_226_tr_1_tl_2" n="N002"/>ALSO so in Christianity, in Judaism, in Islam---in the monotheistic religions which have criticized
+               <lb facs="#facs_226_tr_1_tl_3" n="N003"/>to a certain extent <rs type="keyword" ref="#Idolatrous">idolatrous</rs> elements in the religions in which they appeared; but this criticism
+               <lb facs="#facs_226_tr_1_tl_4" n="N004"/>is not strong enough.
+               <lb facs="#facs_226_tr_1_tl_5" n="N005"/>The weakness of all faith is, as <rs type="person">Calvin</rs> said, that the human mind is a continuously-working
+               <lb facs="#facs_226_tr_1_tl_6" n="N006"/>f<rs type="keyword" ref="#Idolatrous">actory of idols.</rs> We all produce idols continuously. Sometimes our work becomes an idol,
+               <lb facs="#facs_226_tr_1_tl_7" n="N007"/>sometimes a beloved one becomes an idol, sometimes a religious dogma, a sacrament---and the
+               <lb facs="#facs_226_tr_1_tl_8" n="N008"/>human mind never escapes this: it is always creating ultimates which are not REALLY ultimate.
+               <lb facs="#facs_226_tr_1_tl_9" n="N009"/>This is the reason that I said (I think it was in the second hour of these lectures) something
+               <lb facs="#facs_226_tr_1_tl_10" n="N010"/>about which l have often been asked in the meantime, and which I want to repeat now, in order
+               <lb facs="#facs_226_tr_1_tl_11" n="N011"/>to say what I believe IS the criterion of the <rs type="keyword" ref="#Ultimacy">REALLY ultimate.</rs>
+               <lb facs="#facs_226_tr_1_tl_12" n="N012"/>We cannot have the really ultimate as something which we can grasp---then it wouldn't be
+               <lb facs="#facs_226_tr_1_tl_13" n="N013"/>ultimate at all. <rs type="keyword" ref="#Ultimacy">Ultimacy</rs> includes transcendence beyond anything relative, and our language,
+               <lb facs="#facs_226_tr_1_tl_14" n="N014"/>and everything we would say about the ultimate, IS relative.
+               <lb facs="#facs_226_tr_1_tl_15" n="N015"/>Therefore I said: the ONLY real ultimate is<rs type="keyword" ref="#Sacrifice"> that finite which sacrifices itself AS
+               <lb break="no" facs="#facs_226_tr_1_tl_16" n="N016"/>finit</rs>e. I referred this to the Messiah who, against all expectations, instead of bringing a new
+               <lb facs="#facs_226_tr_1_tl_17" n="N017"/>period of history, was crucified by the OLD period of history. Then I got from many of you the
+               <lb facs="#facs_226_tr_1_tl_18" n="N018"/>question, "Now there are so MANY martyrs; <rs type="keyword" ref="#Sacrifice">self-sacrific</rs>e canNOT be a criterion, because in
+               <lb facs="#facs_226_tr_1_tl_19" n="N019"/>every very<rs type="keyword" ref="#Idolatrous"> idolatrous</rs> or quasi-religious movement, there are people who <rs type="keyword" ref="#Sacrifice">sacrifice themselves."</rs>
+               <lb facs="#facs_226_tr_1_tl_20" n="N020"/>Now this was a misunderstanding, for which I am responsible, and therefore I am glad that
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

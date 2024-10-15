@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p086</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p086</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_86">
+         <graphic url="TL-0086.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PPGHYURFLMGWWFPLSARPISST&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="304,228 304,3448 2233,3448 2233,228" rendition="TextRegion" xml:id="facs_86_tr_2">
+            <zone points="1111,273 1123,273 1137,285 1144,282 1183,285 1187,280 1199,280 1202,223 1178,225 1171,218 1139,235 1111,237" rendition="Line" xml:id="facs_86_tr_2_tl_1"/>
+            <zone points="620,500 1104,493 1238,534 1336,534 1398,479 2032,500 2032,448 1566,428 620,443" rendition="Line" xml:id="facs_86_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="316,577 1041,572 1166,630 1458,613 1510,574 1855,577 1891,613 2147,589 2147,536 1807,519 1774,551 316,543" rendition="Line" xml:id="facs_86_tr_2_tl_3"/>
+            <zone points="321,668 2126,675 2126,613 1850,639 1805,603 321,622" rendition="Line" xml:id="facs_86_tr_2_tl_4"/>
+            <zone points="318,744 2004,740 2106,778 2106,704 318,701" rendition="Line" xml:id="facs_86_tr_2_tl_5"/>
+            <zone points="321,838 1994,826 2073,869 2197,838 2197,780 321,792" rendition="Line" xml:id="facs_86_tr_2_tl_6"/>
+            <zone points="316,912 2140,926 2140,879 1960,855 1125,888 316,859" rendition="Line" xml:id="facs_86_tr_2_tl_7"/>
+            <zone points="321,1003 2221,1003 2221,943 2142,931 1944,965 1391,957 1336,919 1254,957 321,953" rendition="Line" xml:id="facs_86_tr_2_tl_8"/>
+            <zone points="316,1080 2121,1087 2121,1041 1836,1029 316,1036" rendition="Line" xml:id="facs_86_tr_2_tl_9"/>
+            <zone points="318,1173 2092,1173 2092,1125 2035,1113 318,1123" rendition="Line" xml:id="facs_86_tr_2_tl_10"/>
+            <zone points="608,1333 2109,1340 2109,1273 608,1283" rendition="Line" xml:id="facs_86_tr_2_tl_11" subtype="paragraph"/>
+            <zone points="316,1422 2150,1427 2147,1379 2068,1362 1168,1391 314,1357" rendition="Line" xml:id="facs_86_tr_2_tl_12"/>
+            <zone points="309,1506 2209,1508 2209,1460 1769,1443 1551,1475 309,1455" rendition="Line" xml:id="facs_86_tr_2_tl_13"/>
+            <zone points="326,1589 2023,1604 2178,1587 2176,1530 323,1537" rendition="Line" xml:id="facs_86_tr_2_tl_14"/>
+            <zone points="311,1673 2116,1678 2116,1628 1999,1616 311,1628" rendition="Line" xml:id="facs_86_tr_2_tl_15"/>
+            <zone points="306,1752 1233,1759 1233,1697 1044,1731 931,1700 706,1700 677,1728 637,1700 306,1714" rendition="Line" xml:id="facs_86_tr_2_tl_16"/>
+            <zone points="610,1843 2106,1843 2106,1788 610,1786" rendition="Line" xml:id="facs_86_tr_2_tl_17" subtype="paragraph"/>
+            <zone points="309,1925 2116,1925 2116,1879 1805,1862 309,1879" rendition="Line" xml:id="facs_86_tr_2_tl_18"/>
+            <zone points="309,2008 448,2051 2078,2013 2051,1953 309,1965" rendition="Line" xml:id="facs_86_tr_2_tl_19"/>
+            <zone points="311,2087 977,2130 1549,2085 2176,2099 2152,2039 311,2047" rendition="Line" xml:id="facs_86_tr_2_tl_20"/>
+            <zone points="309,2195 467,2164 2059,2195 2059,2114 309,2118" rendition="Line" xml:id="facs_86_tr_2_tl_21"/>
+            <zone points="306,2250 2071,2269 2071,2205 1791,2195 1723,2233 306,2224" rendition="Line" xml:id="facs_86_tr_2_tl_22"/>
+            <zone points="309,2343 2138,2346 2138,2298 2056,2288 309,2296" rendition="Line" xml:id="facs_86_tr_2_tl_23"/>
+            <zone points="306,2430 2226,2430 2226,2379 1992,2355 1015,2396 306,2372" rendition="Line" xml:id="facs_86_tr_2_tl_24"/>
+            <zone points="306,2509 2221,2516 2221,2466 1915,2444 1393,2482 306,2456" rendition="Line" xml:id="facs_86_tr_2_tl_25"/>
+            <zone points="309,2602 2092,2597 2092,2552 2032,2537 309,2545" rendition="Line" xml:id="facs_86_tr_2_tl_26"/>
+            <zone points="309,2681 1340,2671 1419,2726 2174,2686 2174,2624 309,2624" rendition="Line" xml:id="facs_86_tr_2_tl_27"/>
+            <zone points="297,2753 1159,2765 1204,2803 2190,2765 2190,2712 2090,2705 297,2729" rendition="Line" xml:id="facs_86_tr_2_tl_28"/>
+            <zone points="297,2844 2068,2844 2068,2803 1937,2794 297,2815" rendition="Line" xml:id="facs_86_tr_2_tl_29"/>
+            <zone points="299,2935 2097,2932 2097,2884 1944,2870 299,2889" rendition="Line" xml:id="facs_86_tr_2_tl_30"/>
+            <zone points="290,3009 2178,3019 2178,2963 2018,2959 290,2987" rendition="Line" xml:id="facs_86_tr_2_tl_31"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0086.jpg" n="part1_p086.jpg" xml:id="img_0086" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p086.jpg"/>
+            
+            <ab facs="#facs_86_tr_2">
+               <lb facs="#facs_86_tr_2_tl_1" n="N001"/>[83]
+               <lb facs="#facs_86_tr_2_tl_2" n="N002"/><progress>Now another example: philosophy. I would say, with respect to
+               <lb break="no" facs="#facs_86_tr_2_tl_3" n="N003"/>technical analysis-for instance, in the realm of logic, or certainly in the knowledge of
+               <lb break="no" facs="#facs_86_tr_2_tl_4" n="N004"/>nature--we are in many respects superior to Plato and even to Aristotle, although it's
+               <lb break="no" facs="#facs_86_tr_2_tl_5" n="N005"/>hard to say that! <hi style="font-style: italic;">[some laughter]</hi> But it's true! But if you take these two men
+               <lb break="no" facs="#facs_86_tr_2_tl_6" n="N006"/>AS PHILOSOPHERS, as people who had a vision in which ultimate concern is expressed
+               <lb break="no" facs="#facs_86_tr_2_tl_7" n="N007"/>in rational terms, then I would say: even Parmenides and Heraclitus, BEFORE Plato,
+               <lb break="no" facs="#facs_86_tr_2_tl_8" n="N008"/>have not been surpassed by any philosophy, EVER SINCE, IN THE POWER AND DEPTH
+               <lb break="no" facs="#facs_86_tr_2_tl_9" n="N009"/>OF VISION INTO THE NATURE OF THINGS AND MEN. There is no progress
+               <lb break="no" facs="#facs_86_tr_2_tl_10" n="N010"/>whatsoever. But there is change: we have learning--[which is] [?] something else.
+               <lb break="no" facs="#facs_86_tr_2_tl_11" n="N011"/>I come now to the last argument for and against the idea of progress
+               <lb break="no" facs="#facs_86_tr_2_tl_12" n="N012"/>(and here we finish this whole section), coming out of the religious realm. And here,
+               <lb break="no" facs="#facs_86_tr_2_tl_13" n="N013"/>theologians would say: ''Now isn't there a progress from the Old Testament to the New
+               <lb break="no" facs="#facs_86_tr_2_tl_14" n="N014"/>Testament, from the Synagogue to the Church? Isn't it one of the beloved subjects of
+               <lb break="no" facs="#facs_86_tr_2_tl_15" n="N015"/>Medieval art, that the blindness of the Synagogue is taken away by the opened eyes
+               <lb break="no" facs="#facs_86_tr_2_tl_16" n="N016"/>of the Church? And isn't that a progress?
+               <lb break="no" facs="#facs_86_tr_2_tl_17" n="N017"/>Now this argument, of course, has to be taken very seriously, but the
+               <lb break="no" facs="#facs_86_tr_2_tl_18" n="N018"/>question is: What does that mean for the idea of progress? It certainly does mean
+               <lb break="no" facs="#facs_86_tr_2_tl_19" n="N019"/>that according to the Christian doctrine, there is a center of history, and that this
+               <lb break="no" facs="#facs_86_tr_2_tl_20" n="N020"/>center of history is the appearance of Jesus as the Christ--there is no doubt about this,
+               <lb break="no" facs="#facs_86_tr_2_tl_21" n="N021"/>insofar as we are in the realm of Christian thought. And everything before [this]
+               <lb break="no" facs="#facs_86_tr_2_tl_22" n="N022"/>--paganism and Judaism and humanism, all three--are preparations. And everything
+               <lb break="no" facs="#facs_86_tr_2_tl_23" n="N023"/>since are reception of what has happened in this moment. BUT, there is no progress
+               <lb break="no" facs="#facs_86_tr_2_tl_24" n="N024"/>in the sense that the appearance of the Christ is the RESULT of progressive developments
+               <lb break="no" facs="#facs_86_tr_2_tl_25" n="N025"/>before Him, and there is no progress AFTER Him, in the sense that the church may ever
+               <lb break="no" facs="#facs_86_tr_2_tl_26" n="N026"/>produce somebody, or mankind may ever produce somebody, who will surpass Him.
+               <lb break="no" facs="#facs_86_tr_2_tl_27" n="N027"/>This is completely outside of Christian thinking. The idea is a structural idea, and not
+               <lb break="no" facs="#facs_86_tr_2_tl_28" n="N028"/>an idea of moving, progressive activities. There is the idea of a center, a center which is
+               <lb break="no" facs="#facs_86_tr_2_tl_29" n="N029"/>surrounded by preparation and reception. But this is not the idea of a continuous
+               <lb break="no" facs="#facs_86_tr_2_tl_30" n="N030"/>progress. But if there is a progress in the period of reception, the period after the
+               <lb break="no" facs="#facs_86_tr_2_tl_31" n="N031"/>appearance of the Christ, then the official Christian doctrine, especially the last book of</progress>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

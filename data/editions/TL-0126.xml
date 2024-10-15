@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p126</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p126</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_126">
+         <graphic url="TL-0126.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WAKZKEUKLPJOHEMNGDUZIKHK&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="17,200 17,3490 2388,3490 2388,200" rendition="TextRegion" xml:id="facs_126_tr_1">
+            <zone points="1199,261 1228,261 1236,269 1260,269 1268,277 1282,277 1289,269 1316,269 1316,202 1279,205 1266,194 1236,218 1199,218" rendition="Line" xml:id="facs_126_tr_1_tl_1"/>
+            <zone points="346,417 417,452 1409,439 1468,484 1872,503 2247,428 2247,380 2188,364 1909,378 1816,287 1723,378 721,372 683,335 643,372 346,372" rendition="Line" xml:id="facs_126_tr_1_tl_2"/>
+            <zone points="348,582 1364,564 2140,612 2140,521 1792,500 348,534" rendition="Line" xml:id="facs_126_tr_1_tl_3"/>
+            <zone points="343,739 423,774 532,739 787,771 864,718 2164,726 2164,667 343,681" rendition="Line" xml:id="facs_126_tr_1_tl_4"/>
+            <zone points="343,853 2204,872 2172,811 1898,800 343,827" rendition="Line" xml:id="facs_126_tr_1_tl_5"/>
+            <zone points="346,1016 2180,1021 2180,965 346,962" rendition="Line" xml:id="facs_126_tr_1_tl_6"/>
+            <zone points="338,1157 1074,1204 1149,1170 2223,1170 2223,1117 1438,1098 338,1133" rendition="Line" xml:id="facs_126_tr_1_tl_7"/>
+            <zone points="343,1319 936,1321 986,1367 1058,1316 1569,1380 1789,1369 1840,1319 2289,1324 2289,1268 2196,1266 845,1247 343,1287" rendition="Line" xml:id="facs_126_tr_1_tl_8"/>
+            <zone points="346,1468 896,1460 944,1508 1127,1510 2087,1486 2289,1523 2289,1414 346,1430" rendition="Line" xml:id="facs_126_tr_1_tl_9"/>
+            <zone points="348,1646 2382,1646 2361,1526 2292,1574 1970,1585 348,1566" rendition="Line" xml:id="facs_126_tr_1_tl_10"/>
+            <zone points="348,1768 2313,1776 2313,1678 2228,1720 1957,1720 1898,1680 1856,1720 348,1715" rendition="Line" xml:id="facs_126_tr_1_tl_12"/>
+            <zone points="338,1957 606,1922 2302,1925 2302,1861 338,1872" rendition="Line" xml:id="facs_126_tr_1_tl_14"/>
+            <zone points="335,2063 883,2098 2260,2076 2260,2023 2201,2018 473,2005 335,2037" rendition="Line" xml:id="facs_126_tr_1_tl_15"/>
+            <zone points="335,2217 2225,2231 2225,2170 2167,2164 335,2185" rendition="Line" xml:id="facs_126_tr_1_tl_16"/>
+            <zone points="332,2372 2239,2404 2239,2321 2039,2310 332,2316" rendition="Line" xml:id="facs_126_tr_1_tl_17"/>
+            <zone points="245,2539 2316,2531 2316,2473 343,2489 245,2430" rendition="Line" xml:id="facs_126_tr_1_tl_18"/>
+            <zone points="114,2672 1244,2667 1462,2725 1726,2723 1821,2669 2247,2677 2247,2624 1710,2603 114,2640" rendition="Line" xml:id="facs_126_tr_1_tl_19"/>
+            <zone points="324,2813 449,2866 864,2853 904,2816 2295,2824 2295,2773 2084,2760 324,2789" rendition="Line" xml:id="facs_126_tr_1_tl_20"/>
+            <zone points="707,2978 2268,2983 2268,2914 707,2941" rendition="Line" xml:id="facs_126_tr_1_tl_23"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0126.jpg" n="part1_p126.jpg" xml:id="img_0126" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p126.jpg"/>
+            
+            <ab facs="#facs_126_tr_1">
+               <lb facs="#facs_126_tr_1_tl_1" n="N001"/>[123]
+               <lb facs="#facs_126_tr_1_tl_2" n="N002"/>Second Law of Thermodynamics plays a tremendous role in the apologetic discussion and, today,
+               <lb facs="#facs_126_tr_1_tl_3" n="N003"/>plays an even greater role than in the last 30 years. I will tell you: even the Roman Church
+               <lb facs="#facs_126_tr_1_tl_4" n="N004"/>enjoyed and rejoiced that this principle was re-emphasized--although it was discovered about
+               <lb facs="#facs_126_tr_1_tl_5" n="N005"/>100 years ago--because that means that the Catholic Church could give up making-ashamed the
+               <lb facs="#facs_126_tr_1_tl_6" n="N006"/>Protestant Fundamentalists, [with their] literal interpretation of the biblical story of creation
+               <lb facs="#facs_126_tr_1_tl_7" n="N007"/>and the Genesis counting of the years of the world, and accepted the probable year in which the
+               <lb facs="#facs_126_tr_1_tl_8" n="N008"/>present state of the world has started, namely five billion years before today. And I spoke to several
+               <lb facs="#facs_126_tr_1_tl_9" n="N009"/>scientists and they all said: there is great probability that the world as it looks today, started about
+               <lb facs="#facs_126_tr_1_tl_10" n="N010"/>five billion years ago, when, probably, the first great explosion started. Now this is scientific probability
+               <lb facs="#facs_126_tr_1_tl_12" n="N011"/>which can be changed by any new discovery in the valuation of the spectral analysis on which all this
+               <lb facs="#facs_126_tr_1_tl_14" n="N012"/>is based--on the relationship of movement and the different colors in the galaxies. But however this
+               <lb facs="#facs_126_tr_1_tl_15" n="N013"/>may be, let us suppose that the probability is very high and will be confirmed by further scientific
+               <lb facs="#facs_126_tr_1_tl_16" n="N014"/>researches. So the common presupposition now is that the present state of the world has started
+               <lb facs="#facs_126_tr_1_tl_17" n="N015"/>by a great explosion in the year five billion before Christ. <rs type="keyword" ref="#Creation">Now what is gained for the doctrine of
+               <lb break="no" facs="#facs_126_tr_1_tl_18" n="N016"/>creation? I am astonished that the clever hierarchy in Rome was betrayed by this thing--usually they
+               <lb break="no" facs="#facs_126_tr_1_tl_19" n="N017"/>are not! The same physicists with whom I spoke said: of course, there might be this tremendous punctual
+               <lb break="no" facs="#facs_126_tr_1_tl_20" n="N018"/>concentration of reality--or almost punctual--out of which, then, the enlargement of the world
+               <lb break="no" facs="#facs_126_tr_1_tl_23" n="N019"/>came out. But they said: now how did it come to this concentration?</rs> We do not yet have a theory
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

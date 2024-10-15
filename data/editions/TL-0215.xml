@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p215</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p215</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_215">
+         <graphic url="TL-0215.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YNUUFBCWXHKLAPTVHLJQBGIZ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="167,193 167,3467 2361,3467 2361,193" rendition="TextRegion" xml:id="facs_215_tr_2">
+            <zone points="1107,269 1122,269 1130,277 1221,277 1224,191 1201,191 1193,196 1174,193 1148,219 1112,217" rendition="Line" xml:id="facs_215_tr_2_tl_1"/>
+            <zone points="230,444 1417,415 1725,483 2054,420 2057,352 1869,358 1762,251 1543,365 230,392" rendition="Line" xml:id="facs_215_tr_2_tl_2"/>
+            <zone points="224,595 295,647 569,642 624,592 668,639 1412,613 1488,564 2221,551 2224,506 2083,475 2038,512 2002,480 1965,514 1297,501 1214,538 227,535" rendition="Line" xml:id="facs_215_tr_2_tl_3"/>
+            <zone points="224,744 1211,726 1305,775 1375,739 2143,720 2109,637 227,718" rendition="Line" xml:id="facs_215_tr_2_tl_4"/>
+            <zone points="227,906 2143,900 2203,882 2208,783 227,853" rendition="Line" xml:id="facs_215_tr_2_tl_5"/>
+            <zone points="238,1052 491,1078 945,1031 1143,1070 1206,1018 1248,1060 1589,1026 1989,1060 2195,1023 2198,942 238,1005" rendition="Line" xml:id="facs_215_tr_2_tl_6"/>
+            <zone points="238,1216 284,1255 585,1253 851,1188 2242,1156 2242,1094 2117,1088 238,1172" rendition="Line" xml:id="facs_215_tr_2_tl_7"/>
+            <zone points="235,1355 2297,1310 2333,1235 235,1321" rendition="Line" xml:id="facs_215_tr_2_tl_8"/>
+            <zone points="245,1514 2255,1454 2258,1389 248,1451" rendition="Line" xml:id="facs_215_tr_2_tl_9"/>
+            <zone points="243,1665 2271,1608 2250,1535 2020,1576 1976,1545 1524,1589 1482,1558 1315,1595 846,1579 702,1618 488,1582 245,1626" rendition="Line" xml:id="facs_215_tr_2_tl_10"/>
+            <zone points="251,1806 2331,1757 2333,1689 2245,1689 253,1770" rendition="Line" xml:id="facs_215_tr_2_tl_11"/>
+            <zone points="248,1960 2158,1918 2122,1848 1955,1848 248,1931" rendition="Line" xml:id="facs_215_tr_2_tl_12"/>
+            <zone points="251,2114 284,2127 350,2114 415,2117 446,2148 509,2132 569,2148 569,2062 506,2051 345,2059 303,2080 282,2059 251,2059" rendition="Line" xml:id="facs_215_tr_2_tl_15"/>
+            <zone points="256,2260 2252,2213 2255,2143 256,2232" rendition="Line" xml:id="facs_215_tr_2_tl_16"/>
+            <zone points="253,2412 2185,2357 2164,2294 256,2383" rendition="Line" xml:id="facs_215_tr_2_tl_17"/>
+            <zone points="261,2566 334,2597 1608,2526 1663,2566 1725,2521 2161,2519 2127,2453 1958,2451 264,2537" rendition="Line" xml:id="facs_215_tr_2_tl_19"/>
+            <zone points="258,2714 1681,2675 1978,2722 2070,2660 2232,2670 2234,2597 258,2686" rendition="Line" xml:id="facs_215_tr_2_tl_20"/>
+            <zone points="264,2868 2125,2814 2125,2756 1958,2754 1224,2811 266,2816" rendition="Line" xml:id="facs_215_tr_2_tl_21"/>
+            <zone points="269,3025 621,3046 1026,3002 1112,3046 1336,3046 1477,3007 1597,3046 1636,3009 2302,3009 2359,2921 2297,2892 1443,2955 1099,2936 1052,2970 1023,2939 269,2965" rendition="Line" xml:id="facs_215_tr_2_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0215.jpg" n="part1_p215.jpg" xml:id="img_0215" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p215.jpg"/>
+            
+            <ab facs="#facs_215_tr_2">
+               <lb facs="#facs_215_tr_2_tl_1" n="N001"/>[211]
+               <lb facs="#facs_215_tr_2_tl_2" n="N002"/>very confident to answer with a "Yes" for the simple reason that life is NEVER clear, in its
+               <lb facs="#facs_215_tr_2_tl_3" n="N003"/>REALIZATION; it is clear if we be abstract from the reality and deal with special concepts and then
+               <lb facs="#facs_215_tr_2_tl_4" n="N004"/>make them as clear as possible----that can be done. But in the moment in which we describe life
+               <lb facs="#facs_215_tr_2_tl_5" n="N005"/>processes in their interpenetration, then the clarity is limited by the ambiguity of every life process.
+               <lb facs="#facs_215_tr_2_tl_6" n="N006"/>lt is very interesting that this word "ambiguity," which l myself use as the central characterization
+               <lb facs="#facs_215_tr_2_tl_7" n="N007"/>of life processes generally, has been used so much by recent psychology (so-called depth psychology,
+               <lb facs="#facs_215_tr_2_tl_8" n="N008"/>or psychoanalysis) where most of the psychological phenomena are described in terms of such ambiguity.
+               <lb facs="#facs_215_tr_2_tl_9" n="N009"/>Here I would say: if you take a concept like <rs type="person">Spinoza</rs>'s "substance," to give an example (wich is the
+               <lb facs="#facs_215_tr_2_tl_10" n="N010"/>same as what I like to call "being itself," in Scholastic tradition---and <rs type="person">Spinoza</rs>, it has been proved, was
+               <lb facs="#facs_215_tr_2_tl_11" n="N011"/>very much in the tradition of Scholastic thinking---this universal, "substance," which he then calls "God,"
+               <lb facs="#facs_215_tr_2_tl_12" n="N012"/>and to whom he attributes the function not only of knowing Himself through our knowing Him,
+               <lb facs="#facs_215_tr_2_tl_15" n="N013"/>but also loving HIMSELF through our loving Him---if we look at such a concept, then the ambiguity
+               <lb facs="#facs_215_tr_2_tl_16" n="N014"/>of which l am speaking is immediately visible. The way in which <rs type="person">Spinoza</rs> deals with the relationship
+               <lb facs="#facs_215_tr_2_tl_17" n="N015"/>of God and world is an ecstatic form of Jewish monotheism. The praise of God in relationship to
+               <lb facs="#facs_215_tr_2_tl_19" n="N016"/>everything finite, as we have it in Second Isaiah, for instance, is in the [back-]ground, and beyond this,
+               <lb facs="#facs_215_tr_2_tl_20" n="N017"/>the tradition of Jewish monotheism as it developed very early in Jewish history, for instance<rs type="person"> Philo,</rs>
+               <lb facs="#facs_215_tr_2_tl_21" n="N018"/>and then the Jewish <rs type="keyword" ref="#Mysticism">mystics</rs> of the Middle Ages, and especially the Renaissance. They all are
+               <lb facs="#facs_215_tr_2_tl_22" n="N019"/>behind <rs type="person">Spinoza's</rs> concept of substance. All this is religion, all this has the character of <ultimate_concern>ultimate concern.</ultimate_concern>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

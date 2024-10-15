@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p207</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p207</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_207">
+         <graphic url="TL-0207.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YMJGHTZJJTKFTJCWBENQPINQ&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="262,190 262,3460 2322,3460 2322,190" rendition="TextRegion" xml:id="facs_207_tr_1">
+            <zone points="1172,272 1185,272 1198,285 1271,285 1289,280 1294,198 1269,198 1251,206 1223,203 1205,219 1175,219" rendition="Line" xml:id="facs_207_tr_1_tl_1"/>
+            <zone points="249,445 2003,422 2110,409 2113,358 249,399" rendition="Line" xml:id="facs_207_tr_1_tl_2"/>
+            <zone points="252,600 2176,572 2176,519 2059,491 2024,526 1983,493 1401,539 1284,506 1233,542 1002,516 653,557 613,524 577,559 254,567" rendition="Line" xml:id="facs_207_tr_1_tl_3"/>
+            <zone points="249,750 2029,737 2225,717 2227,669 1472,656 864,707 732,676 564,714 249,686" rendition="Line" xml:id="facs_207_tr_1_tl_4"/>
+            <zone points="257,913 2220,859 2220,821 2118,798 257,849" rendition="Line" xml:id="facs_207_tr_1_tl_5"/>
+            <zone points="257,1053 488,1086 529,1053 1831,1037 2187,1014 2189,961 257,1025" rendition="Line" xml:id="facs_207_tr_1_tl_6"/>
+            <zone points="254,1205 1986,1175 2159,1164 2161,1103 254,1172" rendition="Line" xml:id="facs_207_tr_1_tl_7"/>
+            <zone points="252,1353 2192,1314 2194,1246 2159,1246 254,1322" rendition="Line" xml:id="facs_207_tr_1_tl_8"/>
+            <zone points="254,1508 2217,1462 2220,1414 2133,1396 257,1475" rendition="Line" xml:id="facs_207_tr_1_tl_9"/>
+            <zone points="254,1658 2085,1622 2087,1564 2001,1561 257,1625" rendition="Line" xml:id="facs_207_tr_1_tl_10"/>
+            <zone points="262,1805 313,1823 946,1805 964,1749 264,1762" rendition="Line" xml:id="facs_207_tr_1_tl_11"/>
+            <zone points="816,1945 2098,1917 2100,1853 864,1909 819,1876" rendition="Line" xml:id="facs_207_tr_1_tl_13" subtype="paragraph"/>
+            <zone points="259,2105 2245,2072 2248,2006 2212,2003 262,2077" rendition="Line" xml:id="facs_207_tr_1_tl_15"/>
+            <zone points="262,2255 511,2281 1965,2225 2207,2260 2245,2156 1365,2207 262,2202" rendition="Line" xml:id="facs_207_tr_1_tl_16"/>
+            <zone points="272,2420 366,2469 758,2469 2197,2398 2184,2316 275,2385" rendition="Line" xml:id="facs_207_tr_1_tl_17"/>
+            <zone points="282,2570 351,2624 521,2629 603,2593 1126,2598 1236,2550 1279,2593 1340,2560 2220,2563 2222,2461 285,2515" rendition="Line" xml:id="facs_207_tr_1_tl_18"/>
+            <zone points="272,2743 381,2787 765,2754 870,2705 2316,2670 2316,2609 2230,2606 275,2682" rendition="Line" xml:id="facs_207_tr_1_tl_19"/>
+            <zone points="270,2868 2095,2830 2161,2825 2164,2761 270,2835" rendition="Line" xml:id="facs_207_tr_1_tl_20"/>
+            <zone points="270,3020 979,3008 1279,3051 2265,2998 2268,2906 2235,2904 272,2987" rendition="Line" xml:id="facs_207_tr_1_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0207.jpg" n="part1_p207.jpg" xml:id="img_0207" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p207.jpg"/>
+            
+            <ab facs="#facs_207_tr_1">
+               <lb facs="#facs_207_tr_1_tl_1" n="N001"/>[203]
+               <lb facs="#facs_207_tr_1_tl_2" n="N002"/>different way, with skill and with love, i.e., the desire to understand WHY a human being is an
+               <lb facs="#facs_207_tr_1_tl_3" n="N003"/>extreme <rs type="keyword" ref="#Nominalism">nominalist</rs> or an extreme <rs type="keyword" ref="#Realism">realist</rs>, why he sticks to the limits of logical symbolism, or why
+               <lb facs="#facs_207_tr_1_tl_4" n="N004"/>he tries to transcend this limited realm. And the answer is: Did he experience the dimension of the
+               <lb facs="#facs_207_tr_1_tl_5" n="N005"/><rs type="keyword" ref="#Power_of_Being">power of being </rs>or not? Did he experience the dimension of the ultimate value of personal existence
+               <lb facs="#facs_207_tr_1_tl_6" n="N006"/>or not? In the moment in which these dimensions are reached, then the arguments fall down on a
+               <lb facs="#facs_207_tr_1_tl_7" n="N007"/>secondary level, where they are justified, and where no theologian should ever interfere. On the
+               <lb facs="#facs_207_tr_1_tl_8" n="N008"/>other hand, I would warn those of you who come from the PHILOSOPHICAL tradition more
+               <lb facs="#facs_207_tr_1_tl_9" n="N009"/>than from the theological, not to put the theologians in one of these different groups, [and] make
+               <lb facs="#facs_207_tr_1_tl_10" n="N010"/>them, as is usually [done], [into] <rs type="keyword" ref="#Idealism">idealist</rs>s or <rs type="keyword" ref="#Mysticism">mystics,</rs> and then refute them philosophically.
+               <lb facs="#facs_207_tr_1_tl_11" n="N011"/>The situation is not as easy as that.
+               <lb facs="#facs_207_tr_1_tl_13" n="N012"/>Another example, to which I just referred: the discussion between <rs type="keyword" ref="#Naturalism">naturalism</rs> and
+               <lb facs="#facs_207_tr_1_tl_15" n="N013"/>what we TODAY call<rs type="keyword" ref="#Idealism"> idealism</rs>. Here again are a lot of philosophical arguments which are very valid.
+               <lb facs="#facs_207_tr_1_tl_16" n="N014"/>There are epistemological arguments for both of them---<rs type="keyword" ref="#Naturalism">naturalism </rs>as well as <rs type="keyword" ref="#Idealism">idealism.</rs> The question
+               <lb facs="#facs_207_tr_1_tl_17" n="N015"/>of knowledge ALWAYS has driven people to idealistic consequences, because the poblem of the
+               <lb facs="#facs_207_tr_1_tl_18" n="N016"/>real, ouside of our mind, is an eternal problem, and a problem where <rs type="keyword" ref="#Idealism">idealism </rs>has IMMEDIATELY
+               <lb facs="#facs_207_tr_1_tl_19" n="N017"/>speaking, a better answer. Of course<rs type="keyword" ref="#Idealism"> idealism</rs> does not mean, in this use of the word here, subjectivism,
+               <lb facs="#facs_207_tr_1_tl_20" n="N018"/>that the world consists only of stream-of-consciousness, but it means that things in themselves
+               <lb facs="#facs_207_tr_1_tl_21" n="N019"/>are, for us, nothing we can approach, but that the reality as we have it, as we encounter it, is formed
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

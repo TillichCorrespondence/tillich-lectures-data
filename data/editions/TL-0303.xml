@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p019</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p019</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_19">
+         <graphic url="TL-0303.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UUCDQVNVADVWASYKFNSTTCKO&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="262,272 2355,272 2355,1404 262,1404" rendition="TextRegion" xml:id="facs_19_tr_3">
+            <zone points="1128,329 1143,329 1156,342 1245,342 1248,266 1211,271 1198,261 1159,292 1130,292" rendition="Line" xml:id="facs_19_tr_3_tl_1"/>
+            <zone points="253,493 2177,501 2271,418 253,457" rendition="Line" xml:id="facs_19_tr_3_tl_2"/>
+            <zone points="248,637 2237,637 2268,590 248,613" rendition="Line" xml:id="facs_19_tr_3_tl_3"/>
+            <zone points="264,796 2109,791 2247,780 2247,731 264,744" rendition="Line" xml:id="facs_19_tr_3_tl_4"/>
+            <zone points="256,942 2156,937 2226,877 256,898" rendition="Line" xml:id="facs_19_tr_3_tl_5"/>
+            <zone points="253,1099 2138,1094 2198,1031 253,1054" rendition="Line" xml:id="facs_19_tr_3_tl_6"/>
+            <zone points="253,1245 2250,1235 2250,1182 2065,1174 256,1201" rendition="Line" xml:id="facs_19_tr_3_tl_7"/>
+            <zone points="253,1396 2352,1391 2352,1334 253,1352" rendition="Line" xml:id="facs_19_tr_3_tl_8"/>
+         </zone>
+         <zone points="259,1475 2304,1475 2304,2759 259,2759" rendition="TextRegion" xml:id="facs_19_tr_2">
+            <zone points="251,1553 2122,1550 2297,1535 2297,1482 251,1503" rendition="Line" xml:id="facs_19_tr_2_tl_1"/>
+            <zone points="245,1699 2279,1686 2279,1631 245,1670" rendition="Line" xml:id="facs_19_tr_2_tl_2"/>
+            <zone points="248,1848 2247,1837 2250,1780 251,1819" rendition="Line" xml:id="facs_19_tr_2_tl_3"/>
+            <zone points="248,1994 2260,1991 2260,1934 248,1950" rendition="Line" xml:id="facs_19_tr_2_tl_4"/>
+            <zone points="248,2148 1861,2151 2177,2140 2177,2083 248,2101" rendition="Line" xml:id="facs_19_tr_2_tl_5"/>
+            <zone points="363,2302 2067,2302 2229,2294 2229,2232 363,2247" rendition="Line" xml:id="facs_19_tr_2_tl_6" subtype="paragraph"/>
+            <zone points="251,2459 2125,2446 2187,2388 251,2404" rendition="Line" xml:id="facs_19_tr_2_tl_7"/>
+            <zone points="248,2600 2182,2597 2182,2540 248,2555" rendition="Line" xml:id="facs_19_tr_2_tl_8"/>
+            <zone points="251,2754 2229,2743 2247,2683 251,2720" rendition="Line" xml:id="facs_19_tr_2_tl_9"/>
+         </zone>
+         <zone points="82,2831 2289,2831 2289,3482 82,3482" rendition="TextRegion" xml:id="facs_19_tr_1">
+            <zone points="245,2905 2067,2902 2104,2842 248,2858" rendition="Line" xml:id="facs_19_tr_1_tl_1"/>
+            <zone points="256,3056 2229,3046 2284,2983 258,3007" rendition="Line" xml:id="facs_19_tr_1_tl_2"/>
+            <zone points="235,3208 1120,3236 1120,3163 1039,3158 1013,3187 817,3155 235,3163" rendition="Line" xml:id="facs_19_tr_1_tl_3"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0303.jpg" n="part2_p019.jpg" xml:id="img_0019" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p019.jpg"/>
+            
+            <ab facs="#facs_19_tr_3">
+               <lb facs="#facs_19_tr_3_tl_1" n="N001"/>[299]
+               <lb facs="#facs_19_tr_3_tl_2" n="N002"/>anticipatory reconciliation. Now this is the reason for the idealistic art, and although for ecclesiastical
+               <lb facs="#facs_19_tr_3_tl_3" n="N003"/>reasons I have to fight against this art most vehemently, because they believe that this is religious art---
+               <lb facs="#facs_19_tr_3_tl_4" n="N004"/>which is not, as I will show later on---I must say there is ALSO TRUTH in this understanding of art.
+               <lb facs="#facs_19_tr_3_tl_5" n="N005"/>If you experience the infinite beauty of artistic expressions in the idealistic period---for instance the
+               <lb facs="#facs_19_tr_3_tl_6" n="N006"/>great painting of the early and high Renaissance---then you can say: here something is fulfilling of
+               <lb facs="#facs_19_tr_3_tl_7" n="N007"/>human potentialitiesby [sic.] by artistic anticipation which cannot be fulfilled in reality. It is anticipation.
+               <lb facs="#facs_19_tr_3_tl_8" n="N008"/>I just heard a few days ago again Mozart's <hi style="font-style: italic;">Don Juan</hi>, and here again I had the feeling it is dance in Heaven,
+            </ab>
+            <ab facs="#facs_19_tr_2">
+               <lb facs="#facs_19_tr_2_tl_1" n="N001"/>so to speak: the melodies are transcending the empirical possibilities of existence; it is a reality in these
+               <lb facs="#facs_19_tr_2_tl_2" n="N002"/>melodies which in its beauty and in its power of anticipating fulfilment is the rest of the soul---even the
+               <lb facs="#facs_19_tr_2_tl_3" n="N003"/>day before a lecture! Now this shows the truth of the idealistic interpretation of art: the element of
+               <lb facs="#facs_19_tr_2_tl_4" n="N004"/>anticipation. And this element is in all art; no naturalistic work of art is a work of art if there is not
+               <lb facs="#facs_19_tr_2_tl_5" n="N005"/>this element, which is usually called beauty. Now we must be very cautious today with the word
+               <lb facs="#facs_19_tr_2_tl_6" n="N006"/>beauty, and I realize that not only I myself but most people avoid it carefully, because
+               <lb facs="#facs_19_tr_2_tl_7" n="N007"/>the word is one of those which have been deteriorized to cheap beauty, to a beautified naturalism
+               <lb facs="#facs_19_tr_2_tl_8" n="N008"/>which is the worst distortion of what art really is. Nevertheless the word beauty---In Greek <hi style="font-style: italic;">kalos</hi>,
+               <lb facs="#facs_19_tr_2_tl_9" n="N009"/>which is always identified with <hi style="font-style: italic;">agathos</hi>, with good---this shows there is an inner relationship between
+            </ab>
+            <ab facs="#facs_19_tr_1">
+               <lb facs="#facs_19_tr_1_tl_1" n="N001"/>the good and the beautiful, for Greek thinking---and they knew something about these things.
+               <lb facs="#facs_19_tr_1_tl_2" n="N002"/>Therefore what the Greeks called <hi style="font-style: italic;">kalos</hi> is something which is forever valid, even if the word "beautiful"
+               <lb facs="#facs_19_tr_1_tl_3" n="N003"/>and "beauty" have been badly deteriorized.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

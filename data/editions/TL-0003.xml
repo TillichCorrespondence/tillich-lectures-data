@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p003</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p003</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
+         <graphic url="TL-0003.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=BTPVLIJXQZKXWBQRHNJMIZCF&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="26,56 26,3446 2334,3446 2334,56" rendition="TextRegion" xml:id="facs_3_tr_1">
+            <zone points="767,550 972,532 1235,550 1237,489 767,494" rendition="Line" xml:id="facs_3_tr_1_tl_5" subtype="heading"/>
+            <zone points="1160,583 1310,598 1494,576 1661,581 1677,579 1680,522 1470,522 1397,553 1336,525 1160,543" rendition="Line" xml:id="facs_3_tr_1_tl_7" subtype="heading"/>
+            <zone points="440,595 680,614 765,595 814,605 816,548 772,539 442,555" rendition="Line" xml:id="facs_3_tr_1_tl_8" subtype="heading"/>
+            <zone points="172,703 642,739 875,687 1435,685 1459,635 172,661" rendition="Line" xml:id="facs_3_tr_1_tl_9"/>
+            <zone points="21,835 129,802 336,854 1019,807 986,736 859,729 809,758 536,734 207,783 160,753 21,772" rendition="Line" xml:id="facs_3_tr_1_tl_10"/>
+            <zone points="118,906 2007,880 2007,830 1896,816 120,863" rendition="Line" xml:id="facs_3_tr_1_tl_11"/>
+            <zone points="127,1021 1576,997 1602,943 129,965" rendition="Line" xml:id="facs_3_tr_1_tl_12"/>
+            <zone points="127,1117 1536,1094 1677,1085 1680,1037 259,1049 219,1087 127,1054" rendition="Line" xml:id="facs_3_tr_1_tl_13"/>
+            <zone points="127,1228 939,1204 939,1160 880,1146 129,1167" rendition="Line" xml:id="facs_3_tr_1_tl_14"/>
+            <zone points="129,1315 1364,1301 1364,1261 1301,1240 129,1263" rendition="Line" xml:id="facs_3_tr_1_tl_15"/>
+            <zone points="89,1437 1186,1400 1148,1339 741,1372 221,1372 146,1339 92,1367" rendition="Line" xml:id="facs_3_tr_1_tl_16"/>
+            <zone points="113,1510 1753,1501 1790,1440 113,1470" rendition="Line" xml:id="facs_3_tr_1_tl_17"/>
+            <zone points="52,1623 174,1666 336,1607 1534,1597 1534,1546 1223,1534 336,1583 148,1546 54,1581" rendition="Line" xml:id="facs_3_tr_1_tl_18"/>
+            <zone points="101,1720 1491,1699 1494,1651 101,1675" rendition="Line" xml:id="facs_3_tr_1_tl_19"/>
+            <zone points="42,1826 1795,1795 1767,1741 1597,1722 336,1781 129,1736 42,1776" rendition="Line" xml:id="facs_3_tr_1_tl_20"/>
+            <zone points="59,1920 169,1955 238,1908 1169,1903 1169,1854 1061,1844 231,1877 144,1840 61,1868" rendition="Line" xml:id="facs_3_tr_1_tl_23"/>
+            <zone points="92,2047 1153,1993 1369,1997 1435,2044 1508,2014 1510,1969 1414,1936 1310,1971 94,1967" rendition="Line" xml:id="facs_3_tr_1_tl_26"/>
+            <zone points="104,2122 1268,2101 1268,2058 1089,2040 104,2068" rendition="Line" xml:id="facs_3_tr_1_tl_29"/>
+            <zone points="108,2218 1141,2204 1143,2162 1087,2148 282,2157 221,2193 176,2155 111,2169" rendition="Line" xml:id="facs_3_tr_1_tl_30"/>
+            <zone points="101,2313 1381,2308 1381,2225 1108,2273 101,2273" rendition="Line" xml:id="facs_3_tr_1_tl_31"/>
+            <zone points="101,2414 917,2411 967,2451 997,2440 1000,2374 263,2357 205,2397 101,2369" rendition="Line" xml:id="facs_3_tr_1_tl_32"/>
+            <zone points="101,2515 1261,2503 1329,2534 1332,2444 101,2477" rendition="Line" xml:id="facs_3_tr_1_tl_33"/>
+            <zone points="49,2628 1343,2611 1343,2562 1240,2545 52,2585" rendition="Line" xml:id="facs_3_tr_1_tl_34"/>
+            <zone points="96,2719 1379,2717 1379,2663 1230,2644 939,2684 141,2665 96,2698" rendition="Line" xml:id="facs_3_tr_1_tl_35"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0003.jpg" n="part1_p003.jpg" xml:id="img_0003" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p003.jpg"/>
+            
+            <ab facs="#facs_3_tr_1">
+               <lb facs="#facs_3_tr_1_tl_5" n="N001"/>Harvard University
+               <lb facs="#facs_3_tr_1_tl_7" n="N002"/>Religion and Culture
+               <lb facs="#facs_3_tr_1_tl_8" n="N003"/>Humanities 127
+               <lb facs="#facs_3_tr_1_tl_9" n="N004"/>Select and discuss three of the following problems:
+               <lb facs="#facs_3_tr_1_tl_10" n="N005"/>1. Artistic and religious symbols,
+               <lb facs="#facs_3_tr_1_tl_11" n="N006"/>2. The religious meaning of the artistic movements since the 19th century.
+               <lb facs="#facs_3_tr_1_tl_12" n="N007"/>3. The perversion of means and ends in industrial society.
+               <lb facs="#facs_3_tr_1_tl_13" n="N008"/>4. Churches in industrial society, adaptation and resistance.
+               <lb facs="#facs_3_tr_1_tl_14" n="N009"/>5. Types of educational ideals.
+               <lb facs="#facs_3_tr_1_tl_15" n="N010"/>6. Questions and answers in religious education.
+               <lb facs="#facs_3_tr_1_tl_16" n="N011"/>7. The three functions of the university.
+               <lb facs="#facs_3_tr_1_tl_17" n="N012"/>8. The position of the theological faculty within the university.
+               <lb facs="#facs_3_tr_1_tl_18" n="N013"/>9. The unconditional character of the moral imperative.
+               <lb facs="#facs_3_tr_1_tl_19" n="N014"/>10. Natural law and the source of the ethical command.
+               <lb facs="#facs_3_tr_1_tl_20" n="N015"/>11. The universality of love and the particular ethical situation.
+               <lb facs="#facs_3_tr_1_tl_23" n="N016"/>12. Ethics of being and the ethics of law.
+               <lb facs="#facs_3_tr_1_tl_26" n="N017"/>13. Demonic structures in individual and social life.
+               <lb facs="#facs_3_tr_1_tl_29" n="N018"/>14. The ideal of personality and its dangers.
+               <lb facs="#facs_3_tr_1_tl_30" n="N019"/>15. Different concepts of individuality.
+               <lb facs="#facs_3_tr_1_tl_31" n="N020"/>16. Authority in fact and authority in principle.
+               <lb facs="#facs_3_tr_1_tl_32" n="N021"/>17. Conformism and patternization.
+               <lb facs="#facs_3_tr_1_tl_33" n="N022"/>18. Pragmatic politics and ultimate principles.
+               <lb facs="#facs_3_tr_1_tl_34" n="N023"/>19. Political movements and the Christian message.
+               <lb facs="#facs_3_tr_1_tl_35" n="N024"/>20. The problem of authority in state and church.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

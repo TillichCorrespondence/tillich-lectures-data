@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p155</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p155</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_155">
+         <graphic url="TL-0155.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TFBTFZWCLDECXZTRGXXASZOY&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="217,276 217,3461 2307,3461 2307,276" rendition="TextRegion" xml:id="facs_155_tr_2">
+            <zone points="1201,341 1228,346 1241,358 1297,353 1322,358 1317,272 1288,269 1283,277 1273,279 1241,269 1226,282 1199,282" rendition="Line" xml:id="facs_155_tr_2_tl_1"/>
+            <zone points="324,460 2236,477 2236,413 1643,430 1606,393 1554,430 1436,390 1386,428 1332,390 1273,428 776,425 739,388 685,425 596,388 324,425" rendition="Line" xml:id="facs_155_tr_2_tl_2"/>
+            <zone points="314,583 2214,605 2214,541 2108,521 1680,556 314,531" rendition="Line" xml:id="facs_155_tr_2_tl_3"/>
+            <zone points="316,697 942,741 2303,724 2303,657 2236,652 316,655" rendition="Line" xml:id="facs_155_tr_2_tl_4"/>
+            <zone points="203,828 1876,830 1876,776 1732,764 344,769 289,719 203,764" rendition="Line" xml:id="facs_155_tr_2_tl_5"/>
+            <zone points="539,934 2172,949 2172,890 2071,860 2031,892 539,887" rendition="Line" xml:id="facs_155_tr_2_tl_6" subtype="paragraph"/>
+            <zone points="309,1050 1058,1115 2172,1060 2172,1006 309,1001" rendition="Line" xml:id="facs_155_tr_2_tl_7"/>
+            <zone points="306,1216 2148,1221 2197,1186 2197,1139 1977,1129 306,1129" rendition="Line" xml:id="facs_155_tr_2_tl_8"/>
+            <zone points="309,1347 2239,1310 2214,1250 2021,1241 309,1248" rendition="Line" xml:id="facs_155_tr_2_tl_9"/>
+            <zone points="297,1406 1406,1421 1406,1374 1330,1359 297,1381" rendition="Line" xml:id="facs_155_tr_2_tl_10"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0155.jpg" n="part1_p155.jpg" xml:id="img_0155" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p155.jpg"/>
+            
+            <ab facs="#facs_155_tr_2">
+               <lb facs="#facs_155_tr_2_tl_1" n="N001"/>[152]
+               <lb facs="#facs_155_tr_2_tl_2" n="N002"/>a matter of <rs type="keyword" ref="#Faith">faith</rs>. This is a matter of valuation of possible psychological motives in this man and
+               <lb facs="#facs_155_tr_2_tl_3" n="N003"/>in the situation, but that that event in which Judas has played a role, according to the tradition,
+               <lb facs="#facs_155_tr_2_tl_4" n="N004"/>has a dimension of ultimacy, and that this dimension may concern some people ultimately (certainly
+               <lb facs="#facs_155_tr_2_tl_5" n="N005"/>those who call themselves Christians): that is what faith can say about <rs type="keyword" ref="#History">history</rs>.
+               <lb facs="#facs_155_tr_2_tl_6" n="N006"/>Now I will go into this more fully, but this is the first answer, which we must keep
+               <lb facs="#facs_155_tr_2_tl_7" n="N007"/>in mind, that the factual and the explanatory levels are not a matter of faith, that the truth of
+               <lb facs="#facs_155_tr_2_tl_8" n="N008"/>faith is the truth in the dimension of ultimate concern, which can be found in historical events
+               <lb facs="#facs_155_tr_2_tl_9" n="N009"/>in spite of the insecurity of our factual knowledge about them. The consequences of this analysis
+               <lb facs="#facs_155_tr_2_tl_10" n="N010"/>are very far-reaching, and I will discuss them next time.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

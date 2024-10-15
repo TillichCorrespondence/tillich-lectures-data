@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p098</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p098</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_98">
+         <graphic url="TL-0382.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PMKXMWJDIAQJMLLTLGEYTYGO&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="244,266 2277,266 2277,1257 244,1257" rendition="TextRegion" xml:id="facs_98_tr_1">
+            <zone points="1058,325 1078,325 1088,333 1103,331 1106,336 1157,328 1170,331 1172,259 1157,257 1134,262 1121,275 1060,275" rendition="Line" xml:id="facs_98_tr_1_tl_1"/>
+            <zone points="239,491 2146,468 2148,414 239,450" rendition="Line" xml:id="facs_98_tr_1_tl_2"/>
+            <zone points="236,641 2054,620 2115,559 236,613" rendition="Line" xml:id="facs_98_tr_1_tl_3"/>
+            <zone points="229,793 2250,770 2273,704 229,768" rendition="Line" xml:id="facs_98_tr_1_tl_4"/>
+            <zone points="234,943 1899,910 2113,956 2258,933 2258,862 236,900" rendition="Line" xml:id="facs_98_tr_1_tl_5"/>
+            <zone points="236,1096 747,1157 1014,1091 2207,1070 2227,1012 236,1070" rendition="Line" xml:id="facs_98_tr_1_tl_6"/>
+            <zone points="242,1248 880,1238 1513,1317 1775,1220 2133,1223 2136,1167 1721,1177 1625,1078 1477,1078 1287,1185 242,1203" rendition="Line" xml:id="facs_98_tr_1_tl_7"/>
+         </zone>
+         <zone points="250,1308 2224,1308 2224,2464 250,2464" rendition="TextRegion" xml:id="facs_98_tr_3">
+            <zone points="236,1401 1930,1383 2110,1373 2113,1314 236,1375" rendition="Line" xml:id="facs_98_tr_3_tl_1"/>
+            <zone points="239,1551 2179,1528 2222,1454 239,1523" rendition="Line" xml:id="facs_98_tr_3_tl_2"/>
+            <zone points="242,1701 1922,1683 2136,1668 2136,1614 244,1650" rendition="Line" xml:id="facs_98_tr_3_tl_3"/>
+            <zone points="247,1859 2034,1831 2057,1775 249,1805" rendition="Line" xml:id="facs_98_tr_3_tl_4"/>
+            <zone points="236,2001 2138,1981 2164,1907 239,1948" rendition="Line" xml:id="facs_98_tr_3_tl_5"/>
+            <zone points="242,2153 1627,2181 1681,2128 2187,2120 2189,2057 242,2098" rendition="Line" xml:id="facs_98_tr_3_tl_6"/>
+            <zone points="244,2304 2131,2286 2131,2222 244,2278" rendition="Line" xml:id="facs_98_tr_3_tl_7"/>
+            <zone points="239,2454 2077,2423 2039,2370 242,2385" rendition="Line" xml:id="facs_98_tr_3_tl_8"/>
+         </zone>
+         <zone points="23,2514 2325,2514 2325,3476 23,3476" rendition="TextRegion" xml:id="facs_98_tr_2">
+            <zone points="242,2644 2085,2611 2087,2515 244,2553" rendition="Line" xml:id="facs_98_tr_2_tl_1"/>
+            <zone points="259,2764 1848,2741 2042,2723 2044,2667 259,2710" rendition="Line" xml:id="facs_98_tr_2_tl_2"/>
+            <zone points="249,2906 2044,2888 2131,2868 2133,2812 249,2855" rendition="Line" xml:id="facs_98_tr_2_tl_3"/>
+            <zone points="249,3064 2133,3028 2136,2959 249,3005" rendition="Line" xml:id="facs_98_tr_2_tl_4"/>
+            <zone points="252,3209 397,3229 702,3206 887,3219 1025,3204 1025,3153 493,3168 407,3150 252,3181" rendition="Line" xml:id="facs_98_tr_2_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0382.jpg" n="part2_p098.jpg" xml:id="img_0098" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p098.jpg"/>
+            
+            <ab facs="#facs_98_tr_1">
+               <lb facs="#facs_98_tr_1_tl_1" n="N001"/>[377]
+               <lb facs="#facs_98_tr_1_tl_2" n="N002"/>The witness before the court TESTS something. But the test method uses those elements of man
+               <lb facs="#facs_98_tr_1_tl_3" n="N003"/>which can be mechanized, which can be brought down to the functions of an artificial brain, or
+               <lb facs="#facs_98_tr_1_tl_4" n="N004"/>of a Frankenstein, or of a product which acts like a man but does not have the elements of spontaneity.
+               <lb facs="#facs_98_tr_1_tl_5" n="N005"/>Now there are many of these elements, and by skillful order of the test you can find out the quickness
+               <lb facs="#facs_98_tr_1_tl_6" n="N006"/>of reaction, the ability of perception, and many other things like that; but if you don't count on one
+               <lb facs="#facs_98_tr_1_tl_7" n="N007"/>thing, in all these test methods: you don’t count on the possibility of man, in the next moment
+            </ab>
+            <ab facs="#facs_98_tr_3">
+               <lb facs="#facs_98_tr_3_tl_1" n="N001"/>AFTER the test, to create in himself something which had not been reached before by the test
+               <lb facs="#facs_98_tr_3_tl_2" n="N002"/>method and which changes all the results of the test method. If you, as business executive, accept
+               <lb facs="#facs_98_tr_3_tl_3" n="N003"/>some worker for a difficult task and have him tested by the work-psychologist, then you can see
+               <lb facs="#facs_98_tr_3_tl_4" n="N004"/>tendencies in him which in this moment are predominant. But it may be that the same day,
+               <lb facs="#facs_98_tr_3_tl_5" n="N005"/>he experiences something at home which produces in him a catastrophic reaction and to which
+               <lb facs="#facs_98_tr_3_tl_6" n="N006"/>he must make a creative answer--or it might be a destructive answer. In both cases the test is valid
+               <lb facs="#facs_98_tr_3_tl_7" n="N007"/>only in a limited way. Of course the <hi style="font-style: italic;">Tendenz</hi> [tendency] of interest and skill are still there,
+               <lb facs="#facs_98_tr_3_tl_8" n="N008"/>but they are changed in the totality of the personality. Now this means that we have to say:
+            </ab>
+            <ab facs="#facs_98_tr_2">
+               <lb facs="#facs_98_tr_2_tl_1" n="N001"/>it is a highly abstract group of functions which are under inquiry--but no more than this.
+               <lb facs="#facs_98_tr_2_tl_2" n="N002"/>The center of the personality is never under inquiry. And if you want to have a person for
+               <lb facs="#facs_98_tr_2_tl_3" n="N003"/>something in which life-elements play a role, the limits of the test method have come. Imagine
+               <lb facs="#facs_98_tr_2_tl_4" n="N004"/>for a moment the absurdity that you choose your husband or your wife on the basis of a family
+               <lb facs="#facs_98_tr_2_tl_6" n="N005"/>tester (which perhaps will be a job for tomorrow!). Now if you do this, then you will
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

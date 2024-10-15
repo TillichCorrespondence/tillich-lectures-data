@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p107</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p107</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_107">
+         <graphic url="TL-0391.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TTGAZBUOBTTQMOXIOJKESAJI&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="283,272 2131,272 2131,1201 283,1201" rendition="TextRegion" xml:id="facs_107_tr_3">
+            <zone points="1120,332 1137,332 1144,342 1191,342 1196,337 1213,342 1223,332 1236,332 1236,283 1199,286 1179,268 1157,290 1120,288" rendition="Line" xml:id="facs_107_tr_3_tl_1"/>
+            <zone points="276,482 1895,477 2033,470 2035,428 1612,391 276,450" rendition="Line" xml:id="facs_107_tr_3_tl_2"/>
+            <zone points="482,633 2104,613 2104,556 482,578" rendition="Line" xml:id="facs_107_tr_3_tl_3" subtype="paragraph"/>
+            <zone points="273,783 1366,805 1469,753 2124,761 2124,701 273,746" rendition="Line" xml:id="facs_107_tr_3_tl_5"/>
+            <zone points="268,906 1969,908 2124,891 2127,844 268,884" rendition="Line" xml:id="facs_107_tr_3_tl_6"/>
+            <zone points="276,1056 2080,1039 2099,987 276,1012" rendition="Line" xml:id="facs_107_tr_3_tl_7"/>
+            <zone points="273,1196 2001,1184 2117,1174 2119,1117 273,1167" rendition="Line" xml:id="facs_107_tr_3_tl_8"/>
+         </zone>
+         <zone points="283,1251 2176,1251 2176,2482 283,2482" rendition="TextRegion" xml:id="facs_107_tr_2">
+            <zone points="276,1351 1949,1332 2048,1319 2048,1258 278,1302" rendition="Line" xml:id="facs_107_tr_2_tl_1"/>
+            <zone points="273,1487 2006,1477 2008,1418 276,1440" rendition="Line" xml:id="facs_107_tr_2_tl_2"/>
+            <zone points="278,1629 729,1669 849,1620 2050,1607 2067,1556 278,1580" rendition="Line" xml:id="facs_107_tr_2_tl_3"/>
+            <zone points="273,1775 2134,1747 2134,1698 1903,1693 276,1720" rendition="Line" xml:id="facs_107_tr_2_tl_4"/>
+            <zone points="278,1910 2171,1895 2173,1839 278,1863" rendition="Line" xml:id="facs_107_tr_2_tl_5"/>
+            <zone points="276,2055 2011,2045 2033,1989 276,2011" rendition="Line" xml:id="facs_107_tr_2_tl_6"/>
+            <zone points="268,2193 2124,2181 2127,2124 271,2146" rendition="Line" xml:id="facs_107_tr_2_tl_7"/>
+            <zone points="276,2336 2104,2326 2144,2267 276,2287" rendition="Line" xml:id="facs_107_tr_2_tl_8"/>
+            <zone points="273,2474 2159,2469 2159,2407 273,2429" rendition="Line" xml:id="facs_107_tr_2_tl_9"/>
+         </zone>
+         <zone points="26,2535 2331,2535 2331,3470 26,3470" rendition="TextRegion" xml:id="facs_107_tr_1">
+            <zone points="276,2634 2109,2629 2151,2545 278,2579" rendition="Line" xml:id="facs_107_tr_1_tl_1"/>
+            <zone points="273,2769 1824,2784 2163,2749 2205,2685 273,2717" rendition="Line" xml:id="facs_107_tr_1_tl_2"/>
+            <zone points="276,2912 2060,2914 2252,2875 2252,2826 278,2858" rendition="Line" xml:id="facs_107_tr_1_tl_3"/>
+            <zone points="276,3049 2124,3030 2161,2971 278,3005" rendition="Line" xml:id="facs_107_tr_1_tl_4"/>
+            <zone points="273,3192 2072,3180 2227,3170 2230,3116 273,3143" rendition="Line" xml:id="facs_107_tr_1_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0391.jpg" n="part2_p107.jpg" xml:id="img_0107" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p107.jpg"/>
+            
+            <ab facs="#facs_107_tr_3">
+               <lb facs="#facs_107_tr_3_tl_1" n="N001"/>[386]
+               <lb facs="#facs_107_tr_3_tl_2" n="N002"/>with respect to the time which is given to them and which now COULD be used by them.
+               <lb facs="#facs_107_tr_3_tl_3" n="N003"/>The industrial way has another side, namely the commercial side. This side has the
+               <lb facs="#facs_107_tr_3_tl_5" n="N004"/>problem of competition. When I spoke of objectivation, and mass society, I again come down
+               <lb facs="#facs_107_tr_3_tl_6" n="N005"/>to a question which is in all our minds, named competition. I don’t speak about competition
+               <lb facs="#facs_107_tr_3_tl_7" n="N006"/>in terms of the hostility which it produces--the Business School, which has asked me to have
+               <lb facs="#facs_107_tr_3_tl_8" n="N007"/>discussions with them about ethical problems in relation to business, they feel that the ethical
+            </ab>
+            <ab facs="#facs_107_tr_2">
+               <lb facs="#facs_107_tr_2_tl_1" n="N001"/>problem is only one of them--the hostility against the successful competitor, or the use of
+               <lb facs="#facs_107_tr_2_tl_2" n="N002"/>immoral means of competition, and all this. But there is another problem involved in it,
+               <lb facs="#facs_107_tr_2_tl_3" n="N003"/>namely the conformism, the mass society, which is created by competition. In order to be
+               <lb facs="#facs_107_tr_2_tl_4" n="N004"/>a successful seller, you must adapt yourselves to the rules of the game, namely to the customer
+               <lb facs="#facs_107_tr_2_tl_5" n="N005"/>who is ''always right.'' And if you are a salesman, in the more noble sense of the chief executive
+               <lb facs="#facs_107_tr_2_tl_6" n="N006"/>of a big concern, or a salesman like the man whose death is described in this famous play
+               <lb facs="#facs_107_tr_2_tl_7" n="N007"/><hi style="font-style: italic;">[Death of a Salesman]</hi>, who lives on the road all the time, and has only one principle: to play
+               <lb facs="#facs_107_tr_2_tl_8" n="N008"/>the customer in order to sell--then you are depersonalized. This depersonalization is the tragic
+               <lb facs="#facs_107_tr_2_tl_9" n="N009"/>implication of that play, whose tremendous success seems to me based on the fact that so many
+            </ab>
+            <ab facs="#facs_107_tr_1">
+               <lb facs="#facs_107_tr_1_tl_1" n="N001"/>people in our competitive society felt hit by it. Personality has to be sold, so to speak, in order
+               <lb facs="#facs_107_tr_1_tl_2" n="N002"/>to sell. You cannot sell as long as you have maintained your creative personality; the adaptation
+               <lb facs="#facs_107_tr_1_tl_3" n="N003"/>to the norms of the game, of competition, are tremendous. And this refers not only to the salesman
+               <lb facs="#facs_107_tr_1_tl_4" n="N004"/>on the street, it also refers to the four million chief executives who have to conform themselves
+               <lb facs="#facs_107_tr_1_tl_5" n="N005"/>like the man in <hi style="font-style: italic;">Point of No Return</hi>. This famous novel, which also was in a movie--there you can
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

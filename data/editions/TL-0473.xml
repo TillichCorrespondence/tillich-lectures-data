@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part3_p081</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p081</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_81">
+         <graphic url="TL-0473.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AYZCEWORBPJYVDYFJDPABSSL&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="304,278 2257,278 2257,1404 304,1404" rendition="TextRegion" xml:id="facs_81_tr_1">
+            <zone points="1147,332 1178,335 1185,342 1256,342 1271,327 1296,330 1296,292 1273,292 1266,284 1223,279 1213,269 1193,284 1147,284" rendition="Line" xml:id="facs_81_tr_1_tl_1"/>
+            <zone points="304,491 2252,491 2252,433 2151,415 1379,450 1273,372 1117,453 304,425" rendition="Line" xml:id="facs_81_tr_1_tl_2"/>
+            <zone points="297,647 1844,654 2182,642 2182,589 1238,559 297,614" rendition="Line" xml:id="facs_81_tr_1_tl_3"/>
+            <zone points="299,793 1545,808 1990,790 1990,742 299,750" rendition="Line" xml:id="facs_81_tr_1_tl_4"/>
+            <zone points="493,939 2094,946 2164,941 2164,888 493,908" rendition="Line" xml:id="facs_81_tr_1_tl_5"/>
+            <zone points="294,1100 1673,1095 1701,1037 294,1049" rendition="Line" xml:id="facs_81_tr_1_tl_6"/>
+            <zone points="1844,1087 1892,1105 1907,1092 1938,1090 2046,1092 2056,1100 2073,1090 2146,1090 2146,1039 1844,1042" rendition="Line" xml:id="facs_81_tr_1_tl_7"/>
+            <zone points="289,1241 2116,1251 2116,1195 289,1218" rendition="Line" xml:id="facs_81_tr_1_tl_8"/>
+            <zone points="289,1399 2018,1404 2136,1397 2136,1341 289,1349" rendition="Line" xml:id="facs_81_tr_1_tl_9"/>
+         </zone>
+         <zone points="292,1484 2310,1484 2310,2911 292,2911" rendition="TextRegion" xml:id="facs_81_tr_3">
+            <zone points="287,1550 2174,1555 2237,1492 287,1502" rendition="Line" xml:id="facs_81_tr_3_tl_1"/>
+            <zone points="294,1706 2204,1709 2305,1643 294,1653" rendition="Line" xml:id="facs_81_tr_3_tl_2"/>
+            <zone points="289,1854 2136,1837 1917,1779 289,1804" rendition="Line" xml:id="facs_81_tr_3_tl_3"/>
+            <zone points="294,2005 2292,2005 2292,1948 294,1955" rendition="Line" xml:id="facs_81_tr_3_tl_4"/>
+            <zone points="279,2144 2046,2156 2282,2146 2282,2094 279,2121" rendition="Line" xml:id="facs_81_tr_3_tl_5"/>
+            <zone points="279,2300 2239,2307 2239,2247 279,2255" rendition="Line" xml:id="facs_81_tr_3_tl_6"/>
+            <zone points="284,2458 2104,2461 2119,2398 284,2406" rendition="Line" xml:id="facs_81_tr_3_tl_7"/>
+            <zone points="279,2604 2104,2597 2121,2544 279,2577" rendition="Line" xml:id="facs_81_tr_3_tl_8"/>
+            <zone points="279,2753 2121,2758 2270,2750 2270,2690 279,2705" rendition="Line" xml:id="facs_81_tr_3_tl_9"/>
+            <zone points="279,2906 2189,2909 2207,2846 279,2879" rendition="Line" xml:id="facs_81_tr_3_tl_10"/>
+         </zone>
+         <zone points="116,2989 2298,2989 2298,3485 116,3485" rendition="TextRegion" xml:id="facs_81_tr_2">
+            <zone points="282,3065 2166,3052 2166,2997 282,3012" rendition="Line" xml:id="facs_81_tr_2_tl_1"/>
+            <zone points="272,3211 2292,3261 2252,3191 272,3186" rendition="Line" xml:id="facs_81_tr_2_tl_2"/>
+            <zone points="1676,3420 1706,3420 1724,3435 1736,3437 1761,3415 1764,3420 1797,3415 1794,3364 1771,3362 1734,3367 1726,3362 1701,3369 1678,3369" rendition="Line" xml:id="facs_81_tr_2_tl_3"/>
+            <zone points="1100,3450 1147,3442 1180,3415 1238,3440 1281,3412 1366,3430 1437,3412 1469,3425 1495,3407 1578,3420 1613,3412 1613,3377 1213,3384 1168,3372 1100,3389" rendition="Line" xml:id="facs_81_tr_2_tl_4"/>
+            <zone points="838,3477 856,3480 868,3472 883,3485 898,3477 906,3485 926,3488 936,3362 893,3359 868,3377 845,3374" rendition="Line" xml:id="facs_81_tr_2_tl_5"/>
+            <zone points="551,3447 581,3445 604,3427 647,3445 664,3435 677,3440 694,3425 720,3430 735,3417 785,3415 820,3430 825,3379 705,3369 654,3392 599,3379 574,3399 554,3399" rendition="Line" xml:id="facs_81_tr_2_tl_6"/>
+            <zone points="106,3435 141,3417 186,3440 226,3417 317,3415 375,3437 405,3420 438,3422 460,3442 513,3437 538,3425 536,3357 435,3344 103,3354" rendition="Line" xml:id="facs_81_tr_2_tl_7"/>
+            <zone points="647,3482 702,3485 750,3452 780,3462 810,3447 823,3450 825,3425 803,3425 785,3415 770,3422 735,3417 715,3430 700,3422 652,3422" rendition="Line" xml:id="facs_81_tr_2_tl_8"/>
+            <zone points="1281,3482 1313,3485 1331,3470 1341,3482 1374,3488 1376,3417 1326,3412 1306,3422 1283,3420" rendition="Line" xml:id="facs_81_tr_2_tl_9"/>
+            <zone points="161,3485 375,3485 428,3467 483,3485 569,3485 566,3394 513,3437 468,3445 433,3420 375,3437 357,3422 254,3417 161,3440" rendition="Line" xml:id="facs_81_tr_2_tl_10"/>
+            <zone points="908,3485 921,3485 931,3475 944,3480 956,3475 966,3485 976,3485 981,3480 994,3480 991,3447 979,3447 976,3450 974,3447 949,3445 926,3430 906,3430" rendition="Line" xml:id="facs_81_tr_2_tl_11"/>
+            <zone points="712,3485 755,3488 765,3480 772,3485 783,3485 788,3480 795,3485 813,3485 813,3452 798,3452 778,3460 772,3460 757,3450 755,3455 745,3452 712,3455" rendition="Line" xml:id="facs_81_tr_2_tl_12"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0473.jpg" n="part3_p081.jpg" xml:id="img_0081" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p081.jpg"/>
+            
+            <ab facs="#facs_81_tr_1">
+               <lb facs="#facs_81_tr_1_tl_1" n="N001"/>168.
+               <lb facs="#facs_81_tr_1_tl_2" n="N002"/>The QUESTIONS are not always present; they are sometimes not even hiddenly present. But there
+               <lb facs="#facs_81_tr_1_tl_3" n="N003"/>are the symbolis—they are always present in a religious group; they can be seen; no one can close
+               <lb facs="#facs_81_tr_1_tl_4" n="N004"/>his eyes to the existence of church building in the middle of a place, or at the corner.
+               <lb facs="#facs_81_tr_1_tl_5" n="N005"/>Now what does it mean? It means that the question about the symbol, which is also
+               <lb facs="#facs_81_tr_1_tl_6" n="N006"/>present into the child, demands an answer; and if you have both gets of
+               <lb facs="#facs_81_tr_1_tl_7" n="N007"/>questions, the
+               <lb facs="#facs_81_tr_1_tl_8" n="N008"/>questions of their existence and the questions of the meaning of the un-understood symbols,
+               <lb facs="#facs_81_tr_1_tl_9" n="N009"/>then you have the entrance door for your religious education. Of course the same thing must
+            </ab>
+            <ab facs="#facs_81_tr_3">
+               <lb facs="#facs_81_tr_3_tl_1" n="N001"/>be done with adult education. There it can be done more freely because there the existentialist
+               <lb facs="#facs_81_tr_3_tl_2" n="N002"/>questions are all present anyhow: EVERYbody anticipates his having to die,bringing anticipates
+               <lb facs="#facs_81_tr_3_tl_3" n="N003"/>his being a failure—or, not "anticipates" it, [but] HAS EXPERIANCED it—(some daughter) —
+               <lb facs="#facs_81_tr_3_tl_4" n="N004"/>everybody experiences his wolishness and the contradictions in himself. These questions are present;
+               <lb facs="#facs_81_tr_3_tl_5" n="N005"/>they must only be made conscious. And then, of course, theology, the religious verbols, can answer.
+               <lb facs="#facs_81_tr_3_tl_6" n="N006"/>But if youienach, Sunday by Sunday, and you go to church for personal reasons, or social reasons,
+               <lb facs="#facs_81_tr_3_tl_7" n="N007"/>Sunday by Sunday, and what the minister gives and what you get is always a set of concepts,
+               <lb facs="#facs_81_tr_3_tl_8" n="N008"/>symbols, which are fixed, which you know [from] long ago—you don't need to go to church
+               <lb facs="#facs_81_tr_3_tl_9" n="N009"/>for this reason, because you know what you will hear anyhow—then the whole thing is an impossible
+               <lb facs="#facs_81_tr_3_tl_10" n="N010"/>situation. But if the minister is able to concentrate on a question which is in you, half conscious,
+            </ab>
+            <ab facs="#facs_81_tr_2">
+               <lb facs="#facs_81_tr_2_tl_1" n="N001"/>half unconscious, perhaps, and he makes it completely conscious and then shows in his sermon
+               <lb facs="#facs_81_tr_2_tl_2" n="N002"/>the analysisBplied in the traditional religious symbols, or in UN-traditional symbolis, then something
+               <lb facs="#facs_81_tr_2_tl_3" n="N003"/>des
+               <lb facs="#facs_81_tr_2_tl_4" n="N004"/>Monsieur Mounard avec vous faire
+               <lb facs="#facs_81_tr_2_tl_5" n="N005"/>de bon augure
+               <lb facs="#facs_81_tr_2_tl_6" n="N006"/>dʼune manière beaucoup
+               <lb facs="#facs_81_tr_2_tl_7" n="N007"/>de lʼhonneur et très obéissant sur les
+               <lb facs="#facs_81_tr_2_tl_8" n="N008"/>dʼune manière beaucoup
+               <lb facs="#facs_81_tr_2_tl_9" n="N009"/>Vous en
+               <lb facs="#facs_81_tr_2_tl_10" n="N010"/>dʼune manière est devenu nʼa pas
+               <lb facs="#facs_81_tr_2_tl_11" n="N011"/>des
+               <lb facs="#facs_81_tr_2_tl_12" n="N012"/>dʼune lettre
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

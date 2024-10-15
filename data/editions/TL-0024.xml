@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p024</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p024</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_24">
+         <graphic url="TL-0024.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PNYXXSJYDAVNMUTYBEBBFHAX&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="29,250 69,3200 2383,3152 2379,250" rendition="TextRegion" xml:id="facs_24_tr_1">
+            <zone points="1201,300 1216,300 1251,310 1261,307 1271,310 1276,305 1289,307 1294,237 1281,235 1274,240 1261,237 1236,255 1204,255" rendition="Line" xml:id="facs_24_tr_1_tl_1"/>
+            <zone points="504,492 1886,500 2113,485 2115,402 504,410" rendition="Line" xml:id="facs_24_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="262,564 440,597 497,562 549,602 1286,544 2188,549 2173,487 265,517" rendition="Line" xml:id="facs_24_tr_1_tl_3"/>
+            <zone points="267,649 2143,629 2145,579 2043,569 270,592" rendition="Line" xml:id="facs_24_tr_1_tl_4"/>
+            <zone points="267,734 2125,712 2125,664 2065,649 1628,642 1479,692 1411,659 267,689" rendition="Line" xml:id="facs_24_tr_1_tl_5"/>
+            <zone points="260,804 2213,837 2215,747 260,767" rendition="Line" xml:id="facs_24_tr_1_tl_6"/>
+            <zone points="262,892 365,934 2160,907 2163,822 265,854" rendition="Line" xml:id="facs_24_tr_1_tl_7"/>
+            <zone points="262,982 437,1019 1149,972 2110,997 2110,922 2070,907 262,942" rendition="Line" xml:id="facs_24_tr_1_tl_8"/>
+            <zone points="260,1054 347,1109 2080,1041 2045,992 260,1034" rendition="Line" xml:id="facs_24_tr_1_tl_9"/>
+            <zone points="260,1141 2018,1144 2018,1091 1948,1074 260,1121" rendition="Line" xml:id="facs_24_tr_1_tl_10"/>
+            <zone points="260,1224 2160,1221 2163,1131 2018,1181 1966,1151 1861,1184 260,1184" rendition="Line" xml:id="facs_24_tr_1_tl_11"/>
+            <zone points="260,1336 2143,1306 2143,1249 1858,1241 260,1259" rendition="Line" xml:id="facs_24_tr_1_tl_12"/>
+            <zone points="262,1394 1973,1379 2133,1414 2178,1401 2180,1319 262,1351" rendition="Line" xml:id="facs_24_tr_1_tl_13"/>
+            <zone points="267,1481 2270,1469 2270,1414 2138,1411 267,1436" rendition="Line" xml:id="facs_24_tr_1_tl_14"/>
+            <zone points="512,1563 2125,1551 2125,1491 512,1518" rendition="Line" xml:id="facs_24_tr_1_tl_15" subtype="paragraph"/>
+            <zone points="270,1661 2140,1638 2140,1586 1903,1576 270,1606" rendition="Line" xml:id="facs_24_tr_1_tl_16"/>
+            <zone points="270,1736 2123,1741 2123,1673 2010,1648 1289,1701 270,1683" rendition="Line" xml:id="facs_24_tr_1_tl_17"/>
+            <zone points="270,1853 2245,1823 2213,1741 270,1778" rendition="Line" xml:id="facs_24_tr_1_tl_19"/>
+            <zone points="282,1926 2165,1906 2138,1833 282,1858" rendition="Line" xml:id="facs_24_tr_1_tl_20"/>
+            <zone points="267,1993 1046,1973 1126,2018 1738,2018 2095,1973 2095,1923 2048,1913 267,1943" rendition="Line" xml:id="facs_24_tr_1_tl_21"/>
+            <zone points="267,2068 2078,2050 2045,1998 267,2033" rendition="Line" xml:id="facs_24_tr_1_tl_23"/>
+            <zone points="270,2155 2130,2140 2130,2088 2018,2063 1601,2110 1531,2080 270,2113" rendition="Line" xml:id="facs_24_tr_1_tl_24"/>
+            <zone points="277,2243 1056,2278 1254,2223 2153,2220 2153,2173 1951,2158 495,2208 277,2170" rendition="Line" xml:id="facs_24_tr_1_tl_25"/>
+            <zone points="275,2325 734,2365 877,2310 2045,2308 2045,2260 1938,2248 984,2290 275,2263" rendition="Line" xml:id="facs_24_tr_1_tl_26"/>
+            <zone points="277,2413 482,2440 752,2400 837,2438 1114,2390 1284,2430 1414,2390 1626,2423 1663,2385 1818,2420 2110,2388 2080,2333 277,2348" rendition="Line" xml:id="facs_24_tr_1_tl_27"/>
+            <zone points="267,2488 2125,2493 2128,2430 2078,2415 270,2445" rendition="Line" xml:id="facs_24_tr_1_tl_28"/>
+            <zone points="267,2592 1923,2597 2010,2547 2190,2557 2190,2510 2055,2495 1993,2527 270,2515" rendition="Line" xml:id="facs_24_tr_1_tl_29"/>
+            <zone points="272,2655 2105,2645 2105,2600 1961,2590 272,2622" rendition="Line" xml:id="facs_24_tr_1_tl_30"/>
+            <zone points="270,2750 2113,2727 2090,2667 272,2712" rendition="Line" xml:id="facs_24_tr_1_tl_31"/>
+            <zone points="275,2830 472,2822 594,2872 1089,2852 1129,2812 2113,2827 2113,2770 2030,2752 275,2787" rendition="Line" xml:id="facs_24_tr_1_tl_32"/>
+            <zone points="267,2907 502,2950 1021,2950 1121,2912 1341,2947 2183,2930 2158,2842 267,2865" rendition="Line" xml:id="facs_24_tr_1_tl_33"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0024.jpg" n="part1_p024.jpg" xml:id="img_0024" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p024.jpg"/>
+            
+            <ab facs="#facs_24_tr_1">
+               <lb facs="#facs_24_tr_1_tl_1" n="N001"/>[21]
+               <lb facs="#facs_24_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Ultimacy">But there is ALSO, in the whole history of religion, a reaction against this
+               <lb break="no" facs="#facs_24_tr_1_tl_3" n="N003"/>factory (namely, man's idol-producing mind)--the reaction of the experience of the uncondi-
+               <lb break="no" facs="#facs_24_tr_1_tl_4" n="N004"/>tional, of that which is of infinite significance, beyond transitoriness, beyond conditioned
+               <lb break="no" facs="#facs_24_tr_1_tl_5" n="N005"/>characteristics, unconditional, a matter of infinite passion. And these two tendencies are
+               <lb break="no" facs="#facs_24_tr_1_tl_6" n="N006"/>fighting everywhere in the history of religion and culture</rs>. And it is one of the keys to the
+               <lb facs="#facs_24_tr_1_tl_7" n="N007"/>understanding of the dynamics of culture, a key quite different from the genetic keys of
+               <lb facs="#facs_24_tr_1_tl_8" n="N008"/>sociology and psychology and economics, namely the key which comes from the realm
+               <lb facs="#facs_24_tr_1_tl_9" n="N009"/>of meaning and which shows that there is a MEANING in all this. Of course it is
+               <lb facs="#facs_24_tr_1_tl_10" n="N010"/>mediated by sociological and psychological movements, but it is, at the same time,
+               <lb facs="#facs_24_tr_1_tl_11" n="N011"/>in spite of this mediation, not meaningless. The history of mankind, in its depths, is the
+               <lb facs="#facs_24_tr_1_tl_12" n="N012"/>fight between idolatry and true faith, between an unconditional concern which expresses
+               <lb facs="#facs_24_tr_1_tl_13" n="N013"/>itself in concrete forms which are not really ultimate, and between movements (mystical,
+               <lb facs="#facs_24_tr_1_tl_14" n="N014"/>humanist, and many others) which drive in the direction of that which is really unconditional.
+               <lb facs="#facs_24_tr_1_tl_15" n="N015"/><rs type="keyword" ref="#Faith">Faith, in both respects, has a different character. And let me go into this
+               <lb break="no" facs="#facs_24_tr_1_tl_16" n="N016"/>because it is most important for your understanding of my position (although it goes a
+               <lb break="no" facs="#facs_24_tr_1_tl_17" n="N017"/>little too deep into the philosophy of religion), namely the problem of certainty. The
+               <lb break="no" facs="#facs_24_tr_1_tl_19" n="N018"/>unconditional concern is a mixture of certainty and uncertainty. And that is all living faith.</rs>
+               <lb facs="#facs_24_tr_1_tl_20" n="N019"/>The element of certainty is the element of the unconditional itself. Nobody can deny it,
+               <lb facs="#facs_24_tr_1_tl_21" n="N020"/>because if he denies it in the name of truth, truth is his unconditional concern. If he
+               <lb facs="#facs_24_tr_1_tl_23" n="N021"/>denies it in the name of cynicism, then his cynical state of mind proves the despair
+               <lb facs="#facs_24_tr_1_tl_24" n="N022"/>about lost truth. Nobody is able to escape that element in the structure of man which
+               <lb facs="#facs_24_tr_1_tl_25" n="N023"/>I call the unconditional, the ultimate, beyond every preliminary and conditional concern.
+               <lb facs="#facs_24_tr_1_tl_26" n="N024"/>But there is the other side: the concreteness of the concern. One is Buddhist or
+               <lb facs="#facs_24_tr_1_tl_27" n="N025"/>Confucianist, one is a Mohammedan or Christian, one is Catholic or Protestant, one is
+               <lb facs="#facs_24_tr_1_tl_28" n="N026"/>existentialist or naturalist. In any case, one is always something concrete. And now the
+               <lb facs="#facs_24_tr_1_tl_29" n="N027"/>element of uncertainty appears. There is no certainty about the content of faith. There is
+               <lb facs="#facs_24_tr_1_tl_30" n="N028"/>certainty about its unconditional element, but there is no certainty about its concrete
+               <lb facs="#facs_24_tr_1_tl_31" n="N029"/>element. In theological groups today, very often, the word of this follower of Jesus is
+               <lb facs="#facs_24_tr_1_tl_32" n="N030"/>quoted: ''I believe; help my unbelief.'' Now it is good that this is quoted so often,
+               <lb facs="#facs_24_tr_1_tl_33" n="N031"/>because it can be used as a motto for the state of mind which is characteristic for every
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

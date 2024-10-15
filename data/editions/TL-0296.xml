@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p012</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p012</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_12">
+         <graphic url="TL-0296.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QAXAYXUWUGBCTJXPBSLDFKMT&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="208,293 2212,293 2212,1875 208,1875" rendition="TextRegion" xml:id="facs_12_tr_2">
+            <zone points="1054,345 1067,345 1072,351 1095,358 1174,358 1174,299 1136,299 1116,279 1093,302 1054,302" rendition="Line" xml:id="facs_12_tr_2_tl_1"/>
+            <zone points="412,504 2203,502 2206,450 476,468 415,427" rendition="Line" xml:id="facs_12_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="210,660 2180,709 2183,586 210,629" rendition="Line" xml:id="facs_12_tr_2_tl_3"/>
+            <zone points="202,819 658,821 681,816 681,765 289,755 202,773" rendition="Line" xml:id="facs_12_tr_2_tl_4"/>
+            <zone points="210,960 258,972 325,957 351,975 389,962 599,962 632,975 670,954 670,926 622,903 594,916 560,903 545,916 391,916 356,898 338,916 287,901 210,916" rendition="Line" xml:id="facs_12_tr_2_tl_5"/>
+            <zone points="202,1110 2152,1103 2062,1024 202,1041" rendition="Line" xml:id="facs_12_tr_2_tl_6"/>
+            <zone points="200,1261 243,1279 440,1272 458,1256 760,1272 760,1210 491,1215 473,1233 348,1208 200,1218" rendition="Line" xml:id="facs_12_tr_2_tl_7"/>
+            <zone points="202,1412 2098,1410 2119,1333 202,1346" rendition="Line" xml:id="facs_12_tr_2_tl_8"/>
+            <zone points="235,1566 2044,1558 1886,1502 235,1520" rendition="Line" xml:id="facs_12_tr_2_tl_9"/>
+            <zone points="194,1714 2103,1717 2188,1709 2188,1645 194,1689" rendition="Line" xml:id="facs_12_tr_2_tl_10"/>
+            <zone points="194,1873 691,1873 691,1835 655,1814 509,1817 489,1837 468,1817 386,1814 228,1817 194,1837" rendition="Line" xml:id="facs_12_tr_2_tl_11"/>
+         </zone>
+         <zone points="203,1944 2257,1944 2257,3085 203,3085" rendition="TextRegion" xml:id="facs_12_tr_3">
+            <zone points="399,2014 1735,2052 2190,2004 2083,1942 399,1945" rendition="Line" xml:id="facs_12_tr_3_tl_1" subtype="paragraph"/>
+            <zone points="192,2165 855,2213 2226,2157 2226,2101 194,2139" rendition="Line" xml:id="facs_12_tr_3_tl_2"/>
+            <zone points="197,2323 2211,2313 2213,2259 197,2290" rendition="Line" xml:id="facs_12_tr_3_tl_3"/>
+            <zone points="197,2477 929,2469 1031,2531 2116,2500 2167,2405 197,2441" rendition="Line" xml:id="facs_12_tr_3_tl_4"/>
+            <zone points="197,2676 2185,2612 2254,2554 197,2577" rendition="Line" xml:id="facs_12_tr_3_tl_5"/>
+            <zone points="192,2771 1586,2758 1727,2820 2098,2774 2083,2710 194,2728" rendition="Line" xml:id="facs_12_tr_3_tl_6"/>
+            <zone points="215,2920 2142,2925 2198,2856 217,2868" rendition="Line" xml:id="facs_12_tr_3_tl_7"/>
+            <zone points="189,3078 1267,3083 1295,3024 189,3032" rendition="Line" xml:id="facs_12_tr_3_tl_8"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0296.jpg" n="part2_p012.jpg" xml:id="img_0012" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p012.jpg"/>
+            
+            <ab facs="#facs_12_tr_2">
+               <lb facs="#facs_12_tr_2_tl_1" n="N001"/>[292]
+               <lb facs="#facs_12_tr_2_tl_2" n="N002"/>You will receive one or two books [i.e. book titles] for each of these subjects. I wanted to
+               <lb facs="#facs_12_tr_2_tl_3" n="N003"/>cover, if possible, all realms of study at a university ---at least the larger realms; of course one cannot
+               <lb facs="#facs_12_tr_2_tl_4" n="N004"/>go into every specialty.
+               <lb facs="#facs_12_tr_2_tl_5" n="N005"/>QN: <hi style="font-style: italic;">[On medicine]</hi> ---
+               <lb facs="#facs_12_tr_2_tl_6" n="N006"/>PT: Yes, but I discussed it at the end of last semester in the connection of the problem of healing.
+               <lb facs="#facs_12_tr_2_tl_7" n="N007"/>QN: But it was too short!
+               <lb facs="#facs_12_tr_2_tl_8" n="N008"/>PT: I accept this criticism wholeheartedly, and I will see what can be done about it. Please keep
+               <lb facs="#facs_12_tr_2_tl_9" n="N009"/>reminding me of it. . . A group of medical students have invited me to discuss with them. . .
+               <lb facs="#facs_12_tr_2_tl_10" n="N010"/>Any other question? Of course these things should be existential, ie., [sic.] they should concern your
+               <lb facs="#facs_12_tr_2_tl_11" n="N011"/>real academic existence.
+            </ab>
+            <ab facs="#facs_12_tr_3">
+               <lb facs="#facs_12_tr_3_tl_1" n="N001"/>Let me say a few words in the last two minutes. The artistic realm belongs in one sense to
+               <lb facs="#facs_12_tr_3_tl_2" n="N002"/>the realm of RECEIVING reality. I had many discussions in philosophical groups how much cognitive
+               <lb facs="#facs_12_tr_3_tl_3" n="N003"/>elements are in arts. And I believe there are some; reality is grasped in a dimension which is different,
+               <lb facs="#facs_12_tr_3_tl_4" n="N004"/>of course, from the other cognitive realms. But that is only the one side of art; there are two more.
+               <lb facs="#facs_12_tr_3_tl_5" n="N005"/>The one is the expressive power of art. Before being anything else, art is EXPRESSION, expression in a
+               <lb facs="#facs_12_tr_3_tl_6" n="N006"/>form which is the special artistic form. In former centuries one called that "beautiful." Today,
+               <lb facs="#facs_12_tr_3_tl_7" n="N007"/>"beautiful" is identified with a special type of beautifying naturalism, which is a LESS valuable style
+               <lb facs="#facs_12_tr_3_tl_8" n="N008"/>of all styles of art. Therefore we avoid the term today.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p082</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p082</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_81">
+         <graphic url="TL-0082.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NMZAZTQIXAYPCIOLLNTPBHCB&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="283,265 283,1188 2289,1188 2289,265" rendition="TextRegion" xml:id="facs_81_tr_2">
+            <zone points="1072,323 1089,323 1104,336 1114,333 1148,336 1152,331 1167,331 1165,272 1143,275 1121,255 1104,275 1070,277" rendition="Line" xml:id="facs_81_tr_2_tl_1"/>
+            <zone points="284,501 2135,489 2135,433 2052,430 284,440" rendition="Line" xml:id="facs_81_tr_2_tl_2"/>
+            <zone points="275,584 2135,613 2135,518 275,532" rendition="Line" xml:id="facs_81_tr_2_tl_3"/>
+            <zone points="282,707 1211,649 2232,669 2232,608 2186,593 282,610" rendition="Line" xml:id="facs_81_tr_2_tl_4"/>
+            <zone points="275,749 2193,742 2193,693 2074,681 275,707" rendition="Line" xml:id="facs_81_tr_2_tl_5"/>
+            <zone points="282,836 1301,839 1301,788 1138,776 282,793" rendition="Line" xml:id="facs_81_tr_2_tl_6"/>
+            <zone points="571,999 2283,997 2285,929 630,958 574,926" rendition="Line" xml:id="facs_81_tr_2_tl_7" subtype="paragraph"/>
+            <zone points="275,1126 1276,1123 1332,1075 2152,1077 2154,1028 275,1043" rendition="Line" xml:id="facs_81_tr_2_tl_8"/>
+            <zone points="270,1182 372,1162 462,1169 489,1189 537,1165 839,1174 839,1131 766,1116 656,1123 610,1145 447,1118 270,1131" rendition="Line" xml:id="facs_81_tr_2_tl_9"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0082.jpg" n="part1_p082.jpg" xml:id="img_0081" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p082.jpg"/>
+            
+            <ab facs="#facs_81_tr_2">
+               <lb facs="#facs_81_tr_2_tl_1" n="N001"/>[78]
+               <lb facs="#facs_81_tr_2_tl_2" n="N002"/><technology>in which, with the help of the principle of rationality, man has complete control over
+               <lb break="no" facs="#facs_81_tr_2_tl_3" n="N003"/>the technical object, that the same thing can happen in the realms of independent life
+               <lb break="no" facs="#facs_81_tr_2_tl_4" n="N004"/>in which man has no [longer] [<hi style="font-style: italic;">sic:</hi> has no the control] the control of complete rationality
+               <lb break="no" facs="#facs_81_tr_2_tl_5" n="N005"/>and therefore the rationality element is breaking through, and has broken through, in the
+               <lb break="no" facs="#facs_81_tr_2_tl_6" n="N006"/>middle of this century in a most terrifying way.
+               <lb break="no" facs="#facs_81_tr_2_tl_7" n="N007"/>Now here you see--and this I must finish now, unfortunately--how fundamental
+               <lb break="no" facs="#facs_81_tr_2_tl_8" n="N008"/>the religious problems of the technical realm are. We have only started to discuss them
+               <lb break="no" facs="#facs_81_tr_2_tl_9" n="N009"/>and will go on next time.</technology>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p187</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p187</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_187">
+         <graphic url="TL-0187.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GWNJGOQSLLDNTUXSIWODPRSM&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="32,185 39,1102 32,1539 32,1778 32,3481 2418,3481 2418,185" rendition="TextRegion" xml:id="facs_187_tr_2">
+            <zone points="1125,241 1138,241 1161,257 1174,257 1179,252 1184,257 1220,257 1233,249 1246,249 1243,185 1207,188 1189,172 1164,200 1125,200" rendition="Line" xml:id="facs_187_tr_2_tl_1"/>
+            <zone points="303,406 2266,406 2266,329 2178,362 1947,362 1909,326 1875,360 1498,329 1405,365 1202,331 1097,367 948,334 914,367 303,370" rendition="Line" xml:id="facs_187_tr_2_tl_2"/>
+            <zone points="303,565 735,614 904,578 2189,581 2189,498 2009,485 303,503" rendition="Line" xml:id="facs_187_tr_2_tl_3"/>
+            <zone points="311,712 2196,699 2147,642 311,663" rendition="Line" xml:id="facs_187_tr_2_tl_4"/>
+            <zone points="303,858 817,858 817,812 771,801 550,809 529,789 503,809 303,809" rendition="Line" xml:id="facs_187_tr_2_tl_5"/>
+            <zone points="473,930 2119,938 2142,891 1320,896 1081,853 817,902 473,896" rendition="Line" xml:id="facs_187_tr_2_tl_6" subtype="paragraph"/>
+            <zone points="298,1087 1670,1079 1767,1125 2325,1084 2327,1012 301,1040" rendition="Line" xml:id="facs_187_tr_2_tl_9"/>
+            <zone points="290,1264 588,1264 634,1302 1683,1292 2201,1230 2201,1179 2058,1166 1981,1202 1888,1166 290,1189" rendition="Line" xml:id="facs_187_tr_2_tl_10"/>
+            <zone points="290,1428 2276,1382 2276,1333 1970,1336 1937,1302 1451,1354 1421,1323 293,1346" rendition="Line" xml:id="facs_187_tr_2_tl_11"/>
+            <zone points="308,1559 1433,1528 1657,1534 1724,1582 2304,1567 2304,1462 1397,1485 1323,1428 1156,1490 596,1510 308,1474" rendition="Line" xml:id="facs_187_tr_2_tl_12"/>
+            <zone points="198,1749 642,1688 2194,1693 2194,1639 2142,1623 604,1644 565,1608 354,1626 285,1554 200,1562" rendition="Line" xml:id="facs_187_tr_2_tl_13"/>
+            <zone points="280,1839 2199,1860 2199,1783 2032,1770 280,1796" rendition="Line" xml:id="facs_187_tr_2_tl_14"/>
+            <zone points="288,2004 1503,2022 1729,1988 1729,1934 288,1945" rendition="Line" xml:id="facs_187_tr_2_tl_15"/>
+            <zone points="452,2176 796,2212 1051,2140 2312,2129 2266,2065 1043,2091 1004,2055 776,2106 712,2065 452,2070" rendition="Line" xml:id="facs_187_tr_2_tl_17" subtype="paragraph"/>
+            <zone points="280,2286 2345,2314 2345,2232 2173,2222 280,2263" rendition="Line" xml:id="facs_187_tr_2_tl_18"/>
+            <zone points="280,2458 349,2515 1598,2484 1644,2438 2217,2438 2235,2384 283,2399" rendition="Line" xml:id="facs_187_tr_2_tl_20"/>
+            <zone points="280,2592 2209,2597 2312,2582 2314,2523 280,2551" rendition="Line" xml:id="facs_187_tr_2_tl_21"/>
+            <zone points="280,2743 1369,2749 1369,2697 1200,2684 280,2700" rendition="Line" xml:id="facs_187_tr_2_tl_23"/>
+            <zone points="475,2859 1739,2856 1901,2934 2196,2880 2196,2815 2070,2797 1988,2715 1806,2803 475,2813" rendition="Line" xml:id="facs_187_tr_2_tl_24" subtype="paragraph"/>
+            <zone points="275,3008 414,3075 789,3011 2230,3005 2230,2949 275,2964" rendition="Line" xml:id="facs_187_tr_2_tl_25"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0187.jpg" n="part1_p187.jpg" xml:id="img_0187" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p187.jpg"/>
+            
+            <ab facs="#facs_187_tr_2">
+               <lb facs="#facs_187_tr_2_tl_1" n="N001"/>[183]
+               <lb facs="#facs_187_tr_2_tl_2" n="N002"/>of the idea of <rs type="keyword" ref="#Creation">creation</rs>---I turned it against this in all the preceding lectures---but this man knew that
+               <lb facs="#facs_187_tr_2_tl_3" n="N003"/>he CANNOT presuppose ANYthing without doing it in a philosophical or metaphysical totality.
+               <lb facs="#facs_187_tr_2_tl_4" n="N004"/>It is always a vision of the totality of being which, consciously or unconsciously, determines the
+               <lb facs="#facs_187_tr_2_tl_5" n="N005"/>FRAME of their thought.
+               <lb facs="#facs_187_tr_2_tl_6" n="N006"/>Now this means, even in scientific work an element of philosophy remains effective.
+               <lb facs="#facs_187_tr_2_tl_9" n="N007"/>Although the child of the mother-philosophy has become independent, it can never become completely
+               <lb facs="#facs_187_tr_2_tl_10" n="N008"/>independent; it always remains in the frame of an understanding of reality as a whole. Of course
+               <lb facs="#facs_187_tr_2_tl_11" n="N009"/>these elements are not supposed to interfere with research. If they did this, then the scientific mind
+               <lb facs="#facs_187_tr_2_tl_12" n="N010"/>[would have] to turn against philosophy, as it did for instance in the philosophy of nature of the
+               <lb facs="#facs_187_tr_2_tl_13" n="N011"/>romanticists in the middle of the 19th century; and the tension scientists feel against philosophy
+               <lb facs="#facs_187_tr_2_tl_14" n="N012"/>still TODAY, especially against <rs type="keyword" ref="#Metaphysics">metaphysics,</rs> is rooted in the questionable claims of the Romantic
+               <lb facs="#facs_187_tr_2_tl_15" n="N013"/>philosophers of nature to solve physical problems in metaphysical terms.
+               <lb facs="#facs_187_tr_2_tl_17" n="N014"/>But this was an aberration. The Romantic idea as such has returned, that WITHIN scientific
+               <lb facs="#facs_187_tr_2_tl_18" n="N015"/>research there are presuppositions, and these presuppositions can be described. When, today, <rs type="keyword" ref="#Physics">physicists</rs>
+               <lb facs="#facs_187_tr_2_tl_20" n="N016"/>speak of "fields" or "structures" which PRECEDE the movements, then this is in the line of what
+               <lb facs="#facs_187_tr_2_tl_21" n="N017"/>the Romantic philosophers of nature tried to do, but they did it much too quickly, they superimposed
+               <lb facs="#facs_187_tr_2_tl_23" n="N018"/><rs type="keyword" ref="#Metaphysics">metaphysics</rs> upon <rs type="keyword" ref="#Physics">physical research</rs>---and that's wrong.
+               <lb facs="#facs_187_tr_2_tl_24" n="N019"/>Even the most empirical way of dealing with <rs type="keyword" ref="#Physics">physical problems is never pure physics---</rs>
+               <lb facs="#facs_187_tr_2_tl_25" n="N020"/>there is not such a thing. <rs type="keyword" ref="#Physics">Pure physics are never PURE physics, not because of the interference of</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

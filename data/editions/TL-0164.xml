@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p164</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p164</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_164">
+         <graphic url="TL-0164.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WAFFVIFSSLGLVMAMABGQQQNR&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="26,255 26,3484 2382,3484 2382,255" rendition="TextRegion" xml:id="facs_164_tr_1">
+            <zone points="1194,319 1207,319 1219,331 1249,326 1259,334 1287,331 1305,319 1317,319 1317,273 1282,276 1267,261 1254,273 1227,271 1217,276 1194,276" rendition="Line" xml:id="facs_164_tr_1_tl_1"/>
+            <zone points="344,459 1274,474 1370,517 2175,492 2173,442 1874,442 1794,381 1703,437 344,419" rendition="Line" xml:id="facs_164_tr_1_tl_2"/>
+            <zone points="344,610 2333,642 2331,582 344,554" rendition="Line" xml:id="facs_164_tr_1_tl_3"/>
+            <zone points="339,765 1648,773 1811,830 1864,790 2343,798 2343,733 2163,755 2102,707 2020,755 1854,702 1553,745 339,712" rendition="Line" xml:id="facs_164_tr_1_tl_4"/>
+            <zone points="336,906 527,933 605,918 803,926 800,866 630,866 610,886 554,866 534,886 512,863 454,863 434,883 414,863 334,861" rendition="Line" xml:id="facs_164_tr_1_tl_5"/>
+            <zone points="534,988 861,1001 928,1059 1172,1026 1570,1061 1678,1004 1854,1044 1917,1011 2376,1021 2376,958 2288,953 534,936" rendition="Line" xml:id="facs_164_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="341,1144 961,1152 1056,1192 2358,1177 2358,1114 341,1084" rendition="Line" xml:id="facs_164_tr_1_tl_9"/>
+            <zone points="324,1330 2316,1325 2313,1262 2263,1259 321,1259" rendition="Line" xml:id="facs_164_tr_1_tl_10"/>
+            <zone points="336,1445 866,1450 926,1508 2260,1508 2290,1420 334,1395" rendition="Line" xml:id="facs_164_tr_1_tl_11"/>
+            <zone points="326,1598 384,1636 1643,1666 1884,1668 1962,1611 2250,1621 2250,1568 326,1543" rendition="Line" xml:id="facs_164_tr_1_tl_12"/>
+            <zone points="326,1744 2243,1774 2243,1713 326,1716" rendition="Line" xml:id="facs_164_tr_1_tl_13"/>
+            <zone points="324,1899 2160,1917 2160,1859 324,1861" rendition="Line" xml:id="facs_164_tr_1_tl_14"/>
+            <zone points="321,2052 2155,2070 2155,2017 321,1997" rendition="Line" xml:id="facs_164_tr_1_tl_15"/>
+            <zone points="294,2205 2085,2218 2085,2165 2047,2163 294,2168" rendition="Line" xml:id="facs_164_tr_1_tl_16"/>
+            <zone points="306,2346 2183,2373 2180,2313 306,2316" rendition="Line" xml:id="facs_164_tr_1_tl_18"/>
+            <zone points="311,2516 2160,2526 2160,2469 309,2454" rendition="Line" xml:id="facs_164_tr_1_tl_19"/>
+            <zone points="301,2647 2185,2674 2185,2617 301,2619" rendition="Line" xml:id="facs_164_tr_1_tl_20"/>
+            <zone points="296,2795 512,2807 542,2835 597,2807 1234,2812 1234,2760 1144,2750 296,2770" rendition="Line" xml:id="facs_164_tr_1_tl_21"/>
+            <zone points="499,2978 590,3013 2173,2970 2170,2905 497,2923" rendition="Line" xml:id="facs_164_tr_1_tl_22" subtype="paragraph"/>
+            <zone points="294,3098 2230,3126 2228,3071 2140,3068 294,3073" rendition="Line" xml:id="facs_164_tr_1_tl_23"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0164.jpg" n="part1_p164.jpg" xml:id="img_0164" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p164.jpg"/>
+            
+            <ab facs="#facs_164_tr_1">
+               <lb facs="#facs_164_tr_1_tl_1" n="N001"/>[161]
+               <lb facs="#facs_164_tr_1_tl_2" n="N002"/>to guide you here, with my radical statements, to the boundary line of historical possibilities.
+               <lb facs="#facs_164_tr_1_tl_3" n="N003"/>Nothing else than this. But this must be done. And in academic work we ALWAYS must exhaust the
+               <lb facs="#facs_164_tr_1_tl_4" n="N004"/>possibilities of a problem to its bitter and---and it is a bitter end to which I brought it, at this moment.
+               <lb facs="#facs_164_tr_1_tl_5" n="N005"/>But that, we must do!
+               <lb facs="#facs_164_tr_1_tl_7" n="N006"/>Now I continue. Faith can assert its own foundation: for the Jews, the Mosaic Law, in which
+               <lb facs="#facs_164_tr_1_tl_9" n="N007"/>they are living; for the Christians, the picture of Jesus as the Christ, by which they are transformed into
+               <lb facs="#facs_164_tr_1_tl_10" n="N008"/>a new reality; in Mohammedanism, the words of the Prophet; in Buddha, the illumination of the man
+               <lb facs="#facs_164_tr_1_tl_11" n="N009"/>who was called the Buddha. But faith cannot assert the historical conditions which made it possible
+               <lb facs="#facs_164_tr_1_tl_12" n="N010"/>that these men became matters of ultimate concern for large sections of humanity. Faith includes
+               <lb facs="#facs_164_tr_1_tl_13" n="N011"/>certainty about its own foundation, for instance, about an event in history which has transformed
+               <lb facs="#facs_164_tr_1_tl_14" n="N012"/>and is continuously transforming life and history for the faithful. But faith does NOT include
+               <lb facs="#facs_164_tr_1_tl_15" n="N013"/>historical knowledge about the way in which this event took place. Therefore faith cannot be
+               <lb facs="#facs_164_tr_1_tl_16" n="N014"/>shaken by historical research. And that is the main point to which I wanted to guide you.
+               <lb facs="#facs_164_tr_1_tl_18" n="N015"/>After we have reached the boundary line and its bitterness of ultimate possibilities, we can now
+               <lb facs="#facs_164_tr_1_tl_19" n="N016"/>go back and can enjoy the fact that we are living in the reality of an ultimate concern and that
+               <lb facs="#facs_164_tr_1_tl_20" n="N017"/>this cannot be taken away from us by any historical skepticism which we ourselves must have if
+               <lb facs="#facs_164_tr_1_tl_21" n="N018"/>historical events are subject to critical analysis.
+               <lb facs="#facs_164_tr_1_tl_22" n="N019"/>Therefore the 200 years of historical criticism, and the criticism of all other religions
+               <lb facs="#facs_164_tr_1_tl_23" n="N020"/>with respect to the historical validity of the events which have created these religions, are not able
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

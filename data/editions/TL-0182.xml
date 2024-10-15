@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p182</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p182</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_182">
+         <graphic url="TL-0182.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TPMWYPLNTYCGGEUJCUWJHODH&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="2310,129 60,126 65,337 65,3481 2307,3481 2307,337" rendition="TextRegion" xml:id="facs_182_tr_1">
+            <zone points="1157,269 1318,266 1317,244 1157,246" rendition="Line" xml:id="facs_182_l_773"/>
+            <zone points="290,412 1456,399 1754,453 1850,396 2159,402 2159,339 2107,334 290,352" rendition="Line" xml:id="facs_182_tr_1_tl_1"/>
+            <zone points="280,555 2104,552 2104,490 280,529" rendition="Line" xml:id="facs_182_tr_1_tl_2"/>
+            <zone points="277,705 827,710 860,744 1441,744 1700,694 2231,723 2231,645 2192,643 277,676" rendition="Line" xml:id="facs_182_tr_1_tl_3"/>
+            <zone points="280,858 2221,853 2221,796 280,816" rendition="Line" xml:id="facs_182_tr_1_tl_4"/>
+            <zone points="280,1013 311,1024 332,1018 438,1024 464,1018 466,959 363,961 342,979 337,974 329,979 311,961 280,964" rendition="Line" xml:id="facs_182_tr_1_tl_5"/>
+            <zone points="472,1078 1262,1109 2203,1073 2148,1008 1117,1044 1060,1005 834,1047 474,1008" rendition="Line" xml:id="facs_182_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="280,1244 2197,1233 2197,1169 2125,1163 280,1187" rendition="Line" xml:id="facs_182_tr_1_tl_8"/>
+            <zone points="275,1389 1005,1389 1057,1443 1262,1446 2195,1410 2195,1327 1863,1316 275,1363" rendition="Line" xml:id="facs_182_tr_1_tl_9"/>
+            <zone points="277,1539 2223,1534 2223,1472 277,1493" rendition="Line" xml:id="facs_182_tr_1_tl_10"/>
+            <zone points="202,1718 2236,1679 2236,1622 290,1651 205,1609" rendition="Line" xml:id="facs_182_tr_1_tl_11"/>
+            <zone points="272,1845 2112,1837 2112,1778 275,1816" rendition="Line" xml:id="facs_182_tr_1_tl_12"/>
+            <zone points="150,2068 231,2081 384,1998 1311,2052 1757,1990 2236,1987 2236,1923 2164,1920 326,1949 155,1855" rendition="Line" xml:id="facs_182_tr_1_tl_13"/>
+            <zone points="275,2179 342,2213 959,2148 1005,2182 2257,2182 2304,2073 275,2099" rendition="Line" xml:id="facs_182_tr_1_tl_14"/>
+            <zone points="272,2309 1443,2296 1425,2241 272,2260" rendition="Line" xml:id="facs_182_tr_1_tl_15"/>
+            <zone points="477,2459 2244,2431 2244,2392 2161,2363 733,2415 477,2384" rendition="Line" xml:id="facs_182_tr_1_tl_16" subtype="paragraph"/>
+            <zone points="272,2607 2190,2589 2190,2545 2052,2521 275,2555" rendition="Line" xml:id="facs_182_tr_1_tl_18"/>
+            <zone points="275,2757 2055,2749 2159,2742 2161,2682 275,2731" rendition="Line" xml:id="facs_182_tr_1_tl_19"/>
+            <zone points="277,2915 2260,2892 2260,2827 1220,2871 277,2850" rendition="Line" xml:id="facs_182_tr_1_tl_20"/>
+            <zone points="275,3063 2218,3058 2218,2988 275,3014" rendition="Line" xml:id="facs_182_tr_1_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0182.jpg" n="part1_p182.jpg" xml:id="img_0182" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p182.jpg"/>
+            
+            <ab facs="#facs_182_tr_1">
+               <lb facs="#facs_182_l_773" n="N001"/>[177]
+               <lb facs="#facs_182_tr_1_tl_1" n="N002"/>The theologian, if he speaks of r<religious_language>eligious language,</religious_language> speaks of the divine love forgiving the sinner,
+               <lb facs="#facs_182_tr_1_tl_2" n="N003"/>or of the divine grace giving power-of-being to those who are in despair, etc. <ultimate_concern>Now this is the
+               <lb break="no" facs="#facs_182_tr_1_tl_3" n="N004"/>fundamental difference, but both speak of ultimate reality because only that which is the ultimate,
+               <lb break="no" facs="#facs_182_tr_1_tl_4" n="N005"/>the ground of being and meaning, can be the ground of everything that is, and can be our ultimate
+               <lb break="no" facs="#facs_182_tr_1_tl_5" n="N006"/>concern.</ultimate_concern>
+               <lb facs="#facs_182_tr_1_tl_7" n="N007"/>Now up to this point, everything is neat and, I hope, comparatively clear. But now the
+               <lb facs="#facs_182_tr_1_tl_8" n="N008"/>difficulty arises which is very simple to state, but very difficult to describe. The difficulty is that
+               <lb facs="#facs_182_tr_1_tl_9" n="N009"/>the philosopher is a human being and the theologian is a man who has the possibility of thinking.
+               <lb facs="#facs_182_tr_1_tl_10" n="N010"/>That makes all the difference. THEY BOTH ARE MEN; they both participate in human existence;
+               <lb facs="#facs_182_tr_1_tl_11" n="N011"/>they both have <ultimate_concern>ultimate concern;</ultimate_concern> and they both ask the question of the <rs type="keyword" ref="#Structure_of_Being">structure of being, </rs>because
+               <lb facs="#facs_182_tr_1_tl_12" n="N012"/>no human being can completely escape these two realities which belong to human nature.
+               <lb facs="#facs_182_tr_1_tl_13" n="N013"/>As I said in another place, every human being philosophizes and theologizes, [just] as every human
+               <lb facs="#facs_182_tr_1_tl_14" n="N014"/>being moralizes and politicizes. These categories are functions of the human mind in which everybody
+               <lb facs="#facs_182_tr_1_tl_15" n="N015"/>potentially participates, whether he does it actually or not.
+               <lb facs="#facs_182_tr_1_tl_16" n="N016"/>Now this means: the question is not whether he DEVELOPS the one or the other thing---
+
+               <lb facs="#facs_182_tr_1_tl_18" n="N017"/>the peasant boy doesn’t usually develop philosophy, and not even theology; nevertheless he asks
+               <lb facs="#facs_182_tr_1_tl_19" n="N018"/>questions which put to shame great philosophers, especially if he has not been distorted by the
+               <lb facs="#facs_182_tr_1_tl_20" n="N019"/>adults in his immediate encounter with reality. And the philosopher has to die and has to anticipate
+               <lb facs="#facs_182_tr_1_tl_21" n="N020"/>his having-to-die, and has to ask the question about his being, in face of his having-to-die. No one
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

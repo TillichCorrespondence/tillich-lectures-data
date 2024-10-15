@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part3_p021</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p021</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_21">
+         <graphic url="TL-0413.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FVGYWGNYJGJKFPGLWSULAAYG&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="286,278 2251,278 2251,1231 286,1231" rendition="TextRegion" xml:id="facs_21_tr_2">
+            <zone points="1157,341 1181,341 1189,348 1206,348 1231,341 1255,344 1265,334 1278,334 1278,299 1258,299 1238,279 1211,277 1203,279 1191,292 1157,292" rendition="Line" xml:id="facs_21_tr_2_tl_1"/>
+            <zone points="282,470 1478,465 1661,534 1708,487 1826,499 1826,400 282,435" rendition="Line" xml:id="facs_21_tr_2_tl_2"/>
+            <zone points="509,593 2207,588 2207,531 509,544" rendition="Line" xml:id="facs_21_tr_2_tl_3"/>
+            <zone points="279,724 2172,717 2175,655 279,672" rendition="Line" xml:id="facs_21_tr_2_tl_4"/>
+            <zone points="279,845 2244,838 2244,783 279,801" rendition="Line" xml:id="facs_21_tr_2_tl_5"/>
+            <zone points="279,979 2204,974 2204,917 279,932" rendition="Line" xml:id="facs_21_tr_2_tl_6"/>
+            <zone points="272,1092 670,1157 979,1092 2209,1092 2212,1035 274,1070" rendition="Line" xml:id="facs_21_tr_2_tl_7"/>
+            <zone points="272,1218 1614,1231 2123,1216 2123,1166 272,1196" rendition="Line" xml:id="facs_21_tr_2_tl_8"/>
+         </zone>
+         <zone points="286,1278 2271,1278 2271,2234 286,2234" rendition="TextRegion" xml:id="facs_21_tr_3">
+            <zone points="279,1354 2167,1349 2167,1268 279,1305" rendition="Line" xml:id="facs_21_tr_3_tl_1"/>
+            <zone points="272,1475 2051,1478 2125,1409 272,1431" rendition="Line" xml:id="facs_21_tr_3_tl_2"/>
+            <zone points="272,1599 2182,1589 2199,1530 272,1574" rendition="Line" xml:id="facs_21_tr_3_tl_3"/>
+            <zone points="274,1725 2101,1685 274,1700" rendition="Line" xml:id="facs_21_tr_3_tl_4"/>
+            <zone points="274,1856 2152,1848 2152,1789 274,1806" rendition="Line" xml:id="facs_21_tr_3_tl_5"/>
+            <zone points="282,1982 2239,1972 2264,1900 282,1933" rendition="Line" xml:id="facs_21_tr_3_tl_6"/>
+            <zone points="274,2101 2083,2101 2199,2093 2199,2039 274,2056" rendition="Line" xml:id="facs_21_tr_3_tl_7"/>
+            <zone points="274,2224 1844,2229 2187,2214 2187,2170 274,2182" rendition="Line" xml:id="facs_21_tr_3_tl_8"/>
+         </zone>
+         <zone points="62,2278 2242,2278 2242,3485 62,3485" rendition="TextRegion" xml:id="facs_21_tr_1">
+            <zone points="272,2348 2145,2343 2187,2288 274,2306" rendition="Line" xml:id="facs_21_tr_1_tl_1"/>
+            <zone points="277,2484 2130,2469 2130,2419 1987,2402 279,2422" rendition="Line" xml:id="facs_21_tr_1_tl_2"/>
+            <zone points="274,2605 1404,2605 1572,2595 1574,2545 277,2560" rendition="Line" xml:id="facs_21_tr_1_tl_3"/>
+            <zone points="497,2731 1913,2726 2076,2716 2076,2654 497,2674" rendition="Line" xml:id="facs_21_tr_1_tl_4"/>
+            <zone points="272,2859 1866,2869 2236,2837 2236,2785 272,2830" rendition="Line" xml:id="facs_21_tr_1_tl_5"/>
+            <zone points="272,2980 895,3010 2061,2966 2091,2919 272,2958" rendition="Line" xml:id="facs_21_tr_1_tl_6"/>
+            <zone points="269,3114 2123,3099 2123,3040 269,3082" rendition="Line" xml:id="facs_21_tr_1_tl_7"/>
+            <zone points="267,3262 1253,3287 2194,3237 2194,3176 267,3237" rendition="Line" xml:id="facs_21_tr_1_tl_8"/>
+            <zone points="754,3450 818,3477 860,3440 895,3477 1003,3484 1043,3452 1065,3465 1112,3433 1201,3470 1206,3383 828,3388 756,3410" rendition="Line" xml:id="facs_21_tr_1_tl_9"/>
+            <zone points="435,3438 470,3435 499,3452 514,3438 556,3442 566,3433 591,3452 615,3440 655,3442 702,3470 741,3450 739,3400 692,3403 628,3388 432,3388" rendition="Line" xml:id="facs_21_tr_1_tl_10"/>
+            <zone points="255,3487 292,3475 319,3440 366,3460 395,3462 423,3484 435,3484 452,3462 472,3460 465,3420 435,3423 381,3393 366,3410 351,3413 301,3386 240,3398" rendition="Line" xml:id="facs_21_tr_1_tl_11"/>
+            <zone points="49,3425 59,3425 89,3445 106,3442 116,3433 124,3438 146,3433 166,3445 183,3435 195,3435 193,3351 146,3353 138,3346 94,3344 47,3349" rendition="Line" xml:id="facs_21_tr_1_tl_12"/>
+            <zone points="168,3472 193,3477 198,3487 205,3484 215,3487 230,3484 235,3487 242,3480 259,3484 264,3445 252,3445 250,3442 242,3450 235,3450 225,3447 210,3435 195,3438 193,3433 175,3430" rendition="Line" xml:id="facs_21_tr_1_tl_13"/>
+            <zone points="64,3487 89,3484 96,3475 116,3484 131,3484 138,3477 148,3477 166,3487 178,3484 171,3435 151,3438 143,3430 124,3438 116,3433 101,3445 86,3445 72,3435 59,3438" rendition="Line" xml:id="facs_21_tr_1_tl_14"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0413.jpg" n="part3_p021.jpg" xml:id="img_0021" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p021.jpg"/>
+            
+            <ab facs="#facs_21_tr_2">
+               <lb facs="#facs_21_tr_2_tl_1" n="N001"/>-ere¬
+               <lb facs="#facs_21_tr_2_tl_2" n="N002"/>other. I repeat the three: the humanistic, the technical, and the introductory.
+               <lb facs="#facs_21_tr_2_tl_3" n="N003"/>The backward of the first, to which I turn, are three ideas, of which the congressance
+               <lb facs="#facs_21_tr_2_tl_4" n="N004"/>is the classical period of their development; not classical antiquity, but the Renaissance, because
+               <lb facs="#facs_21_tr_2_tl_5" n="N005"/>in the Renaissance, elements came in which are dependent on the 1500 years of Christian education
+               <lb facs="#facs_21_tr_2_tl_6" n="N006"/>and development in this period, and which, in the Greek culture, didn’t exist. The three ideas are,
+               <lb facs="#facs_21_tr_2_tl_7" n="N007"/>first, the idea of the microcosmos. This idea means that every individual man, in his potentialities,
+               <lb facs="#facs_21_tr_2_tl_8" n="N008"/>mirrors the universe—all level’s and dimensions of the universe. They are in him, and he is the
+            </ab>
+            <ab facs="#facs_21_tr_3">
+               <lb facs="#facs_21_tr_3_tl_1" n="N001"/>mediator from one to the other of these levels. He unites the inorganic, the organis, the animal,
+               <lb facs="#facs_21_tr_3_tl_2" n="N002"/>and the spiritual levels. All of them are in him. Therefore he has approach to all of them, can
+               <lb facs="#facs_21_tr_3_tl_3" n="N003"/>control them, and can relate them to each other. Man as the microcosmos represents the universe
+               <lb facs="#facs_21_tr_3_tl_4" n="N004"/>and is able to bevelop all the potentialities which are given to him with his [this] situation.
+               <lb facs="#facs_21_tr_3_tl_5" n="N005"/>But, and this is the second point, he can and should develop them only as a unique individual.
+               <lb facs="#facs_21_tr_3_tl_6" n="N006"/>This is NOT Greek. The concept of the microcosmic individual has come to the Renaissance through
+               <lb facs="#facs_21_tr_3_tl_7" n="N007"/>its Christian underground, through the Christian idea of the infinite value of the individual person
+               <lb facs="#facs_21_tr_3_tl_8" n="N008"/>in the mind of God. This infinite value of the individual means, in Christianity, that each human
+            </ab>
+            <ab facs="#facs_21_tr_1">
+               <lb facs="#facs_21_tr_1_tl_1" n="N001"/>being is open to condemnation and salvation, and is of infinite interest to God who looks at him
+               <lb facs="#facs_21_tr_1_tl_2" n="N002"/>in what he actually is and in what he essentially is and therefore ought to be. The application
+               <lb facs="#facs_21_tr_1_tl_3" n="N003"/>of the idea of salvation to every individual soul is a Christian idea.
+               <lb facs="#facs_21_tr_1_tl_4" n="N004"/>In the Renaissance and then Romanticism, following, the idea is changed. It is
+               <lb facs="#facs_21_tr_1_tl_5" n="N005"/>combined with the idea of the microcosmos and means the mirroring of the universe goes on differ¬
+               <lb facs="#facs_21_tr_1_tl_6" n="N006"/>ently in every individual. So every individual is a representative of the richness of the divine
+               <lb facs="#facs_21_tr_1_tl_7" n="N007"/>potentalities which he or she has and nobody else. And this is the second idea: the unique,
+               <lb facs="#facs_21_tr_1_tl_8" n="N008"/>unrepeatable, once-for-all character of every individual soul. Therefore the humanistic idea is the
+               <lb facs="#facs_21_tr_1_tl_9" n="N009"/>Monsieur Mounard, et le Comte de
+               <lb facs="#facs_21_tr_1_tl_10" n="N010"/>dʼavoir lʼautre vieusement
+               <lb facs="#facs_21_tr_1_tl_11" n="N011"/>Monsieur Mounard, et
+               <lb facs="#facs_21_tr_1_tl_12" n="N012"/>Monsieur,
+               <lb facs="#facs_21_tr_1_tl_13" n="N013"/>dʼun autre
+               <lb facs="#facs_21_tr_1_tl_14" n="N014"/>dʼune manière
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

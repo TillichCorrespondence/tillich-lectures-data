@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p275</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p275</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_275">
+         <graphic url="TL-0275.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MGOBBUJARKWMKFRAEBVMWFLA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="223,269 223,3481 2370,3481 2370,269" rendition="TextRegion" xml:id="facs_275_tr_1">
+            <zone points="1150,332 1164,332 1182,349 1274,346 1274,273 1252,273 1231,295 1217,300 1196,282 1188,290 1150,290" rendition="Line" xml:id="facs_275_tr_1_tl_1"/>
+            <zone points="217,499 542,550 837,499 2185,493 2188,437 2024,429 220,458" rendition="Line" xml:id="facs_275_tr_1_tl_2"/>
+            <zone points="223,649 2113,646 2113,587 223,625" rendition="Line" xml:id="facs_275_tr_1_tl_3"/>
+            <zone points="225,807 2153,796 2153,732 2057,724 1963,759 225,753" rendition="Line" xml:id="facs_275_tr_1_tl_4"/>
+            <zone points="217,955 2215,941 2215,885 217,928" rendition="Line" xml:id="facs_275_tr_1_tl_5"/>
+            <zone points="421,1107 2161,1102 2161,1043 421,1056" rendition="Line" xml:id="facs_275_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="410,1266 823,1255 1022,1314 1292,1249 2124,1249 2124,1188 544,1228 410,1196" rendition="Line" xml:id="facs_275_tr_1_tl_8"/>
+            <zone points="220,1416 2126,1397 2126,1354 2067,1338 220,1359" rendition="Line" xml:id="facs_275_tr_1_tl_9"/>
+            <zone points="212,1563 2107,1555 2107,1488 212,1528" rendition="Line" xml:id="facs_275_tr_1_tl_10"/>
+            <zone points="220,1716 2161,1700 2124,1636 220,1681" rendition="Line" xml:id="facs_275_tr_1_tl_11"/>
+            <zone points="220,1866 244,1872 322,1869 349,1877 394,1863 418,1869 421,1810 290,1813 257,1807 223,1813" rendition="Line" xml:id="facs_275_tr_1_tl_12"/>
+            <zone points="416,1933 1279,1987 1351,1928 2228,1925 2228,1855 1585,1893 416,1877" rendition="Line" xml:id="facs_275_tr_1_tl_13" subtype="paragraph"/>
+            <zone points="209,2089 906,2116 2102,2078 2073,2014 212,2057" rendition="Line" xml:id="facs_275_tr_1_tl_14"/>
+            <zone points="223,2255 1909,2236 1909,2183 1729,2169 223,2199" rendition="Line" xml:id="facs_275_tr_1_tl_15"/>
+            <zone points="421,2389 2164,2378 2164,2314 424,2333" rendition="Line" xml:id="facs_275_tr_1_tl_16" subtype="paragraph"/>
+            <zone points="212,2539 2360,2550 2362,2475 2247,2461 214,2510" rendition="Line" xml:id="facs_275_tr_1_tl_17"/>
+            <zone points="209,2695 2279,2679 2260,2622 209,2671" rendition="Line" xml:id="facs_275_tr_1_tl_18"/>
+            <zone points="209,2842 335,2850 397,2901 751,2885 807,2839 2260,2834 2260,2780 2185,2770 212,2818" rendition="Line" xml:id="facs_275_tr_1_tl_19"/>
+            <zone points="212,3003 1054,2998 1054,2941 212,2947" rendition="Line" xml:id="facs_275_tr_1_tl_22"/>
+            <zone points="212,3148 1089,3150 1089,3086 909,3086 885,3110 330,3091 212,3118" rendition="Line" xml:id="facs_275_tr_1_tl_23"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0275.jpg" n="part1_p275.jpg" xml:id="img_0275" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p275.jpg"/>
+            
+            <ab facs="#facs_275_tr_1">
+               <lb facs="#facs_275_tr_1_tl_1" n="N001"/>[271]
+               <lb facs="#facs_275_tr_1_tl_2" n="N002"/>In the <rs type="keyword" ref="#Cartesian_philosophy">Cartesian,</rs> <rs type="keyword" ref="#Kantian">Kantian</rs>, and long ago <rs type="keyword" ref="#Pelagian">Erasmian (and for theologians, Pelagian) </rs>attitude, the belief
+               <lb facs="#facs_275_tr_1_tl_3" n="N003"/>was predominant, and still is, in this semi- or three-fourths Pelagian American Christianity, that
+               <lb facs="#facs_275_tr_1_tl_4" n="N004"/>everything is dependent on conscious decisions made in the center of our <rs type="keyword" ref="#Consciousness">consciousness</rs>, and that
+               <lb facs="#facs_275_tr_1_tl_5" n="N005"/>everybody in every moment is able to make these decisions for good or bad, for God or against God.
+               <lb facs="#facs_275_tr_1_tl_6" n="N006"/>Now such a belief, whenever it appeared---and I gave you the names: <rs type="person">Pelagius</rs>, <rs type="person">Erasmus</rs>,
+               <lb facs="#facs_275_tr_1_tl_8" n="N007"/><rs type="person">Descartes</rs>, <rs type="person">Kant</rs>, and of course the English <rs type="keyword" ref="#Empiricism">empiricists</rs>---was always, after a certain time, undercut
+               <lb facs="#facs_275_tr_1_tl_9" n="N008"/>by forms of new realism, of a new understanding of the human situation. In this country it was
+               <lb facs="#facs_275_tr_1_tl_10" n="N009"/>especially the belief in<progress> progress </progress>through the man-of-good-will who slowly will renew society by
+               <lb facs="#facs_275_tr_1_tl_11" n="N010"/>conscious decisions and conscious activities in such a way that the whole of human reality will be
+               <lb facs="#facs_275_tr_1_tl_12" n="N011"/>changed.
+               <lb facs="#facs_275_tr_1_tl_13" n="N012"/>I already discussed the <progress>problem of progress,</progress> to the dismay of many of you, and there I said
+               <lb facs="#facs_275_tr_1_tl_14" n="N013"/>that the model of progressivistic thinking is man's technical activity, and that in this model the
+               <lb facs="#facs_275_tr_1_tl_15" n="N014"/>progress-idea is right, while if applied to man making conscious decisions, it is wrong.
+               <lb facs="#facs_275_tr_1_tl_16" n="N015"/>The discovery of the <unconscious>unconscious</unconscious> showed this very clearly. It showed that this attitude
+               <lb facs="#facs_275_tr_1_tl_17" n="N016"/>of a psychology of <rs type="keyword" ref="#Consciousness">consciousness,</rs> and morals of consciousness, and generally a philosophy of consciousness
+               <lb facs="#facs_275_tr_1_tl_18" n="N017"/>usually called <rs type="keyword" ref="#Idealism">idealism</rs>, was wrong. Something happened which, in religious terminology, was described
+               <lb facs="#facs_275_tr_1_tl_19" n="N018"/>as the "bondage of the will"---or something was SEEN again. It was not called so by the psychologists,
+               <lb facs="#facs_275_tr_1_tl_22" n="N019"/>but they discovered realities in man which confirmed the fundamental insight of man in himself
+               <lb facs="#facs_275_tr_1_tl_23" n="N020"/>of which religion has always been a witness.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

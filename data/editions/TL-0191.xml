@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p191</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p191</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_191">
+         <graphic url="TL-0191.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CMZCQWWRBZBBCMGIDOFKQJJT&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="176,160 176,3473 2346,3473 2346,160" rendition="TextRegion" xml:id="facs_191_tr_2">
+            <zone points="1202,238 1230,236 1235,241 1248,241 1250,246 1320,243 1322,190 1289,190 1279,179 1268,190 1256,192 1240,187 1204,187" rendition="Line" xml:id="facs_191_tr_2_tl_1"/>
+            <zone points="272,438 997,384 1712,418 1771,461 1809,420 2124,405 2124,356 1973,354 1922,302 843,284 269,328" rendition="Line" xml:id="facs_191_tr_2_tl_2"/>
+            <zone points="269,520 1317,548 1399,543 1397,487 266,489" rendition="Line" xml:id="facs_191_tr_2_tl_3"/>
+            <zone points="259,664 1325,694 1340,633 1053,653 256,615" rendition="Line" xml:id="facs_191_tr_2_tl_5"/>
+            <zone points="433,820 2311,861 2309,797 2242,792 433,764" rendition="Line" xml:id="facs_191_tr_2_tl_6" subtype="paragraph"/>
+            <zone points="254,981 2183,1015 2196,948 251,946" rendition="Line" xml:id="facs_191_tr_2_tl_7"/>
+            <zone points="241,1138 2291,1189 2263,1102 241,1081" rendition="Line" xml:id="facs_191_tr_2_tl_8"/>
+            <zone points="241,1289 2188,1312 2186,1256 2045,1250 241,1235" rendition="Line" xml:id="facs_191_tr_2_tl_9"/>
+            <zone points="231,1427 2076,1461 2076,1404 231,1381" rendition="Line" xml:id="facs_191_tr_2_tl_10"/>
+            <zone points="223,1581 2276,1614 2273,1558 2183,1555 223,1553" rendition="Line" xml:id="facs_191_tr_2_tl_11"/>
+            <zone points="405,1740 1148,1748 1215,1796 1445,1773 1901,1830 2045,1827 2165,1755 2288,1766 2288,1709 402,1686" rendition="Line" xml:id="facs_191_tr_2_tl_12" subtype="paragraph"/>
+            <zone points="220,1876 2178,1917 2178,1855 218,1830" rendition="Line" xml:id="facs_191_tr_2_tl_14"/>
+            <zone points="215,2030 2070,2068 2070,2006 215,2004" rendition="Line" xml:id="facs_191_tr_2_tl_15"/>
+            <zone points="213,2196 1637,2214 1635,2142 213,2142" rendition="Line" xml:id="facs_191_tr_2_tl_16"/>
+            <zone points="387,2340 1919,2375 2306,2368 2306,2329 384,2276" rendition="Line" xml:id="facs_191_tr_2_tl_17" subtype="paragraph"/>
+            <zone points="210,2486 1978,2527 2194,2516 2194,2460 208,2455" rendition="Line" xml:id="facs_191_tr_2_tl_18"/>
+            <zone points="205,2642 1381,2657 1566,2721 2260,2670 2258,2606 202,2588" rendition="Line" xml:id="facs_191_tr_2_tl_19"/>
+            <zone points="200,2806 423,2796 479,2850 579,2852 825,2852 876,2803 1527,2811 1571,2852 1891,2850 1950,2808 2104,2844 2073,2755 1942,2785 1612,2744 200,2752" rendition="Line" xml:id="facs_191_tr_2_tl_20"/>
+            <zone points="197,2947 2081,2980 2078,2916 2040,2914 197,2888" rendition="Line" xml:id="facs_191_tr_2_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0191.jpg" n="part1_p191.jpg" xml:id="img_0191" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p191.jpg"/>
+            
+            <ab facs="#facs_191_tr_2">
+               <lb facs="#facs_191_tr_2_tl_1" n="N001"/>[187]
+               <lb facs="#facs_191_tr_2_tl_2" n="N002"/><rs type="keyword" ref="#History">human history.</rs> So facts are also in the realm of philosophy; there are no pure facts, there are
+               <lb facs="#facs_191_tr_2_tl_3" n="N003"/>always facts described in terms which transcend the pure fact and show them according to principles
+               <lb facs="#facs_191_tr_2_tl_5" n="N004"/>which in themselves have nothing to do with the facts.
+               <lb facs="#facs_191_tr_2_tl_6" n="N005"/>The <rs type="keyword" ref="#Historical_research">historian</rs> must evaluate his sources, their reliability, and this again is not independent of an
+               <lb facs="#facs_191_tr_2_tl_7" n="N006"/>understanding of human nature. In the moment in which a historical work implicitly or explicitly
+               <lb facs="#facs_191_tr_2_tl_8" n="N007"/>gives assertions about the meaning of historical events for human existence, then the PHILOSOPHICAL
+               <lb facs="#facs_191_tr_2_tl_9" n="N008"/>presuppositions of history are evident. Again, where there is philosophy, there is expression of an
+               <lb facs="#facs_191_tr_2_tl_10" n="N009"/><ultimate_concern>ultimate concern, </ultimate_concern>there is an element of <rs type="keyword" ref="#Faith">faith; </rs>however hidden it may be, there is passion for
+               <lb facs="#facs_191_tr_2_tl_11" n="N010"/>something ultimate BESIDE the JUSTIFIED and NECESSARY passion of the historian for pure facts.
+               <lb facs="#facs_191_tr_2_tl_12" n="N011"/>Now I think these considerations show the unity of human nature in all these functions. These
+               <lb facs="#facs_191_tr_2_tl_14" n="N012"/>functions are within each other; they are not BESIDE each other, and if we better understood this
+               <lb facs="#facs_191_tr_2_tl_15" n="N013"/>simple fact of the within-each-otherness of all human functions, many foolish mistakes about
+               <lb facs="#facs_191_tr_2_tl_16" n="N014"/>problems of religion, philosophy, science, and history could be avoided.
+               <lb facs="#facs_191_tr_2_tl_17" n="N015"/>Now all this shows that in spite of the fundamental difference of the philosophical consideration
+               <lb facs="#facs_191_tr_2_tl_18" n="N016"/>of the world, and the religious concern about that which is ultimate in being and meaning, there is a
+               <lb facs="#facs_191_tr_2_tl_19" n="N017"/>basic unity between them. <rs type="keyword" ref="#Philosophical_faith">One has spoken on this basis about <rs type="keyword" ref="#Faith">"philosophical faith.</rs>" The existentialist
+               <lb break="no" facs="#facs_191_tr_2_tl_20" n="N018"/>philosopher <rs type="person">Karl Jaspers</rs> has written a book which is translated <hi style="font-style: italic;">Philosophical Faith</hi>. I don't
+               <lb break="no" facs="#facs_191_tr_2_tl_21" n="N019"/>like this term. The term seems to me misleading because it seems to confuse the two elements,</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p043</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p043</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_43">
+         <graphic url="TL-0327.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MPDBDGQZJPDSILWVISBUFSDH&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="280,323 2319,323 2319,1604 280,1604" rendition="TextRegion" xml:id="facs_43_tr_2">
+            <zone points="1130,377 1142,377 1155,390 1244,388 1255,398 1285,398 1283,296 1267,298 1242,326 1216,321 1204,334 1178,334 1168,326 1155,339 1127,339" rendition="Line" xml:id="facs_43_tr_2_tl_1"/>
+            <zone points="459,543 2234,536 2254,487 459,500" rendition="Line" xml:id="facs_43_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="275,688 2188,694 2188,627 275,658" rendition="Line" xml:id="facs_43_tr_2_tl_3"/>
+            <zone points="278,847 2086,862 2086,785 278,816" rendition="Line" xml:id="facs_43_tr_2_tl_4"/>
+            <zone points="275,1007 617,1051 1181,989 2244,997 2247,936 278,949" rendition="Line" xml:id="facs_43_tr_2_tl_5"/>
+            <zone points="265,1142 2139,1150 2315,1140 2315,1081 265,1117" rendition="Line" xml:id="facs_43_tr_2_tl_6"/>
+            <zone points="275,1321 1665,1349 1721,1295 2206,1293 2206,1237 275,1255" rendition="Line" xml:id="facs_43_tr_2_tl_7"/>
+            <zone points="265,1446 2119,1461 2206,1382 265,1420" rendition="Line" xml:id="facs_43_tr_2_tl_8"/>
+            <zone points="268,1596 1872,1596 2012,1591 2012,1540 268,1553" rendition="Line" xml:id="facs_43_tr_2_tl_9"/>
+         </zone>
+         <zone points="277,1675 2289,1675 2289,2511 277,2511" rendition="TextRegion" xml:id="facs_43_tr_3">
+            <zone points="439,1744 2068,1744 2091,1680 441,1716" rendition="Line" xml:id="facs_43_tr_3_tl_1" subtype="paragraph"/>
+            <zone points="268,1912 2106,1895 2203,1887 2203,1828 268,1849" rendition="Line" xml:id="facs_43_tr_3_tl_2"/>
+            <zone points="265,2055 2104,2053 2218,2048 2218,1984 265,2002" rendition="Line" xml:id="facs_43_tr_3_tl_3"/>
+            <zone points="265,2208 2040,2206 2229,2190 2229,2134 265,2173" rendition="Line" xml:id="facs_43_tr_3_tl_4"/>
+            <zone points="268,2351 2178,2349 2267,2343 2267,2285 268,2323" rendition="Line" xml:id="facs_43_tr_3_tl_5"/>
+            <zone points="263,2507 2267,2504 2285,2435 265,2451" rendition="Line" xml:id="facs_43_tr_3_tl_6"/>
+         </zone>
+         <zone points="50,2583 2194,2583 2194,3464 50,3464" rendition="TextRegion" xml:id="facs_43_tr_1">
+            <zone points="265,2652 2068,2655 2162,2644 2162,2593 265,2611" rendition="Line" xml:id="facs_43_tr_1_tl_1"/>
+            <zone points="260,2810 2188,2797 2188,2731 260,2751" rendition="Line" xml:id="facs_43_tr_1_tl_2"/>
+            <zone points="260,2958 1752,2950 1770,2902 260,2915" rendition="Line" xml:id="facs_43_tr_1_tl_3"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0327.jpg" n="part2_p043.jpg" xml:id="img_0043" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p043.jpg"/>
+            
+            <ab facs="#facs_43_tr_2">
+               <lb facs="#facs_43_tr_2_tl_1" n="N001"/>[322b]
+               <lb facs="#facs_43_tr_2_tl_2" n="N002"/>Now however this may be, we must see here also the phenomenon of double symbolization
+               <lb facs="#facs_43_tr_2_tl_3" n="N003"/>which expresses itself ALSO in these tensions. When you come into a Roman church, with many
+               <lb facs="#facs_43_tr_2_tl_4" n="N004"/>side chapels, you see (at least in one of them, often in several of them) people kneeling and
+               <lb facs="#facs_43_tr_2_tl_5" n="N005"/>praying before pictures of the Holy Virgin, or some saint, pictures which are, aesthetically speaking,
+               <lb facs="#facs_43_tr_2_tl_6" n="N006"/>horrors, <hi style="font-style: italic;">kitsch</hi>, or however you want to call it, which by some quality has become religiously powerful:
+               <lb facs="#facs_43_tr_2_tl_7" n="N007"/>they point, without artistic form, to the religious symbol and remind, instead of written letter, or
+               <lb facs="#facs_43_tr_2_tl_8" n="N008"/>stories told, by their pictural attempt, the people OF their religious symbols---the Holy Virgin, or
+               <lb facs="#facs_43_tr_2_tl_9" n="N009"/>the saints, or the Christ in crucifixion or resurrection, or in any other of His life stories.
+            </ab>
+            <ab facs="#facs_43_tr_3">
+               <lb facs="#facs_43_tr_3_tl_1" n="N001"/>So here again you have the tension. And it is interesting that the great Renaissance
+               <lb facs="#facs_43_tr_3_tl_2" n="N002"/>pictures, the Raphaels and Bellinis and Pieros, etc., never became cult pictures, in the real sense of
+               <lb facs="#facs_43_tr_3_tl_3" n="N003"/>the word: they didn't produce piety because (for reasons to which I will immediately come; I will
+               <lb facs="#facs_43_tr_3_tl_4" n="N004"/>show some of them) they couldn't go beyond their aesthetic symbolism to the religious symbolism
+               <lb facs="#facs_43_tr_3_tl_5" n="N005"/>which is their subject matter. But this subject matter was swallowed by the artistic symbolism which
+               <lb facs="#facs_43_tr_3_tl_6" n="N006"/>belongs to the great artistic symbols, but in the situation of double symbolization, the second, namely
+            </ab>
+            <ab facs="#facs_43_tr_1">
+               <lb facs="#facs_43_tr_1_tl_1" n="N001"/>the religious, element got lost, while in the other, where we have the poorest horrors of art, the
+               <lb facs="#facs_43_tr_1_tl_2" n="N002"/>religious symbolization was preserved. Again I would say: the ideal is of course a perfect artistic
+               <lb facs="#facs_43_tr_1_tl_3" n="N003"/>symbolization which has preserved the religious power in the ritual context.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

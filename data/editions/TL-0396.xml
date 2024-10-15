@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part3_p004</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p004</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_4">
+         <graphic url="TL-0396.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KRYHXWFPCGVXKXHCCENJCDVO&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="307,385 2280,385 2280,1287 307,1287" rendition="TextRegion" xml:id="facs_4_tr_2">
+            <zone points="1177,435 1189,435 1206,452 1244,452 1254,445 1261,452 1294,452 1294,373 1261,376 1254,371 1230,390 1218,388 1208,397 1177,397" rendition="Line" xml:id="facs_4_tr_2_tl_1"/>
+            <zone points="300,592 614,645 2146,599 2146,554 1932,519 300,557" rendition="Line" xml:id="facs_4_tr_2_tl_2"/>
+            <zone points="297,737 1439,802 2193,766 2193,702 2124,692 297,714" rendition="Line" xml:id="facs_4_tr_2_tl_3"/>
+            <zone points="297,894 1689,932 2146,902 2146,849 297,866" rendition="Line" xml:id="facs_4_tr_2_tl_4"/>
+            <zone points="295,1044 2172,1085 2172,999 295,1004" rendition="Line" xml:id="facs_4_tr_2_tl_6"/>
+            <zone points="300,1216 376,1254 833,1237 833,1180 802,1161 423,1154 331,1161 300,1180" rendition="Line" xml:id="facs_4_tr_2_tl_7"/>
+            <zone points="530,1292 2191,1301 2276,1287 2276,1227 530,1237" rendition="Line" xml:id="facs_4_tr_2_tl_8" subtype="paragraph"/>
+         </zone>
+         <zone points="283,1374 2257,1374 2257,3249 283,3249" rendition="TextRegion" xml:id="facs_4_tr_1">
+            <zone points="290,1427 2039,1470 2191,1444 2191,1373 290,1403" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
+            <zone points="285,1577 714,1584 773,1637 2193,1629 2193,1530 285,1553" rendition="Line" xml:id="facs_4_tr_1_tl_2"/>
+            <zone points="295,1739 837,1734 990,1796 2196,1775 2196,1687 295,1687" rendition="Line" xml:id="facs_4_tr_1_tl_3"/>
+            <zone points="283,1882 378,1941 835,1946 2119,1896 2119,1836 2012,1820 283,1839" rendition="Line" xml:id="facs_4_tr_1_tl_4"/>
+            <zone points="285,2081 2193,2036 2193,1967 285,1989" rendition="Line" xml:id="facs_4_tr_1_tl_5"/>
+            <zone points="278,2177 2143,2188 2143,2122 278,2155" rendition="Line" xml:id="facs_4_tr_1_tl_6"/>
+            <zone points="285,2336 1406,2343 1451,2341 1451,2291 830,2310 357,2279 285,2307" rendition="Line" xml:id="facs_4_tr_1_tl_7"/>
+            <zone points="274,2481 2031,2526 2031,2429 274,2457" rendition="Line" xml:id="facs_4_tr_1_tl_9"/>
+            <zone points="509,2636 2001,2645 2001,2590 509,2590" rendition="Line" xml:id="facs_4_tr_1_tl_10" subtype="paragraph"/>
+            <zone points="274,2788 1972,2795 2098,2790 2098,2733 274,2762" rendition="Line" xml:id="facs_4_tr_1_tl_11"/>
+            <zone points="278,2945 2119,2947 2119,2885 278,2890" rendition="Line" xml:id="facs_4_tr_1_tl_12"/>
+            <zone points="269,3085 2150,3102 2174,3042 269,3061" rendition="Line" xml:id="facs_4_tr_1_tl_13"/>
+            <zone points="274,3245 2091,3245 2091,3192 274,3195" rendition="Line" xml:id="facs_4_tr_1_tl_14"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0396.jpg" n="part3_p004.jpg" xml:id="img_0004" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p004.jpg"/>
+            
+            <ab facs="#facs_4_tr_2">
+               <lb facs="#facs_4_tr_2_tl_1" n="N001"/>[391]
+               <lb facs="#facs_4_tr_2_tl_2" n="N002"/>as such, is bad; conformism CAN be good, if it is historically founded and alive, as it still was
+               <lb facs="#facs_4_tr_2_tl_3" n="N003"/>in England in the first half of this century. Conformism is bad if it extinguishes (as mass society
+               <lb facs="#facs_4_tr_2_tl_4" n="N004"/>tends to do) the individual reactions, creativity of the individual person. Therefore perhaps if
+               <lb facs="#facs_4_tr_2_tl_6" n="N005"/>this would be possible linguistically, one should distinguish patternization and conformism. The danger
+               <lb facs="#facs_4_tr_2_tl_7" n="N006"/>certainly is patternization.
+               <lb facs="#facs_4_tr_2_tl_8" n="N007"/>Now this was the result of our analysis. What does religion do in this situation? Why has
+            </ab>
+            <ab facs="#facs_4_tr_1">
+               <lb facs="#facs_4_tr_1_tl_1" n="N001"/>the relation of culture and religion become such a problem in our period, for the Western world,
+               <lb facs="#facs_4_tr_1_tl_2" n="N002"/>for our generation? The answer is that religion is that dimension of experience which transcends
+               <lb facs="#facs_4_tr_1_tl_3" n="N003"/>subjectivity and objectivity and cuts through the realm of subject and object, and that if religion
+               <lb facs="#facs_4_tr_1_tl_4" n="N004"/>is brought down to the dimension in which subjects manage the objective world, religion
+               <lb facs="#facs_4_tr_1_tl_5" n="N005"/>loses its meaning. This is a very simplified formula for an infinitely complex process. But in this
+               <lb facs="#facs_4_tr_1_tl_6" n="N006"/>formula we can grasp the whole situation in a nutshell. Religion brought down to the level of
+               <lb facs="#facs_4_tr_1_tl_7" n="N007"/>objectivation and then lost, whether attacked or defended. Both the defenders of religion
+               <lb facs="#facs_4_tr_1_tl_9" n="N008"/>on this level, and the critics of religion on this level, have LOST the meaning of religion!
+               <lb facs="#facs_4_tr_1_tl_10" n="N009"/>We can show this in the theoretical realms as well as in the practical realms.
+               <lb facs="#facs_4_tr_1_tl_11" n="N010"/>I showed it to you in the most expressive of all realms, that of the arts. You remember that
+               <lb facs="#facs_4_tr_1_tl_12" n="N011"/>level which I call the third level: religious symbols used in a naturalistic style. First in a man
+               <lb facs="#facs_4_tr_1_tl_13" n="N012"/>like Giotto, still the greatness of a religious substance expressed in naturalistic forms. Then step
+               <lb facs="#facs_4_tr_1_tl_14" n="N013"/>by step the loss of this substance: it is wasted. And what is left is the objective world as we
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

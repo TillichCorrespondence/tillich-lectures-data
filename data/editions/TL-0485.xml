@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part4_p011</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p011</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_11">
+         <graphic url="TL-0485.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SEHSKRVNDMEVIYRSJHFVXZZA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="44,27 2322,27 2322,1867 44,1867" rendition="TextRegion" xml:id="facs_11_tr_1">
+            <zone points="29,84 49,86 74,81 106,86 113,79 125,79 120,0 25,0" rendition="Line" xml:id="facs_11_tr_1_tl_1"/>
+            <zone points="1100,324 1130,324 1137,332 1150,334 1223,334 1223,290 1211,290 1181,260 1162,260 1132,290 1100,290" rendition="Line" xml:id="facs_11_tr_1_tl_2"/>
+            <zone points="354,501 2243,494 2243,420 354,437" rendition="Line" xml:id="facs_11_tr_1_tl_3"/>
+            <zone points="344,646 2265,653 2265,597 344,624" rendition="Line" xml:id="facs_11_tr_1_tl_4"/>
+            <zone points="354,808 2073,806 2243,798 2243,747 354,759" rendition="Line" xml:id="facs_11_tr_1_tl_5"/>
+            <zone points="346,948 2036,968 2169,941 2171,894 346,926" rendition="Line" xml:id="facs_11_tr_1_tl_6"/>
+            <zone points="359,1123 1909,1110 2201,1093 2203,1044 361,1046" rendition="Line" xml:id="facs_11_tr_1_tl_7"/>
+            <zone points="344,1255 2208,1253 2208,1199 344,1216" rendition="Line" xml:id="facs_11_tr_1_tl_8"/>
+            <zone points="344,1405 2105,1403 2184,1398 2184,1348 344,1383" rendition="Line" xml:id="facs_11_tr_1_tl_9"/>
+            <zone points="344,1560 2319,1557 2321,1496 344,1511" rendition="Line" xml:id="facs_11_tr_1_tl_10"/>
+            <zone points="344,1705 1346,1717 1398,1710 1398,1658 987,1641 344,1683" rendition="Line" xml:id="facs_11_tr_1_tl_11"/>
+            <zone points="572,1864 865,1921 1545,1852 2088,1864 2265,1852 2267,1773 572,1813" rendition="Line" xml:id="facs_11_tr_1_tl_12"/>
+         </zone>
+         <zone points="26,1938 2313,1938 2313,3488 26,3488" rendition="TextRegion" xml:id="facs_11_tr_2">
+            <zone points="339,2004 1805,2019 2260,1997 2260,1950 339,1965" rendition="Line" xml:id="facs_11_tr_2_tl_1"/>
+            <zone points="339,2154 1990,2164 2306,2152 2306,2098 339,2115" rendition="Line" xml:id="facs_11_tr_2_tl_2"/>
+            <zone points="337,2309 2206,2302 2206,2247 337,2287" rendition="Line" xml:id="facs_11_tr_2_tl_3"/>
+            <zone points="341,2469 364,2478 395,2466 739,2469 742,2417 467,2419 430,2405 413,2419 341,2422" rendition="Line" xml:id="facs_11_tr_2_tl_4"/>
+            <zone points="567,2535 2051,2545 2201,2523 2201,2456 567,2478" rendition="Line" xml:id="facs_11_tr_2_tl_5"/>
+            <zone points="341,2687 2230,2724 2257,2616 341,2648" rendition="Line" xml:id="facs_11_tr_2_tl_6"/>
+            <zone points="71,2746 113,2744 162,2722 194,2736 224,2717 253,2734 285,2736 295,2628 260,2628 246,2611 169,2628 150,2606 84,2618" rendition="Line" xml:id="facs_11_tr_2_tl_7"/>
+            <zone points="341,2884 575,2898 651,2837 2044,2839 2176,2822 2176,2771 341,2803" rendition="Line" xml:id="facs_11_tr_2_tl_8"/>
+            <zone points="341,3011 2117,2987 2250,2977 2250,2918 341,2955" rendition="Line" xml:id="facs_11_tr_2_tl_9"/>
+            <zone points="346,3178 2046,3156 2162,3134 2162,3078 346,3100" rendition="Line" xml:id="facs_11_tr_2_tl_10"/>
+            <zone points="1150,3407 1184,3402 1218,3419 1240,3412 1223,3228 1132,3235" rendition="Line" xml:id="facs_11_tr_2_tl_11"/>
+            <zone points="870,3412 899,3412 914,3424 970,3419 1002,3434 1019,3434 1034,3419 1044,3429 1056,3426 1073,3444 1088,3444 1091,3311 872,3316" rendition="Line" xml:id="facs_11_tr_2_tl_12"/>
+            <zone points="1498,3481 1533,3485 1560,3473 1584,3488 1604,3478 1631,3488 1670,3478 1692,3485 1739,3360 1724,3355 1633,3397 1619,3370 1574,3390 1570,3382 1538,3377" rendition="Line" xml:id="facs_11_tr_2_tl_13"/>
+            <zone points="1145,3441 1164,3444 1169,3439 1179,3453 1199,3451 1208,3444 1228,3449 1240,3412 1221,3404 1201,3412 1191,3407 1191,3404 1186,3404 1184,3399 1169,3404 1157,3399" rendition="Line" xml:id="facs_11_tr_2_tl_14"/>
+            <zone points="15,3485 108,3488 140,3483 133,3318 98,3321 56,3313 54,3318 7,3321" rendition="Line" xml:id="facs_11_tr_2_tl_15"/>
+            <zone points="418,3417 430,3419 442,3431 457,3426 472,3444 489,3431 513,3439 550,3417 562,3417 567,3331 494,3328 477,3333 457,3326 445,3336 422,3333" rendition="Line" xml:id="facs_11_tr_2_tl_16"/>
+            <zone points="196,3488 214,3485 216,3481 248,3488 275,3481 251,3365 233,3370 211,3360 209,3365 172,3372" rendition="Line" xml:id="facs_11_tr_2_tl_17"/>
+            <zone points="612,3424 629,3424 646,3417 661,3431 673,3426 683,3436 725,3436 720,3350 690,3348 683,3358 675,3360 646,3338 636,3345 604,3348" rendition="Line" xml:id="facs_11_tr_2_tl_18"/>
+            <zone points="1351,3485 1449,3485 1434,3355 1420,3358 1398,3345 1380,3358 1366,3348 1336,3350" rendition="Line" xml:id="facs_11_tr_2_tl_19"/>
+            <zone points="867,3453 897,3453 901,3458 911,3458 921,3444 943,3444 960,3451 975,3444 1000,3444 997,3422 975,3422 965,3417 951,3422 938,3414 933,3417 926,3409 899,3412 892,3417 887,3412 862,3414" rendition="Line" xml:id="facs_11_tr_2_tl_20"/>
+            <zone points="607,3483 619,3488 629,3483 641,3488 658,3481 666,3485 678,3481 683,3485 700,3483 715,3488 727,3439 707,3434 695,3436 683,3422 661,3431 648,3417 646,3409 626,3402" rendition="Line" xml:id="facs_11_tr_2_tl_21"/>
+            <zone points="1076,3485 1118,3488 1137,3476 1147,3485 1208,3488 1218,3478 1248,3478 1250,3436 1233,3436 1226,3444 1186,3453 1169,3441 1154,3444 1130,3424 1118,3436 1081,3431" rendition="Line" xml:id="facs_11_tr_2_tl_22"/>
+            <zone points="798,3483 838,3485 862,3473 887,3488 973,3478 978,3485 997,3485 1000,3446 978,3441 958,3449 914,3441 889,3456 847,3417 833,3426 801,3426" rendition="Line" xml:id="facs_11_tr_2_tl_23"/>
+            <zone points="499,3481 516,3485 548,3483 565,3488 592,3485 599,3478 619,3481 619,3424 575,3431 553,3417 531,3426 518,3414 499,3414" rendition="Line" xml:id="facs_11_tr_2_tl_24"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0485.jpg" n="part4_p011.jpg" xml:id="img_0011" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p011.jpg"/>
+            
+            <ab facs="#facs_11_tr_1">
+               <lb facs="#facs_11_tr_1_tl_1" n="N001"/>de cette
+               <lb facs="#facs_11_tr_1_tl_2" n="N002"/>480-
+               <lb facs="#facs_11_tr_1_tl_3" n="N003"/>institution of parthing, it is not ON MaY an institution of education, is not OnLy an institution
+               <lb facs="#facs_11_tr_1_tl_4" n="N004"/>of research, but it unites all three functions. And the way in which this is done determines largely
+               <lb facs="#facs_11_tr_1_tl_5" n="N005"/>the character of a University. In history, for instance, the educational element, in a very infinite
+               <lb facs="#facs_11_tr_1_tl_6" n="N006"/>way--namely the education to a gentleman--was the main function of the British universities
+               <lb facs="#facs_11_tr_1_tl_7" n="N007"/>(especially the English, not so much the Scottish). There the education to the gentleman who
+               <lb facs="#facs_11_tr_1_tl_8" n="N008"/>is supposed to become, in an aristocratic feudal culture, the leder of the nation, in the future,
+               <lb facs="#facs_11_tr_1_tl_9" n="N009"/>the mediator with the Iolonies, with the Empire section—all this was the problem; therefore
+               <lb facs="#facs_11_tr_1_tl_10" n="N010"/>the educational element, by far, was more important than the teaching of contents and the research,
+               <lb facs="#facs_11_tr_1_tl_11" n="N011"/>which was often completely looking in these colleges.
+               <lb facs="#facs_11_tr_1_tl_12" n="N012"/>In France, the teaching element is predominant, and not the teaching of the gentleman
+            </ab>
+            <ab facs="#facs_11_tr_2">
+               <lb facs="#facs_11_tr_2_tl_1" n="N001"/>but the teaching of the high bureaucracy, and in earlier period, of the leaders of the Church, the
+               <lb facs="#facs_11_tr_2_tl_2" n="N002"/>leaders of State and Church, but not in terms of the Gentleman-ideal, as in England, but in terms of
+               <lb facs="#facs_11_tr_2_tl_3" n="N003"/>the learned man who is able to apply hiskanning in the administration of the ecclesiastical and
+               <lb facs="#facs_11_tr_2_tl_4" n="N004"/>political functions.
+               <lb facs="#facs_11_tr_2_tl_5" n="N005"/>In Germany the educational element was also very weak at the universities. I used
+               <lb facs="#facs_11_tr_2_tl_6" n="N006"/>to say about myself, the higher the place of learning, the worse the teachers, from the education
+               <lb facs="#facs_11_tr_2_tl_7" n="N007"/>D &amp; H.
+               <lb facs="#facs_11_tr_2_tl_8" n="N008"/>point of view. This was generally true— the best educators were the teachers in the general
+               <lb facs="#facs_11_tr_2_tl_9" n="N009"/>public school’s, the grammar school, as they were called in England. By far the worse educators
+               <lb facs="#facs_11_tr_2_tl_10" n="N010"/>were we, the university professors. So theéducational element was very bodily developed in
+               <lb facs="#facs_11_tr_2_tl_11" n="N011"/>pour le
+               <lb facs="#facs_11_tr_2_tl_12" n="N012"/>le prêter de ses
+               <lb facs="#facs_11_tr_2_tl_13" n="N013"/>dʼune manière
+               <lb facs="#facs_11_tr_2_tl_14" n="N014"/>dans la
+               <lb facs="#facs_11_tr_2_tl_15" n="N015"/>que je suis
+               <lb facs="#facs_11_tr_2_tl_16" n="N016"/>Monsieur,
+               <lb facs="#facs_11_tr_2_tl_17" n="N017"/>devenu
+               <lb facs="#facs_11_tr_2_tl_18" n="N018"/>Monsieur
+               <lb facs="#facs_11_tr_2_tl_19" n="N019"/>le prêter
+               <lb facs="#facs_11_tr_2_tl_20" n="N020"/>des idées
+               <lb facs="#facs_11_tr_2_tl_21" n="N021"/>qui me
+               <lb facs="#facs_11_tr_2_tl_22" n="N022"/>dʼune manière
+               <lb facs="#facs_11_tr_2_tl_23" n="N023"/>dʼune manière beaucoup
+               <lb facs="#facs_11_tr_2_tl_24" n="N024"/>dʼun autre
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

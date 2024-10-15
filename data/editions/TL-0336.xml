@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p052</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p052</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_52">
+         <graphic url="TL-0336.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=JNUXYJHHUPHQYLCYSVJAHQON&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="250,296 2224,296 2224,1505 250,1505" rendition="TextRegion" xml:id="facs_52_tr_2">
+            <zone points="1054,348 1066,348 1084,366 1163,366 1168,361 1181,361 1181,287 1137,287 1115,307 1054,310" rendition="Line" xml:id="facs_52_tr_2_tl_1"/>
+            <zone points="236,526 924,520 916,444 840,444 810,475 767,447 734,477 685,477 663,454 330,454 277,399 236,421" rendition="Line" xml:id="facs_52_tr_2_tl_2" subtype="heading"/>
+            <zone points="462,668 2163,655 2219,652 2221,576 462,635" rendition="Line" xml:id="facs_52_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="246,830 1759,823 2140,805 2143,744 246,774" rendition="Line" xml:id="facs_52_tr_2_tl_4"/>
+            <zone points="236,975 1208,980 1231,922 386,924 236,952" rendition="Line" xml:id="facs_52_tr_2_tl_5"/>
+            <zone points="462,1125 1445,1125 1528,1117 1528,1066 462,1071" rendition="Line" xml:id="facs_52_tr_2_tl_6" subtype="paragraph"/>
+            <zone points="470,1272 518,1302 838,1274 960,1302 1046,1274 1330,1267 1330,1219 881,1244 840,1216 470,1226" rendition="Line" xml:id="facs_52_tr_2_tl_8" subtype="paragraph"/>
+            <zone points="462,1348 1201,1356 1412,1343 1412,1297 462,1313" rendition="Line" xml:id="facs_52_tr_2_tl_9" subtype="paragraph"/>
+            <zone points="467,1432 1358,1422 1361,1376 470,1376" rendition="Line" xml:id="facs_52_tr_2_tl_10" subtype="paragraph"/>
+            <zone points="467,1498 1226,1508 1445,1493 1445,1450 467,1462" rendition="Line" xml:id="facs_52_tr_2_tl_11" subtype="paragraph"/>
+         </zone>
+         <zone points="250,1562 2280,1562 2280,2861 250,2861" rendition="TextRegion" xml:id="facs_52_tr_3">
+            <zone points="239,1645 2041,1630 2140,1620 2140,1559 239,1584" rendition="Line" xml:id="facs_52_tr_3_tl_1"/>
+            <zone points="256,1792 2226,1775 2249,1711 259,1742" rendition="Line" xml:id="facs_52_tr_3_tl_2"/>
+            <zone points="244,1957 2232,1940 2232,1866 246,1919" rendition="Line" xml:id="facs_52_tr_3_tl_3"/>
+            <zone points="239,2100 2232,2079 2232,2016 2056,2008 241,2044" rendition="Line" xml:id="facs_52_tr_3_tl_4"/>
+            <zone points="236,2247 2041,2239 2166,2229 2168,2171 236,2221" rendition="Line" xml:id="facs_52_tr_3_tl_5"/>
+            <zone points="246,2402 2092,2392 2257,2384 2257,2318 246,2348" rendition="Line" xml:id="facs_52_tr_3_tl_6"/>
+            <zone points="236,2551 2211,2534 2275,2468 239,2501" rendition="Line" xml:id="facs_52_tr_3_tl_7"/>
+            <zone points="246,2714 2049,2689 2133,2676 2133,2623 249,2673" rendition="Line" xml:id="facs_52_tr_3_tl_8"/>
+            <zone points="249,2859 2039,2836 2125,2828 2127,2770 251,2800" rendition="Line" xml:id="facs_52_tr_3_tl_9"/>
+         </zone>
+         <zone points="47,2911 2203,2911 2203,3491 47,3491" rendition="TextRegion" xml:id="facs_52_tr_1">
+            <zone points="236,3001 1902,2998 2196,2980 2199,2927 236,2973" rendition="Line" xml:id="facs_52_tr_1_tl_1"/>
+            <zone points="246,3184 2173,3156 2176,3080 246,3107" rendition="Line" xml:id="facs_52_tr_1_tl_2"/>
+            <zone points="266,3175 2181,3152 2188,3155 2198,3126 2186,3123 265,3145" rendition="Line" xml:id="facs_52_l"/>
+            <zone points="246,3237 1780,3217 1836,3214 1836,3163 246,3184" rendition="Line" xml:id="facs_52_tr_1_tl_3" subtype="footnote"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0336.jpg" n="part2_p052.jpg" xml:id="img_0052" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p052.jpg"/>
+            
+            <ab facs="#facs_52_tr_2">
+               <lb facs="#facs_52_tr_2_tl_1" n="N001"/>[331]
+               <lb facs="#facs_52_tr_2_tl_2" n="N002"/>LECTURE XXVII, Feb. 16, 1956
+               <lb facs="#facs_52_tr_2_tl_3" n="N003"/>I do this with fear and trembling, not so much because of the beautiful pictures and their
+               <lb facs="#facs_52_tr_2_tl_4" n="N004"/>interpretation but because of the technical problems, to which I am not used, and for which this
+               <lb facs="#facs_52_tr_2_tl_5" n="N005"/>room is not directly made. Nevertheless I will try.
+               <lb facs="#facs_52_tr_2_tl_6" n="N006"/>I distinguished four levels, and I will read them again:
+               <lb facs="#facs_52_tr_2_tl_8" n="N007"/>1) Naturalistic style, secular subject matter.
+               <lb facs="#facs_52_tr_2_tl_9" n="N008"/>2) Non-naturalistic style, secular subject matter.
+               <lb facs="#facs_52_tr_2_tl_10" n="N009"/>3) Naturalistic style, religious subject matter.
+               <lb facs="#facs_52_tr_2_tl_11" n="N010"/>4) Non-naturalistic style, religious subject matter.
+            </ab>
+            <ab facs="#facs_52_tr_3">
+               <lb facs="#facs_52_tr_3_tl_1" n="N001"/>I must have produced a little confusion at the end when sometimes, for "non-naturalistic" I said
+               <lb facs="#facs_52_tr_3_tl_2" n="N002"/>"expressionistic," or even "religious." What I want to do is to go from one of these levels to the other
+               <lb facs="#facs_52_tr_3_tl_3" n="N003"/>and start first with the naturalistic style and secular subject matter. Now let me say first a few things
+               <lb facs="#facs_52_tr_3_tl_4" n="N004"/>in general. This is not a lecture in history of art. Those ofyou [sic.] who are students of history of art will
+               <lb facs="#facs_52_tr_3_tl_5" n="N005"/>be able to correct me and to imagine much better examples. What I want to do is to show you in
+               <lb facs="#facs_52_tr_3_tl_6" n="N006"/>these four groups a large choice of pictures which can give you an impression of what is going on in all
+               <lb facs="#facs_52_tr_3_tl_7" n="N007"/>four levels with respect to the relation of religion and art. So it is the main point of the lecture
+               <lb facs="#facs_52_tr_3_tl_8" n="N008"/>as such, namely the point of relation to religion, relation between religion and culture, which is
+               <lb facs="#facs_52_tr_3_tl_9" n="N009"/>the point of my interest in showing you these pictures. History-of-art considerations are
+            </ab>
+            <ab facs="#facs_52_tr_1">
+               <lb facs="#facs_52_tr_1_tl_1" n="N001"/>of course somehow presupposed, but they are not the theme. I will not talk to every picture---that
+               <lb facs="#facs_52_tr_1_tl_2" n="N002"/>would be much too much because I have the feeling it is good to show you many. Protestantism,
+               <lb facs="#facs_52_l" n="N003"/>-------------------------------
+               <lb facs="#facs_52_tr_1_tl_3" n="N004"/><hi style="font-style: italic;">*See APPENDIX, below, page 344, for list of slides used in Lectures 27-28. -- ED.</hi>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

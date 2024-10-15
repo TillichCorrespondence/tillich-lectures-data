@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part3_p014</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p014</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_14">
+         <graphic url="TL-0406.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WGDOTXNSQHUMKKGTQATWELAZ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="280,317 2188,317 2188,1437 280,1437" rendition="TextRegion" xml:id="facs_14_tr_2">
+            <zone points="1066,368 1108,373 1118,382 1135,380 1143,373 1150,380 1215,380 1215,323 1192,323 1175,306 1152,306 1135,323 1123,320 1113,330 1066,330" rendition="Line" xml:id="facs_14_tr_2_tl_1"/>
+            <zone points="278,524 2151,534 2151,402 2037,492 278,484" rendition="Line" xml:id="facs_14_tr_2_tl_2"/>
+            <zone points="276,673 2181,686 2181,633 276,646" rendition="Line" xml:id="facs_14_tr_2_tl_3"/>
+            <zone points="278,820 494,840 651,825 681,844 703,830 780,837 780,795 745,777 527,775 507,795 487,775 310,775 278,795" rendition="Line" xml:id="facs_14_tr_2_tl_4"/>
+            <zone points="504,902 2158,914 2158,849 504,844" rendition="Line" xml:id="facs_14_tr_2_tl_5"/>
+            <zone points="273,1048 306,1053 323,1068 375,1061 382,1053 447,1070 522,1056 519,1011 445,1013 422,998 343,1006 323,991 273,994" rendition="Line" xml:id="facs_14_tr_2_tl_6"/>
+            <zone points="499,1128 2059,1140 2101,1056 499,1090" rendition="Line" xml:id="facs_14_tr_2_tl_7"/>
+            <zone points="266,1272 2158,1287 2163,1229 266,1249" rendition="Line" xml:id="facs_14_tr_2_tl_8"/>
+            <zone points="268,1431 879,1438 879,1383 268,1381" rendition="Line" xml:id="facs_14_tr_2_tl_9"/>
+         </zone>
+         <zone points="253,1526 2251,1526 2251,3100 253,3100" rendition="TextRegion" xml:id="facs_14_tr_1">
+            <zone points="266,1577 2119,1597 2119,1528 1761,1552 1719,1510 266,1523" rendition="Line" xml:id="facs_14_tr_1_tl_1"/>
+            <zone points="261,1652 2176,1669 2094,1607 261,1614" rendition="Line" xml:id="facs_14_tr_1_tl_2"/>
+            <zone points="258,1801 2193,1821 2193,1768 1970,1751 258,1778" rendition="Line" xml:id="facs_14_tr_1_tl_3"/>
+            <zone points="261,1962 2171,1987 2171,1920 1942,1903 261,1910" rendition="Line" xml:id="facs_14_tr_1_tl_4"/>
+            <zone points="251,2101 2178,2116 2131,2052 251,2079" rendition="Line" xml:id="facs_14_tr_1_tl_5"/>
+            <zone points="253,2253 1287,2307 2203,2270 2201,2218 2094,2206 251,2213" rendition="Line" xml:id="facs_14_tr_1_tl_6"/>
+            <zone points="248,2409 2223,2461 2223,2369 2156,2357 248,2382" rendition="Line" xml:id="facs_14_tr_1_tl_7"/>
+            <zone points="251,2563 293,2593 345,2598 407,2576 666,2581 666,2509 251,2509" rendition="Line" xml:id="facs_14_tr_1_tl_8"/>
+            <zone points="251,2633 2248,2648 2248,2581 251,2581" rendition="Line" xml:id="facs_14_tr_1_tl_9"/>
+            <zone points="243,2784 1870,2804 2228,2792 2228,2722 243,2740" rendition="Line" xml:id="facs_14_tr_1_tl_10"/>
+            <zone points="243,2936 1354,2948 1354,2889 243,2891" rendition="Line" xml:id="facs_14_tr_1_tl_11"/>
+            <zone points="238,3082 2124,3102 2066,3035 238,3035" rendition="Line" xml:id="facs_14_tr_1_tl_12"/>
+         </zone>
+         <zone points="32,3198 2068,3198 2068,3491 32,3491" rendition="TextRegion" xml:id="facs_14_tr_3">
+            <zone points="231,3251 2064,3333 2062,3231 1051,3269 231,3224" rendition="Line" xml:id="facs_14_tr_3_tl_1"/>
+            <zone points="20,3447 32,3447 52,3462 79,3445 92,3447 102,3440 117,3440 104,3343 57,3343 52,3348 37,3341 7,3343" rendition="Line" xml:id="facs_14_tr_3_tl_2"/>
+            <zone points="956,3457 974,3457 996,3438 1011,3438 1028,3455 1063,3445 1113,3445 1113,3393 954,3388" rendition="Line" xml:id="facs_14_tr_3_tl_3"/>
+            <zone points="554,3462 688,3442 718,3460 748,3438 790,3477 849,3485 884,3447 907,3467 936,3465 936,3413 599,3403 576,3425 554,3425" rendition="Line" xml:id="facs_14_tr_3_tl_4"/>
+            <zone points="348,3487 390,3480 400,3485 450,3445 507,3470 527,3457 541,3465 561,3462 559,3410 536,3413 497,3400 400,3398 345,3413" rendition="Line" xml:id="facs_14_tr_3_tl_5"/>
+            <zone points="171,3485 201,3485 211,3475 224,3485 253,3460 276,3482 306,3485 330,3460 355,3455 355,3380 229,3373 171,3385" rendition="Line" xml:id="facs_14_tr_3_tl_6"/>
+            <zone points="37,3485 62,3487 77,3480 82,3485 102,3482 109,3487 124,3482 142,3485 149,3480 149,3485 174,3485 179,3452 147,3452 129,3462 117,3447 99,3440 89,3450 77,3445 52,3462 40,3462" rendition="Line" xml:id="facs_14_tr_3_tl_7"/>
+            <zone points="432,3485 464,3490 556,3480 581,3487 594,3475 678,3485 678,3445 656,3452 586,3445 574,3452 566,3445 517,3452 504,3445 489,3460 472,3460 452,3442 432,3447" rendition="Line" xml:id="facs_14_tr_3_tl_8"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0406.jpg" n="part3_p014.jpg" xml:id="img_0014" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p014.jpg"/>
+            
+            <ab facs="#facs_14_tr_2">
+               <lb facs="#facs_14_tr_2_tl_1" n="N001"/>-w01-
+               <lb facs="#facs_14_tr_2_tl_2" n="N002"/>it is not originally archaic any more, but it is archaistic, it is a return. And this return gives the
+               <lb facs="#facs_14_tr_2_tl_3" n="N003"/>ennigions power back to these figures. They become mostly two-dimensional, i.e., they are taken
+               <lb facs="#facs_14_tr_2_tl_4" n="N004"/>out of the natural space.
+               <lb facs="#facs_14_tr_2_tl_5" n="N005"/>Now then from there the new real archaic period of the Byzamine and early Middle
+               <lb facs="#facs_14_tr_2_tl_6" n="N006"/>ages began.
+               <lb facs="#facs_14_tr_2_tl_7" n="N007"/>And it might be that our expressionistic art in the large sense of the word, which
+               <lb facs="#facs_14_tr_2_tl_8" n="N008"/>now is lasting for 50 years, will be an analogy with the return of the archaic in the archaistic
+               <lb facs="#facs_14_tr_2_tl_9" n="N009"/>art of the later ancient period.
+            </ab>
+            <ab facs="#facs_14_tr_1">
+               <lb facs="#facs_14_tr_1_tl_1" n="N001"/>QN: I wonder if you could say something about what these volcances were, more specifically.
+               <lb facs="#facs_14_tr_1_tl_2" n="N002"/>PT: 1 didn’t want to name them because I have written so often about them. You can read them
+               <lb facs="#facs_14_tr_1_tl_3" n="N003"/>in The courage to Be, I meant the great existentialists of the 19th century. I meant Kierkegaard
+               <lb facs="#facs_14_tr_1_tl_4" n="N004"/>in the religious realm, Marx in the social realm, Nietzsche in the realm of the vital, Schopenhauer
+               <lb facs="#facs_14_tr_1_tl_5" n="N005"/>before him. Then toward the end of the century, Cézanne and Van Gogh in lpainting; people like
+               <lb facs="#facs_14_tr_1_tl_6" n="N006"/>Rimbaud and Beaudelaire in poetry; people like Strindberg and, before him, Dostoievsky in drama
+               <lb facs="#facs_14_tr_1_tl_7" n="N007"/>and novel. These are volcanoes in the 19th century. And they were the father of all existentialism
+               <lb facs="#facs_14_tr_1_tl_8" n="N008"/>in the 20th century.
+               <lb facs="#facs_14_tr_1_tl_9" n="N009"/>QN: You mentioned that the foundations of the present structure were still intact, although blooded
+               <lb facs="#facs_14_tr_1_tl_10" n="N010"/>by the existentialist attack. How do you account for the fact that they are so fully intact after such
+               <lb facs="#facs_14_tr_1_tl_11" n="N011"/>a themendous onslaught of the first half of the century?
+               <lb facs="#facs_14_tr_1_tl_12" n="N012"/>PT: You mean the foundations of the objectifying structure? This is a very interesting question
+            </ab>
+            <ab facs="#facs_14_tr_3">
+               <lb facs="#facs_14_tr_3_tl_1" n="N001"/>and is really a part of my autobiography, namely in the early twenties immediately after the
+               <lb facs="#facs_14_tr_3_tl_2" n="N002"/>en lisant
+               <lb facs="#facs_14_tr_3_tl_3" n="N003"/>ou vous avez eu le
+               <lb facs="#facs_14_tr_3_tl_4" n="N004"/>dʼune manière beaucoup de nouveau
+               <lb facs="#facs_14_tr_3_tl_5" n="N005"/>dʼune manière beaucoup
+               <lb facs="#facs_14_tr_3_tl_6" n="N006"/>dʼune manière
+               <lb facs="#facs_14_tr_3_tl_7" n="N007"/>dʼadresse à
+               <lb facs="#facs_14_tr_3_tl_8" n="N008"/>dʼauteur dʼune manière
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

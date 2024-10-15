@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p016</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p016</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_16">
+         <graphic url="TL-0300.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GZFDDWOUQBJYSGZMTTQNAYBZ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="220,281 2298,281 2298,1111 220,1111" rendition="TextRegion" xml:id="facs_16_tr_3">
+            <zone points="1063,336 1082,336 1090,347 1137,347 1145,352 1183,350 1183,295 1150,295 1139,284 1129,292 1101,295 1063,292" rendition="Line" xml:id="facs_16_tr_3_tl_1"/>
+            <zone points="208,486 2249,503 2249,432 2085,426 208,440" rendition="Line" xml:id="facs_16_tr_3_tl_2"/>
+            <zone points="205,645 2142,653 2019,582 205,609" rendition="Line" xml:id="facs_16_tr_3_tl_3"/>
+            <zone points="208,790 1508,806 1506,754 1410,741 205,741" rendition="Line" xml:id="facs_16_tr_3_tl_4"/>
+            <zone points="404,935 2030,984 2028,891 404,877" rendition="Line" xml:id="facs_16_tr_3_tl_5" subtype="paragraph"/>
+            <zone points="205,1101 2293,1118 2293,1049 2197,1044 205,1060" rendition="Line" xml:id="facs_16_tr_3_tl_6"/>
+         </zone>
+         <zone points="197,1188 2391,1188 2391,2168 197,2168" rendition="TextRegion" xml:id="facs_16_tr_2">
+            <zone points="194,1241 2243,1262 2243,1197 194,1189" rendition="Line" xml:id="facs_16_tr_2_tl_1"/>
+            <zone points="191,1399 2388,1413 2344,1347 191,1333" rendition="Line" xml:id="facs_16_tr_2_tl_2"/>
+            <zone points="189,1541 1210,1558 1161,1484 1098,1514 1068,1484 1025,1514 989,1489 571,1514 500,1481 407,1511 355,1478 189,1508" rendition="Line" xml:id="facs_16_tr_2_tl_3"/>
+            <zone points="391,1691 2268,1711 2268,1650 388,1626" rendition="Line" xml:id="facs_16_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="191,1853 1271,1861 1271,1795 1243,1793 1175,1820 984,1793 937,1823 910,1795 612,1793 587,1820 541,1793 514,1817 191,1793" rendition="Line" xml:id="facs_16_tr_2_tl_6"/>
+            <zone points="186,2003 2101,2014 2101,1951 1896,1940 186,1937" rendition="Line" xml:id="facs_16_tr_2_tl_8"/>
+            <zone points="183,2156 2265,2167 2265,2099 183,2096" rendition="Line" xml:id="facs_16_tr_2_tl_9"/>
+         </zone>
+         <zone points="62,2248 2370,2248 2370,3480 62,3480" rendition="TextRegion" xml:id="facs_16_tr_1">
+            <zone points="178,2303 2364,2339 2309,2249 178,2241" rendition="Line" xml:id="facs_16_tr_1_tl_1"/>
+            <zone points="172,2448 2222,2470 2222,2405 172,2421" rendition="Line" xml:id="facs_16_tr_1_tl_2"/>
+            <zone points="169,2601 2271,2620 2243,2552 169,2569" rendition="Line" xml:id="facs_16_tr_1_tl_3"/>
+            <zone points="164,2752 2224,2763 2222,2702 164,2722" rendition="Line" xml:id="facs_16_tr_1_tl_4"/>
+            <zone points="178,2905 2282,2910 2181,2842 178,2850" rendition="Line" xml:id="facs_16_tr_1_tl_5"/>
+            <zone points="161,3055 2227,3071 2227,3017 2003,2992 161,3019" rendition="Line" xml:id="facs_16_tr_1_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0300.jpg" n="part2_p016.jpg" xml:id="img_0016" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p016.jpg"/>
+            
+            <ab facs="#facs_16_tr_3">
+               <lb facs="#facs_16_tr_3_tl_1" n="N001"/>[296]
+               <lb facs="#facs_16_tr_3_tl_2" n="N002"/>scientific work; it is a work of art. And by the work of art, if it is really a work of ART---and there are
+               <lb facs="#facs_16_tr_3_tl_3" n="N003"/>great works of art in the naturalistic line---it becomes something else. This "something else" is the
+               <lb facs="#facs_16_tr_3_tl_4" n="N004"/>discovery of the artistic dimension, about which I will speak later.
+               <lb facs="#facs_16_tr_3_tl_5" n="N005"/>The naturalistic art has the predominant emphasis on the cognitive element of art,
+               <lb facs="#facs_16_tr_3_tl_6" n="N006"/>on grasping reality, and fog forgets (this is the criticism which has often been made against it---and rightly)
+            </ab>
+            <ab facs="#facs_16_tr_2">
+               <lb facs="#facs_16_tr_2_tl_1" n="N001"/>that the ARTISTIC form of grasping reality is not the ordinary form of scientific or daily-life approach
+               <lb facs="#facs_16_tr_2_tl_2" n="N002"/>but is another one, which is determined and should be determined by the artistic dimension. Now what this is
+               <lb facs="#facs_16_tr_2_tl_3" n="N003"/>I will discuss later when I come to artistic symbols.
+               <lb facs="#facs_16_tr_2_tl_4" n="N004"/>The second function of art is the anticipatory one. This is the idealistic form, which has taken
+               <lb facs="#facs_16_tr_2_tl_6" n="N005"/>this element as the predominant one. What does that mean? The sharpest expression of this was given in the
+               <lb facs="#facs_16_tr_2_tl_8" n="N006"/>Neo-Kantian school of the 19th century, which is the classical school of bourgeois idealism
+               <lb facs="#facs_16_tr_2_tl_9" n="N007"/>and was predominant in all the Continental universities at least since the second half of the 19th century.
+            </ab>
+            <ab facs="#facs_16_tr_1">
+               <lb facs="#facs_16_tr_1_tl_1" n="N001"/>In this school, the following construction was made. From Kant one learned that there is theoretical reason---
+               <lb facs="#facs_16_tr_1_tl_2" n="N002"/>describing the laws of nature; it has nothing to do with the other side: practical reason---describing the
+               <lb facs="#facs_16_tr_1_tl_3" n="N003"/>unconditional demand of the moral or, as he called it, the categorical, imperative. Then there was a third,
+               <lb facs="#facs_16_tr_1_tl_4" n="N004"/>and this one was Kant's critique of judgment, power of judgment, in which he deals with some realities
+               <lb facs="#facs_16_tr_1_tl_5" n="N005"/>in which the purely theoretical, namely the world as seen by Newton and Descartes, is reconciled with the
+               <lb facs="#facs_16_tr_1_tl_6" n="N006"/>ethical realm, namely man's unconditional responsibility for his action under the categorical imperative.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p076</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p076</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_76">
+         <graphic url="TL-0076.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LNIEXMFCTQXHTXFIUKSSUQSQ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="286,262 286,3437 2212,3437 2212,262" rendition="TextRegion" xml:id="facs_76_tr_1">
+            <zone points="1136,316 1147,316 1155,325 1190,323 1197,316 1221,316 1225,262 1206,262 1195,250 1180,252 1176,247 1164,252 1143,250" rendition="Line" xml:id="facs_76_tr_1_tl_1"/>
+            <zone points="311,483 580,471 686,518 1982,492 1982,417 311,415" rendition="Line" xml:id="facs_76_tr_1_tl_2"/>
+            <zone points="309,561 1949,566 1949,514 582,523 396,483 309,516" rendition="Line" xml:id="facs_76_tr_1_tl_3"/>
+            <zone points="549,716 950,733 992,775 2071,738 2071,681 1765,667 549,683" rendition="Line" xml:id="facs_76_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="311,811 2059,813 2059,759 1124,787 311,752" rendition="Line" xml:id="facs_76_tr_1_tl_5"/>
+            <zone points="306,895 2048,910 2048,858 1986,844 306,851" rendition="Line" xml:id="facs_76_tr_1_tl_6"/>
+            <zone points="309,975 2050,983 2050,938 1805,924 309,935" rendition="Line" xml:id="facs_76_tr_1_tl_7"/>
+            <zone points="311,1065 375,1096 968,1067 1044,1124 2059,1065 2059,1013 311,1020" rendition="Line" xml:id="facs_76_tr_1_tl_8"/>
+            <zone points="306,1152 356,1190 818,1178 818,1110 653,1107 634,1122 596,1098 306,1107" rendition="Line" xml:id="facs_76_tr_1_tl_9"/>
+            <zone points="551,1228 2083,1237 2083,1176 551,1185" rendition="Line" xml:id="facs_76_tr_1_tl_10" subtype="paragraph"/>
+            <zone points="297,1303 1913,1315 1913,1256 297,1282" rendition="Line" xml:id="facs_76_tr_1_tl_11"/>
+            <zone points="311,1388 2099,1397 2099,1350 1944,1338 311,1350" rendition="Line" xml:id="facs_76_tr_1_tl_12"/>
+            <zone points="318,1480 990,1473 1428,1524 1477,1487 2142,1492 2142,1428 318,1428" rendition="Line" xml:id="facs_76_tr_1_tl_13"/>
+            <zone points="316,1567 542,1607 615,1569 910,1605 1209,1555 1322,1557 1376,1605 2116,1581 2116,1513 2081,1510 316,1527" rendition="Line" xml:id="facs_76_tr_1_tl_14"/>
+            <zone points="311,1645 575,1664 610,1642 862,1652 865,1609 780,1600 610,1623 573,1598 389,1600 311,1623" rendition="Line" xml:id="facs_76_tr_1_tl_15"/>
+            <zone points="613,1729 1640,1732 1640,1668 1527,1697 1362,1661 1246,1697 613,1697" rendition="Line" xml:id="facs_76_tr_1_tl_17" subtype="paragraph"/>
+            <zone points="320,1843 1991,1814 1991,1767 320,1772" rendition="Line" xml:id="facs_76_tr_1_tl_18"/>
+            <zone points="318,1901 2036,1909 2036,1857 1977,1843 318,1864" rendition="Line" xml:id="facs_76_tr_1_tl_19"/>
+            <zone points="318,1984 2036,1996 2036,1944 1975,1930 318,1946" rendition="Line" xml:id="facs_76_tr_1_tl_20"/>
+            <zone points="316,2071 2147,2069 2147,2019 2010,2012 316,2022" rendition="Line" xml:id="facs_76_tr_1_tl_21"/>
+            <zone points="309,2144 2149,2165 2149,2111 2095,2097 309,2125" rendition="Line" xml:id="facs_76_tr_1_tl_22"/>
+            <zone points="309,2231 464,2257 608,2231 1178,2238 1178,2198 1133,2184 693,2210 309,2187" rendition="Line" xml:id="facs_76_tr_1_tl_23"/>
+            <zone points="613,2326 1824,2361 1885,2311 2078,2314 2078,2267 613,2269" rendition="Line" xml:id="facs_76_tr_1_tl_24" subtype="paragraph"/>
+            <zone points="309,2399 2170,2403 2170,2342 309,2375" rendition="Line" xml:id="facs_76_tr_1_tl_25"/>
+            <zone points="316,2493 2168,2493 2168,2446 2088,2420 1828,2455 1527,2420 1451,2460 316,2448" rendition="Line" xml:id="facs_76_tr_1_tl_26"/>
+            <zone points="316,2575 2205,2580 2205,2528 2123,2514 316,2533" rendition="Line" xml:id="facs_76_tr_1_tl_27"/>
+            <zone points="309,2655 2097,2653 2038,2599 309,2625" rendition="Line" xml:id="facs_76_tr_1_tl_28"/>
+            <zone points="318,2785 2071,2771 2071,2681 318,2703" rendition="Line" xml:id="facs_76_tr_1_tl_29"/>
+            <zone points="332,2830 2090,2846 2090,2802 1909,2783 332,2792" rendition="Line" xml:id="facs_76_tr_1_tl_30" subtype="footnote"/>
+            <zone points="358,2889 2069,2891 2069,2837 358,2868" rendition="Line" xml:id="facs_76_tr_1_tl_31" subtype="footnote-continued"/>
+            <zone points="384,2948 1312,2948 1289,2891 1159,2917 1129,2889 384,2903" rendition="Line" xml:id="facs_76_tr_1_tl_32" subtype="footnote-continued"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0076.jpg" n="part1_p076.jpg" xml:id="img_0076" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p076.jpg"/>
+            
+            <ab facs="#facs_76_tr_1">
+               <lb facs="#facs_76_tr_1_tl_1" n="N001"/>[73]
+               <lb facs="#facs_76_tr_1_tl_2" n="N002"/><technology>So has also the technical emphasis of the modern world since the Renaissance.
+               <lb break="no" facs="#facs_76_tr_1_tl_3" n="N003"/>Contemplation became a help for transformation, but not a purpose in itself.
+               <lb break="no" facs="#facs_76_tr_1_tl_4" n="N004"/>I will now discuss the logical structure of the technical realm and then
+               <lb break="no" facs="#facs_76_tr_1_tl_5" n="N005"/>its creative greatness, its estrangement, and its possible healing in relation to man's
+               <lb break="no" facs="#facs_76_tr_1_tl_6" n="N006"/>ultimate concern. If I give you a little of the philosophy of the technical realm,
+               <lb break="no" facs="#facs_76_tr_1_tl_7" n="N007"/>then I don't do it in itself in order to give this in itself, but in order to prepare
+               <lb break="no" facs="#facs_76_tr_1_tl_8" n="N008"/>the second consideration, namely how this is related to the religious symbolism, to
+               <lb break="no" facs="#facs_76_tr_1_tl_9" n="N009"/>man's ultimate concern.
+               <lb break="no" facs="#facs_76_tr_1_tl_10" n="N010"/>So first: philology and philosophy of the ''technical.'' The word comes
+               <lb break="no" facs="#facs_76_tr_1_tl_11" n="N011"/>from the Greek <hi style="font-style: italic;">τευχα</hi> [?] which means ''succeeding,'' ''reaching something.''
+               <lb break="no" facs="#facs_76_tr_1_tl_12" n="N012"/>Wherever adequate means are used in order to bring something into being, there we
+               <lb break="no" facs="#facs_76_tr_1_tl_13" n="N013"/>have the technical structure. If we give this definition--reaching something, or forming
+               <lb break="no" facs="#facs_76_tr_1_tl_14" n="N014"/>something, with adequate means--then we have a very large concept of the technical,
+               <lb break="no" facs="#facs_76_tr_1_tl_15" n="N015"/>and certainly we need it.
+               <lb break="no" facs="#facs_76_tr_1_tl_17" n="N016"/>Our next statement can be: <hi style="font-style: italic;">τεχναζει η φυσις </hi>which means,
+               <lb break="no" facs="#facs_76_tr_1_tl_18" n="N017"/>nature uses technical means; or more exactly, nature is technical in one of its
+               <lb break="no" facs="#facs_76_tr_1_tl_19" n="N018"/>elements. Every new form in the biological realm, every new genus and species,
+               <lb break="no" facs="#facs_76_tr_1_tl_20" n="N019"/>develops new organs--feet, hands--and in man it develops the hands by liberating
+               <lb break="no" facs="#facs_76_tr_1_tl_21" n="N020"/>them from the need to walk on them and climb with them. It makes something new
+               <lb break="no" facs="#facs_76_tr_1_tl_22" n="N021"/>out of this organ, a means for the end of grasping things. And the power of grasping
+               <lb break="no" facs="#facs_76_tr_1_tl_23" n="N022"/>is of course the root of all technology.
+               <lb break="no" facs="#facs_76_tr_1_tl_24" n="N023"/>Or there are other pre-formations of technical products. We are now
+               <lb break="no" facs="#facs_76_tr_1_tl_25" n="N024"/>observed by a technical camera* in the background of this room, but the TECHNICAL
+               <lb break="no" facs="#facs_76_tr_1_tl_26" n="N025"/>camera is only a continuation of the natural camera, which is the eye of living beings,
+               <lb break="no" facs="#facs_76_tr_1_tl_27" n="N026"/>especially the human eye; and the bodily form and wings of birds pre-form the airplane,
+               <lb break="no" facs="#facs_76_tr_1_tl_28" n="N027"/>so that in nature you can follow this through in innumerable cases (I can give you
+               <lb break="no" facs="#facs_76_tr_1_tl_29" n="N028"/>only a few examples). All technical development is a continuation of these natural</technology>
+               <lb facs="#facs_76_tr_1_tl_30" n="N029"/>*Earlier in the lecture, a ''Life'' magazine photographer had entered the classroom,
+               <lb facs="#facs_76_tr_1_tl_31" n="N030"/>disrupting things, to photograph for an article on Harvard Divinity School which
+               <lb facs="#facs_76_tr_1_tl_32" n="N031"/>appeared in a December 1955 issue. -- Ed.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

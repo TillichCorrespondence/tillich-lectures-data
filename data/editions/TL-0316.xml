@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p032</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p032</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_32">
+         <graphic url="TL-0316.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TUYFTABZSFKKCQIIAIYRHWCT&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="286,275 2283,275 2283,1102 286,1102" rendition="TextRegion" xml:id="facs_32_tr_3">
+            <zone points="1158,333 1176,333 1184,341 1205,344 1215,338 1273,341 1270,265 1234,265 1213,255 1195,276 1158,276" rendition="Line" xml:id="facs_32_tr_3_tl_1"/>
+            <zone points="276,489 2105,502 2173,445 276,455" rendition="Line" xml:id="facs_32_tr_3_tl_2"/>
+            <zone points="281,651 2056,656 2264,643 2264,583 281,596" rendition="Line" xml:id="facs_32_tr_3_tl_3"/>
+            <zone points="271,796 2238,807 2277,742 271,768" rendition="Line" xml:id="facs_32_tr_3_tl_4"/>
+            <zone points="271,942 435,966 487,942 986,950 986,916 919,895 544,882 505,916 458,895 271,895" rendition="Line" xml:id="facs_32_tr_3_tl_5"/>
+            <zone points="448,1096 2199,1093 2199,1046 1973,1023 450,1062" rendition="Line" xml:id="facs_32_tr_3_tl_6" subtype="paragraph"/>
+         </zone>
+         <zone points="274,1180 2358,1180 2358,2461 274,2461" rendition="TextRegion" xml:id="facs_32_tr_2">
+            <zone points="276,1262 2056,1257 2256,1244 2256,1184 276,1205" rendition="Line" xml:id="facs_32_tr_2_tl_1"/>
+            <zone points="271,1400 2033,1413 2176,1398 2178,1340 271,1372" rendition="Line" xml:id="facs_32_tr_2_tl_2"/>
+            <zone points="271,1548 1973,1556 2173,1541 2173,1486 271,1517" rendition="Line" xml:id="facs_32_tr_2_tl_3"/>
+            <zone points="265,1702 2144,1710 2204,1637 265,1671" rendition="Line" xml:id="facs_32_tr_2_tl_4"/>
+            <zone points="265,1853 1614,1861 1634,1801 265,1811" rendition="Line" xml:id="facs_32_tr_2_tl_5"/>
+            <zone points="440,2001 2199,1999 2199,1936 440,1952" rendition="Line" xml:id="facs_32_tr_2_tl_6" subtype="paragraph"/>
+            <zone points="265,2157 2074,2157 2183,2150 2183,2090 265,2124" rendition="Line" xml:id="facs_32_tr_2_tl_7"/>
+            <zone points="263,2306 2246,2308 2355,2293 2355,2238 263,2269" rendition="Line" xml:id="facs_32_tr_2_tl_8"/>
+            <zone points="260,2449 1944,2462 2262,2444 2262,2394 260,2426" rendition="Line" xml:id="facs_32_tr_2_tl_9"/>
+         </zone>
+         <zone points="203,2532 2221,2532 2221,3491 203,3491" rendition="TextRegion" xml:id="facs_32_tr_1">
+            <zone points="440,2608 1791,2616 2191,2597 2215,2540 440,2558" rendition="Line" xml:id="facs_32_tr_1_tl_1" subtype="paragraph"/>
+            <zone points="263,2756 1853,2759 2111,2748 2111,2688 263,2725" rendition="Line" xml:id="facs_32_tr_1_tl_2"/>
+            <zone points="265,2920 2092,2902 2095,2842 268,2868" rendition="Line" xml:id="facs_32_tr_1_tl_3"/>
+            <zone points="263,3068 2165,3058 2165,2995 263,3014" rendition="Line" xml:id="facs_32_tr_1_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0316.jpg" n="part2_p032.jpg" xml:id="img_0032" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p032.jpg"/>
+            
+            <ab facs="#facs_32_tr_3">
+               <lb facs="#facs_32_tr_3_tl_1" n="N001"/>[312]
+               <lb facs="#facs_32_tr_3_tl_2" n="N002"/>but so that we always recognize it. And now the artist uses that as his symbol for something far
+               <lb facs="#facs_32_tr_3_tl_3" n="N003"/>beyond it. The very well known traits of the face now represent something which goes beyond THlS
+               <lb facs="#facs_32_tr_3_tl_4" n="N004"/>moment, beyond THESE lights shining on it, these colors of his or her clothes, THESE surroundings,
+               <lb facs="#facs_32_tr_3_tl_5" n="N005"/>THIS age---all this is transcended. . . 
+               <lb facs="#facs_32_tr_3_tl_6" n="N006"/>Or human relations can become symbols, human relations painted in terms of couples or
+            </ab>
+            <ab facs="#facs_32_tr_2">
+               <lb facs="#facs_32_tr_2_tl_1" n="N001"/>groups which are in vital movement, or in intellectual relationship to each other---political, scientific.
+               <lb facs="#facs_32_tr_2_tl_2" n="N002"/>And there is, going through such a group, a dynamic power which the artist brings out, using the
+               <lb facs="#facs_32_tr_2_tl_3" n="N003"/>dances or movements or intensities of attention or other relations---love relations---as symbols to
+               <lb facs="#facs_32_tr_2_tl_4" n="N004"/>express not something which can be defined, but which isin [sic.] and . . . this reality, the vital reality of
+               <lb facs="#facs_32_tr_2_tl_5" n="N005"/>a group, and this again an expression of the foundations of all reality.
+               <lb facs="#facs_32_tr_2_tl_6" n="N006"/>Then in modern non-representative art---cubes, planes, lines, color relationships---without
+               <lb facs="#facs_32_tr_2_tl_7" n="N007"/>naturalistic contents, which are symbols for those fundamental powers of reality which are, so to
+               <lb facs="#facs_32_tr_2_tl_8" n="N008"/>speak, the stones of the universe---not in terms of atoms, in scientific consideration, but in terms of power
+               <lb facs="#facs_32_tr_2_tl_9" n="N009"/>of being, even of that which is not organic and which has NOT YET the form of daily life encounter.
+            </ab>
+            <ab facs="#facs_32_tr_1">
+               <lb facs="#facs_32_tr_1_tl_1" n="N001"/>Sometimes---and this is perhaps the most dangerous thing---EVENTS, because events have
+               <lb facs="#facs_32_tr_1_tl_2" n="N002"/>the disagreeable character to keep by themselves, and the stories which they tell, a battle or a
+               <lb facs="#facs_32_tr_1_tl_3" n="N003"/>political scene---as long as they do that, they are not symbols. They become symbols in the
+               <lb facs="#facs_32_tr_1_tl_4" n="N004"/>moment in which they express a historical event as embodying meaning of existence. And then,
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

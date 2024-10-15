@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p077</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p077</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_77">
+         <graphic url="TL-0077.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QCLEGNRWMTZUCOJBZKUBJPGH&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="250,242 250,3007 2257,3007 2257,242" rendition="TextRegion" xml:id="facs_77_tr_2">
+            <zone points="1085,286 1097,286 1117,303 1134,298 1142,291 1152,301 1177,298 1174,229 1154,229 1142,239 1129,236 1119,249 1082,249" rendition="Line" xml:id="facs_77_tr_2_tl_1"/>
+            <zone points="294,502 1950,502 1995,413 291,415" rendition="Line" xml:id="facs_77_tr_2_tl_2"/>
+            <zone points="289,547 2127,557 2127,497 289,502" rendition="Line" xml:id="facs_77_tr_2_tl_3"/>
+            <zone points="281,629 2107,692 2194,647 2194,590 2080,580 281,585" rendition="Line" xml:id="facs_77_tr_2_tl_4"/>
+            <zone points="281,706 415,771 1196,734 1632,774 1746,724 1744,672 279,667" rendition="Line" xml:id="facs_77_tr_2_tl_5"/>
+            <zone points="587,886 2102,895 2102,833 587,831" rendition="Line" xml:id="facs_77_tr_2_tl_6" subtype="paragraph"/>
+            <zone points="279,960 2162,970 2162,925 1846,908 279,915" rendition="Line" xml:id="facs_77_tr_2_tl_7"/>
+            <zone points="279,1060 2122,1057 2122,1012 2027,1000 279,1000" rendition="Line" xml:id="facs_77_tr_2_tl_8"/>
+            <zone points="271,1124 2134,1142 2134,1080 271,1099" rendition="Line" xml:id="facs_77_tr_2_tl_9"/>
+            <zone points="276,1219 1281,1224 1244,1162 276,1179" rendition="Line" xml:id="facs_77_tr_2_tl_10"/>
+            <zone points="572,1381 2142,1398 2142,1341 572,1333" rendition="Line" xml:id="facs_77_tr_2_tl_11" subtype="paragraph"/>
+            <zone points="547,1465 2117,1478 2117,1433 2055,1415 547,1445" rendition="Line" xml:id="facs_77_tr_2_tl_13"/>
+            <zone points="271,1555 2184,1565 2184,1512 1958,1505 271,1507" rendition="Line" xml:id="facs_77_tr_2_tl_15"/>
+            <zone points="269,1637 2214,1662 2214,1607 2119,1587 269,1594" rendition="Line" xml:id="facs_77_tr_2_tl_16"/>
+            <zone points="264,1724 2191,1731 2191,1687 2025,1672 264,1679" rendition="Line" xml:id="facs_77_tr_2_tl_17"/>
+            <zone points="261,1811 2137,1811 2137,1771 2055,1761 261,1764" rendition="Line" xml:id="facs_77_tr_2_tl_18"/>
+            <zone points="264,1893 2184,1908 2184,1856 1863,1838 264,1846" rendition="Line" xml:id="facs_77_tr_2_tl_19"/>
+            <zone points="264,1983 2184,1988 2184,1940 1801,1910 1236,1953 1144,1920 264,1933" rendition="Line" xml:id="facs_77_tr_2_tl_20"/>
+            <zone points="254,2057 2236,2070 2236,2012 2090,2007 254,2030" rendition="Line" xml:id="facs_77_tr_2_tl_21"/>
+            <zone points="254,2144 2254,2164 2229,2097 254,2097" rendition="Line" xml:id="facs_77_tr_2_tl_22"/>
+            <zone points="251,2224 1836,2236 1836,2182 251,2172" rendition="Line" xml:id="facs_77_tr_2_tl_23"/>
+            <zone points="552,2390 2080,2403 2080,2333 552,2351" rendition="Line" xml:id="facs_77_tr_2_tl_24" subtype="paragraph"/>
+            <zone points="246,2475 1005,2485 1005,2433 565,2430 545,2448 276,2425 246,2445" rendition="Line" xml:id="facs_77_tr_2_tl_25"/>
+            <zone points="547,2557 2219,2577 2219,2515 2042,2537 1910,2500 1801,2537 547,2510" rendition="Line" xml:id="facs_77_tr_2_tl_26" subtype="paragraph"/>
+            <zone points="241,2691 2062,2694 2129,2654 2129,2592 1776,2627 1378,2592 241,2614" rendition="Line" xml:id="facs_77_tr_2_tl_27"/>
+            <zone points="236,2786 328,2769 445,2788 659,2779 756,2754 873,2771 873,2694 841,2682 764,2706 714,2686 537,2706 281,2686 236,2706" rendition="Line" xml:id="facs_77_tr_2_tl_28"/>
+            <zone points="547,2811 1440,2866 1505,2816 1622,2853 2050,2821 2050,2766 1838,2791 1714,2746 1597,2791 547,2776" rendition="Line" xml:id="facs_77_tr_2_tl_29" subtype="paragraph"/>
+            <zone points="241,2935 789,2915 950,2948 1017,2898 2179,2923 2179,2861 2099,2848 241,2868" rendition="Line" xml:id="facs_77_tr_2_tl_30"/>
+            <zone points="236,3000 298,3045 378,3007 662,3045 990,3005 2224,3030 2224,2950 2187,2948 236,2945" rendition="Line" xml:id="facs_77_tr_2_tl_31"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0077.jpg" n="part1_p077.jpg" xml:id="img_0077" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p077.jpg"/>
+            
+            <ab facs="#facs_77_tr_2">
+               <lb facs="#facs_77_tr_2_tl_1" n="N001"/>[74]
+               <lb facs="#facs_77_tr_2_tl_2" n="N002"/><technology>technical elements in nature. Now this means the technical is a creative reality.
+               <lb break="no" facs="#facs_77_tr_2_tl_3" n="N003"/>And I emphasize this so much because I want to warn my theological friends against
+               <lb break="no" facs="#facs_77_tr_2_tl_4" n="N004"/>a shallow contempt of the technical, which has often spread and has led to a confronta-
+               <lb break="no" facs="#facs_77_tr_2_tl_5" n="N005"/>tion or contrasting of the technical and the human, or the spiritual.
+               <lb break="no" facs="#facs_77_tr_2_tl_6" n="N006"/>If higher organs are developed which can do more, in technical terms,
+               <lb break="no" facs="#facs_77_tr_2_tl_7" n="N007"/>the other organs are reduced, sometimes to a complete disappearance. New devices are
+               <lb break="no" facs="#facs_77_tr_2_tl_8" n="N008"/>produced by nature, and older devices are dropped. Think, for instance, of the device
+               <lb break="no" facs="#facs_77_tr_2_tl_9" n="N009"/>we call the human brain, and which has, as an intrinsic consequence, the dropping of
+               <lb break="no" facs="#facs_77_tr_2_tl_10" n="N010"/>many powers which we find in higher animals.
+               <lb break="no" facs="#facs_77_tr_2_tl_11" n="N011"/>In the human brain, with the help of this means for ends, this technical
+               <lb break="no" facs="#facs_77_tr_2_tl_13" n="N012"/>organ, a change happens in the relation of means and ends. In nature, insofar as it has
+               <lb break="no" facs="#facs_77_tr_2_tl_15" n="N013"/>technical elements in itself, means and ends are always identical. The organs--for instance
+               <lb break="no" facs="#facs_77_tr_2_tl_16" n="N014"/>the eyes--are parts of that for which they are used, namely the living structure, the living
+               <lb break="no" facs="#facs_77_tr_2_tl_17" n="N015"/>totality. And the whole is the basis for the development of every organ. Everything in a
+               <lb break="no" facs="#facs_77_tr_2_tl_18" n="N016"/>living organism is used for the living organism and EVERYTHING IN IT, so that here
+               <lb break="no" facs="#facs_77_tr_2_tl_19" n="N017"/>the means become ends, and the ends become means. Now this situation is not true any
+               <lb break="no" facs="#facs_77_tr_2_tl_20" n="N018"/>more after the human brain has appeared, in the development of the living substance on
+               <lb break="no" facs="#facs_77_tr_2_tl_21" n="N019"/>earth. In man this identity of means and ends is dissolved. The means serves an end which
+               <lb break="no" facs="#facs_77_tr_2_tl_22" n="N020"/>is not itself. After reaching the end, the means can disappear--the tool can be thrown away,
+               <lb break="no" facs="#facs_77_tr_2_tl_23" n="N021"/>or it can be used for another end. But IT IS NOT USED FOR ITSELF.
+               <lb break="no" facs="#facs_77_tr_2_tl_24" n="N022"/>Now this is a fundamental change. And this is a change on which all
+               <lb break="no" facs="#facs_77_tr_2_tl_25" n="N023"/>technological development is based.
+               <lb break="no" facs="#facs_77_tr_2_tl_26" n="N024"/>In man we can distinguish the technical as an element in all human activity;
+               <lb break="no" facs="#facs_77_tr_2_tl_27" n="N025"/>there is no human activity in which there is no technical development at all, in which
+               <lb break="no" facs="#facs_77_tr_2_tl_28" n="N026"/>there are no means for ends.
+               <lb break="no" facs="#facs_77_tr_2_tl_29" n="N027"/>This gives two types of technical functions. The one is the technical
+               <lb break="no" facs="#facs_77_tr_2_tl_30" n="N028"/>element in ALL human activity--for instance in my speaking here to you; and the other
+               <lb break="no" facs="#facs_77_tr_2_tl_31" n="N029"/>is the production of the tools by changing a part of the encountered reality for a purpose.</technology>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

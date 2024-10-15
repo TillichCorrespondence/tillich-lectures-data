@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p271</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p271</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_271">
+         <graphic url="TL-0271.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MCFHPSRXQWSVKDPHVTABXPBB&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="200,264 200,3485 2334,3485 2334,264" rendition="TextRegion" xml:id="facs_271_tr_1">
+            <zone points="1110,336 1138,346 1164,349 1194,349 1215,341 1230,341 1230,288 1179,285 1166,272 1148,285 1110,283" rendition="Line" xml:id="facs_271_tr_1_tl_1"/>
+            <zone points="303,484 336,502 955,497 955,423 868,423 838,448 805,420 777,448 693,430 667,451 614,410 583,428 428,410 390,448 303,448" rendition="Line" xml:id="facs_271_tr_1_tl_2" subtype="heading"/>
+            <zone points="502,639 2243,654 2243,591 2096,583 708,606 667,570 583,606 502,573" rendition="Line" xml:id="facs_271_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="293,787 1887,835 1887,741 293,761" rendition="Line" xml:id="facs_271_tr_1_tl_4"/>
+            <zone points="494,937 2225,960 2225,894 494,889" rendition="Line" xml:id="facs_271_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="298,1105 359,1141 565,1100 2259,1100 2259,1041 298,1044" rendition="Line" xml:id="facs_271_tr_1_tl_6"/>
+            <zone points="290,1240 1846,1245 1989,1314 2279,1276 2279,1199 290,1217" rendition="Line" xml:id="facs_271_tr_1_tl_7"/>
+            <zone points="285,1395 412,1446 2266,1444 2327,1403 2327,1350 2014,1332 285,1370" rendition="Line" xml:id="facs_271_tr_1_tl_8"/>
+            <zone points="288,1548 2312,1563 2312,1479 1469,1518 288,1497" rendition="Line" xml:id="facs_271_tr_1_tl_9"/>
+            <zone points="288,1698 1204,1706 1288,1765 1739,1734 2090,1765 2233,1709 2233,1653 2139,1647 288,1655" rendition="Line" xml:id="facs_271_tr_1_tl_10"/>
+            <zone points="280,1851 578,1849 647,1869 744,1856 744,1808 677,1798 583,1808 565,1790 550,1805 446,1805 430,1790 415,1805 280,1805" rendition="Line" xml:id="facs_271_tr_1_tl_11"/>
+            <zone points="476,1996 1332,2009 1383,2055 1571,2052 1619,2004 2246,2004 2246,1945 2157,1930 2098,1966 1843,1930 1808,1966 1546,1968 1390,1933 1350,1968 634,1933 598,1968 525,1930 476,1966" rendition="Line" xml:id="facs_271_tr_1_tl_12" subtype="paragraph"/>
+            <zone points="275,2182 326,2213 466,2215 547,2210 649,2149 1113,2157 1077,2101 924,2131 807,2098 670,2098 644,2124 619,2098 504,2098 438,2126 359,2098 275,2121" rendition="Line" xml:id="facs_271_tr_1_tl_14"/>
+            <zone points="275,2299 1604,2360 1688,2309 2195,2309 2195,2253 275,2274" rendition="Line" xml:id="facs_271_tr_1_tl_15"/>
+            <zone points="285,2460 2111,2470 2111,2404 285,2404" rendition="Line" xml:id="facs_271_tr_1_tl_16"/>
+            <zone points="265,2648 662,2658 787,2605 2185,2620 2185,2559 265,2579" rendition="Line" xml:id="facs_271_tr_1_tl_17"/>
+            <zone points="275,2765 2200,2765 2200,2707 275,2707" rendition="Line" xml:id="facs_271_tr_1_tl_18"/>
+            <zone points="260,2908 1978,2918 1978,2857 260,2880" rendition="Line" xml:id="facs_271_tr_1_tl_19"/>
+            <zone points="446,3035 1596,3033 1596,2989 1309,2964 446,2982" rendition="Line" xml:id="facs_271_tr_1_tl_22" subtype="paragraph"/>
+            <zone points="257,3175 1961,3183 1907,3127 257,3129" rendition="Line" xml:id="facs_271_tr_1_tl_23"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0271.jpg" n="part1_p271.jpg" xml:id="img_0271" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p271.jpg"/>
+            
+            <ab facs="#facs_271_tr_1">
+               <lb facs="#facs_271_tr_1_tl_1" n="N001"/>[267]
+               <lb facs="#facs_271_tr_1_tl_2" n="N002"/>LECTURE XXII, Dec. 20, 1955
+               <lb facs="#facs_271_tr_1_tl_3" n="N003"/>Since this is the last lecture, let me remind you of the idea of the whole lecture [course]
+               <lb facs="#facs_271_tr_1_tl_4" n="N004"/>as we had it, and look forward to the lecture starting the beginning of February.
+               <lb facs="#facs_271_tr_1_tl_5" n="N005"/><rs type="keyword" ref="#RELIGION">Religion</rs> and<rs type="keyword" ref="#Culture"> culture</rs> has been treated in such a way that we first discussed the meaning
+               <lb facs="#facs_271_tr_1_tl_6" n="N006"/>of religion, especially the meaning of <rs type="keyword" ref="#Faith">faith</rs> as <ultimate_concern>ultimate concern</ultimate_concern>. Then we spoke about the <rs type="keyword" ref="#Symbols">symbolic</rs>
+               <lb facs="#facs_271_tr_1_tl_7" n="N007"/>character of religious expression in practice and theory. Then we tried to find the religious element
+               <lb facs="#facs_271_tr_1_tl_8" n="N008"/>and the relation of religion to the different cultural functions, on the basic presupposition that religion
+               <lb facs="#facs_271_tr_1_tl_9" n="N009"/>in the sense of ultimate concern is the substance of culture, and that wherever religion expresses itself,
+               <lb facs="#facs_271_tr_1_tl_10" n="N010"/>the form of its expression is culture. Or, in short: religion is the substance of culture, and culture
+               <lb facs="#facs_271_tr_1_tl_11" n="N011"/>is the form of religion.
+               <lb facs="#facs_271_tr_1_tl_12" n="N012"/>With this principle, then, we first approached language as the immediate characteristic of
+               <lb facs="#facs_271_tr_1_tl_14" n="N013"/>man as man; then we came to man as creating a world above the given world---
+               <lb facs="#facs_271_tr_1_tl_15" n="N014"/>the<technology> technical</technology> forms; then we came to the different forms of <rs type="keyword" ref="#Science">science</rs>---pure science, including the
+               <lb facs="#facs_271_tr_1_tl_16" n="N015"/>biological realm, leaving out the psychological, for special reasons, but going then to <rs type="keyword" ref="#History">history</rs>
+               <lb facs="#facs_271_tr_1_tl_17" n="N016"/>and to <rs type="keyword" ref="#Philosophy">philosophy</rs>. Then I intended originally to deal with religion and art, but according to my
+               <lb facs="#facs_271_tr_1_tl_18" n="N017"/>suggestion, and your agreement, we postponed this to next semester because of the difficulties of
+               <lb facs="#facs_271_tr_1_tl_19" n="N018"/>this place to show slides and to have the material necessary to discuss such a problem.
+               <lb facs="#facs_271_tr_1_tl_22" n="N019"/>Instead of that, we turned to a problem which is anyhow a center, and therefore
+               <lb facs="#facs_271_tr_1_tl_23" n="N020"/>is rightly at the end of the first semester and gives the bridge to the second. It unites
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

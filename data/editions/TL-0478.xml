@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part4_p004</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p004</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_4">
+         <graphic url="TL-0478.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XURPQKDJPXVPCFSOCBTFPIMQ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,272 2295,272 2295,1855 298,1855" rendition="TextRegion" xml:id="facs_4_tr_1">
+            <zone points="1142,332 1162,332 1180,342 1222,337 1259,342 1262,254 1229,254 1209,274 1145,274" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
+            <zone points="284,481 2229,486 2229,434 2045,404 284,444" rendition="Line" xml:id="facs_4_tr_1_tl_2"/>
+            <zone points="1935,628 1948,626 1968,643 2022,631 2082,646 2107,636 2209,641 2209,579 1975,576 1953,598 1935,601" rendition="Line" xml:id="facs_4_tr_1_tl_3"/>
+            <zone points="284,633 1671,643 1671,581 1631,579 284,606" rendition="Line" xml:id="facs_4_tr_1_tl_4"/>
+            <zone points="294,798 2199,788 2192,721 294,736" rendition="Line" xml:id="facs_4_tr_1_tl_5"/>
+            <zone points="289,943 2107,935 2107,898 2012,873 289,910" rendition="Line" xml:id="facs_4_tr_1_tl_6"/>
+            <zone points="294,1100 2167,1107 2167,1022 294,1040" rendition="Line" xml:id="facs_4_tr_1_tl_7"/>
+            <zone points="287,1239 2292,1244 2292,1185 2047,1162 1486,1207 287,1177" rendition="Line" xml:id="facs_4_tr_1_tl_8"/>
+            <zone points="284,1389 2239,1389 2214,1329 284,1349" rendition="Line" xml:id="facs_4_tr_1_tl_9"/>
+            <zone points="287,1546 2232,1539 2232,1486 2005,1476 287,1504" rendition="Line" xml:id="facs_4_tr_1_tl_10"/>
+            <zone points="289,1701 2175,1688 2175,1623 289,1653" rendition="Line" xml:id="facs_4_tr_1_tl_11"/>
+            <zone points="284,1840 1838,1855 2192,1838 2209,1783 284,1815" rendition="Line" xml:id="facs_4_tr_1_tl_12"/>
+         </zone>
+         <zone points="286,1926 2239,1926 2239,2547 286,2547" rendition="TextRegion" xml:id="facs_4_tr_3">
+            <zone points="282,2000 2155,1990 2157,1935 2010,1928 284,1948" rendition="Line" xml:id="facs_4_tr_3_tl_1"/>
+            <zone points="279,2150 2112,2140 2112,2087 1985,2072 279,2120" rendition="Line" xml:id="facs_4_tr_3_tl_2"/>
+            <zone points="284,2314 2180,2287 2182,2237 287,2252" rendition="Line" xml:id="facs_4_tr_3_tl_3"/>
+            <zone points="272,2384 2194,2379 2194,2322 1943,2312 272,2344" rendition="Line" xml:id="facs_4_tr_3_tl_4"/>
+            <zone points="272,2539 2232,2529 2227,2466 272,2496" rendition="Line" xml:id="facs_4_tr_3_tl_5"/>
+         </zone>
+         <zone points="91,2613 2212,2613 2212,3461 91,3461" rendition="TextRegion" xml:id="facs_4_tr_2">
+            <zone points="279,2698 2165,2681 2165,2623 1995,2618 282,2648" rendition="Line" xml:id="facs_4_tr_2_tl_1"/>
+            <zone points="269,2843 1988,2838 2127,2791 269,2815" rendition="Line" xml:id="facs_4_tr_2_tl_2"/>
+            <zone points="272,2997 2190,2975 2192,2913 272,2943" rendition="Line" xml:id="facs_4_tr_2_tl_3"/>
+            <zone points="279,3147 2209,3125 2177,3067 279,3095" rendition="Line" xml:id="facs_4_tr_2_tl_4"/>
+            <zone points="683,3409 791,3416 830,3394 945,3419 980,3396 1080,3414 1120,3392 1197,3429 1244,3406 1247,3279 883,3269 686,3294" rendition="Line" xml:id="facs_4_tr_2_tl_5"/>
+            <zone points="77,3401 117,3396 170,3414 244,3396 297,3434 374,3404 444,3446 439,3307 354,3302 289,3317 249,3294 147,3292 75,3304" rendition="Line" xml:id="facs_4_tr_2_tl_6"/>
+            <zone points="105,3466 115,3461 162,3461 172,3456 145,3399 132,3404 115,3396 102,3396 87,3389 72,3396" rendition="Line" xml:id="facs_4_tr_2_tl_7"/>
+            <zone points="786,3454 798,3454 805,3461 883,3459 878,3394 855,3396 853,3401 818,3394 810,3406 783,3404" rendition="Line" xml:id="facs_4_tr_2_tl_8"/>
+            <zone points="496,3461 521,3464 529,3451 544,3461 698,3461 693,3344 671,3347 661,3337 616,3344 586,3379 561,3369 556,3377 511,3337 491,3337" rendition="Line" xml:id="facs_4_tr_2_tl_9"/>
+            <zone points="888,3459 900,3461 910,3451 920,3454 928,3446 945,3461 958,3456 973,3461 980,3454 998,3454 1005,3461 1040,3459 1042,3409 993,3414 983,3421 965,3416 945,3421 940,3411 913,3414 903,3404 890,3404" rendition="Line" xml:id="facs_4_tr_2_tl_10"/>
+            <zone points="259,3459 299,3459 307,3451 319,3461 332,3456 354,3461 364,3451 374,3461 392,3459 399,3451 406,3459 419,3459 426,3451 444,3454 441,3431 414,3429 377,3404 347,3411 319,3431 257,3411" rendition="Line" xml:id="facs_4_tr_2_tl_11"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0478.jpg" n="part4_p004.jpg" xml:id="img_0004" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p004.jpg"/>
+            
+            <ab facs="#facs_4_tr_1">
+               <lb facs="#facs_4_tr_1_tl_1" n="N001"/>-473
+               <lb facs="#facs_4_tr_1_tl_2" n="N002"/>meaningless statement. But let me say in one word!: Ina public school, or in aschoolinwhich
+               <lb facs="#facs_4_tr_1_tl_3" n="N003"/>are together,
+               <lb facs="#facs_4_tr_1_tl_4" n="N004"/>al types of religions-and humanisms, more than religions, probably
+               <lb facs="#facs_4_tr_1_tl_5" n="N005"/>you cannot of course, in the situation in which you live here in this country, in which there is no
+               <lb facs="#facs_4_tr_1_tl_6" n="N006"/>offca connection between state and church-you cannot teach aspecia symbolic content.
+               <lb facs="#facs_4_tr_1_tl_7" n="N007"/>So the only way-and !think. this wasthe wisdom of the early church-was that they said:
+               <lb facs="#facs_4_tr_1_tl_8" n="N008"/>We AREconcrete [?]. In this event which they called esus, whom they called the Christy something
+               <lb facs="#facs_4_tr_1_tl_9" n="N009"/>has happened which gives us the criterion transcending our whole situation and makes usuniversal.
+               <lb facs="#facs_4_tr_1_tl_10" n="N010"/>Butnot undversal in the sense of being better than the others-Christianity has never, in its theo
+               <lb facs="#facs_4_tr_1_tl_11" n="N011"/>ogical affirmations, affirmed that it is better than the others, as Christianity, but they only said
+               <lb facs="#facs_4_tr_1_tl_12" n="N012"/>wehave a....... Theschoo), in this case, is not the place where these symbols are taught.
+            </ab>
+            <ab facs="#facs_4_tr_3">
+               <lb facs="#facs_4_tr_3_tl_1" n="N001"/>For thisreason didn'tmention it even. (spoke about home, society and church, but !didn't
+               <lb facs="#facs_4_tr_3_tl_2" n="N002"/>mention theschool. The school is quite differentin other countries. When !wasin the
+               <lb facs="#facs_4_tr_3_tl_3" n="N003"/>public schoof in Germany, the Lutheran background was aself-understood thing, and the whole
+               <lb facs="#facs_4_tr_3_tl_4" n="N004"/>instructon, the whole education, in this public school was connected with the lfe of the church,
+               <lb facs="#facs_4_tr_3_tl_5" n="N005"/>the ONE church-there is only one church building in a smaller place, in Germany, and one church;
+            </ab>
+            <ab facs="#facs_4_tr_2">
+               <lb facs="#facs_4_tr_2_tl_1" n="N001"/>there are no sects, no different denominations atall. And in this one church, which dominates,
+               <lb facs="#facs_4_tr_2_tl_2" n="N002"/>the lfe of the school ALSO was concentrated. But that was a quite different situation, ....
+               <lb facs="#facs_4_tr_2_tl_3" n="N003"/>but there was also the Gymnastum, acombination of high school and colege: there it was done
+               <lb facs="#facs_4_tr_2_tl_4" n="N004"/>only in the RELIGIOUSinstruction hours-which belonged officially to it-but notin the others.
+               <lb facs="#facs_4_tr_2_tl_5" n="N005"/>.......
+               <lb facs="#facs_4_tr_2_tl_6" n="N006"/>r
+               <lb facs="#facs_4_tr_2_tl_7" n="N007"/>
+               <lb facs="#facs_4_tr_2_tl_8" n="N008"/>
+               <lb facs="#facs_4_tr_2_tl_9" n="N009"/>
+               <lb facs="#facs_4_tr_2_tl_10" n="N010"/>
+               <lb facs="#facs_4_tr_2_tl_11" n="N011"/>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

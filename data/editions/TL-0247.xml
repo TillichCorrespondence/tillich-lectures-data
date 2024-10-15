@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p247</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p247</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_247">
+         <graphic url="TL-0247.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SKZXRPZJGUJTCONSAWBKLXUC&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="89,307 89,3467 2245,3467 2245,307" rendition="TextRegion" xml:id="facs_247_tr_2">
+            <zone points="1082,388 1102,386 1109,393 1142,391 1165,398 1185,398 1193,391 1205,391 1205,318 1190,318 1155,338 1082,338" rendition="Line" xml:id="facs_247_tr_2_tl_1"/>
+            <zone points="151,618 333,557 2156,532 2143,479 154,504" rendition="Line" xml:id="facs_247_tr_2_tl_2"/>
+            <zone points="214,711 2135,686 2135,628 217,658" rendition="Line" xml:id="facs_247_tr_2_tl_3"/>
+            <zone points="209,865 451,903 782,852 2050,847 2181,835 2183,774 209,804" rendition="Line" xml:id="facs_247_tr_2_tl_4"/>
+            <zone points="214,1014 227,1014 234,1021 260,1021 267,1016 277,1021 340,1021 345,1016 366,1021 366,966 214,966" rendition="Line" xml:id="facs_247_tr_2_tl_5"/>
+            <zone points="421,1082 2120,1066 2108,998 1805,1034 993,1016 925,1049 421,1026" rendition="Line" xml:id="facs_247_tr_2_tl_6" subtype="paragraph"/>
+            <zone points="214,1245 2115,1233 2118,1185 214,1213" rendition="Line" xml:id="facs_247_tr_2_tl_7"/>
+            <zone points="222,1402 2085,1367 2027,1316 222,1346" rendition="Line" xml:id="facs_247_tr_2_tl_8"/>
+            <zone points="212,1553 2229,1525 2229,1460 212,1520" rendition="Line" xml:id="facs_247_tr_2_tl_9"/>
+            <zone points="214,1707 2224,1679 2244,1611 214,1674" rendition="Line" xml:id="facs_247_tr_2_tl_10"/>
+            <zone points="207,1853 2148,1830 2133,1765 207,1825" rendition="Line" xml:id="facs_247_tr_2_tl_11"/>
+            <zone points="209,2002 1170,1999 1170,1946 724,1951 701,1974 212,1956" rendition="Line" xml:id="facs_247_tr_2_tl_12"/>
+            <zone points="411,2148 2100,2151 2173,2146 2176,2075 1066,2108 1024,2070 777,2118 587,2078 411,2115" rendition="Line" xml:id="facs_247_tr_2_tl_13" subtype="paragraph"/>
+            <zone points="212,2337 350,2372 456,2335 1329,2340 2133,2284 2093,2221 517,2241 212,2282" rendition="Line" xml:id="facs_247_tr_2_tl_14"/>
+            <zone points="222,2463 2130,2443 2130,2385 1901,2375 222,2415" rendition="Line" xml:id="facs_247_tr_2_tl_15"/>
+            <zone points="212,2617 1856,2597 1856,2534 1798,2531 212,2582" rendition="Line" xml:id="facs_247_tr_2_tl_16"/>
+            <zone points="411,2763 857,2763 953,2821 1026,2786 1788,2778 1856,2741 2060,2768 2062,2678 411,2736" rendition="Line" xml:id="facs_247_tr_2_tl_17" subtype="paragraph"/>
+            <zone points="212,2915 1046,2917 1049,2852 214,2862" rendition="Line" xml:id="facs_247_tr_2_tl_18"/>
+            <zone points="416,3073 1888,3056 2115,3046 2118,3000 998,2998 782,3036 716,2995 673,3036 575,3003 509,3038 416,3000" rendition="Line" xml:id="facs_247_tr_2_tl_19" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0247.jpg" n="part1_p247.jpg" xml:id="img_0247" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p247.jpg"/>
+            
+            <ab facs="#facs_247_tr_2">
+               <lb facs="#facs_247_tr_2_tl_1" n="N001"/>[243]
+               <lb facs="#facs_247_tr_2_tl_2" n="N002"/>This question is a HUMAN question---which we should never forget. It is a question in which man
+               <lb facs="#facs_247_tr_2_tl_3" n="N003"/>asks about himself, his nature, and his relation to his world---because man is never him alone; man
+               <lb facs="#facs_247_tr_2_tl_4" n="N004"/>is always man-in-his-world. Therefore the question he asks is always the question of his being-in-his-
+               <lb facs="#facs_247_tr_2_tl_5" n="N005"/>world.
+               <lb facs="#facs_247_tr_2_tl_6" n="N006"/>To ask such a question, a presupposition must be fulfilled which is the presupposition
+               <lb facs="#facs_247_tr_2_tl_7" n="N007"/>of ALL questions, namely to have and not to have, at the same time. Even the <rs type="keyword" ref="#Logical_Positivism">logical positivist,</rs>
+               <lb facs="#facs_247_tr_2_tl_8" n="N008"/>when he asks the question of the logical structure of sciences, must have this logical structure---
+               <lb facs="#facs_247_tr_2_tl_9" n="N009"/>otherwise he couldn’t even ask for it; and must NOT have it---otherwise he wouldn't have to ask for it.
+               <lb facs="#facs_247_tr_2_tl_10" n="N010"/>And this is the situation in which we always are, if we ask questions: having---which enables us to ask
+               <lb facs="#facs_247_tr_2_tl_11" n="N011"/>at all, because if we didn't have that for which we ask, we couldn't ask; and NOT having, because
+               <lb facs="#facs_247_tr_2_tl_12" n="N012"/>if we had it completely, we wouldn’t ask either.
+               <lb facs="#facs_247_tr_2_tl_13" n="N013"/>Now this is important, for religion for instance, where we must say: the question of God
+               <lb facs="#facs_247_tr_2_tl_14" n="N014"/>presupposes that we HAVE God, or God has US; otherwise we couldn't ask for Him. And on the
+               <lb facs="#facs_247_tr_2_tl_15" n="N015"/>other hand, the question presupposes that we DON'T have Him, that we are separated from Him,
+               <lb facs="#facs_247_tr_2_tl_16" n="N016"/>otherwise we would be in complete unity with Him and wouldn't ask the question.
+               <lb facs="#facs_247_tr_2_tl_17" n="N017"/>And so it is about man. It means man has himself, and has himself not. He has his
+               <lb facs="#facs_247_tr_2_tl_18" n="N018"/>world and he is separated from his world.
+               <lb facs="#facs_247_tr_2_tl_19" n="N019"/>Now this alone is a matter of astonishment, if we look at it. And if this astonishment
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part4_p054</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p054</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_54">
+         <graphic url="TL-0528.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CKMEHKKTQHWQKAFQLIGDWATM&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="47,15 2292,15 2292,917 47,917" rendition="TextRegion" xml:id="facs_54_tr_2">
+            <zone points="33,85 77,85 87,74 90,77 120,77 120,0 33,0" rendition="Line" xml:id="facs_54_tr_2_tl_1"/>
+            <zone points="1130,302 1153,302 1160,310 1194,312 1201,307 1209,310 1217,305 1255,302 1252,220 1229,223 1224,218 1211,218 1201,220 1188,236 1173,231 1163,238 1127,238" rendition="Line" xml:id="facs_54_tr_2_tl_2"/>
+            <zone points="1081,394 1094,394 1106,405 1130,402 1145,412 1158,402 1211,405 1214,341 1081,341" rendition="Line" xml:id="facs_54_tr_2_tl_3"/>
+            <zone points="254,446 799,517 907,451 2005,517 2287,461 2287,405 254,417" rendition="Line" xml:id="facs_54_tr_2_tl_4"/>
+            <zone points="251,594 359,645 2172,643 2172,558 1818,543 251,569" rendition="Line" xml:id="facs_54_tr_2_tl_5"/>
+            <zone points="248,748 2218,763 2218,709 248,702" rendition="Line" xml:id="facs_54_tr_2_tl_6"/>
+            <zone points="251,904 604,899 768,960 871,907 2233,917 2233,858 251,850" rendition="Line" xml:id="facs_54_tr_2_tl_7"/>
+         </zone>
+         <zone points="232,997 2292,997 2292,2195 232,2195" rendition="TextRegion" xml:id="facs_54_tr_3">
+            <zone points="246,1060 2128,1076 2262,1068 2262,1012 246,1024" rendition="Line" xml:id="facs_54_tr_3_tl_1"/>
+            <zone points="238,1206 2195,1217 2195,1163 238,1155" rendition="Line" xml:id="facs_54_tr_3_tl_2"/>
+            <zone points="238,1352 289,1357 315,1373 338,1373 353,1357 420,1363 420,1299 238,1299" rendition="Line" xml:id="facs_54_tr_3_tl_3"/>
+            <zone points="438,1429 2141,1447 2180,1386 438,1396" rendition="Line" xml:id="facs_54_tr_3_tl_4"/>
+            <zone points="231,1580 2285,1596 2285,1539 2082,1527 231,1552" rendition="Line" xml:id="facs_54_tr_3_tl_5"/>
+            <zone points="228,1724 2192,1749 2192,1693 1847,1655 228,1683" rendition="Line" xml:id="facs_54_tr_3_tl_6"/>
+            <zone points="228,1883 471,1926 2192,1890 2192,1842 2087,1834 228,1849" rendition="Line" xml:id="facs_54_tr_3_tl_7"/>
+            <zone points="223,2026 986,2039 1040,2085 2134,2044 2134,1988 1783,1977 223,2003" rendition="Line" xml:id="facs_54_tr_3_tl_8"/>
+            <zone points="218,2177 310,2198 338,2187 707,2198 707,2144 643,2128 633,2139 610,2126 594,2139 254,2128 218,2151" rendition="Line" xml:id="facs_54_tr_3_tl_9"/>
+         </zone>
+         <zone points="50,3344 1871,3344 1871,3485 50,3485" rendition="TextRegion" xml:id="facs_54_tr_1">
+            <zone points="812,3486 925,3486 999,3427 1142,3422 1181,3399 1229,3427 1276,3404 1370,3432 1411,3406 1465,3424 1465,3307 812,3309" rendition="Line" xml:id="facs_54_tr_1_tl_1"/>
+            <zone points="1462,3470 1662,3478 1698,3450 1721,3460 1775,3417 1862,3440 1867,3307 1603,3301 1468,3327" rendition="Line" xml:id="facs_54_tr_1_tl_2"/>
+            <zone points="36,3419 320,3409 359,3437 410,3424 494,3486 622,3483 622,3309 36,3312" rendition="Line" xml:id="facs_54_tr_1_tl_3"/>
+            <zone points="41,3450 59,3453 92,3442 131,3442 141,3450 159,3437 179,3437 177,3404 161,3404 141,3419 115,3409 102,3412 87,3401 74,3412 59,3401 38,3404" rendition="Line" xml:id="facs_54_tr_1_tl_4"/>
+            <zone points="1086,3481 1099,3478 1109,3486 1122,3486 1124,3478 1132,3478 1142,3468 1163,3481 1181,3478 1178,3404 1165,3404 1153,3414 1142,3412 1135,3404 1127,3404 1117,3412 1101,3399 1081,3401" rendition="Line" xml:id="facs_54_tr_1_tl_5"/>
+            <zone points="120,3481 143,3486 215,3486 220,3481 233,3488 246,3481 279,3488 289,3412 261,3414 248,3406 238,3417 218,3419 215,3414 174,3442 156,3437 138,3453 126,3450" rendition="Line" xml:id="facs_54_tr_1_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0528.jpg" n="part4_p054.jpg" xml:id="img_0054" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p054.jpg"/>
+            
+            <ab facs="#facs_54_tr_2">
+               <lb facs="#facs_54_tr_2_tl_1" n="N001"/>Mais il
+               <lb facs="#facs_54_tr_2_tl_2" n="N002"/>-S23.
+               <lb facs="#facs_54_tr_2_tl_3" n="N003"/>which
+               <lb facs="#facs_54_tr_2_tl_4" n="N004"/>And the desisive point on which everything must be understood depends, is the conconditional character
+               <lb facs="#facs_54_tr_2_tl_5" n="N005"/>of the moral imperative itself, and this means that the denndation of ethics ALWAYS has in itself
+               <lb facs="#facs_54_tr_2_tl_6" n="N006"/>a religious dimension because the experience of the conconditional is always an experience for which
+               <lb facs="#facs_54_tr_2_tl_7" n="N007"/>we use the word "religious." I hope again, after what I said, that religious toundation does not mean
+            </ab>
+            <ab facs="#facs_54_tr_3">
+               <lb facs="#facs_54_tr_3_tl_1" n="N001"/>commandments by a tyrranical God, or church laws, church morale, or anything like that, but it means
+               <lb facs="#facs_54_tr_3_tl_2" n="N002"/>theUmension of the conconditional, which is implicit in the moral imperative whatever the content
+               <lb facs="#facs_54_tr_3_tl_3" n="N003"/>may be.
+               <lb facs="#facs_54_tr_3_tl_4" n="N004"/>Now I was a little bit repetitious in this hour, and intentionally so, because I know how
+               <lb facs="#facs_54_tr_3_tl_5" n="N005"/>difficult it is to mediate fundamental distinction where there is less fundamental confusion all the time.
+               <lb facs="#facs_54_tr_3_tl_6" n="N006"/>But I hope that the sociologists and authorologists who think they have CAUGHT you, when they
+               <lb facs="#facs_54_tr_3_tl_7" n="N007"/>show the relativism of the esthical contents, can be shown by their 18ehavier with respect to TRUTH
+               <lb facs="#facs_54_tr_3_tl_8" n="N008"/>that they have not caught you at all, but that you can CATCH THEM /smiling', if you see what
+               <lb facs="#facs_54_tr_3_tl_9" n="N009"/>they actually are doing.
+            </ab>
+            <ab facs="#facs_54_tr_1">
+               <lb facs="#facs_54_tr_1_tl_1" n="N001"/>lʼhonneur de lʼautre estre sérieuse.
+               <lb facs="#facs_54_tr_1_tl_2" n="N002"/>cʼest lʼhonneur de ses
+               <lb facs="#facs_54_tr_1_tl_3" n="N003"/>Cela nʼentraîne est beaucoup dʼune
+               <lb facs="#facs_54_tr_1_tl_4" n="N004"/>G.C.F.P.
+               <lb facs="#facs_54_tr_1_tl_5" n="N005"/>Vous avez
+               <lb facs="#facs_54_tr_1_tl_6" n="N006"/>a-t-elle
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

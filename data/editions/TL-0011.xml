@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p011</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p011</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_11">
+         <graphic url="TL-0011.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CZEIYXITIGBBHMDPWGKAQQTN&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="1219,236 1331,236 1331,324 1219,324" rendition="TextRegion" xml:id="facs_11_r">
+            <zone points="1236,326 1290,320 1289,300 1234,306" rendition="Line" xml:id="facs_11_l"/>
+         </zone>
+         <zone points="194,343 194,3127 2406,3127 2406,343" rendition="TextRegion" xml:id="facs_11_tr_2">
+            <zone points="250,472 492,495 548,479 612,502 666,484 867,495 867,423 785,421 737,451 709,423 666,451 569,423 543,449 464,451 428,418 326,444 293,416 250,444" rendition="Line" xml:id="facs_11_tr_2_tl_2"/>
+            <zone points="497,648 2178,686 2178,622 497,594" rendition="Line" xml:id="facs_11_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="247,734 2104,778 2076,706 247,696" rendition="Line" xml:id="facs_11_tr_2_tl_4"/>
+            <zone points="245,816 1520,834 1382,778 245,775" rendition="Line" xml:id="facs_11_tr_2_tl_5"/>
+            <zone points="500,910 2193,933 2190,875 497,852" rendition="Line" xml:id="facs_11_tr_2_tl_6" subtype="paragraph"/>
+            <zone points="242,982 2165,1015 2165,964 1777,941 1635,972 242,933" rendition="Line" xml:id="facs_11_tr_2_tl_7"/>
+            <zone points="237,1066 2282,1107 2282,1053 1772,1061 1698,1025 237,1038" rendition="Line" xml:id="facs_11_tr_2_tl_8"/>
+            <zone points="232,1150 451,1148 564,1206 1063,1158 2162,1186 2119,1119 232,1119" rendition="Line" xml:id="facs_11_tr_2_tl_9"/>
+            <zone points="229,1229 418,1285 1242,1244 2116,1267 2116,1216 1992,1198 1910,1232 1390,1191 1125,1216 1043,1173 870,1216 558,1204 464,1160 367,1204 229,1188" rendition="Line" xml:id="facs_11_tr_2_tl_10"/>
+            <zone points="245,1339 2066,1352 2066,1303 1918,1285 245,1283" rendition="Line" xml:id="facs_11_tr_2_tl_11"/>
+            <zone points="227,1410 2157,1438 2155,1385 1984,1369 1887,1400 1762,1367 903,1385 857,1352 227,1374" rendition="Line" xml:id="facs_11_tr_2_tl_12"/>
+            <zone points="227,1492 1561,1499 1928,1517 1984,1556 2216,1522 2213,1471 1770,1448 227,1441" rendition="Line" xml:id="facs_11_tr_2_tl_13"/>
+            <zone points="222,1573 1344,1586 1255,1540 1066,1558 880,1517 762,1548 222,1530" rendition="Line" xml:id="facs_11_tr_2_tl_14"/>
+            <zone points="469,1660 2333,1708 2400,1655 467,1604" rendition="Line" xml:id="facs_11_tr_2_tl_15" subtype="paragraph"/>
+            <zone points="214,1747 2147,1826 2254,1775 2213,1714 2032,1739 1933,1703 1861,1737 1793,1703 1655,1734 214,1696" rendition="Line" xml:id="facs_11_tr_2_tl_16"/>
+            <zone points="217,1823 2088,1856 2088,1810 1951,1795 217,1795" rendition="Line" xml:id="facs_11_tr_2_tl_17"/>
+            <zone points="217,1918 2083,1958 2165,1941 2165,1900 214,1864" rendition="Line" xml:id="facs_11_tr_2_tl_18"/>
+            <zone points="212,1992 2071,2035 2071,1974 1767,1953 1724,1986 589,1935 212,1963" rendition="Line" xml:id="facs_11_tr_2_tl_19"/>
+            <zone points="207,2078 2076,2101 1992,2048 207,2045" rendition="Line" xml:id="facs_11_tr_2_tl_20"/>
+            <zone points="451,2241 1686,2267 1747,2300 2221,2275 2221,2236 2109,2206 1810,2231 1742,2173 1568,2229 678,2180 451,2211" rendition="Line" xml:id="facs_11_tr_2_tl_21" subtype="paragraph"/>
+            <zone points="204,2326 2236,2372 2236,2313 1737,2287 1591,2318 1456,2280 1275,2315 204,2295" rendition="Line" xml:id="facs_11_tr_2_tl_22"/>
+            <zone points="199,2412 342,2410 451,2433 604,2407 681,2438 727,2405 727,2366 663,2387 523,2359 426,2372 403,2356 270,2384 227,2356 199,2369" rendition="Line" xml:id="facs_11_tr_2_tl_23"/>
+            <zone points="439,2494 2188,2532 2185,2489 1895,2463 439,2463" rendition="Line" xml:id="facs_11_tr_2_tl_24" subtype="paragraph"/>
+            <zone points="199,2586 1081,2588 1168,2629 1512,2598 1568,2637 1759,2598 2142,2614 2139,2570 2050,2553 199,2522" rendition="Line" xml:id="facs_11_tr_2_tl_25"/>
+            <zone points="189,2667 329,2700 801,2670 921,2726 1224,2726 1272,2678 1749,2685 1953,2749 2137,2713 2137,2632 189,2634" rendition="Line" xml:id="facs_11_tr_2_tl_26"/>
+            <zone points="191,2767 1316,2818 2076,2800 2076,2736 1989,2721 191,2711" rendition="Line" xml:id="facs_11_tr_2_tl_27"/>
+            <zone points="191,2853 265,2887 867,2851 954,2887 2168,2884 2165,2820 2007,2802 1759,2833 1675,2800 191,2792" rendition="Line" xml:id="facs_11_tr_2_tl_28"/>
+            <zone points="186,2945 2111,2963 2109,2917 1997,2892 1288,2912 186,2861" rendition="Line" xml:id="facs_11_tr_2_tl_29"/>
+            <zone points="181,3004 2030,3065 2027,2986 1976,2971 1668,3001 181,2948" rendition="Line" xml:id="facs_11_tr_2_tl_30"/>
+            <zone points="186,3119 469,3142 523,3088 2045,3119 2045,3070 1836,3057 186,3047" rendition="Line" xml:id="facs_11_tr_2_tl_31"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0011.jpg" n="part1_p011.jpg" xml:id="img_0011" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p011.jpg"/>
+            
+            <ab facs="#facs_11_r">
+               <lb facs="#facs_11_l" n="N001"/>[8]
+            </ab>
+            <ab facs="#facs_11_tr_2">
+               <lb facs="#facs_11_tr_2_tl_2" n="N001"/>II -- Thurs., Sept. 29, 1955
+               <lb facs="#facs_11_tr_2_tl_3" n="N002"/>I suppose that some of you didn’t make it last Thursday, so for their benefit
+               <lb facs="#facs_11_tr_2_tl_4" n="N003"/>I want to repeat some of the technical arrangements of these lectures. ... I want to
+               <lb facs="#facs_11_tr_2_tl_5" n="N004"/>review briefly the main line of thought of the first lecture.
+               <lb facs="#facs_11_tr_2_tl_6" n="N005"/>I said that the two subjects, religion and culture, are very large ones and must
+               <lb facs="#facs_11_tr_2_tl_7" n="N006"/>be limited to those points in which all the different cultural functions become religiously
+               <lb facs="#facs_11_tr_2_tl_8" n="N007"/>relevant. In order to make this understandable, we have to discuss first the meaning of culture,
+               <lb facs="#facs_11_tr_2_tl_9" n="N008"/>and then the meaning of religion, and on this basis, relate them to each other during the
+               <lb facs="#facs_11_tr_2_tl_10" n="N009"/>lectures of this and the next semester. By the way, this brings me to another technical
+               <lb facs="#facs_11_tr_2_tl_11" n="N010"/>problem. I have been asked whether it is possible to take this [course] only for one
+               <lb facs="#facs_11_tr_2_tl_12" n="N011"/>semester, either for this or the next semester. I believe there is no difficulty of doing so
+               <lb facs="#facs_11_tr_2_tl_13" n="N012"/>because this semester will mainly deal with a special group of cultural functions, in contrast
+               <lb facs="#facs_11_tr_2_tl_14" n="N013"/>to those with which we will deal next semester.
+               <lb facs="#facs_11_tr_2_tl_15" n="N014"/>The organization of the lectures is identical with the organization of culture. Perhaps you
+               <lb facs="#facs_11_tr_2_tl_16" n="N015"/>remember that I defined <rs type="keyword" ref="#Culture">culture</rs> as the creative encounter between a subject and its object, in
+               <lb facs="#facs_11_tr_2_tl_17" n="N016"/>which something is produced which has the power of independent being--which has an
+               <lb facs="#facs_11_tr_2_tl_18" n="N017"/>independent power of being. Now to this I got a typed question, and I think a very good
+               <lb facs="#facs_11_tr_2_tl_19" n="N018"/>example. Please don’t hesitate to do that, from lecture to lecture--or, if vou are very
+               <lb facs="#facs_11_tr_2_tl_20" n="N019"/>courageous... raise your finger... (which really should not take much courage!)...
+               <lb facs="#facs_11_tr_2_tl_21" n="N020"/>QUESTION: When you explained that creativity is involved whenever you have an
+               <lb facs="#facs_11_tr_2_tl_22" n="N021"/>object capable of exising in an independent way, what did you mean by ''capable of existing
+               <lb facs="#facs_11_tr_2_tl_23" n="N022"/>in an independent way"?
+               <lb facs="#facs_11_tr_2_tl_24" n="N023"/>Dr. TILLICH: Now this is a very good and certainly a very necessary question.
+               <lb facs="#facs_11_tr_2_tl_25" n="N024"/>The idea was the following. If we have the subject (who is a poet, let us say), and have
+               <lb facs="#facs_11_tr_2_tl_26" n="N025"/>the English language (which is the material object this poet encounters), then in a cultural
+               <lb facs="#facs_11_tr_2_tl_27" n="N026"/>creativity he is able to make, out of this object, something new which is neither he alone
+               <lb facs="#facs_11_tr_2_tl_28" n="N027"/>nor the English language alone, but is something new created out of the encounter between
+               <lb facs="#facs_11_tr_2_tl_29" n="N028"/>him as subject, and the English language as object. And this encounter produces a poem.
+               <lb facs="#facs_11_tr_2_tl_30" n="N029"/>Now all of you have made poems, in their life, but not all of these poems have the
+               <lb facs="#facs_11_tr_2_tl_31" n="N030"/>power-of-being! [laughter] and a cultural creation in the realm of poetry is a poem
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

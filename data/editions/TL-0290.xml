@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p006</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p006</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_6">
+         <graphic url="TL-0290.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GRSHSUGJYFJPIGDBTRGFDQIE&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="35,45 2152,45 2152,819 35,819" rendition="TextRegion" xml:id="facs_6_tr_3">
+            <zone points="1073,330 1086,330 1106,348 1199,346 1196,284 1135,287 1119,274 1106,287 1071,287" rendition="Line" xml:id="facs_6_tr_3_tl_2"/>
+            <zone points="182,548 2128,479 2128,425 389,466 325,417 182,479" rendition="Line" xml:id="facs_6_tr_3_tl_4"/>
+            <zone points="884,643 1926,638 2085,625 2085,584 884,597" rendition="Line" xml:id="facs_6_tr_3_tl_5"/>
+            <zone points="238,814 574,868 848,802 2144,773 2146,704 238,781" rendition="Line" xml:id="facs_6_tr_3_tl_7"/>
+         </zone>
+         <zone points="253,863 2248,863 2248,2177 253,2177" rendition="TextRegion" xml:id="facs_6_tr_2">
+            <zone points="238,963 1680,966 2100,922 2103,866 241,914" rendition="Line" xml:id="facs_6_tr_2_tl_1"/>
+            <zone points="248,1127 2134,1078 2075,1009 251,1055" rendition="Line" xml:id="facs_6_tr_2_tl_2"/>
+            <zone points="241,1263 2077,1232 2136,1181 243,1229" rendition="Line" xml:id="facs_6_tr_2_tl_3"/>
+            <zone points="251,1416 2241,1383 2244,1311 254,1383" rendition="Line" xml:id="facs_6_tr_2_tl_4"/>
+            <zone points="248,1562 2064,1537 2105,1468 248,1537" rendition="Line" xml:id="facs_6_tr_2_tl_5"/>
+            <zone points="246,1713 2093,1701 2141,1616 246,1683" rendition="Line" xml:id="facs_6_tr_2_tl_6"/>
+            <zone points="248,1870 2182,1829 2185,1765 248,1813" rendition="Line" xml:id="facs_6_tr_2_tl_7"/>
+            <zone points="248,2029 2080,1990 2082,1929 248,1993" rendition="Line" xml:id="facs_6_tr_2_tl_8"/>
+            <zone points="251,2169 1626,2154 1900,2100 251,2121" rendition="Line" xml:id="facs_6_tr_2_tl_9"/>
+         </zone>
+         <zone points="48,2221 2319,2221 2319,3479 48,3479" rendition="TextRegion" xml:id="facs_6_tr_1">
+            <zone points="456,2315 702,2369 1086,2305 1183,2372 1365,2372 1534,2292 2280,2285 2280,2221 1503,2233 1429,2190 1342,2239 1278,2185 858,2274 458,2256" rendition="Line" xml:id="facs_6_tr_1_tl_1" subtype="paragraph"/>
+            <zone points="251,2472 1086,2500 1194,2446 2305,2431 2308,2385 251,2438" rendition="Line" xml:id="facs_6_tr_1_tl_2"/>
+            <zone points="259,2625 2200,2587 2200,2523 259,2589" rendition="Line" xml:id="facs_6_tr_1_tl_3"/>
+            <zone points="254,2774 1619,2738 1824,2784 2297,2733 2318,2659 256,2743" rendition="Line" xml:id="facs_6_tr_1_tl_4"/>
+            <zone points="254,2922 1998,2894 2059,2828 254,2892" rendition="Line" xml:id="facs_6_tr_1_tl_5"/>
+            <zone points="259,3079 2221,3038 2223,2968 259,3045" rendition="Line" xml:id="facs_6_tr_1_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0290.jpg" n="part2_p006.jpg" xml:id="img_0006" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p006.jpg"/>
+            
+            <ab facs="#facs_6_tr_3">
+               <lb facs="#facs_6_tr_3_tl_2" n="N001"/>[286]
+               <lb facs="#facs_6_tr_3_tl_4" n="N002"/>with that which makes man man, namely with the power of language. Our first discussion dealt
+               <lb facs="#facs_6_tr_3_tl_5" n="N003"/>with religion and language, with the distinction of ordinary language which grasps finite
+               <lb facs="#facs_6_tr_3_tl_7" n="N004"/>reality, and symbolic language in which ultimate concern expresses itself. We tried to show WHY
+            </ab>
+            <ab facs="#facs_6_tr_2">
+               <lb facs="#facs_6_tr_2_tl_1" n="N001"/>language makes man man, namely because language moves in universals, and universals liberate
+               <lb facs="#facs_6_tr_2_tl_2" n="N002"/>from the given situation to which all other beings are subjected. Being in bondage of their given
+               <lb facs="#facs_6_tr_2_tl_3" n="N003"/>nature means being subject to the concrete situation, and the problem of the concrete situation
+               <lb facs="#facs_6_tr_2_tl_4" n="N004"/>with which plants as well as animals have to deal all their lives. Man is able, in the power of language,
+               <lb facs="#facs_6_tr_2_tl_5" n="N005"/>to transcend the given situation, to abstract or universalize (therefore the terms "abstractions"
+               <lb facs="#facs_6_tr_2_tl_6" n="N006"/>or "universals") from the given situation, and in this way to overcome the bondage to it. Man's
+               <lb facs="#facs_6_tr_2_tl_7" n="N007"/>freedom is a function of his language, and man's language is a function of his freedom. Therefore
+               <lb facs="#facs_6_tr_2_tl_8" n="N008"/>you can never teach a NON-human being language, because you cannot transform him, or it,
+               <lb facs="#facs_6_tr_2_tl_9" n="N009"/>into something which has the nature of freedom. This was our first consideration.
+            </ab>
+            <ab facs="#facs_6_tr_1">
+               <lb facs="#facs_6_tr_1_tl_1" n="N001"/>The second consideration dealt with the first way in which man transcends the given reality,
+               <lb facs="#facs_6_tr_1_tl_2" n="N002"/>as what is traditionally called <hi style="font-style: italic;">homo faber</hi>, man who fabricates, man who produces tools and transforms
+               <lb facs="#facs_6_tr_1_tl_3" n="N003"/>the given reality with the help of tools into another reality, into the reality of the technical realm,
+               <lb facs="#facs_6_tr_1_tl_4" n="N004"/>the realm which is now the dominant realm of most of our daily life. Then we discussed the relationship
+               <lb facs="#facs_6_tr_1_tl_5" n="N005"/>of religion to the technical realm, what it does for us and in how far it is dangerous for the
+               <lb facs="#facs_6_tr_1_tl_6" n="N006"/>question of ultimacy, because it produces means and hides ends. The question of ultimate concern
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

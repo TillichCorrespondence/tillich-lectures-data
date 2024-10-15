@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p014</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p014</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_14">
+         <graphic url="TL-0014.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YDXEZTVLKNWKBZAINSWAUFLH&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="169,573 157,3297 2384,3256 2360,573" rendition="TextRegion" xml:id="facs_14_tr_2">
+            <zone points="1194,314 1208,314 1234,327 1255,324 1260,329 1286,329 1289,256 1265,259 1257,254 1234,264 1223,274 1208,261 1194,261" rendition="Line" xml:id="facs_14_tr_2_tl_1"/>
+            <zone points="254,661 405,708 2237,677 2237,612 2081,578 2000,612 1952,578 1613,614 1498,578 672,625 405,580 254,625" rendition="Line" xml:id="facs_14_tr_2_tl_2"/>
+            <zone points="267,755 2172,745 2172,693 2065,674 1200,714 267,690" rendition="Line" xml:id="facs_14_tr_2_tl_3"/>
+            <zone points="259,839 2167,836 2146,742 1762,776 1581,742 1276,789 996,753 259,774" rendition="Line" xml:id="facs_14_tr_2_tl_4"/>
+            <zone points="256,917 403,957 766,915 829,951 1592,912 2175,949 2177,860 2109,839 1247,878 983,836 813,873 259,857" rendition="Line" xml:id="facs_14_tr_2_tl_5"/>
+            <zone points="259,1030 870,1046 1176,991 2086,988 2086,933 259,946" rendition="Line" xml:id="facs_14_tr_2_tl_6"/>
+            <zone points="261,1095 2274,1093 2277,1014 2143,1001 264,1030" rendition="Line" xml:id="facs_14_tr_2_tl_7"/>
+            <zone points="259,1171 350,1192 376,1171 619,1189 651,1168 1043,1187 1043,1108 259,1119" rendition="Line" xml:id="facs_14_tr_2_tl_8"/>
+            <zone points="515,1268 2088,1242 2088,1153 1843,1119 1777,1163 1602,1140 1388,1187 515,1192" rendition="Line" xml:id="facs_14_tr_2_tl_9" subtype="paragraph"/>
+            <zone points="259,1364 2256,1323 2256,1270 2062,1291 1992,1249 1903,1286 1424,1249 259,1283" rendition="Line" xml:id="facs_14_tr_2_tl_10"/>
+            <zone points="261,1461 1059,1456 1116,1411 1260,1448 1947,1443 2099,1404 2206,1438 2206,1351 2044,1364 1950,1320 1814,1367 261,1364" rendition="Line" xml:id="facs_14_tr_2_tl_11"/>
+            <zone points="259,1508 1019,1545 1184,1500 2232,1490 2232,1430 259,1461" rendition="Line" xml:id="facs_14_tr_2_tl_12"/>
+            <zone points="267,1592 2185,1587 2185,1521 1952,1506 267,1539" rendition="Line" xml:id="facs_14_tr_2_tl_13"/>
+            <zone points="261,1683 2214,1660 2214,1613 2067,1594 1103,1628 1012,1584 813,1626 261,1594" rendition="Line" xml:id="facs_14_tr_2_tl_14"/>
+            <zone points="269,1796 1200,1743 2182,1762 2182,1670 2039,1662 1649,1704 1325,1668 1147,1715 1087,1678 1032,1712 269,1702" rendition="Line" xml:id="facs_14_tr_2_tl_15"/>
+            <zone points="269,1858 2167,1835 2169,1746 2115,1780 1918,1743 1490,1783 1448,1746 1257,1798 1077,1764 491,1798 431,1764 272,1801" rendition="Line" xml:id="facs_14_tr_2_tl_16"/>
+            <zone points="269,1929 431,1963 567,1926 2190,1924 2167,1824 1085,1877 936,1840 269,1858" rendition="Line" xml:id="facs_14_tr_2_tl_17"/>
+            <zone points="259,2020 2360,2020 2360,1932 2250,1924 1866,1958 1806,1924 1137,1921 450,1971 259,1939" rendition="Line" xml:id="facs_14_tr_2_tl_18"/>
+            <zone points="272,2107 734,2130 1137,2088 1223,2128 1485,2081 1675,2112 2164,2081 2164,2031 1916,2002 272,2036" rendition="Line" xml:id="facs_14_tr_2_tl_19"/>
+            <zone points="261,2180 643,2175 724,2211 907,2169 1600,2211 2062,2182 2222,2216 2201,2070 1223,2128 264,2109" rendition="Line" xml:id="facs_14_tr_2_tl_20"/>
+            <zone points="261,2290 536,2253 2143,2261 2143,2206 2075,2182 1879,2214 863,2177 740,2214 261,2180" rendition="Line" xml:id="facs_14_tr_2_tl_21"/>
+            <zone points="259,2355 1161,2368 1359,2334 1529,2371 1702,2337 1903,2373 2073,2339 2211,2371 2185,2243 2070,2290 1890,2248 259,2290" rendition="Line" xml:id="facs_14_tr_2_tl_22"/>
+            <zone points="259,2433 2232,2420 2232,2368 1874,2347 259,2381" rendition="Line" xml:id="facs_14_tr_2_tl_23"/>
+            <zone points="267,2517 2190,2530 2190,2418 2112,2407 1966,2446 1649,2415 1495,2452 1377,2420 267,2457" rendition="Line" xml:id="facs_14_tr_2_tl_24"/>
+            <zone points="259,2611 1675,2614 1738,2580 1848,2622 2230,2580 2203,2535 1584,2509 259,2535" rendition="Line" xml:id="facs_14_tr_2_tl_25"/>
+            <zone points="259,2708 2101,2690 2101,2611 2052,2593 259,2627" rendition="Line" xml:id="facs_14_tr_2_tl_26"/>
+            <zone points="259,2768 2190,2773 2193,2661 2062,2703 259,2710" rendition="Line" xml:id="facs_14_tr_2_tl_27"/>
+            <zone points="261,2867 2167,2852 2167,2789 2044,2768 261,2786" rendition="Line" xml:id="facs_14_tr_2_tl_28"/>
+            <zone points="261,2948 2104,2946 2104,2873 1926,2846 261,2886" rendition="Line" xml:id="facs_14_tr_2_tl_29"/>
+            <zone points="267,3027 321,3027 371,3061 421,3035 478,3061 528,3021 604,3019 651,3045 748,3032 748,2961 651,2964 554,2940 376,2980 267,2961" rendition="Line" xml:id="facs_14_tr_2_tl_30"/>
+            <zone points="510,3108 2149,3092 2120,3011 1960,3042 1819,2998 1770,3042 510,3021" rendition="Line" xml:id="facs_14_tr_2_tl_31" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0014.jpg" n="part1_p014.jpg" xml:id="img_0014" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p014.jpg"/>
+            
+            <ab facs="#facs_14_tr_2">
+               <lb facs="#facs_14_tr_2_tl_1" n="N001"/>[11]
+               <lb facs="#facs_14_tr_2_tl_2" n="N002"/>starts [sic.] with the theoretical or cognitive function, but with language and the technical function.
+               <lb facs="#facs_14_tr_2_tl_3" n="N003"/>The reasons for this is that man is not first of all somebody who LOOKS at reality, who
+               <lb facs="#facs_14_tr_2_tl_4" n="N004"/>contemplates reality, and then makes signs out of it, but man is first of all a being who
+               <lb facs="#facs_14_tr_2_tl_5" n="N005"/>usess [sic.] tools for ends. <rs type="keyword" ref="#Technical_Function">The technical function is, so to speak, metaphysically older than the
+               <lb break="no" facs="#facs_14_tr_2_tl_6" n="N006"/>theoretical or cognitive function</rs>. Therefore the existentialist philosopher <rs type="person" key="Heidegger, Martin">Heidegger</rs> has
+               <lb facs="#facs_14_tr_2_tl_7" n="N007"/>rightly emphasized that man meets reality first in terms of tools, of things FOR SOMETHING,
+               <lb facs="#facs_14_tr_2_tl_8" n="N008"/>but not as objects of contemplation.
+               <lb facs="#facs_14_tr_2_tl_9" n="N009"/>But of course, the moment in which you make tools, you must have the
+               <lb facs="#facs_14_tr_2_tl_10" n="N010"/>participation of the material which you deal with, and of the ends which you want to reach.
+               <lb facs="#facs_14_tr_2_tl_11" n="N011"/>And so, the cognitive element develops. <rs type="keyword" ref="#Cognitive_Function">Here we come to the cognitive function (or, in a
+               <lb break="no" facs="#facs_14_tr_2_tl_12" n="N012"/>more larger sense, participative function) of human culture. In order to use reality, we must
+               <lb break="no" facs="#facs_14_tr_2_tl_13" n="N013"/>discover the behavior of reality. So the cognitive function is connected with the technical,
+               <lb break="no" facs="#facs_14_tr_2_tl_14" n="N014"/>and both together are always at work, as we know it from our own experience. They are
+               <lb break="no" facs="#facs_14_tr_2_tl_15" n="N015"/>partly dependent and partly independent of each other.</rs> The greatest advances in technical
+               <lb facs="#facs_14_tr_2_tl_16" n="N016"/>power have been made by pure cognition, by pure theory, and it is a right complaint of
+               <lb facs="#facs_14_tr_2_tl_17" n="N017"/>many educators in this country, in the technical sciences, that one goes much too quickly
+               <lb facs="#facs_14_tr_2_tl_18" n="N018"/>to the applied science before developing, independently, without asking the question, "For what?",
+               <lb facs="#facs_14_tr_2_tl_19" n="N019"/>pure scientific knowledge. This is another function which we must keep clear, in spite of
+               <lb facs="#facs_14_tr_2_tl_20" n="N020"/>the pragmatic interdependence with techniques. This function is based on the <hi style="font-style: italic;">eros</hi>, the love,
+               <lb facs="#facs_14_tr_2_tl_21" n="N021"/>towards knowing, even if it is not connected with practical purposes. So in spite of my
+               <lb facs="#facs_14_tr_2_tl_22" n="N022"/>emphasis on techniques, I must also emphasize the comparative independence of the will-to-
+               <lb facs="#facs_14_tr_2_tl_23" n="N023"/>knowledge from any special application of this knowledge. And those of you who in some
+               <lb facs="#facs_14_tr_2_tl_24" n="N024"/>way or other have to do with technical things, in any realm--not only physical techniques
+               <lb facs="#facs_14_tr_2_tl_25" n="N025"/>but also psychological and biological--don't forget what I said today, namely that the more
+               <lb facs="#facs_14_tr_2_tl_26" n="N026"/>science works first of all independent[ly], driven by pure eros, in the Platonic sense-
+               <lb facs="#facs_14_tr_2_tl_27" n="N027"/>by the pure love of knowledge--the more it can be applied later on to technical purposes.
+               <lb facs="#facs_14_tr_2_tl_28" n="N028"/>But if from the very beginning... it asks "How can that be used?"--which means, in a
+               <lb facs="#facs_14_tr_2_tl_29" n="N029"/>deteriorized form, "How can the factory make money out of it?"--then never a great
+               <lb facs="#facs_14_tr_2_tl_30" n="N030"/>discovery will happen.
+               <lb facs="#facs_14_tr_2_tl_31" n="N031"/>There are realms of cognition which are completely independent of technical
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

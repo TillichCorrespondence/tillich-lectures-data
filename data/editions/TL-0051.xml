@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p051</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p051</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_51">
+         <graphic url="TL-0051.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YUXFWTCPJDWQATONTAZKUHTU&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="256,257 256,2999 2251,2999 2251,257" rendition="TextRegion" xml:id="facs_51_tr_2">
+            <zone points="1174,298 1186,298 1196,308 1208,308 1218,318 1221,315 1233,318 1238,313 1243,318 1275,318 1275,258 1263,258 1255,266 1236,249 1218,268 1174,266" rendition="Line" xml:id="facs_51_tr_2_tl_1"/>
+            <zone points="288,509 1110,507 1110,433 793,468 687,438 598,460 569,431 529,460 492,433 288,441" rendition="Line" xml:id="facs_51_tr_2_tl_3" subtype="heading"/>
+            <zone points="578,623 1132,628 1208,667 2090,628 2090,586 1971,561 578,569" rendition="Line" xml:id="facs_51_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="288,726 822,711 950,758 2070,709 2070,662 2003,652 288,672" rendition="Line" xml:id="facs_51_tr_2_tl_5"/>
+            <zone points="281,797 1186,785 1297,839 1853,793 2124,829 2188,793 2188,746 2058,719 281,765" rendition="Line" xml:id="facs_51_tr_2_tl_6"/>
+            <zone points="278,876 1208,879 1405,925 1747,874 2117,886 2117,829 2065,822 278,834" rendition="Line" xml:id="facs_51_tr_2_tl_7"/>
+            <zone points="276,960 337,999 2161,962 2161,903 2109,901 276,923" rendition="Line" xml:id="facs_51_tr_2_tl_8"/>
+            <zone points="273,1046 630,1051 672,1093 1578,1034 1743,1041 1797,1093 2031,1093 2109,1046 2109,999 2023,985 273,1004" rendition="Line" xml:id="facs_51_tr_2_tl_9"/>
+            <zone points="278,1140 480,1186 1809,1137 1809,1093 1698,1076 278,1090" rendition="Line" xml:id="facs_51_tr_2_tl_10"/>
+            <zone points="571,1292 1076,1292 1233,1339 1578,1292 2193,1302 2161,1238 807,1265 571,1233" rendition="Line" xml:id="facs_51_tr_2_tl_11" subtype="paragraph"/>
+            <zone points="276,1378 2107,1393 2107,1339 2048,1324 276,1329" rendition="Line" xml:id="facs_51_tr_2_tl_12"/>
+            <zone points="276,1474 2181,1467 2181,1405 276,1425" rendition="Line" xml:id="facs_51_tr_2_tl_13"/>
+            <zone points="273,1551 837,1597 1312,1588 1408,1541 2129,1551 2102,1489 273,1516" rendition="Line" xml:id="facs_51_tr_2_tl_14"/>
+            <zone points="276,1637 2139,1647 2114,1580 276,1600" rendition="Line" xml:id="facs_51_tr_2_tl_15"/>
+            <zone points="273,1725 2154,1725 2154,1661 273,1679" rendition="Line" xml:id="facs_51_tr_2_tl_16"/>
+            <zone points="268,1807 2166,1814 2134,1743 268,1760" rendition="Line" xml:id="facs_51_tr_2_tl_17"/>
+            <zone points="276,1890 2136,1885 2136,1826 276,1846" rendition="Line" xml:id="facs_51_tr_2_tl_18"/>
+            <zone points="276,1974 2085,1971 2040,1912 276,1930" rendition="Line" xml:id="facs_51_tr_2_tl_19"/>
+            <zone points="266,2055 372,2060 386,2050 396,2060 573,2063 573,2016 480,2016 473,2008 463,2016 404,2008 394,2016 266,2016" rendition="Line" xml:id="facs_51_tr_2_tl_20"/>
+            <zone points="569,2146 1127,2129 1248,2181 1551,2171 1632,2131 2141,2141 2144,2077 571,2085" rendition="Line" xml:id="facs_51_tr_2_tl_21" subtype="paragraph"/>
+            <zone points="244,2210 2161,2220 2161,2176 2065,2163 244,2186" rendition="Line" xml:id="facs_51_tr_2_tl_22"/>
+            <zone points="268,2311 2247,2309 2203,2245 268,2264" rendition="Line" xml:id="facs_51_tr_2_tl_23"/>
+            <zone points="266,2390 2023,2390 2023,2343 1971,2331 266,2346" rendition="Line" xml:id="facs_51_tr_2_tl_24"/>
+            <zone points="268,2478 2038,2476 2038,2427 1954,2414 268,2437" rendition="Line" xml:id="facs_51_tr_2_tl_25"/>
+            <zone points="288,2562 928,2597 1243,2557 1373,2597 2131,2557 2102,2498 1866,2530 288,2503" rendition="Line" xml:id="facs_51_tr_2_tl_26"/>
+            <zone points="266,2651 896,2641 1186,2690 2208,2646 2171,2579 266,2606" rendition="Line" xml:id="facs_51_tr_2_tl_27"/>
+            <zone points="916,2722 2218,2722 2218,2678 2163,2668 916,2695" rendition="Line" xml:id="facs_51_tr_2_tl_28"/>
+            <zone points="266,2818 1423,2806 2134,2850 2134,2762 266,2769" rendition="Line" xml:id="facs_51_tr_2_tl_30"/>
+            <zone points="263,2912 551,2946 2082,2892 2055,2840 263,2862" rendition="Line" xml:id="facs_51_tr_2_tl_31"/>
+            <zone points="263,2988 2198,2978 2198,2934 1957,2919 1691,2954 263,2946" rendition="Line" xml:id="facs_51_tr_2_tl_32"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0051.jpg" n="part1_p051.jpg" xml:id="img_0051" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p051.jpg"/>
+            
+            <ab facs="#facs_51_tr_2">
+               <lb facs="#facs_51_tr_2_tl_1" n="N001"/>[48]
+               <lb facs="#facs_51_tr_2_tl_3" n="N002"/>LECTURE VI -- Tues., Oct. 18, 1955
+               <lb facs="#facs_51_tr_2_tl_4" n="N003"/>Last Thursday we discussed the general nature of symbols in order to
+               <lb facs="#facs_51_tr_2_tl_5" n="N004"/>prepare our discussion of the special character of the <religious_language>religious language</religious_language>. I<rs type="keyword" ref="#Symbols"> said that
+               <lb break="no" facs="#facs_51_tr_2_tl_6" n="N005"/>symbols have the following characteristics: they point beyond themselves; they participate
+               <lb break="no" facs="#facs_51_tr_2_tl_7" n="N006"/>in the power of that to which they point; they are irreplaceable; they grow and die;
+               <lb break="no" facs="#facs_51_tr_2_tl_8" n="N007"/>they have revealing power and have the power to open up the soul for what is revealed
+               <lb break="no" facs="#facs_51_tr_2_tl_9" n="N008"/>to it; they have healing power, in the sense that they make us able to find in those
+               <lb break="no" facs="#facs_51_tr_2_tl_10" n="N009"/>levels which they reveal, the power of the reunion of our whole being.</rs>
+               <lb facs="#facs_51_tr_2_tl_11" n="N010"/>I was asked about the word ''faith-healing'' in connection with this remark.
+               <lb facs="#facs_51_tr_2_tl_12" n="N011"/>This is a very unfortunate term because it is really a healing by magic concentration,
+               <lb facs="#facs_51_tr_2_tl_13" n="N012"/>either by somebody else upon the patient, or by the patient upon himself. Now in both
+               <lb facs="#facs_51_tr_2_tl_14" n="N013"/>cases it is a confusion of magic power and faith, so we shouldn't use the term ''faith''
+               <lb facs="#facs_51_tr_2_tl_15" n="N014"/>for this at all. The combination of faith and healing has some quite different meaning,
+               <lb facs="#facs_51_tr_2_tl_16" n="N015"/>namely that IF a human being is in the state of being ultimately concerned, then ALL
+               <lb facs="#facs_51_tr_2_tl_17" n="N016"/>the elements of his nature are in some way united in this central act of the personality
+               <lb facs="#facs_51_tr_2_tl_18" n="N017"/>which we call ''faith.'' But I cannot go into this now. I will come to it in a very full
+               <lb facs="#facs_51_tr_2_tl_19" n="N018"/>way in the section on personality development and religion--probably not before the
+               <lb facs="#facs_51_tr_2_tl_20" n="N019"/>next semester.
+               <lb facs="#facs_51_tr_2_tl_21" n="N020"/>But today I have to deal with the application of this characterization of
+               <lb facs="#facs_51_tr_2_tl_22" n="N021"/>symbols generally, to religious symbols. Nothing which belongs to the realm of ultimate
+               <lb facs="#facs_51_tr_2_tl_23" n="N022"/>concern can be expressed in any other way than a symbolic way. Now you may ask, ''Why
+               <lb facs="#facs_51_tr_2_tl_24" n="N023"/>is this so? Are there not things which are of ultimate concern and which can be
+               <lb facs="#facs_51_tr_2_tl_25" n="N024"/>described in the ordinary proper sense of the word? For instance, if 'nation' or
+               <lb facs="#facs_51_tr_2_tl_26" n="N025"/>'success' have, in an idolatrous way, become matters of ultimate concern, then is this
+               <lb facs="#facs_51_tr_2_tl_27" n="N026"/>not a NON-symbolic kind of speaking? Success, nation, money: why do we need symbolic
+               <lb facs="#facs_51_tr_2_tl_28" n="N027"/>language for these things?''--This is a very interesting question, and a keen observation
+               <lb facs="#facs_51_tr_2_tl_30" n="N028"/>of the situation easily gives the answer. Even in such cases, that which IS a matter of
+               <lb facs="#facs_51_tr_2_tl_31" n="N029"/>unconditional concern is made into a god. If, for instance, the nation is somebody's
+               <lb facs="#facs_51_tr_2_tl_32" n="N030"/>ultimate concern, the name of the nation becomes a sacred name, and the nation receives
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

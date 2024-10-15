@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p236</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p236</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_236">
+         <graphic url="TL-0236.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PVIOOZAYMDNXDPKXGWBNVDCC&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="32,240 32,3488 2367,3488 2367,240" rendition="TextRegion" xml:id="facs_236_tr_1">
+            <zone points="1111,310 1124,307 1137,318 1163,320 1174,328 1189,323 1228,325 1226,250 1200,250 1187,265 1176,265 1158,247 1137,268 1109,271" rendition="Line" xml:id="facs_236_tr_1_tl_1"/>
+            <zone points="323,440 2197,500 2197,445 1460,424 1405,370 1319,422 323,390" rendition="Line" xml:id="facs_236_tr_1_tl_2"/>
+            <zone points="320,596 958,622 1038,614 1038,557 809,547 776,570 755,549 599,562 318,536" rendition="Line" xml:id="facs_236_tr_1_tl_3"/>
+            <zone points="487,739 2111,820 2126,760 591,708 484,664" rendition="Line" xml:id="facs_236_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="299,880 2230,966 2303,963 2301,885 1679,898 1431,859 1392,890 1208,846 744,864 297,815" rendition="Line" xml:id="facs_236_tr_1_tl_5"/>
+            <zone points="291,1036 2282,1106 2282,1051 2181,1038 291,1007" rendition="Line" xml:id="facs_236_tr_1_tl_6"/>
+            <zone points="297,1189 578,1202 648,1254 1028,1254 1132,1301 1249,1228 1332,1286 1601,1252 2051,1304 2210,1304 2254,1195 1577,1176 1408,1072 1221,1077 1137,1161 294,1135" rendition="Line" xml:id="facs_236_tr_1_tl_7"/>
+            <zone points="284,1338 393,1411 666,1385 1200,1426 1283,1379 2319,1424 2316,1348 1483,1345 1398,1288 1262,1317 1176,1273 1012,1330 281,1306" rendition="Line" xml:id="facs_236_tr_1_tl_8"/>
+            <zone points="281,1496 893,1512 968,1548 1325,1525 1392,1575 1481,1551 1593,1590 1647,1538 1954,1588 2272,1564 2272,1517 2134,1486 2079,1520 281,1455" rendition="Line" xml:id="facs_236_tr_1_tl_9"/>
+            <zone points="271,1637 2311,1720 2360,1715 2358,1645 268,1608" rendition="Line" xml:id="facs_236_tr_1_tl_10"/>
+            <zone points="265,1791 2233,1861 2233,1817 2157,1791 265,1757" rendition="Line" xml:id="facs_236_tr_1_tl_11"/>
+            <zone points="268,1957 674,1957 864,2020 2267,2014 2264,1967 2186,1944 265,1908" rendition="Line" xml:id="facs_236_tr_1_tl_12"/>
+            <zone points="258,2098 1580,2142 1535,2074 258,2061" rendition="Line" xml:id="facs_236_tr_1_tl_13"/>
+            <zone points="424,2256 2186,2316 2183,2238 1434,2249 1353,2212 695,2225 484,2183 422,2215" rendition="Line" xml:id="facs_236_tr_1_tl_14" subtype="paragraph"/>
+            <zone points="242,2402 1913,2498 1970,2454 2160,2462 2157,2392 239,2360" rendition="Line" xml:id="facs_236_tr_1_tl_15"/>
+            <zone points="242,2548 448,2613 778,2592 1184,2644 1244,2589 1296,2629 2155,2660 2251,2655 2249,2548 239,2511" rendition="Line" xml:id="facs_236_tr_1_tl_16"/>
+            <zone points="229,2712 1624,2821 1819,2748 2053,2759 2053,2696 414,2673 320,2631 229,2668" rendition="Line" xml:id="facs_236_tr_1_tl_17"/>
+            <zone points="226,2845 2191,2917 2191,2871 1994,2842 226,2816" rendition="Line" xml:id="facs_236_tr_1_tl_18"/>
+            <zone points="221,3006 2233,3063 2233,2998 2129,3027 2061,2993 1967,3022 1642,2982 487,2977 440,2943 221,2967" rendition="Line" xml:id="facs_236_tr_1_tl_19"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0236.jpg" n="part1_p236.jpg" xml:id="img_0236" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p236.jpg"/>
+            
+            <ab facs="#facs_236_tr_1">
+               <lb facs="#facs_236_tr_1_tl_1" n="N001"/>[232]
+               <lb facs="#facs_236_tr_1_tl_2" n="N002"/>It is a fact, and it is not a question whether it should be or shouldn't be. Since EVERY culture
+               <lb facs="#facs_236_tr_1_tl_3" n="N003"/>has religious substance, it simply IS.
+               <lb facs="#facs_236_tr_1_tl_4" n="N004"/>The other is the intention to make a <rs type="keyword" ref="#Christian_philosophy">Christian philosophy, </rs>and there we must say
+               <lb facs="#facs_236_tr_1_tl_5" n="N005"/>UNAMBIGUOUSLY: THIS SHOULD NOT BE! But another question arises here. Cannot philosophy
+               <lb facs="#facs_236_tr_1_tl_6" n="N006"/>directly contribute to the <truth_of_faith>theological truth, to the truth of religion? </truth_of_faith>This problem is the very old and
+               <lb facs="#facs_236_tr_1_tl_7" n="N007"/>very important problem of <rs type="keyword" ref="#Naturalism">natural theology. </rs>Natural theology would mean philosophical arguments
+               <lb facs="#facs_236_tr_1_tl_8" n="N008"/>which, as merely philosophical arguments, confirm the <truth_of_faith>truth of faith. </truth_of_faith>The endeavor of natural theology
+               <lb facs="#facs_236_tr_1_tl_9" n="N009"/>has been carried through since the Greeks, the whole Middle Ages, in Protestant Orthodoxy, and even
+               <lb facs="#facs_236_tr_1_tl_10" n="N010"/>in anti-metaphysical liberal theology of the 19th century. Nevertheless, there always was a RESISTANCE
+               <lb facs="#facs_236_tr_1_tl_11" n="N011"/>against it, a feeling that such an enterprise is impossible. The concrete discussion in which these two
+               <lb facs="#facs_236_tr_1_tl_12" n="N012"/>attitudes came up are the so called "arguments" for the so-called "existene" of God. Now with these
+               <lb facs="#facs_236_tr_1_tl_13" n="N013"/>two "so-called's," I have already implied my attitude toward them.
+               <lb facs="#facs_236_tr_1_tl_14" n="N014"/>It is very interesting that in the discussion of these arguments, or a special [one] of them,
+               <lb facs="#facs_236_tr_1_tl_15" n="N015"/>not lower-degreed philosophers, but the very HIGHEST-quality philosophers disagreed; that there
+               <lb facs="#facs_236_tr_1_tl_16" n="N016"/>was always one group fighting for the arguments---including the ontological argument for the existence
+               <lb facs="#facs_236_tr_1_tl_17" n="N017"/>of God---and another group trying to show the impossibility of these arguments. Now I have
+               <lb facs="#facs_236_tr_1_tl_18" n="N018"/>the dogmatic presupposition that the greatest philosophers in the history of human thought---whose
+               <lb facs="#facs_236_tr_1_tl_19" n="N019"/>names are known to all of us---are not less intelligent than we are, and that the one group which works
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

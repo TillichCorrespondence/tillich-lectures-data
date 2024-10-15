@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p281</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p281</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_281">
+         <graphic url="TL-0281.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QUHMDCIFIIMOGWNJECGMUKZJ&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="277,249 277,3473 2277,3473 2277,249" rendition="TextRegion" xml:id="facs_281_tr_1">
+            <zone points="1160,331 1182,333 1189,341 1224,343 1239,333 1244,338 1281,333 1283,257 1246,262 1224,284 1162,284" rendition="Line" xml:id="facs_281_tr_1_tl_1"/>
+            <zone points="286,491 2270,481 2268,427 2038,417 286,449" rendition="Line" xml:id="facs_281_tr_1_tl_2"/>
+            <zone points="286,644 2221,627 2221,570 286,617" rendition="Line" xml:id="facs_281_tr_1_tl_3"/>
+            <zone points="291,804 2270,787 2270,728 2233,725 291,743" rendition="Line" xml:id="facs_281_tr_1_tl_4"/>
+            <zone points="284,938 2169,933 2169,876 2068,873 284,913" rendition="Line" xml:id="facs_281_tr_1_tl_5"/>
+            <zone points="281,1093 975,1101 975,1046 538,1049 493,1029 474,1049 281,1051" rendition="Line" xml:id="facs_281_tr_1_tl_6"/>
+            <zone points="456,1244 2083,1234 2083,1162 1870,1199 1651,1165 1616,1199 1012,1209 962,1172 913,1209 614,1177 456,1212" rendition="Line" xml:id="facs_281_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="269,1394 676,1446 795,1397 2013,1389 2016,1357 735,1325 271,1369" rendition="Line" xml:id="facs_281_tr_1_tl_8"/>
+            <zone points="271,1545 2026,1540 2026,1480 271,1498" rendition="Line" xml:id="facs_281_tr_1_tl_9"/>
+            <zone points="461,1700 2125,1693 2125,1631 461,1648" rendition="Line" xml:id="facs_281_tr_1_tl_10" subtype="paragraph"/>
+            <zone points="279,1860 2095,1836 2095,1784 866,1779 281,1823" rendition="Line" xml:id="facs_281_tr_1_tl_11"/>
+            <zone points="279,2006 2122,1989 2122,1930 279,1952" rendition="Line" xml:id="facs_281_tr_1_tl_12"/>
+            <zone points="276,2176 378,2213 429,2176 1041,2164 1155,2213 1374,2213 1411,2176 2201,2142 2201,2080 1458,2090 1342,2026 1128,2028 1059,2097 276,2102" rendition="Line" xml:id="facs_281_tr_1_tl_13"/>
+            <zone points="269,2322 770,2356 861,2302 1782,2287 1836,2342 2046,2342 2203,2310 2206,2240 269,2273" rendition="Line" xml:id="facs_281_tr_1_tl_14"/>
+            <zone points="269,2450 365,2502 950,2500 987,2465 1029,2502 1253,2500 1485,2440 2154,2445 2157,2396 271,2411" rendition="Line" xml:id="facs_281_tr_1_tl_15"/>
+            <zone points="271,2613 2211,2598 2211,2539 271,2564" rendition="Line" xml:id="facs_281_tr_1_tl_16"/>
+            <zone points="271,2754 2250,2749 2250,2692 2213,2690 271,2729" rendition="Line" xml:id="facs_281_tr_1_tl_17"/>
+            <zone points="271,2907 1483,2899 1535,2949 1631,2949 2107,2917 2110,2845 271,2862" rendition="Line" xml:id="facs_281_tr_1_tl_18"/>
+            <zone points="269,3067 345,3109 849,3075 918,3107 1234,3050 2179,3045 2176,2986 271,3010" rendition="Line" xml:id="facs_281_tr_1_tl_19"/>
+            <zone points="987,3200 2260,3195 2260,3139 989,3153" rendition="Line" xml:id="facs_281_tr_1_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0281.jpg" n="part1_p281.jpg" xml:id="img_0281" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p281.jpg"/>
+            
+            <ab facs="#facs_281_tr_1">
+               <lb facs="#facs_281_tr_1_tl_1" n="N001"/>[277]
+               <lb facs="#facs_281_tr_1_tl_2" n="N002"/>and one must say: if one understands <rs type="person">Nietzsche</rs>, he speaks neither of will nor of power, in the sense
+               <lb facs="#facs_281_tr_1_tl_3" n="N003"/>of social power and conscious will; he speaks of the <unconscious>unconscious</unconscious> drives toward the self-increase of
+               <lb facs="#facs_281_tr_1_tl_4" n="N004"/>life as life. And if <rs type="person">Freud</rs> speaks of libido, this also is completely mistaken as conscious sexual desire,
+               <lb facs="#facs_281_tr_1_tl_5" n="N005"/>while in reality it is the desire for fulfillment in all realms of life, of which indeed the sexual is
+               <lb facs="#facs_281_tr_1_tl_6" n="N006"/>the strongest and most important.
+               <lb facs="#facs_281_tr_1_tl_7" n="N007"/>Out of the repression of these powers in the <unconscious>unconscious</unconscious> of the soul, realities like
+               <lb facs="#facs_281_tr_1_tl_8" n="N008"/>anxiety, guilt, hostility are produced and are always present in the conscious decisions.
+               <lb facs="#facs_281_tr_1_tl_9" n="N009"/>This again is a complete turnover of our interpretation of man, of his self-interpretation.
+               <lb facs="#facs_281_tr_1_tl_10" n="N010"/>Now this leads to a critical analysis of the social structures which are supposed to be
+               <lb facs="#facs_281_tr_1_tl_11" n="N011"/>good. Up to a certain time, [the] family was praised as an unambiguously good institution,
+               <lb facs="#facs_281_tr_1_tl_12" n="N012"/>and so was friendship and so was social groups such as communities or nations. Now one has
+               <lb facs="#facs_281_tr_1_tl_13" n="N013"/>discovered that each of these institutions is ambiguous BY ITS VERY STRUCTURE. Now I will
+               <lb facs="#facs_281_tr_1_tl_14" n="N014"/>refer especially to families because there is still in some groups, especially in the Catholic Church,
+               <lb facs="#facs_281_tr_1_tl_15" n="N015"/>an undue glorification of the family as unambiguously good. If you look at the realities of the
+               <lb facs="#facs_281_tr_1_tl_16" n="N016"/>patients of the psychoanalysts and psychotherapists and psychiatrists and all forms of people who
+               <lb facs="#facs_281_tr_1_tl_17" n="N017"/>deal with the human personality as a whole, and not only the special function of a bodily character,
+               <lb facs="#facs_281_tr_1_tl_18" n="N018"/>then you will find it is NOT a matter of the WORST families but often a matter of the BEST
+               <lb facs="#facs_281_tr_1_tl_19" n="N019"/>families in which the diseases are acquired. And this was a tremendous shock for the Protestant
+               <lb facs="#facs_281_tr_1_tl_20" n="N020"/>moralism which simply said: "Have a good family and everything will be alright." Just those
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

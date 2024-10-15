@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p257</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p257</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_257">
+         <graphic url="TL-0257.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=BPQFVVADKQCUGOCLPWPTTIHN&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="289,261 289,3472 2283,3472 2283,261" rendition="TextRegion" xml:id="facs_257_tr_2">
+            <zone points="1181,320 1194,320 1211,332 1248,335 1290,330 1297,322 1309,325 1312,278 1275,278 1255,256 1231,261 1204,288 1184,286" rendition="Line" xml:id="facs_257_tr_2_tl_1"/>
+            <zone points="276,492 898,492 916,418 669,450 645,428 620,450 561,428 278,443" rendition="Line" xml:id="facs_257_tr_2_tl_2" subtype="heading"/>
+            <zone points="288,657 2181,615 2262,603 2264,566 288,583" rendition="Line" xml:id="facs_257_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="485,793 502,797 522,793 529,800 571,795 613,797 613,746 569,746 566,741 537,746 514,743 507,733 487,733" rendition="Line" xml:id="facs_257_tr_2_tl_4"/>
+            <zone points="482,871 598,886 667,866 797,864 829,879 847,866 928,869 930,810 861,810 842,829 822,807 485,817" rendition="Line" xml:id="facs_257_tr_2_tl_5"/>
+            <zone points="490,948 1085,940 1132,933 1135,891 492,889" rendition="Line" xml:id="facs_257_tr_2_tl_6"/>
+            <zone points="490,1029 896,1021 896,970 822,980 793,962 768,980 731,967 630,982 601,965 544,985 532,972 490,972" rendition="Line" xml:id="facs_257_tr_2_tl_7"/>
+            <zone points="492,1103 975,1100 975,1051 950,1039 913,1051 785,1039 768,1056 733,1039 716,1056 492,1046" rendition="Line" xml:id="facs_257_tr_2_tl_8"/>
+            <zone points="485,1174 591,1191 623,1172 999,1167 999,1127 925,1127 906,1105 876,1127 738,1117 637,1132 578,1115 485,1135" rendition="Line" xml:id="facs_257_tr_2_tl_9"/>
+            <zone points="278,1245 313,1260 534,1253 534,1196 278,1199" rendition="Line" xml:id="facs_257_tr_2_tl_12" subtype="paragraph"/>
+            <zone points="729,1334 1651,1316 1654,1319 1669,1303 1660,1294 728,1311" rendition="Line" xml:id="facs_257_l_862"/>
+            <zone points="719,1401 1587,1386 1587,1391 1579,1391 1579,1413 1609,1413 1609,1363 719,1378" rendition="Line" xml:id="facs_257_l_882"/>
+            <zone points="714,1480 1537,1465 1537,1443 714,1458" rendition="Line" xml:id="facs_257_l_908"/>
+            <zone points="726,1569 1924,1547 1923,1525 726,1547" rendition="Line" xml:id="facs_257_l_922"/>
+            <zone points="290,1713 539,1718 541,1649 502,1656 455,1656 450,1649 293,1654" rendition="Line" xml:id="facs_257_tr_2_tl_21" subtype="heading"/>
+            <zone points="487,1779 2277,1740 2267,1661 2225,1701 2129,1666 2067,1706 854,1738 758,1706 490,1743" rendition="Line" xml:id="facs_257_tr_2_tl_22" subtype="paragraph"/>
+            <zone points="288,1939 2220,1900 2257,1836 288,1907" rendition="Line" xml:id="facs_257_tr_2_tl_23"/>
+            <zone points="286,2085 2200,2045 2144,1984 288,2040" rendition="Line" xml:id="facs_257_tr_2_tl_24"/>
+            <zone points="288,2237 2232,2195 2232,2139 1792,2141 288,2208" rendition="Line" xml:id="facs_257_tr_2_tl_25"/>
+            <zone points="293,2392 1974,2358 1994,2304 293,2343" rendition="Line" xml:id="facs_257_tr_2_tl_26"/>
+            <zone points="497,2538 1996,2518 2136,2503 2139,2449 497,2488" rendition="Line" xml:id="facs_257_tr_2_tl_27" subtype="paragraph"/>
+            <zone points="288,2693 2200,2661 2191,2594 288,2641" rendition="Line" xml:id="facs_257_tr_2_tl_28"/>
+            <zone points="295,2848 2144,2806 2139,2749 295,2794" rendition="Line" xml:id="facs_257_tr_2_tl_29"/>
+            <zone points="290,2990 2028,2956 1996,2899 290,2966" rendition="Line" xml:id="facs_257_tr_2_tl_30"/>
+            <zone points="502,3148 2215,3111 2213,3045 505,3089" rendition="Line" xml:id="facs_257_tr_2_tl_31" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0257.jpg" n="part1_p257.jpg" xml:id="img_0257" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p257.jpg"/>
+            
+            <ab facs="#facs_257_tr_2">
+               <lb facs="#facs_257_tr_2_tl_1" n="N001"/>[253]
+               <lb facs="#facs_257_tr_2_tl_2" n="N002"/>LECTURE XXI, Dec. 15, 1955
+               <lb facs="#facs_257_tr_2_tl_3" n="N003"/>[Exam announcements: Lectures were on 6 different subjects; there will be two questions on each:
+               <lb facs="#facs_257_tr_2_tl_4" n="N004"/>Faith
+               <lb facs="#facs_257_tr_2_tl_5" n="N005"/>Religion and language
+               <lb facs="#facs_257_tr_2_tl_6" n="N006"/>Religion and the technical realm
+               <lb facs="#facs_257_tr_2_tl_7" n="N007"/>Religion and science
+               <lb facs="#facs_257_tr_2_tl_8" n="N008"/>Religion and philosophy
+               <lb facs="#facs_257_tr_2_tl_9" n="N009"/>Religion and psychology.
+               <lb facs="#facs_257_tr_2_tl_12" n="N010"/>READING: H. R. <rs type="person">Niebuhr</rs> <hi style="font-style: italic;">Christ and Culture</hi>
+               <lb facs="#facs_257_l_862" n="N011"/>F. <rs type="person">Schleiermacher</rs> <hi style="font-style: italic;">Speeches on Religion . . .</hi>
+               <lb facs="#facs_257_l_882" n="N012"/>W.M. <rs type="person">Urban</rs> <hi style="font-style: italic;">Language and Reality</hi>
+               <lb facs="#facs_257_l_908" n="N013"/>R. <rs type="person">Niebuhr</rs> <hi style="font-style: italic;">Faith and History</hi>
+               <lb facs="#facs_257_l_922" n="N014"/>J.H.<rs type="person">Randall</rs>, Jr. . . . <hi style="font-style: italic;">The Making of the Modern Mind</hi> ]
+               <lb facs="#facs_257_tr_2_tl_21" n="N015"/>LECTURE:
+               <lb facs="#facs_257_tr_2_tl_22" n="N016"/>I spoke last Thursday about the estrangement of man as asking the question of himself
+               <lb facs="#facs_257_tr_2_tl_23" n="N017"/>and his world, FROM himself, putting himself into his world, dividing himself into the levels which
+               <lb facs="#facs_257_tr_2_tl_24" n="N018"/>he, by abstraction, distinguishes in his world, and becoming unable to reunite these levels in the
+               <lb facs="#facs_257_tr_2_tl_25" n="N019"/>unity of his own being. I called this the <rs type="keyword" ref="#Iliad">Iliad </rs>of the human mind, in which it goes out to discover
+               <lb facs="#facs_257_tr_2_tl_26" n="N020"/>the world and himself and loses himself in his world in the struggles about his world.
+               <lb facs="#facs_257_tr_2_tl_27" n="N021"/>Now the opposite to this is the <rs type="keyword" ref="#Odyssey">Odyssey,</rs> the return, which is not something which
+               <lb facs="#facs_257_tr_2_tl_28" n="N022"/>happens in one story, but it happens, like the original <hi style="font-style: italic;">Odyssey</hi> of <rs type="person">Homer</rs>, in many stories, many
+               <lb facs="#facs_257_tr_2_tl_29" n="N023"/>attempts, it is accompanied by many dangers, and, like in the old great epic stories, it is tried
+               <lb facs="#facs_257_tr_2_tl_30" n="N024"/>again and again. And we certainly are in the middle of the Odyssey and not at its end.
+               <lb facs="#facs_257_tr_2_tl_31" n="N025"/>One of the earlier attempts in the Western world, and in the modern period, was what
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

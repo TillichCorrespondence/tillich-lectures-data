@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p199</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p199</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_199">
+         <graphic url="TL-0199.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZOOHQABSKCUOSJXOBRBAPBLO&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="200,201 200,3444 2391,3444 2391,201" rendition="TextRegion" xml:id="facs_199_tr_2">
+            <zone points="1059,272 1094,278 1103,286 1168,286 1173,280 1187,280 1187,196 1122,196 1100,212 1059,212" rendition="Line" xml:id="facs_199_tr_2_tl_1"/>
+            <zone points="185,449 681,446 738,482 773,446 964,438 966,365 754,395 387,373 359,397 185,406" rendition="Line" xml:id="facs_199_tr_2_tl_2" subtype="heading"/>
+            <zone points="414,594 724,621 779,588 2134,566 2181,561 2183,512 414,555" rendition="Line" xml:id="facs_199_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="185,743 517,773 2189,727 2227,643 1680,681 1484,651 1353,692 1165,659 1013,700 852,667 768,705 430,675 346,711 308,678 185,713" rendition="Line" xml:id="facs_199_tr_2_tl_4"/>
+            <zone points="188,901 2159,871 2241,860 2243,819 2107,790 2036,825 776,822 591,860 515,828 188,868" rendition="Line" xml:id="facs_199_tr_2_tl_5"/>
+            <zone points="191,1054 348,1070 438,1051 498,1084 542,1051 806,1043 806,991 719,991 700,1010 683,991 193,1002" rendition="Line" xml:id="facs_199_tr_2_tl_6"/>
+            <zone points="414,1114 2192,1089 2219,1007 2096,1045 1609,1056 1576,1024 1535,1059 1187,1067 1154,1032 1062,1073 879,1040 833,1078 414,1081" rendition="Line" xml:id="facs_199_tr_2_tl_7" subtype="paragraph"/>
+            <zone points="193,1274 2224,1247 2227,1176 193,1244" rendition="Line" xml:id="facs_199_tr_2_tl_8"/>
+            <zone points="196,1432 2232,1397 2235,1315 1974,1359 1712,1326 1516,1367 1473,1331 1201,1375 1032,1342 996,1378 199,1378" rendition="Line" xml:id="facs_199_tr_2_tl_9"/>
+            <zone points="196,1576 2183,1549 2211,1478 196,1546" rendition="Line" xml:id="facs_199_tr_2_tl_10"/>
+            <zone points="193,1726 2186,1696 2287,1688 2290,1636 193,1696" rendition="Line" xml:id="facs_199_tr_2_tl_11"/>
+            <zone points="201,1887 1388,1876 1432,1805 201,1854" rendition="Line" xml:id="facs_199_tr_2_tl_12"/>
+            <zone points="425,2026 683,2031 732,2080 855,2088 939,2047 1786,2053 1884,1993 2208,1990 2208,1952 1925,1922 1868,1957 1282,1977 986,1949 888,1987 675,1955 474,1993 427,1960" rendition="Line" xml:id="facs_199_tr_2_tl_13" subtype="paragraph"/>
+            <zone points="199,2178 2262,2148 2382,2134 2385,2072 719,2140 199,2121" rendition="Line" xml:id="facs_199_tr_2_tl_14"/>
+            <zone points="207,2341 2339,2298 2339,2232 2254,2230 210,2281" rendition="Line" xml:id="facs_199_tr_2_tl_15"/>
+            <zone points="207,2494 2148,2442 2151,2382 2113,2379 210,2453" rendition="Line" xml:id="facs_199_tr_2_tl_16"/>
+            <zone points="207,2635 2148,2605 2167,2532 207,2603" rendition="Line" xml:id="facs_199_tr_2_tl_17"/>
+            <zone points="204,2788 928,2821 1035,2772 2140,2744 2088,2679 204,2755" rendition="Line" xml:id="facs_199_tr_2_tl_18"/>
+            <zone points="199,2938 2178,2902 2181,2831 199,2910" rendition="Line" xml:id="facs_199_tr_2_tl_19"/>
+            <zone points="207,3093 310,3095 397,3172 672,3139 738,3087 1604,3057 1903,3109 2186,3044 2186,2981 2148,2978 207,3063" rendition="Line" xml:id="facs_199_tr_2_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0199.jpg" n="part1_p199.jpg" xml:id="img_0199" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p199.jpg"/>
+            
+            <ab facs="#facs_199_tr_2">
+               <lb facs="#facs_199_tr_2_tl_1" n="N001"/>[195]
+               <lb facs="#facs_199_tr_2_tl_2" n="N002"/>LECTURE XVII, Thurs., Dec. 1, 1955
+               <lb facs="#facs_199_tr_2_tl_3" n="N003"/>Tuesday I started the discussion of <rs type="keyword" ref="#RELIGION">religion </rs>and <rs type="keyword" ref="#Philosophy">philosophy </rs>and gave as the basic solution
+               <lb facs="#facs_199_tr_2_tl_4" n="N004"/>that the philosopher, as human being, has an <ultimate_concern>ultimate concern</ultimate_concern> which expresses itself in his philosophy;
+               <lb facs="#facs_199_tr_2_tl_5" n="N005"/>and that the theologian, as dealing with the <hi style="font-style: italic;">logos</hi>, uses the categories and <rs type="keyword" ref="#Structure_of_Being">structures of being</rs> as they are
+               <lb facs="#facs_199_tr_2_tl_6" n="N006"/>developed by the philosopher.
+               <lb facs="#facs_199_tr_2_tl_7" n="N007"/>Now let me do something rather difficult, namely to go into the discussion of a few basic
+               <lb facs="#facs_199_tr_2_tl_8" n="N008"/>attitudes in philosophy in order to show where and in which way, behind the philosophical discussion,
+               <lb facs="#facs_199_tr_2_tl_9" n="N009"/><ultimate_concern>ultimate concern</ultimate_concern> is manifest---or in other terms, in which sense the philosophers are consciously
+               <lb facs="#facs_199_tr_2_tl_10" n="N010"/>or unconsciously theologians, by their very being philosophers. Only if this can be shown concretely,
+               <lb facs="#facs_199_tr_2_tl_11" n="N011"/>in relation to special philosophical attitudes, is the argument carried through. But I warn you: this is not
+               <lb facs="#facs_199_tr_2_tl_12" n="N012"/>easy, and it demands SOME kind of philosophical knowledge.
+               <lb facs="#facs_199_tr_2_tl_13" n="N013"/>Let's first take the classical discussion between <rs type="keyword" ref="#Nominalism">nominalism</rs> and <rs type="keyword" ref="#Realism">realism </rs>as it was going on
+               <lb facs="#facs_199_tr_2_tl_14" n="N014"/>in the Middle Ages at the end and the beginning of the medieval philosophy, while in the middle development,
+               <lb facs="#facs_199_tr_2_tl_15" n="N015"/>on the high point of the Middle Ages, there was a kind of compromise valid in medieval thinking. But then,
+               <lb facs="#facs_199_tr_2_tl_16" n="N016"/>at the end of the Middle Ages, <rs type="keyword" ref="#Nominalism">nominalism,</rs> which had been tamed, so to speak, by strong r<rs type="keyword" ref="#Realism">ealistic
+               <lb break="no" facs="#facs_199_tr_2_tl_17" n="N017"/>elements,</rs> broke out again and destroyed the whole mediating system of medieval thought. Today,
+               <lb facs="#facs_199_tr_2_tl_18" n="N018"/>especially in the Anglo-Saxon countries, the <rs type="keyword" ref="#Nominalism">nominalistic tradition</rs> is the determining one. It was
+               <lb facs="#facs_199_tr_2_tl_19" n="N019"/>somehow so already in the Middle Ages. <rs type="person">Duns Scotus</rs> (which means Duns, the man from Scotland)
+               <lb facs="#facs_199_tr_2_tl_20" n="N020"/>and <rs type="person">William of Ockham</rs>, taught in England. Following them, in some way, English empiricism and
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

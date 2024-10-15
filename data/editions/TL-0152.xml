@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p152</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p152</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_152">
+         <graphic url="TL-0152.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZFMBXFJIQSCHPMWLRWEZCOBA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="334,284 334,3469 2358,3469 2358,284" rendition="TextRegion" xml:id="facs_152_tr_2">
+            <zone points="1157,350 1177,348 1187,358 1207,358 1212,353 1220,358 1252,358 1263,348 1280,348 1280,295 1257,295 1242,305 1227,307 1205,302 1157,302" rendition="Line" xml:id="facs_152_tr_2_tl_1"/>
+            <zone points="335,481 2291,469 2243,393 1467,428 1134,391 837,431 466,396 335,438" rendition="Line" xml:id="facs_152_tr_2_tl_2"/>
+            <zone points="529,587 1046,597 1149,645 1517,625 1590,577 2341,597 2341,537 2253,534 529,539" rendition="Line" xml:id="facs_152_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="345,743 1016,774 1232,728 1789,741 1847,696 2336,708 2336,653 345,655" rendition="Line" xml:id="facs_152_tr_2_tl_4"/>
+            <zone points="345,847 2326,822 2281,761 2089,753 345,784" rendition="Line" xml:id="facs_152_tr_2_tl_5"/>
+            <zone points="333,948 2308,940 2308,887 2084,849 2021,887 333,892" rendition="Line" xml:id="facs_152_tr_2_tl_6"/>
+            <zone points="338,1068 2306,1058 2306,1005 2099,995 338,1013" rendition="Line" xml:id="facs_152_tr_2_tl_7"/>
+            <zone points="333,1177 1678,1162 2190,1207 2190,1121 1872,1101 1693,1142 1298,1144 1192,1106 333,1126" rendition="Line" xml:id="facs_152_tr_2_tl_9"/>
+            <zone points="335,1310 398,1348 998,1315 1119,1348 1167,1300 1215,1348 2215,1315 2213,1232 335,1247" rendition="Line" xml:id="facs_152_tr_2_tl_10"/>
+            <zone points="333,1441 396,1474 713,1404 2240,1406 2263,1348 333,1381" rendition="Line" xml:id="facs_152_tr_2_tl_11"/>
+            <zone points="330,1525 2268,1525 2268,1469 1956,1459 1792,1492 1285,1454 1147,1494 330,1479" rendition="Line" xml:id="facs_152_tr_2_tl_12"/>
+            <zone points="338,1646 2258,1638 2258,1590 2064,1575 338,1600" rendition="Line" xml:id="facs_152_tr_2_tl_13"/>
+            <zone points="539,1761 2187,1756 2187,1706 2021,1696 539,1709" rendition="Line" xml:id="facs_152_tr_2_tl_14" subtype="paragraph"/>
+            <zone points="333,1910 2114,1885 2276,1832 335,1824" rendition="Line" xml:id="facs_152_tr_2_tl_15"/>
+            <zone points="338,2001 2328,1996 2328,1938 2240,1928 338,1950" rendition="Line" xml:id="facs_152_tr_2_tl_16"/>
+            <zone points="335,2122 799,2147 942,2109 1308,2150 1535,2114 1817,2150 1893,2109 2250,2117 2250,2061 1895,2036 335,2074" rendition="Line" xml:id="facs_152_tr_2_tl_17"/>
+            <zone points="330,2230 748,2276 837,2235 1104,2233 1172,2276 1467,2273 1552,2228 2260,2240 2263,2175 1940,2160 333,2185" rendition="Line" xml:id="facs_152_tr_2_tl_18"/>
+            <zone points="330,2344 1840,2386 2092,2351 2064,2296 1933,2281 330,2318" rendition="Line" xml:id="facs_152_tr_2_tl_19"/>
+            <zone points="335,2482 2213,2454 2213,2404 2147,2402 822,2419 678,2381 635,2417 335,2419" rendition="Line" xml:id="facs_152_tr_2_tl_20"/>
+            <zone points="330,2578 638,2628 766,2580 2351,2570 2351,2515 330,2553" rendition="Line" xml:id="facs_152_tr_2_tl_21"/>
+            <zone points="335,2701 2197,2701 2197,2643 1870,2631 335,2656" rendition="Line" xml:id="facs_152_tr_2_tl_22"/>
+            <zone points="330,2812 2255,2812 2255,2757 2107,2744 859,2787 517,2734 330,2790" rendition="Line" xml:id="facs_152_tr_2_tl_23"/>
+            <zone points="320,2928 1013,2933 1119,2981 2220,2948 2220,2870 320,2906" rendition="Line" xml:id="facs_152_tr_2_tl_24"/>
+            <zone points="330,3057 922,3110 988,3047 2223,3052 2223,2991 2071,2981 330,3006" rendition="Line" xml:id="facs_152_tr_2_tl_25"/>
+            <zone points="333,3175 481,3180 522,3221 693,3198 733,3236 2172,3185 2172,3115 2074,3102 333,3130" rendition="Line" xml:id="facs_152_tr_2_tl_26"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0152.jpg" n="part1_p152.jpg" xml:id="img_0152" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p152.jpg"/>
+            
+            <ab facs="#facs_152_tr_2">
+               <lb facs="#facs_152_tr_2_tl_1" n="N001"/>[149]
+               <lb facs="#facs_152_tr_2_tl_2" n="N002"/>possibilities in Kant with present-day <rs wikiData="Q38066" type="keyword" ref="#Concept">EXISTENTIALISM</rs>, then use it---it is the best book about this.
+               <lb facs="#facs_152_tr_2_tl_3" n="N003"/>Now here you see what the truth of <rs wikiData="Q210439" type="keyword" ref="#Concept">interpretation</rs> is. The truth of interpretation is: you try
+               <lb facs="#facs_152_tr_2_tl_4" n="N004"/>to find out, with all your heart and strength, what the author really has said. You must be an excellent
+               <lb facs="#facs_152_tr_2_tl_5" n="N005"/>philologist in order to comment [on] one sentence of the Old or New Testament. You must know the
+               <lb facs="#facs_152_tr_2_tl_6" n="N006"/>languages---and here I make a great question-mark about present-day theological or also philosophical
+               <lb facs="#facs_152_tr_2_tl_7" n="N007"/>education (if it is the Greek or Latin authors in philosophy), and you must be able to see these verses
+               <lb facs="#facs_152_tr_2_tl_9" n="N008"/>in the light of the contemporary literature, ideas, use of words, etc. ---all what we call <rs wikiData="Q40634" type="keyword" ref="#Concept">philology</rs>. Then
+               <lb facs="#facs_152_tr_2_tl_10" n="N009"/>you must try to understand the meanings. And if you try to understand the meaning, you create
+               <lb facs="#facs_152_tr_2_tl_11" n="N010"/>something "<rs type="keyword" ref="#Concept">third</rs>." Now this makes a fact understandable which I really indicated in terms of the
+               <lb facs="#facs_152_tr_2_tl_12" n="N011"/>interpretation of the Bible---now in more than 200 centuries, 2500 years, about, when we add the
+               <lb facs="#facs_152_tr_2_tl_13" n="N012"/>Old Testament comments and interpretations which are partly in the texts of all Bibles themselves.
+               <lb facs="#facs_152_tr_2_tl_14" n="N013"/>Then another example in a much larger sense and nearer to history as a whole. Take
+               <lb facs="#facs_152_tr_2_tl_15" n="N014"/>Greek culture. Greek culture has been interpreted, from the day of its existence on, first by itself---
+               <lb facs="#facs_152_tr_2_tl_16" n="N015"/>for instance by Aristotle, in his <hi style="font-style: italic;">Politeia</hi>, then by the Romans, then by the Germanic-Romanic nations,
+               <lb facs="#facs_152_tr_2_tl_17" n="N016"/>then by the Middle Ages, then by the Renaissance, then by the Enlightenment, then by classicism,
+               <lb facs="#facs_152_tr_2_tl_18" n="N017"/>then by modern realism, and today by the TRAGIC feeling towards the world, and the rediscovery
+               <lb facs="#facs_152_tr_2_tl_19" n="N018"/>of Greek tragedy. Now as you have this whole history of interpretation of Greek culture,
+               <lb facs="#facs_152_tr_2_tl_20" n="N019"/>you cannot say, "Some people were better acquainted with the facts than others, and the nearer
+               <lb facs="#facs_152_tr_2_tl_21" n="N020"/>to <rs type="person" key="Jaeger, Werner">Werner Jaeger</rs>, the better one knows about the Greeks." Now he himself would deny such nonsense
+               <lb facs="#facs_152_tr_2_tl_22" n="N021"/>violently; he knew that his teachers ALSO knew Greek and Greek literature. But you must say
+               <lb facs="#facs_152_tr_2_tl_23" n="N022"/>something quite different, namely that according to the different situations in our own history,
+               <lb facs="#facs_152_tr_2_tl_24" n="N023"/>the encounter with the Greek reality---after the philological problems where there is progress and
+               <lb facs="#facs_152_tr_2_tl_25" n="N024"/>better insights, have been solved---that after all this has happened, another image of Greek reality
+               <lb facs="#facs_152_tr_2_tl_26" n="N025"/>occurs. And the GREAT historians are those who give us these images. They know the facts;
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

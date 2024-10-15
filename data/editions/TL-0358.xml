@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p074</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p074</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_74">
+         <graphic url="TL-0358.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TCVPYTBNTQIHFWVOSYLICVVW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="265,329 2313,329 2313,1452 265,1452" rendition="TextRegion" xml:id="facs_74_tr_1">
+            <zone points="1086,388 1099,388 1109,398 1186,398 1193,390 1206,390 1206,309 1183,311 1165,329 1155,329 1137,314 1125,326 1086,326" rendition="Line" xml:id="facs_74_tr_1_tl_1"/>
+            <zone points="268,543 2211,541 2106,477 268,477" rendition="Line" xml:id="facs_74_tr_1_tl_2"/>
+            <zone points="260,688 2083,691 2045,627 260,638" rendition="Line" xml:id="facs_74_tr_1_tl_3"/>
+            <zone points="260,836 2101,847 2208,841 2208,780 260,811" rendition="Line" xml:id="facs_74_tr_1_tl_4"/>
+            <zone points="255,989 1731,1007 2203,954 255,961" rendition="Line" xml:id="facs_74_tr_1_tl_5"/>
+            <zone points="250,1137 1454,1160 1739,1148 1739,1084 250,1112" rendition="Line" xml:id="facs_74_tr_1_tl_6"/>
+            <zone points="260,1293 2310,1300 2313,1229 263,1237" rendition="Line" xml:id="facs_74_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="260,1451 2252,1446 2252,1387 260,1395" rendition="Line" xml:id="facs_74_tr_1_tl_8"/>
+         </zone>
+         <zone points="253,1538 2236,1538 2236,2431 253,2431" rendition="TextRegion" xml:id="facs_74_tr_2">
+            <zone points="255,1596 1599,1606 1686,1596 1686,1543 255,1550" rendition="Line" xml:id="facs_74_tr_2_tl_1"/>
+            <zone points="255,1747 324,1765 354,1747 864,1752 864,1721 808,1719 770,1693 255,1698" rendition="Line" xml:id="facs_74_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="260,1818 1999,1826 2119,1821 2119,1765 260,1772" rendition="Line" xml:id="facs_74_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="258,1979 1999,1974 2020,1915 258,1925" rendition="Line" xml:id="facs_74_tr_2_tl_4"/>
+            <zone points="258,2124 1986,2134 2094,2124 2094,2063 258,2068" rendition="Line" xml:id="facs_74_tr_2_tl_5"/>
+            <zone points="250,2275 1907,2285 2178,2270 2180,2213 250,2221" rendition="Line" xml:id="facs_74_tr_2_tl_6"/>
+            <zone points="240,2417 1946,2438 2203,2428 2229,2364 240,2392" rendition="Line" xml:id="facs_74_tr_2_tl_7"/>
+         </zone>
+         <zone points="116,2511 2286,2511 2286,3467 116,3467" rendition="TextRegion" xml:id="facs_74_tr_3">
+            <zone points="245,2576 2050,2581 2208,2573 2208,2517 245,2545" rendition="Line" xml:id="facs_74_tr_3_tl_1"/>
+            <zone points="245,2726 2160,2734 2221,2657 245,2670" rendition="Line" xml:id="facs_74_tr_3_tl_2"/>
+            <zone points="242,2879 1533,2879 1581,2876 1581,2820 242,2828" rendition="Line" xml:id="facs_74_tr_3_tl_3"/>
+            <zone points="245,3032 2282,3029 2282,2958 245,2973" rendition="Line" xml:id="facs_74_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="237,3180 1884,3205 2134,3175 2134,3114 237,3129" rendition="Line" xml:id="facs_74_tr_3_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0358.jpg" n="part2_p074.jpg" xml:id="img_0074" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p074.jpg"/>
+            
+            <ab facs="#facs_74_tr_1">
+               <lb facs="#facs_74_tr_1_tl_1" n="N001"/>[353]
+               <lb facs="#facs_74_tr_1_tl_2" n="N002"/>looks. You cannot go around him. He is not a figure which stands in time and space. In the Greek
+               <lb facs="#facs_74_tr_1_tl_3" n="N003"/>temple, you had to go AT him, in a long way, and he was half in the dark and looked at you.
+               <lb facs="#facs_74_tr_1_tl_4" n="N004"/>He didn’t go out to you, but he remained in his divine majesty, often in terms of what one calls the
+               <lb facs="#facs_74_tr_1_tl_5" n="N005"/>archaic smile, which is not laughing, in any way, and not ''keep smiling,'' but which is the inner
+               <lb facs="#facs_74_tr_1_tl_6" n="N006"/>fulfilment and perfection of the divine in itself in relationship to the world.
+               <lb facs="#facs_74_tr_1_tl_7" n="N007"/>19) ARCHAIC FEMALE FIGURE...--Here a goddess, in the same way, the same kind of being-itself,
+               <lb facs="#facs_74_tr_1_tl_8" n="N008"/>representing being-itself, so to speak, as a divine figure, looking at you and asking you to come before
+            </ab>
+            <ab facs="#facs_74_tr_2">
+               <lb facs="#facs_74_tr_2_tl_1" n="N001"/>her, but not going around her, as if she were the figure in time and space.
+               <lb facs="#facs_74_tr_2_tl_2" n="N002"/>20) GREEK SCULPTURE...
+               <lb facs="#facs_74_tr_2_tl_3" n="N003"/>21) MOSAIC, CONSTANTINOPLE--Now we come to that art which I would like to call the
+               <lb facs="#facs_74_tr_2_tl_4" n="N004"/>most expressive religious art in Western culture: the Byzantine. Here are the elements of
+               <lb facs="#facs_74_tr_2_tl_5" n="N005"/>Greek and Roman naturalistic possibilities, but they have been made transparent. It is again a
+               <lb facs="#facs_74_tr_2_tl_6" n="N006"/>kind of transitory style, if you want, although it covers the whole Byzantine period, which means
+               <lb facs="#facs_74_tr_2_tl_7" n="N007"/>from about 400 or even earlier after Christ, till 900. This is a Christ Pantokrator [sic.], which always
+            </ab>
+            <ab facs="#facs_74_tr_3">
+               <lb facs="#facs_74_tr_3_tl_1" n="N001"/>means the Christ as the Ruler of the world, the Christ as a cosmic figure. The decisive thing--which
+               <lb facs="#facs_74_tr_3_tl_2" n="N002"/>would come out much better if it were in color--is the transparence of the color, the translucency of
+               <lb facs="#facs_74_tr_3_tl_3" n="N003"/>the Spiritual through the material, of the infinite through the finite.
+               <lb facs="#facs_74_tr_3_tl_4" n="N004"/>22) BYZANTINE SCHOOL...--This shows you in the same way the transparency of the natural,
+               <lb facs="#facs_74_tr_3_tl_5" n="N005"/>the fact that it has become translucent for the divine, and the Spiritual (capital ''S'') translucent
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

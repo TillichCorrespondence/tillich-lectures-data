@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p055</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p055</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_55">
+         <graphic url="TL-0055.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=OSMRTVXOFIBXOCOBNNRSXDLD&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="286,246 286,3423 2325,3423 2325,246" rendition="TextRegion" xml:id="facs_55_tr_2">
+            <zone points="1206,293 1219,293 1227,301 1255,303 1260,298 1285,301 1288,237 1275,237 1260,252 1252,252 1244,245 1232,250 1209,250" rendition="Line" xml:id="facs_55_tr_2_tl_1"/>
+            <zone points="309,474 513,462 671,507 1122,459 2173,472 2173,403 1461,411 1408,370 1252,408 309,416" rendition="Line" xml:id="facs_55_tr_2_tl_2"/>
+            <zone points="301,553 2185,551 2147,490 301,518" rendition="Line" xml:id="facs_55_tr_2_tl_3"/>
+            <zone points="296,630 2193,638 2193,584 2124,576 780,604 484,571 296,604" rendition="Line" xml:id="facs_55_tr_2_tl_4"/>
+            <zone points="306,717 339,724 541,724 541,681 362,681 342,666 306,671" rendition="Line" xml:id="facs_55_tr_2_tl_5"/>
+            <zone points="594,798 2134,834 2137,747 655,757 597,722" rendition="Line" xml:id="facs_55_tr_2_tl_6" subtype="paragraph"/>
+            <zone points="291,915 2152,885 2155,834 293,841" rendition="Line" xml:id="facs_55_tr_2_tl_7"/>
+            <zone points="291,961 319,977 951,974 951,933 923,921 862,943 778,915 678,941 553,941 530,918 477,941 291,941" rendition="Line" xml:id="facs_55_tr_2_tl_8"/>
+            <zone points="599,1056 2165,1063 2165,994 599,997" rendition="Line" xml:id="facs_55_tr_2_tl_9" subtype="paragraph"/>
+            <zone points="291,1135 2081,1142 2081,1089 1999,1081 291,1109" rendition="Line" xml:id="facs_55_tr_2_tl_10"/>
+            <zone points="298,1229 2127,1255 2094,1160 1912,1193 298,1183" rendition="Line" xml:id="facs_55_tr_2_tl_11"/>
+            <zone points="291,1313 431,1352 2073,1308 2073,1260 1905,1252 291,1267" rendition="Line" xml:id="facs_55_tr_2_tl_12"/>
+            <zone points="291,1431 2073,1397 2073,1306 1471,1308 1010,1367 291,1344" rendition="Line" xml:id="facs_55_tr_2_tl_13"/>
+            <zone points="293,1507 2076,1474 2076,1431 1946,1420 293,1433" rendition="Line" xml:id="facs_55_tr_2_tl_14"/>
+            <zone points="291,1561 2178,1573 2180,1515 2127,1507 293,1517" rendition="Line" xml:id="facs_55_tr_2_tl_15"/>
+            <zone points="293,1652 2068,1645 2040,1584 1839,1617 293,1594" rendition="Line" xml:id="facs_55_tr_2_tl_16"/>
+            <zone points="288,1734 2134,1719 1953,1670 288,1688" rendition="Line" xml:id="facs_55_tr_2_tl_17"/>
+            <zone points="288,1846 1329,1859 2104,1813 2104,1765 2055,1757 288,1777" rendition="Line" xml:id="facs_55_tr_2_tl_18"/>
+            <zone points="286,1933 681,1941 732,1892 2196,1918 2198,1854 288,1846" rendition="Line" xml:id="facs_55_tr_2_tl_19"/>
+            <zone points="283,1984 2162,1979 2162,1923 283,1928" rendition="Line" xml:id="facs_55_tr_2_tl_20"/>
+            <zone points="283,2066 1663,2055 1925,2099 2014,2055 2206,2063 2206,2020 2147,2007 283,2022" rendition="Line" xml:id="facs_55_tr_2_tl_21"/>
+            <zone points="283,2155 1392,2139 1466,2183 2150,2180 2150,2096 2043,2091 283,2109" rendition="Line" xml:id="facs_55_tr_2_tl_22"/>
+            <zone points="278,2247 574,2277 790,2224 1573,2264 1836,2221 2152,2236 2152,2185 2088,2178 1331,2190 1035,2147 928,2206 278,2203" rendition="Line" xml:id="facs_55_tr_2_tl_23"/>
+            <zone points="280,2318 2267,2318 2267,2257 280,2275" rendition="Line" xml:id="facs_55_tr_2_tl_24"/>
+            <zone points="283,2405 2086,2407 2086,2356 1943,2341 283,2346" rendition="Line" xml:id="facs_55_tr_2_tl_25"/>
+            <zone points="278,2494 992,2489 1104,2532 2116,2504 2116,2433 2073,2425 278,2445" rendition="Line" xml:id="facs_55_tr_2_tl_26"/>
+            <zone points="280,2576 1102,2573 1102,2514 908,2514 877,2542 740,2514 280,2530" rendition="Line" xml:id="facs_55_tr_2_tl_27"/>
+            <zone points="579,2660 2173,2652 2173,2598 579,2614" rendition="Line" xml:id="facs_55_tr_2_tl_28" subtype="paragraph"/>
+            <zone points="273,2741 2318,2739 2318,2690 2122,2678 273,2713" rendition="Line" xml:id="facs_55_tr_2_tl_29"/>
+            <zone points="273,2833 2211,2823 2211,2774 2127,2762 1976,2795 273,2787" rendition="Line" xml:id="facs_55_tr_2_tl_30"/>
+            <zone points="270,2907 2249,2948 2252,2861 2109,2851 273,2869" rendition="Line" xml:id="facs_55_tr_2_tl_31"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0055.jpg" n="part1_p055.jpg" xml:id="img_0055" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p055.jpg"/>
+            
+            <ab facs="#facs_55_tr_2">
+               <lb facs="#facs_55_tr_2_tl_1" n="N001"/>[52]
+               <lb facs="#facs_55_tr_2_tl_2" n="N002"/><rs type="keyword" ref="#Meaning_of_God">has both an ultimate concern [and as ultimate as possible] under the powerful message
+               <lb break="no" facs="#facs_55_tr_2_tl_3" n="N003"/>of the Prophets, but at the same time, he has a concrete image for what concerns him
+               <lb break="no" facs="#facs_55_tr_2_tl_4" n="N004"/>ultimately: the living, very personal, very dynamic, very individualized God of the Old
+               <lb break="no" facs="#facs_55_tr_2_tl_5" n="N005"/>Testament.
+               <lb break="no" facs="#facs_55_tr_2_tl_6" n="N006"/>Now I hope you understand this seemingly cryptic statement that God
+               <lb break="no" facs="#facs_55_tr_2_tl_7" n="N007"/>is the SYMBOL of God. In this qualified sense, God is the fundamental and universal
+               <lb break="no" facs="#facs_55_tr_2_tl_8" n="N008"/>content of every religious act.
+               <lb break="no" facs="#facs_55_tr_2_tl_9" n="N009"/>Now let me give here a footnote, which belongs more to the philosophy
+               <lb break="no" facs="#facs_55_tr_2_tl_10" n="N010"/>of religion than to our immediate discussion about religious language. It is obvious
+               <lb break="no" facs="#facs_55_tr_2_tl_11" n="N011"/>that such an understanding of the meaning of ''God'' makes the discussion about the
+               <lb break="no" facs="#facs_55_tr_2_tl_12" n="N012"/>existence or non-existence of God meaningless, and I would say even blasphemous.
+               <lb break="no" facs="#facs_55_tr_2_tl_13" n="N013"/>It is meaningless to question the ultimacy of one's ultimate concern. This element
+               <lb break="no" facs="#facs_55_tr_2_tl_14" n="N014"/>in the idea of God is in itself certain. The symbolic EXPRESSION of this element
+               <lb break="no" facs="#facs_55_tr_2_tl_15" n="N015"/>varies endlessly through the whole history of mankind. Here again it would be meaning-
+               <lb break="no" facs="#facs_55_tr_2_tl_16" n="N016"/>less to ask whether one or another of the figures in which an ultimate concern is
+               <lb break="no" facs="#facs_55_tr_2_tl_17" n="N017"/>symbolized, does exist. If ''EXISTENCE''--as the word indicates, and should indicate--
+               <lb break="no" facs="#facs_55_tr_2_tl_18" n="N018"/>refers to something which can be found within the whole of reality, then no divine
+               <lb break="no" facs="#facs_55_tr_2_tl_19" n="N019"/>being does exist. In this sense I understand my friends and critics, the logical positivists,
+               <lb break="no" facs="#facs_55_tr_2_tl_20" n="N020"/>namely that they distinguish meaningless questions from meaningful ones. And I would
+               <lb break="no" facs="#facs_55_tr_2_tl_21" n="N021"/>say that the question ''Does God exist, or does He not exist?'' is a meaningless question
+               <lb break="no" facs="#facs_55_tr_2_tl_22" n="N022"/>and should be rejected as such. The question is: is a special symbol of our ultimate
+               <lb break="no" facs="#facs_55_tr_2_tl_23" n="N023"/>concern adequate?--to which degree, and perhaps FINALLY, adequate? The question
+               <lb break="no" facs="#facs_55_tr_2_tl_24" n="N024"/>is: which of the innumerable symbols of faith is most adequate to the MEANING of faith?
+               <lb break="no" facs="#facs_55_tr_2_tl_25" n="N025"/>In other words, which symbol of ultimacy expresses the ultimate without idolatrous
+               <lb break="no" facs="#facs_55_tr_2_tl_26" n="N026"/>distortion? THAT's the question. Which symbol of ultimate concern EXPRESSES the
+               <lb break="no" facs="#facs_55_tr_2_tl_27" n="N027"/>ultimate without idolatrous distortion?
+               <lb break="no" facs="#facs_55_tr_2_tl_28" n="N028"/>So we have changed from the one question (which has to be rejected as
+               <lb break="no" facs="#facs_55_tr_2_tl_29" n="N029"/>meaningless): ''Does God exist, or does He not exist?''--to a meaningful and extremely serious
+               <lb break="no" facs="#facs_55_tr_2_tl_30" n="N030"/>question which determines the life of all mankind in all periods of history, and which
+               <lb break="no" facs="#facs_55_tr_2_tl_31" n="N031"/>determines every individual life</rs>. Which symbol of one's ultimate concern is most adequate
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

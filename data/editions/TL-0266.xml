@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p266</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p266</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_266">
+         <graphic url="TL-0266.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NYSKWUDICZBAWWCNCVQSEOZN&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="137,234 137,3499 2358,3499 2358,234" rendition="TextRegion" xml:id="facs_266_tr_2">
+            <zone points="1215,307 1228,304 1242,314 1260,317 1336,312 1336,233 1324,233 1299,260 1277,257 1265,248 1250,262 1215,265" rendition="Line" xml:id="facs_266_tr_2_tl_1"/>
+            <zone points="369,465 2210,470 2168,394 2124,426 2047,389 2012,423 416,423 369,389" rendition="Line" xml:id="facs_266_tr_2_tl_2"/>
+            <zone points="369,606 2210,629 2210,569 2027,554 369,582" rendition="Line" xml:id="facs_266_tr_2_tl_3"/>
+            <zone points="371,757 1782,804 1762,710 371,735" rendition="Line" xml:id="facs_266_tr_2_tl_4"/>
+            <zone points="569,911 2250,918 2250,861 2077,844 569,859" rendition="Line" xml:id="facs_266_tr_2_tl_5" subtype="paragraph"/>
+            <zone points="366,1062 572,1094 876,1059 2351,1069 2351,1015 366,1030" rendition="Line" xml:id="facs_266_tr_2_tl_6"/>
+            <zone points="356,1205 1015,1218 1052,1252 2272,1220 2272,1168 1992,1158 356,1183" rendition="Line" xml:id="facs_266_tr_2_tl_7"/>
+            <zone points="361,1369 2277,1374 2277,1317 361,1336" rendition="Line" xml:id="facs_266_tr_2_tl_8"/>
+            <zone points="359,1510 2262,1525 2262,1473 2119,1458 359,1485" rendition="Line" xml:id="facs_266_tr_2_tl_9"/>
+            <zone points="361,1683 2178,1715 2148,1611 361,1636" rendition="Line" xml:id="facs_266_tr_2_tl_10"/>
+            <zone points="794,1814 2128,1864 2128,1775 2037,1767 794,1772" rendition="Line" xml:id="facs_266_tr_2_tl_12"/>
+            <zone points="359,1975 416,2020 1022,1987 1057,2020 1438,2020 1492,1965 2178,1973 2178,1918 359,1911" rendition="Line" xml:id="facs_266_tr_2_tl_13"/>
+            <zone points="359,2116 1364,2124 1421,2158 1611,2114 2339,2126 2339,2064 359,2081" rendition="Line" xml:id="facs_266_tr_2_tl_14"/>
+            <zone points="354,2265 2198,2287 2198,2223 354,2220" rendition="Line" xml:id="facs_266_tr_2_tl_15"/>
+            <zone points="351,2418 599,2445 928,2430 958,2453 1282,2438 1282,2381 351,2374" rendition="Line" xml:id="facs_266_tr_2_tl_16"/>
+            <zone points="554,2502 2284,2507 2284,2450 554,2450" rendition="Line" xml:id="facs_266_tr_2_tl_17" subtype="paragraph"/>
+            <zone points="354,2656 2336,2661 2336,2599 354,2601" rendition="Line" xml:id="facs_266_tr_2_tl_18"/>
+            <zone points="354,2804 2151,2809 2151,2752 354,2750" rendition="Line" xml:id="facs_266_tr_2_tl_19"/>
+            <zone points="346,2950 2287,2960 2287,2903 2010,2906 1973,2869 1817,2925 346,2903" rendition="Line" xml:id="facs_266_tr_2_tl_20"/>
+            <zone points="342,3099 1975,3109 1975,3057 342,3074" rendition="Line" xml:id="facs_266_tr_2_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0266.jpg" n="part1_p266.jpg" xml:id="img_0266" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p266.jpg"/>
+            
+            <ab facs="#facs_266_tr_2">
+               <lb facs="#facs_266_tr_2_tl_1" n="N001"/>[262]
+               <lb facs="#facs_266_tr_2_tl_2" n="N002"/>but in any case medical men from both the psychological and the bodily side realized that this
+               <lb facs="#facs_266_tr_2_tl_3" n="N003"/>division makes the description of any sickness impossible. This is the discovery, a rediscovery,
+               <lb facs="#facs_266_tr_2_tl_4" n="N004"/>of the 20th century. And this rediscovery is a return of man to himself.
+               <lb facs="#facs_266_tr_2_tl_5" n="N005"/>Here something very interesting (which will astonish you) comes to my mind, namely
+               <lb facs="#facs_266_tr_2_tl_6" n="N006"/>the fact that Christianity was, especially in its Platonic-Augustinian line of thought, partly responsible
+               <lb facs="#facs_266_tr_2_tl_7" n="N007"/>for the Cartesian division. <rs type="person">Descartes</rs> belongs to the Augustinian tradition. What does this
+               <lb facs="#facs_266_tr_2_tl_8" n="N008"/>mean? It means that they followed the <rs type="keyword" ref="#Platonism">Platonic </rs>division of the world of essences and the world of
+               <lb facs="#facs_266_tr_2_tl_9" n="N009"/>mathematical bodies and their movements. Platonism is the foundation of modern mathematical
+               <lb facs="#facs_266_tr_2_tl_10" n="N010"/>science, while <rs type="keyword" ref="#Aristotelianism">Aristotelianism</rs> is a reaction against it, and <rs type="person">Aristotle</rs> is the father of the <rs type="keyword" ref="#Gestalt">gestalt</rs>
+               <lb facs="#facs_266_tr_2_tl_12" n="N011"/>thinking, the thinking in terms of gestalt---because Aristotle comes from <biology>biology;</biology>
+               <lb facs="#facs_266_tr_2_tl_13" n="N012"/><rs type="person">Plato </rs>comes from <rs type="keyword" ref="#Pythagorean_School">Pythagorean</rs> physics and mathematics. And since Christianity had in itself
+               <lb facs="#facs_266_tr_2_tl_14" n="N013"/>this dualistic tendency of separating body and soul (as it usually was called), it was very much in favor
+               <lb facs="#facs_266_tr_2_tl_15" n="N014"/>for what I call man losing himself. Here Christianity and mathematical science went together,
+               <lb facs="#facs_266_tr_2_tl_16" n="N015"/>both coming from <rs type="person">Plato </rs>and the <rs type="keyword" ref="#Pythagorean_School">Pythagoreans.</rs>
+               <lb facs="#facs_266_tr_2_tl_17" n="N016"/>Now this is the view which sometimes should be realized, if you want to understand the
+               <lb facs="#facs_266_tr_2_tl_18" n="N017"/>history of physics and the history of such a thing as<rs type="keyword" ref="#Gestalt"> gestalt </rs>psychology in relation to the fundamental
+               <lb facs="#facs_266_tr_2_tl_19" n="N018"/>forms of thinking as they were developed in Greek thought. But this was a footnote to the
+               <lb facs="#facs_266_tr_2_tl_20" n="N019"/>history of philosophy which I gave because I hope it ASTONISHED you---usually "Christianity and
+               <lb facs="#facs_266_tr_2_tl_21" n="N020"/><rs type="person">Plato</rs>: that belongs together, both are idealist, and nonsense of course"---and so on.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

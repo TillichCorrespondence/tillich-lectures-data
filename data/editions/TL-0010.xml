@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p010</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p010</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_10">
+         <graphic url="TL-0010.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=IKQJWNSNFVDMGQQHZZRHAHSQ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="1312,360 1196,360 1196,286 1312,286" rendition="TextRegion" xml:id="facs_10_r">
+            <zone points="1205,354 1300,351 1300,336 1205,339" rendition="Line" xml:id="facs_10_l"/>
+         </zone>
+         <zone points="95,463 95,3455 2274,3455 2274,463" rendition="TextRegion" xml:id="facs_10_tr_1">
+            <zone points="273,528 2174,516 2176,436 1148,471 1016,439 746,478 503,421 439,468 273,466" rendition="Line" xml:id="facs_10_tr_1_tl_1"/>
+            <zone points="273,612 2142,587 2142,530 1596,560 1368,516 1225,555 273,568" rendition="Line" xml:id="facs_10_tr_1_tl_2"/>
+            <zone points="270,692 2152,677 2152,615 270,642" rendition="Line" xml:id="facs_10_tr_1_tl_3"/>
+            <zone points="278,788 1745,788 2271,756 2273,697 568,697 501,731 280,694" rendition="Line" xml:id="facs_10_tr_1_tl_4"/>
+            <zone points="275,873 1172,890 2218,843 2218,786 2040,768 1217,813 275,788" rendition="Line" xml:id="facs_10_tr_1_tl_5"/>
+            <zone points="270,947 2253,925 2253,868 2040,850 1772,887 270,885" rendition="Line" xml:id="facs_10_tr_1_tl_6"/>
+            <zone points="265,1031 1733,1011 2035,1044 2035,962 1993,947 1713,932 1490,974 265,969" rendition="Line" xml:id="facs_10_tr_1_tl_7"/>
+            <zone points="523,1220 2196,1187 2196,1125 2102,1101 1167,1148 525,1125" rendition="Line" xml:id="facs_10_tr_1_tl_8" subtype="paragraph"/>
+            <zone points="265,1272 939,1301 1465,1267 1549,1299 1666,1264 2216,1277 2218,1210 265,1220" rendition="Line" xml:id="facs_10_tr_1_tl_9"/>
+            <zone points="265,1366 2164,1346 2164,1299 1896,1279 265,1316" rendition="Line" xml:id="facs_10_tr_1_tl_10"/>
+            <zone points="286,1433 368,1430 450,1430 532,1430 615,1430 697,1429 779,1428 861,1427 944,1430 1026,1428 1108,1427 1190,1424 1273,1424 1355,1424 1437,1421 1519,1421 1602,1421 1684,1421 1766,1416 1848,1418 2242,1430 2242,1415 1848,1403 1766,1401 1684,1406 1602,1406 1519,1406 1437,1406 1355,1409 1273,1409 1190,1409 1108,1412 1026,1413 944,1415 861,1412 779,1413 697,1414 615,1415 532,1415 450,1415 368,1415 285,1418" rendition="Line" xml:id="facs_10_tr_1_tl_12"/>
+            <zone points="265,1554 2191,1517 2194,1465 268,1465" rendition="Line" xml:id="facs_10_tr_1_tl_13"/>
+            <zone points="265,1604 1616,1619 1648,1586 2139,1599 2142,1542 265,1554" rendition="Line" xml:id="facs_10_tr_1_tl_15"/>
+            <zone points="265,1698 2164,1683 2164,1633 1767,1606 265,1651" rendition="Line" xml:id="facs_10_tr_1_tl_16"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0010.jpg" n="part1_p010.jpg" xml:id="img_0010" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p010.jpg"/>
+            
+            <ab facs="#facs_10_r">
+               <lb facs="#facs_10_l" n="N001"/>[7]
+            </ab>
+            <ab facs="#facs_10_tr_1">
+               <lb facs="#facs_10_tr_1_tl_1" n="N001"/>This is usually not done, but there is no possible understanding of the relation of culture
+               <lb facs="#facs_10_tr_1_tl_2" n="N002"/>and religion without an understanding of language and religion. Much unnecessary funda-
+               <lb facs="#facs_10_tr_1_tl_3" n="N003"/>mentalism could have been avoided, in the history of Christianity, if the theologians and
+               <lb facs="#facs_10_tr_1_tl_4" n="N004"/>philosophers (the ones from the one side, the others from the other side) would have realized
+               <lb facs="#facs_10_tr_1_tl_5" n="N005"/>that language is present in religion as much as in any cultural human creativity, in spite of
+               <lb facs="#facs_10_tr_1_tl_6" n="N006"/>the fact that religion in its essence is not a part of man's cultural creativity, but in a similar
+               <lb facs="#facs_10_tr_1_tl_7" n="N007"/>relationship to it as man is to his world: belonging to it, and not belonging to it.
+               <lb facs="#facs_10_tr_1_tl_8" n="N008"/>This is the first consideration. After we have finished the fundamental analysis
+               <lb facs="#facs_10_tr_1_tl_9" n="N009"/>of the concept of religion and its relation to culture, and especially a section which is very
+               <lb facs="#facs_10_tr_1_tl_10" n="N010"/>important for me, some description of the way in which our present-day, 1955, Western
+               <lb facs="#facs_10_tr_1_tl_12" n="N011"/>culture, these two realities, are related to each other. I don’t want to speak ''in the air.'' I
+               <lb facs="#facs_10_tr_1_tl_13" n="N012"/>have learned a little bit, I hope, from those groups who know that all cultural creativities
+               <lb facs="#facs_10_tr_1_tl_15" n="N013"/>have roots in the social, economic and political situation. But after we have discussed this
+               <lb facs="#facs_10_tr_1_tl_16" n="N014"/>I will come (as the first concrete discussion) to the relationship of religion and language.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

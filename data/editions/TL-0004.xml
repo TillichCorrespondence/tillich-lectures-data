@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p004</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p004</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_4">
+         <graphic url="TL-0004.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=JUBWGCYMAHOMSVEPGVGNMPCT&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="23,508 23,3467 2314,3467 2314,3223 2314,508" rendition="TextRegion" xml:id="facs_4_tr_2" subtype="paragraph">
+            <zone points="847,579 1490,581 1488,499 1277,494 1242,519 1205,497 884,492 844,517" rendition="Line" xml:id="facs_4_tr_2_tl_1" subtype="heading"/>
+            <zone points="1664,678 1681,676 1719,700 1746,683 1950,686 1950,638 1927,638 1905,616 1821,618 1791,646 1776,633 1726,641 1706,626 1696,636 1664,636" rendition="Line" xml:id="facs_4_tr_2_tl_2"/>
+            <zone points="1657,748 1806,758 1823,745 1860,763 2002,763 2002,705 1821,703 1808,690 1754,708 1657,698" rendition="Line" xml:id="facs_4_tr_2_tl_3"/>
+            <zone points="1669,802 1823,800 1855,817 1903,805 1927,822 1957,800 2109,802 2109,753 2024,745 1957,765 1669,753" rendition="Line" xml:id="facs_4_tr_2_tl_5"/>
+            <zone points="261,889 306,894 320,909 387,887 452,902 482,889 517,902 594,902 594,837 504,837 469,862 440,840 373,862 350,847 328,859 306,837 261,835" rendition="Line" xml:id="facs_4_tr_2_tl_6" subtype="heading"/>
+            <zone points="509,1066 1503,1085 1796,1043 1888,1085 2124,1078 2124,1023 1967,1006 509,1016" rendition="Line" xml:id="facs_4_tr_2_tl_7" subtype="paragraph"/>
+            <zone points="253,1138 2163,1157 2163,1095 2044,1125 2009,1090 343,1113 301,1078 253,1113" rendition="Line" xml:id="facs_4_tr_2_tl_8"/>
+            <zone points="261,1222 1545,1254 2032,1244 2044,1197 258,1192" rendition="Line" xml:id="facs_4_tr_2_tl_9"/>
+            <zone points="263,1316 2091,1334 2091,1284 2004,1262 263,1264" rendition="Line" xml:id="facs_4_tr_2_tl_10"/>
+            <zone points="258,1393 2089,1411 2089,1346 1972,1378 258,1349" rendition="Line" xml:id="facs_4_tr_2_tl_11"/>
+            <zone points="253,1473 1361,1475 1773,1523 2206,1493 2206,1426 253,1443" rendition="Line" xml:id="facs_4_tr_2_tl_12"/>
+            <zone points="258,1562 2094,1605 2069,1518 1925,1532 1773,1480 1463,1542 877,1503 258,1525" rendition="Line" xml:id="facs_4_tr_2_tl_13"/>
+            <zone points="253,1649 2181,1684 2178,1612 2019,1590 1617,1627 253,1602" rendition="Line" xml:id="facs_4_tr_2_tl_14"/>
+            <zone points="253,1761 934,1736 2178,1786 2178,1684 253,1684" rendition="Line" xml:id="facs_4_tr_2_tl_15"/>
+            <zone points="248,1811 529,1811 658,1860 2134,1848 2134,1781 2076,1768 248,1768" rendition="Line" xml:id="facs_4_tr_2_tl_16"/>
+            <zone points="248,1920 2094,1942 2146,1908 2114,1863 1587,1875 1408,1838 248,1858" rendition="Line" xml:id="facs_4_tr_2_tl_17"/>
+            <zone points="253,1977 658,1975 775,2027 2163,2037 2163,1935 253,1925" rendition="Line" xml:id="facs_4_tr_2_tl_18"/>
+            <zone points="243,2066 576,2104 817,2059 2146,2076 2119,2022 822,2037 601,1980 243,2024" rendition="Line" xml:id="facs_4_tr_2_tl_19"/>
+            <zone points="243,2143 2181,2181 2181,2116 1768,2086 1468,2124 1376,2091 243,2106" rendition="Line" xml:id="facs_4_tr_2_tl_20"/>
+            <zone points="238,2235 298,2275 1917,2275 1982,2268 1980,2188 236,2203" rendition="Line" xml:id="facs_4_tr_2_tl_21"/>
+            <zone points="489,2315 2156,2350 2156,2265 1664,2295 489,2255" rendition="Line" xml:id="facs_4_tr_2_tl_22" subtype="paragraph"/>
+            <zone points="238,2427 2116,2417 2116,2362 238,2355" rendition="Line" xml:id="facs_4_tr_2_tl_23"/>
+            <zone points="238,2499 2124,2491 2121,2434 236,2437" rendition="Line" xml:id="facs_4_tr_2_tl_24"/>
+            <zone points="248,2566 2188,2588 2213,2531 246,2516" rendition="Line" xml:id="facs_4_tr_2_tl_25"/>
+            <zone points="236,2645 2208,2660 2208,2613 2124,2598 236,2600" rendition="Line" xml:id="facs_4_tr_2_tl_26"/>
+            <zone points="243,2750 2191,2742 2191,2685 243,2687" rendition="Line" xml:id="facs_4_tr_2_tl_27"/>
+            <zone points="233,2814 2193,2831 2193,2779 2124,2772 233,2767" rendition="Line" xml:id="facs_4_tr_2_tl_28"/>
+            <zone points="231,2899 2191,2926 2191,2864 2121,2854 231,2869" rendition="Line" xml:id="facs_4_tr_2_tl_29"/>
+            <zone points="236,2980 2186,2993 2156,2941 1828,2928 1746,2963 236,2941" rendition="Line" xml:id="facs_4_tr_2_tl_30"/>
+            <zone points="233,3100 2193,3077 2148,3018 2044,3050 1391,3015 233,3038" rendition="Line" xml:id="facs_4_tr_2_tl_33"/>
+            <zone points="238,3167 2235,3159 2235,3112 2091,3105 238,3112" rendition="Line" xml:id="facs_4_tr_2_tl_34"/>
+            <zone points="224,3231 2124,3246 2124,3199 1992,3184 224,3207" rendition="Line" xml:id="facs_4_tr_2_tl_35"/>
+            <zone points="236,3321 1525,3326 1525,3281 1150,3256 236,3279" rendition="Line" xml:id="facs_4_tr_2_tl_37"/>
+            <zone points="1698,3324 2316,3323 2316,3308 1698,3309" rendition="Line" xml:id="facs_4_l_815"/>
+         </zone>
+         <zone points="2324,3330 1944,3330 1699,3330 1699,3257 2324,3257" rendition="TextRegion" xml:id="facs_4_r_793">
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0004.jpg" n="part1_p004.jpg" xml:id="img_0004" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p004.jpg"/>
+            
+            
+        </div>
+      </body>
+    </text>
+</TEI>

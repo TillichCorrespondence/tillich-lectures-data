@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part4_p056</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p056</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_56">
+         <graphic url="TL-0530.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LVLAJYTLJTKFGWXGBEEDPMKP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="152,227 2304,227 2304,995 152,995" rendition="TextRegion" xml:id="facs_56_tr_3">
+            <zone points="1079,279 1091,279 1110,293 1180,293 1197,288 1195,225 1163,228 1156,235 1144,233 1132,240 1120,238 1108,247 1076,247" rendition="Line" xml:id="facs_56_tr_3_tl_1"/>
+            <zone points="383,405 2266,414 2283,344 863,371 761,318 691,371 383,371" rendition="Line" xml:id="facs_56_tr_3_tl_2"/>
+            <zone points="630,516 2271,526 2213,468 630,477" rendition="Line" xml:id="facs_56_tr_3_tl_3"/>
+            <zone points="390,642 2298,642 2298,599 2017,584 390,584" rendition="Line" xml:id="facs_56_tr_3_tl_4"/>
+            <zone points="381,751 2126,783 2126,705 381,715" rendition="Line" xml:id="facs_56_tr_3_tl_5"/>
+            <zone points="138,800 177,805 182,812 228,814 269,805 286,793 303,797 315,788 327,790 342,698 235,725 216,705 177,732 148,730" rendition="Line" xml:id="facs_56_tr_3_tl_6"/>
+            <zone points="378,873 2208,882 2208,826 2138,822 378,834" rendition="Line" xml:id="facs_56_tr_3_tl_7"/>
+            <zone points="376,989 2143,994 2087,936 376,943" rendition="Line" xml:id="facs_56_tr_3_tl_8"/>
+         </zone>
+         <zone points="304,1048 2274,1048 2274,2401 304,2401" rendition="TextRegion" xml:id="facs_56_tr_2">
+            <zone points="368,1103 1951,1120 2177,1110 2177,1057 368,1081" rendition="Line" xml:id="facs_56_tr_2_tl_1"/>
+            <zone points="291,1243 2206,1268 2240,1173 291,1185" rendition="Line" xml:id="facs_56_tr_2_tl_2"/>
+            <zone points="371,1343 2126,1357 2203,1350 2203,1297 371,1314" rendition="Line" xml:id="facs_56_tr_2_tl_3"/>
+            <zone points="366,1457 2242,1459 2201,1408 1980,1401 366,1418" rendition="Line" xml:id="facs_56_tr_2_tl_4"/>
+            <zone points="371,1575 2210,1580 2155,1517 371,1534" rendition="Line" xml:id="facs_56_tr_2_tl_5"/>
+            <zone points="1125,1697 2215,1701 2215,1651 2128,1641 1125,1653" rendition="Line" xml:id="facs_56_tr_2_tl_6"/>
+            <zone points="366,1689 693,1709 824,1697 860,1716 902,1694 994,1714 994,1651 923,1641 739,1641 705,1668 669,1643 366,1653" rendition="Line" xml:id="facs_56_tr_2_tl_7"/>
+            <zone points="364,1803 2196,1813 2218,1757 364,1767" rendition="Line" xml:id="facs_56_tr_2_tl_8"/>
+            <zone points="368,1924 2050,1934 2050,1883 1910,1871 368,1878" rendition="Line" xml:id="facs_56_tr_2_tl_9"/>
+            <zone points="364,2038 2269,2072 2269,1995 2184,1983 364,2002" rendition="Line" xml:id="facs_56_tr_2_tl_10"/>
+            <zone points="368,2150 2257,2155 2193,2109 368,2130" rendition="Line" xml:id="facs_56_tr_2_tl_11"/>
+            <zone points="366,2288 2145,2286 2080,2225 366,2240" rendition="Line" xml:id="facs_56_tr_2_tl_12"/>
+            <zone points="351,2395 1532,2412 1694,2404 1694,2344 351,2370" rendition="Line" xml:id="facs_56_tr_2_tl_13"/>
+         </zone>
+         <zone points="44,2454 2248,2454 2248,3488 44,3488" rendition="TextRegion" xml:id="facs_56_tr_1">
+            <zone points="604,2540 2116,2521 2116,2470 604,2472" rendition="Line" xml:id="facs_56_tr_1_tl_1"/>
+            <zone points="351,2627 2169,2637 2121,2576 351,2593" rendition="Line" xml:id="facs_56_tr_1_tl_2"/>
+            <zone points="347,2744 2084,2758 2167,2751 2167,2702 347,2710" rendition="Line" xml:id="facs_56_tr_1_tl_3"/>
+            <zone points="342,2860 2208,2882 2162,2809 342,2841" rendition="Line" xml:id="facs_56_tr_1_tl_4"/>
+            <zone points="630,3042 950,2986 2014,2998 2242,2981 2242,2942 906,2913 630,2955" rendition="Line" xml:id="facs_56_tr_1_tl_5"/>
+            <zone points="485,3100 2232,3102 2232,3049 485,3049" rendition="Line" xml:id="facs_56_tr_1_tl_6"/>
+            <zone points="1987,3384 2021,3398 2060,3391 2080,3405 2106,3388 2123,3388 2138,3403 2169,3386 2186,3396 2208,3384 2235,3388 2235,3243 1987,3243" rendition="Line" xml:id="facs_56_tr_1_tl_7"/>
+            <zone points="1762,3396 1796,3391 1811,3405 1820,3405 1832,3393 1864,3403 1878,3391 1907,3391 1907,3245 1762,3243" rendition="Line" xml:id="facs_56_tr_1_tl_8"/>
+            <zone points="807,3420 873,3403 902,3422 928,3398 984,3420 1057,3396 1086,3420 1275,3420 1333,3393 1403,3417 1430,3391 1515,3396 1515,3318 938,3316 807,3335" rendition="Line" xml:id="facs_56_tr_1_tl_9"/>
+            <zone points="279,3391 354,3408 417,3388 434,3405 448,3396 468,3413 502,3396 543,3410 548,3316 465,3311 388,3321 351,3313 284,3321" rendition="Line" xml:id="facs_56_tr_1_tl_10"/>
+            <zone points="545,3430 574,3422 606,3437 625,3432 591,3323 574,3335 560,3328 553,3328 550,3333 533,3330 519,3335" rendition="Line" xml:id="facs_56_tr_1_tl_11"/>
+            <zone points="95,3410 131,3415 148,3403 172,3425 213,3393 228,3408 288,3413 288,3328 264,3335 148,3328 95,3340" rendition="Line" xml:id="facs_56_tr_1_tl_12"/>
+            <zone points="720,3427 739,3427 754,3413 771,3415 790,3396 814,3396 817,3291 783,3294 778,3289 744,3311 722,3311" rendition="Line" xml:id="facs_56_tr_1_tl_13"/>
+            <zone points="1806,3442 1832,3444 1864,3420 1878,3422 1888,3415 1905,3420 1915,3410 1929,3413 1932,3388 1869,3391 1861,3386 1849,3393 1830,3396 1813,3393" rendition="Line" xml:id="facs_56_tr_1_tl_14"/>
+            <zone points="1956,3432 1985,3437 2004,3417 2036,3439 2046,3434 2058,3439 2070,3432 2089,3442 2114,3434 2106,3396 2089,3405 2077,3405 2058,3393 2019,3398 1961,3359 1941,3357" rendition="Line" xml:id="facs_56_tr_1_tl_15"/>
+            <zone points="1394,3447 1420,3444 1447,3461 1505,3420 1525,3430 1549,3413 1614,3413 1626,3430 1665,3422 1680,3437 1714,3437 1716,3345 1592,3328 1537,3384 1508,3396 1396,3391" rendition="Line" xml:id="facs_56_tr_1_tl_16"/>
+            <zone points="378,3439 405,3437 414,3447 439,3449 456,3439 468,3442 480,3434 502,3434 516,3447 538,3454 543,3393 499,3396 482,3408 477,3403 458,3405 446,3396 422,3408 400,3391 383,3391" rendition="Line" xml:id="facs_56_tr_1_tl_17"/>
+            <zone points="897,3459 960,3459 991,3432 1018,3444 1062,3434 1083,3449 1122,3430 1217,3466 1246,3437 1287,3439 1304,3422 1343,3437 1374,3422 1377,3393 1294,3405 1275,3388 1248,3413 1168,3393 1132,3408 1113,3393 1086,3413 984,3393 897,3415" rendition="Line" xml:id="facs_56_tr_1_tl_18"/>
+            <zone points="99,3437 116,3437 148,3468 158,3468 189,3442 208,3456 218,3449 281,3456 281,3413 228,3405 211,3391 187,3410 167,3398 160,3405 148,3401 131,3415 99,3413" rendition="Line" xml:id="facs_56_tr_1_tl_19"/>
+            <zone points="279,3459 281,3456 293,3456 303,3444 308,3449 318,3444 332,3454 334,3449 349,3451 359,3447 361,3442 373,3442 368,3408 356,3410 332,3398 322,3403 315,3396 298,3391 291,3393 284,3388 269,3391" rendition="Line" xml:id="facs_56_tr_1_tl_20"/>
+            <zone points="1840,3442 1852,3439 1893,3464 1907,3464 1915,3451 1937,3447 1971,3454 1987,3471 2021,3461 2017,3420 2000,3420 1987,3432 1963,3432 1941,3415 1922,3420 1912,3413 1905,3422 1888,3415 1871,3422 1852,3408 1837,3410" rendition="Line" xml:id="facs_56_tr_1_tl_21"/>
+            <zone points="32,3481 204,3478 221,3488 286,3483 330,3493 354,3481 383,3485 383,3442 211,3456 189,3442 162,3461 143,3449 65,3459 32,3439" rendition="Line" xml:id="facs_56_tr_1_tl_22"/>
+            <zone points="378,3485 397,3478 429,3488 470,3485 490,3476 521,3485 562,3485 574,3476 584,3485 630,3481 628,3437 606,3437 574,3422 550,3425 533,3415 507,3444 453,3439 441,3449 417,3447 402,3434 376,3437" rendition="Line" xml:id="facs_56_tr_1_tl_23"/>
+            <zone points="892,3483 923,3485 936,3476 943,3485 965,3485 979,3473 1011,3485 1023,3478 1059,3478 1059,3442 1033,3437 1020,3447 977,3444 957,3459 948,3459 936,3447 919,3456 892,3454" rendition="Line" xml:id="facs_56_tr_1_tl_24"/>
+            <zone points="1672,3478 1721,3478 1726,3471 1740,3478 1772,3468 1781,3478 1815,3471 1832,3485 1852,3476 1878,3485 1893,3471 1924,3471 1924,3449 1881,3454 1844,3432 1832,3447 1820,3447 1798,3427 1781,3444 1764,3437 1748,3444 1735,3434 1718,3444 1670,3437" rendition="Line" xml:id="facs_56_tr_1_tl_25"/>
+            <zone points="1268,3478 1285,3478 1299,3490 1309,3490 1328,3473 1374,3476 1374,3427 1352,3427 1340,3439 1328,3439 1316,3427 1314,3430 1299,3425 1287,3437 1268,3437" rendition="Line" xml:id="facs_56_tr_1_tl_26"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0530.jpg" n="part4_p056.jpg" xml:id="img_0056" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p056.jpg"/>
+            
+            <ab facs="#facs_56_tr_3">
+               <lb facs="#facs_56_tr_3_tl_1" n="N001"/>-525
+               <lb facs="#facs_56_tr_3_tl_2" n="N002"/>and this means the esthical contents-come? How can we know, in a special moment, what to do?
+               <lb facs="#facs_56_tr_3_tl_3" n="N003"/>If this is understood and accepted, then we are driven to a very difficult alternative.
+               <lb facs="#facs_56_tr_3_tl_4" n="N004"/>This alternative is the conconditional character of the form of ethics, and theWditional character
+               <lb facs="#facs_56_tr_3_tl_5" n="N005"/>of the content of ethics. Ethics are dependent on culture; they change with every special
+               <lb facs="#facs_56_tr_3_tl_6" n="N006"/>H A
+               <lb facs="#facs_56_tr_3_tl_7" n="N007"/>situation; they have a certain kind of daicnuity in period which have,continuity themselves;
+               <lb facs="#facs_56_tr_3_tl_8" n="N008"/>they tend to get into complete dissolution in period in which the fundamental principles
+            </ab>
+            <ab facs="#facs_56_tr_2">
+               <lb facs="#facs_56_tr_2_tl_1" n="N001"/>disintegrate. This is the argument for the relative of ethics. And of course, if you look at
+               <lb facs="#facs_56_tr_2_tl_2" n="N002"/>the history of religion and the history of culture, you find much evidence for kthical relativism,
+               <lb facs="#facs_56_tr_2_tl_3" n="N003"/>oudence which cannot be derived, not only with respect to lrimitive cultures, or with respect
+               <lb facs="#facs_56_tr_2_tl_4" n="N004"/>to different high cultural groups, such as the Asiatic and the European, but also with respect to
+               <lb facs="#facs_56_tr_2_tl_5" n="N005"/>national and sociological difference within one group, as for instance American culture. The
+               <lb facs="#facs_56_tr_2_tl_6" n="N006"/>are comparatively homogeneous, if you compare them
+               <lb facs="#facs_56_tr_2_tl_7" n="N007"/> lthical contents, although they
+               <lb facs="#facs_56_tr_2_tl_8" n="N008"/>with the contents in Asia, or Africa (the primities), are nevertheless very much disferentiated
+               <lb facs="#facs_56_tr_2_tl_9" n="N009"/>with respect to social groups, local conditions, and historical tradition. All this has a
+               <lb facs="#facs_56_tr_2_tl_10" n="N010"/>tremendous influence on exhical contents, and this relativism goes even deeper into the individual
+               <lb facs="#facs_56_tr_2_tl_11" n="N011"/>who, if he is autonomous, makes decisions about his esthical decision about his moral attitude¬
+               <lb facs="#facs_56_tr_2_tl_12" n="N012"/>you remember I ’defined morale as the matter itself and ethics as the science of this matter.
+               <lb facs="#facs_56_tr_2_tl_13" n="N013"/>And they are different, and nevertheless they can be justified.
+            </ab>
+            <ab facs="#facs_56_tr_1">
+               <lb facs="#facs_56_tr_1_tl_1" n="N001"/>Now the anxious question, which is very often asked about this point, is the
+               <lb facs="#facs_56_tr_1_tl_2" n="N002"/>question of a relativism which makes not only community impossible—how can you live
+               <lb facs="#facs_56_tr_1_tl_3" n="N003"/>together if the esthical contents are completely relative and different?—but also with respect
+               <lb facs="#facs_56_tr_1_tl_4" n="N004"/>to the individual himself: what is the situation if you don’t know what to do if you are in the
+               <lb facs="#facs_56_tr_1_tl_5" n="N005"/>pross-section of different cultural lnfluences—and everybody is, to a great extent.
+               <lb facs="#facs_56_tr_1_tl_6" n="N006"/>We all are in the cross-section of at least humanistic secularism, Christian traditions—and
+               <lb facs="#facs_56_tr_1_tl_7" n="N007"/>Monsieur Mounard
+               <lb facs="#facs_56_tr_1_tl_8" n="N008"/>pour entendre
+               <lb facs="#facs_56_tr_1_tl_9" n="N009"/>Monsieur le Comte de lʼhonneur de
+               <lb facs="#facs_56_tr_1_tl_10" n="N010"/>mais je prends mon frere,
+               <lb facs="#facs_56_tr_1_tl_11" n="N011"/>Monsieur
+               <lb facs="#facs_56_tr_1_tl_12" n="N012"/>le prêter de
+               <lb facs="#facs_56_tr_1_tl_13" n="N013"/>Monsieur
+               <lb facs="#facs_56_tr_1_tl_14" n="N014"/>Monsieur
+               <lb facs="#facs_56_tr_1_tl_15" n="N015"/>dʼacquerir que
+               <lb facs="#facs_56_tr_1_tl_16" n="N016"/>dʼune manière beaucoup
+               <lb facs="#facs_56_tr_1_tl_17" n="N017"/>de votre beau;
+               <lb facs="#facs_56_tr_1_tl_18" n="N018"/>dans cette teinte valeur, que je nʼai pas
+               <lb facs="#facs_56_tr_1_tl_19" n="N019"/>dʼune manière
+               <lb facs="#facs_56_tr_1_tl_20" n="N020"/>a-t-elle
+               <lb facs="#facs_56_tr_1_tl_21" n="N021"/>dʼune manière
+               <lb facs="#facs_56_tr_1_tl_22" n="N022"/>lʼauteur dʼune manière vieuse
+               <lb facs="#facs_56_tr_1_tl_23" n="N023"/>Monsieur, que je ne lʼai
+               <lb facs="#facs_56_tr_1_tl_24" n="N024"/>de Vous avez
+               <lb facs="#facs_56_tr_1_tl_25" n="N025"/>dʼordre pour les
+               <lb facs="#facs_56_tr_1_tl_26" n="N026"/>Monsieur
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

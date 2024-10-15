@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part3_p043</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p043</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_43">
+         <graphic url="TL-0435.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=BOMRJAQSCEVZWWABJAWSLHEG&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,15 2227,15 2227,911 298,911" rendition="TextRegion" xml:id="facs_43_tr_3">
+            <zone points="971,77 1008,75 1023,82 1088,77 1086,5 1048,7 1041,0 1016,0 1006,7 969,10" rendition="Line" xml:id="facs_43_tr_3_tl_1"/>
+            <zone points="1133,276 1155,276 1168,286 1252,286 1250,207 1235,209 1210,234 1200,234 1193,227 1185,234 1175,227 1168,234 1133,234" rendition="Line" xml:id="facs_43_tr_3_tl_2"/>
+            <zone points="291,488 2037,486 2114,478 2114,411 291,431" rendition="Line" xml:id="facs_43_tr_3_tl_3"/>
+            <zone points="291,627 2149,620 2149,568 294,578" rendition="Line" xml:id="facs_43_tr_3_tl_4"/>
+            <zone points="284,759 2062,764 2062,710 284,737" rendition="Line" xml:id="facs_43_tr_3_tl_5"/>
+            <zone points="508,904 2219,916 2221,849 510,879" rendition="Line" xml:id="facs_43_tr_3_tl_6"/>
+         </zone>
+         <zone points="289,985 2283,985 2283,2338 289,2338" rendition="TextRegion" xml:id="facs_43_tr_1">
+            <zone points="284,1043 2236,1056 2236,991 284,1018" rendition="Line" xml:id="facs_43_tr_1_tl_1"/>
+            <zone points="279,1190 2276,1190 2276,1133 279,1165" rendition="Line" xml:id="facs_43_tr_1_tl_2"/>
+            <zone points="281,1337 1932,1350 2114,1332 2116,1277 284,1305" rendition="Line" xml:id="facs_43_tr_1_tl_3"/>
+            <zone points="276,1474 431,1521 1977,1484 2179,1477 2179,1419 276,1429" rendition="Line" xml:id="facs_43_tr_1_tl_4"/>
+            <zone points="279,1628 2054,1628 2234,1614 2234,1559 279,1581" rendition="Line" xml:id="facs_43_tr_1_tl_5"/>
+            <zone points="281,1765 2034,1765 2184,1758 2184,1703 281,1718" rendition="Line" xml:id="facs_43_tr_1_tl_6"/>
+            <zone points="276,1905 2017,1917 2154,1910 2154,1848 276,1877" rendition="Line" xml:id="facs_43_tr_1_tl_7"/>
+            <zone points="279,2044 1912,2054 2094,2044 2094,1987 279,1999" rendition="Line" xml:id="facs_43_tr_1_tl_8"/>
+            <zone points="276,2191 2107,2196 2107,2134 276,2144" rendition="Line" xml:id="facs_43_tr_1_tl_9"/>
+            <zone points="279,2341 2102,2341 2131,2258 279,2283" rendition="Line" xml:id="facs_43_tr_1_tl_10"/>
+         </zone>
+         <zone points="50,2410 2269,2410 2269,3496 50,3496" rendition="TextRegion" xml:id="facs_43_tr_2">
+            <zone points="271,2475 1955,2480 2112,2468 2112,2418 271,2430" rendition="Line" xml:id="facs_43_tr_2_tl_1"/>
+            <zone points="271,2622 2199,2614 2199,2557 271,2587" rendition="Line" xml:id="facs_43_tr_2_tl_2"/>
+            <zone points="271,2761 2094,2766 2224,2749 2224,2694 271,2734" rendition="Line" xml:id="facs_43_tr_2_tl_3"/>
+            <zone points="266,2903 1912,2908 2102,2896 2102,2844 266,2854" rendition="Line" xml:id="facs_43_tr_2_tl_4"/>
+            <zone points="264,3045 1120,3053 1088,2998 1013,2993 336,2988 264,3023" rendition="Line" xml:id="facs_43_tr_2_tl_5"/>
+            <zone points="496,3117 2216,3110 2263,3053 498,3068" rendition="Line" xml:id="facs_43_tr_2_tl_6"/>
+            <zone points="486,3429 715,3394 1703,3414 1743,3389 1745,3309 486,3334" rendition="Line" xml:id="facs_43_tr_2_tl_7"/>
+            <zone points="37,3424 92,3431 107,3419 167,3406 194,3414 244,3404 291,3411 314,3401 311,3322 259,3314 35,3322" rendition="Line" xml:id="facs_43_tr_2_tl_8"/>
+            <zone points="334,3488 386,3491 391,3496 438,3493 463,3319 438,3322 433,3314 406,3337 391,3332 376,3339 356,3337" rendition="Line" xml:id="facs_43_tr_2_tl_9"/>
+            <zone points="1743,3484 1778,3486 1803,3466 1823,3466 1872,3426 1885,3429 1905,3279 1887,3279 1858,3292 1843,3292 1833,3279 1788,3309 1765,3307" rendition="Line" xml:id="facs_43_tr_2_tl_10"/>
+            <zone points="1061,3484 1076,3484 1083,3493 1093,3493 1106,3491 1123,3476 1143,3493 1155,3493 1168,3481 1173,3486 1195,3486 1198,3396 1150,3396 1128,3404 1103,3396 1076,3414 1063,3414" rendition="Line" xml:id="facs_43_tr_2_tl_11"/>
+            <zone points="1606,3484 1638,3486 1648,3493 1688,3493 1698,3484 1711,3481 1708,3406 1691,3409 1676,3399 1663,3404 1653,3396 1601,3396" rendition="Line" xml:id="facs_43_tr_2_tl_12"/>
+            <zone points="1260,3493 1367,3436 1417,3441 1432,3426 1499,3444 1564,3493 1611,3484 1611,3409 1574,3411 1554,3391 1439,3404 1424,3389 1397,3389 1355,3409 1260,3399" rendition="Line" xml:id="facs_43_tr_2_tl_13"/>
+            <zone points="129,3491 182,3493 189,3488 192,3493 274,3496 281,3411 259,3404 217,3404 187,3414 177,3414 172,3406 152,3414 139,3411" rendition="Line" xml:id="facs_43_tr_2_tl_14"/>
+            <zone points="839,3493 857,3493 867,3484 876,3493 901,3493 909,3486 916,3491 929,3491 929,3409 906,3409 904,3406 889,3411 862,3411 854,3406 839,3406" rendition="Line" xml:id="facs_43_tr_2_tl_15"/>
+            <zone points="510,3491 545,3493 555,3486 563,3493 672,3493 682,3416 647,3419 618,3404 613,3409 585,3404 545,3429 540,3421 520,3424" rendition="Line" xml:id="facs_43_tr_2_tl_16"/>
+            <zone points="1397,3479 1414,3476 1429,3488 1449,3484 1467,3493 1479,3493 1489,3481 1506,3481 1499,3426 1492,3426 1482,3436 1469,3434 1459,3424 1454,3429 1412,3426 1407,3431 1389,3434" rendition="Line" xml:id="facs_43_tr_2_tl_17"/>
+            <zone points="261,3496 274,3496 276,3493 291,3491 311,3491 324,3496 326,3493 341,3491 334,3449 316,3451 299,3441 291,3444 281,3456 274,3454 269,3459 256,3459" rendition="Line" xml:id="facs_43_tr_2_tl_18"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0435.jpg" n="part3_p043.jpg" xml:id="img_0043" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p043.jpg"/>
+            
+            <ab facs="#facs_43_tr_3">
+               <lb facs="#facs_43_tr_3_tl_1" n="N001"/>e
+               <lb facs="#facs_43_tr_3_tl_2" n="N002"/>-430-
+               <lb facs="#facs_43_tr_3_tl_3" n="N003"/>treatment, and the automomous ideal of creative out of human freedom, and following the
+               <lb facs="#facs_43_tr_3_tl_4" n="N004"/>rational structure of thought and the aesthetic structure and the esthical structure; and on the
+               <lb facs="#facs_43_tr_3_tl_5" n="N005"/>other hand the religious.traditions, which were partly very much OUTSIDE this situation.
+               <lb facs="#facs_43_tr_3_tl_6" n="N006"/>And to this moment, today, I believe there is only one possibility, namely a possibility
+            </ab>
+            <ab facs="#facs_43_tr_1">
+               <lb facs="#facs_43_tr_1_tl_1" n="N001"/>which I will call (and ask for your permission) by the old, beautiful and (as [with] all these words)
+               <lb facs="#facs_43_tr_1_tl_2" n="N002"/>deteriorized name: initiation—from the Latin, "going-into" something, namely into what?: into the
+               <lb facs="#facs_43_tr_1_tl_3" n="N003"/>mysteries, in the mystery cults, into the esoteric inner knowledge. I take this as a metaphor.
+               <lb facs="#facs_43_tr_1_tl_4" n="N004"/>I don’t want to establish a new mystery religion, with this /some daughter] —for this you better
+               <lb facs="#facs_43_tr_1_tl_5" n="N005"/>go to Iifornia! [laughter] —but what I want to say is that beyond the humanisticòvelopment of
+               <lb facs="#facs_43_tr_1_tl_6" n="N006"/>man’s potentialities, beyond the public education to Neills and beyond theefroduction into the
+               <lb facs="#facs_43_tr_1_tl_7" n="N007"/> religious groups and their symbols and rite, there is something higher than all of them, namely
+               <lb facs="#facs_43_tr_1_tl_8" n="N008"/>the mysterious of life itself, the answer to the question of the meaning of our existence. And
+               <lb facs="#facs_43_tr_1_tl_9" n="N009"/>initiation would mean: to show in all these three forms of education the point in which they
+               <lb facs="#facs_43_tr_1_tl_10" n="N010"/>cease to be sufficient--and that's what Protestantism can do, even with itself as [an example] :
+            </ab>
+            <ab facs="#facs_43_tr_2">
+               <lb facs="#facs_43_tr_2_tl_1" n="N001"/>it can and must show its own insufficiency. There is in the mystery of life something which
+               <lb facs="#facs_43_tr_2_tl_2" n="N002"/>transcends the Christian answer, if the Christian answer is taken in terms of church doctrine and
+               <lb facs="#facs_43_tr_2_tl_3" n="N003"/>church rituals and church morale. This ultimate transcends every concrete situation, but expenses
+               <lb facs="#facs_43_tr_2_tl_4" n="N004"/>itself secularly as well as religiously in the symbol ofEieularism as weil as in the Abbols of
+               <lb facs="#facs_43_tr_2_tl_5" n="N005"/>religion, but is not bound to any of them...
+               <lb facs="#facs_43_tr_2_tl_6" n="N006"/>So I would say: in education it success not only to use the humanistic counterbalance
+               <lb facs="#facs_43_tr_2_tl_7" n="N007"/>Cela nʼentraîne de lʼauteur beaucoup de nouveau.
+               <lb facs="#facs_43_tr_2_tl_8" n="N008"/>Mais elle est vrai le
+               <lb facs="#facs_43_tr_2_tl_9" n="N009"/>dire une
+               <lb facs="#facs_43_tr_2_tl_10" n="N010"/>Monsieur
+               <lb facs="#facs_43_tr_2_tl_11" n="N011"/>dʼacquerir
+               <lb facs="#facs_43_tr_2_tl_12" n="N012"/>dans le
+               <lb facs="#facs_43_tr_2_tl_13" n="N013"/>dʼune manière est devenu
+               <lb facs="#facs_43_tr_2_tl_14" n="N014"/>dʼun autre
+               <lb facs="#facs_43_tr_2_tl_15" n="N015"/>Je ne suis
+               <lb facs="#facs_43_tr_2_tl_16" n="N016"/>dʼune manière
+               <lb facs="#facs_43_tr_2_tl_17" n="N017"/>dʼOndine
+               <lb facs="#facs_43_tr_2_tl_18" n="N018"/>dʼun autre
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

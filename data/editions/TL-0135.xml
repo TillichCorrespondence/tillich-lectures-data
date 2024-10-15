@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p135</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p135</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_135">
+         <graphic url="TL-0135.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LEICPJTTAHIOTTLCSQDMOLHE&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="11,206 11,3504 2370,3504 2370,206" rendition="TextRegion" xml:id="facs_135_tr_1">
+            <zone points="1088,274 1103,274 1123,294 1137,294 1146,286 1163,286 1172,294 1206,286 1204,182 1166,188 1152,185 1137,190 1129,202 1088,202" rendition="Line" xml:id="facs_135_tr_1_tl_1"/>
+            <zone points="309,499 2225,522 2225,456 1613,450 1559,404 1512,450 309,447" rendition="Line" xml:id="facs_135_tr_1_tl_3"/>
+            <zone points="303,644 924,710 1028,652 2312,661 2312,597 300,586" rendition="Line" xml:id="facs_135_tr_1_tl_4"/>
+            <zone points="297,791 2315,820 2315,750 297,762" rendition="Line" xml:id="facs_135_tr_1_tl_5"/>
+            <zone points="294,944 2326,967 2326,895 1758,924 294,883" rendition="Line" xml:id="facs_135_tr_1_tl_6"/>
+            <zone points="297,1100 2251,1117 2248,1056 297,1045" rendition="Line" xml:id="facs_135_tr_1_tl_7"/>
+            <zone points="292,1241 2237,1264 2237,1198 292,1209" rendition="Line" xml:id="facs_135_tr_1_tl_8"/>
+            <zone points="286,1391 2364,1434 2364,1351 286,1362" rendition="Line" xml:id="facs_135_tr_1_tl_9"/>
+            <zone points="289,1553 416,1605 678,1567 1097,1608 1495,1605 1642,1553 2147,1564 2144,1510 1942,1486 1515,1527 286,1498" rendition="Line" xml:id="facs_135_tr_1_tl_10"/>
+            <zone points="277,1700 2347,1720 2347,1657 277,1668" rendition="Line" xml:id="facs_135_tr_1_tl_11"/>
+            <zone points="277,1856 2208,1867 2208,1807 277,1821" rendition="Line" xml:id="facs_135_tr_1_tl_12"/>
+            <zone points="277,2015 1056,2003 1117,2052 1261,2055 2185,2029 2185,1960 277,1957" rendition="Line" xml:id="facs_135_tr_1_tl_13"/>
+            <zone points="266,2153 514,2173 560,2162 652,2168 652,2121 623,2121 595,2093 317,2093 289,2121 266,2124" rendition="Line" xml:id="facs_135_tr_1_tl_14"/>
+            <zone points="367,2231 2303,2248 2303,2202 2093,2170 2026,2202 1994,2170 990,2199 367,2162" rendition="Line" xml:id="facs_135_tr_1_tl_15" subtype="paragraph"/>
+            <zone points="271,2390 2347,2396 2347,2329 271,2323" rendition="Line" xml:id="facs_135_tr_1_tl_16"/>
+            <zone points="268,2540 597,2537 736,2598 892,2563 1305,2595 1357,2543 1443,2598 2214,2572 2214,2488 2156,2485 268,2482" rendition="Line" xml:id="facs_135_tr_1_tl_17"/>
+            <zone points="254,2678 2306,2702 2306,2635 2205,2632 254,2650" rendition="Line" xml:id="facs_135_tr_1_tl_19"/>
+            <zone points="257,2834 883,2843 926,2886 2341,2866 2341,2782 901,2808 638,2753 257,2800" rendition="Line" xml:id="facs_135_tr_1_tl_20"/>
+            <zone points="355,2981 2046,3042 2136,3013 2133,2921 1865,2918 1821,2964 352,2930" rendition="Line" xml:id="facs_135_tr_1_tl_21" subtype="paragraph"/>
+            <zone points="17,3235 260,3137 909,3146 967,3204 1077,3204 1408,3134 2332,3158 2332,3085 263,3103 14,2984" rendition="Line" xml:id="facs_135_tr_1_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0135.jpg" n="part1_p135.jpg" xml:id="img_0135" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p135.jpg"/>
+            
+            <ab facs="#facs_135_tr_1">
+               <lb facs="#facs_135_tr_1_tl_1" n="N001"/>[132]
+               <lb facs="#facs_135_tr_1_tl_3" n="N002"/>inclined to become organicists and mechanists because they believe that this saves the concept of
+               <lb facs="#facs_135_tr_1_tl_4" n="N003"/>freedom, and with it responsibility, etc., which belongs to the theological concept of man. But this is
+               <lb facs="#facs_135_tr_1_tl_5" n="N004"/>not the case. <rs type="keyword" ref="#Theology">Theology can accept a completely mechanistic method of chemical analysis for all living
+               <lb break="no" facs="#facs_135_tr_1_tl_6" n="N005"/>bodies, including the human body, without being afraid of it, because the question of that which is the
+               <lb break="no" facs="#facs_135_tr_1_tl_7" n="N006"/>RESULT of this, namely spontaneity, life, and ultimately spirit, are never dependent on the way in
+               <lb break="no" facs="#facs_135_tr_1_tl_8" n="N007"/>which the organic bearers of all this are understood in scientific terms. They can be understood in
+               <lb break="no" facs="#facs_135_tr_1_tl_9" n="N008"/>this way and that way. <rs type="keyword" ref="#Gestalt"/></rs><rs type="keyword" ref="#Gestalt">As a scientist and a philosopher of science, I would say it is absolutely impossible
+               <lb break="no" facs="#facs_135_tr_1_tl_10" n="N009"/>to understand living beings WITHOUT the concept of <hi style="font-style: italic;">Gestalt</hi>. But I would ALSO say: if this
+               <lb break="no" facs="#facs_135_tr_1_tl_11" n="N010"/>concept is introduced--like SOME philosophers did in earlier times--as a special cause beside the other
+               <lb break="no" facs="#facs_135_tr_1_tl_12" n="N011"/>causes, then we come into a kind of miraculous interference into the chemical processes, which is
+               <lb break="no" facs="#facs_135_tr_1_tl_13" n="N012"/>equally wrong.</rs> Such was the character of the old vitalist philosophy, which is now dismissed by
+               <lb facs="#facs_135_tr_1_tl_14" n="N013"/>almost everybody.
+               <lb facs="#facs_135_tr_1_tl_15" n="N014"/><rs type="keyword" ref="#Theology">But if we say this is the situation with living beings, they are bearers of something which can have
+               <lb break="no" facs="#facs_135_tr_1_tl_16" n="N015"/>ultimate concern--we ourselves--how these bearers are described and calculated in terms of description
+               <lb break="no" facs="#facs_135_tr_1_tl_17" n="N016"/>and explanation cannot be dictated by theology at all.</rs> On the other hand, science cannot dictate,
+               <lb facs="#facs_135_tr_1_tl_19" n="N017"/>by being predominantly vitalistic or mechanistic, how this must be so that if it is this way or that way,
+               <lb facs="#facs_135_tr_1_tl_20" n="N018"/>theology is accepted or refuted. All this is an impossible mixture of dimensions and in no way necessary.
+               <lb facs="#facs_135_tr_1_tl_21" n="N019"/>This brings me to the last and decisive point, namely the doctrine of man--''psychology,''
+               <lb facs="#facs_135_tr_1_tl_22" n="N020"/>as my neurologist friend Professor <rs type="person" key="Goldstein, Kurt">Kurt Goldstein</rs> in New York always says, doesn't exist; the only thing
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

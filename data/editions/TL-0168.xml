@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p168</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p168</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_168">
+         <graphic url="TL-0168.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZPXFFVPWTHQQFRURFUCHKQGF&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="343,253 343,3479 2346,3479 2346,253" rendition="TextRegion" xml:id="facs_168_tr_3">
+            <zone points="1213,316 1236,316 1248,329 1263,326 1278,334 1312,334 1322,324 1334,321 1332,262 1297,264 1258,252 1246,264 1211,267" rendition="Line" xml:id="facs_168_tr_3_tl_1"/>
+            <zone points="363,499 1428,519 1722,477 1821,526 2009,519 2007,415 1866,447 1631,287 1495,292 1322,435 363,423" rendition="Line" xml:id="facs_168_tr_3_tl_2"/>
+            <zone points="563,615 2234,643 2232,588 2007,608 1767,539 1616,581 1515,546 1461,596 563,563" rendition="Line" xml:id="facs_168_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="356,754 2286,808 2343,796 2343,739 353,729" rendition="Line" xml:id="facs_168_tr_3_tl_5"/>
+            <zone points="356,912 2212,942 2212,890 2148,880 356,860" rendition="Line" xml:id="facs_168_tr_3_tl_6"/>
+            <zone points="351,1060 2204,1097 2202,1043 2128,1033 351,1008" rendition="Line" xml:id="facs_168_tr_3_tl_7"/>
+            <zone points="544,1213 2130,1248 2152,1184 541,1174" rendition="Line" xml:id="facs_168_tr_3_tl_8" subtype="paragraph"/>
+            <zone points="348,1357 2192,1396 2190,1339 348,1310" rendition="Line" xml:id="facs_168_tr_3_tl_9"/>
+            <zone points="346,1517 2274,1547 2271,1493 2185,1488 1268,1498 751,1451 344,1480" rendition="Line" xml:id="facs_168_tr_3_tl_10"/>
+            <zone points="346,1671 2113,1732 2128,1609 344,1629" rendition="Line" xml:id="facs_168_tr_3_tl_11"/>
+            <zone points="329,1839 390,1878 781,1844 1233,1873 1485,1831 2217,1851 2217,1797 2081,1792 329,1787" rendition="Line" xml:id="facs_168_tr_3_tl_12"/>
+            <zone points="336,1972 546,1972 546,1910 534,1910 521,1923 474,1923 467,1915 455,1925 408,1923 400,1915 381,1923 336,1920" rendition="Line" xml:id="facs_168_tr_3_tl_13"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0168.jpg" n="part1_p168.jpg" xml:id="img_0168" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p168.jpg"/>
+            
+            <ab facs="#facs_168_tr_3">
+               <lb facs="#facs_168_tr_3_tl_1" n="N001"/>[165]
+               <lb facs="#facs_168_tr_3_tl_2" n="N002"/>matter of a counter-God from whom we have to flee to the God ABOVE the world.
+               <lb facs="#facs_168_tr_3_tl_4" n="N003"/>Now that's what is at stake in these discussions. If <rs type="keyword" ref="#Historical_research">historical research</rs> into the biblical
+               <lb facs="#facs_168_tr_3_tl_5" n="N004"/>sources is limited in its complete scientific freedom BY <rs type="keyword" ref="#Faith">FAITH</rs>, then we have a relapse into the <rs type="keyword" ref="#Pagan">pagan</rs>
+               <lb facs="#facs_168_tr_3_tl_6" n="N005"/><rs type="keyword" ref="#Manichaenism">Manichaean </rs>worldview and have given up that fundamental principle for which Christianity has
+               <lb facs="#facs_168_tr_3_tl_7" n="N006"/>fought a life-and-death struggle when it accepted the Old Testament and rejected Manichaeism.
+               <lb facs="#facs_168_tr_3_tl_8" n="N007"/>Now to this depth, such seemingly methodological considerations must be traced.
+               <lb facs="#facs_168_tr_3_tl_9" n="N008"/>There the real decisions are made---and of course one STILL can decide for the one against the
+               <lb facs="#facs_168_tr_3_tl_10" n="N009"/>other side, but the decision in which <hi style="text-decoration: underline;">I</hi> believe, which is identical with the Jewish-Christian-Islamic
+               <lb facs="#facs_168_tr_3_tl_11" n="N010"/>and most of the modern humanist tradition, is FOR the principle: "being-as-being is good,"
+               <lb facs="#facs_168_tr_3_tl_12" n="N011"/><rs type="keyword" ref="#Historical_research">historical research as historical research is good, </rs>and doesn't need to be sacrificed for the sake of
+               <lb facs="#facs_168_tr_3_tl_13" n="N012"/><rs type="keyword" ref="#Salvation">salvation!</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

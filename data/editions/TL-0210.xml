@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p210</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p210</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_210">
+         <graphic url="TL-0210.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XJGASRENYMIPWTCIGMIPVDIZ&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="50,165 50,3458 2352,3458 2352,165" rendition="TextRegion" xml:id="facs_210_tr_1">
+            <zone points="1195,218 1212,220 1223,230 1278,230 1293,228 1306,218 1319,218 1319,154 1306,154 1281,180 1273,180 1248,159 1225,182 1195,182" rendition="Line" xml:id="facs_210_tr_1_tl_1"/>
+            <zone points="324,362 2248,413 2308,408 2308,354 934,299 321,321" rendition="Line" xml:id="facs_210_tr_1_tl_2"/>
+            <zone points="316,506 2329,557 2326,494 2073,481 316,473" rendition="Line" xml:id="facs_210_tr_1_tl_3"/>
+            <zone points="314,653 1486,711 1947,686 2096,739 2346,699 2306,640 314,623" rendition="Line" xml:id="facs_210_tr_1_tl_4"/>
+            <zone points="316,813 1516,835 1516,777 316,762" rendition="Line" xml:id="facs_210_tr_1_tl_6"/>
+            <zone points="311,964 2212,995 2210,939 311,906" rendition="Line" xml:id="facs_210_tr_1_tl_8"/>
+            <zone points="311,1116 567,1119 671,1187 1438,1157 2238,1202 2253,1096 309,1076" rendition="Line" xml:id="facs_210_tr_1_tl_9"/>
+            <zone points="301,1278 372,1316 1149,1286 1504,1336 2212,1301 2212,1248 1987,1235 301,1238" rendition="Line" xml:id="facs_210_tr_1_tl_10"/>
+            <zone points="294,1412 415,1466 1473,1476 1506,1445 1921,1506 2263,1493 2260,1397 294,1385" rendition="Line" xml:id="facs_210_tr_1_tl_11"/>
+            <zone points="294,1572 2260,1615 2260,1554 291,1514" rendition="Line" xml:id="facs_210_tr_1_tl_12"/>
+            <zone points="291,1711 382,1762 1478,1742 1557,1795 2311,1797 2308,1698 291,1683" rendition="Line" xml:id="facs_210_tr_1_tl_13"/>
+            <zone points="278,1896 2276,1906 2276,1853 2159,1830 1919,1871 716,1815 278,1840" rendition="Line" xml:id="facs_210_tr_1_tl_14"/>
+            <zone points="286,2020 2200,2050 2200,2000 2146,1995 286,1967" rendition="Line" xml:id="facs_210_tr_1_tl_15"/>
+            <zone points="271,2162 742,2205 2298,2205 2298,2146 271,2136" rendition="Line" xml:id="facs_210_tr_1_tl_16"/>
+            <zone points="271,2316 1071,2354 1509,2341 1509,2291 268,2265" rendition="Line" xml:id="facs_210_tr_1_tl_17"/>
+            <zone points="473,2483 537,2531 2157,2546 2154,2445 473,2415" rendition="Line" xml:id="facs_210_tr_1_tl_18" subtype="paragraph"/>
+            <zone points="263,2622 339,2676 873,2658 929,2691 1187,2638 2288,2660 2288,2595 263,2587" rendition="Line" xml:id="facs_210_tr_1_tl_19"/>
+            <zone points="253,2777 266,2777 278,2789 304,2789 311,2782 329,2779 402,2782 405,2724 357,2721 294,2726 271,2749 256,2749" rendition="Line" xml:id="facs_210_tr_1_tl_20"/>
+            <zone points="466,2853 2222,2876 2222,2832 2096,2807 466,2810" rendition="Line" xml:id="facs_210_tr_1_tl_21" subtype="paragraph"/>
+            <zone points="251,3002 2200,3038 2200,2977 2162,2974 251,2977" rendition="Line" xml:id="facs_210_tr_1_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0210.jpg" n="part1_p210.jpg" xml:id="img_0210" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p210.jpg"/>
+            
+            <ab facs="#facs_210_tr_1">
+               <lb facs="#facs_210_tr_1_tl_1" n="N001"/>[206]
+               <lb facs="#facs_210_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Existentialism">existentialist</rs> ANTI-idealism. I believe that the questionable state of American Protestantism is largely
+               <lb facs="#facs_210_tr_1_tl_3" n="N003"/>due to the fact that it identified<rs type="keyword" ref="#Idealism"> idealism </rs>with Christianity. I still very often hear, if a man is criticized,
+               <lb facs="#facs_210_tr_1_tl_4" n="N004"/>the answer, <rs type="keyword" ref="#Idealism">"But he is a great idealist," or "He is idealistic,</rs>" or something like that---[said] as a religious
+               <lb facs="#facs_210_tr_1_tl_6" n="N005"/>praise. Now if <rs type="keyword" ref="#Idealism">idealism</rs> is taken in its real meaning, this is no more a praise than if you say "He is a
+               <lb facs="#facs_210_tr_1_tl_8" n="N006"/>bad <rs type="keyword" ref="#Naturalism">naturalist</rs>"---which I heard even more often in Protestant groups, and which, in my mind, is a
+               <lb facs="#facs_210_tr_1_tl_9" n="N007"/>devaluation. <rs type="keyword" ref="#Naturalism">Naturalism</rs> is nothing negative from the religious point of view, as <rs type="keyword" ref="#Idealism">idealism</rs> is nothing
+               <lb facs="#facs_210_tr_1_tl_10" n="N008"/>positive from the religious point of view. They are philosophical attitudes and have philosophical
+               <lb facs="#facs_210_tr_1_tl_11" n="N009"/>arguments of epistemological and anthropological character. The problem arises only in the moment
+               <lb facs="#facs_210_tr_1_tl_12" n="N010"/>in which we come to the dimension of the ultimate. And there indeed, very serious problems arise,
+               <lb facs="#facs_210_tr_1_tl_13" n="N011"/>where the <rs type="keyword" ref="#Idealism">idealists</rs> miss the reality of man's predicament, and the <rs type="keyword" ref="#Naturalism">naturalists</rs> do not recognize that it IS
+               <lb facs="#facs_210_tr_1_tl_14" n="N012"/>a predicament, namely something in which man's existence contradicts his essence. And HERE is the
+               <lb facs="#facs_210_tr_1_tl_15" n="N013"/>theological dimension in which religion has opened the eyes. Here, religion goes together with
+               <lb facs="#facs_210_tr_1_tl_16" n="N014"/><rs type="keyword" ref="#Naturalism">naturalism </rs>and especially its <rs type="keyword" ref="#Existentialism">existentialist </rs>development in the 20th century, over against <rs type="keyword" ref="#Idealism">idealism.</rs> This
+               <lb facs="#facs_210_tr_1_tl_17" n="N015"/>fight has been done in the last decades and must be continued.
+               <lb facs="#facs_210_tr_1_tl_18" n="N016"/>On the other hand, religion must fight against akind [sic.] of <rs type="keyword" ref="#Naturalism">naturalism</rs> which forgets that
+               <lb facs="#facs_210_tr_1_tl_19" n="N017"/>this situation is not the NORMAL situation but is the situation of distortion of that which is essentially
+               <lb facs="#facs_210_tr_1_tl_20" n="N018"/>good.
+               <lb facs="#facs_210_tr_1_tl_21" n="N019"/>Now these dimensions are not a matter of philosophical arguments any more. I remember
+               <lb facs="#facs_210_tr_1_tl_22" n="N020"/>a philosopher telling me: "Man has no predicament." He said it from his <rs type="keyword" ref="#Naturalism">naturalistic</rs> point of view,
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

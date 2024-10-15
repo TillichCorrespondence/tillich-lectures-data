@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p252</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p252</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_252">
+         <graphic url="TL-0252.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NITZHNTCGIFJAVJKMWBXHWUP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="185,256 185,3496 2313,3496 2313,256" rendition="TextRegion" xml:id="facs_252_tr_1">
+            <zone points="1113,321 1138,324 1150,334 1189,334 1197,341 1219,341 1231,331 1241,331 1236,275 1207,277 1202,284 1175,282 1158,265 1145,277 1133,272 1111,275" rendition="Line" xml:id="facs_252_tr_1_tl_1"/>
+            <zone points="505,464 1248,490 1322,549 1454,515 1543,549 2249,549 2246,459 503,412" rendition="Line" xml:id="facs_252_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="356,616 2085,670 2163,667 2161,620 1707,613 1670,579 1597,611 1545,574 1383,606 1344,569 1312,603 758,559 549,584 493,547 353,574" rendition="Line" xml:id="facs_252_tr_1_tl_3"/>
+            <zone points="356,768 2210,822 2210,750 836,746 422,701 353,733" rendition="Line" xml:id="facs_252_tr_1_tl_4"/>
+            <zone points="351,922 883,932 956,991 1025,961 1106,998 1204,996 1265,939 2151,976 2224,974 2224,929 1621,885 1535,915 1464,880 1172,905 1057,868 348,883" rendition="Line" xml:id="facs_252_tr_1_tl_5"/>
+            <zone points="341,1072 2276,1126 2276,1067 961,1052 925,1020 804,1050 569,1001 520,1040 446,1006 338,1033" rendition="Line" xml:id="facs_252_tr_1_tl_6"/>
+            <zone points="338,1221 2072,1315 2114,1273 2308,1278 2308,1236 2183,1207 2070,1239 1555,1189 338,1189" rendition="Line" xml:id="facs_252_tr_1_tl_7"/>
+            <zone points="326,1373 2190,1430 2126,1356 2021,1388 1859,1349 1798,1381 1170,1332 944,1361 900,1324 863,1356 618,1317 326,1342" rendition="Line" xml:id="facs_252_tr_1_tl_8"/>
+            <zone points="321,1528 1224,1552 1391,1621 1736,1565 2224,1582 2224,1543 2102,1511 2048,1543 1844,1503 1437,1523 1403,1489 1300,1523 1082,1481 1035,1513 738,1476 586,1503 552,1469 321,1496" rendition="Line" xml:id="facs_252_tr_1_tl_9"/>
+            <zone points="326,1682 2193,1734 2153,1670 324,1626" rendition="Line" xml:id="facs_252_tr_1_tl_10"/>
+            <zone points="316,1834 2188,1884 2139,1817 1074,1820 954,1785 920,1817 608,1773 427,1803 383,1768 316,1798" rendition="Line" xml:id="facs_252_tr_1_tl_11"/>
+            <zone points="309,1987 2094,2050 2114,1967 1003,1972 365,1920 307,1950" rendition="Line" xml:id="facs_252_tr_1_tl_12"/>
+            <zone points="297,2126 2141,2190 2139,2119 297,2099" rendition="Line" xml:id="facs_252_tr_1_tl_13"/>
+            <zone points="299,2291 2036,2347 2036,2281 1962,2276 1275,2283 920,2229 299,2254" rendition="Line" xml:id="facs_252_tr_1_tl_14"/>
+            <zone points="289,2435 2043,2494 2092,2492 2094,2438 400,2408 346,2376 287,2406" rendition="Line" xml:id="facs_252_tr_1_tl_15"/>
+            <zone points="282,2590 2075,2646 2072,2575 1226,2585 831,2543 773,2575 282,2531" rendition="Line" xml:id="facs_252_tr_1_tl_16"/>
+            <zone points="289,2752 2131,2803 2129,2732 287,2688" rendition="Line" xml:id="facs_252_tr_1_tl_17"/>
+            <zone points="287,2914 2021,2938 2018,2872 1197,2887 1072,2852 1042,2884 517,2838 390,2867 346,2833 287,2865" rendition="Line" xml:id="facs_252_tr_1_tl_18"/>
+            <zone points="275,3048 1783,3095 1874,3093 1874,3026 1109,2997 846,3034 272,2990" rendition="Line" xml:id="facs_252_tr_1_tl_19"/>
+            <zone points="280,3203 817,3279 2242,3281 2185,3201 743,3230 277,3132" rendition="Line" xml:id="facs_252_tr_1_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0252.jpg" n="part1_p252.jpg" xml:id="img_0252" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p252.jpg"/>
+            
+            <ab facs="#facs_252_tr_1">
+               <lb facs="#facs_252_tr_1_tl_1" n="N001"/>[248]
+               <lb facs="#facs_252_tr_1_tl_2" n="N002"/>But is this MAN? This is the question. Is this not a self-loss of man, in his own creation?
+               <lb facs="#facs_252_tr_1_tl_3" n="N003"/>Now the question of a name is not a very important one----it is a symptomatic one. You can
+               <lb facs="#facs_252_tr_1_tl_4" n="N004"/>call everything what[ever] you want, if there is a common convention about it---and if you call
+               <lb facs="#facs_252_tr_1_tl_5" n="N005"/>the doctrine of human bones "<rs type="keyword" ref="#Anthropology">anthropology</rs>," it is alright; and the <rs type="keyword" ref="#Doctrine_of_man">doctrine of man</rs> in primitive
+               <lb facs="#facs_252_tr_1_tl_6" n="N006"/>societies "Anthropology," it is alright. But then something else must be done if a word is narrowed
+               <lb facs="#facs_252_tr_1_tl_7" n="N007"/>down to its narrow or primitive meaning. You must invent a word for its larger meaning. And it was
+               <lb facs="#facs_252_tr_1_tl_8" n="N008"/>one of my great sorrows, when I came to this country and gave, in my early lectures, a <rs type="keyword" ref="#Doctrine_of_man">doctrine
+               <lb break="no" facs="#facs_252_tr_1_tl_9" n="N009"/>of man</rs>, I was not able to find a word for this except "doctrine of man," and there is no adjective
+               <lb facs="#facs_252_tr_1_tl_10" n="N010"/>for "doctrine of man," so I couldn't use sentences in which the abbreviation of a good adjective
+               <lb facs="#facs_252_tr_1_tl_11" n="N011"/>did appear. Of course, if I used "anthropological," one of my students would immediately raise
+               <lb facs="#facs_252_tr_1_tl_12" n="N012"/>his finger and say, "That means, in our language, the doctrine of bones!" <hi style="font-style: italic;">[laughter]</hi>. Now
+               <lb facs="#facs_252_tr_1_tl_13" n="N013"/>however this may be, we need another name, namely of that being which HAS CREATED the
+               <lb facs="#facs_252_tr_1_tl_14" n="N014"/>doctrine of bones and of sociological intercourse, etc., and which is MORE than all this,
+               <lb facs="#facs_252_tr_1_tl_15" n="N015"/>because he has created them. And that, I would call the "<rs type="keyword" ref="#Doctrine_of_man">doctrine of man"</rs> and don't know
+               <lb facs="#facs_252_tr_1_tl_16" n="N016"/>how perhaps some time the word "<rs type="keyword" ref="#Anthropology">anthropology</rs>" will become imperialistic---I hope it will;
+               <lb facs="#facs_252_tr_1_tl_17" n="N017"/>I am not always for imperialism, but in this case I am for it---and swallow the doctrine of man,
+               <lb facs="#facs_252_tr_1_tl_18" n="N018"/>philosophical as well as theological, so that we can use the word "anthropological" again
+               <lb facs="#facs_252_tr_1_tl_19" n="N019"/>for real statements about man as man, and not about man as lost in his creations.
+               <lb facs="#facs_252_tr_1_tl_20" n="N020"/>This situation demands a <rs type="keyword" ref="#Doctrine_of_man">doctrine of man,</rs> which is NEITHER <rs type="keyword" ref="#Physics">physics</rs> NOR<biology> biology </biology>NOR <rs type="keyword" ref="#Psychology">psychology</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

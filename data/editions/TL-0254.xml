@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p254</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p254</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_254">
+         <graphic url="TL-0254.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YFPTVUXYXKWWNWFPKTHYWZLM&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="155,276 155,3483 2280,3483 2280,276" rendition="TextRegion" xml:id="facs_254_tr_2">
+            <zone points="1082,337 1094,337 1116,357 1138,357 1145,349 1184,357 1191,349 1206,349 1206,277 1145,286 1133,274 1116,291 1082,291" rendition="Line" xml:id="facs_254_tr_2_tl_1"/>
+            <zone points="332,500 2016,502 2016,454 1837,420 1800,456 332,456" rendition="Line" xml:id="facs_254_tr_2_tl_2"/>
+            <zone points="335,653 2094,660 2094,597 335,602" rendition="Line" xml:id="facs_254_tr_2_tl_3"/>
+            <zone points="347,803 1999,837 1999,752 347,755" rendition="Line" xml:id="facs_254_tr_2_tl_4"/>
+            <zone points="335,975 565,1038 2145,997 2145,907 335,917" rendition="Line" xml:id="facs_254_tr_2_tl_5"/>
+            <zone points="332,1106 2065,1111 2065,1063 1752,1051 332,1077" rendition="Line" xml:id="facs_254_tr_2_tl_6"/>
+            <zone points="335,1264 2155,1276 2155,1218 2070,1211 335,1218" rendition="Line" xml:id="facs_254_tr_2_tl_7"/>
+            <zone points="332,1419 2174,1422 2174,1364 332,1383" rendition="Line" xml:id="facs_254_tr_2_tl_8"/>
+            <zone points="328,1565 553,1579 611,1567 750,1572 750,1514 427,1514 398,1536 366,1512 328,1536" rendition="Line" xml:id="facs_254_tr_2_tl_9"/>
+            <zone points="488,1643 2191,1643 2191,1584 488,1582" rendition="Line" xml:id="facs_254_tr_2_tl_10" subtype="paragraph"/>
+            <zone points="328,1791 2135,1798 2099,1740 328,1757" rendition="Line" xml:id="facs_254_tr_2_tl_11"/>
+            <zone points="328,1948 704,1990 917,1951 2273,1948 2273,1892 526,1917 466,1883 328,1917" rendition="Line" xml:id="facs_254_tr_2_tl_12"/>
+            <zone points="415,2108 2135,2106 2135,2048 1863,2036 415,2077" rendition="Line" xml:id="facs_254_tr_2_tl_14"/>
+            <zone points="325,2273 2077,2271 2074,2201 323,2201" rendition="Line" xml:id="facs_254_tr_2_tl_15"/>
+            <zone points="320,2404 2191,2414 2191,2349 320,2353" rendition="Line" xml:id="facs_254_tr_2_tl_16"/>
+            <zone points="323,2562 376,2594 2266,2567 2266,2504 323,2504" rendition="Line" xml:id="facs_254_tr_2_tl_17"/>
+            <zone points="323,2713 507,2717 529,2739 590,2715 1121,2725 1121,2652 1060,2676 835,2652 808,2679 769,2649 551,2652 524,2679 497,2652 323,2649" rendition="Line" xml:id="facs_254_tr_2_tl_18"/>
+            <zone points="473,2880 573,2916 2196,2875 2196,2817 2123,2797 641,2827 473,2793" rendition="Line" xml:id="facs_254_tr_2_tl_19" subtype="paragraph"/>
+            <zone points="320,3013 393,3045 2101,3013 2101,2950 320,2979" rendition="Line" xml:id="facs_254_tr_2_tl_20"/>
+            <zone points="320,3164 2237,3174 2237,3110 1769,3091 320,3113" rendition="Line" xml:id="facs_254_tr_2_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0254.jpg" n="part1_p254.jpg" xml:id="img_0254" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p254.jpg"/>
+            
+            <ab facs="#facs_254_tr_2">
+               <lb facs="#facs_254_tr_2_tl_1" n="N001"/>[250]
+               <lb facs="#facs_254_tr_2_tl_2" n="N002"/>that when he looked at himself cognitively, he had to look outside of himself into the
+               <lb facs="#facs_254_tr_2_tl_3" n="N003"/>levels of his world which he had created by abstraction, meant that he knew about himself
+               <lb facs="#facs_254_tr_2_tl_4" n="N004"/>who has CREATED all this, LESS THAN ABOUT ANYTHING ELSE. And I believe
+               <lb facs="#facs_254_tr_2_tl_5" n="N005"/>that this is the situation in which we find ourselves since the beginning of the modern period.
+               <lb facs="#facs_254_tr_2_tl_6" n="N006"/>It was also the case partly in Greece, but there the movements of the later ancient world
+               <lb facs="#facs_254_tr_2_tl_7" n="N007"/>(to which I would like to come in our lecture on art) have reestablished SOME understanding
+               <lb facs="#facs_254_tr_2_tl_8" n="N008"/>of man under the power of the Christian solution of the problem of man AS MAN, in contrast
+               <lb facs="#facs_254_tr_2_tl_9" n="N009"/>to man in his world.
+               <lb facs="#facs_254_tr_2_tl_10" n="N010"/>With the modern period the process of abstraction started again and became radicalized
+               <lb facs="#facs_254_tr_2_tl_11" n="N011"/>to such a degree that in the classical philosopher who represents modern science better than
+               <lb facs="#facs_254_tr_2_tl_12" n="N012"/>anybody else---<rs type="person">Descartes</rs>---we find the complete dualism of the two realms into which man has been
+               <lb facs="#facs_254_tr_2_tl_14" n="N013"/>split, the realm of extension and the realm of consciousness. These two realms he could not
+               <lb facs="#facs_254_tr_2_tl_15" n="N014"/>bring together except in terms of a <hi style="font-style: italic;">Deus ex machina</hi>, a God who brings them together by
+               <lb facs="#facs_254_tr_2_tl_16" n="N015"/>continuous miraculous activity. Now this means (since no one could accept the solution in this
+               <lb facs="#facs_254_tr_2_tl_17" n="N016"/>way) the modern man remains for himself divided into at least two realms: he is asking for himself,
+               <lb facs="#facs_254_tr_2_tl_18" n="N017"/>but these questions remain unanswered.
+               <lb facs="#facs_254_tr_2_tl_19" n="N018"/>I believe that in the 20th century, with predecessors in the 19th, we have the beginnings
+               <lb facs="#facs_254_tr_2_tl_20" n="N019"/>of the <hi style="font-style: italic;">Odyssey</hi>. But I will develop this next time more fully, because it is one of the most
+               <lb facs="#facs_254_tr_2_tl_21" n="N020"/>fascinating views of our 20th century, with all its horrors and all its greatness. But before I do so,
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

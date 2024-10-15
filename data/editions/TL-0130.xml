@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p130</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p130</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_130">
+         <graphic url="TL-0130.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DLZXEFHEBMJXLHEQNMUQSIFH&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="90,195 90,3493 2379,3493 2379,195" rendition="TextRegion" xml:id="facs_130_tr_2">
+            <zone points="1135,269 1155,269 1167,279 1207,277 1214,284 1234,284 1244,274 1257,274 1257,202 1209,202 1187,197 1170,212 1135,212" rendition="Line" xml:id="facs_130_tr_2_tl_1"/>
+            <zone points="379,466 1439,481 1509,549 2175,546 2242,501 2242,446 1925,426 379,399" rendition="Line" xml:id="facs_130_tr_2_tl_2"/>
+            <zone points="372,641 429,676 2372,653 2372,594 2334,591 372,566" rendition="Line" xml:id="facs_130_tr_2_tl_3"/>
+            <zone points="369,768 2232,796 2229,743 2160,738 369,743" rendition="Line" xml:id="facs_130_tr_2_tl_4"/>
+            <zone points="377,925 1773,963 2307,950 2307,893 374,875" rendition="Line" xml:id="facs_130_tr_2_tl_5"/>
+            <zone points="372,1070 596,1092 965,1082 1002,1100 1030,1087 1027,1035 589,1030 559,1002 464,1047 369,1020" rendition="Line" xml:id="facs_130_tr_2_tl_6"/>
+            <zone points="596,1224 2152,1244 2152,1172 2040,1204 2002,1172 596,1190" rendition="Line" xml:id="facs_130_tr_2_tl_7" subtype="paragraph"/>
+            <zone points="374,1414 686,1419 748,1379 2209,1396 2207,1339 372,1332" rendition="Line" xml:id="facs_130_tr_2_tl_8"/>
+            <zone points="362,1526 539,1589 1117,1574 1157,1534 2244,1546 2244,1494 2157,1491 362,1491" rendition="Line" xml:id="facs_130_tr_2_tl_9"/>
+            <zone points="362,1671 2177,1708 2224,1701 2224,1638 359,1641" rendition="Line" xml:id="facs_130_tr_2_tl_10"/>
+            <zone points="673,1820 2242,1848 2242,1791 673,1796" rendition="Line" xml:id="facs_130_tr_2_tl_12"/>
+            <zone points="357,1973 948,1983 1085,2052 1419,1985 2217,1995 2214,1938 354,1918" rendition="Line" xml:id="facs_130_tr_2_tl_13"/>
+            <zone points="352,2122 2120,2160 2282,2150 2279,2090 349,2070" rendition="Line" xml:id="facs_130_tr_2_tl_14"/>
+            <zone points="344,2272 1925,2294 2334,2342 2332,2247 344,2247" rendition="Line" xml:id="facs_130_tr_2_tl_15"/>
+            <zone points="344,2429 414,2469 1082,2466 1297,2514 1501,2466 2244,2454 2244,2394 344,2392" rendition="Line" xml:id="facs_130_tr_2_tl_16"/>
+            <zone points="342,2574 731,2581 778,2628 2287,2606 2287,2544 2025,2531 342,2546" rendition="Line" xml:id="facs_130_tr_2_tl_17"/>
+            <zone points="339,2721 2319,2751 2264,2693 339,2676" rendition="Line" xml:id="facs_130_tr_2_tl_18"/>
+            <zone points="332,2873 608,2915 2199,2900 2199,2843 2055,2835 332,2828" rendition="Line" xml:id="facs_130_tr_2_tl_19"/>
+            <zone points="334,3030 2140,3055 2140,2995 2050,2978 1920,3012 334,2983" rendition="Line" xml:id="facs_130_tr_2_tl_20"/>
+            <zone points="329,3187 656,3234 818,3204 943,3269 1254,3175 2199,3157 2202,3095 2082,3092 998,3127 633,3180 332,3127" rendition="Line" xml:id="facs_130_tr_2_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0130.jpg" n="part1_p130.jpg" xml:id="img_0130" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p130.jpg"/>
+            
+            <ab facs="#facs_130_tr_2">
+               <lb facs="#facs_130_tr_2_tl_1" n="N001"/>[127]
+               <lb facs="#facs_130_tr_2_tl_2" n="N002"/>TIME--not five thousand, but five billion years ago. I said that there is no difference between
+               <lb facs="#facs_130_tr_2_tl_3" n="N003"/>five thousand or five billions of years; the question always remains: what was before it?--if we think
+               <lb facs="#facs_130_tr_2_tl_4" n="N004"/>in temporal terms. But if we think in terms of the relation of the eternal to the temporal, then
+               <lb facs="#facs_130_tr_2_tl_5" n="N005"/>we are in a dimension which does not give the answer in any way to the periods in which the world
+               <lb facs="#facs_130_tr_2_tl_6" n="N006"/>has developed as we see it today.
+               <lb facs="#facs_130_tr_2_tl_7" n="N007"/><rs type="keyword" ref="#Physics">There is another rather interesting consideration, made by the famous physicist
+               <lb break="no" facs="#facs_130_tr_2_tl_8" n="N008"/><rs type="person" key="von Weizsäcker, Richard">von Weizsäcker</rs> in Göttingen, who, in his book about the development of our cosmos, speaks
+               <lb break="no" facs="#facs_130_tr_2_tl_9" n="N009"/>about the historical element in physics. He says that not only MAN history, but that there is
+               <lb break="no" facs="#facs_130_tr_2_tl_10" n="N010"/>an historical element in the physical development of the universe itself. He gives as an example
+               <lb break="no" facs="#facs_130_tr_2_tl_12" n="N011"/>the one-directed and non-circular development of the universe as we know it, also
+               <lb break="no" facs="#facs_130_tr_2_tl_13" n="N012"/>based on the law of entropy, of the death of warmth. And he says that the direction of time is
+               <lb break="no" facs="#facs_130_tr_2_tl_14" n="N013"/>known to us only because of the law of entropy, which is unambiguous, and not returning, so that
+               <lb break="no" facs="#facs_130_tr_2_tl_15" n="N014"/>the universe, from this point of view, must also be understood as historical, although human freedom
+               <lb break="no" facs="#facs_130_tr_2_tl_16" n="N015"/>is involved only in an infinitely small period, which we call, ordinarily, history. Now here
+               <lb break="no" facs="#facs_130_tr_2_tl_17" n="N016"/>again I would say: insofar as this is a physical knowledge, it remains doubtful, and some physicists
+               <lb break="no" facs="#facs_130_tr_2_tl_18" n="N017"/>with whom I spoke questioned very much this theory about the historical character of the universe.
+               <lb break="no" facs="#facs_130_tr_2_tl_19" n="N018"/><rs type="keyword" ref="#Stoicism">In any case, it is controversial, in the scientific sense of the word, and therefore cannot be used</rs>
+               <lb break="no" facs="#facs_130_tr_2_tl_20" n="N019"/><rs type="keyword" ref="#Physics">in order to confirm the Augustinian over against the Stoic interpretation of time.</rs> The Stoic
+               <lb break="no" facs="#facs_130_tr_2_tl_21" n="N020"/>interpretation of time is the circular one: once the world has started, then it has moved through</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

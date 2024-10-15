@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p157</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p157</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_157">
+         <graphic url="TL-0157.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PDRQFAUFDJGCAZJOAPQYOVCK&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="206,285 206,3188 2331,3188 2331,1212 2331,285" rendition="TextRegion" xml:id="facs_157_tr_1">
+            <zone points="1122,350 1144,350 1151,358 1193,358 1199,352 1207,358 1220,358 1230,350 1243,350 1243,308 1230,308 1201,279 1191,281 1165,308 1154,300 1122,300" rendition="Line" xml:id="facs_157_tr_1_tl_1"/>
+            <zone points="463,452 2250,473 2250,418 2095,389 2061,423 1914,423 1874,384 1793,421 568,421 463,379" rendition="Line" xml:id="facs_157_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="239,584 733,628 802,576 875,628 2045,634 2282,597 2282,534 2085,528 239,544" rendition="Line" xml:id="facs_157_tr_1_tl_3"/>
+            <zone points="229,691 2211,712 2211,652 2142,644 229,668" rendition="Line" xml:id="facs_157_tr_1_tl_4"/>
+            <zone points="226,810 1551,818 1609,870 2137,867 2137,768 226,760" rendition="Line" xml:id="facs_157_tr_1_tl_5"/>
+            <zone points="226,928 518,986 1388,978 1488,925 1530,965 2195,994 2195,881 226,883" rendition="Line" xml:id="facs_157_tr_1_tl_6"/>
+            <zone points="231,1086 1696,1094 1743,1052 2161,1054 2161,988 2040,1020 1853,988 1701,1020 229,1004" rendition="Line" xml:id="facs_157_tr_1_tl_7"/>
+            <zone points="223,1162 1851,1172 1851,1120 223,1136" rendition="Line" xml:id="facs_157_tr_1_tl_8"/>
+            <zone points="444,1283 2079,1293 2079,1233 444,1230" rendition="Line" xml:id="facs_157_tr_1_tl_9" subtype="paragraph"/>
+            <zone points="218,1393 694,1401 752,1446 1057,1425 1057,1349 218,1367" rendition="Line" xml:id="facs_157_tr_1_tl_10"/>
+            <zone points="218,1519 760,1522 839,1572 2148,1525 2148,1472 1998,1462 1690,1493 218,1467" rendition="Line" xml:id="facs_157_tr_1_tl_12"/>
+            <zone points="221,1646 2229,1648 2229,1593 2050,1580 221,1593" rendition="Line" xml:id="facs_157_tr_1_tl_13"/>
+            <zone points="218,1751 2221,1767 2221,1709 2174,1693 218,1706" rendition="Line" xml:id="facs_157_tr_1_tl_14"/>
+            <zone points="216,1874 2227,1874 2227,1824 216,1824" rendition="Line" xml:id="facs_157_tr_1_tl_15"/>
+            <zone points="208,1990 1604,1990 1682,2035 2282,1995 2282,1943 208,1940" rendition="Line" xml:id="facs_157_tr_1_tl_16"/>
+            <zone points="208,2108 2248,2142 2248,2056 2156,2043 208,2061" rendition="Line" xml:id="facs_157_tr_1_tl_17"/>
+            <zone points="208,2271 2221,2263 2190,2166 208,2184" rendition="Line" xml:id="facs_157_tr_1_tl_19"/>
+            <zone points="216,2350 2324,2340 2324,2279 216,2292" rendition="Line" xml:id="facs_157_tr_1_tl_20"/>
+            <zone points="200,2455 1590,2463 1590,2403 376,2397 200,2432" rendition="Line" xml:id="facs_157_tr_1_tl_21"/>
+            <zone points="428,2571 2213,2581 2216,2518 431,2524" rendition="Line" xml:id="facs_157_tr_1_tl_22" subtype="paragraph"/>
+            <zone points="202,2702 2279,2700 2279,2634 202,2642" rendition="Line" xml:id="facs_157_tr_1_tl_23"/>
+            <zone points="197,2813 284,2852 510,2850 563,2808 607,2850 1214,2847 1214,2755 197,2765" rendition="Line" xml:id="facs_157_tr_1_tl_24"/>
+            <zone points="423,2934 2221,2926 2221,2868 423,2873" rendition="Line" xml:id="facs_157_tr_1_tl_25" subtype="paragraph"/>
+            <zone points="200,3041 1690,3078 2248,3047 2248,2989 200,2997" rendition="Line" xml:id="facs_157_tr_1_tl_26"/>
+            <zone points="192,3191 2135,3165 2135,3112 1522,3099 192,3133" rendition="Line" xml:id="facs_157_tr_1_tl_27"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0157.jpg" n="part1_p157.jpg" xml:id="img_0157" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p157.jpg"/>
+            
+            <ab facs="#facs_157_tr_1">
+               <lb facs="#facs_157_tr_1_tl_1" n="N001"/>[154]
+               <lb facs="#facs_157_tr_1_tl_2" n="N002"/>The general answer to this question is that there is no necessary conflict between historical
+               <lb facs="#facs_157_tr_1_tl_3" n="N003"/>research and truth of faith. There was actually as much conflict as there was in the scientific realm, but,
+               <lb facs="#facs_157_tr_1_tl_4" n="N004"/>as I said, and tried to show, this conflict is not necessary, so I will try to show now, that the conflict
+               <lb facs="#facs_157_tr_1_tl_5" n="N005"/>between historical truth and religious truth is not necessary either. The reality of these conflicts
+               <lb facs="#facs_157_tr_1_tl_6" n="N006"/>is based on concepts of faith which confuse faith with belief, or which define faith as acceptance of
+               <lb facs="#facs_157_tr_1_tl_7" n="N007"/>statements which have a small amount of evidence, but all this is not faith. As we have seen, <rs type="keyword" ref="#Faith">faith
+               <lb break="no" facs="#facs_157_tr_1_tl_8" n="N008"/>must be defined in its innermost center as the state of being ultimately concerned.</rs>
+               <lb facs="#facs_157_tr_1_tl_9" n="N009"/>Now if this is the case, then the dimension of faith and the dimension of historical
+               <lb facs="#facs_157_tr_1_tl_10" n="N010"/>truth are not the same. Historical research toward the biblical literature, both of the
+               <lb facs="#facs_157_tr_1_tl_12" n="N011"/>Old and the New Testament, has been done now for more than 200 years. And I believe that this
+               <lb facs="#facs_157_tr_1_tl_13" n="N012"/>historical research belongs to the greatest things that have ever happened in the history of religion and
+               <lb facs="#facs_157_tr_1_tl_14" n="N013"/>Christianity. <rs type="keyword" ref="#Historiography">It was something unheard of, that historical method was applied in the same way to the
+               <lb break="no" facs="#facs_157_tr_1_tl_15" n="N014"/>history of the Greek tribes, their cities, their government, their literature, and to the Jewish tribes and
+               <lb break="no" facs="#facs_157_tr_1_tl_16" n="N015"/>their literature, and to the early church and its literature. The fact that Protestantism dared to apply the
+               <lb break="no" facs="#facs_157_tr_1_tl_17" n="N016"/>same method to the one and to the other, has never happened before</rs>; it was not possible and is still not
+               <lb facs="#facs_157_tr_1_tl_19" n="N017"/>possible, in its radical form, on Catholic soil; it is impossible even in the slightest form on lslamic soil,
+               <lb facs="#facs_157_tr_1_tl_20" n="N018"/>where even the question whether the present text of the Koran is the original text, dictated by Mohammed,
+               <lb facs="#facs_157_tr_1_tl_21" n="N019"/>can lead to the death of somebody who publicly asks such a question!
+               <lb facs="#facs_157_tr_1_tl_22" n="N020"/>Therefore we must say: It is one of the great events, which we should always look at with
+               <lb facs="#facs_157_tr_1_tl_23" n="N021"/>astonishment and with one of the very few justified expressions of pride, if we look at the whole history
+               <lb facs="#facs_157_tr_1_tl_24" n="N022"/>of Protestantism. Here, a justified pride is in place!
+               <lb facs="#facs_157_tr_1_tl_25" n="N023"/>Now this, in the consequence of this tremendous act of historical research into the biblical
+               <lb facs="#facs_157_tr_1_tl_26" n="N024"/>writings: it has been shown that both the Old and New Testament include three elements of a different
+               <lb facs="#facs_157_tr_1_tl_27" n="N025"/>stylistic character: 1) Historical reports, in the sense in which I defined the work of the historian.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

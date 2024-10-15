@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p091</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p091</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_91">
+         <graphic url="TL-0375.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GFUGUOYRLBQAJRQPPZTWXCKA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="268,293 2260,293 2260,971 268,971" rendition="TextRegion" xml:id="facs_91_tr_3">
+            <zone points="1146,352 1166,352 1171,357 1261,354 1261,280 1238,277 1210,303 1182,301 1176,306 1146,306" rendition="Line" xml:id="facs_91_tr_3_tl_1"/>
+            <zone points="262,501 2227,516 2225,468 2006,432 545,462 432,388 262,460" rendition="Line" xml:id="facs_91_tr_3_tl_2"/>
+            <zone points="259,650 2209,676 2209,611 2016,604 259,622" rendition="Line" xml:id="facs_91_tr_3_tl_3"/>
+            <zone points="267,812 2255,819 2255,763 267,755" rendition="Line" xml:id="facs_91_tr_3_tl_4"/>
+            <zone points="254,950 2194,974 2194,912 254,925" rendition="Line" xml:id="facs_91_tr_3_tl_5"/>
+         </zone>
+         <zone points="244,1051 2304,1051 2304,2329 244,2329" rendition="TextRegion" xml:id="facs_91_tr_2">
+            <zone points="252,1107 2145,1125 2106,1063 1937,1056 252,1076" rendition="Line" xml:id="facs_91_tr_2_tl_1"/>
+            <zone points="452,1264 2176,1269 2176,1215 452,1230" rendition="Line" xml:id="facs_91_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="241,1408 1937,1431 2237,1421 2237,1361 241,1382" rendition="Line" xml:id="facs_91_tr_2_tl_3"/>
+            <zone points="241,1559 2263,1582 2296,1513 241,1531" rendition="Line" xml:id="facs_91_tr_2_tl_4"/>
+            <zone points="252,1713 2042,1734 2042,1662 252,1657" rendition="Line" xml:id="facs_91_tr_2_tl_5"/>
+            <zone points="244,1860 2106,1878 2104,1816 244,1811" rendition="Line" xml:id="facs_91_tr_2_tl_6"/>
+            <zone points="236,2006 2073,2029 2073,1965 236,1981" rendition="Line" xml:id="facs_91_tr_2_tl_7"/>
+            <zone points="234,2176 2227,2189 2191,2119 234,2140" rendition="Line" xml:id="facs_91_tr_2_tl_8"/>
+            <zone points="229,2312 2083,2327 2083,2271 229,2286" rendition="Line" xml:id="facs_91_tr_2_tl_9"/>
+         </zone>
+         <zone points="41,2413 2337,2413 2337,3479 41,3479" rendition="TextRegion" xml:id="facs_91_tr_1">
+            <zone points="229,2463 416,2487 730,2474 730,2422 265,2417 229,2438" rendition="Line" xml:id="facs_91_tr_1_tl_1"/>
+            <zone points="434,2623 2332,2636 2332,2556 2281,2553 434,2553" rendition="Line" xml:id="facs_91_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="223,2767 1788,2785 2096,2736 223,2743" rendition="Line" xml:id="facs_91_tr_1_tl_3"/>
+            <zone points="275,2916 2058,2926 2019,2867 478,2895 275,2836" rendition="Line" xml:id="facs_91_tr_1_tl_4"/>
+            <zone points="218,3026 2278,3029 2230,2980 218,2982" rendition="Line" xml:id="facs_91_tr_1_tl_5"/>
+            <zone points="216,3183 2217,3185 2153,3131 216,3131" rendition="Line" xml:id="facs_91_tr_1_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0375.jpg" n="part2_p091.jpg" xml:id="img_0091" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p091.jpg"/>
+            
+            <ab facs="#facs_91_tr_3">
+               <lb facs="#facs_91_tr_3_tl_1" n="N001"/>[370]
+               <lb facs="#facs_91_tr_3_tl_2" n="N002"/>of man occurred. We call it, if we use terms taken from the history of art, the period of Mannerism
+               <lb facs="#facs_91_tr_3_tl_3" n="N003"/>and, in the further development, of the Baroque. If we take concepts from the history of religion,
+               <lb facs="#facs_91_tr_3_tl_4" n="N004"/>we call it the period of Counter-Reformation and Reformation, whereby Counter-Reformation in the
+               <lb facs="#facs_91_tr_3_tl_5" n="N005"/>visual arts is more important. And if we take it from the political point of view, we can call it
+            </ab>
+            <ab facs="#facs_91_tr_2">
+               <lb facs="#facs_91_tr_2_tl_1" n="N001"/>the period of bourgeois absolutism, of the absolutistic powers of the kings, or of special groups.
+               <lb facs="#facs_91_tr_2_tl_2" n="N002"/>All this is a reaction against what first broke out in the Renaissance. If we have similar
+               <lb facs="#facs_91_tr_2_tl_3" n="N003"/>reactions, since the end of the 19th century, then we must be very humble in praising these reactions
+               <lb facs="#facs_91_tr_2_tl_4" n="N004"/>as I did when I showed you the second and the fourth levels of art, namely humble in the knowledge
+               <lb facs="#facs_91_tr_2_tl_5" n="N005"/>that this may be ALSO a transitory reaction, and that finally the spirit of industrial society
+               <lb facs="#facs_91_tr_2_tl_6" n="N006"/>will remain victorious--we don't know. But one thing we know is that from the point of view
+               <lb facs="#facs_91_tr_2_tl_7" n="N007"/>of RELIGION and culture, this reaction, since the end of the 19th century, has behind itself
+               <lb facs="#facs_91_tr_2_tl_8" n="N008"/>great religious motives: it is a BREAKTHROUGH, not because of the success of revivalist preachers,
+               <lb facs="#facs_91_tr_2_tl_9" n="N009"/>but because of the expression in all great cultural activities of the 20th century of the ground
+            </ab>
+            <ab facs="#facs_91_tr_1">
+               <lb facs="#facs_91_tr_1_tl_1" n="N001"/>breaking under our feet.
+               <lb facs="#facs_91_tr_1_tl_2" n="N002"/>The reaction which I called Mannerism and Baroque, or Counter-Reformation and Reformation,
+               <lb facs="#facs_91_tr_1_tl_3" n="N003"/>or absolutism in different realms, was shown to you in pictures of El Greco and Rembrandt--
+               <lb facs="#facs_91_tr_1_tl_4" n="N004"/>El Greco, an expression of the Counter-Reformation; in Rembrandt, an expression of the
+               <lb facs="#facs_91_tr_1_tl_5" n="N005"/>Reformation in its combination with humanism. About the Counter-Reformation, I can say that here--
+               <lb facs="#facs_91_tr_1_tl_6" n="N006"/>and I think I said it briefly when I showed you pictures of El Greco--the mystical reality which in
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

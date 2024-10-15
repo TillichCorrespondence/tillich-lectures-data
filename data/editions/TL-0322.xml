@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p038</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p038</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_38">
+         <graphic url="TL-0322.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ROGCSWSUZFJIIHCEGXBUCIYY&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="268,335 2230,335 2230,1463 268,1463" rendition="TextRegion" xml:id="facs_38_tr_1">
+            <zone points="1135,389 1154,389 1162,396 1194,394 1199,399 1258,396 1258,332 1223,330 1213,320 1196,320 1189,315 1169,335 1135,335" rendition="Line" xml:id="facs_38_tr_1_tl_1"/>
+            <zone points="261,546 2205,541 2227,497 261,509" rendition="Line" xml:id="facs_38_tr_1_tl_2"/>
+            <zone points="266,701 2154,701 2178,640 266,674" rendition="Line" xml:id="facs_38_tr_1_tl_3"/>
+            <zone points="268,852 1994,854 2119,844 2119,793 268,822" rendition="Line" xml:id="facs_38_tr_1_tl_4"/>
+            <zone points="261,999 2114,1004 2173,997 2173,935 261,953" rendition="Line" xml:id="facs_38_tr_1_tl_5"/>
+            <zone points="254,1149 2146,1149 2146,1088 254,1125" rendition="Line" xml:id="facs_38_tr_1_tl_6"/>
+            <zone points="261,1314 1541,1302 1541,1250 261,1260" rendition="Line" xml:id="facs_38_tr_1_tl_7"/>
+            <zone points="436,1457 2168,1452 2193,1386 436,1400" rendition="Line" xml:id="facs_38_tr_1_tl_8" subtype="paragraph"/>
+         </zone>
+         <zone points="265,1538 2215,1538 2215,2670 265,2670" rendition="TextRegion" xml:id="facs_38_tr_2">
+            <zone points="254,1605 2063,1612 2208,1595 2208,1543 254,1558" rendition="Line" xml:id="facs_38_tr_2_tl_1"/>
+            <zone points="263,1765 1824,1765 2173,1747 2176,1698 266,1711" rendition="Line" xml:id="facs_38_tr_2_tl_2"/>
+            <zone points="258,1910 2008,1910 2139,1898 2141,1841 258,1858" rendition="Line" xml:id="facs_38_tr_2_tl_3"/>
+            <zone points="266,2063 2063,2053 2102,2001 266,2016" rendition="Line" xml:id="facs_38_tr_2_tl_4"/>
+            <zone points="254,2210 2001,2213 2159,2198 2159,2139 254,2181" rendition="Line" xml:id="facs_38_tr_2_tl_5"/>
+            <zone points="251,2360 2198,2358 2198,2296 251,2314" rendition="Line" xml:id="facs_38_tr_2_tl_6"/>
+            <zone points="258,2525 2208,2501 2210,2442 258,2466" rendition="Line" xml:id="facs_38_tr_2_tl_7"/>
+            <zone points="251,2663 2077,2663 2176,2653 2176,2592 251,2611" rendition="Line" xml:id="facs_38_tr_2_tl_8"/>
+         </zone>
+         <zone points="44,2738 2233,2738 2233,3485 44,3485" rendition="TextRegion" xml:id="facs_38_tr_3">
+            <zone points="249,2813 2050,2813 2227,2806 2227,2739 249,2786" rendition="Line" xml:id="facs_38_tr_3_tl_1"/>
+            <zone points="244,2963 2058,2958 2104,2897 244,2939" rendition="Line" xml:id="facs_38_tr_3_tl_2"/>
+            <zone points="246,3118 2117,3111 2200,3067 246,3086" rendition="Line" xml:id="facs_38_tr_3_tl_3"/>
+            <zone points="251,3175 561,3177 633,3237 1063,3168 2230,3165 2230,3118 251,3128" rendition="Line" xml:id="facs_38_tr_3_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0322.jpg" n="part2_p038.jpg" xml:id="img_0038" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p038.jpg"/>
+            
+            <ab facs="#facs_38_tr_1">
+               <lb facs="#facs_38_tr_1_tl_1" n="N001"/>[318]
+               <lb facs="#facs_38_tr_1_tl_2" n="N002"/>combined character. I only want to remind, so that you don't need to ask what has that to do with
+               <lb facs="#facs_38_tr_1_tl_3" n="N003"/>religion, that every liturgy in which the priest moves---and others with him, sometimes---is a cultic
+               <lb facs="#facs_38_tr_1_tl_4" n="N004"/>dance, is the movement of the body, in which the movement itself expresses something which
+               <lb facs="#facs_38_tr_1_tl_5" n="N005"/>transcends the simple bodily character of a vital movement. And in coming to the relationship of
+               <lb facs="#facs_38_tr_1_tl_6" n="N006"/>religion and art later on, we will see that the insight into these relations is a presupposition for a
+               <lb facs="#facs_38_tr_1_tl_7" n="N007"/>revitalization of liturgical elements on the basis of Protestantism.
+               <lb facs="#facs_38_tr_1_tl_8" n="N008"/>Finally I come to ARCHITECTURE: Architecture has a very special role, a role which is
+            </ab>
+            <ab facs="#facs_38_tr_2">
+               <lb facs="#facs_38_tr_2_tl_1" n="N001"/>in some way more important than that of all other arts and in some way less. It is more important
+               <lb facs="#facs_38_tr_2_tl_2" n="N002"/>because it is completely determined by purpose. Everybuilding [sic.] serves a purpose; therefore an
+               <lb facs="#facs_38_tr_2_tl_3" n="N003"/>artificial ruin is a horror and not a work of art. And I would say everything in a building which
+               <lb facs="#facs_38_tr_2_tl_4" n="N004"/>does NOT serve a purpose is a sin against the spirit of a building! Now purpose doesn't mean
+               <lb facs="#facs_38_tr_2_tl_5" n="N005"/>only heating and water and light and protection against climate, it also means living in it, and all
+               <lb facs="#facs_38_tr_2_tl_6" n="N006"/>that which makes a house livable also belongs to the purpose. But in doing this, in understanding
+               <lb facs="#facs_38_tr_2_tl_7" n="N007"/>purpose in such a large way, we also must say that in these creations of man which are determined
+               <lb facs="#facs_38_tr_2_tl_8" n="N008"/>by purpose, there is also implied the expressive power which we call symbol. One of the great
+            </ab>
+            <ab facs="#facs_38_tr_3">
+               <lb facs="#facs_38_tr_3_tl_1" n="N001"/>symbols of our time is Rockefeller Center. All those of you who have seen it SHOULD say that it is
+               <lb facs="#facs_38_tr_3_tl_2" n="N002"/>an analogy to the Pyramids or other so-called miracles of the world, and understand that here
+               <lb facs="#facs_38_tr_3_tl_3" n="N003"/>purpose and symbol are in a unique way united, and for this reason---to this I will come next time---
+               <lb facs="#facs_38_tr_3_tl_4" n="N004"/>I am convinced that church architecture will be the guiding power in the relation of religion and art.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p036</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p036</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_36">
+         <graphic url="TL-0320.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PYKGSFOJNOYEDSXBMLOXSIIW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="253,284 2248,284 2248,1416 253,1416" rendition="TextRegion" xml:id="facs_36_tr_3">
+            <zone points="1123,337 1141,340 1158,360 1166,360 1176,350 1186,357 1199,357 1207,350 1214,355 1247,350 1247,294 1212,297 1197,281 1186,284 1176,279 1158,297 1146,302 1123,299" rendition="Line" xml:id="facs_36_tr_3_tl_1"/>
+            <zone points="251,510 2051,502 2157,492 2157,416 251,474" rendition="Line" xml:id="facs_36_tr_3_tl_2"/>
+            <zone points="254,659 2018,654 2107,646 2107,593 254,629" rendition="Line" xml:id="facs_36_tr_3_tl_3"/>
+            <zone points="248,806 2162,799 2218,743 248,760" rendition="Line" xml:id="facs_36_tr_3_tl_4"/>
+            <zone points="251,966 2241,946 2241,897 1960,882 254,900" rendition="Line" xml:id="facs_36_tr_3_tl_5"/>
+            <zone points="238,1105 2142,1110 2203,1044 238,1065" rendition="Line" xml:id="facs_36_tr_3_tl_6"/>
+            <zone points="251,1265 1993,1262 2112,1252 2112,1197 251,1214" rendition="Line" xml:id="facs_36_tr_3_tl_7"/>
+            <zone points="248,1412 2058,1415 2061,1336 248,1382" rendition="Line" xml:id="facs_36_tr_3_tl_8"/>
+         </zone>
+         <zone points="256,1505 2242,1505 2242,2625 256,2625" rendition="TextRegion" xml:id="facs_36_tr_1">
+            <zone points="248,1564 309,1574 347,1564 393,1574 641,1567 641,1513 281,1516 248,1536" rendition="Line" xml:id="facs_36_tr_1_tl_1"/>
+            <zone points="426,1709 1845,1716 2140,1701 2142,1635 426,1681" rendition="Line" xml:id="facs_36_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="241,1861 2190,1861 2190,1800 241,1835" rendition="Line" xml:id="facs_36_tr_1_tl_4"/>
+            <zone points="246,2018 2005,2015 2147,2000 2150,1947 248,1967" rendition="Line" xml:id="facs_36_tr_1_tl_5"/>
+            <zone points="241,2165 1944,2165 2076,2157 2076,2086 241,2122" rendition="Line" xml:id="facs_36_tr_1_tl_6"/>
+            <zone points="248,2317 1432,2340 2211,2309 2211,2254 248,2269" rendition="Line" xml:id="facs_36_tr_1_tl_7"/>
+            <zone points="241,2464 2041,2469 2236,2461 2238,2403 243,2418" rendition="Line" xml:id="facs_36_tr_1_tl_8"/>
+            <zone points="246,2619 2155,2609 2211,2550 248,2573" rendition="Line" xml:id="facs_36_tr_1_tl_9"/>
+         </zone>
+         <zone points="172,2693 2277,2693 2277,3488 172,3488" rendition="TextRegion" xml:id="facs_36_tr_2">
+            <zone points="236,2766 2236,2756 2274,2687 236,2743" rendition="Line" xml:id="facs_36_tr_2_tl_1"/>
+            <zone points="236,2915 2091,2910 2172,2903 2175,2849 236,2872" rendition="Line" xml:id="facs_36_tr_2_tl_2"/>
+            <zone points="236,3067 2140,3070 2274,3055 2274,3004 236,3022" rendition="Line" xml:id="facs_36_tr_2_tl_3"/>
+            <zone points="241,3219 1995,3217 2081,3214 2084,3161 243,3179" rendition="Line" xml:id="facs_36_tr_2_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0320.jpg" n="part2_p036.jpg" xml:id="img_0036" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p036.jpg"/>
+            
+            <ab facs="#facs_36_tr_3">
+               <lb facs="#facs_36_tr_3_tl_1" n="N001"/>[316]
+               <lb facs="#facs_36_tr_3_tl_2" n="N002"/>symbolized in a castle which rules the village and the countryside and he never can reach it, he is
+               <lb facs="#facs_36_tr_3_tl_3" n="N003"/>cut off from it; and . . . he becomes guilty without knowing of what, and never knows it, and
+               <lb facs="#facs_36_tr_3_tl_4" n="N004"/>finally he is executed for a guilt for which he doesn't know, and to which he can never come. Now
+               <lb facs="#facs_36_tr_3_tl_5" n="N005"/>here we have symbols of a character WHICH ΕMBODY IN THEMSELVES a reality which transcends
+               <lb facs="#facs_36_tr_3_tl_6" n="N006"/>by far the description of Mr. "K". And all that happens to him is an expression of our standing in
+               <lb facs="#facs_36_tr_3_tl_7" n="N007"/>our world, which we can never understand in the same way if we had NOT encountered, in an
+               <lb facs="#facs_36_tr_3_tl_8" n="N008"/>experience of artistic character, Mr. "K" in <hi style="font-style: italic;">Trial</hi> and in <hi style="font-style: italic;">The Castle</hi>. These are dramatic and
+            </ab>
+            <ab facs="#facs_36_tr_1">
+               <lb facs="#facs_36_tr_1_tl_1" n="N001"/>novelistic symbols.
+               <lb facs="#facs_36_tr_1_tl_2" n="N002"/>SYMBOLS IN MUSIC: Here the emphasis on the emotional is so strong that I have to
+               <lb facs="#facs_36_tr_1_tl_4" n="N003"/>emphasize a little more than in the others, where I think all of you have followed me comparatively
+               <lb facs="#facs_36_tr_1_tl_5" n="N004"/>easily, when I speak about this. What happens in music are sounds, movements of our organs of
+               <lb facs="#facs_36_tr_1_tl_6" n="N005"/>hearing, and the relation of these sounds, the thythm which they appear like in poetry. <hi style="font-style: italic;">[sic]</hi>
+               <lb facs="#facs_36_tr_1_tl_7" n="N006"/>What do they do? You already heard from me, and I didn't feel there was any resistance against it,
+               <lb facs="#facs_36_tr_1_tl_8" n="N007"/>that music opens up the levels of the soul which otherwise are not open at all. But I go beyond this,
+               <lb facs="#facs_36_tr_1_tl_9" n="N008"/>and I say it is as it is in all symbols: they also open up the levels of reality which otherwise are not
+            </ab>
+            <ab facs="#facs_36_tr_2">
+               <lb facs="#facs_36_tr_2_tl_1" n="N001"/>manifest. Now this means material reality has in itself the power of sound, and in this power of sound
+               <lb facs="#facs_36_tr_2_tl_2" n="N002"/>it express something ABOUT ITSELF. The first theory which was based on this idea was the old
+               <lb facs="#facs_36_tr_2_tl_3" n="N003"/>Pythagorean theory of the sounds of the heavenly bodies, usually known as the sounds of the spheres.
+               <lb facs="#facs_36_tr_2_tl_4" n="N004"/>They discovered the mathematical vibrations which produce sound and their relationships in
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

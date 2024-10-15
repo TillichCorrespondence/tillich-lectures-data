@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p166</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p166</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_166">
+         <graphic url="TL-0166.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ULLZFCXZXLQYUSFCGDPUMXSR&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="62,234 62,3478 2403,3478 2403,234" rendition="TextRegion" xml:id="facs_166_tr_1">
+            <zone points="1195,302 1218,302 1228,312 1249,310 1262,320 1309,312 1304,252 1280,252 1270,247 1265,255 1254,255 1241,242 1226,260 1189,255" rendition="Line" xml:id="facs_166_tr_1_tl_1"/>
+            <zone points="541,442 867,484 926,453 2285,479 2282,424 2217,414 737,406 640,367 541,403" rendition="Line" xml:id="facs_166_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="341,593 497,645 1283,674 1437,609 2251,638 2251,565 2212,562 341,560" rendition="Line" xml:id="facs_166_tr_1_tl_3"/>
+            <zone points="344,744 2267,783 2267,718 2176,739 2069,684 1463,734 344,692" rendition="Line" xml:id="facs_166_tr_1_tl_4"/>
+            <zone points="354,903 1468,913 1981,963 2210,953 2217,869 2079,830 2020,872 351,846" rendition="Line" xml:id="facs_166_tr_1_tl_5"/>
+            <zone points="336,1090 1345,1062 1679,1075 1749,1124 2197,1090 2197,1020 2157,1018 336,1002" rendition="Line" xml:id="facs_166_tr_1_tl_6"/>
+            <zone points="338,1205 2254,1252 2251,1166 336,1145" rendition="Line" xml:id="facs_166_tr_1_tl_7"/>
+            <zone points="336,1356 573,1359 640,1411 1403,1400 1697,1442 1791,1398 2272,1411 2272,1319 336,1301" rendition="Line" xml:id="facs_166_tr_1_tl_8"/>
+            <zone points="320,1522 359,1541 580,1541 578,1452 359,1452 341,1470 320,1470" rendition="Line" xml:id="facs_166_tr_1_tl_10"/>
+            <zone points="325,1692 1426,1702 1473,1671 1585,1728 1796,1694 2236,1728 2236,1619 325,1624" rendition="Line" xml:id="facs_166_tr_1_tl_12"/>
+            <zone points="323,1843 1119,1861 1197,1817 1509,1819 1624,1863 2116,1861 2220,1853 2217,1772 320,1772" rendition="Line" xml:id="facs_166_tr_1_tl_13"/>
+            <zone points="323,1970 562,2022 630,1962 2098,1988 2183,1981 2183,1926 320,1908" rendition="Line" xml:id="facs_166_tr_1_tl_14"/>
+            <zone points="318,2116 1400,2139 1751,2126 1749,2069 315,2074" rendition="Line" xml:id="facs_166_tr_1_tl_15"/>
+            <zone points="510,2259 1921,2293 2176,2285 2173,2220 507,2207" rendition="Line" xml:id="facs_166_tr_1_tl_16" subtype="paragraph"/>
+            <zone points="307,2407 2334,2446 2334,2373 2295,2371 307,2379" rendition="Line" xml:id="facs_166_tr_1_tl_17"/>
+            <zone points="307,2558 1533,2571 1601,2626 1725,2629 2400,2584 2355,2522 307,2530" rendition="Line" xml:id="facs_166_tr_1_tl_18"/>
+            <zone points="304,2714 362,2756 2134,2759 2223,2722 2176,2670 304,2660" rendition="Line" xml:id="facs_166_tr_1_tl_19"/>
+            <zone points="302,2858 429,2917 575,2881 986,2915 1036,2868 2241,2881 2241,2834 2108,2800 302,2829" rendition="Line" xml:id="facs_166_tr_1_tl_20"/>
+            <zone points="299,3008 2212,3032 2210,2972 297,2977" rendition="Line" xml:id="facs_166_tr_1_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0166.jpg" n="part1_p166.jpg" xml:id="img_0166" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p166.jpg"/>
+            
+            <ab facs="#facs_166_tr_1">
+               <lb facs="#facs_166_tr_1_tl_1" n="N001"/>[163]
+               <lb facs="#facs_166_tr_1_tl_2" n="N002"/>But it wouldn’t be only a matter of OUR split consciousness---something more is involved
+               <lb facs="#facs_166_tr_1_tl_3" n="N003"/>in it. It would be a matter of a split in God Himself. If man had to sacrifice his scientific honesty
+               <lb facs="#facs_166_tr_1_tl_4" n="N004"/>in order to have ultimate concern about what is ultimate, namely the meaning and being of his life,
+               <lb facs="#facs_166_tr_1_tl_5" n="N005"/>the ground of being and meaning of his life, if this were NECESSARY, then God would demand
+               <lb facs="#facs_166_tr_1_tl_6" n="N006"/>the negation of God, because the rules of scientific work are the rules of the structure of reality
+               <lb facs="#facs_166_tr_1_tl_7" n="N007"/>to which science has to subject itself. And these structures of reality, which are also the structures
+               <lb facs="#facs_166_tr_1_tl_8" n="N008"/>of our mind, are by creation, and they are GOOD by creation! If one has to sacrifice either in one's
+               <lb facs="#facs_166_tr_1_tl_10" n="N009"/>doctrine of miracles or in one's doctrine of revelation, subjectively or objectively, the structure of
+               <lb facs="#facs_166_tr_1_tl_12" n="N010"/>mind and reality in order to reach one's ultimate concern, then this reality is evil and cannot claim
+               <lb facs="#facs_166_tr_1_tl_13" n="N011"/>truth and cannot claim created goodness. And then Christianity is back in the midst of the pagan
+               <lb facs="#facs_166_tr_1_tl_14" n="N012"/>Manichaean movements which have no idea of the GOOD creation, but where the God of grace
+               <lb facs="#facs_166_tr_1_tl_15" n="N013"/>stands in conflict with the creator-God. That's where it finally comes to!
+               <lb facs="#facs_166_tr_1_tl_16" n="N014"/>Now if we look at the modern situation in the light of these discussions, then we can
+               <lb facs="#facs_166_tr_1_tl_17" n="N015"/>say that the conflict of historical research and religion---of course, the same as science and religion, and,
+               <lb facs="#facs_166_tr_1_tl_18" n="N016"/>as we shall see in a different way, of philosophy and religion---that these conflicts have a much profounder
+               <lb facs="#facs_166_tr_1_tl_19" n="N017"/>meaning than sociological analyses will usually tell us. Of course there is also sociology involved---
+               <lb facs="#facs_166_tr_1_tl_20" n="N018"/>the will-to-power of the churches on the one hand, the will to overcome the reactionary tendencies
+               <lb facs="#facs_166_tr_1_tl_21" n="N019"/>of the churches by the representatives of science, especially in the universities, on the other hand:
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

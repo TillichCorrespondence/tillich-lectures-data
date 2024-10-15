@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p022</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p022</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_22">
+         <graphic url="TL-0022.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ENJTELPRDPWBERFUAJCGRCKK&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="191,275 185,3270 2267,3276 2307,275" rendition="TextRegion" xml:id="facs_22_tr_3">
+            <zone points="1219,336 1232,336 1239,328 1249,338 1262,338 1267,333 1280,338 1310,338 1310,270 1287,270 1280,262 1272,265 1259,257 1244,273 1219,273" rendition="Line" xml:id="facs_22_tr_3_tl_1"/>
+            <zone points="275,500 2064,492 2064,429 2006,421 275,442" rendition="Line" xml:id="facs_22_tr_3_tl_2"/>
+            <zone points="278,596 2016,596 2016,517 1799,500 1706,533 278,540" rendition="Line" xml:id="facs_22_tr_3_tl_3"/>
+            <zone points="280,681 404,712 914,666 984,704 1592,689 1726,724 2044,679 2044,601 1787,618 1746,575 280,613" rendition="Line" xml:id="facs_22_tr_3_tl_4"/>
+            <zone points="278,755 295,752 348,798 374,787 414,785 427,772 464,772 459,661 401,669 381,686 358,674 328,697 275,694" rendition="Line" xml:id="facs_22_tr_3_tl_5"/>
+            <zone points="530,833 2138,835 2138,765 1880,727 1751,777 530,772" rendition="Line" xml:id="facs_22_tr_3_tl_6"/>
+            <zone points="285,919 2064,914 2064,848 285,866" rendition="Line" xml:id="facs_22_tr_3_tl_7"/>
+            <zone points="285,1027 949,1047 1948,992 1948,934 1534,916 285,949" rendition="Line" xml:id="facs_22_tr_3_tl_8"/>
+            <zone points="278,1126 684,1093 2042,1118 2011,1030 1620,1004 1020,1047 278,1030" rendition="Line" xml:id="facs_22_tr_3_tl_9"/>
+            <zone points="280,1174 2201,1174 2203,1105 2090,1090 283,1128" rendition="Line" xml:id="facs_22_tr_3_tl_10"/>
+            <zone points="288,1269 2206,1272 2206,1181 2102,1171 288,1191" rendition="Line" xml:id="facs_22_tr_3_tl_11"/>
+            <zone points="280,1375 724,1330 946,1380 2027,1350 2027,1282 1608,1257 280,1295" rendition="Line" xml:id="facs_22_tr_3_tl_12"/>
+            <zone points="280,1428 2170,1411 2170,1365 2059,1335 280,1375" rendition="Line" xml:id="facs_22_tr_3_tl_13"/>
+            <zone points="285,1527 1030,1504 1274,1539 1360,1504 1451,1539 1628,1492 2175,1494 2175,1449 1903,1418 926,1461 288,1426" rendition="Line" xml:id="facs_22_tr_3_tl_14"/>
+            <zone points="278,1620 396,1587 1534,1623 1605,1580 2211,1587 2211,1529 2153,1517 583,1555 278,1507" rendition="Line" xml:id="facs_22_tr_3_tl_15"/>
+            <zone points="273,1701 2297,1676 2297,1608 2069,1587 954,1643 273,1618" rendition="Line" xml:id="facs_22_tr_3_tl_16"/>
+            <zone points="278,1764 2125,1749 2125,1688 1878,1673 1810,1706 278,1704" rendition="Line" xml:id="facs_22_tr_3_tl_17"/>
+            <zone points="273,1847 371,1893 477,1857 1237,1860 1237,1794 1191,1784 273,1792" rendition="Line" xml:id="facs_22_tr_3_tl_18"/>
+            <zone points="530,1956 2302,1923 2302,1863 1890,1827 1721,1863 530,1863" rendition="Line" xml:id="facs_22_tr_3_tl_19"/>
+            <zone points="278,2019 543,2057 868,2006 1340,2037 1832,1996 2024,2034 2269,2009 2271,1946 280,1953" rendition="Line" xml:id="facs_22_tr_3_tl_20"/>
+            <zone points="278,2143 416,2102 633,2135 1651,2075 1890,2125 2276,2120 2276,2037 2188,2001 543,2057 278,2022" rendition="Line" xml:id="facs_22_tr_3_tl_21"/>
+            <zone points="275,2178 2254,2165 2254,2122 2191,2110 1706,2090 275,2148" rendition="Line" xml:id="facs_22_tr_3_tl_22"/>
+            <zone points="278,2284 2206,2256 2186,2188 278,2181" rendition="Line" xml:id="facs_22_tr_3_tl_23"/>
+            <zone points="285,2357 1916,2367 2019,2324 2216,2370 2216,2276 2130,2259 285,2284" rendition="Line" xml:id="facs_22_tr_3_tl_24"/>
+            <zone points="275,2453 2122,2435 2122,2355 2047,2352 1143,2385 1070,2347 613,2382 452,2345 278,2380" rendition="Line" xml:id="facs_22_tr_3_tl_25"/>
+            <zone points="285,2531 2128,2514 2102,2438 285,2471" rendition="Line" xml:id="facs_22_tr_3_tl_26"/>
+            <zone points="285,2620 2082,2594 2082,2531 1832,2509 1560,2511 1497,2552 878,2516 285,2549" rendition="Line" xml:id="facs_22_tr_3_tl_27"/>
+            <zone points="280,2708 1956,2678 1956,2605 1822,2594 1595,2635 944,2610 845,2652 717,2610 280,2620" rendition="Line" xml:id="facs_22_tr_3_tl_28"/>
+            <zone points="533,2789 2085,2761 2059,2690 2001,2726 1893,2683 1057,2723 533,2690" rendition="Line" xml:id="facs_22_tr_3_tl_29"/>
+            <zone points="280,2847 507,2887 686,2852 1262,2885 1327,2847 2125,2847 2125,2786 1903,2776 1698,2809 280,2789" rendition="Line" xml:id="facs_22_tr_3_tl_30"/>
+            <zone points="275,2948 527,2986 750,2933 1267,2968 1355,2930 1529,2981 1635,2940 2178,2933 2178,2875 1994,2849 692,2900 275,2870" rendition="Line" xml:id="facs_22_tr_3_tl_31"/>
+            <zone points="275,3046 295,3041 321,3064 333,3064 366,3059 396,3028 424,3026 449,3044 467,3044 464,2948 447,2948 429,2968 389,2960 376,2973 348,2955 315,2965 295,2948 273,2950" rendition="Line" xml:id="facs_22_tr_3_tl_32"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0022.jpg" n="part1_p022.jpg" xml:id="img_0022" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p022.jpg"/>
+            
+            <ab facs="#facs_22_tr_3">
+               <lb facs="#facs_22_tr_3_tl_1" n="N001"/>[19]
+               <lb facs="#facs_22_tr_3_tl_2" n="N002"/>of view that religion--or better: <rs type="keyword" ref="#Faith">the act of faith, in religion--is the state of ultimate
+               <lb break="no" facs="#facs_22_tr_3_tl_3" n="N003"/>concern. From this follows the fundamental answer to the question of this whole
+               <lb break="no" facs="#facs_22_tr_3_tl_4" n="N004"/>[course of] lecture[s]: religion is the substance of culture; culture is the form of
+               <lb break="no" facs="#facs_22_tr_3_tl_5" n="N005"/>religion.</rs>
+               <lb facs="#facs_22_tr_3_tl_6" n="N006"/>Now after I have announced this, so to speak, as the subtitle to the whole
+               <lb facs="#facs_22_tr_3_tl_7" n="N007"/>lecture, I come back to the relationship of these two concepts of religion, or more
+               <lb facs="#facs_22_tr_3_tl_8" n="N008"/>intensively, these two elements in the act of faith: ''ultimate'' and ''concern.''
+               <lb facs="#facs_22_tr_3_tl_9" n="N009"/><rs type="keyword" ref="#Ultimacy">Ultimacy drives beyond every special concern; concern drives to full concreteness</rs>.
+               <lb facs="#facs_22_tr_3_tl_10" n="N010"/>And out of this, the other side of religion--which I did not mention last time, and which
+               <lb facs="#facs_22_tr_3_tl_11" n="N011"/>has raised questions in your minds--follows naturally and understandably. There would be
+               <lb facs="#facs_22_tr_3_tl_12" n="N012"/>no religion, in ANY way, if the concern couldn't express itself in concrete forms.
+               <lb facs="#facs_22_tr_3_tl_13" n="N013"/><rs type="keyword" ref="#Christian_Nationalism">But there is a problem in these concrete forms.<rs type="keyword" ref="#Demonic"> The concern is supposed to be ultimate,</rs>
+               <lb break="no" facs="#facs_22_tr_3_tl_14" n="N014"/><rs type="keyword" ref="#Demonic">but when I gave you the examples of nation and success, you immediately felt with me</rs>
+               <lb break="no" facs="#facs_22_tr_3_tl_15" n="N015"/><rs type="keyword" ref="#Demonic">that they are not true ultimates, because they are transitory, and they are, if they remain</rs>
+               <lb break="no" facs="#facs_22_tr_3_tl_16" n="N016"/><rs type="keyword" ref="#Demonic">alone, empty (at least success), and, if they are without criteria, demonic (such as nationalism).</rs>
+               <lb break="no" facs="#facs_22_tr_3_tl_17" n="N017"/>So we must distinguish between that which is really ultimate and that which CLAIMS
+               <lb break="no" facs="#facs_22_tr_3_tl_18" n="N018"/>to be ultimate but is actually NOT <rs type="keyword" ref="#Ultimacy">ultimate</rs>.
+               <lb break="no" facs="#facs_22_tr_3_tl_19" n="N019"/>In traditional religious language, that which is not really ultimate but claims to be,
+               <lb break="no" facs="#facs_22_tr_3_tl_20" n="N020"/>is called idolatry. Every content of faith, of ultimate concern, which claims ultimacy without
+               <lb break="no" facs="#facs_22_tr_3_tl_21" n="N021"/>having it in its very nature, is an idol. The act of such idols is idolatry. Idolatry is therefore
+               <lb break="no" facs="#facs_22_tr_3_tl_22" n="N022"/>a universal phenomenon</rs>. It is not what is usually called polytheism. In polytheism there are
+               <lb facs="#facs_22_tr_3_tl_23" n="N023"/>elements of true ultimate concern; in polytheism there is also idolatry. In Christianity and
+               <lb facs="#facs_22_tr_3_tl_24" n="N024"/>the monotheistic religions, there is also true ultimacy, and there is also idolatry. And the
+               <lb facs="#facs_22_tr_3_tl_25" n="N025"/>history of the church is full of idolatric elements, as much as the history of all other
+               <lb facs="#facs_22_tr_3_tl_26" n="N026"/>religions. And it belongs to the fundamental Christian doctrine that the history of the
+               <lb facs="#facs_22_tr_3_tl_27" n="N027"/>church stands UNDER the judgment of ultimate concern and is judged by it, and is
+               <lb facs="#facs_22_tr_3_tl_28" n="N028"/>judged as largely idolatric, claiming to be ultimate where there is no ultimacy.
+               <lb facs="#facs_22_tr_3_tl_29" n="N029"/>Now this is one of the most important consequences following from my
+               <lb facs="#facs_22_tr_3_tl_30" n="N030"/>definition of faith as ultimate concern. It follows from it that no religion is exempted
+               <lb facs="#facs_22_tr_3_tl_31" n="N031"/>from the criterion of true ultimacy and from the temptation to replace true ultimacy by
+               <lb facs="#facs_22_tr_3_tl_32" n="N032"/>idolatry.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

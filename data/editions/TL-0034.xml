@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p034</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p034</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_34">
+         <graphic url="TL-0034.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VQCPDINKVJNSHWJJXKGYHBZW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="41,236 70,3269 2363,3244 2352,236" rendition="TextRegion" xml:id="facs_34_tr_1">
+            <zone points="1218,278 1231,281 1243,293 1263,291 1280,296 1310,293 1313,224 1298,224 1285,236 1270,221 1258,234 1221,234" rendition="Line" xml:id="facs_34_tr_1_tl_1"/>
+            <zone points="291,460 2143,452 2143,385 291,390" rendition="Line" xml:id="facs_34_tr_1_tl_2"/>
+            <zone points="278,540 2136,542 2136,485 1822,475 278,495" rendition="Line" xml:id="facs_34_tr_1_tl_3"/>
+            <zone points="283,624 2116,622 2116,574 2069,564 283,582" rendition="Line" xml:id="facs_34_tr_1_tl_4"/>
+            <zone points="281,736 465,748 602,701 1089,743 1482,696 2106,709 2106,656 281,661" rendition="Line" xml:id="facs_34_tr_1_tl_5"/>
+            <zone points="283,788 2198,788 2198,731 2076,723 1574,761 283,746" rendition="Line" xml:id="facs_34_tr_1_tl_6"/>
+            <zone points="288,883 2088,893 2064,801 1979,843 288,830" rendition="Line" xml:id="facs_34_tr_1_tl_7"/>
+            <zone points="283,972 830,999 883,952 2282,960 2282,910 2103,895 283,922" rendition="Line" xml:id="facs_34_tr_1_tl_8"/>
+            <zone points="278,1042 353,1054 375,1039 400,1059 480,1054 495,1039 544,1059 701,1047 701,1002 515,997 487,1014 472,999 278,997" rendition="Line" xml:id="facs_34_tr_1_tl_9"/>
+            <zone points="540,1129 1569,1164 1713,1116 2128,1126 2128,1059 540,1067" rendition="Line" xml:id="facs_34_tr_1_tl_10" subtype="paragraph"/>
+            <zone points="281,1213 2146,1221 2146,1164 2096,1154 281,1164" rendition="Line" xml:id="facs_34_tr_1_tl_11"/>
+            <zone points="281,1295 1203,1285 1310,1325 1447,1285 1763,1318 2230,1290 2230,1243 2156,1236 281,1251" rendition="Line" xml:id="facs_34_tr_1_tl_12"/>
+            <zone points="276,1382 2091,1380 2091,1328 276,1338" rendition="Line" xml:id="facs_34_tr_1_tl_13"/>
+            <zone points="281,1467 2188,1469 2188,1402 281,1420" rendition="Line" xml:id="facs_34_tr_1_tl_14"/>
+            <zone points="276,1549 542,1544 582,1584 865,1541 2213,1549 2213,1484 276,1507" rendition="Line" xml:id="facs_34_tr_1_tl_15"/>
+            <zone points="276,1633 2262,1628 2262,1581 1999,1569 276,1589" rendition="Line" xml:id="facs_34_tr_1_tl_16"/>
+            <zone points="276,1720 2230,1718 2230,1651 276,1676" rendition="Line" xml:id="facs_34_tr_1_tl_17"/>
+            <zone points="273,1800 2163,1798 2163,1738 2088,1735 273,1758" rendition="Line" xml:id="facs_34_tr_1_tl_18"/>
+            <zone points="276,1880 1661,1867 1464,1822 276,1837" rendition="Line" xml:id="facs_34_tr_1_tl_20"/>
+            <zone points="273,1964 2161,1964 2161,1912 1559,1892 1228,1939 1034,1907 273,1937" rendition="Line" xml:id="facs_34_tr_1_tl_21"/>
+            <zone points="532,2051 671,2083 853,2041 2116,2061 2116,2001 1919,1989 532,1994" rendition="Line" xml:id="facs_34_tr_1_tl_22" subtype="paragraph"/>
+            <zone points="276,2136 793,2131 900,2168 1049,2133 2138,2133 2138,2076 1952,2066 1400,2101 922,2054 845,2091 276,2103" rendition="Line" xml:id="facs_34_tr_1_tl_23"/>
+            <zone points="278,2223 383,2258 547,2213 2081,2220 2081,2175 2004,2161 278,2178" rendition="Line" xml:id="facs_34_tr_1_tl_24"/>
+            <zone points="276,2300 2138,2300 2138,2245 2051,2238 276,2262" rendition="Line" xml:id="facs_34_tr_1_tl_25"/>
+            <zone points="273,2382 932,2377 975,2419 1174,2379 1793,2389 1793,2342 1688,2330 273,2345" rendition="Line" xml:id="facs_34_tr_1_tl_26"/>
+            <zone points="522,2466 2081,2474 2041,2409 1042,2441 522,2412" rendition="Line" xml:id="facs_34_tr_1_tl_27" subtype="paragraph"/>
+            <zone points="276,2578 2146,2558 2146,2506 2098,2491 276,2516" rendition="Line" xml:id="facs_34_tr_1_tl_28"/>
+            <zone points="273,2638 2064,2640 2064,2596 1987,2581 273,2601" rendition="Line" xml:id="facs_34_tr_1_tl_29"/>
+            <zone points="273,2725 2061,2725 2061,2663 273,2680" rendition="Line" xml:id="facs_34_tr_1_tl_30"/>
+            <zone points="266,2802 2056,2807 2056,2760 1982,2747 266,2782" rendition="Line" xml:id="facs_34_tr_1_tl_31"/>
+            <zone points="269,2887 2161,2889 2161,2842 1924,2834 269,2862" rendition="Line" xml:id="facs_34_tr_1_tl_32"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0034.jpg" n="part1_p034.jpg" xml:id="img_0034" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p034.jpg"/>
+            
+            <ab facs="#facs_34_tr_1">
+               <lb facs="#facs_34_tr_1_tl_1" n="N001"/>[31]
+               <lb facs="#facs_34_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Language">much richer in their expressive power than modern languages--that the deteriorization of
+               <lb break="no" facs="#facs_34_tr_1_tl_3" n="N003"/>language takes place which is often counterbalanced by a development of new languages
+               <lb break="no" facs="#facs_34_tr_1_tl_4" n="N004"/>out of the slang section of the deteriorized language. Now this is partly the case with
+               <lb break="no" facs="#facs_34_tr_1_tl_5" n="N005"/>English, and I think the slang-section is developed much stronger in this country than
+               <lb break="no" facs="#facs_34_tr_1_tl_6" n="N006"/>in England and the other English-using languages. And it is probably possible that out of
+               <lb break="no" facs="#facs_34_tr_1_tl_7" n="N007"/>this encounter with reality, which is going on in the American popular mind, a new
+               <lb break="no" facs="#facs_34_tr_1_tl_8" n="N008"/>primitivism of language will arise in which much of the deteriorization of the official language
+               <lb break="no" facs="#facs_34_tr_1_tl_9" n="N009"/>has been overcome.
+               <lb break="no" facs="#facs_34_tr_1_tl_10" n="N010"/>The symptoms of the deteriorization of a language, the loss of the original
+               <lb break="no" facs="#facs_34_tr_1_tl_11" n="N011"/>encounter with reality, is, for instance (one of them) the abbreviations. And here today
+               <lb break="no" facs="#facs_34_tr_1_tl_12" n="N012"/>we are in a period of utter deterioration. We replace full words by abbreviation, combined
+               <lb break="no" facs="#facs_34_tr_1_tl_13" n="N013"/>by letters without meaning. We do not say ''General Motors'' (in which there is still
+               <lb break="no" facs="#facs_34_tr_1_tl_14" n="N014"/>something of the original idea of moving powers, universally, combined in this enterprise),
+               <lb break="no" facs="#facs_34_tr_1_tl_15" n="N015"/>but we say ''G.M.'', which doesn't mean anything. And we do not say ''Union Theological
+               <lb break="no" facs="#facs_34_tr_1_tl_16" n="N016"/>Seminary'' (although I have never followed this usage), but we say ''U.T.S.'', and that means
+               <lb break="no" facs="#facs_34_tr_1_tl_17" n="N017"/>all the meanings connected with these words: that it is a ''sem''inary, a place where ''seeds''
+               <lb break="no" facs="#facs_34_tr_1_tl_18" n="N018"/>are thrown into the spiritual earth; that it is ''theological''; that it is the ''union'' of all
+               <lb break="no" facs="#facs_34_tr_1_tl_20" n="N019"/>denominations (which means very much, symbolically)--is gone. ''U.T.S.'' is nothing!
+               <lb break="no" facs="#facs_34_tr_1_tl_21" n="N020"/>And even a word like ''United Nations''... one says ''U.N.'' and the meaning is gone!
+               <lb break="no" facs="#facs_34_tr_1_tl_22" n="N021"/>This is one of the symptoms of the deteriorization of language, for a very
+               <lb break="no" facs="#facs_34_tr_1_tl_23" n="N022"/>special reason: language has lost its expressive power, in these cases, and has been used
+               <lb break="no" facs="#facs_34_tr_1_tl_24" n="N023"/>simply as a sign, in social relations, for communicative powers in a technical society,
+               <lb break="no" facs="#facs_34_tr_1_tl_25" n="N024"/>where nothing more than these abbreviations is needed. But when we speak of spiritual
+               <lb break="no" facs="#facs_34_tr_1_tl_26" n="N025"/>deteriorization, we should not forget that this is one of the symptoms.
+               <lb break="no" facs="#facs_34_tr_1_tl_27" n="N026"/>There is another, which took place much earlier. In early languages, e.g.,
+               <lb break="no" facs="#facs_34_tr_1_tl_28" n="N027"/>genuine [i.e., classical--ed.] Greek, the grammatical inflections are incredibly rich--to the
+               <lb break="no" facs="#facs_34_tr_1_tl_29" n="N028"/>distress of all students who must learn these languages! But slowly, many of these
+               <lb break="no" facs="#facs_34_tr_1_tl_30" n="N029"/>inflections disappear, and a great poverty takes place with respect to them, but this
+               <lb break="no" facs="#facs_34_tr_1_tl_31" n="N030"/>stage of poverty is sufficient to fulfill the communicative function of language in a
+               <lb break="no" facs="#facs_34_tr_1_tl_32" n="N031"/>technical society. Tenses, optatives, conjunctions, and all this, are not needed any more.</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

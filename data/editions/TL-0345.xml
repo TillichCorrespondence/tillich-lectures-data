@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p061</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p061</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_61">
+         <graphic url="TL-0345.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TWXDNHOLJEBOFJFRAKJQWIQH&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="253,269 2301,269 2301,1257 253,1257" rendition="TextRegion" xml:id="facs_61_tr_2">
+            <zone points="1071,319 1084,319 1099,332 1117,334 1130,329 1135,334 1173,334 1183,326 1196,326 1196,258 1160,260 1145,245 1107,280 1071,280" rendition="Line" xml:id="facs_61_tr_2_tl_1"/>
+            <zone points="245,507 2088,495 2201,446 1701,405 1657,449 245,462" rendition="Line" xml:id="facs_61_tr_2_tl_2"/>
+            <zone points="242,658 2226,650 2226,589 245,620" rendition="Line" xml:id="facs_61_tr_2_tl_3"/>
+            <zone points="245,796 2027,806 2193,796 2193,742 245,752" rendition="Line" xml:id="facs_61_tr_2_tl_4"/>
+            <zone points="240,946 2124,949 2124,887 240,898" rendition="Line" xml:id="facs_61_tr_2_tl_5"/>
+            <zone points="247,1117 2137,1109 2298,1094 2298,1035 247,1063" rendition="Line" xml:id="facs_61_tr_2_tl_6"/>
+            <zone points="240,1247 2188,1252 2188,1191 1963,1181 240,1196" rendition="Line" xml:id="facs_61_tr_2_tl_7"/>
+         </zone>
+         <zone points="235,1338 2227,1338 2227,3067 235,3067" rendition="TextRegion" xml:id="facs_61_tr_1">
+            <zone points="232,1405 2020,1408 2157,1397 2157,1341 232,1372" rendition="Line" xml:id="facs_61_tr_1_tl_1"/>
+            <zone points="229,1548 1984,1566 2165,1548 2165,1489 229,1499" rendition="Line" xml:id="facs_61_tr_1_tl_2"/>
+            <zone points="224,1696 1242,1731 1918,1698 1918,1647 224,1670" rendition="Line" xml:id="facs_61_tr_1_tl_3"/>
+            <zone points="237,1851 1627,1854 1627,1800 237,1803" rendition="Line" xml:id="facs_61_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="232,1999 311,2022 1288,2004 1288,1948 1015,1974 232,1953" rendition="Line" xml:id="facs_61_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="224,2150 1708,2168 2104,2150 2104,2083 224,2122" rendition="Line" xml:id="facs_61_tr_1_tl_7"/>
+            <zone points="229,2308 2139,2308 2139,2244 229,2275" rendition="Line" xml:id="facs_61_tr_1_tl_8"/>
+            <zone points="227,2458 2025,2461 2193,2453 2193,2392 227,2428" rendition="Line" xml:id="facs_61_tr_1_tl_9"/>
+            <zone points="224,2611 2091,2606 2094,2550 227,2560" rendition="Line" xml:id="facs_61_tr_1_tl_10"/>
+            <zone points="224,2759 1861,2767 2224,2751 2226,2685 227,2703" rendition="Line" xml:id="facs_61_tr_1_tl_11"/>
+            <zone points="456,2907 1053,2943 2196,2902 2196,2846 456,2861" rendition="Line" xml:id="facs_61_tr_1_tl_12"/>
+            <zone points="222,3055 306,3073 852,3057 918,3075 949,3063 949,3012 454,3012 431,3032 411,3012 258,3009 222,3029" rendition="Line" xml:id="facs_61_tr_1_tl_14"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0345.jpg" n="part2_p061.jpg" xml:id="img_0061" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p061.jpg"/>
+            
+            <ab facs="#facs_61_tr_2">
+               <lb facs="#facs_61_tr_2_tl_1" n="N001"/>[340]
+               <lb facs="#facs_61_tr_2_tl_2" n="N002"/>in the spiritual, and vice versa. They are expressions of the one reality which is man. This makes it
+               <lb facs="#facs_61_tr_2_tl_3" n="N003"/>possible to recognize the identity of every individual person in his face-expression. This is something
+               <lb facs="#facs_61_tr_2_tl_4" n="N004"/>very miraculous, if you ever think about it, that the cells of the body, the cells of the face, are able
+               <lb facs="#facs_61_tr_2_tl_5" n="N005"/>to express the spirituality which is in you. And this is the importance of the portrait. Now the
+               <lb facs="#facs_61_tr_2_tl_6" n="N006"/>portrait had the same problem, where somebody might ask, ''Why not the reality itself? Why a portrait?
+               <lb facs="#facs_61_tr_2_tl_7" n="N007"/>What is changed?'' What is changed is the following, that in a creative portrait the WHOLE of this
+            </ab>
+            <ab facs="#facs_61_tr_1">
+               <lb facs="#facs_61_tr_1_tl_1" n="N001"/>human being is expressed in the moment in which the painter brings it into existence as a picture.
+               <lb facs="#facs_61_tr_1_tl_2" n="N002"/>We will find something of it more characteristic later on, but it is something which is very decisive
+               <lb facs="#facs_61_tr_1_tl_3" n="N003"/>for the art of the portrait itself. Perhaps we go on, because I must say more about it.
+               <lb facs="#facs_61_tr_1_tl_4" n="N004"/>16) Titian, <hi style="font-style: italic;">THE DUKE OF URBINO</hi>--another Renaissance portrait.
+               <lb facs="#facs_61_tr_1_tl_6" n="N005"/>17) Here I want to stop for a moment. Here you see what I said
+               <lb facs="#facs_61_tr_1_tl_7" n="N006"/>much more realized than in the two others, namely you see here the history of this old woman
+               <lb facs="#facs_61_tr_1_tl_8" n="N007"/>embodied, represented, in every trait of her face. It is not a photograph of her in her 70th year,
+               <lb facs="#facs_61_tr_1_tl_9" n="N008"/>or whatever it may be, but it is a reproduction and concentration of the spiritual pilgrimage of this
+               <lb facs="#facs_61_tr_1_tl_10" n="N009"/>human being embodying the ultimate meaning of such a being in the dimension of the eternal.
+               <lb facs="#facs_61_tr_1_tl_11" n="N010"/>For this reason, secular portraits can, in spite of the fact that they are not religious, mediate ultimate
+               <lb facs="#facs_61_tr_1_tl_12" n="N011"/>reality by their power to bring into our vision something about a person which otherwise we never
+               <lb facs="#facs_61_tr_1_tl_14" n="N012"/>would be able to realize in this way.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

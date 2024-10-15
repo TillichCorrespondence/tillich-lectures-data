@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p113</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p113</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_113">
+         <graphic url="TL-0113.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PMTRMFAEEEBUCVBIYDOHLGHF&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="38,227 38,3471 2397,3471 2397,227" rendition="TextRegion" xml:id="facs_113_tr_1">
+            <zone points="1255,298 1283,300 1291,310 1307,310 1312,305 1317,310 1364,310 1382,305 1384,235 1348,238 1338,228 1304,228 1294,238 1258,241" rendition="Line" xml:id="facs_113_tr_1_tl_1"/>
+            <zone points="323,479 1666,450 1666,404 1589,393 323,424" rendition="Line" xml:id="facs_113_tr_1_tl_2"/>
+            <zone points="582,611 2184,603 2142,528 1151,574 1097,541 1053,574 582,549" rendition="Line" xml:id="facs_113_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="308,771 2298,758 2300,678 308,737" rendition="Line" xml:id="facs_113_tr_1_tl_5"/>
+            <zone points="310,924 908,908 978,965 2355,924 2355,831 310,885" rendition="Line" xml:id="facs_113_tr_1_tl_6"/>
+            <zone points="310,1069 2249,1048 2246,986 310,1022" rendition="Line" xml:id="facs_113_tr_1_tl_7"/>
+            <zone points="173,1242 2153,1242 2155,1162 1938,1133 313,1195 251,1141 173,1177" rendition="Line" xml:id="facs_113_tr_1_tl_8"/>
+            <zone points="310,1382 2316,1348 2316,1276 313,1340" rendition="Line" xml:id="facs_113_tr_1_tl_9"/>
+            <zone points="308,1524 981,1519 1089,1573 1364,1537 1565,1571 2194,1501 2194,1444 308,1477" rendition="Line" xml:id="facs_113_tr_1_tl_10"/>
+            <zone points="321,1687 520,1731 963,1669 2186,1656 2186,1594 321,1630" rendition="Line" xml:id="facs_113_tr_1_tl_12"/>
+            <zone points="318,1840 2300,1798 2300,1728 655,1785 598,1749 321,1793" rendition="Line" xml:id="facs_113_tr_1_tl_13"/>
+            <zone points="313,1966 2393,1941 2342,1876 313,1938" rendition="Line" xml:id="facs_113_tr_1_tl_14"/>
+            <zone points="310,2119 2261,2093 2261,2036 310,2070" rendition="Line" xml:id="facs_113_tr_1_tl_15"/>
+            <zone points="308,2269 2018,2254 2018,2197 310,2243" rendition="Line" xml:id="facs_113_tr_1_tl_16"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0113.jpg" n="part1_p113.jpg" xml:id="img_0113" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p113.jpg"/>
+            
+            <ab facs="#facs_113_tr_1">
+               <lb facs="#facs_113_tr_1_tl_1" n="N001"/>[110]
+               <lb facs="#facs_113_tr_1_tl_2" n="N002"/>which became one of the main characteristics of our modern period.
+               <lb facs="#facs_113_tr_1_tl_3" n="N003"/><rs type="keyword" ref="#Myth">Now if we look at this, then we must say: what has happened was that the early
+               <lb break="no" facs="#facs_113_tr_1_tl_5" n="N004"/>mythological worldview, in which the natural and supernatural were mixed--and from this mixture,
+               <lb break="no" facs="#facs_113_tr_1_tl_6" n="N005"/>some symbols were derived--that this worldview was undercut by an observed and calculated universe.</rs>
+               <lb facs="#facs_113_tr_1_tl_7" n="N006"/>Of course the fight was hopeless, from the point of view of the Church, and the Church soon gave
+               <lb facs="#facs_113_tr_1_tl_8" n="N007"/>in, after its primary reaction. But the shock remained, and the shock is not completely gone
+               <lb facs="#facs_113_tr_1_tl_9" n="N008"/>And I hope that you all, sometimes, go out during a night with clear stars, and imagine for a moment
+               <lb facs="#facs_113_tr_1_tl_10" n="N009"/>the immensities of time and space, and the infinite smallness of our historical existence, on this
+               <lb facs="#facs_113_tr_1_tl_12" n="N010"/>piece of matter in this universe. Now, whenever you do this, then you will have an empathetic
+               <lb facs="#facs_113_tr_1_tl_13" n="N011"/>participation in what has happened in these people who FIRST were exposed to these ideas, to these
+               <lb facs="#facs_113_tr_1_tl_14" n="N012"/>concepts, to these calculations which are inescapable, and to the consequences of this for people who live
+               <lb facs="#facs_113_tr_1_tl_15" n="N013"/>in spite of a lot of scientific knowledge they already had--in the world which is divided into
+               <lb facs="#facs_113_tr_1_tl_16" n="N014"/>an ''above'' and a ''below'', and that which is in the middle of it, namely you and me!
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

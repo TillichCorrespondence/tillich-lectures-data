@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p031</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p031</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_31">
+         <graphic url="TL-0031.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GECPVJAHSNYBAVPAKKOTTEUA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="229,243 229,3459 2230,3459 2230,243" rendition="TextRegion" xml:id="facs_31_tr_1">
+            <zone points="1208,289 1220,289 1240,309 1259,301 1303,299 1303,247 1286,250 1267,233 1235,260 1208,260" rendition="Line" xml:id="facs_31_tr_1_tl_1"/>
+            <zone points="257,461 365,453 495,517 919,456 2068,475 2068,424 1965,407 257,412" rendition="Line" xml:id="facs_31_tr_1_tl_2"/>
+            <zone points="257,551 887,556 887,507 860,502 777,517 625,502 605,522 581,500 257,510" rendition="Line" xml:id="facs_31_tr_1_tl_3"/>
+            <zone points="505,713 2193,718 2193,654 505,662" rendition="Line" xml:id="facs_31_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="255,806 2188,806 2188,750 255,757" rendition="Line" xml:id="facs_31_tr_1_tl_5"/>
+            <zone points="255,897 1225,933 1585,882 2139,884 2102,826 255,840" rendition="Line" xml:id="facs_31_tr_1_tl_6"/>
+            <zone points="255,990 2078,973 2080,929 257,909" rendition="Line" xml:id="facs_31_tr_1_tl_7"/>
+            <zone points="257,1058 2227,1054 2227,1009 1818,995 1076,1027 257,997" rendition="Line" xml:id="facs_31_tr_1_tl_8"/>
+            <zone points="252,1156 1051,1186 2185,1147 2185,1095 2127,1080 252,1093" rendition="Line" xml:id="facs_31_tr_1_tl_9"/>
+            <zone points="257,1237 902,1269 1019,1267 1078,1215 2122,1225 2122,1174 2070,1169 257,1176" rendition="Line" xml:id="facs_31_tr_1_tl_10"/>
+            <zone points="247,1306 2095,1306 2095,1262 1972,1247 247,1284" rendition="Line" xml:id="facs_31_tr_1_tl_11"/>
+            <zone points="279,1406 2183,1399 2183,1333 279,1343" rendition="Line" xml:id="facs_31_tr_1_tl_12"/>
+            <zone points="245,1482 2119,1485 2119,1431 1838,1416 1752,1448 1617,1414 1465,1446 245,1428" rendition="Line" xml:id="facs_31_tr_1_tl_13"/>
+            <zone points="247,1551 2205,1573 2205,1512 1997,1499 1874,1531 1732,1497 247,1514" rendition="Line" xml:id="facs_31_tr_1_tl_14"/>
+            <zone points="245,1651 2124,1644 2124,1595 2051,1585 245,1600" rendition="Line" xml:id="facs_31_tr_1_tl_15"/>
+            <zone points="245,1727 603,1766 774,1722 1279,1722 1328,1764 2058,1732 2058,1681 1965,1673 245,1700" rendition="Line" xml:id="facs_31_tr_1_tl_16"/>
+            <zone points="245,1838 2063,1860 2063,1754 245,1769" rendition="Line" xml:id="facs_31_tr_1_tl_17"/>
+            <zone points="240,1891 1891,1899 1891,1857 1759,1840 240,1860" rendition="Line" xml:id="facs_31_tr_1_tl_18"/>
+            <zone points="485,2058 2053,2085 2053,1994 485,2011" rendition="Line" xml:id="facs_31_tr_1_tl_19" subtype="paragraph"/>
+            <zone points="230,2141 287,2180 2188,2151 2188,2092 230,2117" rendition="Line" xml:id="facs_31_tr_1_tl_20"/>
+            <zone points="216,2256 1088,2276 1193,2230 2026,2230 2026,2176 331,2203 216,2136" rendition="Line" xml:id="facs_31_tr_1_tl_21"/>
+            <zone points="230,2315 2046,2325 2046,2271 1923,2256 230,2288" rendition="Line" xml:id="facs_31_tr_1_tl_22"/>
+            <zone points="230,2394 2073,2403 2073,2354 2021,2340 1889,2372 230,2357" rendition="Line" xml:id="facs_31_tr_1_tl_23"/>
+            <zone points="233,2482 2117,2484 2117,2428 233,2443" rendition="Line" xml:id="facs_31_tr_1_tl_24"/>
+            <zone points="488,2651 2129,2653 2129,2592 488,2602" rendition="Line" xml:id="facs_31_tr_1_tl_25" subtype="paragraph"/>
+            <zone points="230,2742 2166,2773 2166,2693 2082,2680 230,2707" rendition="Line" xml:id="facs_31_tr_1_tl_26"/>
+            <zone points="225,2822 522,2876 1012,2869 1198,2815 1502,2852 2176,2835 2176,2786 2100,2773 225,2778" rendition="Line" xml:id="facs_31_tr_1_tl_27"/>
+            <zone points="245,2913 933,2898 1225,2950 1470,2947 1531,2898 1661,2947 2112,2945 2112,2857 2063,2852 451,2884 245,2854" rendition="Line" xml:id="facs_31_tr_1_tl_28"/>
+            <zone points="218,2984 2034,2996 2034,2945 1923,2938 218,2950" rendition="Line" xml:id="facs_31_tr_1_tl_29"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0031.jpg" n="part1_p031.jpg" xml:id="img_0031" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p031.jpg"/>
+            
+            <ab facs="#facs_31_tr_1">
+               <lb facs="#facs_31_tr_1_tl_1" n="N001"/>[28]
+               <lb facs="#facs_31_tr_1_tl_2" n="N002"/>was ''self-sacrifice.'' What does this mean? If it is merely self-sacrifice of the believer,
+               <lb facs="#facs_31_tr_1_tl_3" n="N003"/>many idolatries demand that.
+               <lb facs="#facs_31_tr_1_tl_4" n="N004"/>TILLICH: Now that is certainly true, and I am very grateful for this question
+               <lb facs="#facs_31_tr_1_tl_5" n="N005"/>especially, because we had a very quick conclusion of the last lecture, in which I pointed
+               <lb facs="#facs_31_tr_1_tl_6" n="N006"/>to the criterion, to the anti-idolatric criterion, of faith. l said this anti-idolatric criterion
+               <lb facs="#facs_31_tr_1_tl_7" n="N007"/>is self-sacrifice. Now obviously this has been misunderstood as the self-sacrifice of an
+               <lb facs="#facs_31_tr_1_tl_8" n="N008"/>individual--for instance a martyr, or a prophet, or the Christ himself. That was not meant.
+               <lb facs="#facs_31_tr_1_tl_9" n="N009"/>Self-sacrifice was meant as the sacrifice of the FINITE BEARER of that which is infinite,
+               <lb facs="#facs_31_tr_1_tl_10" n="N010"/>in the finitude of what he represents: in his language, in his religious tradition, in his
+               <lb facs="#facs_31_tr_1_tl_11" n="N011"/>obedience to the law, in his piety, and all this. My idea was NOT that the religious
+               <lb facs="#facs_31_tr_1_tl_12" n="N012"/>''genius''--or however we use that word (''genius'' is not too good)--must sacrifice himself,
+               <lb facs="#facs_31_tr_1_tl_13" n="N013"/>in terms of giving his life. This belongs to another level of problems. And we can say,
+               <lb facs="#facs_31_tr_1_tl_14" n="N014"/>Yes, this is very often the case, but this is not the answer because (as the question rightly
+               <lb facs="#facs_31_tr_1_tl_15" n="N015"/>says), MANY idolatries, e.g., Nazism, Communism, and many others, have a tremendous
+               <lb facs="#facs_31_tr_1_tl_16" n="N016"/>amount of martyrs. So this is not the answer. The answer is that everything finite
+               <lb facs="#facs_31_tr_1_tl_17" n="N017"/>which, as finite, claims ultimacy, must acknowledge that it is not the ultimate itself.
+               <lb facs="#facs_31_tr_1_tl_18" n="N018"/>And only on this basis do we have what I would call the ultimate criterion.
+               <lb facs="#facs_31_tr_1_tl_19" n="N019"/>Now I believe that, after two weeks, four lectures, having first discussed
+               <lb facs="#facs_31_tr_1_tl_20" n="N020"/>the different functions of culture on the basis of a consideration of man and culture, and
+               <lb facs="#facs_31_tr_1_tl_21" n="N021"/>the meaning of faith in its double sense (as ultimate concern and as acceptance of
+               <lb facs="#facs_31_tr_1_tl_22" n="N022"/>special expressions of this ultimate concern), you all desire that we now go directly
+               <lb facs="#facs_31_tr_1_tl_23" n="N023"/>into the concrete problems of our lecture[s], namely the relation of religion and the
+               <lb facs="#facs_31_tr_1_tl_24" n="N024"/>different functions of human culture--or, if you prefer the phrase, of the human mind.
+               <lb facs="#facs_31_tr_1_tl_25" n="N025"/><rs type="keyword" ref="#Language">You remember that at the very beginning I spoke intensively--and somewhat
+               <lb break="no" facs="#facs_31_tr_1_tl_26" n="N026"/>ecstatically--about the meaning of language, language as the expression of human freedom,
+               <lb break="no" facs="#facs_31_tr_1_tl_27" n="N027"/>as the possibility of using universals and, by using them, transcending any given situation--
+               <lb break="no" facs="#facs_31_tr_1_tl_28" n="N028"/>language, at the same time not only designating reality but also communicating reality,
+               <lb break="no" facs="#facs_31_tr_1_tl_29" n="N029"/>in the life of a community. </rs>From this we derived the two main groups of cultural
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

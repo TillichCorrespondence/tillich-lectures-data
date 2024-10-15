@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p071</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p071</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_71">
+         <graphic url="TL-0355.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZXRUHMDEYORCFZDNNMRWKUAQ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="256,72 2116,72 2116,1156 256,1156" rendition="TextRegion" xml:id="facs_71_tr_2">
+            <zone points="1097,387 1109,387 1132,400 1183,398 1221,390 1221,311 1205,311 1183,332 1097,332" rendition="Line" xml:id="facs_71_tr_2_tl_2"/>
+            <zone points="243,544 1611,557 2110,542 2110,496 1003,507 917,461 866,507 243,509" rendition="Line" xml:id="facs_71_tr_2_tl_3"/>
+            <zone points="248,704 1362,724 1980,691 1980,638 248,671" rendition="Line" xml:id="facs_71_tr_2_tl_4"/>
+            <zone points="253,866 1684,871 2026,843 2026,785 253,800" rendition="Line" xml:id="facs_71_tr_2_tl_5"/>
+            <zone points="246,1000 2061,1005 2061,940 246,950" rendition="Line" xml:id="facs_71_tr_2_tl_6"/>
+            <zone points="246,1150 1193,1157 1193,1099 246,1099" rendition="Line" xml:id="facs_71_tr_2_tl_7"/>
+         </zone>
+         <zone points="244,1233 2280,1233 2280,2064 244,2064" rendition="TextRegion" xml:id="facs_71_tr_3">
+            <zone points="246,1299 2155,1302 2155,1254 1826,1228 246,1238" rendition="Line" xml:id="facs_71_tr_3_tl_1" subtype="paragraph"/>
+            <zone points="243,1456 2079,1454 2079,1395 243,1408" rendition="Line" xml:id="facs_71_tr_3_tl_2"/>
+            <zone points="236,1603 1813,1616 1841,1547 236,1575" rendition="Line" xml:id="facs_71_tr_3_tl_3"/>
+            <zone points="248,1758 2160,1765 2274,1750 2274,1692 248,1702" rendition="Line" xml:id="facs_71_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="236,1902 2208,1904 2208,1841 236,1854" rendition="Line" xml:id="facs_71_tr_3_tl_5"/>
+            <zone points="230,2054 2059,2054 2059,1998 230,2029" rendition="Line" xml:id="facs_71_tr_3_tl_6"/>
+         </zone>
+         <zone points="47,2147 2269,2147 2269,3472 47,3472" rendition="TextRegion" xml:id="facs_71_tr_1">
+            <zone points="236,2206 691,2221 691,2158 284,2155 263,2175 236,2175" rendition="Line" xml:id="facs_71_tr_1_tl_2"/>
+            <zone points="233,2353 1940,2365 2120,2358 2120,2292 233,2322" rendition="Line" xml:id="facs_71_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="230,2507 2213,2512 2262,2446 230,2479" rendition="Line" xml:id="facs_71_tr_1_tl_4"/>
+            <zone points="233,2662 1904,2669 2236,2654 2236,2601 233,2631" rendition="Line" xml:id="facs_71_tr_1_tl_5"/>
+            <zone points="223,2811 2224,2811 2224,2745 223,2763" rendition="Line" xml:id="facs_71_tr_1_tl_6"/>
+            <zone points="230,2971 1494,2966 1494,2907 230,2920" rendition="Line" xml:id="facs_71_tr_1_tl_7"/>
+            <zone points="228,3115 2072,3118 2251,3110 2254,3036 228,3080" rendition="Line" xml:id="facs_71_tr_1_tl_8" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0355.jpg" n="part2_p071.jpg" xml:id="img_0071" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p071.jpg"/>
+            
+            <ab facs="#facs_71_tr_2">
+               <lb facs="#facs_71_tr_2_tl_2" n="N001"/>[350]
+               <lb facs="#facs_71_tr_2_tl_3" n="N002"/>for instance in this great tree, which is the Platonic ''treehood'' again, but here in a much more
+               <lb facs="#facs_71_tr_2_tl_4" n="N003"/>abstract way than we had it in the Dutch paintings. Here is the movement of St. Francis
+               <lb facs="#facs_71_tr_2_tl_5" n="N004"/>preaching to the fish, and the whole scene is full of the power of subjective piety. But the
+               <lb facs="#facs_71_tr_2_tl_6" n="N005"/>interesting thing which I now want to show you is the development from here to something
+               <lb facs="#facs_71_tr_2_tl_7" n="N006"/>which we come to in the end of this third level.
+            </ab>
+            <ab facs="#facs_71_tr_3">
+               <lb facs="#facs_71_tr_3_tl_1" n="N001"/>11) Piero della Francesca: <hi style="font-style: italic;">RESURRECTION</hi>--Here you see how the approximation to nature
+               <lb facs="#facs_71_tr_3_tl_2" n="N002"/>has made a progress. This Christ is still speaking out of another world to us, but He is also in
+               <lb facs="#facs_71_tr_3_tl_3" n="N003"/>time and space as a definite separated body. I must hurry to the next, I'm sorry.
+               <lb facs="#facs_71_tr_3_tl_4" n="N004"/>12) Masaccio, <hi style="font-style: italic;">TRIBUTE MONEY</hi>--Masaccio's pictures show the development of the human figure.
+               <lb facs="#facs_71_tr_3_tl_5" n="N005"/>Here the human figure becomes grandiose, powerful. Man as microcosmos, as the center and mirror
+               <lb facs="#facs_71_tr_3_tl_6" n="N006"/>of the universe, is discovered. The figures, not only that of the Christ, represent this central
+            </ab>
+            <ab facs="#facs_71_tr_1">
+               <lb facs="#facs_71_tr_1_tl_2" n="N001"/>character of humanity in this period of the Renaissance.
+               <lb facs="#facs_71_tr_1_tl_3" n="N002"/>13) Bellini, <hi style="font-style: italic;">MADONNA AND CHILD</hi>--Here I would say it shows how, in the finite, without
+               <lb facs="#facs_71_tr_1_tl_4" n="N003"/>necessary distortion, without disruption of the surface, the infinite is present. And this is the principle
+               <lb facs="#facs_71_tr_1_tl_5" n="N004"/>of the Renaissance, the immanence of the infinite in the finite. In this sense the religious background
+               <lb facs="#facs_71_tr_1_tl_6" n="N005"/>is still visible here, but it is brought completely into a human relationship between Mother and Child,
+               <lb facs="#facs_71_tr_1_tl_7" n="N006"/>and into subjective piety as expressed in the eyes of the mother.
+               <lb facs="#facs_71_tr_1_tl_8" n="N007"/>14) Raphael, <hi style="font-style: italic;">Madonna Colonna</hi>--Here you have the fulfilment of this development. Here you don’t
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p095</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p095</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_95">
+         <graphic url="TL-0379.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MIRUGBQSPURSQBKVSUPCVXZJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="244,275 2334,275 2334,1410 244,1410" rendition="TextRegion" xml:id="facs_95_tr_2">
+            <zone points="1111,330 1124,330 1142,348 1152,350 1168,340 1183,345 1194,335 1204,343 1233,343 1233,270 1207,270 1189,288 1173,291 1157,285 1144,293 1111,293" rendition="Line" xml:id="facs_95_tr_2_tl_1"/>
+            <zone points="244,490 2325,488 2328,428 247,457" rendition="Line" xml:id="facs_95_tr_2_tl_2"/>
+            <zone points="247,644 1601,677 2169,644 2169,581 247,594" rendition="Line" xml:id="facs_95_tr_2_tl_3"/>
+            <zone points="244,802 1907,799 2128,789 2128,740 244,747" rendition="Line" xml:id="facs_95_tr_2_tl_4"/>
+            <zone points="241,952 2211,939 1972,875 241,900" rendition="Line" xml:id="facs_95_tr_2_tl_5"/>
+            <zone points="231,1092 2040,1100 2175,1092 2177,1041 231,1069" rendition="Line" xml:id="facs_95_tr_2_tl_6"/>
+            <zone points="366,1251 1471,1272 2203,1246 2219,1189 366,1225" rendition="Line" xml:id="facs_95_tr_2_tl_7"/>
+            <zone points="234,1396 1204,1406 1204,1349 612,1336 501,1373 439,1342 234,1373" rendition="Line" xml:id="facs_95_tr_2_tl_8"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0379.jpg" n="part2_p095.jpg" xml:id="img_0095" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p095.jpg"/>
+            
+            <ab facs="#facs_95_tr_2">
+               <lb facs="#facs_95_tr_2_tl_1" n="N001"/>[374]
+               <lb facs="#facs_95_tr_2_tl_2" n="N002"/>this fact. And even the assembly line can largely reduce, in the big factories, so that the mechanical
+               <lb facs="#facs_95_tr_2_tl_3" n="N003"/>things which still--when I first came to this country, I saw it in the Ford factory--were done by
+               <lb facs="#facs_95_tr_2_tl_4" n="N004"/>human brings which in this moment ceased to be human beings, now can be done by machines.
+               <lb facs="#facs_95_tr_2_tl_5" n="N005"/>Now this praise of the machine shall precede my criticism of objectivation THROUGH the machine.
+               <lb facs="#facs_95_tr_2_tl_6" n="N006"/>But I don't want to appear to you as a cheap romantic critic of the machine age, as it is very often
+               <lb facs="#facs_95_tr_2_tl_7" n="N007"/>to be found today in booklets, and even in larger books, which do not take into consideration
+               <lb facs="#facs_95_tr_2_tl_8" n="N008"/>the blessing, of which the curse is the other side.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

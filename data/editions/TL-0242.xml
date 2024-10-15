@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p242</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p242</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_242">
+         <graphic url="TL-0242.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LHHJRBJLTPCMONXQNHRILNWT&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="11,238 11,3476 2346,3476 2346,238" rendition="TextRegion" xml:id="facs_242_tr_1">
+            <zone points="1115,308 1130,308 1140,318 1178,321 1241,316 1238,260 1203,260 1185,243 1175,245 1170,240 1147,263 1112,265" rendition="Line" xml:id="facs_242_tr_1_tl_1"/>
+            <zone points="369,440 599,452 672,516 2265,500 2265,447 369,387" rendition="Line" xml:id="facs_242_tr_1_tl_2"/>
+            <zone points="356,591 2176,655 2189,584 1286,591 1034,548 890,579 693,538 569,569 415,528 354,561" rendition="Line" xml:id="facs_242_tr_1_tl_3"/>
+            <zone points="351,748 447,791 832,761 966,806 2260,806 2260,766 2136,708 2017,763 1714,720 1671,753 1633,720 1213,741 844,693 351,708" rendition="Line" xml:id="facs_242_tr_1_tl_4"/>
+            <zone points="341,892 356,892 387,910 402,910 412,900 427,912 480,905 511,910 511,849 437,847 415,869 384,844 364,864 341,867" rendition="Line" xml:id="facs_242_tr_1_tl_5"/>
+            <zone points="523,986 2343,1036 2340,958 2292,993 1741,978 1704,940 1509,976 1130,960 1089,923 1031,958 829,917 612,945 521,902" rendition="Line" xml:id="facs_242_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="344,1122 2290,1201 2295,1120 1812,1140 1575,1094 1458,1130 1423,1094 1390,1127 1355,1094 1089,1115 1039,1077 948,1115 859,1072 584,1102 341,1051" rendition="Line" xml:id="facs_242_tr_1_tl_7"/>
+            <zone points="339,1292 2196,1340 2194,1274 339,1249" rendition="Line" xml:id="facs_242_tr_1_tl_8"/>
+            <zone points="326,1428 826,1509 1062,1471 2290,1499 2222,1428 1936,1451 1607,1410 1567,1441 1514,1405 1474,1436 1021,1393 968,1423 536,1377 485,1408 372,1370 326,1400" rendition="Line" xml:id="facs_242_tr_1_tl_9"/>
+            <zone points="324,1590 2151,1648 2151,1575 1984,1605 1565,1559 324,1554" rendition="Line" xml:id="facs_242_tr_1_tl_10"/>
+            <zone points="316,1747 1420,1772 1504,1827 2138,1845 2277,1795 2186,1726 1782,1747 313,1681" rendition="Line" xml:id="facs_242_tr_1_tl_11"/>
+            <zone points="311,1891 642,1901 713,1954 1908,1951 1984,1989 2214,1949 2212,1906 1324,1855 677,1870 420,1827 308,1858" rendition="Line" xml:id="facs_242_tr_1_tl_12"/>
+            <zone points="313,2040 1266,2070 1314,2113 1721,2133 2045,2118 2116,2095 2113,2030 311,2004" rendition="Line" xml:id="facs_242_tr_1_tl_13"/>
+            <zone points="296,2247 786,2204 829,2244 1140,2260 1196,2219 2133,2255 2131,2209 1928,2176 867,2179 809,2143 293,2133" rendition="Line" xml:id="facs_242_tr_1_tl_14"/>
+            <zone points="298,2346 2260,2404 2257,2333 2019,2363 1332,2308 892,2328 844,2292 298,2310" rendition="Line" xml:id="facs_242_tr_1_tl_15"/>
+            <zone points="296,2500 1837,2578 1888,2563 1886,2482 1600,2507 1410,2469 1383,2502 1314,2464 488,2474 417,2437 293,2469" rendition="Line" xml:id="facs_242_tr_1_tl_16"/>
+            <zone points="293,2649 361,2692 794,2725 1051,2692 1097,2725 2323,2745 2320,2656 2093,2636 1918,2667 1724,2629 1549,2656 1509,2621 1289,2649 809,2603 758,2634 705,2598 607,2629 291,2583" rendition="Line" xml:id="facs_242_tr_1_tl_18"/>
+            <zone points="281,2808 1969,2869 2067,2869 2088,2826 1946,2788 1913,2818 278,2745" rendition="Line" xml:id="facs_242_tr_1_tl_19"/>
+            <zone points="278,2962 2209,3073 2229,2937 1931,2970 1797,2934 1418,2955 1367,2909 1279,2955 1244,2922 978,2947 412,2894 275,2924" rendition="Line" xml:id="facs_242_tr_1_tl_20"/>
+            <zone points="263,3106 834,3154 2136,3162 2133,3096 263,3076" rendition="Line" xml:id="facs_242_tr_1_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0242.jpg" n="part1_p242.jpg" xml:id="img_0242" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p242.jpg"/>
+            
+            <ab facs="#facs_242_tr_1">
+               <lb facs="#facs_242_tr_1_tl_1" n="N001"/>[238]
+               <lb facs="#facs_242_tr_1_tl_2" n="N002"/>which is actual. Not everything is ontological-possible which is logical-possible. This fundamental
+               <lb facs="#facs_242_tr_1_tl_3" n="N003"/>distinction, which one can learn from <rs type="person">Aristotle</rs>, makes it necessary to use two different terms:
+               <lb facs="#facs_242_tr_1_tl_4" n="N004"/>the logical-possible and the ontological-potential. That's my first and, I think, the decisive answer
+               <lb facs="#facs_242_tr_1_tl_5" n="N005"/>to this.
+               <lb facs="#facs_242_tr_1_tl_6" n="N006"/>Now the word "<rs type="keyword" ref="#Ontology">ontological</rs>" is here used only as a name-calling word. Now that can be done.
+               <lb facs="#facs_242_tr_1_tl_7" n="N007"/>You can say ontology is black, and the Devil, and the fundamental confusion of poetry and thought,
+               <lb facs="#facs_242_tr_1_tl_8" n="N008"/>etc. But at least two or three thousand years of human beings, of high standing (as l would call
+               <lb facs="#facs_242_tr_1_tl_9" n="N009"/>them), were not of the opinion that ontology is ONLY <rs type="keyword" ref="#Poetry">poetry</rs>. But l would agree with the question
+               <lb facs="#facs_242_tr_1_tl_10" n="N010"/>that in ontology, there are elements of intuitive anticipation of the totality of reality, as in all
+               <lb facs="#facs_242_tr_1_tl_11" n="N011"/>philosophical thought; also in those thoughts which speak of restriction to<rs type="keyword" ref="#Epistemologists"> epistemological </rs>questions
+               <lb facs="#facs_242_tr_1_tl_12" n="N012"/>and to pure logic. It is a self-deception if one believes that epistemology is non-ontological. Now
+               <lb facs="#facs_242_tr_1_tl_13" n="N013"/>we already discussed that, and I might repeat it. It sounds very modest that one always asks
+               <lb facs="#facs_242_tr_1_tl_14" n="N014"/>"What can I know?" or "How do I know?" Now if this is only a rhetoric-question in order to
+               <lb facs="#facs_242_tr_1_tl_15" n="N015"/>confuse somebody who believes that he knows something---but if it is a REAL question, a SERIOUS
+               <lb facs="#facs_242_tr_1_tl_16" n="N016"/>question, then it demands answer. And then l answer: "How can we answer the question
+               <lb facs="#facs_242_tr_1_tl_18" n="N017"/>'How do I know?' without knowing?" And that is the question asked against the purely epistemological
+               <lb facs="#facs_242_tr_1_tl_19" n="N018"/>restriction of philosophy to pure epistemology. The answer can only be itself ontological,
+               <lb facs="#facs_242_tr_1_tl_20" n="N019"/>otherwise we come into the vicious circle of "How do l know that I know that I know that l know?"
+               <lb facs="#facs_242_tr_1_tl_22" n="N020"/>And this is very often the way in which epistemology has become emptier and emptier, and has
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

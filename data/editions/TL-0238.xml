@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p238</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p238</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_238">
+         <graphic url="TL-0238.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SHBKIQAJRWFVDNINTVQPDMKM&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="80,242 80,3489 2331,3489 2331,242" rendition="TextRegion" xml:id="facs_238_tr_1">
+            <zone points="1232,309 1245,309 1257,319 1278,317 1288,324 1306,324 1311,317 1321,324 1349,319 1346,246 1321,243 1308,254 1298,254 1280,243 1268,261 1232,256" rendition="Line" xml:id="facs_238_tr_1_tl_1"/>
+            <zone points="314,423 2304,469 2302,413 314,375" rendition="Line" xml:id="facs_238_tr_1_tl_2"/>
+            <zone points="309,537 2294,596 2292,530 2254,527 309,507" rendition="Line" xml:id="facs_238_tr_1_tl_3"/>
+            <zone points="312,684 2243,717 2241,659 2107,651 312,634" rendition="Line" xml:id="facs_238_tr_1_tl_4"/>
+            <zone points="299,788 1298,816 1298,758 885,771 558,738 439,763 357,735 299,758" rendition="Line" xml:id="facs_238_tr_1_tl_5"/>
+            <zone points="484,920 938,935 1024,996 1374,996 1453,946 2266,963 2264,892 484,885" rendition="Line" xml:id="facs_238_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="302,1052 2261,1095 2327,1093 2327,1027 299,984" rendition="Line" xml:id="facs_238_tr_1_tl_7"/>
+            <zone points="297,1171 2109,1237 2282,1222 2287,1179 294,1136" rendition="Line" xml:id="facs_238_tr_1_tl_8"/>
+            <zone points="289,1295 2033,1351 2325,1349 2322,1285 286,1242" rendition="Line" xml:id="facs_238_tr_1_tl_9"/>
+            <zone points="289,1425 2312,1486 2309,1415 286,1369" rendition="Line" xml:id="facs_238_tr_1_tl_10"/>
+            <zone points="279,1549 2243,1602 2241,1536 279,1518" rendition="Line" xml:id="facs_238_tr_1_tl_11"/>
+            <zone points="271,1665 2307,1724 2304,1658 271,1640" rendition="Line" xml:id="facs_238_tr_1_tl_12"/>
+            <zone points="271,1795 2211,1851 2183,1787 271,1764" rendition="Line" xml:id="facs_238_tr_1_tl_13"/>
+            <zone points="271,1922 1736,1954 1813,1990 2254,1975 2274,1911 269,1889" rendition="Line" xml:id="facs_238_tr_1_tl_14"/>
+            <zone points="264,2053 1072,2104 2178,2094 2175,2033 1828,2053 1526,2005 264,2015" rendition="Line" xml:id="facs_238_tr_1_tl_15"/>
+            <zone points="261,2183 319,2226 603,2243 697,2185 880,2185 2074,2246 2185,2243 2185,2162 259,2142" rendition="Line" xml:id="facs_238_tr_1_tl_16"/>
+            <zone points="256,2297 2246,2350 2243,2284 2084,2266 1724,2297 256,2264" rendition="Line" xml:id="facs_238_tr_1_tl_17"/>
+            <zone points="436,2434 2122,2467 2119,2398 436,2383" rendition="Line" xml:id="facs_238_tr_1_tl_18" subtype="paragraph"/>
+            <zone points="251,2593 2162,2593 2162,2535 251,2500" rendition="Line" xml:id="facs_238_tr_1_tl_19"/>
+            <zone points="241,2674 2167,2725 2167,2664 1932,2641 1871,2679 241,2649" rendition="Line" xml:id="facs_238_tr_1_tl_20"/>
+            <zone points="241,2804 1706,2852 2107,2847 2107,2786 238,2748" rendition="Line" xml:id="facs_238_tr_1_tl_21"/>
+            <zone points="236,2928 2193,2981 2193,2915 233,2900" rendition="Line" xml:id="facs_238_tr_1_tl_22"/>
+            <zone points="236,3057 1820,3095 1818,3045 1513,3017 236,3012" rendition="Line" xml:id="facs_238_tr_1_tl_23"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0238.jpg" n="part1_p238.jpg" xml:id="img_0238" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p238.jpg"/>
+            
+            <ab facs="#facs_238_tr_1">
+               <lb facs="#facs_238_tr_1_tl_1" n="N001"/>[234]
+               <lb facs="#facs_238_tr_1_tl_2" n="N002"/>a justification for their defence, namely that the experience of unconditional or <ultimate_concern>ultimate concern</ultimate_concern> is an
+               <lb facs="#facs_238_tr_1_tl_3" n="N003"/>element of our very being and therefore has ultimate certainty. As far as that, we can go; beyond this,
+               <lb facs="#facs_238_tr_1_tl_4" n="N004"/>we cannot go. To make from this a conclusion, in terms of arguments, to the existence of a highest
+               <lb facs="#facs_238_tr_1_tl_5" n="N005"/>being, was the fantasy of the Anselmian argument.
+               <lb facs="#facs_238_tr_1_tl_6" n="N006"/>Or when we come to the<rs type="keyword" ref="#Cosmological_argument"> cosmological argument</rs>, then we look at the world, at ourselves IN
+               <lb facs="#facs_238_tr_1_tl_7" n="N007"/>the world, and we find our finitude, our having-to-die, our anxiety, our loneliness, and when we find all
+               <lb facs="#facs_238_tr_1_tl_8" n="N008"/>this, then we ask the question of something which might OVERCOME contingency, which might have
+               <lb facs="#facs_238_tr_1_tl_9" n="N009"/>ultimate necessity, or which might OVERCOME anxiety, which might gives us the courage, the ultimate
+               <lb facs="#facs_238_tr_1_tl_10" n="N010"/>courage, to take this anxiety into ourselves. This is alright. And one can say, with a slight exaggeration,
+               <lb facs="#facs_238_tr_1_tl_11" n="N011"/>that a large part of what <rs type="keyword" ref="#Existentialism">existentialist </rs>analyses have done today---and in former centuries where they
+               <lb facs="#facs_238_tr_1_tl_12" n="N012"/>first appeared---are nothing else but extended cosmological analyses, analyses as they were present in the
+               <lb facs="#facs_238_tr_1_tl_13" n="N013"/>cosmological argument. But to make from there the conclusion to the existence of a highest being,
+               <lb facs="#facs_238_tr_1_tl_14" n="N014"/>somewhere ABOVE finitude and anxiety, is a conclusion for which there is no logical necessity or even
+               <lb facs="#facs_238_tr_1_tl_15" n="N015"/>possibility. And for this I don't need to go to <rs type="person">Kant</rs>, who has tried to show this, convincingly; but
+               <lb facs="#facs_238_tr_1_tl_16" n="N016"/>already <rs type="person">Duns Scotus, </rs>the great Medieval philosopher of the 13th century, showed, against <rs type="person">Thomas
+               <lb break="no" facs="#facs_238_tr_1_tl_17" n="N017"/>Aquinas</rs>, that there is no jump in terms of arguments from conclusions, from the finite to the infinite.
+               <lb facs="#facs_238_tr_1_tl_18" n="N018"/>Finally the<rs type="keyword" ref="#Teleological_argument"> teleological arguments</rs> are not arguments at all. To say there is MEANING
+               <lb facs="#facs_238_tr_1_tl_19" n="N019"/>in the world, in history, in art, in nature, in organism---this description is certainly true, but if this
+               <lb facs="#facs_238_tr_1_tl_20" n="N020"/>description is made into the basis for a conclusion of a CREATOR of all this, then this conclusion
+               <lb facs="#facs_238_tr_1_tl_21" n="N021"/>is not valid. As many philosophers have shown, it only leads to the description of the structure
+               <lb facs="#facs_238_tr_1_tl_22" n="N022"/>of reality to be ambiguous, to have meaning and meaninglessness, to have structure and destruction,
+               <lb facs="#facs_238_tr_1_tl_23" n="N023"/>but it by no means can lead us to a highest being who is the CAUSE of meaning.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

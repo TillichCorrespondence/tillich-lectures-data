@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p172</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p172</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_172">
+         <graphic url="TL-0172.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WCGTMCPYYHIOUMVAIZTELWMU&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="44,245 44,1956 44,3498 2361,3498 2361,245" rendition="TextRegion" xml:id="facs_172_tr_2">
+            <zone points="1202,313 1215,313 1235,326 1318,326 1318,271 1283,271 1273,261 1265,268 1202,268" rendition="Line" xml:id="facs_172_tr_2_tl_1"/>
+            <zone points="353,451 1360,504 1418,463 2242,491 2192,423 1433,428 1375,383 1328,428 1147,391 1112,426 353,416" rendition="Line" xml:id="facs_172_tr_2_tl_2"/>
+            <zone points="353,604 2067,646 2212,639 2212,581 351,576" rendition="Line" xml:id="facs_172_tr_2_tl_3"/>
+            <zone points="348,762 2152,797 2152,724 348,729" rendition="Line" xml:id="facs_172_tr_2_tl_4"/>
+            <zone points="348,914 1200,922 1247,964 1774,962 1826,997 1981,979 2022,934 2162,942 2162,859 1979,899 1661,864 348,877" rendition="Line" xml:id="facs_172_tr_2_tl_5"/>
+            <zone points="338,1057 1035,1062 1122,1100 1713,1077 2047,1127 2267,1092 2267,1027 338,1027" rendition="Line" xml:id="facs_172_tr_2_tl_6"/>
+            <zone points="343,1225 1070,1285 1976,1285 2019,1250 2237,1283 2282,1278 2280,1182 341,1160" rendition="Line" xml:id="facs_172_tr_2_tl_7"/>
+            <zone points="338,1380 403,1413 1791,1413 1876,1408 1874,1335 336,1318" rendition="Line" xml:id="facs_172_tr_2_tl_8"/>
+            <zone points="529,1506 2204,1538 2204,1478 529,1458" rendition="Line" xml:id="facs_172_tr_2_tl_9" subtype="paragraph"/>
+            <zone points="343,1673 1077,1673 1152,1731 2357,1701 2332,1633 343,1608" rendition="Line" xml:id="facs_172_tr_2_tl_10"/>
+            <zone points="321,1811 629,1821 736,1889 2237,1851 2234,1794 1040,1774 992,1726 909,1771 321,1786" rendition="Line" xml:id="facs_172_tr_2_tl_11"/>
+            <zone points="328,1981 446,2022 794,2022 854,1984 944,2022 2340,2052 2337,1951 2270,1944 328,1924" rendition="Line" xml:id="facs_172_tr_2_tl_12"/>
+            <zone points="323,2132 2312,2157 2310,2099 321,2077" rendition="Line" xml:id="facs_172_tr_2_tl_13"/>
+            <zone points="323,2275 2077,2340 2124,2292 2270,2305 2267,2247 321,2247" rendition="Line" xml:id="facs_172_tr_2_tl_14"/>
+            <zone points="321,2430 2224,2460 2224,2392 321,2372" rendition="Line" xml:id="facs_172_tr_2_tl_15"/>
+            <zone points="311,2573 478,2595 516,2578 589,2595 614,2570 669,2590 917,2590 937,2588 934,2515 649,2525 629,2545 569,2523 308,2540" rendition="Line" xml:id="facs_172_tr_2_tl_16"/>
+            <zone points="506,2725 526,2733 636,2735 644,2728 719,2740 754,2733 754,2678 506,2675" rendition="Line" xml:id="facs_172_tr_2_tl_17" subtype="heading"/>
+            <zone points="509,2801 2292,2828 2292,2766 1906,2781 1854,2748 509,2763" rendition="Line" xml:id="facs_172_tr_2_tl_18" subtype="paragraph"/>
+            <zone points="306,2951 2047,2973 2087,3011 2270,3011 2270,2918 306,2916" rendition="Line" xml:id="facs_172_tr_2_tl_19"/>
+            <zone points="298,3129 358,3174 428,3174 574,3171 609,3136 1035,3124 1035,3089 962,3056 358,3046 298,3079" rendition="Line" xml:id="facs_172_tr_2_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0172.jpg" n="part1_p172.jpg" xml:id="img_0172" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p172.jpg"/>
+            
+            <ab facs="#facs_172_tr_2">
+               <lb facs="#facs_172_tr_2_tl_1" n="N001"/>[168]
+               <lb facs="#facs_172_tr_2_tl_2" n="N002"/>of my <rs type="keyword" ref="#Faith">faith</rs>, in my ultimate destiny, in life and death. So if we are a little bit willing to dissolve
+               <lb facs="#facs_172_tr_2_tl_3" n="N003"/>the ambiguity of such questions, then we are able to answer them. If we are not willing, we can
+               <lb facs="#facs_172_tr_2_tl_4" n="N004"/>never come to an answer, and then you are forced to go into the alternatives: you must say,
+               <lb facs="#facs_172_tr_2_tl_5" n="N005"/>either let us dismiss all <rs type="keyword" ref="#Historical_research">historical research</rs> and let us simply take what the <rs type="keyword" ref="#Bible">Bible</rs> says and take
+               <lb facs="#facs_172_tr_2_tl_6" n="N006"/>all the <rs type="keyword" ref="#Legendary">legends</rs> and <rs type="keyword" ref="#Myth">myths</rs> literally - - - all right!--I don't mind this, but then, he who does that must
+               <lb facs="#facs_172_tr_2_tl_7" n="N007"/>be conscious that in this moment he drops the two or three hundred years of <rs type="keyword" ref="#Historical_research">historical research</rs> and
+               <lb facs="#facs_172_tr_2_tl_8" n="N008"/>problems, the historical destiny of historical honesty in which we are standing.
+               <lb facs="#facs_172_tr_2_tl_9" n="N009"/>The other alternative: He says "l drop <rs type="keyword" ref="#Faith">faith</rs> and make it a matter of probability, and
+               <lb facs="#facs_172_tr_2_tl_10" n="N010"/><rs type="person">Jesus</rs> is then one of the other prophets---it does not matter WHO said his words; if somebody said them,
+               <lb facs="#facs_172_tr_2_tl_11" n="N011"/>that is enough." But that is not the Christian faith either. So my answer is an attempt to avoid thse [sic.]
+               <lb facs="#facs_172_tr_2_tl_12" n="N012"/>these two impossibilities, and l personally have not even the slightest doubt that there the problem lies.
+               <lb facs="#facs_172_tr_2_tl_13" n="N013"/>I certainly have doubt about the adequacy of my formulations---EVERYbody should have---but I have
+               <lb facs="#facs_172_tr_2_tl_14" n="N014"/>no doubt about the necessity to go in this direction and to avoid the two other alternatives. That is
+               <lb facs="#facs_172_tr_2_tl_15" n="N015"/>my answer to these questions. --- And [he] who knows better, please let us know! <hi style="font-style: italic;">[spoken slowly</hi>
+               <lb facs="#facs_172_tr_2_tl_16" n="N016"/><hi style="font-style: italic;">and somberly - some laughter].</hi>
+               <lb facs="#facs_172_tr_2_tl_17" n="N017"/>LECTURE:
+               <lb facs="#facs_172_tr_2_tl_18" n="N018"/>We must now go to something else today, to a subject which is perhaps even more involved
+               <lb facs="#facs_172_tr_2_tl_19" n="N019"/>than the problem of science, and the problem of history, in relation to religion,<rs type="keyword" ref="#Philosophy_of_Philosophy"> namely the problem
+               <lb break="no" facs="#facs_172_tr_2_tl_20" n="N020"/>of philosophy-of-religion to religion.</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

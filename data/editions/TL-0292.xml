@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p008</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p008</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_8">
+         <graphic url="TL-0292.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XLLUUHWFOZNJTEOKONICWRLE&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="176,257 2283,257 2283,941 176,941" rendition="TextRegion" xml:id="facs_8_tr_3">
+            <zone points="1000,310 1014,310 1038,326 1067,321 1075,326 1093,321 1104,326 1130,324 1130,247 1115,247 1091,271 1067,271 1051,257 1038,268 1000,268" rendition="Line" xml:id="facs_8_tr_3_tl_1"/>
+            <zone points="162,488 1913,470 2277,451 2277,403 162,441" rendition="Line" xml:id="facs_8_tr_3_tl_2"/>
+            <zone points="162,637 2033,648 2181,610 2181,547 162,581" rendition="Line" xml:id="facs_8_tr_3_tl_3"/>
+            <zone points="165,788 2168,796 2274,791 2277,690 167,730" rendition="Line" xml:id="facs_8_tr_3_tl_4"/>
+            <zone points="162,937 2248,921 2250,849 165,881" rendition="Line" xml:id="facs_8_tr_3_tl_6"/>
+         </zone>
+         <zone points="176,988 2301,988 2301,2276 176,2276" rendition="TextRegion" xml:id="facs_8_tr_2">
+            <zone points="167,1093 2256,1093 2282,987 167,1032" rendition="Line" xml:id="facs_8_tr_2_tl_1"/>
+            <zone points="170,1221 2057,1194 2258,1178 2261,1125 170,1162" rendition="Line" xml:id="facs_8_tr_2_tl_2"/>
+            <zone points="162,1364 2049,1348 2277,1335 2280,1268 162,1308" rendition="Line" xml:id="facs_8_tr_2_tl_3"/>
+            <zone points="162,1521 2298,1444 165,1483" rendition="Line" xml:id="facs_8_tr_2_tl_4"/>
+            <zone points="165,1669 1173,1651 1308,1698 2197,1627 2155,1574 167,1611" rendition="Line" xml:id="facs_8_tr_2_tl_5"/>
+            <zone points="172,1815 226,1860 1406,1860 2150,1805 2195,1749 172,1786" rendition="Line" xml:id="facs_8_tr_2_tl_6"/>
+            <zone points="172,1969 2136,1945 2226,1935 2229,1871 172,1908" rendition="Line" xml:id="facs_8_tr_2_tl_7"/>
+            <zone points="165,2112 2163,2094 2163,2025 167,2086" rendition="Line" xml:id="facs_8_tr_2_tl_8"/>
+            <zone points="172,2272 2195,2240 2197,2184 172,2211" rendition="Line" xml:id="facs_8_tr_2_tl_9"/>
+         </zone>
+         <zone points="83,2329 2269,2329 2269,3485 83,3485" rendition="TextRegion" xml:id="facs_8_tr_1">
+            <zone points="172,2426 2062,2399 2139,2330 172,2367" rendition="Line" xml:id="facs_8_tr_1_tl_1"/>
+            <zone points="170,2577 2240,2595 2266,2473 172,2534" rendition="Line" xml:id="facs_8_tr_1_tl_2"/>
+            <zone points="170,2747 2181,2696 2181,2630 172,2675" rendition="Line" xml:id="facs_8_tr_1_tl_3"/>
+            <zone points="172,2885 1876,2842 1977,2901 2110,2842 2112,2781 172,2821" rendition="Line" xml:id="facs_8_tr_1_tl_4"/>
+            <zone points="170,3041 1744,3004 1794,2999 1794,2940 172,2980" rendition="Line" xml:id="facs_8_tr_1_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0292.jpg" n="part2_p008.jpg" xml:id="img_0008" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p008.jpg"/>
+            
+            <ab facs="#facs_8_tr_3">
+               <lb facs="#facs_8_tr_3_tl_1" n="N001"/>[288]
+               <lb facs="#facs_8_tr_3_tl_2" n="N002"/>theology has been plagued for centuries now, was something quite different. It was the problem of mutual
+               <lb facs="#facs_8_tr_3_tl_3" n="N003"/>interference, of interference in terms of religious authorities which denied scientific hypotheses, [such]
+               <lb facs="#facs_8_tr_3_tl_4" n="N004"/>as the Copernican or Darwinistic, or the depth-psychological, or historical-research about sources of biblical
+               <lb facs="#facs_8_tr_3_tl_6" n="N005"/>religion. When these interferences happened, all sciences---natural sciences as well as sociology, psychology
+            </ab>
+            <ab facs="#facs_8_tr_2">
+               <lb facs="#facs_8_tr_2_tl_1" n="N001"/>and history---revolted against religion. The main interest and emphasis of my whole life's work was to show
+               <lb facs="#facs_8_tr_2_tl_2" n="N002"/>that these conflicts are based on a confusion of dimensions. The dimension in which religious symbols are
+               <lb facs="#facs_8_tr_2_tl_3" n="N003"/>real is NOT the dimension in which scientific research is done. Religious authorities have no right to forbid
+               <lb facs="#facs_8_tr_2_tl_4" n="N004"/>any scientific probability, or even vague hypothesis, to be expressed if there are elements of evidence for it.
+               <lb facs="#facs_8_tr_2_tl_5" n="N005"/>They cannot interfere with it in the name of religion. No historical criticism---this was discussed later---
+               <lb facs="#facs_8_tr_2_tl_6" n="N006"/>can undercut the dimension of ultimate concern as expressed in the symbols of the Christian tradition.
+               <lb facs="#facs_8_tr_2_tl_7" n="N007"/>In the same way, no depth psychology can undercut the truth of the symbols of religion, even if psycho-
+               <lb facs="#facs_8_tr_2_tl_8" n="N008"/>analytic psychology tries to show that symbols such as "God" or "the Christ" are projections. They
+               <lb facs="#facs_8_tr_2_tl_9" n="N009"/>are projections in their content; they are not projections IN THAT ON WHICH THEY PROJECT these
+            </ab>
+            <ab facs="#facs_8_tr_1">
+               <lb facs="#facs_8_tr_1_tl_1" n="N001"/>images, namely the experience of ultimate concern. In this way, and in many other discussions, we
+               <lb facs="#facs_8_tr_1_tl_2" n="N002"/>came through the different realms of man's creativity, and finally we ended the last semester by discussing
+               <lb facs="#facs_8_tr_1_tl_3" n="N003"/>problems of the doctrine of man. This was one of the bridges to this semester because man of course
+               <lb facs="#facs_8_tr_1_tl_4" n="N004"/>is in both realms. We discussed the problem of the relationship of body and soul, and many other
+               <lb facs="#facs_8_tr_1_tl_5" n="N005"/>problems of this kind which are connected with the special nature of man as man.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

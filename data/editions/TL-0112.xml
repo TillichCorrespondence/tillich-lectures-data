@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p112</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p112</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_112">
+         <graphic url="TL-0112.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SVNAGFVORMMUONMWPVFXAKLV&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="38,270 38,3495 2361,3495 2361,270" rendition="TextRegion" xml:id="facs_112_tr_1">
+            <zone points="1326,354 1341,354 1356,340 1363,345 1378,340 1400,342 1408,350 1418,350 1425,342 1450,340 1448,280 1413,280 1391,265 1376,273 1371,270 1358,285 1324,285" rendition="Line" xml:id="facs_112_tr_1_tl_1"/>
+            <zone points="384,476 587,483 637,530 984,486 2243,501 2241,459 2082,429 384,441" rendition="Line" xml:id="facs_112_tr_1_tl_2"/>
+            <zone points="379,649 2337,654 2337,600 2124,587 379,580" rendition="Line" xml:id="facs_112_tr_1_tl_3"/>
+            <zone points="384,798 2092,801 1956,731 384,741" rendition="Line" xml:id="facs_112_tr_1_tl_4"/>
+            <zone points="649,977 1559,996 1631,947 2263,954 2263,900 2085,868 649,885" rendition="Line" xml:id="facs_112_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="384,1068 568,1078 640,1125 1138,1128 1215,1088 1301,1148 1626,1123 1678,1155 1760,1096 2303,1106 2303,1051 2204,1044 384,1019" rendition="Line" xml:id="facs_112_tr_1_tl_6"/>
+            <zone points="377,1237 2256,1257 2295,1254 2295,1197 374,1182" rendition="Line" xml:id="facs_112_tr_1_tl_7"/>
+            <zone points="374,1371 2209,1403 2209,1343 374,1346" rendition="Line" xml:id="facs_112_tr_1_tl_8"/>
+            <zone points="369,1537 2152,1549 2152,1495 369,1505" rendition="Line" xml:id="facs_112_tr_1_tl_9"/>
+            <zone points="364,1676 2357,1700 2357,1646 2288,1643 364,1648" rendition="Line" xml:id="facs_112_tr_1_tl_10"/>
+            <zone points="364,1824 2159,1852 2159,1795 2000,1787 364,1782" rendition="Line" xml:id="facs_112_tr_1_tl_11"/>
+            <zone points="362,1978 1202,1995 1202,1946 957,1943 930,1921 910,1941 887,1921 843,1943 362,1938" rendition="Line" xml:id="facs_112_tr_1_tl_12"/>
+            <zone points="630,2129 1143,2142 1433,2204 2337,2191 2337,2097 2216,2087 630,2072" rendition="Line" xml:id="facs_112_tr_1_tl_13" subtype="paragraph"/>
+            <zone points="364,2280 573,2340 2295,2300 2295,2246 2209,2243 364,2251" rendition="Line" xml:id="facs_112_tr_1_tl_14"/>
+            <zone points="359,2434 2199,2451 2164,2385 359,2372" rendition="Line" xml:id="facs_112_tr_1_tl_15"/>
+            <zone points="354,2595 1063,2588 1106,2627 1502,2595 1633,2650 1725,2608 2015,2605 2015,2568 1842,2528 352,2538" rendition="Line" xml:id="facs_112_tr_1_tl_16"/>
+            <zone points="630,2739 1490,2746 1572,2808 1624,2756 1864,2803 2196,2746 2196,2697 2122,2694 630,2684" rendition="Line" xml:id="facs_112_tr_1_tl_17" subtype="paragraph"/>
+            <zone points="347,2885 2266,2900 2266,2843 347,2841" rendition="Line" xml:id="facs_112_tr_1_tl_18"/>
+            <zone points="350,3036 1770,3044 1948,3086 2263,3051 2243,2997 1269,2970 1187,3012 350,3004" rendition="Line" xml:id="facs_112_tr_1_tl_19"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0112.jpg" n="part1_p112.jpg" xml:id="img_0112" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p112.jpg"/>
+            
+            <ab facs="#facs_112_tr_1">
+               <lb facs="#facs_112_tr_1_tl_1" n="N001"/>[109]
+               <lb facs="#facs_112_tr_1_tl_2" n="N002"/>t<rs type="keyword" ref="#Symbols">he whole Christian symbol was discovered as symbolism. Its literal understanding had become
+               <lb break="no" facs="#facs_112_tr_1_tl_3" n="N003"/>impossible because the structure of reality had been discovered, and the force [?] of thought, in the
+               <lb break="no" facs="#facs_112_tr_1_tl_4" n="N004"/>pre-scientific stage, and still partly in the scientific stage, were taken out of possibility.</rs>
+               <lb facs="#facs_112_tr_1_tl_5" n="N005"/>The Bible speaks of ''above'' and ''below.'' The primitive man sees God in Heaven
+               <lb facs="#facs_112_tr_1_tl_6" n="N006"/>''above,'' and the demons in Hell ''below,'' and the earth ''between,'' as the place where the divine
+               <lb facs="#facs_112_tr_1_tl_7" n="N007"/>and the demonic powers fighting with each other, where the Christ appears, conquers the demonic
+               <lb facs="#facs_112_tr_1_tl_8" n="N008"/>world, will judge the universe and renew it. All these ideas were tremendously endangered for
+               <lb facs="#facs_112_tr_1_tl_9" n="N009"/>popular feeling in the moment in which the earth had lost its central character. And I can
+               <lb facs="#facs_112_tr_1_tl_10" n="N010"/>betray you the fact that even today, theology has not found the real answer to the questions involved
+               <lb facs="#facs_112_tr_1_tl_11" n="N011"/>in the possibility of other worlds, with conscious spiritual beings, in relation to the history of
+               <lb facs="#facs_112_tr_1_tl_12" n="N012"/>salvation as described in biblical literature.
+               <lb facs="#facs_112_tr_1_tl_13" n="N013"/>This was a tremendous shock. It was a shock against the remnants of the mythological
+               <lb facs="#facs_112_tr_1_tl_14" n="N014"/>worldview, in the Aristotelian and Ptolemaic scientific interpretation of it. It was not the scientific
+               <lb facs="#facs_112_tr_1_tl_15" n="N015"/>interpretation AS SUCH, but it was the shock produced by the consequences of this scientific
+               <lb facs="#facs_112_tr_1_tl_16" n="N016"/>interpretation for the mythological worldview, giving a central position to the earth.
+               <lb facs="#facs_112_tr_1_tl_17" n="N017"/>In this world, which then was finally formulated by Descarts [sic.] and Newton as the
+               <lb facs="#facs_112_tr_1_tl_18" n="N018"/>great machine in which all the stars are moving according to eternal mechanical laws, man and his
+               <lb facs="#facs_112_tr_1_tl_19" n="N019"/>affairs were lost to such a degree that man was driven by that anxiety of which Pascal speaks, and
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

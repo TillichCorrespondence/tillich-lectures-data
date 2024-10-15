@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part3_p018</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p018</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_18">
+         <graphic url="TL-0410.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TCWFGFBYKUUIRJKDAPRWYZWF&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="280,314 2316,314 2316,1896 280,1896" rendition="TextRegion" xml:id="facs_18_tr_1">
+            <zone points="1073,369 1109,376 1116,384 1200,381 1200,323 1164,325 1147,310 1134,325 1073,328" rendition="Line" xml:id="facs_18_tr_1_tl_1"/>
+            <zone points="282,511 2189,503 2212,458 1892,402 1749,458 282,473" rendition="Line" xml:id="facs_18_tr_1_tl_2"/>
+            <zone points="277,572 1981,577 2151,564 2151,514 277,544" rendition="Line" xml:id="facs_18_tr_1_tl_3"/>
+            <zone points="277,638 1864,646 2146,631 2146,580 277,600" rendition="Line" xml:id="facs_18_tr_1_tl_4"/>
+            <zone points="1579,694 2024,686 2232,709 2232,651 2179,638 2024,656 1948,636 1688,638 1579,664" rendition="Line" xml:id="facs_18_tr_1_tl_5"/>
+            <zone points="277,707 1431,704 1482,694 1482,643 277,666" rendition="Line" xml:id="facs_18_tr_1_tl_6"/>
+            <zone points="282,778 2103,760 2141,712 282,730" rendition="Line" xml:id="facs_18_tr_1_tl_7"/>
+            <zone points="275,824 2070,821 1973,768 1632,758 275,788" rendition="Line" xml:id="facs_18_tr_1_tl_8"/>
+            <zone points="282,885 1960,887 2136,875 2138,829 285,854" rendition="Line" xml:id="facs_18_tr_1_tl_9"/>
+            <zone points="277,956 1851,948 1889,887 277,903" rendition="Line" xml:id="facs_18_tr_1_tl_10"/>
+            <zone points="277,1070 1958,1078 2118,1063 2118,1009 277,1025" rendition="Line" xml:id="facs_18_tr_1_tl_11"/>
+            <zone points="272,1198 2067,1198 2176,1190 2176,1136 272,1170" rendition="Line" xml:id="facs_18_tr_1_tl_12"/>
+            <zone points="272,1325 2108,1317 2108,1259 272,1294" rendition="Line" xml:id="facs_18_tr_1_tl_13"/>
+            <zone points="272,1452 898,1454 898,1398 272,1403" rendition="Line" xml:id="facs_18_tr_1_tl_14"/>
+            <zone points="498,1510 1976,1518 2161,1500 2161,1447 498,1457" rendition="Line" xml:id="facs_18_tr_1_tl_15"/>
+            <zone points="270,1635 1777,1648 2309,1592 270,1609" rendition="Line" xml:id="facs_18_tr_1_tl_16"/>
+            <zone points="277,1767 2133,1757 2133,1691 277,1719" rendition="Line" xml:id="facs_18_tr_1_tl_17"/>
+            <zone points="267,1889 1790,1907 2082,1879 2082,1831 267,1846" rendition="Line" xml:id="facs_18_tr_1_tl_18"/>
+         </zone>
+         <zone points="146,1944 2254,1944 2254,3443 146,3443" rendition="TextRegion" xml:id="facs_18_tr_2">
+            <zone points="275,2016 2146,2014 2248,1955 275,1973" rendition="Line" xml:id="facs_18_tr_2_tl_1"/>
+            <zone points="275,2148 2235,2095 275,2100" rendition="Line" xml:id="facs_18_tr_2_tl_2"/>
+            <zone points="270,2268 2001,2268 2174,2260 2174,2207 270,2227" rendition="Line" xml:id="facs_18_tr_2_tl_3"/>
+            <zone points="267,2392 2011,2390 2082,2334 267,2352" rendition="Line" xml:id="facs_18_tr_2_tl_4"/>
+            <zone points="275,2525 2148,2515 2148,2459 275,2471" rendition="Line" xml:id="facs_18_tr_2_tl_5"/>
+            <zone points="267,2649 2098,2642 2209,2631 2212,2578 270,2598" rendition="Line" xml:id="facs_18_tr_2_tl_6"/>
+            <zone points="267,2766 1780,2764 1782,2713 270,2728" rendition="Line" xml:id="facs_18_tr_2_tl_7"/>
+            <zone points="267,2896 2199,2878 2199,2804 267,2865" rendition="Line" xml:id="facs_18_tr_2_tl_8"/>
+            <zone points="267,3026 1871,3020 2187,3005 2187,2952 267,2972" rendition="Line" xml:id="facs_18_tr_2_tl_9"/>
+            <zone points="267,3155 2169,3143 2187,3082 270,3107" rendition="Line" xml:id="facs_18_tr_2_tl_10"/>
+            <zone points="1548,3483 1561,3481 1571,3491 1587,3488 1604,3463 1612,3471 1625,3468 1594,3275 1569,3277 1559,3270 1553,3277 1515,3277" rendition="Line" xml:id="facs_18_tr_2_tl_11"/>
+            <zone points="135,3486 193,3491 224,3476 244,3491 308,3491 358,3468 386,3473 384,3270 132,3272" rendition="Line" xml:id="facs_18_tr_2_tl_12"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0410.jpg" n="part3_p018.jpg" xml:id="img_0018" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p018.jpg"/>
+            
+            <ab facs="#facs_18_tr_1">
+               <lb facs="#facs_18_tr_1_tl_1" n="N001"/>405-
+               <lb facs="#facs_18_tr_1_tl_2" n="N002"/>the idea. Ideas are but meditations on the intuitions first given usual form by the artist. The iron
+               <lb facs="#facs_18_tr_1_tl_3" n="N003"/> and created by the artist’s Neagination precedes the verbal structure erected by the philosopho¬
+               <lb facs="#facs_18_tr_1_tl_4" n="N004"/>the scientist on the basis of this aesthetic experience. Religion and philosophy are built on the
+               <lb facs="#facs_18_tr_1_tl_5" n="N005"/>meditation based on symmetry
+               <lb facs="#facs_18_tr_1_tl_6" n="N006"/>artist’s intuitions. (For example, Greek philosophy is really a
+               <lb facs="#facs_18_tr_1_tl_7" n="N007"/>proportion, and elarmony—first discovered by artists, lpainting pot and weaving rugs.) And the
+               <lb facs="#facs_18_tr_1_tl_8" n="N008"/>archirect discovered the done and the sault and thus gave men the idea of infinity, etc....
+               <lb facs="#facs_18_tr_1_tl_9" n="N009"/>— World you please comment on the above and draw out its implications for the religious life.
+               <lb facs="#facs_18_tr_1_tl_10" n="N010"/>[The question was drawn from comments on the "jasket" of Road's book.—PHJ|
+               <lb facs="#facs_18_tr_1_tl_11" n="N011"/>PT: Now that's a very good question, which is not so much a question as [it is] a simplement
+               <lb facs="#facs_18_tr_1_tl_12" n="N012"/>to the fundamental method which I have applied in these lectures, showing the Txpressive power
+               <lb facs="#facs_18_tr_1_tl_13" n="N013"/>of art for a reality which, without this art, can never be found and certainly cannot be found
+               <lb facs="#facs_18_tr_1_tl_14" n="N014"/>in terms of cognitive approach.
+               <lb facs="#facs_18_tr_1_tl_15" n="N015"/>On the other hand, I think he is only half right in this. And it is interesting that the
+               <lb facs="#facs_18_tr_1_tl_16" n="N016"/>real example which he gives are the Greekes. Now I come to this immediately—there are a lot of places¬
+               <lb facs="#facs_18_tr_1_tl_17" n="N017"/>when I speak about humanists and Christian education. So I will wattpone that for a moment
+               <lb facs="#facs_18_tr_1_tl_18" n="N018"/>because there the fundamental difference of the genusis of ideas is clear: in Greece it is the
+            </ab>
+            <ab facs="#facs_18_tr_2">
+               <lb facs="#facs_18_tr_2_tl_1" n="N001"/>transcendent memory; the ideas are INMAN, and must be developed. And then the philosophical
+               <lb facs="#facs_18_tr_2_tl_2" n="N002"/>and artistic expressions then follow. And I would understand that here, perhaps, in some cases-
+               <lb facs="#facs_18_tr_2_tl_3" n="N003"/>I wouldn’t make it general—the ARTISTIC expression PRECEDES the philosophical expression.
+               <lb facs="#facs_18_tr_2_tl_4" n="N004"/>But all such things are usually exäggerations. The more adequate thing seems to me to give
+               <lb facs="#facs_18_tr_2_tl_5" n="N005"/>absolute priority to the myth, to the mythological fantasy, which has in itself both the artistic,
+               <lb facs="#facs_18_tr_2_tl_6" n="N006"/>the juristic, and the philosophical element. And it is interesting that ALL of them have developed
+               <lb facs="#facs_18_tr_2_tl_7" n="N007"/>together, in early Greek philosophy—in Parmenides it is the goldess of right,
+               <lb facs="#facs_18_tr_2_tl_8" n="N008"/>dike, which introduces the philosopher into] the vision of being. That means that the different
+               <lb facs="#facs_18_tr_2_tl_9" n="N009"/>functions were seen in unity, and they were seen mythologically. Now that is my answer to this.
+               <lb facs="#facs_18_tr_2_tl_10" n="N010"/>And in Christianity the situation is obviously krongly described because before there were icons,
+               <lb facs="#facs_18_tr_2_tl_11" n="N011"/>e
+               <lb facs="#facs_18_tr_2_tl_12" n="N012"/>ne sont pas
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

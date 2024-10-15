@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p279</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p279</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_279">
+         <graphic url="TL-0279.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LJPNIDHOBFGPRYPPCWPWLHHR&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="250,236 250,3019 2349,3019 2349,236" rendition="TextRegion" xml:id="facs_279_tr_2">
+            <zone points="1131,320 1144,320 1163,333 1176,333 1181,328 1226,328 1236,320 1250,320 1250,249 1213,252 1200,244 1168,268 1131,268" rendition="Line" xml:id="facs_279_tr_2_tl_1"/>
+            <zone points="420,483 2263,462 2263,412 2171,404 1047,428 1000,378 937,428 420,436" rendition="Line" xml:id="facs_279_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="244,633 2250,622 2250,554 2210,551 244,601" rendition="Line" xml:id="facs_279_tr_2_tl_3"/>
+            <zone points="244,788 2223,806 2223,714 2113,701 244,743" rendition="Line" xml:id="facs_279_tr_2_tl_4"/>
+            <zone points="244,948 457,998 782,948 2244,929 2265,864 664,866 244,908" rendition="Line" xml:id="facs_279_tr_2_tl_5"/>
+            <zone points="242,1102 315,1155 1919,1126 2147,1100 2189,1018 242,1060" rendition="Line" xml:id="facs_279_tr_2_tl_6"/>
+            <zone points="247,1284 2231,1221 2231,1158 688,1208 247,1181" rendition="Line" xml:id="facs_279_tr_2_tl_7"/>
+            <zone points="236,1386 850,1391 942,1441 2250,1410 2342,1368 2342,1305 239,1360" rendition="Line" xml:id="facs_279_tr_2_tl_8"/>
+            <zone points="244,1572 404,1604 740,1559 2313,1570 2313,1470 2229,1460 247,1496" rendition="Line" xml:id="facs_279_tr_2_tl_9"/>
+            <zone points="239,1719 310,1761 617,1712 1323,1719 1399,1675 1722,1732 2244,1730 2244,1620 239,1662" rendition="Line" xml:id="facs_279_tr_2_tl_10"/>
+            <zone points="244,1864 929,1893 1018,1845 1824,1840 1798,1764 247,1809" rendition="Line" xml:id="facs_279_tr_2_tl_11"/>
+            <zone points="417,2000 1137,1995 1252,2053 1504,2019 1722,2053 1796,1990 2200,1979 2200,1919 2066,1914 417,1942" rendition="Line" xml:id="facs_279_tr_2_tl_12" subtype="paragraph"/>
+            <zone points="244,2158 1215,2152 1218,2113 1166,2084 953,2113 892,2090 866,2116 845,2092 457,2095 425,2124 294,2100 247,2129" rendition="Line" xml:id="facs_279_tr_2_tl_13"/>
+            <zone points="415,2302 2200,2286 2200,2208 1281,2255 1194,2223 1092,2260 1045,2226 753,2260 664,2229 612,2265 522,2231 417,2268" rendition="Line" xml:id="facs_279_tr_2_tl_14" subtype="paragraph"/>
+            <zone points="239,2457 252,2457 262,2465 289,2462 297,2470 318,2470 326,2478 339,2475 352,2462 373,2462 370,2402 333,2402 323,2394 304,2412 286,2397 281,2402 270,2397 255,2412 239,2412" rendition="Line" xml:id="facs_279_tr_2_tl_15"/>
+            <zone points="417,2525 2163,2510 2163,2444 1709,2481 417,2470" rendition="Line" xml:id="facs_279_tr_2_tl_16" subtype="paragraph"/>
+            <zone points="244,2698 1990,2678 2132,2662 2134,2599 244,2636" rendition="Line" xml:id="facs_279_tr_2_tl_17"/>
+            <zone points="252,2843 2084,2811 2084,2756 2000,2751 255,2788" rendition="Line" xml:id="facs_279_tr_2_tl_18"/>
+            <zone points="244,2987 2289,2958 2289,2895 2184,2893 1903,2930 244,2927" rendition="Line" xml:id="facs_279_tr_2_tl_19"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0279.jpg" n="part1_p279.jpg" xml:id="img_0279" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p279.jpg"/>
+            
+            <ab facs="#facs_279_tr_2">
+               <lb facs="#facs_279_tr_2_tl_1" n="N001"/>[275]
+               <lb facs="#facs_279_tr_2_tl_2" n="N002"/>Now take these two words: then you have a criterion for many things which are the problem
+               <lb facs="#facs_279_tr_2_tl_3" n="N003"/>of our situation here today. I myself must confess that I owe the clear distinction of these two things
+               <lb facs="#facs_279_tr_2_tl_4" n="N004"/>to my practical and theoretical participation in psychoanalytic processes. It is something absolutely
+               <lb facs="#facs_279_tr_2_tl_5" n="N005"/>different, if you know by heart the whole literature of <rs type="person">Freud</rs> (or any other analyst whom you prefer),
+               <lb facs="#facs_279_tr_2_tl_6" n="N006"/>or whether you EVER were in the situation in which you tried to get insight into what is going on
+               <lb facs="#facs_279_tr_2_tl_7" n="N007"/>in the depths of your own personality. The first, of course, has the toil of work---you must learn
+               <lb facs="#facs_279_tr_2_tl_8" n="N008"/>and read and try to understand---the other includes the hell of suffering without which no one can win the
+               <lb facs="#facs_279_tr_2_tl_9" n="N009"/>insight into oneself because participation in those movements of the soul, in which the character and the
+               <lb facs="#facs_279_tr_2_tl_10" n="N010"/>deviations were formed, which you experience in your life today, this insight is a matter, not of
+               <lb facs="#facs_279_tr_2_tl_11" n="N011"/>curiosity, but of going through hell, as everybody says who ever did it seriously.
+               <lb facs="#facs_279_tr_2_tl_12" n="N012"/>Now out of this, then, insight develops---insight by participation, in your past and in your
+               <lb facs="#facs_279_tr_2_tl_13" n="N013"/>present unconscious developments and realities.
+               <lb facs="#facs_279_tr_2_tl_14" n="N014"/>So it is not ENLIGHTENMENT, what is done here. If it were enlightenment, it wouldn't
+               <lb facs="#facs_279_tr_2_tl_15" n="N015"/>help.
+               <lb facs="#facs_279_tr_2_tl_16" n="N016"/>This brings me to some words about <rs type="person">Socrates</rs>. I am afraid that some theologians STILL
+               <lb facs="#facs_279_tr_2_tl_17" n="N017"/>prove the superiority of <rs type="person">Paul the Apostle</rs> over <rs type="person">Socrates</rs> by the tremendous insight that you can
+               <lb facs="#facs_279_tr_2_tl_18" n="N018"/>know what is good and DON'T do it, while <rs type="person">Socrates</rs> was so stupid [as] to believe that if one
+               <lb facs="#facs_279_tr_2_tl_19" n="N019"/>knows the good, one would do it! Now this tremendous "superiority" is the superiority of a 10-year
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

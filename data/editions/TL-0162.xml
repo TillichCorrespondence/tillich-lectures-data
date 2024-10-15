@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p162</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p162</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_162">
+         <graphic url="TL-0162.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=BEVBGNXMPKXLLSQZWHTNDEVW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="334,251 334,3483 2379,3483 2379,251" rendition="TextRegion" xml:id="facs_162_tr_2">
+            <zone points="1193,312 1205,312 1226,324 1313,324 1313,258 1274,258 1262,245 1244,248 1231,260 1193,260" rendition="Line" xml:id="facs_162_tr_2_tl_1"/>
+            <zone points="322,478 1941,516 1994,470 2235,467 2235,424 2028,393 1954,429 1640,398 1292,432 1236,396 1144,432 1060,393 1022,432 953,396 914,434 598,406 465,437 432,406 322,444" rendition="Line" xml:id="facs_162_tr_2_tl_2"/>
+            <zone points="327,628 2265,674 2265,567 327,598" rendition="Line" xml:id="facs_162_tr_2_tl_3"/>
+            <zone points="327,792 406,838 1474,779 2247,807 2268,715 329,730" rendition="Line" xml:id="facs_162_tr_2_tl_4"/>
+            <zone points="342,932 2301,924 2301,866 342,884" rendition="Line" xml:id="facs_162_tr_2_tl_5"/>
+            <zone points="327,1078 2109,1078 2247,1073 2250,1016 327,1052" rendition="Line" xml:id="facs_162_tr_2_tl_6"/>
+            <zone points="327,1228 2342,1231 2342,1172 2240,1162 327,1182" rendition="Line" xml:id="facs_162_tr_2_tl_7"/>
+            <zone points="327,1374 2372,1371 2372,1315 327,1348" rendition="Line" xml:id="facs_162_tr_2_tl_8"/>
+            <zone points="329,1527 2319,1522 2319,1471 1583,1461 329,1504" rendition="Line" xml:id="facs_162_tr_2_tl_9"/>
+            <zone points="322,1675 1913,1698 2375,1670 2378,1614 322,1650" rendition="Line" xml:id="facs_162_tr_2_tl_10"/>
+            <zone points="327,1834 807,1836 863,1890 2349,1859 2349,1777 2071,1757 327,1788" rendition="Line" xml:id="facs_162_tr_2_tl_11"/>
+            <zone points="329,1984 2337,1974 2339,1915 329,1956" rendition="Line" xml:id="facs_162_tr_2_tl_12"/>
+            <zone points="319,2130 547,2143 569,2166 621,2140 1098,2132 1098,2084 825,2069 319,2107" rendition="Line" xml:id="facs_162_tr_2_tl_13"/>
+            <zone points="529,2309 608,2273 797,2306 858,2245 2342,2229 2296,2168 2150,2194 2104,2158 2048,2194 1706,2163 651,2209 529,2176" rendition="Line" xml:id="facs_162_tr_2_tl_14" subtype="paragraph"/>
+            <zone points="329,2398 2270,2413 2273,2342 2204,2324 332,2344" rendition="Line" xml:id="facs_162_tr_2_tl_15"/>
+            <zone points="319,2544 2265,2533 2222,2472 319,2518" rendition="Line" xml:id="facs_162_tr_2_tl_16"/>
+            <zone points="327,2699 2094,2681 2094,2625 1823,2623 327,2671" rendition="Line" xml:id="facs_162_tr_2_tl_17"/>
+            <zone points="335,2858 439,2853 488,2868 638,2847 833,2853 833,2794 605,2799 582,2822 559,2799 335,2799" rendition="Line" xml:id="facs_162_tr_2_tl_18"/>
+            <zone points="526,2916 2015,2934 2255,2906 2275,2865 2074,2865 2012,2807 1931,2870 526,2886" rendition="Line" xml:id="facs_162_tr_2_tl_19" subtype="paragraph"/>
+            <zone points="329,3077 424,3116 582,3072 2229,3064 2229,3003 2173,3001 329,3029" rendition="Line" xml:id="facs_162_tr_2_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0162.jpg" n="part1_p162.jpg" xml:id="img_0162" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p162.jpg"/>
+            
+            <ab facs="#facs_162_tr_2">
+               <lb facs="#facs_162_tr_2_tl_1" n="N001"/>[159]
+               <lb facs="#facs_162_tr_2_tl_2" n="N002"/>Judaism and Christianity) are RELATED to history, are based on historical events, and keep these
+               <lb facs="#facs_162_tr_2_tl_3" n="N003"/>events always present in reports, legands [sic.] and myths, what can faith do, under these circumstances?
+               <lb facs="#facs_162_tr_2_tl_4" n="N004"/><rs type="keyword" ref="#Faith">Faith can say that something has happened IN HISTORY, to me as an historical person, which is of
+               <lb break="no" facs="#facs_162_tr_2_tl_5" n="N005"/>ultimate concern to me, because it points to the answer of my ultimate concern, namely the concern
+               <lb break="no" facs="#facs_162_tr_2_tl_6" n="N006"/>of the meaning and being of my own reality. Faith, for instance, CAN say that the Old Testament
+               <lb break="no" facs="#facs_162_tr_2_tl_7" n="N007"/>Law, which is given as the Law of Moses---this is historically improbable---that this Law which we have,
+               <lb break="no" facs="#facs_162_tr_2_tl_8" n="N008"/>which is in our hands, has unconditional validity for those who are grasped by it ---in this case, for those
+               <lb break="no" facs="#facs_162_tr_2_tl_9" n="N009"/>who are faithful Jews, and partly for Christians too---no matter how much or how little can be traced
+               <lb break="no" facs="#facs_162_tr_2_tl_10" n="N010"/>to a historical figure of the name of Moses</rs>. There is no doubt that a historical figure is PROBABLE, but
+               <lb facs="#facs_162_tr_2_tl_11" n="N011"/>it is not for CERTAIN, it is not a matter of religious certainty that the Law of Moses is given by Moses,
+               <lb facs="#facs_162_tr_2_tl_12" n="N012"/>and certainly nobody believes, who has ever started historical research, that what goes under the name
+               <lb facs="#facs_162_tr_2_tl_13" n="N013"/>of "Moses" is actually given by Moses.
+               <lb facs="#facs_162_tr_2_tl_14" n="N014"/>Faith can say that the reality which is manifest in the New Testament picture of Jesus as the
+               <lb facs="#facs_162_tr_2_tl_15" n="N015"/>Christ, has POWER, perhaps SAVING power, for those who are grasped by it. This, faith can say---
+               <lb facs="#facs_162_tr_2_tl_16" n="N016"/>because that is the foundation of faith itself. But then faith can add: it doesn’t matter how much
+               <lb facs="#facs_162_tr_2_tl_17" n="N017"/>or how little can be traced, in terms of historical research, to the historical figure which is
+               <lb facs="#facs_162_tr_2_tl_18" n="N018"/>called Jesus of Nazareth.
+               <lb facs="#facs_162_tr_2_tl_19" n="N019"/>We must be able to stand a question which sometimes shocks people: what if we discover
+               <lb facs="#facs_162_tr_2_tl_21" n="N020"/>the police records of Nazareth of the year one to thirtyand find no man of the name of "Jesus" there?
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

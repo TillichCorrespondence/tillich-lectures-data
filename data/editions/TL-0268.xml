@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p268</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p268</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_268">
+         <graphic url="TL-0268.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=OYTEIYWIPOPWBYHBRRHRCUZW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="35,253 35,3492 2379,3492 2379,253" rendition="TextRegion" xml:id="facs_268_tr_1">
+            <zone points="1237,323 1250,323 1260,333 1290,336 1315,328 1323,333 1353,333 1350,250 1318,248 1293,266 1283,263 1273,276 1237,276" rendition="Line" xml:id="facs_268_tr_1_tl_1"/>
+            <zone points="388,451 2189,458 2129,381 2082,418 2047,386 1686,413 1596,366 1548,411 1275,411 1237,373 1145,411 388,406" rendition="Line" xml:id="facs_268_tr_1_tl_2"/>
+            <zone points="383,596 2290,614 2290,559 383,566" rendition="Line" xml:id="facs_268_tr_1_tl_3"/>
+            <zone points="576,741 1428,749 1628,804 2047,804 2142,764 2019,699 576,699" rendition="Line" xml:id="facs_268_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="383,892 1340,907 1438,962 1721,899 2214,907 2147,852 383,862" rendition="Line" xml:id="facs_268_tr_1_tl_5"/>
+            <zone points="386,1042 2174,1060 2174,1012 2064,1002 386,999" rendition="Line" xml:id="facs_268_tr_1_tl_6"/>
+            <zone points="386,1192 2300,1215 2267,1145 386,1167" rendition="Line" xml:id="facs_268_tr_1_tl_7"/>
+            <zone points="571,1338 2184,1363 2184,1310 571,1295" rendition="Line" xml:id="facs_268_tr_1_tl_8" subtype="paragraph"/>
+            <zone points="373,1493 2139,1521 2282,1518 2280,1455 371,1465" rendition="Line" xml:id="facs_268_tr_1_tl_9"/>
+            <zone points="368,1646 453,1701 914,1648 1020,1701 1330,1698 1370,1663 1405,1698 1596,1666 2144,1701 2194,1698 2192,1601 366,1621" rendition="Line" xml:id="facs_268_tr_1_tl_10"/>
+            <zone points="373,1834 664,1801 2217,1816 2142,1764 373,1754" rendition="Line" xml:id="facs_268_tr_1_tl_11"/>
+            <zone points="371,1951 2197,1964 2197,1911 1681,1894 371,1904" rendition="Line" xml:id="facs_268_tr_1_tl_12"/>
+            <zone points="366,2099 1593,2117 1593,2062 1450,2047 366,2074" rendition="Line" xml:id="facs_268_tr_1_tl_13"/>
+            <zone points="566,2254 877,2257 949,2310 2322,2270 2322,2207 566,2194" rendition="Line" xml:id="facs_268_tr_1_tl_14" subtype="paragraph"/>
+            <zone points="366,2395 2184,2430 2367,2420 2372,2382 363,2347" rendition="Line" xml:id="facs_268_tr_1_tl_15"/>
+            <zone points="356,2550 1295,2593 1363,2560 2132,2565 2132,2513 1974,2502 1661,2533 406,2495 356,2528" rendition="Line" xml:id="facs_268_tr_1_tl_16"/>
+            <zone points="358,2705 2260,2750 2260,2663 358,2675" rendition="Line" xml:id="facs_268_tr_1_tl_17"/>
+            <zone points="356,2871 411,2913 729,2881 804,2916 1030,2886 1275,2916 1468,2868 1468,2816 356,2803" rendition="Line" xml:id="facs_268_tr_1_tl_18"/>
+            <zone points="556,3009 2307,3031 2307,2963 2270,2961 556,2953" rendition="Line" xml:id="facs_268_tr_1_tl_19" subtype="paragraph"/>
+            <zone points="343,3154 1799,3171 1891,3206 2357,3171 2357,3116 2199,3104 343,3131" rendition="Line" xml:id="facs_268_tr_1_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0268.jpg" n="part1_p268.jpg" xml:id="img_0268" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p268.jpg"/>
+            
+            <ab facs="#facs_268_tr_1">
+               <lb facs="#facs_268_tr_1_tl_1" n="N001"/>[264]
+               <lb facs="#facs_268_tr_1_tl_2" n="N002"/>and mind, which is also an expression of this one life process, and where it expresses itself in
+               <lb facs="#facs_268_tr_1_tl_3" n="N003"/>terms of participation in the universals, of knowing and acting according to norms and principles.
+               <lb facs="#facs_268_tr_1_tl_4" n="N004"/>Now if we have this doctrine of man, then we have a monistic doctrine of man.
+               <lb facs="#facs_268_tr_1_tl_5" n="N005"/>It is interesting that here we can easily see that the OLD Testament---not completely the New
+               <lb facs="#facs_268_tr_1_tl_6" n="N006"/>Testament by but certainly the Old Testament picture of man---and the <rs type="keyword" ref="#Aristotelianism">Aristotelian</rs> picture
+               <lb facs="#facs_268_tr_1_tl_7" n="N007"/>of man---the unity---agree. I cannot go deeper into this; it is one step in the process of going back.
+               <lb facs="#facs_268_tr_1_tl_8" n="N008"/>The next step, where l again, as always, say: it doesn't yet bring us home. We are
+               <lb facs="#facs_268_tr_1_tl_9" n="N009"/>in the process of <rs type="keyword" ref="#Odyssey">Odyssey:</rs> to find again what man is, is the understanding of the problem of man
+               <lb facs="#facs_268_tr_1_tl_10" n="N010"/>as an <rs type="keyword" ref="#Ontology">ontological problem.</rs> I know that the word "ontology" is like a red [flag] being waved
+               <lb facs="#facs_268_tr_1_tl_11" n="N011"/>at you, many of you, and you react as some animals do, when they see the red color. . . etc. . . 
+               <lb facs="#facs_268_tr_1_tl_12" n="N012"/>but I hope at least some of this reaction has somewhat smoothed [i.e. simmered] down since
+               <lb facs="#facs_268_tr_1_tl_13" n="N013"/>the last lectures, and I dare to use the word "ontology" again!
+               <lb facs="#facs_268_tr_1_tl_14" n="N014"/>What I mean is: What kind of being is man?---seen in terms of the question of being-itself.
+               <lb facs="#facs_268_tr_1_tl_15" n="N015"/>What is his ultimate structure? Body and soul---or body and mind---or life process and its expression---
+               <lb facs="#facs_268_tr_1_tl_16" n="N016"/>alright! But that's only, so to speak, the description from outside. Ontology would give a
+               <lb facs="#facs_268_tr_1_tl_17" n="N017"/>description from inside. Here we HAVE already found one very important element, namely that
+               <lb facs="#facs_268_tr_1_tl_18" n="N018"/>man is that being which has universals, which can speak.
+               <lb facs="#facs_268_tr_1_tl_19" n="N019"/>But this is an isolated element. This element is connected with other, more fundamental,
+               <lb facs="#facs_268_tr_1_tl_20" n="N020"/>elements. Here we come to the most fundamental element, namely that man is <rs type="keyword" ref="#Finitude">finite </rs>WHILE BEING
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

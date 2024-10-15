@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p071</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p071</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_71">
+         <graphic url="TL-0071.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QZCFLZWNZTOMGFUDPDQRPSTD&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="319,263 319,1012 2230,1012 2230,263" rendition="TextRegion" xml:id="facs_71_tr_1">
+            <zone points="1148,317 1160,317 1166,324 1180,321 1187,326 1214,321 1227,321 1229,324 1232,256 1229,254 1205,254 1184,274 1151,276" rendition="Line" xml:id="facs_71_tr_1_tl_1"/>
+            <zone points="623,492 1425,474 1537,530 1958,501 1958,423 1438,454 623,423" rendition="Line" xml:id="facs_71_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="391,596 784,560 917,589 1162,569 1200,598 1270,573 1337,609 1335,515 1166,544 868,515 778,539 735,508 681,539 591,512 391,528" rendition="Line" xml:id="facs_71_tr_1_tl_4"/>
+            <zone points="616,748 1899,748 1899,692 1838,674 953,708 616,670" rendition="Line" xml:id="facs_71_tr_1_tl_8" subtype="paragraph"/>
+            <zone points="607,825 1825,836 1825,762 1283,798 607,775" rendition="Line" xml:id="facs_71_tr_1_tl_9"/>
+            <zone points="620,917 2063,908 2027,870 1654,854 620,856" rendition="Line" xml:id="facs_71_tr_1_tl_10"/>
+            <zone points="306,996 2113,996 2113,948 1904,935 1387,971 1337,937 1234,971 306,939" rendition="Line" xml:id="facs_71_tr_1_tl_11"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0071.jpg" n="part1_p071.jpg" xml:id="img_0071" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p071.jpg"/>
+            
+            <ab facs="#facs_71_tr_1">
+               <lb facs="#facs_71_tr_1_tl_1" n="N001"/>[68]
+               <lb facs="#facs_71_tr_1_tl_2" n="N002"/>QUESTION (Sam Keen --after class): (about fundamentalism): ... Don't
+               <lb facs="#facs_71_tr_1_tl_4" n="N003"/>Fundamentalists, with their primitivism, derive healing power from their beliefs? ...
+               <lb facs="#facs_71_tr_1_tl_8" n="N004"/>TILLICH: Very much so! -- What was your first question?
+               <lb facs="#facs_71_tr_1_tl_9" n="N005"/>KEEN: (Did you say there is no healing power there?)
+               <lb facs="#facs_71_tr_1_tl_10" n="N006"/>TILLICH: NO, I did not AT ALL! That would be a great error
+               <lb facs="#facs_71_tr_1_tl_11" n="N007"/>because in all primitive stages of unbroken myths, you have a lot of healing power.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

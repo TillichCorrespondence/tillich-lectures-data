@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p018</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p018</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_18">
+         <graphic url="TL-0018.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MEQRDMEXFVPSHKNKAKVOPHPU&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="56,264 75,3171 2396,3190 2382,264" rendition="TextRegion" xml:id="facs_18_tr_1">
+            <zone points="1216,337 1231,337 1248,320 1256,325 1283,325 1293,318 1298,323 1313,323 1313,265 1290,265 1278,253 1270,251 1251,268 1216,268" rendition="Line" xml:id="facs_18_tr_1_tl_1"/>
+            <zone points="275,529 1407,551 1638,506 2077,548 2099,459 275,479" rendition="Line" xml:id="facs_18_tr_1_tl_2"/>
+            <zone points="275,610 596,645 799,605 861,648 1201,598 2149,613 2124,538 275,568" rendition="Line" xml:id="facs_18_tr_1_tl_3"/>
+            <zone points="285,700 2097,705 2097,635 2057,625 285,643" rendition="Line" xml:id="facs_18_tr_1_tl_4"/>
+            <zone points="278,789 2067,792 2067,710 1849,695 278,734" rendition="Line" xml:id="facs_18_tr_1_tl_5"/>
+            <zone points="273,866 543,903 586,868 1352,888 1710,846 2069,883 2072,804 1965,787 275,821" rendition="Line" xml:id="facs_18_tr_1_tl_6"/>
+            <zone points="285,965 462,948 571,990 916,945 1074,980 1990,921 2084,965 2087,888 1913,854 1824,896 1248,868 648,911 288,876" rendition="Line" xml:id="facs_18_tr_1_tl_7"/>
+            <zone points="280,1045 2089,1030 2089,968 1809,948 1737,980 280,968" rendition="Line" xml:id="facs_18_tr_1_tl_8"/>
+            <zone points="275,1124 911,1104 988,1141 1471,1144 2042,1109 2042,1050 1978,1042 275,1050" rendition="Line" xml:id="facs_18_tr_1_tl_9"/>
+            <zone points="278,1206 1707,1221 2005,1189 2007,1107 1834,1144 278,1141" rendition="Line" xml:id="facs_18_tr_1_tl_10"/>
+            <zone points="280,1285 1404,1305 1437,1218 280,1228" rendition="Line" xml:id="facs_18_tr_1_tl_11"/>
+            <zone points="529,1362 2107,1355 2107,1298 2022,1285 1920,1323 1335,1288 529,1315" rendition="Line" xml:id="facs_18_tr_1_tl_12"/>
+            <zone points="278,1481 1042,1442 1126,1486 1191,1442 1459,1437 1779,1442 1826,1484 2248,1469 2241,1380 749,1397 687,1365 278,1399" rendition="Line" xml:id="facs_18_tr_1_tl_13"/>
+            <zone points="280,1538 2151,1526 2151,1461 280,1481" rendition="Line" xml:id="facs_18_tr_1_tl_14"/>
+            <zone points="290,1653 370,1653 377,1645 409,1653 442,1643 466,1657 486,1657 484,1571 419,1561 404,1576 372,1566 357,1576 335,1576 303,1551 288,1551" rendition="Line" xml:id="facs_18_tr_1_tl_15"/>
+            <zone points="529,1712 1707,1715 1757,1682 2104,1715 2104,1638 1896,1623 529,1635" rendition="Line" xml:id="facs_18_tr_1_tl_16"/>
+            <zone points="278,1796 849,1779 930,1824 1263,1774 2179,1787 2179,1715 1727,1732 1665,1700 685,1747 397,1682 278,1732" rendition="Line" xml:id="facs_18_tr_1_tl_17"/>
+            <zone points="278,1873 434,1913 744,1868 841,1908 1456,1893 1504,1856 2226,1876 2226,1789 2074,1814 1933,1777 1789,1826 1318,1779 1241,1819 278,1806" rendition="Line" xml:id="facs_18_tr_1_tl_18"/>
+            <zone points="280,1958 856,1938 1007,1985 1074,1950 1466,1983 1531,1940 1586,1973 2089,1943 2089,1891 1831,1871 280,1908" rendition="Line" xml:id="facs_18_tr_1_tl_19"/>
+            <zone points="278,2084 546,2027 625,2067 1032,2077 2074,2047 2074,1970 1903,1953 486,1997 360,1950 278,1987" rendition="Line" xml:id="facs_18_tr_1_tl_20"/>
+            <zone points="278,2114 747,2156 856,2119 2149,2117 2149,2054 1992,2045 278,2087" rendition="Line" xml:id="facs_18_tr_1_tl_21"/>
+            <zone points="278,2243 459,2201 615,2243 734,2196 859,2236 1653,2181 1702,2226 1873,2243 2114,2188 2114,2131 1853,2114 1747,2149 1558,2117 1439,2151 1377,2112 1193,2151 1069,2114 844,2164 280,2161" rendition="Line" xml:id="facs_18_tr_1_tl_22"/>
+            <zone points="280,2293 921,2278 1079,2330 1697,2295 1697,2228 1630,2211 280,2243" rendition="Line" xml:id="facs_18_tr_1_tl_23"/>
+            <zone points="533,2402 1226,2380 1380,2412 1829,2355 2161,2402 2375,2382 2377,2305 2228,2308 2050,2226 1558,2330 878,2332 767,2278 533,2315" rendition="Line" xml:id="facs_18_tr_1_tl_24"/>
+            <zone points="285,2466 849,2506 978,2451 1154,2499 1466,2484 1553,2437 1791,2486 2275,2466 2275,2392 1960,2367 1789,2407 1710,2370 1377,2412 821,2384 769,2424 524,2402 469,2355 285,2380" rendition="Line" xml:id="facs_18_tr_1_tl_25"/>
+            <zone points="275,2548 965,2531 1069,2576 1300,2578 1707,2526 2171,2563 2174,2479 2136,2474 908,2471 839,2506 278,2466" rendition="Line" xml:id="facs_18_tr_1_tl_26"/>
+            <zone points="278,2643 600,2670 1486,2620 2022,2657 2057,2566 1045,2551 685,2588 347,2543 280,2580" rendition="Line" xml:id="facs_18_tr_1_tl_27"/>
+            <zone points="285,2739 2231,2707 2231,2628 2174,2667 1667,2665 1484,2620 901,2675 285,2647" rendition="Line" xml:id="facs_18_tr_1_tl_28"/>
+            <zone points="280,2809 2221,2784 2221,2724 280,2734" rendition="Line" xml:id="facs_18_tr_1_tl_30"/>
+            <zone points="280,2886 367,2928 715,2896 1203,2933 1270,2896 1635,2915 1811,2866 1888,2898 2188,2866 2151,2806 1660,2831 1536,2784 280,2834" rendition="Line" xml:id="facs_18_tr_1_tl_31"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0018.jpg" n="part1_p018.jpg" xml:id="img_0018" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p018.jpg"/>
+            
+            <ab facs="#facs_18_tr_1">
+               <lb facs="#facs_18_tr_1_tl_1" n="N001"/>[15]
+               <lb facs="#facs_18_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Law">societys [sic.] and on the other hand, natural law.</rs> Again natural law is used in two ways:
+               <lb facs="#facs_18_tr_1_tl_3" n="N003"/>as physical law, and law for morals. What is the original meaning of the law? Certainly
+               <lb facs="#facs_18_tr_1_tl_4" n="N004"/>not physical laws--which is much later and is an application of the experience of the
+               <lb facs="#facs_18_tr_1_tl_5" n="N005"/>social law, which existed in the moment in which two human beings lived together,
+               <lb facs="#facs_18_tr_1_tl_6" n="N006"/>to physics. It is transferred by analogy to the physical realm. This analogy expresses
+               <lb facs="#facs_18_tr_1_tl_7" n="N007"/>itself still in the fact that the term has great insecurities and fallacies in itself. One
+               <lb facs="#facs_18_tr_1_tl_8" n="N008"/>hundred years ago the natural law was replacing the God of former centuries. Today
+               <lb facs="#facs_18_tr_1_tl_9" n="N009"/>the natural law, in the sense of physical laws (the laws according to which nature
+               <lb facs="#facs_18_tr_1_tl_10" n="N010"/>moves) has become one of the most questionable concepts in physics itself. And
+               <lb facs="#facs_18_tr_1_tl_11" n="N011"/>this is so because analogies never are completely valid.
+               <lb facs="#facs_18_tr_1_tl_12" n="N012"/>In any case the legal realm is fundamental and original, and one of those
+               <lb facs="#facs_18_tr_1_tl_13" n="N013"/>cultural functions which are of course possible only through language--every law is expressed
+               <lb facs="#facs_18_tr_1_tl_14" n="N014"/>in language, and the earliest writings we have on the stone tablets of the past are legal
+               <lb facs="#facs_18_tr_1_tl_15" n="N015"/>formulas.
+               <lb facs="#facs_18_tr_1_tl_16" n="N016"/>But the law itself has an element within it which carries the same name:
+               <lb facs="#facs_18_tr_1_tl_17" n="N017"/>natural law in the sense of rational law. T<rs type="keyword" ref="#Justice">his name means that there is something under-
+               <lb break="no" facs="#facs_18_tr_1_tl_18" n="N018"/>lying all law, namely the principle of justice. The questions always is: according to which
+               <lb break="no" facs="#facs_18_tr_1_tl_19" n="N019"/>norms can laws be given? As you know (we will discuss it much fuller), there is a
+               <lb break="no" facs="#facs_18_tr_1_tl_20" n="N020"/>tendency to the merely positive law in the Anglo Saxon philosophy of law. In other
+               <lb break="no" facs="#facs_18_tr_1_tl_21" n="N021"/>nations, especially France, the rational law prevails over against the positive law. In any
+               <lb break="no" facs="#facs_18_tr_1_tl_22" n="N022"/>case, there are underlying principles of justice in every law, and this leads me to the
+               <lb break="no" facs="#facs_18_tr_1_tl_23" n="N023"/>next function, namely to the norm-giving, or the ethical, function.
+               <lb break="no" facs="#facs_18_tr_1_tl_24" n="N024"/>The seventh function of culture--the experience of the norm--happens in the encounter
+               <lb break="no" facs="#facs_18_tr_1_tl_25" n="N025"/>with the other person. This also is an ever-present reality. There, discovery is the experience
+               <lb break="no" facs="#facs_18_tr_1_tl_26" n="N026"/>of meeting the other one, who also is a person.</rs> I will deal with this very fully because
+               <lb facs="#facs_18_tr_1_tl_27" n="N027"/>this is one of the profoundest insights of modern philosophy, namely that there is
+               <lb facs="#facs_18_tr_1_tl_28" n="N028"/>no person, no ego, which is not encountering a ''thou," another one. Only the other
+               <lb facs="#facs_18_tr_1_tl_30" n="N029"/>ego limits us and throws us back to ourselves and demands unconditionally the acceptance
+               <lb facs="#facs_18_tr_1_tl_31" n="N030"/>of the other person as a person. There is no person in isolation. "Person" arises only in
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

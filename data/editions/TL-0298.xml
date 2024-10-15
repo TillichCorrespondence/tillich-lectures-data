@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p014</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p014</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_14">
+         <graphic url="TL-0298.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KMKOMNUXDCKSPCMOEXKFPYKV&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="179,0 2269,0 2269,1574 179,1574" rendition="TextRegion" xml:id="facs_14_tr_1">
+            <zone points="1024,344 1051,349 1060,358 1104,358 1112,349 1137,358 1146,349 1159,349 1162,302 1129,305 1112,291 1096,291 1085,280 1065,297 1026,297" rendition="Line" xml:id="facs_14_tr_1_tl_3"/>
+            <zone points="172,508 538,524 821,510 821,449 558,466 458,433 422,469 325,430 272,435 241,466 216,444 172,474" rendition="Line" xml:id="facs_14_tr_1_tl_5" subtype="heading"/>
+            <zone points="380,668 1248,652 1409,707 2147,646 2147,569 380,624" rendition="Line" xml:id="facs_14_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="178,815 2111,804 2247,791 2250,732 180,760" rendition="Line" xml:id="facs_14_tr_1_tl_7"/>
+            <zone points="164,957 1870,946 1980,996 2263,940 2266,882 164,929" rendition="Line" xml:id="facs_14_tr_1_tl_8"/>
+            <zone points="175,1118 316,1159 510,1157 577,1112 1440,1110 1545,1104 1545,1048 175,1065" rendition="Line" xml:id="facs_14_tr_1_tl_9"/>
+            <zone points="374,1259 2180,1254 2183,1184 374,1207" rendition="Line" xml:id="facs_14_tr_1_tl_10" subtype="paragraph"/>
+            <zone points="169,1417 2247,1406 2247,1342 169,1387" rendition="Line" xml:id="facs_14_tr_1_tl_11"/>
+            <zone points="175,1573 1975,1559 2169,1548 2169,1492 175,1539" rendition="Line" xml:id="facs_14_tr_1_tl_12"/>
+         </zone>
+         <zone points="185,1639 2292,1639 2292,2631 185,2631" rendition="TextRegion" xml:id="facs_14_tr_3">
+            <zone points="178,1722 2075,1711 2141,1645 178,1692" rendition="Line" xml:id="facs_14_tr_3_tl_1"/>
+            <zone points="178,1872 2247,1858 2250,1797 180,1814" rendition="Line" xml:id="facs_14_tr_3_tl_2"/>
+            <zone points="178,2025 1875,2017 2286,1997 2286,1936 178,1986" rendition="Line" xml:id="facs_14_tr_3_tl_3"/>
+            <zone points="175,2172 2030,2161 2130,2150 2130,2091 175,2122" rendition="Line" xml:id="facs_14_tr_3_tl_4"/>
+            <zone points="175,2319 2050,2311 2177,2302 2177,2241 175,2288" rendition="Line" xml:id="facs_14_tr_3_tl_5"/>
+            <zone points="178,2474 2008,2463 2180,2455 2180,2391 178,2441" rendition="Line" xml:id="facs_14_tr_3_tl_6"/>
+            <zone points="169,2624 1695,2613 1623,2549 172,2593" rendition="Line" xml:id="facs_14_tr_3_tl_7"/>
+         </zone>
+         <zone points="67,2690 2406,2690 2406,3479 67,3479" rendition="TextRegion" xml:id="facs_14_tr_2">
+            <zone points="374,2774 1936,2765 2161,2710 374,2716" rendition="Line" xml:id="facs_14_tr_2_tl_1" subtype="paragraph"/>
+            <zone points="169,2921 1021,2946 2127,2865 169,2893" rendition="Line" xml:id="facs_14_tr_2_tl_2"/>
+            <zone points="172,3073 2374,3062 2405,2987 172,3046" rendition="Line" xml:id="facs_14_tr_2_tl_3"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0298.jpg" n="part2_p014.jpg" xml:id="img_0014" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p014.jpg"/>
+            
+            <ab facs="#facs_14_tr_1">
+               <lb facs="#facs_14_tr_1_tl_3" n="N001"/>[294]
+               <lb facs="#facs_14_tr_1_tl_5" n="N002"/>LECTURE XXIV, Feb. 7, 1956
+               <lb facs="#facs_14_tr_1_tl_6" n="N003"/>At the end of Thursday's lecture I spoke about three artistic functions, and I will go back
+               <lb facs="#facs_14_tr_1_tl_7" n="N004"/>to this because I think it's not only helpful to understand the different theories of art but also important
+               <lb facs="#facs_14_tr_1_tl_8" n="N005"/>for the valuation of a special work of art. These three functions were the cognitive, the anticipatory, and
+               <lb facs="#facs_14_tr_1_tl_9" n="N006"/>the expressive, and I will speak about the three of them in this order.
+               <lb facs="#facs_14_tr_1_tl_10" n="N007"/>THE COGNITIVE FUNCTION: If you understand "cognitive" in terms of what is usually
+               <lb facs="#facs_14_tr_1_tl_11" n="N008"/>called cognitive in the scientific realm and also in history and philosophy, and psychology and sociology,
+               <lb facs="#facs_14_tr_1_tl_12" n="N009"/>then of course the word cognitive shouldn't be used at all for the realm of art. If, however, the word
+            </ab>
+            <ab facs="#facs_14_tr_3">
+               <lb facs="#facs_14_tr_3_tl_1" n="N001"/>cognitive is used in the sense of discovering a new dimension of reality and grasping it and taking it
+               <lb facs="#facs_14_tr_3_tl_2" n="N002"/>into our mind, then a cognitive element is present in every art. This can be proved directly in visual arts,
+               <lb facs="#facs_14_tr_3_tl_3" n="N003"/>where we have objects, even if they are non-representative---we have colors and forms, and these colors and
+               <lb facs="#facs_14_tr_3_tl_4" n="N004"/>forms are a definite subject-matter which have in themselves a representative character even if it is
+               <lb facs="#facs_14_tr_3_tl_5" n="N005"/>abstract and not naturalistic. And even sharper, we can find it in poetry and drama and novel, where
+               <lb facs="#facs_14_tr_3_tl_6" n="N006"/>we use words, and words also have always a denotative meaning: they denote some content, and this
+               <lb facs="#facs_14_tr_3_tl_7" n="N007"/>content appears to our minds, in the moment in which we hear these words.
+            </ab>
+            <ab facs="#facs_14_tr_2">
+               <lb facs="#facs_14_tr_2_tl_1" n="N001"/>In music, the situation seems to be more difficult, but even there we discover possibilities
+               <lb facs="#facs_14_tr_2_tl_2" n="N002"/>of self-revelation in reality through the different instruments, including the human voice, or as the
+               <lb facs="#facs_14_tr_2_tl_3" n="N003"/>old Pythagoreans called it, we discover the numbers which are the basis for musical reception and understanding
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

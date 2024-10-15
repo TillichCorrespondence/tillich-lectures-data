@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part4_p092</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p092</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_92">
+         <graphic url="TL-0566.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XZGBMFABIIAKKNAOSWIKLKWJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="304,239 2242,239 2242,1974 304,1974" rendition="TextRegion" xml:id="facs_92_tr_1">
+            <zone points="1135,296 1152,296 1164,305 1186,308 1241,308 1248,298 1265,298 1263,257 1205,257 1188,240 1169,260 1133,260" rendition="Line" xml:id="facs_92_tr_1_tl_1"/>
+            <zone points="320,452 2090,459 2090,418 1888,387 320,392" rendition="Line" xml:id="facs_92_tr_1_tl_2"/>
+            <zone points="317,604 1337,628 2167,604 2167,558 317,560" rendition="Line" xml:id="facs_92_tr_1_tl_3"/>
+            <zone points="313,748 2186,758 2186,707 2015,697 313,709" rendition="Line" xml:id="facs_92_tr_1_tl_4"/>
+            <zone points="308,904 2237,909 2191,844 308,854" rendition="Line" xml:id="facs_92_tr_1_tl_5"/>
+            <zone points="296,1049 2169,1065 2148,1003 1763,993 296,1027" rendition="Line" xml:id="facs_92_tr_1_tl_6"/>
+            <zone points="305,1207 1679,1222 2155,1205 2155,1154 305,1159" rendition="Line" xml:id="facs_92_tr_1_tl_7"/>
+            <zone points="303,1359 2092,1364 2232,1354 2232,1291 303,1328" rendition="Line" xml:id="facs_92_tr_1_tl_8"/>
+            <zone points="303,1542 1532,1520 1474,1465 305,1472" rendition="Line" xml:id="facs_92_tr_1_tl_9"/>
+            <zone points="529,1667 2191,1674 2191,1616 529,1619" rendition="Line" xml:id="facs_92_tr_1_tl_10"/>
+            <zone points="291,1811 2177,1821 2104,1753 291,1772" rendition="Line" xml:id="facs_92_tr_1_tl_11"/>
+            <zone points="293,1962 375,1989 1421,1972 1421,1938 1337,1919 293,1919" rendition="Line" xml:id="facs_92_tr_1_tl_12"/>
+         </zone>
+         <zone points="229,3359 1755,3359 1755,3473 229,3473" rendition="TextRegion" xml:id="facs_92_tr_2">
+            <zone points="1217,3413 1270,3420 1296,3444 1320,3427 1332,3437 1354,3427 1419,3466 1462,3451 1494,3470 1522,3454 1573,3461 1570,3290 1217,3288" rendition="Line" xml:id="facs_92_tr_2_tl_1"/>
+            <zone points="601,3430 625,3427 647,3444 671,3444 695,3418 721,3432 741,3430 767,3454 789,3439 818,3444 832,3430 851,3430 849,3329 642,3324 620,3343 599,3343" rendition="Line" xml:id="facs_92_tr_2_tl_2"/>
+            <zone points="233,3432 267,3427 274,3418 296,3422 315,3415 310,3331 293,3333 286,3341 260,3333 226,3336" rendition="Line" xml:id="facs_92_tr_2_tl_3"/>
+            <zone points="926,3446 996,3468 1025,3434 1080,3444 1140,3418 1174,3437 1248,3434 1289,3468 1376,3456 1373,3425 1335,3437 1294,3410 1241,3415 1133,3338 916,3350" rendition="Line" xml:id="facs_92_tr_2_tl_4"/>
+            <zone points="455,3430 486,3437 507,3422 524,3439 551,3442 572,3437 570,3314 512,3312 507,3307 488,3307 481,3300 474,3307 452,3307" rendition="Line" xml:id="facs_92_tr_2_tl_5"/>
+            <zone points="1602,3463 1664,3468 1691,3437 1748,3434 1736,3261 1722,3261 1710,3273 1621,3259 1587,3261" rendition="Line" xml:id="facs_92_tr_2_tl_6"/>
+            <zone points="462,3466 483,3461 491,3454 498,3461 515,3461 522,3468 532,3470 539,3466 546,3470 572,3468 565,3439 541,3444 534,3437 527,3439 500,3422 491,3425 474,3413 469,3422 452,3422" rendition="Line" xml:id="facs_92_tr_2_tl_7"/>
+            <zone points="216,3468 231,3470 255,3466 269,3470 277,3463 284,3468 310,3468 313,3425 301,3425 293,3430 284,3420 274,3420 255,3430 240,3430 228,3420 219,3420" rendition="Line" xml:id="facs_92_tr_2_tl_8"/>
+            <zone points="601,3470 623,3470 649,3456 657,3456 671,3470 681,3470 705,3454 726,3466 760,3461 760,3427 721,3432 700,3422 693,3430 685,3422 664,3418 642,3420 630,3432 623,3425 601,3427" rendition="Line" xml:id="facs_92_tr_2_tl_9"/>
+            <zone points="1121,3458 1154,3458 1164,3468 1176,3468 1183,3461 1215,3461 1215,3432 1186,3430 1178,3437 1169,3437 1150,3422 1121,3422" rendition="Line" xml:id="facs_92_tr_2_tl_10"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0566.jpg" n="part4_p092.jpg" xml:id="img_0092" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p092.jpg"/>
+            
+            <ab facs="#facs_92_tr_1">
+               <lb facs="#facs_92_tr_1_tl_1" n="N001"/>-ut.
+               <lb facs="#facs_92_tr_1_tl_2" n="N002"/>which he puts against other elements in order to break down a fixed authoritarian system.
+               <lb facs="#facs_92_tr_1_tl_3" n="N003"/>On the other hand, the kraditionalist who is willing to maintain all the tradition's doesn’t know
+               <lb facs="#facs_92_tr_1_tl_4" n="N004"/>that his act of ;maintaining them is already an act of transforming them, namely of taking them
+               <lb facs="#facs_92_tr_1_tl_5" n="N005"/>into theoregory of the situation out of which he wants to reerstablish them. So we have here the
+               <lb facs="#facs_92_tr_1_tl_6" n="N006"/>situation that, since there cannot be authority in principle but there must beiauth.-rity in fact,
+               <lb facs="#facs_92_tr_1_tl_7" n="N007"/>so there cannot be a tradition which is immovable, but there must be tradition even for those
+               <lb facs="#facs_92_tr_1_tl_8" n="N008"/>who rebell against a fixed tradition. They can rebel against it only in the power of elements which
+               <lb facs="#facs_92_tr_1_tl_9" n="N009"/>are present IN the tradition. This, I hope, gives some answers.
+               <lb facs="#facs_92_tr_1_tl_10" n="N010"/>Now I will then come next Tuesday to the sociological-political realm more directly
+               <lb facs="#facs_92_tr_1_tl_11" n="N011"/>because Thursday is an lnknown hollday /i.e. Patriot's Day-smiling - daughterl, but we still
+               <lb facs="#facs_92_tr_1_tl_12" n="N012"/>have three hours, which will give us ample possibility...
+            </ab>
+            <ab facs="#facs_92_tr_2">
+               <lb facs="#facs_92_tr_2_tl_1" n="N001"/>dʼune manière vieuse
+               <lb facs="#facs_92_tr_2_tl_2" n="N002"/>dʼune manière
+               <lb facs="#facs_92_tr_2_tl_3" n="N003"/>pour notre
+               <lb facs="#facs_92_tr_2_tl_4" n="N004"/>Monsieur, que je mʼadresse à mon frere,
+               <lb facs="#facs_92_tr_2_tl_5" n="N005"/>Monsieur
+               <lb facs="#facs_92_tr_2_tl_6" n="N006"/>Monsieur,
+               <lb facs="#facs_92_tr_2_tl_7" n="N007"/>cʼest en
+               <lb facs="#facs_92_tr_2_tl_8" n="N008"/>des idées
+               <lb facs="#facs_92_tr_2_tl_9" n="N009"/>dʼune manière
+               <lb facs="#facs_92_tr_2_tl_10" n="N010"/>dans le
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

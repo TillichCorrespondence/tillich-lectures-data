@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p267</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p267</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_267">
+         <graphic url="TL-0267.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WTBBOEUPNZMVCWRHMVALIQCR&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="337,242 337,3476 2325,3476 2302,1520 2325,242" rendition="TextRegion" xml:id="facs_267_tr_1">
+            <zone points="1218,323 1231,326 1238,336 1258,333 1266,341 1290,333 1303,336 1310,331 1325,331 1328,276 1295,276 1280,259 1268,261 1256,273 1241,278 1218,276" rendition="Line" xml:id="facs_267_tr_1_tl_1"/>
+            <zone points="557,480 2173,492 2146,420 559,438" rendition="Line" xml:id="facs_267_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="356,627 2193,636 2193,569 356,599" rendition="Line" xml:id="facs_267_tr_1_tl_3"/>
+            <zone points="361,788 2310,783 2310,728 2233,726 361,733" rendition="Line" xml:id="facs_267_tr_1_tl_4"/>
+            <zone points="557,935 733,940 830,994 873,962 1213,980 1280,932 2158,932 2158,878 557,880" rendition="Line" xml:id="facs_267_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="351,1084 2203,1084 2203,1024 761,1049 512,1017 351,1054" rendition="Line" xml:id="facs_267_tr_1_tl_6"/>
+            <zone points="343,1233 2185,1241 2175,1176 343,1206" rendition="Line" xml:id="facs_267_tr_1_tl_7"/>
+            <zone points="353,1397 1054,1387 1124,1435 1551,1442 2148,1417 2148,1328 353,1333" rendition="Line" xml:id="facs_267_tr_1_tl_8"/>
+            <zone points="341,1556 390,1589 559,1546 671,1606 1012,1534 2128,1549 2128,1462 1812,1509 341,1507" rendition="Line" xml:id="facs_267_tr_1_tl_9"/>
+            <zone points="348,1698 2235,1693 2235,1633 348,1663" rendition="Line" xml:id="facs_267_tr_1_tl_10"/>
+            <zone points="338,1837 2262,1840 2218,1780 338,1788" rendition="Line" xml:id="facs_267_tr_1_tl_11"/>
+            <zone points="348,1991 368,1996 428,1996 435,2001 475,1996 475,1939 348,1939" rendition="Line" xml:id="facs_267_tr_1_tl_12"/>
+            <zone points="547,2076 1002,2086 1186,2066 1186,2029 1141,2031 1114,2004 1084,2034 1044,2004 1012,2034 942,2034 912,2004 604,2031 547,1999" rendition="Line" xml:id="facs_267_tr_1_tl_14"/>
+            <zone points="328,2205 868,2218 927,2275 1425,2258 1477,2210 2178,2225 2178,2161 328,2180" rendition="Line" xml:id="facs_267_tr_1_tl_15"/>
+            <zone points="336,2372 2228,2382 2193,2307 336,2320" rendition="Line" xml:id="facs_267_tr_1_tl_16"/>
+            <zone points="333,2516 2170,2526 2143,2454 1422,2491 333,2469" rendition="Line" xml:id="facs_267_tr_1_tl_17"/>
+            <zone points="333,2675 1676,2665 1982,2708 2133,2658 2088,2613 1885,2601 333,2625" rendition="Line" xml:id="facs_267_tr_1_tl_18"/>
+            <zone points="333,2817 955,2844 999,2884 2175,2822 2175,2767 1872,2760 1837,2792 333,2792" rendition="Line" xml:id="facs_267_tr_1_tl_19"/>
+            <zone points="323,2969 696,2976 798,3043 1029,2974 2190,2974 2190,2916 1972,2906 1783,2944 1437,2909 323,2944" rendition="Line" xml:id="facs_267_tr_1_tl_20"/>
+            <zone points="323,3120 1236,3155 2322,3118 2235,3068 323,3073" rendition="Line" xml:id="facs_267_tr_1_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0267.jpg" n="part1_p267.jpg" xml:id="img_0267" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p267.jpg"/>
+            
+            <ab facs="#facs_267_tr_1">
+               <lb facs="#facs_267_tr_1_tl_1" n="N001"/>[263]
+               <lb facs="#facs_267_tr_1_tl_2" n="N002"/>Now this is historically absolutely not true. It is not true that they belong simply
+               <lb facs="#facs_267_tr_1_tl_3" n="N003"/>together---ONE LINE of them belongs together. And both <rs type="person">Plato</rs> and this line---which I called
+               <lb facs="#facs_267_tr_1_tl_4" n="N004"/>the <rs type="keyword" ref="#Augustinian">Augustinian </rs>line in the Middle Ages and the modern times---is the line of mathematical science.
+               <lb facs="#facs_267_tr_1_tl_5" n="N005"/>Now the psychosomatic description of man comes near again to <rs type="person">Aristotle</rs>, to his
+               <lb facs="#facs_267_tr_1_tl_6" n="N006"/>understanding of the human body as the matter to the form which is the human soul, and the
+               <lb facs="#facs_267_tr_1_tl_7" n="N007"/>human soul as the matter to the form which is the human mind. In this way a new unity has
+               <lb facs="#facs_267_tr_1_tl_8" n="N008"/>been reestablished by the very fact of the <rs type="keyword" ref="#Aristotelianism">Aristotelian</rs> thinking in terms of potentiality and
+               <lb facs="#facs_267_tr_1_tl_9" n="N009"/>actuality, of matter and form, of <hi style="font-style: italic;">entelechaia</hi>---the soul is the <hi style="font-style: italic;">entelechaia</hi>, the inner form,
+               <lb facs="#facs_267_tr_1_tl_10" n="N010"/>of the body. The rediscovery of this was made in the 20th century, mostly through medical
+               <lb facs="#facs_267_tr_1_tl_11" n="N011"/>insights into the dependence of the body on the movements of the soul, healthy or sick, and vice
+               <lb facs="#facs_267_tr_1_tl_12" n="N012"/>versa.
+               <lb facs="#facs_267_tr_1_tl_14" n="N013"/>Now I wouldn't say, again, that <rs type="person">Odysseus</rs> has reached his home. We don't
+               <lb facs="#facs_267_tr_1_tl_15" n="N014"/>know yet really what that is, "psychosomatic medicine." We use that word often very glibly
+               <lb facs="#facs_267_tr_1_tl_16" n="N015"/>and without real understanding of what is involved. We use the category of causality---the body
+               <lb facs="#facs_267_tr_1_tl_17" n="N016"/>influences the mind and the mind influences the body---but probably this category is entirely
+               <lb facs="#facs_267_tr_1_tl_18" n="N017"/>inadequate. Perhaps we should say: there is one reality, which the Greeks called <hi style="font-style: italic;">psyché</hi>---
+               <lb facs="#facs_267_tr_1_tl_19" n="N018"/>when we translate it by "soul," we immediately are in a wrong connotation. Perhaps we had
+               <lb facs="#facs_267_tr_1_tl_20" n="N019"/>better translate it by "life process"---that is what <hi style="font-style: italic;">psyché</hi> in Greek means---the one life process
+               <lb facs="#facs_267_tr_1_tl_21" n="N020"/>which expresses itself at the same time bodily, in terms of time and space and individual substance---
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

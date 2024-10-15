@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part3_p068</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p068</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_68">
+         <graphic url="TL-0460.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=IBVRKZFMPPTDDREGQMZOTSUO&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="325,305 2322,305 2322,1663 325,1663" rendition="TextRegion" xml:id="facs_68_tr_1">
+            <zone points="1118,362 1153,367 1160,374 1225,374 1229,369 1239,369 1239,302 1115,310" rendition="Line" xml:id="facs_68_tr_1_tl_1"/>
+            <zone points="327,533 414,580 1470,580 1542,523 2315,521 2251,441 1795,476 1720,402 1636,476 327,456" rendition="Line" xml:id="facs_68_tr_1_tl_2"/>
+            <zone points="317,667 1990,684 2194,635 317,644" rendition="Line" xml:id="facs_68_tr_1_tl_3"/>
+            <zone points="320,820 2184,825 2127,768 320,776" rendition="Line" xml:id="facs_68_tr_1_tl_4"/>
+            <zone points="1163,932 1175,930 1187,942 1197,934 1247,939 1244,875 1225,875 1210,892 1197,892 1177,873 1160,875" rendition="Line" xml:id="facs_68_tr_1_tl_5"/>
+            <zone points="315,967 2010,996 2181,974 2184,925 315,927" rendition="Line" xml:id="facs_68_tr_1_tl_6"/>
+            <zone points="315,1120 2191,1123 2154,1058 315,1078" rendition="Line" xml:id="facs_68_tr_1_tl_7"/>
+            <zone points="317,1277 345,1286 459,1282 478,1294 503,1286 501,1227 357,1225 335,1247 315,1247" rendition="Line" xml:id="facs_68_tr_1_tl_8"/>
+            <zone points="545,1356 2298,1351 2231,1272 1351,1316 545,1282" rendition="Line" xml:id="facs_68_tr_1_tl_9"/>
+            <zone points="312,1500 1886,1522 2211,1497 2211,1445 312,1472" rendition="Line" xml:id="facs_68_tr_1_tl_10"/>
+            <zone points="320,1651 2238,1653 2238,1596 320,1601" rendition="Line" xml:id="facs_68_tr_1_tl_11"/>
+         </zone>
+         <zone points="316,1741 2245,1741 2245,2413 316,2413" rendition="TextRegion" xml:id="facs_68_tr_3">
+            <zone points="312,1795 2238,1812 2241,1750 315,1752" rendition="Line" xml:id="facs_68_tr_3_tl_1"/>
+            <zone points="307,1948 2221,1956 2221,1901 2144,1889 1515,1869 1391,1921 307,1904" rendition="Line" xml:id="facs_68_tr_3_tl_2"/>
+            <zone points="312,2109 2005,2112 2119,2102 2119,2050 312,2060" rendition="Line" xml:id="facs_68_tr_3_tl_3"/>
+            <zone points="312,2261 2050,2253 2050,2206 1866,2191 312,2194" rendition="Line" xml:id="facs_68_tr_3_tl_4"/>
+            <zone points="302,2407 1559,2422 2166,2402 2166,2352 302,2380" rendition="Line" xml:id="facs_68_tr_3_tl_5"/>
+         </zone>
+         <zone points="97,2493 2257,2493 2257,3482 97,3482" rendition="TextRegion" xml:id="facs_68_tr_2">
+            <zone points="300,2553 1091,2595 2184,2558 2206,2501 300,2531" rendition="Line" xml:id="facs_68_tr_2_tl_1"/>
+            <zone points="610,2707 1428,2709 1443,2657 610,2662" rendition="Line" xml:id="facs_68_tr_2_tl_2"/>
+            <zone points="300,2712 342,2717 350,2724 384,2722 387,2662 374,2662 362,2675 342,2657 325,2662 302,2662" rendition="Line" xml:id="facs_68_tr_2_tl_3"/>
+            <zone points="523,2781 2082,2784 2251,2771 2251,2719 523,2737" rendition="Line" xml:id="facs_68_tr_2_tl_4"/>
+            <zone points="297,2932 1973,2932 2181,2922 2181,2873 297,2890" rendition="Line" xml:id="facs_68_tr_2_tl_5"/>
+            <zone points="297,3089 2176,3079 2199,3022 297,3041" rendition="Line" xml:id="facs_68_tr_2_tl_6"/>
+            <zone points="302,3240 1011,3245 1011,3188 302,3190" rendition="Line" xml:id="facs_68_tr_2_tl_7"/>
+            <zone points="1220,3453 1234,3453 1267,3478 1286,3470 1299,3478 1321,3468 1346,3478 1400,3478 1410,3468 1428,3468 1425,3331 1217,3331" rendition="Line" xml:id="facs_68_tr_2_tl_8"/>
+            <zone points="957,3478 979,3478 1001,3468 1011,3478 1081,3480 1103,3458 1128,3460 1130,3356 1068,3361 1004,3356 959,3364" rendition="Line" xml:id="facs_68_tr_2_tl_9"/>
+            <zone points="84,3460 245,3433 280,3463 397,3441 493,3470 518,3445 622,3445 622,3376 164,3374 84,3391" rendition="Line" xml:id="facs_68_tr_2_tl_10"/>
+            <zone points="84,3480 387,3478 387,3453 340,3443 332,3450 263,3445 253,3436 159,3453 102,3428 82,3431" rendition="Line" xml:id="facs_68_tr_2_tl_11"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0460.jpg" n="part3_p068.jpg" xml:id="img_0068" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p068.jpg"/>
+            
+            <ab facs="#facs_68_tr_1">
+               <lb facs="#facs_68_tr_1_tl_1" n="N001"/>-455-
+               <lb facs="#facs_68_tr_1_tl_2" n="N002"/>I am now very near to the psychophological problematic, which we haveavssed at the end of the
+               <lb facs="#facs_68_tr_1_tl_3" n="N003"/>first semester. What the psychoanalysts tried to do—if you take that word in the largest sense--
+               <lb facs="#facs_68_tr_1_tl_4" n="N004"/>is just this, namely to open up what is cut off by the idea of personality, as it has developed in
+               <lb facs="#facs_68_tr_1_tl_5" n="N005"/>has
+               <lb facs="#facs_68_tr_1_tl_6" n="N006"/>Protestantism and humanism, and of course largely grasped, especially in this country, also the
+               <lb facs="#facs_68_tr_1_tl_7" n="N007"/>Catholic section of this country and, even more than the Protestant, the Jewish section of this
+               <lb facs="#facs_68_tr_1_tl_8" n="N008"/>country.
+               <lb facs="#facs_68_tr_1_tl_9" n="N009"/>Now in all these group we have a strong development of the idea of personality, and for
+               <lb facs="#facs_68_tr_1_tl_10" n="N010"/>this reason something has happened which is characteristic for it: the more the personality idea)
+               <lb facs="#facs_68_tr_1_tl_11" n="N011"/>was predominant, the more psychoanalysis was needed. It is LEAST needed in Roman
+            </ab>
+            <ab facs="#facs_68_tr_3">
+               <lb facs="#facs_68_tr_3_tl_1" n="N001"/>Catholic section; it is MoST needed, at least statistically, in Jewish groups; and again never to it,
+               <lb facs="#facs_68_tr_3_tl_2" n="N002"/>in Protestant group. This means that this picture [?], which makes the situation especially clear,
+               <lb facs="#facs_68_tr_3_tl_3" n="N003"/>cut off from the vital sources of life by the commandments which come from the law, be it
+               <lb facs="#facs_68_tr_3_tl_4" n="N004"/>humanistic or religious. [?] This is the reason for a large amount of mental disease, or
+               <lb facs="#facs_68_tr_3_tl_5" n="N005"/>ofontic explosion which may ruin the personality definitively, if he is not able to Hvercome
+            </ab>
+            <ab facs="#facs_68_tr_2">
+               <lb facs="#facs_68_tr_2_tl_1" n="N001"/>the chaos; and very often, after he has gone through the chaos, he returns to another protection
+               <lb facs="#facs_68_tr_2_tl_2" n="N002"/>obKdience to an even more represive law.
+               <lb facs="#facs_68_tr_2_tl_3" n="N003"/>by
+               <lb facs="#facs_68_tr_2_tl_4" n="N004"/>Now these deyelopments are so frequent that I believe the analyst and the minister and
+               <lb facs="#facs_68_tr_2_tl_5" n="N005"/>the courselor-who is every Protestant, in Protestantism—should help the other one to find the
+               <lb facs="#facs_68_tr_2_tl_6" n="N006"/>approach to his vital sources without the fremendous waiety which is produced if the norm of
+               <lb facs="#facs_68_tr_2_tl_7" n="N007"/>repression are still alive in a person.
+               <lb facs="#facs_68_tr_2_tl_8" n="N008"/>dʼun autre
+               <lb facs="#facs_68_tr_2_tl_9" n="N009"/>que je suis
+               <lb facs="#facs_68_tr_2_tl_10" n="N010"/>Mais elle est vrai avec lʼhonneur dʼune
+               <lb facs="#facs_68_tr_2_tl_11" n="N011"/>décrire dernier une lettre est
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

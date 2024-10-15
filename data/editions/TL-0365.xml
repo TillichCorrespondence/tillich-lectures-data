@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p081</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p081</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_81">
+         <graphic url="TL-0365.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FPXJJTJFMJUHOEUGSFECXZIR&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,287 2277,287 2277,1717 298,1717" rendition="TextRegion" xml:id="facs_81_tr_1">
+            <zone points="1149,347 1161,344 1198,357 1255,357 1264,347 1282,347 1279,303 1245,305 1225,285 1215,293 1205,290 1193,303 1146,303" rendition="Line" xml:id="facs_81_tr_1_tl_1"/>
+            <zone points="308,509 2229,509 2091,433 1077,462 809,369 630,462 308,423" rendition="Line" xml:id="facs_81_tr_1_tl_2"/>
+            <zone points="300,654 2224,662 2224,605 1277,627 839,608 787,556 723,608 300,608" rendition="Line" xml:id="facs_81_tr_1_tl_3"/>
+            <zone points="298,807 2192,804 2091,740 298,755" rendition="Line" xml:id="facs_81_tr_1_tl_4"/>
+            <zone points="298,957 2152,964 2268,957 2271,905 300,908" rendition="Line" xml:id="facs_81_tr_1_tl_5"/>
+            <zone points="290,1102 2221,1117 2221,1048 290,1075" rendition="Line" xml:id="facs_81_tr_1_tl_6"/>
+            <zone points="290,1252 2263,1262 2263,1203 290,1223" rendition="Line" xml:id="facs_81_tr_1_tl_7"/>
+            <zone points="288,1402 2130,1412 2130,1358 2037,1341 288,1360" rendition="Line" xml:id="facs_81_tr_1_tl_8"/>
+            <zone points="285,1552 2229,1560 2229,1506 2091,1501 285,1508" rendition="Line" xml:id="facs_81_tr_1_tl_9"/>
+            <zone points="288,1707 2175,1717 2175,1660 2081,1646 288,1668" rendition="Line" xml:id="facs_81_tr_1_tl_10"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0365.jpg" n="part2_p081.jpg" xml:id="img_0081" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p081.jpg"/>
+            
+            <ab facs="#facs_81_tr_1">
+               <lb facs="#facs_81_tr_1_tl_1" n="N001"/>[360]
+               <lb facs="#facs_81_tr_1_tl_2" n="N002"/>38) SUTHERLAND, <hi style="font-style: italic;">CRUCIFIXION</hi>--This is the last picture, by an American painter. You see
+               <lb facs="#facs_81_tr_1_tl_3" n="N003"/>the similarity to the Grünewald in many respects. It is with modern means an attempt to produce
+               <lb facs="#facs_81_tr_1_tl_4" n="N004"/>the same powerful impression which we have in this Grünewald picture. I only want to tell you
+               <lb facs="#facs_81_tr_1_tl_5" n="N005"/>at the end of this section, that this is not a matter of mere subjectivity, but that in this development
+               <lb facs="#facs_81_tr_1_tl_6" n="N006"/>of problems and of pictures which I have given you, the reality of our own life, namely the reality
+               <lb facs="#facs_81_tr_1_tl_7" n="N007"/>of our historical existence today, is expressed in example and counter-example. And for this reason
+               <lb facs="#facs_81_tr_1_tl_8" n="N008"/>I was glad that I could give you this very much concrete illustration for the abstract concepts
+               <lb facs="#facs_81_tr_1_tl_9" n="N009"/>I gave you in this whole lecture. Now Thursday we will then start with an analysis of a kind which
+               <lb facs="#facs_81_tr_1_tl_10" n="N010"/>CAN produce styles like that on the second level, and like this [Sutherland] on the fourth level.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

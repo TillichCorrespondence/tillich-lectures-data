@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p084</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p084</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_84">
+         <graphic url="TL-0368.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LLYMOLKCZSSPGEKBXEEEWUCO&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="256,299 2337,299 2337,1834 256,1834" rendition="TextRegion" xml:id="facs_84_tr_1">
+            <zone points="1096,351 1109,351 1129,367 1218,367 1221,312 1195,315 1169,286 1158,289 1137,310 1098,310" rendition="Line" xml:id="facs_84_tr_1_tl_1"/>
+            <zone points="250,520 2233,518 2236,463 627,432 252,479" rendition="Line" xml:id="facs_84_tr_1_tl_2"/>
+            <zone points="242,664 2306,661 2321,599 674,635 612,580 242,638" rendition="Line" xml:id="facs_84_tr_1_tl_3"/>
+            <zone points="242,815 2199,815 2199,757 242,786" rendition="Line" xml:id="facs_84_tr_1_tl_4"/>
+            <zone points="250,973 2098,966 2134,906 250,926" rendition="Line" xml:id="facs_84_tr_1_tl_5"/>
+            <zone points="260,1080 1338,1101 2118,1062 2118,1015 260,1033" rendition="Line" xml:id="facs_84_tr_1_tl_7"/>
+            <zone points="245,1236 1845,1231 2181,1213 2181,1150 245,1174" rendition="Line" xml:id="facs_84_tr_1_tl_8"/>
+            <zone points="247,1374 2030,1390 2118,1369 2118,1312 247,1330" rendition="Line" xml:id="facs_84_tr_1_tl_9"/>
+            <zone points="242,1522 2329,1522 2329,1455 242,1496" rendition="Line" xml:id="facs_84_tr_1_tl_10"/>
+            <zone points="250,1676 2150,1668 2212,1608 250,1629" rendition="Line" xml:id="facs_84_tr_1_tl_11"/>
+            <zone points="247,1830 2186,1830 2202,1762 1372,1791 1031,1731 247,1796" rendition="Line" xml:id="facs_84_tr_1_tl_12"/>
+         </zone>
+         <zone points="250,1917 2215,1917 2215,2902 250,2902" rendition="TextRegion" xml:id="facs_84_tr_3">
+            <zone points="242,1983 2126,1988 2126,1921 242,1957" rendition="Line" xml:id="facs_84_tr_3_tl_1"/>
+            <zone points="239,2142 2210,2126 2212,2072 239,2103" rendition="Line" xml:id="facs_84_tr_3_tl_2"/>
+            <zone points="245,2285 1915,2290 2189,2280 2189,2223 245,2241" rendition="Line" xml:id="facs_84_tr_3_tl_3"/>
+            <zone points="239,2441 2176,2431 2176,2363 239,2413" rendition="Line" xml:id="facs_84_tr_3_tl_4"/>
+            <zone points="245,2589 2012,2589 2150,2584 2150,2527 245,2545" rendition="Line" xml:id="facs_84_tr_3_tl_5"/>
+            <zone points="234,2740 2129,2735 2202,2725 2202,2668 237,2714" rendition="Line" xml:id="facs_84_tr_3_tl_6"/>
+            <zone points="242,2894 2165,2878 2165,2821 242,2847" rendition="Line" xml:id="facs_84_tr_3_tl_7"/>
+         </zone>
+         <zone points="38,2965 2221,2965 2221,3485 38,3485" rendition="TextRegion" xml:id="facs_84_tr_2">
+            <zone points="242,3050 2210,3029 2210,2964 242,3019" rendition="Line" xml:id="facs_84_tr_2_tl_1"/>
+            <zone points="232,3196 2056,3188 2215,3180 2215,3113 232,3170" rendition="Line" xml:id="facs_84_tr_2_tl_2"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0368.jpg" n="part2_p084.jpg" xml:id="img_0084" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p084.jpg"/>
+            
+            <ab facs="#facs_84_tr_1">
+               <lb facs="#facs_84_tr_1_tl_1" n="N001"/>[363]
+               <lb facs="#facs_84_tr_1_tl_2" n="N002"/>indeed what they want; they want to concentrate exclusively on special groups in a special situation,
+               <lb facs="#facs_84_tr_1_tl_3" n="N003"/>and leave out and deny the possibility of the question, ''How could that come out of the nature of man?''
+               <lb facs="#facs_84_tr_1_tl_4" n="N004"/>I ASK this question, and am not afraid--against all these groups, which I have met and with whom
+               <lb facs="#facs_84_tr_1_tl_5" n="N005"/>I have discussed these problems--to say there are underlying structures which make the changes
+               <lb facs="#facs_84_tr_1_tl_7" n="N006"/>possible. If there is no point of identity which makes [change?] possible, no change EITHER does exist.
+               <lb facs="#facs_84_tr_1_tl_8" n="N007"/>Now this answer of course must be concretely carried through. I remember in my discussion with
+               <lb facs="#facs_84_tr_1_tl_9" n="N008"/>Marxists that there always was the point that they said: if you say anything about man, this is
+               <lb facs="#facs_84_tr_1_tl_10" n="N009"/>reactionary because that means that man cannot be changed, that presentday [sic.] society must be maintained,
+               <lb facs="#facs_84_tr_1_tl_11" n="N010"/>etc. Now there is much truth in this. Many people use [the concept] ''an eternal nature of man''--
+               <lb facs="#facs_84_tr_1_tl_12" n="N011"/>especially Lutheran theologians--namely the distorted nature of man, which makes any political change
+            </ab>
+            <ab facs="#facs_84_tr_3">
+               <lb facs="#facs_84_tr_3_tl_1" n="N001"/>impossible. Against this, certainly the Marxist criticism is justified. But when they say: to say
+               <lb facs="#facs_84_tr_3_tl_2" n="N002"/>something MORE than this about man, you must wait to the day after the perfect revolution--then
+               <lb facs="#facs_84_tr_3_tl_3" n="N003"/>this is a statement which is not only absurd but which is also self-contradictory because how
+               <lb facs="#facs_84_tr_3_tl_4" n="N004"/>do you know, about the nature of man, that, after the REVOLUTION, the true nature of man will
+               <lb facs="#facs_84_tr_3_tl_5" n="N005"/>come out? So I am not afraid of this. Now this belongs to an earlier period of my development;
+               <lb facs="#facs_84_tr_3_tl_6" n="N006"/>the presentday [sic.] discussion would be more with anthropologists and sociologists who in this respect
+               <lb facs="#facs_84_tr_3_tl_7" n="N007"/>are completely in the same boat with the Marxists, namely to say that man has no nature but has
+            </ab>
+            <ab facs="#facs_84_tr_2">
+               <lb facs="#facs_84_tr_2_tl_1" n="N001"/>only different social structures, they all are different in different societies, and that is what we have
+               <lb facs="#facs_84_tr_2_tl_2" n="N002"/>to deal with. There is no basic anxiety, there is no basic courage, there is no basic freedom, there is
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

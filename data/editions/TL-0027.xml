@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p027</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p027</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_27">
+         <graphic url="TL-0027.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FWGFFNSJZWLOGFTAYXBVKQKC&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="173,269 173,3450 2197,3450 2197,269" rendition="TextRegion" xml:id="facs_27_tr_4">
+            <zone points="1191,316 1203,316 1213,325 1223,328 1245,328 1250,323 1265,325 1274,316 1287,316 1287,283 1274,283 1260,266 1240,264 1223,281 1191,281" rendition="Line" xml:id="facs_27_tr_4_tl_1"/>
+            <zone points="190,515 976,535 1205,483 1311,547 1420,547 1634,513 2019,540 2098,493 2061,441 1114,458 924,409 340,441 190,409" rendition="Line" xml:id="facs_27_tr_4_tl_2"/>
+            <zone points="160,611 483,569 1028,579 1028,535 813,523 269,537 160,463" rendition="Line" xml:id="facs_27_tr_4_tl_3"/>
+            <zone points="481,742 858,742 922,781 1910,747 1910,685 481,695" rendition="Line" xml:id="facs_27_tr_4_tl_4" subtype="paragraph"/>
+            <zone points="234,823 2149,826 2149,779 2068,772 234,779" rendition="Line" xml:id="facs_27_tr_4_tl_5"/>
+            <zone points="234,915 1440,934 1511,902 1711,951 2149,947 2125,855 234,868" rendition="Line" xml:id="facs_27_tr_4_tl_6"/>
+            <zone points="234,1016 2182,996 2157,939 234,951" rendition="Line" xml:id="facs_27_tr_4_tl_7"/>
+            <zone points="229,1080 488,1070 606,1124 2149,1085 2120,1023 229,1035" rendition="Line" xml:id="facs_27_tr_4_tl_8"/>
+            <zone points="227,1161 2154,1173 2154,1119 2100,1107 227,1122" rendition="Line" xml:id="facs_27_tr_4_tl_9"/>
+            <zone points="224,1245 1380,1242 1553,1294 2149,1252 2149,1205 2088,1191 224,1203" rendition="Line" xml:id="facs_27_tr_4_tl_10"/>
+            <zone points="219,1329 333,1375 2164,1343 2164,1289 2019,1277 219,1289" rendition="Line" xml:id="facs_27_tr_4_tl_11"/>
+            <zone points="219,1410 2103,1417 2103,1375 2009,1363 219,1373" rendition="Line" xml:id="facs_27_tr_4_tl_12"/>
+            <zone points="219,1506 2024,1506 2024,1452 1910,1444 219,1459" rendition="Line" xml:id="facs_27_tr_4_tl_13"/>
+            <zone points="219,1583 1851,1622 2157,1587 2157,1543 1933,1528 219,1543" rendition="Line" xml:id="facs_27_tr_4_tl_14"/>
+            <zone points="219,1671 2164,1676 2164,1620 2115,1612 1743,1644 1543,1610 219,1617" rendition="Line" xml:id="facs_27_tr_4_tl_15"/>
+            <zone points="212,1753 367,1753 426,1797 779,1750 2164,1758 2135,1701 212,1721" rendition="Line" xml:id="facs_27_tr_4_tl_16"/>
+            <zone points="212,1829 2110,1844 2110,1785 212,1797" rendition="Line" xml:id="facs_27_tr_4_tl_17"/>
+            <zone points="214,1923 2191,1933 2191,1866 214,1866" rendition="Line" xml:id="facs_27_tr_4_tl_18"/>
+            <zone points="214,2009 577,2053 865,2053 939,2004 1013,2051 2140,2011 2140,1965 1817,1952 214,1965" rendition="Line" xml:id="facs_27_tr_4_tl_19"/>
+            <zone points="212,2088 224,2085 229,2090 279,2095 291,2090 338,2093 338,2043 306,2039 291,2051 286,2046 256,2048 244,2036 212,2039" rendition="Line" xml:id="facs_27_tr_4_tl_20"/>
+            <zone points="466,2169 979,2164 1025,2211 2110,2196 2110,2095 466,2095" rendition="Line" xml:id="facs_27_tr_4_tl_21" subtype="paragraph"/>
+            <zone points="212,2275 1772,2307 1827,2255 2194,2265 2194,2204 212,2189" rendition="Line" xml:id="facs_27_tr_4_tl_22"/>
+            <zone points="212,2342 276,2374 614,2354 882,2369 882,2288 710,2315 641,2288 471,2315 372,2283 320,2307 212,2297" rendition="Line" xml:id="facs_27_tr_4_tl_23"/>
+            <zone points="461,2426 683,2418 767,2470 1351,2418 2056,2430 2056,2379 1933,2371 461,2374" rendition="Line" xml:id="facs_27_tr_4_tl_24" subtype="paragraph"/>
+            <zone points="200,2502 296,2551 582,2512 673,2556 1122,2546 1166,2509 1205,2549 1523,2559 1671,2512 2061,2517 2061,2467 2007,2455 1878,2485 1464,2418 1136,2470 200,2480" rendition="Line" xml:id="facs_27_tr_4_tl_25"/>
+            <zone points="200,2588 2071,2618 2071,2527 1994,2517 1698,2569 200,2554" rendition="Line" xml:id="facs_27_tr_4_tl_26"/>
+            <zone points="207,2716 2021,2682 2021,2635 1839,2623 207,2630" rendition="Line" xml:id="facs_27_tr_4_tl_27"/>
+            <zone points="200,2756 1082,2758 1225,2805 1309,2758 2039,2766 2039,2726 1960,2709 1607,2739 1383,2726 1329,2684 200,2736" rendition="Line" xml:id="facs_27_tr_4_tl_28"/>
+            <zone points="195,2840 1092,2845 1218,2887 2127,2852 2127,2803 1881,2793 195,2805" rendition="Line" xml:id="facs_27_tr_4_tl_29"/>
+            <zone points="200,2931 320,2980 781,2983 981,2928 2078,2938 2078,2879 200,2904" rendition="Line" xml:id="facs_27_tr_4_tl_30"/>
+            <zone points="190,3010 2026,3020 2026,2963 1343,2980 1304,2941 1085,2926 813,2980 190,2975" rendition="Line" xml:id="facs_27_tr_4_tl_31"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0027.jpg" n="part1_p027.jpg" xml:id="img_0027" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p027.jpg"/>
+            
+            <ab facs="#facs_27_tr_4">
+               <lb facs="#facs_27_tr_4_tl_1" n="N001"/>[24]
+               <lb facs="#facs_27_tr_4_tl_2" n="N002"/>was a real experience of my generation, and only for THIS reason did I come to this
+               <lb facs="#facs_27_tr_4_tl_3" n="N003"/>concept of faith as ultimate concern.
+               <lb facs="#facs_27_tr_4_tl_4" n="N004"/>In view of these dangers of a misguided faith, the question arises:
+               <lb facs="#facs_27_tr_4_tl_5" n="N005"/>How is it possible to affirm anything, in terms of faith? My answer (some of you have
+               <lb facs="#facs_27_tr_4_tl_6" n="N006"/>seen or read my book, <hi style="font-style: italic;">The Courage to Be</hi>) is: Courage!--courage to take upon oneself
+               <lb facs="#facs_27_tr_4_tl_7" n="N007"/>the risk of faith, the courage to affirm one's own being in spite of the threat of idolatric
+               <lb facs="#facs_27_tr_4_tl_8" n="N008"/>distortion. This courage is demanded by every human being, and the real danger, which
+               <lb facs="#facs_27_tr_4_tl_9" n="N009"/>may lead to complete neurotic or psychotic breakdown, is that he is not able to develop
+               <lb facs="#facs_27_tr_4_tl_10" n="N010"/>this courage any more and may come to ruin, which may result in self-destruction. But
+               <lb facs="#facs_27_tr_4_tl_11" n="N011"/>courage cannot result from willful acts (''I WANT to have courage!'') etc. Last Tuesday
+               <lb facs="#facs_27_tr_4_tl_12" n="N012"/>I<rs type="keyword" ref="#Faith"> spoke about what faith was NOT, in terms of an affirmation of a statement without
+               <lb break="no" facs="#facs_27_tr_4_tl_13" n="N013"/>much evidence. Here in this city, which is the city of William James, I also should
+               <lb break="no" facs="#facs_27_tr_4_tl_14" n="N014"/>speak about the term "will to believe." But faith is neither a matter of will. You cannot
+               <lb break="no" facs="#facs_27_tr_4_tl_15" n="N015"/>PRODUCE faith, you cannot produce the courage to affirm yourselves, in the ULTIMATE
+               <lb break="no" facs="#facs_27_tr_4_tl_16" n="N016"/>sense, by will-power. You can have will-power to follow through your ultimate concern in
+               <lb break="no" facs="#facs_27_tr_4_tl_17" n="N017"/>terms of complete surrender, but you cannot do it in terms of the production of faith.
+               <lb break="no" facs="#facs_27_tr_4_tl_18" n="N018"/>He who produces faith with an act of will (in theological groups, often called ''obedience'')
+               <lb break="no" facs="#facs_27_tr_4_tl_19" n="N019"/>must either already have faith or he commits a willful act which breaks down sooner or
+               <lb break="no" facs="#facs_27_tr_4_tl_20" n="N020"/>later.
+               <lb break="no" facs="#facs_27_tr_4_tl_21" n="N021"/>We must therefore say: the courage to be, to have a concrete content of
+               <lb break="no" facs="#facs_27_tr_4_tl_22" n="N022"/>faith, is possible only in the state of being grasped by this ultimate itself, and of accepting
+               <lb break="no" facs="#facs_27_tr_4_tl_23" n="N023"/>the risk to accept this content.</rs>
+               <lb facs="#facs_27_tr_4_tl_24" n="N024"/>Are there no criteria between wrong and true faith, between idolatric and
+               <lb facs="#facs_27_tr_4_tl_25" n="N025"/>destructive faith, and true and healing faith? There is one criterion. And this criterion
+               <lb facs="#facs_27_tr_4_tl_26" n="N026"/>is that whenever something finite claims to be the bearer of ultimate concern, it must
+               <lb facs="#facs_27_tr_4_tl_27" n="N027"/>sacrifice itself in its finitude! This is the last criterion. And in the whole history of
+               <lb facs="#facs_27_tr_4_tl_28" n="N028"/>religion, only those finite realities which denied their own finitude at the same time
+               <lb facs="#facs_27_tr_4_tl_29" n="N029"/>in which they claimed ultimate meaning, were matters of true faith. This is the greatness
+               <lb facs="#facs_27_tr_4_tl_30" n="N030"/>of the fight of the Prophets of the Old Testament. There was the concrete content of
+               <lb facs="#facs_27_tr_4_tl_31" n="N031"/>faith, the Covenant between Yahweh and His nation. And the Prophets realized that
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

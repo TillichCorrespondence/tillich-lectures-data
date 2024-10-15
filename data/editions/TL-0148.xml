@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p148</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p148</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_148">
+         <graphic url="TL-0148.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KLSKOFMKLYXJDPKJAVLJSNAJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="285,259 285,3502 2316,3502 2316,259" rendition="TextRegion" xml:id="facs_148_tr_2">
+            <zone points="1183,328 1205,328 1220,340 1242,335 1249,343 1305,338 1302,279 1268,277 1256,282 1242,279 1230,267 1215,282 1181,284" rendition="Line" xml:id="facs_148_tr_2_tl_1"/>
+            <zone points="362,488 2262,513 2231,452 1786,459 1750,423 1699,459 1567,423 1531,459 1494,423 1120,459 1042,420 1006,457 535,457 498,420 362,457" rendition="Line" xml:id="facs_148_tr_2_tl_2"/>
+            <zone points="360,639 904,651 1004,712 1288,651 2313,661 2313,605 1985,586 360,617" rendition="Line" xml:id="facs_148_tr_2_tl_3"/>
+            <zone points="364,797 593,836 637,804 1601,792 1784,846 1847,792 2248,804 2248,751 1609,736 364,768" rendition="Line" xml:id="facs_148_tr_2_tl_4"/>
+            <zone points="364,945 1038,948 1086,996 1327,996 1373,950 2282,957 2282,906 2005,889 364,899" rendition="Line" xml:id="facs_148_tr_2_tl_5"/>
+            <zone points="364,1106 2136,1101 2095,1033 364,1050" rendition="Line" xml:id="facs_148_tr_2_tl_6"/>
+            <zone points="362,1247 1295,1261 1295,1208 1217,1188 362,1200" rendition="Line" xml:id="facs_148_tr_2_tl_7"/>
+            <zone points="559,1395 693,1446 1137,1395 1181,1436 1344,1443 1400,1402 2287,1405 2287,1341 1125,1368 559,1336" rendition="Line" xml:id="facs_148_tr_2_tl_8" subtype="paragraph"/>
+            <zone points="362,1550 1805,1558 1805,1507 1543,1494 362,1519" rendition="Line" xml:id="facs_148_tr_2_tl_9"/>
+            <zone points="559,1699 790,1699 858,1754 984,1764 1417,1699 2282,1708 2282,1652 559,1650" rendition="Line" xml:id="facs_148_tr_2_tl_10" subtype="paragraph"/>
+            <zone points="357,1842 2231,1891 2231,1810 2180,1793 357,1818" rendition="Line" xml:id="facs_148_tr_2_tl_11"/>
+            <zone points="350,2000 437,2053 926,2051 955,2019 1040,2022 1040,1959 933,1946 350,1956" rendition="Line" xml:id="facs_148_tr_2_tl_12"/>
+            <zone points="542,2146 807,2180 2236,2158 2236,2104 2182,2090 542,2117" rendition="Line" xml:id="facs_148_tr_2_tl_13" subtype="paragraph"/>
+            <zone points="345,2291 578,2308 608,2338 863,2340 926,2296 1307,2308 1307,2248 345,2265" rendition="Line" xml:id="facs_148_tr_2_tl_14"/>
+            <zone points="552,2454 2267,2483 2267,2396 552,2394" rendition="Line" xml:id="facs_148_tr_2_tl_15" subtype="paragraph"/>
+            <zone points="345,2598 2185,2607 2185,2554 1976,2534 345,2554" rendition="Line" xml:id="facs_148_tr_2_tl_16"/>
+            <zone points="347,2743 2206,2756 2206,2702 347,2702" rendition="Line" xml:id="facs_148_tr_2_tl_17"/>
+            <zone points="347,2911 2240,2909 2240,2855 639,2872 471,2836 347,2870" rendition="Line" xml:id="facs_148_tr_2_tl_18"/>
+            <zone points="347,3055 2211,3062 2211,3006 347,3003" rendition="Line" xml:id="facs_148_tr_2_tl_19"/>
+            <zone points="544,3266 1575,3232 1655,3278 1832,3276 2194,3210 2194,3154 544,3154" rendition="Line" xml:id="facs_148_tr_2_tl_20" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0148.jpg" n="part1_p148.jpg" xml:id="img_0148" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p148.jpg"/>
+            
+            <ab facs="#facs_148_tr_2">
+               <lb facs="#facs_148_tr_2_tl_1" n="N001"/>[145]
+
+               <lb facs="#facs_148_tr_2_tl_2" n="N002"/>and if he doesn’t do these three things, he is not a good historian, and I will give you immediately
+               <lb facs="#facs_148_tr_2_tl_3" n="N003"/>the consequences of this... The first and basic is that he tries to state those verifiable facts which
+               <lb facs="#facs_148_tr_2_tl_4" n="N004"/>are important for his enterprise. Now I bring in here the word "important," which I will explain
+               <lb facs="#facs_148_tr_2_tl_5" n="N005"/>much more. But the first thing is: verifiable facts, verifiable in the very narrow limits of historical
+               <lb facs="#facs_148_tr_2_tl_6" n="N006"/>probability, which can never be trespassed and which can never reach the state of scientific
+               <lb facs="#facs_148_tr_2_tl_7" n="N007"/>hypothetical probability. That's the one thing.
+               <lb facs="#facs_148_tr_2_tl_8" n="N008"/>The second thing he does is: explaining. Explaining means to give an account about the
+               <lb facs="#facs_148_tr_2_tl_9" n="N009"/>origin of the facts, of the way they came into existence, of their relations.
+               <lb facs="#facs_148_tr_2_tl_10" n="N010"/>The third: he must UNDERSTAND them. This is the most discussed point in historical
+               <lb facs="#facs_148_tr_2_tl_11" n="N011"/>work, and the only really worthwhile point in all historical enterprise, namely to understand the
+               <lb facs="#facs_148_tr_2_tl_12" n="N012"/>MEANING of the explained facts.
+               <lb facs="#facs_148_tr_2_tl_13" n="N013"/>So we have three things: describing---as it actually has been; explaining---how it came
+               <lb facs="#facs_148_tr_2_tl_14" n="N014"/>to this; and understanding---what it means.
+               <lb facs="#facs_148_tr_2_tl_15" n="N015"/>In doing all this, the historian behaves differently from the scientist. The scientist must
+               <lb facs="#facs_148_tr_2_tl_16" n="N016"/>remain in a complete detachment from the content of his research; he never can go beyond it.
+               <lb facs="#facs_148_tr_2_tl_17" n="N017"/>The historian tries to keep the same attitude--and rightly so---with respect to the facts: "in the
+               <lb facs="#facs_148_tr_2_tl_18" n="N018"/>year so-and-so, Caesar crossed the Rubicon." That is a fact, and this fact must be assured, and it
+               <lb facs="#facs_148_tr_2_tl_19" n="N019"/>can be assured only by the detached analysis of all the documents which point to this fact.
+               <lb facs="#facs_148_tr_2_tl_20" n="N020"/>Then he has to explain, and there, a little bit more of participation is involved. It is
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

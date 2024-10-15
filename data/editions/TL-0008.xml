@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p008</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p008</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_8">
+         <graphic url="TL-0008.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UNLOUUFNOOIJSNVIQLAHIZYN&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="1310,323 1139,323 1139,220 1310,220" rendition="TextRegion" xml:id="facs_8_r">
+            <zone points="1178,291 1289,297 1290,282 1179,276" rendition="Line" xml:id="facs_8_l"/>
+         </zone>
+         <zone points="256,410 256,3489 2391,3489 2391,410" rendition="TextRegion" xml:id="facs_8_tr_4">
+            <zone points="244,486 1736,462 2161,499 2140,366 1938,414 1864,372 1816,419 1705,372 1614,419 940,385 887,435 247,425" rendition="Line" xml:id="facs_8_tr_4_tl_1"/>
+            <zone points="252,608 2257,542 2257,483 1569,515 1370,481 1187,520 820,489 475,534 252,504" rendition="Line" xml:id="facs_8_tr_4_tl_2"/>
+            <zone points="239,658 2127,650 2116,560 242,619" rendition="Line" xml:id="facs_8_tr_4_tl_3"/>
+            <zone points="242,767 2164,749 2164,658 2079,645 242,690" rendition="Line" xml:id="facs_8_tr_4_tl_4"/>
+            <zone points="247,866 704,818 828,860 900,818 1357,839 2066,789 2119,820 2204,794 2206,725 247,773" rendition="Line" xml:id="facs_8_tr_4_tl_5"/>
+            <zone points="250,908 929,940 1142,895 1309,935 1450,881 1731,881 1853,932 1928,884 2026,919 2188,884 2169,794 2047,842 1811,802 1513,850 908,820 828,860 704,818 250,868" rendition="Line" xml:id="facs_8_tr_4_tl_6"/>
+            <zone points="250,1012 990,1014 1086,977 1150,1012 1152,921 374,929 321,953 252,929" rendition="Line" xml:id="facs_8_tr_4_tl_7"/>
+            <zone points="504,1104 1787,1043 2177,1078 2177,988 2127,1009 2047,958 1625,998 1452,932 1256,948 1181,1014 1091,977 974,1027 504,1014" rendition="Line" xml:id="facs_8_tr_4_tl_8" subtype="paragraph"/>
+            <zone points="252,1171 1877,1171 2108,1131 2111,1078 1766,1094 1691,1046 1266,1059 1089,1110 252,1104" rendition="Line" xml:id="facs_8_tr_4_tl_9"/>
+            <zone points="252,1264 807,1235 1136,1269 1296,1219 1389,1253 1492,1219 2233,1251 2233,1160 2135,1139 1707,1187 1651,1144 1516,1176 1243,1150 1192,1192 916,1160 252,1189" rendition="Line" xml:id="facs_8_tr_4_tl_10"/>
+            <zone points="258,1335 377,1370 858,1306 2060,1312 2060,1251 1986,1237 258,1261" rendition="Line" xml:id="facs_8_tr_4_tl_11"/>
+            <zone points="252,1410 624,1447 903,1391 1266,1428 1351,1381 1481,1428 1869,1428 2015,1378 2222,1397 2225,1333 2036,1301 1874,1335 1824,1298 1659,1346 342,1373 255,1335" rendition="Line" xml:id="facs_8_tr_4_tl_12"/>
+            <zone points="252,1492 465,1529 1306,1476 1471,1519 1858,1508 2018,1458 2236,1466 2262,1397 252,1444" rendition="Line" xml:id="facs_8_tr_4_tl_13"/>
+            <zone points="252,1572 669,1604 1025,1556 1848,1572 1978,1535 2190,1572 2387,1556 2390,1492 252,1516" rendition="Line" xml:id="facs_8_tr_4_tl_14"/>
+            <zone points="252,1673 2228,1646 2228,1582 2116,1569 2082,1601 1598,1606 1312,1558 1245,1604 1208,1572 1035,1617 948,1585 749,1620 643,1574 252,1606" rendition="Line" xml:id="facs_8_tr_4_tl_15"/>
+            <zone points="258,1755 544,1795 903,1736 948,1779 1320,1795 1444,1750 1447,1667 260,1694" rendition="Line" xml:id="facs_8_tr_4_tl_16"/>
+            <zone points="507,1922 964,1946 1739,1888 1994,1925 2060,1882 2212,1909 2214,1827 1962,1811 1837,1851 1736,1813 1649,1856 1359,1776 1118,1811 1041,1776 895,1848 507,1856" rendition="Line" xml:id="facs_8_tr_4_tl_17" subtype="paragraph"/>
+            <zone points="260,2018 2137,1999 2137,1922 2087,1906 260,1938" rendition="Line" xml:id="facs_8_tr_4_tl_18"/>
+            <zone points="266,2097 528,2127 743,2082 1322,2111 2233,2071 2228,1981 268,2026" rendition="Line" xml:id="facs_8_tr_4_tl_19"/>
+            <zone points="263,2166 921,2198 1187,2148 1635,2190 2257,2148 2257,2063 2148,2103 1920,2068 1325,2111 754,2084 510,2129 263,2100" rendition="Line" xml:id="facs_8_tr_4_tl_20"/>
+            <zone points="260,2278 717,2291 855,2249 1115,2281 1184,2236 1272,2275 1604,2273 1763,2228 2174,2233 2193,2177 1237,2151 1033,2201 260,2204" rendition="Line" xml:id="facs_8_tr_4_tl_21"/>
+            <zone points="260,2358 873,2358 969,2323 1062,2368 1399,2307 1481,2350 2241,2323 2241,2243 2201,2233 1853,2273 260,2278" rendition="Line" xml:id="facs_8_tr_4_tl_22"/>
+            <zone points="263,2451 1041,2456 1296,2397 1537,2437 1747,2397 2180,2421 2182,2328 2124,2323 266,2355" rendition="Line" xml:id="facs_8_tr_4_tl_23"/>
+            <zone points="271,2517 897,2538 1017,2490 1970,2472 2222,2520 2281,2506 2283,2429 1707,2403 1415,2445 1309,2403 1057,2456 271,2451" rendition="Line" xml:id="facs_8_tr_4_tl_24"/>
+            <zone points="266,2597 1184,2615 2169,2562 2143,2501 2028,2522 1832,2474 1351,2485 1306,2530 993,2496 911,2536 268,2525" rendition="Line" xml:id="facs_8_tr_4_tl_25"/>
+            <zone points="271,2697 2129,2663 2129,2565 2063,2559 1755,2605 1590,2567 1537,2613 273,2607" rendition="Line" xml:id="facs_8_tr_4_tl_26"/>
+            <zone points="268,2785 818,2748 943,2790 1051,2756 1837,2772 1989,2724 2204,2753 2206,2674 2116,2666 271,2705" rendition="Line" xml:id="facs_8_tr_4_tl_27"/>
+            <zone points="266,2851 451,2883 725,2822 842,2873 964,2836 1877,2836 2209,2806 2212,2756 592,2790 520,2753 465,2796 266,2801" rendition="Line" xml:id="facs_8_tr_4_tl_28"/>
+            <zone points="268,2934 1025,2913 1195,2950 1243,2915 1779,2902 1935,2934 2182,2899 2185,2822 2028,2862 1805,2820 1322,2870 268,2857" rendition="Line" xml:id="facs_8_tr_4_tl_29"/>
+            <zone points="271,3043 783,3011 871,3061 974,3011 1322,2982 1418,3045 1558,2995 1734,3045 1880,2976 2169,2974 2169,2915 1973,2905 1580,2952 1378,2913 842,2966 794,2931 273,2947" rendition="Line" xml:id="facs_8_tr_4_tl_30"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0008.jpg" n="part1_p008.jpg" xml:id="img_0008" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p008.jpg"/>
+            
+            <ab facs="#facs_8_r">
+               <lb facs="#facs_8_l" n="N001"/>[5]
+            </ab>
+            <ab facs="#facs_8_tr_4">
+               <lb facs="#facs_8_tr_4_tl_1" n="N001"/>at the same time, he belongs. This is the situation of all life, but of course in animal life
+               <lb facs="#facs_8_tr_4_tl_2" n="N002"/>it is only environment, in human life it has infinite dimension... We all belong to our world
+               <lb facs="#facs_8_tr_4_tl_3" n="N003"/>and we all look at our world to which we belong. This is one of the most fundamental
+               <lb facs="#facs_8_tr_4_tl_4" n="N004"/>and miraculous characteristics of human existence, and out of this possibility culture alone
+               <lb facs="#facs_8_tr_4_tl_5" n="N005"/>can arise. It is the freedom of the self from himself and from his world. He has the power
+               <lb facs="#facs_8_tr_4_tl_6" n="N006"/>of looking at himself, an astonishing power; and he has the power of looking at his world
+               <lb facs="#facs_8_tr_4_tl_7" n="N007"/>to which he belongs and does not belong.
+               <lb facs="#facs_8_tr_4_tl_8" n="N008"/>Now these are things which I only can point to, which are the foundations of
+               <lb facs="#facs_8_tr_4_tl_9" n="N009"/>every doctrine of man. But how can you have a doctrine of culture without having a
+               <lb facs="#facs_8_tr_4_tl_10" n="N010"/>doctrine of man? Man is that being who is able to create a culture, and he is able to do so
+               <lb facs="#facs_8_tr_4_tl_11" n="N011"/>because he is not bound to what is given, he can transcend it, he can go beyond it,
+               <lb facs="#facs_8_tr_4_tl_12" n="N012"/>he can create beyond it. We must therefore say: only a being who is free from the given
+               <lb facs="#facs_8_tr_4_tl_13" n="N013"/>moment, who can go beyond it, who can transcend it, is able to have culture. To understand
+               <lb facs="#facs_8_tr_4_tl_14" n="N014"/>what that freedom means, we must make this difficult and intricate description: Man encountering
+               <lb facs="#facs_8_tr_4_tl_15" n="N015"/>himself and his world; he himself a part of part of [sic!] his world, and, at the same time, being
+               <lb facs="#facs_8_tr_4_tl_16" n="N016"/>opposite to it and looking at it. I call this "freedom.''
+               <lb facs="#facs_8_tr_4_tl_17" n="N017"/>The word freedom has at least 20 different meanings, and some of them are so
+               <lb facs="#facs_8_tr_4_tl_18" n="N018"/>distorted that if you discuss them, you are thrown into this ruinous, obsolete discussion
+               <lb facs="#facs_8_tr_4_tl_19" n="N019"/>which has been performed in philosophy for centuries, about determinism and indeterminism.
+               <lb facs="#facs_8_tr_4_tl_20" n="N020"/>I want to creep behind this impossible discussion, impossible because the presuppositions of it
+               <lb facs="#facs_8_tr_4_tl_21" n="N021"/>make a solution impossible. I want to describe what is our immediate experience, and our
+               <lb facs="#facs_8_tr_4_tl_22" n="N022"/>immediate experience is exactly what I said, that we encounter ourselves and our world, and
+               <lb facs="#facs_8_tr_4_tl_23" n="N023"/>that we are free from both of them. Therefore I would say: instead of wasting time and
+               <lb facs="#facs_8_tr_4_tl_24" n="N024"/>passion with discussing the insoluble problem of determinism and indeterminism (both concepts
+               <lb facs="#facs_8_tr_4_tl_25" n="N025"/>[are] equally wrong!), describe what is really given to us. And what is given to us is the
+               <lb facs="#facs_8_tr_4_tl_26" n="N026"/>possibility of speaking, of having language, and that means of transcending the concrete
+               <lb facs="#facs_8_tr_4_tl_27" n="N027"/>case, abstracting from it, and going to the universal. This is the basis of all culture. Those
+               <lb facs="#facs_8_tr_4_tl_28" n="N028"/>naturalists who want to derive everything human from the animal situation are always in a
+               <lb facs="#facs_8_tr_4_tl_29" n="N029"/>real despair about the fact that even the highest ape is not able to learn language, which
+               <lb facs="#facs_8_tr_4_tl_30" n="N030"/>every human child is able to learn in the course of the first two years of his life. Why?
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

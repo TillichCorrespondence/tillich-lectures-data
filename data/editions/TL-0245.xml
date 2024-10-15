@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p245</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p245</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_245">
+         <graphic url="TL-0245.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TKLMGQMYMJHJJAVXQAJNDYDN&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="259,267 259,3480 2242,3480 2242,267" rendition="TextRegion" xml:id="facs_245_tr_2">
+            <zone points="1105,341 1123,341 1135,354 1147,354 1162,346 1199,349 1212,339 1226,339 1229,272 1204,272 1192,284 1179,287 1169,287 1155,277 1142,289 1108,289" rendition="Line" xml:id="facs_245_tr_2_tl_1"/>
+            <zone points="270,499 2151,492 2112,433 270,460" rendition="Line" xml:id="facs_245_tr_2_tl_2"/>
+            <zone points="475,653 883,660 935,707 2146,653 2146,596 475,603" rendition="Line" xml:id="facs_245_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="272,806 2166,804 2166,742 272,776" rendition="Line" xml:id="facs_245_tr_2_tl_4"/>
+            <zone points="267,959 2134,954 2136,902 270,915" rendition="Line" xml:id="facs_245_tr_2_tl_5"/>
+            <zone points="267,1120 2109,1110 2109,1051 267,1083" rendition="Line" xml:id="facs_245_tr_2_tl_6"/>
+            <zone points="267,1271 1985,1268 1985,1209 267,1221" rendition="Line" xml:id="facs_245_tr_2_tl_7"/>
+            <zone points="270,1429 2116,1424 2116,1357 1896,1350 270,1367" rendition="Line" xml:id="facs_245_tr_2_tl_8"/>
+            <zone points="260,1573 2065,1577 2065,1513 2027,1511 260,1521" rendition="Line" xml:id="facs_245_tr_2_tl_9"/>
+            <zone points="267,1728 2188,1726 2191,1664 1318,1671 1273,1624 1182,1671 270,1674" rendition="Line" xml:id="facs_245_tr_2_tl_10"/>
+            <zone points="260,1889 2079,1877 2079,1822 260,1835" rendition="Line" xml:id="facs_245_tr_2_tl_11"/>
+            <zone points="270,2035 2067,2027 2067,1980 2000,1968 270,1990" rendition="Line" xml:id="facs_245_tr_2_tl_12"/>
+            <zone points="260,2186 2065,2191 2030,2126 260,2161" rendition="Line" xml:id="facs_245_tr_2_tl_13"/>
+            <zone points="457,2341 2129,2341 2087,2277 457,2290" rendition="Line" xml:id="facs_245_tr_2_tl_14" subtype="paragraph"/>
+            <zone points="252,2497 1654,2529 1699,2485 2235,2492 2238,2450 252,2470" rendition="Line" xml:id="facs_245_tr_2_tl_15"/>
+            <zone points="247,2648 1192,2653 1192,2594 922,2618 509,2599 485,2623 309,2599 247,2623" rendition="Line" xml:id="facs_245_tr_2_tl_18"/>
+            <zone points="257,2831 373,2801 1085,2806 1085,2769 1038,2747 257,2764" rendition="Line" xml:id="facs_245_tr_2_tl_19"/>
+            <zone points="460,2997 724,3012 826,2947 2035,2950 2134,2937 2136,2895 1780,2866 1689,2903 1278,2873 1219,2910 1184,2878 888,2913 855,2878 816,2915 512,2915 462,2880" rendition="Line" xml:id="facs_245_tr_2_tl_20" subtype="paragraph"/>
+            <zone points="245,3113 2129,3091 2129,3029 304,3049 245,3083" rendition="Line" xml:id="facs_245_tr_2_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0245.jpg" n="part1_p245.jpg" xml:id="img_0245" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p245.jpg"/>
+            
+            <ab facs="#facs_245_tr_2">
+               <lb facs="#facs_245_tr_2_tl_1" n="N001"/>[241]
+               <lb facs="#facs_245_tr_2_tl_2" n="N002"/>concept--and its possible solutions after final, or preliminary, catastrophes. All this is dramatic.
+               <lb facs="#facs_245_tr_2_tl_3" n="N003"/>In the same way, the <rs type="person">Hegelian </rs>interpretation of history, where the word "<rs type="keyword" ref="#Dialectical">dialectical"</rs>
+               <lb facs="#facs_245_tr_2_tl_4" n="N004"/>was first applied to <rs type="keyword" ref="#History">history,</rs> was a dramatic one. The dramatic element in <rs type="keyword" ref="#Dialectical">dialectical t</rs>hinking is
+               <lb facs="#facs_245_tr_2_tl_5" n="N005"/>that a reality is seen in its inescapable conflicts, the conflicts are not something which come
+               <lb facs="#facs_245_tr_2_tl_6" n="N006"/>from outside. Take any drama of <rs type="person">Shakespeare</rs>: it comes from the constellation of powers of
+               <lb facs="#facs_245_tr_2_tl_7" n="N007"/>being embodied in almost superhuman characters of good and evil. Take <rs type="person">King Lear,</rs> or
+               <lb facs="#facs_245_tr_2_tl_8" n="N008"/><rs type="person">Macbeth,</rs> or <rs type="person">Hamlet.</rs> In the same way it is possible---and it was tried by <rs type="person">Hegel </rs>and later on by
+               <lb facs="#facs_245_tr_2_tl_9" n="N009"/><rs type="person">Marx</rs>---to dramatize history. In a less powerful way it has been done recently by T<rs type="person">oynbee,</rs>
+               <lb facs="#facs_245_tr_2_tl_10" n="N010"/>who at least TRIES to show the inner conflicts of the human historical powers and the results which,
+               <lb facs="#facs_245_tr_2_tl_11" n="N011"/>by INNER necessity, follow from this. But of course this necessity is never a complete one.
+               <lb facs="#facs_245_tr_2_tl_12" n="N012"/>It is not physical laws which are described---it is that mixture between destiny and freedom
+               <lb facs="#facs_245_tr_2_tl_13" n="N013"/>which characterizes all being and which comes out in its full power in the human situation.
+               <lb facs="#facs_245_tr_2_tl_14" n="N014"/>Now that is the background of this. I would say we have the same thing even in the
+               <lb facs="#facs_245_tr_2_tl_15" n="N015"/>religious interpretation of history, in Parsism, Judaism, and Christianity. In all these interpretations
+               <lb facs="#facs_245_tr_2_tl_18" n="N016"/>of history, the dramatic element, as l have just defined it, is present and important, and
+               <lb facs="#facs_245_tr_2_tl_19" n="N017"/>gives the quality to these interpretations.
+               <lb facs="#facs_245_tr_2_tl_20" n="N018"/>Take the Persian. There the dramatic conflict is based on the revision of reality in a
+               <lb facs="#facs_245_tr_2_tl_21" n="N019"/>good and an evil principle, which are created from the very beginning, which are fighting with
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

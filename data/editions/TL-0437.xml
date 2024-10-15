@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part3_p045</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p045</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_45">
+         <graphic url="TL-0437.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=JTSVSLYPEVSNBJVGBLBTYFTQ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="289,27 2197,27 2197,986 289,986" rendition="TextRegion" xml:id="facs_45_tr_2">
+            <zone points="487,82 534,84 559,104 613,109 599,0 474,0" rendition="Line" xml:id="facs_45_tr_2_tl_1"/>
+            <zone points="402,134 435,132 447,119 467,134 621,134 651,124 648,47 623,47 596,77 571,72 546,92 502,84 462,47 447,60 400,47" rendition="Line" xml:id="facs_45_tr_2_tl_2"/>
+            <zone points="775,134 795,134 805,124 827,134 852,134 859,127 872,127 877,0 780,0" rendition="Line" xml:id="facs_45_tr_2_tl_3"/>
+            <zone points="1125,368 1155,373 1167,382 1247,380 1244,288 1224,288 1205,308 1195,310 1177,325 1167,323 1157,333 1123,333" rendition="Line" xml:id="facs_45_tr_2_tl_4"/>
+            <zone points="278,524 1021,532 1021,464 815,484 695,378 586,467 278,467" rendition="Line" xml:id="facs_45_tr_2_tl_5"/>
+            <zone points="524,673 2089,683 2089,613 599,646 524,611" rendition="Line" xml:id="facs_45_tr_2_tl_6"/>
+            <zone points="276,830 2044,844 2044,777 276,800" rendition="Line" xml:id="facs_45_tr_2_tl_7"/>
+            <zone points="276,991 1220,1028 1272,979 2191,979 2191,929 276,949" rendition="Line" xml:id="facs_45_tr_2_tl_8"/>
+         </zone>
+         <zone points="274,1072 2224,1072 2224,1890 274,1890" rendition="TextRegion" xml:id="facs_45_tr_3">
+            <zone points="273,1133 2183,1135 2183,1080 273,1103" rendition="Line" xml:id="facs_45_tr_3_tl_1"/>
+            <zone points="268,1279 1912,1292 2116,1284 2116,1229 268,1237" rendition="Line" xml:id="facs_45_tr_3_tl_2"/>
+            <zone points="268,1431 546,1475 599,1436 1038,1433 1793,1478 1793,1386 1729,1366 268,1386" rendition="Line" xml:id="facs_45_tr_3_tl_3"/>
+            <zone points="512,1577 1937,1597 2218,1580 2218,1525 512,1532" rendition="Line" xml:id="facs_45_tr_3_tl_4"/>
+            <zone points="261,1731 2081,1734 2163,1731 2163,1679 261,1681" rendition="Line" xml:id="facs_45_tr_3_tl_5"/>
+            <zone points="263,1885 1957,1895 2129,1885 2131,1833 266,1835" rendition="Line" xml:id="facs_45_tr_3_tl_6"/>
+         </zone>
+         <zone points="26,1977 2266,1977 2266,3467 26,3467" rendition="TextRegion" xml:id="facs_45_tr_1">
+            <zone points="253,2032 2196,2044 2198,1987 253,1989" rendition="Line" xml:id="facs_45_tr_1_tl_1"/>
+            <zone points="1796,2134 1816,2141 1957,2139 1992,2146 1992,2091 1950,2091 1937,2079 1925,2089 1890,2091 1873,2076 1855,2091 1796,2091" rendition="Line" xml:id="facs_45_tr_1_tl_2"/>
+            <zone points="1937,2183 2141,2186 2178,2198 2196,2188 2253,2188 2255,2136 2084,2131 1982,2146 1940,2141" rendition="Line" xml:id="facs_45_tr_1_tl_3"/>
+            <zone points="263,2188 1855,2186 1808,2136 263,2136" rendition="Line" xml:id="facs_45_tr_1_tl_4"/>
+            <zone points="509,2305 2260,2327 2260,2258 1967,2243 509,2263" rendition="Line" xml:id="facs_45_tr_1_tl_5"/>
+            <zone points="253,2449 415,2516 956,2454 1532,2501 1644,2449 2233,2451 2233,2404 253,2407" rendition="Line" xml:id="facs_45_tr_1_tl_6"/>
+            <zone points="258,2605 2203,2613 2250,2551 258,2556" rendition="Line" xml:id="facs_45_tr_1_tl_7"/>
+            <zone points="253,2759 1535,2759 1567,2705 253,2712" rendition="Line" xml:id="facs_45_tr_1_tl_8"/>
+            <zone points="504,2946 2193,2901 2196,2841 507,2849" rendition="Line" xml:id="facs_45_tr_1_tl_9"/>
+            <zone points="251,3075 2243,3060 2243,2998 251,3010" rendition="Line" xml:id="facs_45_tr_1_tl_10"/>
+            <zone points="268,3202 817,3254 894,3211 2121,3207 2121,3159 1873,3137 268,3162" rendition="Line" xml:id="facs_45_tr_1_tl_11"/>
+            <zone points="12,3490 65,3492 87,3480 196,3482 196,3353 137,3358 72,3351 60,3358 12,3358" rendition="Line" xml:id="facs_45_tr_1_tl_12"/>
+            <zone points="390,3485 487,3485 502,3472 524,3485 611,3485 613,3356 392,3363" rendition="Line" xml:id="facs_45_tr_1_tl_13"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0437.jpg" n="part3_p045.jpg" xml:id="img_0045" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p045.jpg"/>
+            
+            <ab facs="#facs_45_tr_2">
+               <lb facs="#facs_45_tr_2_tl_1" n="N001"/>de ses
+               <lb facs="#facs_45_tr_2_tl_2" n="N002"/>de votre beauement.
+               <lb facs="#facs_45_tr_2_tl_3" n="N003"/>dʼaprès
+               <lb facs="#facs_45_tr_2_tl_4" n="N004"/>elle.
+               <lb facs="#facs_45_tr_2_tl_5" n="N005"/>LECTURE XXXIV, March 10, 956
+               <lb facs="#facs_45_tr_2_tl_6" n="N006"/>We haveiuscussed the formal ethics, so to speak—the fundamental problem of
+               <lb facs="#facs_45_tr_2_tl_7" n="N007"/>ethics and religion. Today I come to a special section of the general exhical realm, namely
+               <lb facs="#facs_45_tr_2_tl_8" n="N008"/>personal cthics, in contrast to detmunal ethics; or as we also could say: individual in contract to
+            </ab>
+            <ab facs="#facs_45_tr_3">
+               <lb facs="#facs_45_tr_3_tl_1" n="N001"/>social others. In both of these realms, the problem "Culture and Religion" has a large amount of
+               <lb facs="#facs_45_tr_3_tl_2" n="N002"/>implications and demands a large amount of answers. Let me first give you a survey on what
+               <lb facs="#facs_45_tr_3_tl_3" n="N003"/>individual ethics means by speaking about different concepts of individuality.
+               <lb facs="#facs_45_tr_3_tl_4" n="N004"/>The word " individualism" is used very much as aontical word against special forms of
+               <lb facs="#facs_45_tr_3_tl_5" n="N005"/>behavier or special structure of society, in our period of history. This word is valid to a certain
+               <lb facs="#facs_45_tr_3_tl_6" n="N006"/>extent—one CAN speak of modern individualism—but it is valid only in a limited way, because
+            </ab>
+            <ab facs="#facs_45_tr_1">
+               <lb facs="#facs_45_tr_1_tl_1" n="N001"/>it uses the word " individual" in an undiferentiated, unqualified way. The first thing we must do,
+               <lb facs="#facs_45_tr_1_tl_2" n="N002"/>referring
+               <lb facs="#facs_45_tr_1_tl_3" n="N003"/>to such a term.
+               <lb facs="#facs_45_tr_1_tl_4" n="N004"/>when we deal with such a concept as individualism, is to make the qualifications
+               <lb facs="#facs_45_tr_1_tl_5" n="N005"/> individualism can mean three different things. Let me call the one the religious concept,
+               <lb facs="#facs_45_tr_1_tl_6" n="N006"/>the other the rational concept, and the third the Renaissance concept. These three are by no means
+               <lb facs="#facs_45_tr_1_tl_7" n="N007"/>identical and must be discussion in a special way, and it is quite possible that SOME of these concepts
+               <lb facs="#facs_45_tr_1_tl_8" n="N008"/>are to be conbined with opposite concepts in different structure.
+               <lb facs="#facs_45_tr_1_tl_9" n="N009"/>The religious concept is the concept of the infinite value of the individual soul in the
+               <lb facs="#facs_45_tr_1_tl_10" n="N010"/>face of God. The word "infisite value" is not directly biblical; the biblical phrase would be, perhaps,
+               <lb facs="#facs_45_tr_1_tl_11" n="N011"/>"object of the divine love." But this is true of every human being; there are no differentiation
+               <lb facs="#facs_45_tr_1_tl_12" n="N012"/>Monsieur,
+               <lb facs="#facs_45_tr_1_tl_13" n="N013"/>Monsieur, que
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

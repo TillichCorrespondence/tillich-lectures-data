@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p173</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p173</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_173">
+         <graphic url="TL-0173.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UYURSCHFQSRQBWGOQTPMSPUZ&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,216 298,3463 2319,3463 2319,216" rendition="TextRegion" xml:id="facs_173_tr_3">
+            <zone points="1148,300 1174,300 1179,305 1194,305 1196,310 1237,310 1249,300 1262,300 1262,227 1237,230 1224,242 1209,237 1196,242 1148,242" rendition="Line" xml:id="facs_173_tr_3_tl_1"/>
+            <zone points="487,452 593,517 1179,500 1340,444 2239,444 2239,394 1863,381 487,414" rendition="Line" xml:id="facs_173_tr_3_tl_2" subtype="paragraph"/>
+            <zone points="293,611 2246,598 2246,555 2175,530 293,565" rendition="Line" xml:id="facs_173_tr_3_tl_3"/>
+            <zone points="293,767 1938,739 2170,782 2221,750 2221,689 293,717" rendition="Line" xml:id="facs_173_tr_3_tl_4"/>
+            <zone points="293,951 1918,931 1984,893 2221,906 2223,845 293,866" rendition="Line" xml:id="facs_173_tr_3_tl_5"/>
+            <zone points="290,1105 840,1123 2170,1060 2170,997 1774,972 293,1025" rendition="Line" xml:id="facs_173_tr_3_tl_6"/>
+            <zone points="293,1224 2284,1199 2269,1138 293,1171" rendition="Line" xml:id="facs_173_tr_3_tl_7"/>
+            <zone points="290,1373 2226,1350 2226,1297 2158,1290 293,1325" rendition="Line" xml:id="facs_173_tr_3_tl_8"/>
+            <zone points="295,1539 1209,1517 1209,1461 295,1476" rendition="Line" xml:id="facs_173_tr_3_tl_9"/>
+            <zone points="482,1666 2160,1661 2264,1653 2266,1580 1656,1618 1474,1585 1439,1620 1396,1585 1315,1623 1189,1590 1093,1628 863,1595 785,1633 530,1603 482,1635" rendition="Line" xml:id="facs_173_tr_3_tl_10" subtype="paragraph"/>
+            <zone points="285,1820 732,1852 919,1812 2251,1802 2254,1739 288,1784" rendition="Line" xml:id="facs_173_tr_3_tl_11"/>
+            <zone points="290,1969 2223,1966 2223,1883 1741,1895 1709,1928 293,1926" rendition="Line" xml:id="facs_173_tr_3_tl_12"/>
+            <zone points="285,2120 2239,2102 2239,2044 285,2095" rendition="Line" xml:id="facs_173_tr_3_tl_13"/>
+            <zone points="288,2312 926,2340 1118,2266 2254,2264 2256,2201 290,2234" rendition="Line" xml:id="facs_173_tr_3_tl_14"/>
+            <zone points="288,2430 1191,2453 1280,2418 2160,2413 2160,2357 1779,2347 288,2385" rendition="Line" xml:id="facs_173_tr_3_tl_15"/>
+            <zone points="288,2579 502,2612 1163,2564 2309,2579 2312,2496 290,2529" rendition="Line" xml:id="facs_173_tr_3_tl_16"/>
+            <zone points="285,2728 2175,2711 2198,2658 285,2705" rendition="Line" xml:id="facs_173_tr_3_tl_17"/>
+            <zone points="283,2973 676,2907 1070,2933 1148,2872 2302,2862 2304,2794 285,2852" rendition="Line" xml:id="facs_173_tr_3_tl_18"/>
+            <zone points="288,3031 2208,3013 2211,2955 288,3008" rendition="Line" xml:id="facs_173_tr_3_tl_19"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0173.jpg" n="part1_p173.jpg" xml:id="img_0173" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p173.jpg"/>
+            
+            <ab facs="#facs_173_tr_3">
+               <lb facs="#facs_173_tr_3_tl_1" n="N001"/>[169]
+               <lb facs="#facs_173_tr_3_tl_2" n="N002"/>The <truth_of_faith>truth of faith</truth_of_faith> and <truth_philosophical>philosophical truth</truth_philosophical>---that is our next subject. I am sorry we must
+               <lb facs="#facs_173_tr_3_tl_3" n="N003"/>wait for a whole week before we can go on, after I give the initial statements today, but this also is
+               <lb facs="#facs_173_tr_3_tl_4" n="N004"/>historical destiny! <hi style="font-style: italic;">[smiling, referring to the Thanksgiving recess---slight laughter]</hi>. Now we have
+               <lb facs="#facs_173_tr_3_tl_5" n="N005"/>seen that neither scientific n<rs type="keyword" ref="#Historical_research">or <truth_historical>historical truth</truth_historical> </rs>can affirm or negate the <truth_of_faith>truth of<rs type="keyword" ref="#Faith"> faith</rs></truth_of_faith>. If it could,
+               <lb facs="#facs_173_tr_3_tl_6" n="N006"/>it wouldn't be <truth_of_faith>truth of faith</truth_of_faith>, but would be probability of scientific research. And the <truth_of_faith>truth of
+               <lb break="no" facs="#facs_173_tr_3_tl_7" n="N007"/>faith</truth_of_faith> can neither affirm nor negate scientific or <truth_historical>historical trut</truth_historical>h. No statement of faith can guarantee
+               <lb facs="#facs_173_tr_3_tl_8" n="N008"/>any scientific statement or can guarantee any historical statement---about that, I just spoke. Now
+               <lb facs="#facs_173_tr_3_tl_9" n="N009"/>perhaps here I should make one more remark.
+               <lb facs="#facs_173_tr_3_tl_10" n="N010"/>If someone says, "Now is it not a <rs type="keyword" ref="#History">historical statement </rs>if you say something has happened
+               <lb facs="#facs_173_tr_3_tl_11" n="N011"/>which changed me?", then you can also say, "ls it not a historical statement to say that I do exist?"
+               <lb facs="#facs_173_tr_3_tl_12" n="N012"/>That is not a historical statement, but that is a statement of immediacy. My being IN HISTORY,
+               <lb facs="#facs_173_tr_3_tl_13" n="N013"/>my being influenced BY HISTORY, my being myself, is not a problem of <rs type="keyword" ref="#Historical_research">historical research</rs> but a
+               <lb facs="#facs_173_tr_3_tl_14" n="N014"/>problem of immediate self-awareness, and the implications of immediate self-awareness, even if they
+               <lb facs="#facs_173_tr_3_tl_15" n="N015"/>fall into the bodily reality (("l have a body") and the historical reality ("I live in the Christian
+               <lb facs="#facs_173_tr_3_tl_16" n="N016"/>tradition"), even then they are not a matter of biological research or historical research. No <biology>biological</biology>
+               <lb facs="#facs_173_tr_3_tl_17" n="N017"/>research can take away my awareness of my body from myself. No historical research can take
+               <lb facs="#facs_173_tr_3_tl_18" n="N018"/>away my awareness of being THlS being, THIS kind of self which has in itself all the historical reality
+               <lb facs="#facs_173_tr_3_tl_19" n="N019"/>of his tradition, etc. So here we have the point of certainty, namely the point of our own being.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

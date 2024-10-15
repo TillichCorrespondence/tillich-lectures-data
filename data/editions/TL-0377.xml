@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p093</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p093</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_93">
+         <graphic url="TL-0377.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DOYSIHVGDJNMKRSTQBOTUAOJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="244,293 2274,293 2274,1350 244,1350" rendition="TextRegion" xml:id="facs_93_tr_1">
+            <zone points="1029,346 1043,346 1067,368 1084,359 1146,359 1149,291 1097,294 1086,286 1067,305 1029,302" rendition="Line" xml:id="facs_93_tr_1_tl_1"/>
+            <zone points="234,512 264,525 422,515 452,528 463,517 602,517 602,466 536,466 525,452 400,455 378,433 332,433 291,392 237,392" rendition="Line" xml:id="facs_93_tr_1_tl_2"/>
+            <zone points="438,591 2020,583 2164,574 2167,531 441,525" rendition="Line" xml:id="facs_93_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="229,732 2268,770 2268,670 2167,621 1914,689 229,705" rendition="Line" xml:id="facs_93_tr_1_tl_4"/>
+            <zone points="237,961 762,934 839,882 2156,879 2159,822 237,841" rendition="Line" xml:id="facs_93_tr_1_tl_5"/>
+            <zone points="234,1037 1642,1092 2183,1021 2183,966 234,988" rendition="Line" xml:id="facs_93_tr_1_tl_6"/>
+            <zone points="1037,1182 1304,1184 1359,1239 1484,1236 1546,1179 1631,1222 1955,1222 2045,1173 2265,1182 2265,1119 1037,1130" rendition="Line" xml:id="facs_93_tr_1_tl_8"/>
+            <zone points="231,1342 2224,1326 2224,1266 234,1290" rendition="Line" xml:id="facs_93_tr_1_tl_10"/>
+         </zone>
+         <zone points="47,1421 2322,1421 2322,2705 47,2705" rendition="TextRegion" xml:id="facs_93_tr_2">
+            <zone points="226,1489 724,1544 915,1486 2102,1508 2102,1424 226,1462" rendition="Line" xml:id="facs_93_tr_2_tl_1"/>
+            <zone points="231,1644 996,1693 2306,1628 2262,1565 234,1590" rendition="Line" xml:id="facs_93_tr_2_tl_2"/>
+            <zone points="226,1789 2314,1827 2314,1721 226,1761" rendition="Line" xml:id="facs_93_tr_2_tl_3"/>
+            <zone points="33,1990 1277,1990 1348,1938 2216,1933 2219,1865 33,1884" rendition="Line" xml:id="facs_93_tr_2_tl_4"/>
+            <zone points="226,2104 2121,2094 2290,2039 226,2069" rendition="Line" xml:id="facs_93_tr_2_tl_5"/>
+            <zone points="226,2249 1535,2246 1625,2238 1625,2186 226,2200" rendition="Line" xml:id="facs_93_tr_2_tl_6"/>
+            <zone points="433,2390 1960,2390 2099,2382 2099,2328 433,2333" rendition="Line" xml:id="facs_93_tr_2_tl_7" subtype="paragraph"/>
+            <zone points="226,2608 348,2627 594,2546 1587,2543 1541,2477 226,2494" rendition="Line" xml:id="facs_93_tr_2_tl_8"/>
+            <zone points="436,2703 2113,2687 2072,2611 436,2641" rendition="Line" xml:id="facs_93_tr_2_tl_9" subtype="paragraph"/>
+         </zone>
+         <zone points="41,2768 2319,2768 2319,3476 41,3476" rendition="TextRegion" xml:id="facs_93_tr_3">
+            <zone points="226,2856 2311,2845 2311,2763 226,2815" rendition="Line" xml:id="facs_93_tr_3_tl_1"/>
+            <zone points="223,3014 662,3017 705,3060 1361,3011 1772,3044 1775,2948 226,2981" rendition="Line" xml:id="facs_93_tr_3_tl_4"/>
+            <zone points="120,3221 2205,3150 2243,3079 123,3125" rendition="Line" xml:id="facs_93_tr_3_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0377.jpg" n="part2_p093.jpg" xml:id="img_0093" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p093.jpg"/>
+            
+            <ab facs="#facs_93_tr_1">
+               <lb facs="#facs_93_tr_1_tl_1" n="N001"/>[372]
+               <lb facs="#facs_93_tr_1_tl_2" n="N002"/>could be painted.
+               <lb facs="#facs_93_tr_1_tl_3" n="N003"/>What is the character of this bourgeois society?--or better, industrial society, because it
+               <lb facs="#facs_93_tr_1_tl_4" n="N004"/>transcends by far the mere bourgeois leaders of it. It is the problem of objectivation: man transofmred [sic.]
+               <lb facs="#facs_93_tr_1_tl_5" n="N005"/>with his world into object, for his own activities as subject, or for himself as subject. Man a thing.
+               <lb facs="#facs_93_tr_1_tl_6" n="N006"/>In German, we use for this phenomenon the word <hi style="font-style: italic;">Verdinglichung</hi>, making-into-a-thing--which is a
+               <lb facs="#facs_93_tr_1_tl_8" n="N007"/>very good word because there is another German word, <hi style="font-style: italic;">bedingt</hi>, which means conditioned, and a thing
+               <lb facs="#facs_93_tr_1_tl_10" n="N008"/>is that which is altogether conditioned. But since this word cannot appear in English, other attempts
+            </ab>
+            <ab facs="#facs_93_tr_2">
+               <lb facs="#facs_93_tr_2_tl_1" n="N001"/>have been made. ''Objectivation,'' as I called it--and sometimes I found the word ''reification,''
+               <lb facs="#facs_93_tr_2_tl_2" n="N002"/>derived from the Latin word <hi style="font-style: italic;">res</hi> (''object, thing''). Now however we call it--let me call it objectivation,
+               <lb facs="#facs_93_tr_2_tl_3" n="N003"/>for abbreviation--this is the presupposition for the control of nature and society. If you want to control
+               <lb facs="#facs_93_tr_2_tl_4" n="N004"/>something, you must transform it into an object. Man is supposed to control nature and to organize
+               <lb facs="#facs_93_tr_2_tl_5" n="N005"/>society and also himself in society. And he is able to do so. But if he does so, the tragic implication
+               <lb facs="#facs_93_tr_2_tl_6" n="N006"/>is that he makes first his world and then himself into a mere object.
+               <lb facs="#facs_93_tr_2_tl_7" n="N007"/>I can exemplify this in one of the main characteristics of man which is usually called
+               <lb facs="#facs_93_tr_2_tl_8" n="N008"/><hi style="font-style: italic;">homo faber</hi>, man who fabricates, man as producer and user of tools.
+               <lb facs="#facs_93_tr_2_tl_9" n="N009"/>Now what does he fabricate? He fabricates tools, which themselves are objects,
+            </ab>
+            <ab facs="#facs_93_tr_3">
+               <lb facs="#facs_93_tr_3_tl_1" n="N001"/>determined exclusively by their use, and he produces tools which become partly independent of himself,
+               <lb facs="#facs_93_tr_3_tl_4" n="N002"/>namely the machine. From tool to machine is a long way, but in principle, in relation to man, they
+               <lb facs="#facs_93_tr_3_tl_5" n="N003"/>have the same character. Both tool and machine have a tremendously liberating power. And I would
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

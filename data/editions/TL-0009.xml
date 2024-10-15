@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p009</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p009</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_9">
+         <graphic url="TL-0009.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UZEGFTVPETQGQIYOJRCYBECT&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="1363,361 1217,361 1217,273 1363,273" rendition="TextRegion" xml:id="facs_9_r">
+            <zone points="1242,342 1343,339 1343,324 1242,327" rendition="Line" xml:id="facs_9_l"/>
+         </zone>
+         <zone points="107,442 107,3473 2346,3473 2346,442" rendition="TextRegion" xml:id="facs_9_tr_1">
+            <zone points="284,498 496,549 607,517 1084,549 1442,506 2140,522 2137,445 2089,483 1225,422 854,445 756,369 644,440 284,435" rendition="Line" xml:id="facs_9_tr_1_tl_1"/>
+            <zone points="286,570 912,575 1060,612 1424,597 1421,533 1326,562 284,533" rendition="Line" xml:id="facs_9_tr_1_tl_2"/>
+            <zone points="530,660 1967,713 1999,681 2185,705 2185,650 528,607" rendition="Line" xml:id="facs_9_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="276,745 2132,782 2089,711 276,708" rendition="Line" xml:id="facs_9_tr_1_tl_4"/>
+            <zone points="270,825 2142,870 2142,795 2079,779 1967,825 1676,785 1514,819 1434,782 1307,814 893,774 848,806 270,798" rendition="Line" xml:id="facs_9_tr_1_tl_5"/>
+            <zone points="278,917 2230,962 2230,901 2065,864 1662,907 1442,851 1071,893 276,864" rendition="Line" xml:id="facs_9_tr_1_tl_6"/>
+            <zone points="268,1000 2145,1037 2142,984 1485,986 1257,931 1116,978 268,949" rendition="Line" xml:id="facs_9_tr_1_tl_7"/>
+            <zone points="273,1087 2219,1135 2219,1074 270,1029" rendition="Line" xml:id="facs_9_tr_1_tl_8"/>
+            <zone points="262,1169 398,1185 432,1164 544,1193 578,1172 650,1190 856,1185 854,1129 618,1114 541,1137 504,1108 488,1124 331,1106 260,1119" rendition="Line" xml:id="facs_9_tr_1_tl_9"/>
+            <zone points="506,1257 2036,1302 2288,1291 2288,1251 504,1193" rendition="Line" xml:id="facs_9_tr_1_tl_10" subtype="paragraph"/>
+            <zone points="257,1339 440,1381 761,1339 2206,1373 2203,1312 2097,1291 257,1278" rendition="Line" xml:id="facs_9_tr_1_tl_11"/>
+            <zone points="255,1429 321,1477 525,1450 764,1456 795,1474 825,1461 822,1381 758,1373 721,1395 536,1368 483,1389 374,1360 252,1379" rendition="Line" xml:id="facs_9_tr_1_tl_12"/>
+            <zone points="504,1511 2185,1543 2216,1474 501,1458" rendition="Line" xml:id="facs_9_tr_1_tl_13" subtype="paragraph"/>
+            <zone points="265,1576 321,1574 377,1576 434,1576 490,1576 547,1579 603,1581 660,1582 716,1582 773,1585 829,1587 885,1588 942,1588 998,1588 1055,1590 1111,1591 1168,1594 1224,1594 1281,1596 1337,1597 2269,1621 2269,1606 1337,1582 1281,1581 1224,1579 1168,1579 1112,1576 1055,1575 998,1573 942,1573 885,1573 829,1572 774,1570 716,1567 660,1567 603,1566 548,1564 490,1561 434,1561 377,1561 321,1559 264,1561" rendition="Line" xml:id="facs_9_tr_1_tl_14"/>
+            <zone points="257,1686 676,1670 1042,1726 1121,1681 2259,1707 2256,1649 257,1617" rendition="Line" xml:id="facs_9_tr_1_tl_16"/>
+            <zone points="241,1752 2203,1790 2158,1726 241,1718" rendition="Line" xml:id="facs_9_tr_1_tl_17"/>
+            <zone points="244,1851 2224,1874 2222,1824 2049,1808 244,1792" rendition="Line" xml:id="facs_9_tr_1_tl_18"/>
+            <zone points="239,1925 308,1957 1103,1935 1188,1986 2288,1965 2285,1906 2185,1896 239,1866" rendition="Line" xml:id="facs_9_tr_1_tl_19"/>
+            <zone points="241,2012 2203,2044 2201,1994 2105,1975 1980,2007 241,1962" rendition="Line" xml:id="facs_9_tr_1_tl_21"/>
+            <zone points="233,2092 1185,2102 1315,2150 1691,2110 2219,2126 2219,2065 233,2055" rendition="Line" xml:id="facs_9_tr_1_tl_22"/>
+            <zone points="233,2179 1715,2246 2240,2235 2285,2158 231,2126" rendition="Line" xml:id="facs_9_tr_1_tl_23"/>
+            <zone points="225,2283 2240,2317 2240,2251 2108,2230 1856,2259 1813,2224 225,2219" rendition="Line" xml:id="facs_9_tr_1_tl_24"/>
+            <zone points="223,2341 2317,2381 2315,2333 2230,2322 223,2291" rendition="Line" xml:id="facs_9_tr_1_tl_25"/>
+            <zone points="217,2426 2068,2466 2065,2413 1893,2397 217,2381" rendition="Line" xml:id="facs_9_tr_1_tl_26"/>
+            <zone points="223,2519 2208,2556 2208,2497 220,2466" rendition="Line" xml:id="facs_9_tr_1_tl_27"/>
+            <zone points="220,2601 2068,2630 2065,2580 1935,2564 220,2548" rendition="Line" xml:id="facs_9_tr_1_tl_28"/>
+            <zone points="215,2696 2102,2718 2034,2649 1869,2678 1689,2643 215,2635" rendition="Line" xml:id="facs_9_tr_1_tl_29"/>
+            <zone points="209,2768 2132,2821 2185,2816 2185,2749 207,2712" rendition="Line" xml:id="facs_9_tr_1_tl_30"/>
+            <zone points="212,2853 2338,2887 2338,2834 2148,2816 1824,2847 1577,2808 1342,2837 1127,2797 1087,2834 1050,2802 212,2794" rendition="Line" xml:id="facs_9_tr_1_tl_31"/>
+            <zone points="199,2927 2089,2967 2026,2906 1901,2898 199,2895" rendition="Line" xml:id="facs_9_tr_1_tl_32"/>
+            <zone points="199,3012 1827,3062 2100,3054 2100,2999 196,2964" rendition="Line" xml:id="facs_9_tr_1_tl_33"/>
+            <zone points="191,3097 1973,3152 2026,3081 188,3067" rendition="Line" xml:id="facs_9_tr_1_tl_34"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0009.jpg" n="part1_p009.jpg" xml:id="img_0009" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p009.jpg"/>
+            
+            <ab facs="#facs_9_r">
+               <lb facs="#facs_9_l" n="N001"/>[6]
+            </ab>
+            <ab facs="#facs_9_tr_1">
+               <lb facs="#facs_9_tr_1_tl_1" n="N001"/>Because he has a self which he can encounter, which he can transcend, and the world
+               <lb facs="#facs_9_tr_1_tl_2" n="N002"/>which he can encounter and which he can transcend.
+               <lb facs="#facs_9_tr_1_tl_3" n="N003"/>Now if we speak of freedom in this way, which can be verified by the very
+               <lb facs="#facs_9_tr_1_tl_4" n="N004"/>act in which we speak about it--using words, using universals--then we must conclude:
+               <lb facs="#facs_9_tr_1_tl_5" n="N005"/>culture is the creative act of that being who is free from himself and free for himself,
+               <lb facs="#facs_9_tr_1_tl_6" n="N006"/>free from his world and free for his world--''freedom'' meaning the power of transcending
+               <lb facs="#facs_9_tr_1_tl_7" n="N007"/>the given situation, the power of going beyond the here and now, the immediate sense
+               <lb facs="#facs_9_tr_1_tl_8" n="N008"/>impression, the immediate emotion, the immediate idea which comes to our mind, stopping,
+               <lb facs="#facs_9_tr_1_tl_9" n="N009"/>asking, and getting answers.
+               <lb facs="#facs_9_tr_1_tl_10" n="N010"/>Don’t be afraid--this is very difficult, we will return to it again and again, because
+               <lb facs="#facs_9_tr_1_tl_11" n="N011"/>it is the presupposition of every philosophy of culture, and as we shall see, it is the basic
+               <lb facs="#facs_9_tr_1_tl_12" n="N012"/>possibility of religion also.
+               <lb facs="#facs_9_tr_1_tl_13" n="N013"/>Now I want to give you an outline of the different functions of man's creative
+               <lb facs="#facs_9_tr_1_tl_14" n="N014"/>encounter with reality--or, as we call it, his culture. I already referred to the fundamental
+               <lb facs="#facs_9_tr_1_tl_16" n="N015"/>[example] of these functions: language--the first, fundamental, and all-pervasive expression of
+               <lb facs="#facs_9_tr_1_tl_17" n="N016"/>man's freedom from himself and from his world, and for himself and for his world, is the
+               <lb facs="#facs_9_tr_1_tl_18" n="N017"/>power of universals, in other words, THE WORD, and the combination of words: language.
+               <lb facs="#facs_9_tr_1_tl_19" n="N018"/>Language, therefore, must be considered as the basic cultural function. And it is not by chance
+               <lb facs="#facs_9_tr_1_tl_21" n="N019"/>that the nation that is more responsible for Western culture than any other one, and on which we
+               <lb facs="#facs_9_tr_1_tl_22" n="N020"/>all are dependent, whether or not we know it--the Greeks--centered their philosophy around
+               <lb facs="#facs_9_tr_1_tl_23" n="N021"/>the concept of the ΛΟΓΟΣ [LOGOS], meaning "word," but meaning much more than "word",
+               <lb facs="#facs_9_tr_1_tl_24" n="N022"/>meaning the power of man to grasp reality in a meaningful, understandable (or rational) way.
+               <lb facs="#facs_9_tr_1_tl_25" n="N023"/>The Greeks were right in putting the LOGOS, or "word," into the center of their thinking about
+               <lb facs="#facs_9_tr_1_tl_26" n="N024"/>the relation of man to reality, wherever culture is taking place. Language is the basic
+               <lb facs="#facs_9_tr_1_tl_27" n="N025"/>cultural function, and it is the most flexible of all of them. It is present even if it is silent,
+               <lb facs="#facs_9_tr_1_tl_28" n="N026"/>without voice. All cultural functions are accompanied by words. Even if we look at a
+               <lb facs="#facs_9_tr_1_tl_29" n="N027"/>picture, silently, words are continuously present, namely the universals which we use in
+               <lb facs="#facs_9_tr_1_tl_30" n="N028"/>looking at a picture, or at a piece of nature. Language is present in all cultural functions,
+               <lb facs="#facs_9_tr_1_tl_31" n="N029"/>in the concepts of science, in poetry, in the law, in the ethical commands, in the symbolic expres-
+               <lb facs="#facs_9_tr_1_tl_32" n="N030"/>sions--poetry and religion. Language is all-permeating, and therefore the first discussion
+               <lb facs="#facs_9_tr_1_tl_33" n="N031"/>we have to make after I have given you concepts of culture... and religion and their
+               <lb facs="#facs_9_tr_1_tl_34" n="N032"/>relation generally, and in our present situation, is to deal with religion and language.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

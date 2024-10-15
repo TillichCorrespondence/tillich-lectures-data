@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p006</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p006</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_6">
+         <graphic url="TL-0006.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UAPYHINKEKNHAGGKZETBVEXP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="1296,335 1130,335 1130,191 1296,191" rendition="TextRegion" xml:id="facs_6_r_629">
+            <zone points="1148,306 1248,318 1250,303 1150,291" rendition="Line" xml:id="facs_6_l"/>
+         </zone>
+         <zone points="1598,141 1260,386 237,151 259,3461 2316,3461 2332,135" rendition="TextRegion" xml:id="facs_6_tr_3">
+            <zone points="258,501 1233,488 1262,403 1175,403 1136,442 1088,414 672,439 585,406 480,457 260,439" rendition="Line" xml:id="facs_6_tr_3_tl_1"/>
+            <zone points="508,580 835,610 1951,547 2194,582 2214,483 1581,526 508,516" rendition="Line" xml:id="facs_6_tr_3_tl_2" subtype="paragraph"/>
+            <zone points="258,690 1384,636 1599,677 1688,644 1691,590 258,618" rendition="Line" xml:id="facs_6_tr_3_tl_3"/>
+            <zone points="513,833 1696,804 1818,835 1821,741 1752,725 516,784" rendition="Line" xml:id="facs_6_tr_3_tl_4" subtype="heading"/>
+            <zone points="511,917 661,907 787,937 1389,901 1389,856 1336,833 511,858" rendition="Line" xml:id="facs_6_tr_3_tl_6" subtype="heading"/>
+            <zone points="253,1006 1813,996 2209,970 2212,914 253,950" rendition="Line" xml:id="facs_6_tr_3_tl_7"/>
+            <zone points="260,1093 690,1124 776,1088 1994,1090 2309,1052 2309,999 1785,981 260,1027" rendition="Line" xml:id="facs_6_tr_3_tl_8"/>
+            <zone points="521,1193 2247,1139 2250,1067 521,1113" rendition="Line" xml:id="facs_6_tr_3_tl_9" subtype="paragraph"/>
+            <zone points="260,1269 2163,1239 2163,1172 2099,1139 2035,1175 1711,1149 1494,1190 1412,1157 263,1208" rendition="Line" xml:id="facs_6_tr_3_tl_10"/>
+            <zone points="271,1364 779,1318 1308,1351 1364,1315 2125,1313 2125,1262 2040,1239 940,1285 273,1264" rendition="Line" xml:id="facs_6_tr_3_tl_11"/>
+            <zone points="276,1430 2137,1399 2166,1336 1507,1315 1440,1359 276,1369" rendition="Line" xml:id="facs_6_tr_3_tl_12"/>
+            <zone points="271,1509 539,1545 901,1491 1918,1507 2186,1466 2140,1399 1387,1445 273,1435" rendition="Line" xml:id="facs_6_tr_3_tl_13"/>
+            <zone points="268,1619 1190,1563 1785,1604 2227,1568 2227,1502 1941,1491 271,1540" rendition="Line" xml:id="facs_6_tr_3_tl_14"/>
+            <zone points="266,1714 2168,1683 2171,1586 638,1632 475,1586 268,1622" rendition="Line" xml:id="facs_6_tr_3_tl_15"/>
+            <zone points="276,1793 1085,1785 1203,1731 2242,1749 2206,1652 2125,1685 278,1716" rendition="Line" xml:id="facs_6_tr_3_tl_16"/>
+            <zone points="278,1859 1113,1821 1254,1877 1703,1813 2263,1813 2265,1754 1918,1765 1859,1731 1458,1783 278,1795" rendition="Line" xml:id="facs_6_tr_3_tl_17"/>
+            <zone points="271,1923 414,1961 547,1920 1389,1908 1428,1941 2173,1892 2171,1839 2084,1823 271,1890" rendition="Line" xml:id="facs_6_tr_3_tl_18"/>
+            <zone points="276,2010 2066,2007 2117,1971 2260,1987 2263,1908 2092,1938 1744,1905 1645,1941 1374,1910 1154,1961 398,1966 278,1928" rendition="Line" xml:id="facs_6_tr_3_tl_19"/>
+            <zone points="283,2125 2112,2086 2252,2066 2255,1987 498,2048 283,2015" rendition="Line" xml:id="facs_6_tr_3_tl_20"/>
+            <zone points="283,2196 2163,2176 2148,2063 1609,2117 1318,2084 889,2130 835,2084 286,2125" rendition="Line" xml:id="facs_6_tr_3_tl_21"/>
+            <zone points="283,2288 2145,2263 2183,2260 2186,2171 286,2194" rendition="Line" xml:id="facs_6_tr_3_tl_22"/>
+            <zone points="273,2393 2155,2332 2201,2321 2204,2252 276,2298" rendition="Line" xml:id="facs_6_tr_3_tl_23"/>
+            <zone points="278,2431 462,2464 978,2413 1090,2454 1678,2439 1726,2403 2125,2406 2160,2337 278,2390" rendition="Line" xml:id="facs_6_tr_3_tl_24"/>
+            <zone points="283,2531 2189,2505 2250,2482 2252,2416 283,2449" rendition="Line" xml:id="facs_6_tr_3_tl_25"/>
+            <zone points="286,2628 730,2628 924,2584 1065,2623 1269,2572 1642,2618 1734,2564 2150,2564 2150,2503 2048,2500 289,2546" rendition="Line" xml:id="facs_6_tr_3_tl_26"/>
+            <zone points="283,2694 2166,2674 2132,2564 1777,2615 1277,2574 988,2628 286,2628" rendition="Line" xml:id="facs_6_tr_3_tl_27"/>
+            <zone points="283,2776 424,2807 769,2755 1157,2789 2186,2761 2217,2674 283,2704" rendition="Line" xml:id="facs_6_tr_3_tl_28"/>
+            <zone points="281,2865 797,2886 866,2847 1535,2868 2079,2822 2286,2860 2286,2755 2250,2750 283,2799" rendition="Line" xml:id="facs_6_tr_3_tl_29"/>
+            <zone points="276,2947 838,2924 1121,2967 1333,2914 1936,2909 1936,2853 1731,2835 1325,2881 276,2870" rendition="Line" xml:id="facs_6_tr_3_tl_30"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0006.jpg" n="part1_p006.jpg" xml:id="img_0006" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p006.jpg"/>
+            
+            <ab facs="#facs_6_r_629">
+               <lb facs="#facs_6_l" n="N001"/>[3]
+            </ab>
+            <ab facs="#facs_6_tr_3">
+               <lb facs="#facs_6_tr_3_tl_1" n="N001"/>culture is, and what are its different functions.
+               <lb facs="#facs_6_tr_3_tl_2" n="N002"/>The cultural functions of man can be described in a general way as the creative
+               <lb facs="#facs_6_tr_3_tl_3" n="N003"/>encounter of the self with itself and with its world. I repeat this:
+               <lb facs="#facs_6_tr_3_tl_4" n="N004"/>CULTURE IS THE CREATIVE <rs type="keyword" ref="#Encounter">ENCOUNTER</rs> OF THE SELF
+               <lb facs="#facs_6_tr_3_tl_6" n="N005"/>WITH ITSELF AND WITH ITS WORLD.
+               <lb facs="#facs_6_tr_3_tl_7" n="N006"/>It is the greatness, the dignity, and the danger and distortion of human existence that man
+               <lb facs="#facs_6_tr_3_tl_8" n="N007"/>can encounter himself and that, because he can, he has a WORLD which he also can encounter.
+               <lb facs="#facs_6_tr_3_tl_9" n="N008"/>"Encounter'' is a very useful word--I would like to introduce it, more than it has
+               <lb facs="#facs_6_tr_3_tl_10" n="N009"/>been used, into the philosophical and theological language, because most life processes are
+               <lb facs="#facs_6_tr_3_tl_11" n="N010"/>processes of encounter. We are used [to hearing], much too much (and I will discuss
+               <lb facs="#facs_6_tr_3_tl_12" n="N011"/>the reason for this later), that there is a world opposite to us, at which we are looking,
+               <lb facs="#facs_6_tr_3_tl_13" n="N012"/>which remains as it is up to the moment in which we recognize it or change it. But this
+               <lb facs="#facs_6_tr_3_tl_14" n="N013"/>is not a true description of man’s relation to his world. The true description is that we are
+               <lb facs="#facs_6_tr_3_tl_15" n="N014"/>in a continuous process of encounters, of meeting reality, of impressing ourselves upon it
+               <lb facs="#facs_6_tr_3_tl_16" n="N015"/>and of being impressed by it ourselves. We can describe this situation also as mutual partici-
+               <lb facs="#facs_6_tr_3_tl_17" n="N016"/>pation of the subject of the encounter with the object of the encounter. When we encounter
+               <lb facs="#facs_6_tr_3_tl_18" n="N017"/>an intensive culture, we then participate in it, in its power-of-being, its intensity, perhaps
+               <lb facs="#facs_6_tr_3_tl_19" n="N018"/>its beauty, perhaps its exciting character. And it participates in us, it becomes a part--that is
+               <lb facs="#facs_6_tr_3_tl_20" n="N019"/>what ''participate'' means: it takes a part of us into its possession, even if it is a very small
+               <lb facs="#facs_6_tr_3_tl_21" n="N020"/>part of the glimpse of the eye. In this sense, all life has the character of participation
+               <lb facs="#facs_6_tr_3_tl_22" n="N021"/>through encounter. In this participation through encounter, both sides are always changed.
+               <lb facs="#facs_6_tr_3_tl_23" n="N022"/>I am not the same which I was before I came into this room. Now I am here, you look
+               <lb facs="#facs_6_tr_3_tl_24" n="N023"/>at me, you ''participate'' in me, and I "participate" in you by what I say. This mutual
+               <lb facs="#facs_6_tr_3_tl_25" n="N024"/>participation changes you and changes me. This mutual change is going on in every moment
+               <lb facs="#facs_6_tr_3_tl_26" n="N025"/>of our life processes. This is the ''encounter" which makes life life. Therefore I believe
+               <lb facs="#facs_6_tr_3_tl_27" n="N026"/>that it would be very [much] more precise if we describe the subject-object relationship
+               <lb facs="#facs_6_tr_3_tl_28" n="N027"/>between ourselves and our world, not so much in terms of looking at it from outside and
+               <lb facs="#facs_6_tr_3_tl_29" n="N028"/>controlling it from outside, but that we describe it as an encounter of a mutual participation.
+               <lb facs="#facs_6_tr_3_tl_30" n="N029"/>This is more precise and should be used much more than it is usually done.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p143</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p143</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_143">
+         <graphic url="TL-0143.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HRVKJEKFCYHLLIMXCHGBGJSU&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="110,231 110,3476 2364,3476 2364,231" rendition="TextRegion" xml:id="facs_143_tr_1">
+            <zone points="1071,301 1092,301 1099,308 1120,308 1128,301 1138,311 1189,308 1192,244 1164,241 1125,259 1107,252 1074,252" rendition="Line" xml:id="facs_143_tr_1_tl_1"/>
+            <zone points="308,450 516,462 570,506 627,462 956,460 956,396 858,396 835,419 781,401 758,424 645,385 629,401 370,393 308,424" rendition="Line" xml:id="facs_143_tr_1_tl_3" subtype="heading"/>
+            <zone points="511,676 2016,694 2016,645 1847,629 511,611" rendition="Line" xml:id="facs_143_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="306,825 2358,848 2358,789 306,773" rendition="Line" xml:id="facs_143_tr_1_tl_6"/>
+            <zone points="306,984 2271,997 2271,943 306,930" rendition="Line" xml:id="facs_143_tr_1_tl_7"/>
+            <zone points="295,1130 1328,1141 1400,1207 1598,1189 1657,1138 2081,1148 2081,1087 2006,1110 1914,1071 1654,1110 295,1081" rendition="Line" xml:id="facs_143_tr_1_tl_8"/>
+            <zone points="295,1279 2201,1300 2201,1241 295,1230" rendition="Line" xml:id="facs_143_tr_1_tl_9"/>
+            <zone points="306,1451 2268,1451 2268,1397 306,1387" rendition="Line" xml:id="facs_143_tr_1_tl_10"/>
+            <zone points="293,1595 2268,1616 2268,1549 2230,1546 293,1536" rendition="Line" xml:id="facs_143_tr_1_tl_11"/>
+            <zone points="285,1742 2327,1752 2327,1693 285,1685" rendition="Line" xml:id="facs_143_tr_1_tl_12"/>
+            <zone points="288,1906 1377,1939 2276,1909 2273,1850 1921,1826 285,1837" rendition="Line" xml:id="facs_143_tr_1_tl_13"/>
+            <zone points="288,2042 362,2086 663,2088 917,2045 994,2114 1053,2083 2212,2099 2263,2060 2227,1998 2076,1991 285,1993" rendition="Line" xml:id="facs_143_tr_1_tl_14"/>
+            <zone points="475,2186 2327,2214 2327,2153 2289,2150 475,2142" rendition="Line" xml:id="facs_143_tr_1_tl_15" subtype="paragraph"/>
+            <zone points="270,2340 298,2348 537,2350 537,2273 485,2304 444,2302 432,2289 416,2302 365,2307 344,2296 321,2304 308,2291 295,2304 270,2304" rendition="Line" xml:id="facs_143_tr_1_tl_16"/>
+            <zone points="470,2487 2343,2499 2343,2445 1785,2458 1754,2427 1724,2458 470,2451" rendition="Line" xml:id="facs_143_tr_1_tl_17" subtype="paragraph"/>
+            <zone points="270,2659 334,2695 753,2695 799,2661 1343,2692 1490,2651 1549,2689 1896,2695 1945,2654 2201,2654 2201,2597 270,2597" rendition="Line" xml:id="facs_143_tr_1_tl_18"/>
+            <zone points="272,2805 2332,2805 2332,2746 272,2746" rendition="Line" xml:id="facs_143_tr_1_tl_19"/>
+            <zone points="259,2941 2304,2957 2304,2895 2140,2890 259,2916" rendition="Line" xml:id="facs_143_tr_1_tl_20"/>
+            <zone points="270,3098 493,3139 819,3100 2314,3103 2314,3052 2155,3041 270,3052" rendition="Line" xml:id="facs_143_tr_1_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0143.jpg" n="part1_p143.jpg" xml:id="img_0143" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p143.jpg"/>
+            
+            <ab facs="#facs_143_tr_1">
+               <lb facs="#facs_143_tr_1_tl_1" n="N001"/>[140]
+               <lb facs="#facs_143_tr_1_tl_3" n="N002"/>LECTURE XIII, Nov. 15, 1955
+               <lb facs="#facs_143_tr_1_tl_5" n="N003"/>This question is a good transition, perhaps, to the lecture I am starting now:
+               <lb facs="#facs_143_tr_1_tl_6" n="N004"/>QN: Does scientific thought contribute to the breaking of religious symbols and <rs type="keyword" ref="#Myth">myths</rs>, <hi style="font-style: italic;">à la</hi> Bultmann?
+               <lb facs="#facs_143_tr_1_tl_7" n="N005"/>PT: Now "scientific" can be used in two senses. One is the sense in which I have used it in the last
+               <lb facs="#facs_143_tr_1_tl_8" n="N006"/>lecture, namely natural sciences. The other sense is methodological. In German the word
+               <lb facs="#facs_143_tr_1_tl_9" n="N007"/><hi style="font-style: italic;">Wissenschaft</hi> combines both meanings. In English, for some historical reasons, the term <hi style="font-style: italic;">scientia</hi>
+               <lb facs="#facs_143_tr_1_tl_10" n="N008"/>(science) has almost been reserved for natural sciences of a mathematical character. So the question
+               <lb facs="#facs_143_tr_1_tl_11" n="N009"/>here can mean two things. From the point of view of the narrower concept, mathematical sciences,
+               <lb facs="#facs_143_tr_1_tl_12" n="N010"/>I would answer: they have nothing to do with the question of historical research, to which I turn now.
+               <lb facs="#facs_143_tr_1_tl_13" n="N011"/>If "'scientific" is meant in a larger sense, namely as methodological, then certainly the interpretation,
+               <lb facs="#facs_143_tr_1_tl_14" n="N012"/>the historical understanding, of the biblical sources has a LOT to do with the breaking of the <rs type="keyword" ref="#Myth">myth</rs>.
+               <lb facs="#facs_143_tr_1_tl_15" n="N013"/>Perhaps there is another question---I don’t want to run ahead too quickly. Since there is not,
+               <lb facs="#facs_143_tr_1_tl_16" n="N014"/>I run ahead!
+               <lb facs="#facs_143_tr_1_tl_17" n="N015"/>The general subject is the relationship of religious truth to cognitive truth, and we wanted
+               <lb facs="#facs_143_tr_1_tl_18" n="N016"/>to proceed in three steps: <truth_scientific>scientific truth</truth_scientific>, <truth_historical>historical truth</truth_historical>, and <truth_philosophical>philosophical truth</truth_philosophical>. We discussed
+               <lb facs="#facs_143_tr_1_tl_19" n="N017"/>last week and the week before, scientific truth. The most important point perhaps was the very last one
+               <lb facs="#facs_143_tr_1_tl_20" n="N018"/>on Thursday, namely the question of <rs type="keyword" ref="#Ideology">ideology</rs>, the question of <rs type="keyword" ref="#Projection_theories">projection</rs>, in another terminology; the
+               <lb facs="#facs_143_tr_1_tl_21" n="N019"/>question: Can <genesis>genesis</genesis>, the becoming of something in the mind or in society, determine about its truth
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

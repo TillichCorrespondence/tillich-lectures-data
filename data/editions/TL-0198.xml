@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p198</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p198</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_198">
+         <graphic url="TL-0198.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NWMERSRWSCVRUPVWSBKSXWEX&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="35,219 35,3487 2382,3487 2382,219" rendition="TextRegion" xml:id="facs_198_tr_1">
+            <zone points="1171,279 1192,281 1215,294 1246,294 1253,286 1261,294 1292,289 1289,223 1266,223 1261,217 1251,220 1243,215 1225,223 1220,220 1207,233 1169,235" rendition="Line" xml:id="facs_198_tr_1_tl_1"/>
+            <zone points="343,412 2251,476 2248,419 2171,404 343,371" rendition="Line" xml:id="facs_198_tr_1_tl_2"/>
+            <zone points="343,563 1985,604 2064,642 2217,614 2215,547 343,532" rendition="Line" xml:id="facs_198_tr_1_tl_3"/>
+            <zone points="338,711 2274,767 2274,703 2123,678 2033,726 1862,691 338,685" rendition="Line" xml:id="facs_198_tr_1_tl_4"/>
+            <zone points="335,870 2261,918 2258,852 2115,813 1939,872 575,813 335,839" rendition="Line" xml:id="facs_198_tr_1_tl_5"/>
+            <zone points="325,1015 2205,1064 2112,997 325,990" rendition="Line" xml:id="facs_198_tr_1_tl_6"/>
+            <zone points="322,1169 1102,1222 2266,1217 2263,1156 322,1118" rendition="Line" xml:id="facs_198_tr_1_tl_7"/>
+            <zone points="322,1317 2366,1412 2378,1312 320,1289" rendition="Line" xml:id="facs_198_tr_1_tl_8"/>
+            <zone points="320,1494 545,1537 1197,1540 1243,1506 1286,1542 2302,1547 2274,1460 320,1417" rendition="Line" xml:id="facs_198_tr_1_tl_9"/>
+            <zone points="315,1667 854,1634 2197,1680 2271,1667 2271,1606 312,1570" rendition="Line" xml:id="facs_198_tr_1_tl_10"/>
+            <zone points="312,1770 624,1777 696,1813 772,1783 1156,1795 1110,1731 1038,1754 949,1726 916,1754 872,1724 785,1749 655,1721 312,1737" rendition="Line" xml:id="facs_198_tr_1_tl_11"/>
+            <zone points="483,1928 1414,1944 1675,1992 2312,1969 2309,1908 2271,1905 483,1882" rendition="Line" xml:id="facs_198_tr_1_tl_12" subtype="paragraph"/>
+            <zone points="315,2092 2174,2128 2230,2125 2230,2054 312,2020" rendition="Line" xml:id="facs_198_tr_1_tl_13"/>
+            <zone points="297,2233 1494,2253 1440,2192 852,2205 297,2143" rendition="Line" xml:id="facs_198_tr_1_tl_14"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0198.jpg" n="part1_p198.jpg" xml:id="img_0198" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p198.jpg"/>
+            
+            <ab facs="#facs_198_tr_1">
+               <lb facs="#facs_198_tr_1_tl_1" n="N001"/>[194]
+               <lb facs="#facs_198_tr_1_tl_2" n="N002"/>and are of great importance for the relation of philosophy and theology. This is the one problem,
+               <lb facs="#facs_198_tr_1_tl_3" n="N003"/>with which we have to deal. The other problem is an application of what l said in principle, and
+               <lb facs="#facs_198_tr_1_tl_4" n="N004"/>this application is especially needed in order to make my point completely convincing, namely how
+               <lb facs="#facs_198_tr_1_tl_5" n="N005"/>special philosophies, and special philosophical problems (naturalism and idealism, nominalism and
+               <lb facs="#facs_198_tr_1_tl_6" n="N006"/>realism, static and dynamic philosophy, etc.)---how in the solutions given by the philosophers to
+               <lb facs="#facs_198_tr_1_tl_7" n="N007"/>these mere philosophical problems the two elements which l have distinguished in the beginning of
+               <lb facs="#facs_198_tr_1_tl_8" n="N008"/>this lecture, APPEAR, ARE MANIFEST, and can be seen, namely the element of <rs type="keyword" ref="#Detached_observation">detached observation,</rs>
+               <lb facs="#facs_198_tr_1_tl_9" n="N009"/>in [the] special sense philosophical element, and on the other hand the element of <ultimate_concern>ultimate concern</ultimate_concern>,
+               <lb facs="#facs_198_tr_1_tl_10" n="N010"/>the element of <rs type="keyword" ref="#Faith">faith. </rs>Now l believe that it is possible, almost page by page, to analyze a philosopher
+               <lb facs="#facs_198_tr_1_tl_11" n="N011"/>from the point of view of this distinction.
+               <lb facs="#facs_198_tr_1_tl_12" n="N012"/>I will close with a personal experience. When I first read <rs type="person">John Dewey,</rs> l was told, "Now here
+               <lb facs="#facs_198_tr_1_tl_13" n="N013"/>you have a philosopher without any religious and metaphysical presuppositions." After two pages,
+               <lb facs="#facs_198_tr_1_tl_14" n="N014"/>I had discovered a DOZEN---and that, I will show next time.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

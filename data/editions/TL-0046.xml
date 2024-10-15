@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p046</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p046</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_46">
+         <graphic url="TL-0046.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=OJSYIFYYSATWCXVQLZPXSETZ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="190,275 190,3485 2307,3485 2307,275" rendition="TextRegion" xml:id="facs_46_tr_3">
+            <zone points="1192,318 1204,318 1211,325 1231,325 1236,330 1261,330 1264,333 1288,330 1288,281 1271,281 1254,263 1226,283 1192,283" rendition="Line" xml:id="facs_46_tr_3_tl_1"/>
+            <zone points="606,499 2190,496 2207,429 606,442" rendition="Line" xml:id="facs_46_tr_3_tl_2" subtype="paragraph"/>
+            <zone points="310,588 477,631 837,628 1033,573 1311,613 2195,598 2175,516 310,536" rendition="Line" xml:id="facs_46_tr_3_tl_3"/>
+            <zone points="310,685 822,710 941,658 1626,653 2257,688 2257,608 310,626" rendition="Line" xml:id="facs_46_tr_3_tl_4"/>
+            <zone points="308,777 1864,732 2167,760 2170,698 308,712" rendition="Line" xml:id="facs_46_tr_3_tl_5"/>
+            <zone points="308,839 1053,871 1368,866 1490,819 2185,829 2185,777 2085,755 1817,794 1552,797 1509,755 1105,802 308,792" rendition="Line" xml:id="facs_46_tr_3_tl_6"/>
+            <zone points="315,928 2125,909 2093,864 1884,851 315,884" rendition="Line" xml:id="facs_46_tr_3_tl_7"/>
+            <zone points="300,1013 2165,998 2165,943 1765,931 1363,971 1301,938 300,963" rendition="Line" xml:id="facs_46_tr_3_tl_8"/>
+            <zone points="315,1090 2229,1075 2229,1023 1959,1010 1509,1050 926,1020 658,1060 539,1010 315,1043" rendition="Line" xml:id="facs_46_tr_3_tl_9"/>
+            <zone points="318,1179 2254,1167 2254,1115 2187,1100 318,1115" rendition="Line" xml:id="facs_46_tr_3_tl_10"/>
+            <zone points="318,1259 1621,1246 2031,1283 2006,1197 318,1211" rendition="Line" xml:id="facs_46_tr_3_tl_11"/>
+            <zone points="318,1348 700,1378 802,1333 2222,1326 2222,1274 318,1293" rendition="Line" xml:id="facs_46_tr_3_tl_12"/>
+            <zone points="315,1422 2224,1410 2224,1358 1966,1383 1847,1350 315,1380" rendition="Line" xml:id="facs_46_tr_3_tl_13"/>
+            <zone points="315,1512 2152,1512 2152,1447 2098,1437 315,1465" rendition="Line" xml:id="facs_46_tr_3_tl_14"/>
+            <zone points="315,1591 613,1636 1415,1576 2187,1606 2190,1532 2088,1522 318,1561" rendition="Line" xml:id="facs_46_tr_3_tl_15"/>
+            <zone points="315,1681 417,1723 2242,1661 2199,1601 315,1631" rendition="Line" xml:id="facs_46_tr_3_tl_16"/>
+            <zone points="308,1753 993,1800 2172,1787 2304,1777 2306,1705 308,1728" rendition="Line" xml:id="facs_46_tr_3_tl_17"/>
+            <zone points="308,1892 1229,1874 1229,1797 1149,1785 487,1802 462,1780 308,1817" rendition="Line" xml:id="facs_46_tr_3_tl_18"/>
+            <zone points="608,2006 2137,1996 2137,1936 611,1956" rendition="Line" xml:id="facs_46_tr_3_tl_19" subtype="paragraph"/>
+            <zone points="320,2100 2187,2085 2187,2031 2100,2028 320,2048" rendition="Line" xml:id="facs_46_tr_3_tl_20"/>
+            <zone points="308,2172 2115,2165 2090,2110 310,2118" rendition="Line" xml:id="facs_46_tr_3_tl_21"/>
+            <zone points="320,2274 2209,2254 2209,2199 1862,2190 1827,2222 1710,2190 1671,2222 320,2219" rendition="Line" xml:id="facs_46_tr_3_tl_22"/>
+            <zone points="315,2353 2182,2368 2182,2286 2137,2271 315,2304" rendition="Line" xml:id="facs_46_tr_3_tl_23"/>
+            <zone points="320,2465 2170,2420 2170,2368 1668,2358 323,2393" rendition="Line" xml:id="facs_46_tr_3_tl_24"/>
+            <zone points="315,2517 2165,2505 2165,2440 315,2470" rendition="Line" xml:id="facs_46_tr_3_tl_25"/>
+            <zone points="320,2604 2185,2582 2157,2537 1971,2525 1611,2562 1365,2530 320,2554" rendition="Line" xml:id="facs_46_tr_3_tl_26"/>
+            <zone points="315,2686 2093,2679 2093,2626 2008,2614 688,2624 623,2656 315,2624" rendition="Line" xml:id="facs_46_tr_3_tl_27"/>
+            <zone points="315,2770 2145,2758 2145,2706 1485,2728 1393,2674 1221,2728 871,2694 315,2721" rendition="Line" xml:id="facs_46_tr_3_tl_28"/>
+            <zone points="320,2860 2125,2842 2125,2780 1480,2820 320,2798" rendition="Line" xml:id="facs_46_tr_3_tl_29"/>
+            <zone points="318,2939 1358,2927 1517,2962 1671,2919 2152,2924 2152,2877 2095,2862 318,2890" rendition="Line" xml:id="facs_46_tr_3_tl_30"/>
+            <zone points="315,3034 2162,3014 2165,2962 315,2962" rendition="Line" xml:id="facs_46_tr_3_tl_31"/>
+            <zone points="310,3098 2165,3091 2167,3029 313,3061" rendition="Line" xml:id="facs_46_tr_3_tl_32"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0046.jpg" n="part1_p046.jpg" xml:id="img_0046" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p046.jpg"/>
+            
+            <ab facs="#facs_46_tr_3">
+               <lb facs="#facs_46_tr_3_tl_1" n="N001"/>[43]
+               <lb facs="#facs_46_tr_3_tl_2" n="N002"/>Let me give you something from the realm to which we return later more
+               <lb facs="#facs_46_tr_3_tl_3" n="N003"/>fully. <rs type="keyword" ref="#Symbols">The flag of a nation: what does it do? In itself it is a piece of cloth with special
+               <lb break="no" facs="#facs_46_tr_3_tl_4" n="N004"/>colors, and nothing else. But this cloth and these colors have become symbols by a process
+               <lb break="no" facs="#facs_46_tr_3_tl_5" n="N005"/>which originally, perhaps, was a conscious decision, but after it has been introduced, it
+               <lb break="no" facs="#facs_46_tr_3_tl_6" n="N006"/>stands for the majesty of the nation or the state. And in doing so, it participates in its
+               <lb break="no" facs="#facs_46_tr_3_tl_7" n="N007"/>power. </rs>For centuries the attitude of the citizen to the flag is a matter of discussion.
+               <lb facs="#facs_46_tr_3_tl_8" n="N008"/>And many injuries have been done, either to the majesty of the nation by people who
+               <lb facs="#facs_46_tr_3_tl_9" n="N009"/>didn’t regard it, or to people who were accused of not regarding it. I remember from the
+               <lb facs="#facs_46_tr_3_tl_10" n="N010"/>last book of Erich Fromm, the psychoanalyst, that he tries to show what is a real symbol,
+               <lb facs="#facs_46_tr_3_tl_11" n="N011"/>with all the power of a real symbol, for most people today. And he gives as an
+               <lb facs="#facs_46_tr_3_tl_12" n="N012"/>example also the flag, and imagine that somebody publicly, in the marketplace, desecrates
+               <lb facs="#facs_46_tr_3_tl_13" n="N013"/>the flag, treads on it with his feet, and does to it something which makes it a matter of
+               <lb facs="#facs_46_tr_3_tl_14" n="N014"/>contempt. There would be a tremendous reaction of the unconscious of the group for
+               <lb facs="#facs_46_tr_3_tl_15" n="N015"/>which this flag is a symbol, because this flag, after it has become a symbol, participates
+               <lb facs="#facs_46_tr_3_tl_16" n="N016"/>in the majesty of the reality, which cannot be expressed in other ways, or which must be
+               <lb facs="#facs_46_tr_3_tl_17" n="N017"/>expressed symbolically, because a nation is not given in the sense in which this desk is given,
+               <lb facs="#facs_46_tr_3_tl_18" n="N018"/>and therefore it needs symbolic expression.
+               <lb facs="#facs_46_tr_3_tl_19" n="N019"/>Let me make a footnote here about monarchy. No one can understand
+               <lb facs="#facs_46_tr_3_tl_20" n="N020"/>monarchy and its meaning who does not understand what symbols are. It is not a form
+               <lb facs="#facs_46_tr_3_tl_21" n="N021"/>of government--that it is also, but this is not important. Why should not forms of
+               <lb facs="#facs_46_tr_3_tl_22" n="N022"/>government change, and could have always changed? Laws have always changed. But it is
+               <lb facs="#facs_46_tr_3_tl_23" n="N023"/>more than this. It is representation in the person of the king or queen [of] the reality
+               <lb facs="#facs_46_tr_3_tl_24" n="N024"/>which OTHERWISE CANNOT BE EXPRESSED. And the participation in the power of
+               <lb facs="#facs_46_tr_3_tl_25" n="N025"/>this reality, namely the nation, is not only expressed in the fact that this person HAS
+               <lb facs="#facs_46_tr_3_tl_26" n="N026"/>some power--in many cases, he or she has very little power, as in present-day England--
+               <lb facs="#facs_46_tr_3_tl_27" n="N027"/>but from the point of view of the REPRESENTATIVE power, the power which is
+               <lb facs="#facs_46_tr_3_tl_28" n="N028"/>expressed in the MAJESTY of the nation, THERE is the real reason for the tremendous
+               <lb facs="#facs_46_tr_3_tl_29" n="N029"/>importance many people have always contributed [i.e., attached--ed.] to this symbol.
+               <lb facs="#facs_46_tr_3_tl_30" n="N030"/>One has often ridiculed--especially from religious sides--the fact that kings usually sign
+               <lb facs="#facs_46_tr_3_tl_31" n="N031"/>[their name], ''We, King, e.g., Wilhelm II, Emperor by the grace of God''--what does
+               <lb facs="#facs_46_tr_3_tl_32" n="N032"/>that mean? This does not mean he has a special grace, but it means that here, in this
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

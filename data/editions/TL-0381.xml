@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p097</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p097</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_97">
+         <graphic url="TL-0381.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UWWKARFZPBTTQSIDMBVWZSNX&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="122,15 2152,15 2152,1216 122,1216" rendition="TextRegion" xml:id="facs_97_tr_2">
+            <zone points="1098,351 1111,351 1114,357 1137,364 1169,359 1174,364 1218,364 1223,307 1189,312 1174,291 1166,289 1153,294 1140,307 1098,310" rendition="Line" xml:id="facs_97_tr_2_tl_2"/>
+            <zone points="232,523 2072,507 2144,502 2147,437 232,487" rendition="Line" xml:id="facs_97_tr_2_tl_3"/>
+            <zone points="232,674 2009,658 2069,596 232,645" rendition="Line" xml:id="facs_97_tr_2_tl_4"/>
+            <zone points="229,828 2126,812 2129,750 229,799" rendition="Line" xml:id="facs_97_tr_2_tl_5"/>
+            <zone points="229,971 2092,963 2095,903 232,926" rendition="Line" xml:id="facs_97_tr_2_tl_6"/>
+            <zone points="232,1124 1541,1119 1699,1109 1699,1057 232,1080" rendition="Line" xml:id="facs_97_tr_2_tl_7"/>
+         </zone>
+         <zone points="247,1194 2176,1194 2176,2037 247,2037" rendition="TextRegion" xml:id="facs_97_tr_3">
+            <zone points="466,1270 2022,1265 2090,1252 2090,1202 466,1223" rendition="Line" xml:id="facs_97_tr_3_tl_1" subtype="paragraph"/>
+            <zone points="242,1431 1822,1421 2069,1405 2072,1351 245,1379" rendition="Line" xml:id="facs_97_tr_3_tl_2"/>
+            <zone points="237,1590 1741,1603 2035,1569 2035,1504 237,1530" rendition="Line" xml:id="facs_97_tr_3_tl_3"/>
+            <zone points="232,1733 2150,1712 2173,1650 232,1681" rendition="Line" xml:id="facs_97_tr_3_tl_4"/>
+            <zone points="422,1941 796,1871 2056,1861 2079,1801 424,1832" rendition="Line" xml:id="facs_97_tr_3_tl_5"/>
+            <zone points="242,2033 1179,2038 1455,2022 1455,1967 242,1983" rendition="Line" xml:id="facs_97_tr_3_tl_7"/>
+         </zone>
+         <zone points="23,2099 2328,2099 2328,3473 23,3473" rendition="TextRegion" xml:id="facs_97_tr_1">
+            <zone points="461,2189 1793,2160 2204,2210 2223,2103 461,2152" rendition="Line" xml:id="facs_97_tr_1_tl_1" subtype="paragraph"/>
+            <zone points="237,2405 463,2334 2064,2319 2087,2254 239,2285" rendition="Line" xml:id="facs_97_tr_1_tl_2"/>
+            <zone points="229,2480 1944,2480 2183,2467 2186,2405 232,2431" rendition="Line" xml:id="facs_97_tr_1_tl_3"/>
+            <zone points="232,2636 2324,2605 2327,2543 232,2608" rendition="Line" xml:id="facs_97_tr_1_tl_4"/>
+            <zone points="237,2787 2092,2759 2111,2701 239,2733" rendition="Line" xml:id="facs_97_tr_1_tl_5"/>
+            <zone points="237,2938 2108,2912 2131,2852 237,2907" rendition="Line" xml:id="facs_97_tr_1_tl_6"/>
+            <zone points="239,3092 1426,3087 1624,3076 1624,3019 239,3045" rendition="Line" xml:id="facs_97_tr_1_tl_7"/>
+            <zone points="463,3243 895,3295 2121,3261 2077,3183 919,3243 463,3183" rendition="Line" xml:id="facs_97_tr_1_tl_8" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0381.jpg" n="part2_p097.jpg" xml:id="img_0097" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p097.jpg"/>
+            
+            <ab facs="#facs_97_tr_2">
+               <lb facs="#facs_97_tr_2_tl_2" n="N001"/>[376]
+               <lb facs="#facs_97_tr_2_tl_3" n="N002"/>about the existence of the artificial brain and who do something else very foolish: they interpret
+               <lb facs="#facs_97_tr_2_tl_4" n="N003"/>man's USE of HIS brain, man’s creativity which always uses the human brain, in terms of the
+               <lb facs="#facs_97_tr_2_tl_5" n="N004"/>artificial brain. They derive the creator from the creation. They derive that which is completely
+               <lb facs="#facs_97_tr_2_tl_6" n="N005"/>mechanized, and can be mechanized, from that which makes the mechanization possible,
+               <lb facs="#facs_97_tr_2_tl_7" n="N006"/>namely man’s inventive analysis of reality and synthesis of technical tools.
+            </ab>
+            <ab facs="#facs_97_tr_3">
+               <lb facs="#facs_97_tr_3_tl_1" n="N001"/>This means that we don’t need to be afraid about a dissolution of man’s creativity in
+               <lb facs="#facs_97_tr_3_tl_2" n="N002"/>calculable functions. This is never possible because the functions are always the product of a
+               <lb facs="#facs_97_tr_3_tl_3" n="N003"/>creative center. This difference is decisive. But of course the CONSEQUENCES for man's
+               <lb facs="#facs_97_tr_3_tl_4" n="N004"/>interpretation of himself as an object are tremendous in the moment in which this confusion
+               <lb facs="#facs_97_tr_3_tl_5" n="N005"/>is maintained and in which creator and creation, in which man's freedom and the tool
+               <lb facs="#facs_97_tr_3_tl_7" n="N006"/>which he produces in the power of his freedom, are confused.
+            </ab>
+            <ab facs="#facs_97_tr_1">
+               <lb facs="#facs_97_tr_1_tl_1" n="N001"/>Another of these objectifying powers is something which you meet in your psychological
+               <lb facs="#facs_97_tr_1_tl_2" n="N002"/>studies. I was in a school in New York two days ago where the president told me that by far
+               <lb facs="#facs_97_tr_1_tl_3" n="N003"/>his biggest department is the department of psychology, although it is a school, mostly an evening
+               <lb facs="#facs_97_tr_1_tl_4" n="N004"/>school, for people who are in business or [the] professions. And I asked him how is that understandable?
+               <lb facs="#facs_97_tr_1_tl_5" n="N005"/>The answer was that all the industrial enterprises needed psychologists who are able to use the
+               <lb facs="#facs_97_tr_1_tl_6" n="N006"/>mechanized methods of test psychology. This means that much of what belongs to man is now
+               <lb facs="#facs_97_tr_1_tl_7" n="N007"/>subjected to the method of mechanical connections and dependences.
+               <lb facs="#facs_97_tr_1_tl_8" n="N008"/>Let me say something about this test method. Test in itself is nothing objectifying.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

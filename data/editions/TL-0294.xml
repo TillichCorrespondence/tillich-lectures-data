@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p010</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p010</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_10">
+         <graphic url="TL-0294.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RCFGVNYBPFYMHJDZKVZDXZUW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="188,260 2292,260 2292,1326 188,1326" rendition="TextRegion" xml:id="facs_10_tr_1">
+            <zone points="1019,320 1033,320 1057,334 1092,336 1105,328 1110,334 1121,334 1126,328 1140,331 1145,262 1094,262 1089,256 1062,280 1022,280" rendition="Line" xml:id="facs_10_tr_1_tl_1"/>
+            <zone points="173,486 2194,512 2148,406 173,443" rendition="Line" xml:id="facs_10_tr_1_tl_2"/>
+            <zone points="179,643 1983,630 2098,622 2100,563 179,595" rendition="Line" xml:id="facs_10_tr_1_tl_3"/>
+            <zone points="179,790 2284,806 2284,710 179,734" rendition="Line" xml:id="facs_10_tr_1_tl_4"/>
+            <zone points="173,934 1425,934 1302,883 173,883" rendition="Line" xml:id="facs_10_tr_1_tl_6"/>
+            <zone points="173,1094 339,1110 544,1097 616,1113 614,1038 173,1046" rendition="Line" xml:id="facs_10_tr_1_tl_7"/>
+            <zone points="376,1166 2202,1161 2159,1086 376,1105" rendition="Line" xml:id="facs_10_tr_1_tl_8" subtype="paragraph"/>
+            <zone points="376,1326 1134,1350 2244,1300 2247,1246 379,1273" rendition="Line" xml:id="facs_10_tr_1_tl_10"/>
+         </zone>
+         <zone points="185,1392 2316,1392 2316,2314 185,2314" rendition="TextRegion" xml:id="facs_10_tr_3">
+            <zone points="171,1473 2044,1462 2239,1454 2239,1396 173,1438" rendition="Line" xml:id="facs_10_tr_3_tl_1"/>
+            <zone points="171,1623 2004,1623 2196,1607 2199,1553 171,1596" rendition="Line" xml:id="facs_10_tr_3_tl_2"/>
+            <zone points="173,1780 1895,1769 2100,1759 2103,1705 173,1727" rendition="Line" xml:id="facs_10_tr_3_tl_3"/>
+            <zone points="173,1935 197,1943 227,1930 518,1932 518,1895 502,1895 480,1873 173,1884" rendition="Line" xml:id="facs_10_tr_3_tl_4"/>
+            <zone points="379,2004 1751,1988 1884,2050 2098,2018 2100,1951 382,1935" rendition="Line" xml:id="facs_10_tr_3_tl_5" subtype="paragraph"/>
+            <zone points="171,2159 998,2159 998,2127 918,2092 254,2111 235,2130 173,2111" rendition="Line" xml:id="facs_10_tr_3_tl_6"/>
+            <zone points="368,2306 2308,2295 2308,2231 368,2274" rendition="Line" xml:id="facs_10_tr_3_tl_7" subtype="paragraph"/>
+         </zone>
+         <zone points="47,2374 2322,2374 2322,3479 47,3479" rendition="TextRegion" xml:id="facs_10_tr_2">
+            <zone points="173,2463 1839,2439 1996,2501 2319,2399 173,2407" rendition="Line" xml:id="facs_10_tr_2_tl_1"/>
+            <zone points="165,2613 1003,2615 1025,2613 1025,2559 576,2573 512,2546 165,2583" rendition="Line" xml:id="facs_10_tr_2_tl_2"/>
+            <zone points="368,2757 2028,2789 2207,2749 2207,2698 368,2725" rendition="Line" xml:id="facs_10_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="296,2922 2111,2901 2196,2896 2196,2834 296,2888" rendition="Line" xml:id="facs_10_tr_2_tl_4"/>
+            <zone points="173,3074 2138,3056 2279,3048 2282,2984 173,3034" rendition="Line" xml:id="facs_10_tr_2_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0294.jpg" n="part2_p010.jpg" xml:id="img_0010" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p010.jpg"/>
+            
+            <ab facs="#facs_10_tr_1">
+               <lb facs="#facs_10_tr_1_tl_1" n="N001"/>[290]
+               <lb facs="#facs_10_tr_1_tl_2" n="N002"/>return to the meaning of symbols. Finally I want to DISCUSS with you the problem of religion in the
+               <lb facs="#facs_10_tr_1_tl_3" n="N003"/>whole of the university, the question which is so much alive at Harvard today, and radiating from
+               <lb facs="#facs_10_tr_1_tl_4" n="N004"/>Harvard into the whole country---<hi style="font-style: italic;">[some laughter]</hi> (that sounds very proud!)---the function of the theological
+               <lb facs="#facs_10_tr_1_tl_6" n="N005"/>faculty within the whole of the university life. (But I can [provide] evidence for my pride, from
+               <lb facs="#facs_10_tr_1_tl_7" n="N006"/>traveling very much.)
+               <lb facs="#facs_10_tr_1_tl_8" n="N007"/>From the educational we come to the ethical realm. Here we have two main considerations,
+               <lb facs="#facs_10_tr_1_tl_10" n="N008"/>a general one which I would call formal ethics: where does the moral ought-to-be come from? Where do
+            </ab>
+            <ab facs="#facs_10_tr_3">
+               <lb facs="#facs_10_tr_3_tl_1" n="N001"/>the always-changing contents of the ethical demands come from? What does its unconditional, and what
+               <lb facs="#facs_10_tr_3_tl_2" n="N002"/>does its conditional, character mean? This leads to the very pressing question, which is a very real one
+               <lb facs="#facs_10_tr_3_tl_3" n="N003"/>for the lives of all of you, namely the question of ethical relativism and how we are able to take a
+               <lb facs="#facs_10_tr_3_tl_4" n="N004"/>position to this.
+               <lb facs="#facs_10_tr_3_tl_5" n="N005"/>Then the next would be the ethics of being and the ethics of ought-to-be: love and law
+               <lb facs="#facs_10_tr_3_tl_6" n="N006"/>in relationship to man's ethical situation.
+               <lb facs="#facs_10_tr_3_tl_7" n="N007"/>Finally a subject matter in which ethics and psychology work together, [and] the question of
+            </ab>
+            <ab facs="#facs_10_tr_2">
+               <lb facs="#facs_10_tr_2_tl_1" n="N001"/>religion comes in, namely the bearer of ethics, the idea and the ideal of personality---what personality means
+               <lb facs="#facs_10_tr_2_tl_2" n="N002"/>and what the religious relationship is to it.
+               <lb facs="#facs_10_tr_2_tl_3" n="N003"/>After having dealt with personal ethics and formal ethics, we come to social ethics, the many
+               <lb facs="#facs_10_tr_2_tl_4" n="N004"/>problems of community, of collectivism, of conformism, of revolution against conformism, and
+               <lb facs="#facs_10_tr_2_tl_5" n="N005"/>especially the relation of the Protestant principle to an increasingly conformist culture. Then the question
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

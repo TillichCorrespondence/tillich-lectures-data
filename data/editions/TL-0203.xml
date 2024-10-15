@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p203</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p203</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_203">
+         <graphic url="TL-0203.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UEEETCMJMQHFQKKSRBKGIJZH&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="220,189 220,3484 2355,3484 2355,189" rendition="TextRegion" xml:id="facs_203_tr_1">
+            <zone points="1137,264 1164,269 1172,277 1206,280 1241,280 1262,269 1262,192 1238,194 1209,186 1203,192 1187,189 1177,197 1137,197" rendition="Line" xml:id="facs_203_tr_1_tl_1"/>
+            <zone points="216,445 2090,423 2090,365 1906,341 216,394" rendition="Line" xml:id="facs_203_tr_1_tl_2"/>
+            <zone points="210,583 2138,572 2138,498 2000,495 210,554" rendition="Line" xml:id="facs_203_tr_1_tl_3"/>
+            <zone points="208,740 2170,716 2170,663 2087,644 208,706" rendition="Line" xml:id="facs_203_tr_1_tl_4"/>
+            <zone points="511,884 2234,863 2205,796 514,828" rendition="Line" xml:id="facs_203_tr_1_tl_5"/>
+            <zone points="205,1036 2199,1014 2162,948 205,1004" rendition="Line" xml:id="facs_203_tr_1_tl_7"/>
+            <zone points="210,1195 2282,1174 2260,1092 213,1161" rendition="Line" xml:id="facs_203_tr_1_tl_8"/>
+            <zone points="210,1342 2170,1326 2239,1278 210,1291" rendition="Line" xml:id="facs_203_tr_1_tl_9"/>
+            <zone points="205,1491 1848,1486 2308,1470 2311,1422 208,1432" rendition="Line" xml:id="facs_203_tr_1_tl_10"/>
+            <zone points="205,1643 2260,1624 2234,1558 205,1616" rendition="Line" xml:id="facs_203_tr_1_tl_11"/>
+            <zone points="210,1808 2170,1776 2276,1765 2279,1725 213,1741" rendition="Line" xml:id="facs_203_tr_1_tl_12"/>
+            <zone points="210,1949 634,1952 634,1917 612,1917 591,1896 210,1901" rendition="Line" xml:id="facs_203_tr_1_tl_13"/>
+            <zone points="415,2018 2146,1997 2146,1936 2042,1925 415,1984" rendition="Line" xml:id="facs_203_tr_1_tl_14" subtype="paragraph"/>
+            <zone points="210,2175 322,2215 1366,2178 1419,2213 1728,2157 1731,2101 210,2127" rendition="Line" xml:id="facs_203_tr_1_tl_15"/>
+            <zone points="418,2324 2199,2300 2266,2290 2268,2223 2098,2260 1970,2231 418,2287" rendition="Line" xml:id="facs_203_tr_1_tl_16" subtype="paragraph"/>
+            <zone points="208,2473 325,2492 623,2479 623,2436 602,2436 575,2407 540,2439 431,2442 415,2428 383,2442 365,2423 341,2442 314,2412 277,2444 240,2428 208,2436" rendition="Line" xml:id="facs_203_tr_1_tl_17"/>
+            <zone points="421,2556 1757,2527 1832,2564 2242,2564 2242,2455 618,2511 421,2479" rendition="Line" xml:id="facs_203_tr_1_tl_18" subtype="paragraph"/>
+            <zone points="210,2713 264,2756 413,2758 525,2702 2311,2678 2354,2625 210,2670" rendition="Line" xml:id="facs_203_tr_1_tl_19"/>
+            <zone points="216,2852 1422,2868 1456,2836 2282,2822 2306,2756 216,2822" rendition="Line" xml:id="facs_203_tr_1_tl_20"/>
+            <zone points="210,3003 2029,2985 2247,2974 2250,2907 210,2974" rendition="Line" xml:id="facs_203_tr_1_tl_21"/>
+            <zone points="210,3155 2186,3168 2189,3070 213,3128" rendition="Line" xml:id="facs_203_tr_1_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0203.jpg" n="part1_p203.jpg" xml:id="img_0203" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p203.jpg"/>
+            
+            <ab facs="#facs_203_tr_1">
+               <lb facs="#facs_203_tr_1_tl_1" n="N001"/>[199]
+               <lb facs="#facs_203_tr_1_tl_2" n="N002"/>a kind of new reality, a third reality BESIDE the two of them, and that means the "third man,"
+               <lb facs="#facs_203_tr_1_tl_3" n="N003"/><rs type="keyword" ref="#Tritos_Anthropos">the <hi style="font-style: italic;">tritos anthropos</hi>. </rs>This argument is very valid and is the real danger of realistic thinking,
+               <lb facs="#facs_203_tr_1_tl_4" n="N004"/>and theology is FULL of such wrong<rs type="keyword" ref="#Realism"> realistic thinking</rs>. But there is an argument of which we have
+               <lb facs="#facs_203_tr_1_tl_5" n="N005"/>become aware since the Middle Ages and again in our modern period, namely the collectivistic
+               <lb facs="#facs_203_tr_1_tl_7" n="N006"/>danger of <rs type="keyword" ref="#Realism">realism. Realism</rs>, if it is carried through radically, as it was in some periods of the Middle
+               <lb facs="#facs_203_tr_1_tl_8" n="N007"/>Ages, devalues the <rs type="keyword" ref="#Individual">individual </rs>and would declare, in our example, that the common humanity of Paul
+               <lb facs="#facs_203_tr_1_tl_9" n="N008"/>and John is important, but not they as individuals. And this was a REAL danger of the Middle Ages.
+               <lb facs="#facs_203_tr_1_tl_10" n="N009"/>If this danger had not been recognized and attacked BY<rs type="keyword" ref="#Nominalism"> nominalism</rs>, the Middle Ages would have become
+               <lb facs="#facs_203_tr_1_tl_11" n="N010"/>a relapse into a kind of magic r<rs type="keyword" ref="#Realism">ealism</rs> without the acknowledgment of the importance of the <rs type="keyword" ref="#Individual">individual
+               <lb break="no" facs="#facs_203_tr_1_tl_12" n="N011"/>personality. </rs>A relapse to primitive collectivism was the danger which was overcome by the <rs type="keyword" ref="#Nominalism">nominalistic</rs>
+               <lb facs="#facs_203_tr_1_tl_13" n="N012"/>criticism of <rs type="keyword" ref="#Realism">realism</rs>.
+               <lb facs="#facs_203_tr_1_tl_14" n="N013"/>Now here you see that this is not a matter of mere magic, but it is a matter here also of
+               <lb facs="#facs_203_tr_1_tl_15" n="N014"/>ethics and a philosophical argument <rs type="keyword" ref="#Individual">against the extinction of the individual.</rs>
+               <lb facs="#facs_203_tr_1_tl_16" n="N015"/>As far as that, philosophy goes---although already the theological implication indicated itself
+               <lb facs="#facs_203_tr_1_tl_17" n="N016"/>in my last example.
+               <lb facs="#facs_203_tr_1_tl_18" n="N017"/>Now we come to the theological problem implied in this discussion between <rs type="keyword" ref="#Logical_Positivism">positivism</rs> and
+               <lb facs="#facs_203_tr_1_tl_19" n="N018"/><rs type="keyword" ref="#Ontology">ontology.</rs> In<rs type="keyword" ref="#Ontology"> ontology</rs> there is not only the acceptance of the <rs type="keyword" ref="#Universal_category">universals</rs> as powers of being, which always
+               <lb facs="#facs_203_tr_1_tl_20" n="N019"/>determine that a tree becomes a tree, but there is MORE involved, namely that experience OF <rs type="keyword" ref="#Power_of_Being">power-of-
+               <lb break="no" facs="#facs_203_tr_1_tl_21" n="N020"/>being itself. </rs>And THAT experience is a matter of <ultimate_concern>ultimate concern.</ultimate_concern> I have often been criticized from
+               <lb facs="#facs_203_tr_1_tl_22" n="N021"/><rs type="keyword" ref="#Nominalism">nominalistic</rs> theologians who of course wouldn't call themselves nominalistic---they call themselves
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

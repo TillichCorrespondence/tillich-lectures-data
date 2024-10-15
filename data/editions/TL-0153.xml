@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p153</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p153</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_153">
+         <graphic url="TL-0153.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RWLAXIPKBHTDKVNSTBYTEGAI&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="304,265 304,3458 2394,3458 2394,265" rendition="TextRegion" xml:id="facs_153_tr_3">
+            <zone points="1225,332 1253,334 1261,342 1325,342 1338,332 1356,332 1353,288 1317,288 1312,283 1289,280 1276,268 1255,288 1222,288" rendition="Line" xml:id="facs_153_tr_3_tl_1"/>
+            <zone points="319,450 720,484 1119,455 1528,517 1695,455 2194,463 2156,396 2035,412 1999,376 1942,412 1266,381 319,414" rendition="Line" xml:id="facs_153_tr_3_tl_2"/>
+            <zone points="319,571 1327,597 1407,646 2302,581 2302,525 2243,507 1816,525 1649,484 1441,538 319,545" rendition="Line" xml:id="facs_153_tr_3_tl_3"/>
+            <zone points="319,718 2313,689 2313,643 2207,630 1664,646 1610,612 319,664" rendition="Line" xml:id="facs_153_tr_3_tl_4"/>
+            <zone points="324,813 581,821 900,800 900,777 859,777 831,749 815,764 406,754 324,777" rendition="Line" xml:id="facs_153_tr_3_tl_6"/>
+            <zone points="316,924 2243,924 2243,880 2163,864 316,880" rendition="Line" xml:id="facs_153_tr_3_tl_7"/>
+            <zone points="316,1042 641,1047 700,1088 1091,1042 2223,1044 2223,996 2043,985 316,1001" rendition="Line" xml:id="facs_153_tr_3_tl_8"/>
+            <zone points="324,1165 1935,1155 2143,1204 2387,1191 2387,1111 406,1101 324,1132" rendition="Line" xml:id="facs_153_tr_3_tl_9"/>
+            <zone points="314,1279 2181,1279 2181,1225 314,1232" rendition="Line" xml:id="facs_153_tr_3_tl_10"/>
+            <zone points="319,1410 2300,1397 2300,1340 319,1351" rendition="Line" xml:id="facs_153_tr_3_tl_11"/>
+            <zone points="311,1518 566,1518 566,1464 468,1464 440,1482 412,1461 363,1466 352,1459 329,1482 311,1482" rendition="Line" xml:id="facs_153_tr_3_tl_12"/>
+            <zone points="530,1626 1008,1672 1320,1626 2264,1626 2264,1551 2181,1587 2138,1554 1839,1590 1559,1554 1525,1587 1248,1559 1214,1592 623,1595 576,1562 530,1595" rendition="Line" xml:id="facs_153_tr_3_tl_13" subtype="paragraph"/>
+            <zone points="306,1747 2236,1765 2199,1685 306,1703" rendition="Line" xml:id="facs_153_tr_3_tl_14"/>
+            <zone points="306,1888 355,1924 677,1891 1317,1924 1423,1870 1423,1816 1199,1806 476,1834 383,1808 306,1837" rendition="Line" xml:id="facs_153_tr_3_tl_15"/>
+            <zone points="525,1981 854,2022 2169,1996 2169,1924 525,1935" rendition="Line" xml:id="facs_153_tr_3_tl_16" subtype="paragraph"/>
+            <zone points="296,2143 2048,2104 2048,2048 2009,2045 296,2073" rendition="Line" xml:id="facs_153_tr_3_tl_17"/>
+            <zone points="311,2225 2122,2215 2097,2153 311,2171" rendition="Line" xml:id="facs_153_tr_3_tl_18"/>
+            <zone points="296,2341 2174,2333 2174,2282 1793,2269 296,2313" rendition="Line" xml:id="facs_153_tr_3_tl_19"/>
+            <zone points="298,2457 2127,2454 2097,2390 298,2416" rendition="Line" xml:id="facs_153_tr_3_tl_20"/>
+            <zone points="298,2578 1616,2572 1610,2521 1441,2511 301,2534" rendition="Line" xml:id="facs_153_tr_3_tl_21"/>
+            <zone points="517,2683 2279,2724 2279,2624 517,2634" rendition="Line" xml:id="facs_153_tr_3_tl_22" subtype="paragraph"/>
+            <zone points="684,2801 2230,2804 2199,2740 684,2765" rendition="Line" xml:id="facs_153_tr_3_tl_23"/>
+            <zone points="293,2922 1150,2917 1616,2971 2169,2943 2171,2863 2040,2858 296,2879" rendition="Line" xml:id="facs_153_tr_3_tl_25"/>
+            <zone points="293,3077 1525,3054 1744,3108 1893,3030 2194,3036 2194,2982 1842,2984 1754,2938 1685,2989 1487,2956 1384,2994 293,2997" rendition="Line" xml:id="facs_153_tr_3_tl_26"/>
+            <zone points="298,3164 2228,3149 2228,3100 2122,3090 298,3115" rendition="Line" xml:id="facs_153_tr_3_tl_27"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0153.jpg" n="part1_p153.jpg" xml:id="img_0153" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p153.jpg"/>
+            
+            <ab facs="#facs_153_tr_3">
+               <lb facs="#facs_153_tr_3_tl_1" n="N001"/>[150]
+               <lb facs="#facs_153_tr_3_tl_2" n="N002"/>otherwise they would not be historians at all. They have explanations, which is a difficult job,
+               <lb facs="#facs_153_tr_3_tl_3" n="N003"/>open to many errors. Beyond this they understand, they participate in, the reality of Greek thinking
+               <lb facs="#facs_153_tr_3_tl_4" n="N004"/>and living, and out of their participation, into which they bring their own whole reality, they give us
+               <lb facs="#facs_153_tr_3_tl_6" n="N005"/>a picture of this historical phenomenon which we call Greek culture. And this picture has truth,
+               <lb facs="#facs_153_tr_3_tl_7" n="N006"/>it has the truth of creative understanding, which is a very definite form of truth. There are three
+               <lb facs="#facs_153_tr_3_tl_8" n="N007"/>levels in it: the factual understanding, which is empirical and has analogy to physical knowledge
+               <lb facs="#facs_153_tr_3_tl_9" n="N008"/>and for which experimental methods can be used in the sense of documentation. It has the hypothetical
+               <lb facs="#facs_153_tr_3_tl_10" n="N009"/>element of hypothetical derivation of one fact from the other. And here hypotheses have less
+               <lb facs="#facs_153_tr_3_tl_11" n="N010"/>probability than any physical hypothesis has, but they have SOME probability, and can be corrected
+               <lb facs="#facs_153_tr_3_tl_12" n="N011"/>all the time.
+               <lb facs="#facs_153_tr_3_tl_13" n="N012"/>Then there is the understanding, which makes the historian great, and gives us, through
+               <lb facs="#facs_153_tr_3_tl_14" n="N013"/>his eyes, a new picture of the past which is always also our own existence, because we belong not
+               <lb facs="#facs_153_tr_3_tl_15" n="N014"/>only to our present and our future, but also to our past.
+               <lb facs="#facs_153_tr_3_tl_16" n="N015"/>So I can say: from SCIENTIFIC knowledge, the explanation and understanding is
+               <lb facs="#facs_153_tr_3_tl_17" n="N016"/>distinguished in history by participation, but this doesn’t make history, poetry or epics.
+               <lb facs="#facs_153_tr_3_tl_18" n="N017"/>Early history was told by the epic poets, by those who told the epic story, like the Homeric
+               <lb facs="#facs_153_tr_3_tl_19" n="N018"/>stories, on the marketplace to all people. Now <rs type="keyword" ref="#History">history</rs> does not have this character. It has the
+               <lb facs="#facs_153_tr_3_tl_20" n="N019"/>detached factual inquiry. It is not mythological or legendary truth, nor is it epical or poetic
+               <lb facs="#facs_153_tr_3_tl_21" n="N020"/>truth. But it is the truth of its own right and in its own character.
+               <lb facs="#facs_153_tr_3_tl_22" n="N021"/>Now we come from here to the great problem of the relation of religion to historical
+               <lb facs="#facs_153_tr_3_tl_23" n="N022"/>truth. If our definition is justified, that <rs type="keyword" ref="#RELIGION">religion</rs> is the state of being ultimately concerned,
+               <lb facs="#facs_153_tr_3_tl_25" n="N023"/>if faith is ultimate concern, then we would say that faith cannot guarantee the factual element
+               <lb facs="#facs_153_tr_3_tl_26" n="N024"/>or the explanatory element, and that faith lives in the element of meaning. But to the cultural
+               <lb facs="#facs_153_tr_3_tl_27" n="N025"/>meaning of a reality of the past, it adds the dimension of ultimate concern. And it can do this to
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

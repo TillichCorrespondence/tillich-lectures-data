@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p235</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p235</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_235">
+         <graphic url="TL-0235.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UHFWPQIKXOZJDPKREHOIUSTP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="226,276 226,3457 2343,3457 2343,276" rendition="TextRegion" xml:id="facs_235_tr_2">
+            <zone points="989,349 1013,349 1020,357 1110,357 1110,304 1071,304 1060,293 1050,304 1039,299 1028,304 1020,296 989,296" rendition="Line" xml:id="facs_235_tr_2_tl_1"/>
+            <zone points="212,523 2292,497 2332,431 212,473" rendition="Line" xml:id="facs_235_tr_2_tl_2"/>
+            <zone points="391,664 560,711 2131,677 2165,579 391,616" rendition="Line" xml:id="facs_235_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="212,825 2340,793 2340,719 2305,716 434,788 214,761" rendition="Line" xml:id="facs_235_tr_2_tl_4"/>
+            <zone points="212,976 1790,957 2025,939 2028,886 212,928" rendition="Line" xml:id="facs_235_tr_2_tl_5"/>
+            <zone points="391,1147 457,1190 656,1190 727,1155 1425,1158 1480,1121 2123,1126 2123,1023 394,1065" rendition="Line" xml:id="facs_235_tr_2_tl_6" subtype="paragraph"/>
+            <zone points="219,1272 2025,1253 2213,1240 2215,1198 219,1240" rendition="Line" xml:id="facs_235_tr_2_tl_7"/>
+            <zone points="219,1425 2136,1399 2136,1332 2075,1330 222,1375" rendition="Line" xml:id="facs_235_tr_2_tl_8"/>
+            <zone points="217,1573 2160,1541 2120,1470 1874,1510 1740,1480 217,1544" rendition="Line" xml:id="facs_235_tr_2_tl_9"/>
+            <zone points="217,1726 2094,1684 2017,1629 217,1697" rendition="Line" xml:id="facs_235_tr_2_tl_10"/>
+            <zone points="227,1888 2242,1837 2242,1771 1726,1814 1584,1787 1536,1822 1356,1795 1301,1829 1256,1798 230,1824" rendition="Line" xml:id="facs_235_tr_2_tl_11"/>
+            <zone points="225,2033 709,2025 798,2070 2215,2004 2181,1935 225,2001" rendition="Line" xml:id="facs_235_tr_2_tl_12"/>
+            <zone points="227,2226 894,2213 941,2165 2173,2144 2173,2086 2083,2086 227,2152" rendition="Line" xml:id="facs_235_tr_2_tl_13"/>
+            <zone points="233,2340 2295,2292 2271,2223 576,2297 235,2271" rendition="Line" xml:id="facs_235_tr_2_tl_14"/>
+            <zone points="225,2482 1607,2459 1652,2496 1716,2451 2263,2453 2266,2390 225,2456" rendition="Line" xml:id="facs_235_tr_2_tl_16"/>
+            <zone points="227,2641 304,2694 510,2691 1073,2662 1132,2620 2215,2596 2215,2533 230,2586" rendition="Line" xml:id="facs_235_tr_2_tl_17"/>
+            <zone points="227,2794 711,2781 862,2824 1050,2771 1354,2768 1494,2821 1692,2818 1827,2757 2078,2750 2057,2691 325,2728 230,2763" rendition="Line" xml:id="facs_235_tr_2_tl_18"/>
+            <zone points="235,2937 1642,2935 1684,2861 235,2890" rendition="Line" xml:id="facs_235_tr_2_tl_19"/>
+            <zone points="402,3085 1520,3067 1663,3172 1991,3175 2128,3125 2134,2985 2038,2958 1885,3019 447,3024 402,3056" rendition="Line" xml:id="facs_235_tr_2_tl_20" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0235.jpg" n="part1_p235.jpg" xml:id="img_0235" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p235.jpg"/>
+            
+            <ab facs="#facs_235_tr_2">
+               <lb facs="#facs_235_tr_2_tl_1" n="N001"/>[231]
+               <lb facs="#facs_235_tr_2_tl_2" n="N002"/>they are powers which FORM us---and the power of <rs type="person">Apollo</rs> is great on this place on which we are standing.
+               <lb facs="#facs_235_tr_2_tl_3" n="N003"/>Now this means that the religious substance cannot be escaped in any cultural expression.
+               <lb facs="#facs_235_tr_2_tl_4" n="N004"/>In this sense, Greek philosophy is Apollonian, with Dionysian interruptions and invasions. And philosophy
+               <lb facs="#facs_235_tr_2_tl_5" n="N005"/>in the Western world is Christian, whether it tries to return to <rs type="person">Apollo</rs> and <rs type="person">Dionysius </rs>or not.
+               <lb facs="#facs_235_tr_2_tl_6" n="N006"/>BUT I STAND STRONGLY against a<rs type="keyword" ref="#Christian_philosophy"> Christian philosophy</rs> which is INTENTIONALLY
+               <lb facs="#facs_235_tr_2_tl_7" n="N007"/>Christian. If l make a research into the problem of causality and have in mind the necessity to make
+               <lb facs="#facs_235_tr_2_tl_8" n="N008"/>this analysis of causality so that it fits a special Augustinian or Calvinistic theology, then l betray
+               <lb facs="#facs_235_tr_2_tl_9" n="N009"/>my being a philosopher, then the scientific honesty is taken away---exactly as if I try to make
+               <lb facs="#facs_235_tr_2_tl_10" n="N010"/>a research and, in order to fulfill demands of a religion which has intimate relation to history---
+               <lb facs="#facs_235_tr_2_tl_11" n="N011"/>([such] as Judaism and Christianity)---my research is prejudiced. You can say this. But you cannot
+               <lb facs="#facs_235_tr_2_tl_12" n="N012"/>say this; if this is done, then the honesty of scientific research is ruined and, in our case, the honesty
+               <lb facs="#facs_235_tr_2_tl_13" n="N013"/>of philosophical research is ruined. That is the reason why l say: CERTAINLY, the fact that one
+               <lb facs="#facs_235_tr_2_tl_14" n="N014"/>is Christian opens the eye for things which a follower of <rs type="person">Apollo</rs> could not see---for instance our relation-
+               <lb facs="#facs_235_tr_2_tl_16" n="N015"/>ship to other human beings---and that's ALL it can do. If a philosopher sits down and says to himself,
+               <lb facs="#facs_235_tr_2_tl_17" n="N016"/>"Now l will make a <rs type="keyword" ref="#Christian_philosophy">Christian philosophy</rs>," then he shouldn't become even an assistant professor of
+               <lb facs="#facs_235_tr_2_tl_18" n="N017"/>philosophy, because he has betrayed, by this very intension, the philosophical eros, which is
+               <lb facs="#facs_235_tr_2_tl_19" n="N018"/>directed towards the CONTENT of his inquiry and towards nothing else.
+               <lb facs="#facs_235_tr_2_tl_20" n="N019"/>So l hope this clears a little bit the very ambiguous concept of <rs type="keyword" ref="#Christian_philosophy">"Christian philosophy."</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

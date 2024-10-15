@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p020</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p020</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_20">
+         <graphic url="TL-0020.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QSNUFXNMTIFFPFPDCMYLXOTU&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="50,255 75,3280 2287,3228 2295,255" rendition="TextRegion" xml:id="facs_20_tr_2">
+            <zone points="1214,302 1226,302 1231,307 1244,307 1251,312 1304,309 1306,244 1279,244 1271,249 1264,246 1244,264 1216,264" rendition="Line" xml:id="facs_20_tr_2_tl_1"/>
+            <zone points="269,515 324,487 932,485 935,420 819,442 774,420 749,445 668,415 585,440 520,407 271,425" rendition="Line" xml:id="facs_20_tr_2_tl_3" subtype="heading"/>
+            <zone points="515,643 1482,678 1550,641 2236,646 2284,636 2286,575 1937,593 1877,555 1791,595 1623,548 1513,583 1475,545 1417,585 515,598" rendition="Line" xml:id="facs_20_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="269,739 2276,716 2276,663 1847,648 269,683" rendition="Line" xml:id="facs_20_tr_2_tl_5"/>
+            <zone points="264,827 2244,804 2244,754 2055,739 347,756 266,789" rendition="Line" xml:id="facs_20_tr_2_tl_6"/>
+            <zone points="269,915 2254,884 2254,832 1977,817 271,867" rendition="Line" xml:id="facs_20_tr_2_tl_7"/>
+            <zone points="271,997 2241,967 2221,915 1751,899 271,940" rendition="Line" xml:id="facs_20_tr_2_tl_8"/>
+            <zone points="269,1075 545,1108 751,1068 1427,1073 1480,1108 2219,1078 2219,1008 2040,987 269,1020" rendition="Line" xml:id="facs_20_tr_2_tl_9"/>
+            <zone points="266,1146 447,1176 656,1153 721,1191 1362,1171 1362,1090 1332,1088 266,1111" rendition="Line" xml:id="facs_20_tr_2_tl_10"/>
+            <zone points="530,1264 2188,1224 2188,1161 533,1166" rendition="Line" xml:id="facs_20_tr_2_tl_11" subtype="paragraph"/>
+            <zone points="276,1327 2128,1317 2151,1254 276,1271" rendition="Line" xml:id="facs_20_tr_2_tl_12"/>
+            <zone points="279,1412 2121,1417 2173,1412 2176,1342 279,1352" rendition="Line" xml:id="facs_20_tr_2_tl_13"/>
+            <zone points="271,1508 1965,1495 2286,1475 2289,1415 274,1442" rendition="Line" xml:id="facs_20_tr_2_tl_14"/>
+            <zone points="281,1605 1188,1560 2251,1580 2216,1505 281,1518" rendition="Line" xml:id="facs_20_tr_2_tl_15"/>
+            <zone points="276,1668 2259,1641 2259,1593 2203,1580 276,1623" rendition="Line" xml:id="facs_20_tr_2_tl_16"/>
+            <zone points="271,1746 1359,1731 1513,1766 1603,1729 2286,1721 2286,1661 271,1683" rendition="Line" xml:id="facs_20_tr_2_tl_17"/>
+            <zone points="271,1842 372,1872 2269,1817 2269,1749 2234,1746 271,1789" rendition="Line" xml:id="facs_20_tr_2_tl_18"/>
+            <zone points="276,1925 455,1957 774,1925 930,1950 1040,1922 1040,1864 1005,1854 533,1847 276,1877" rendition="Line" xml:id="facs_20_tr_2_tl_19"/>
+            <zone points="530,2010 1312,1982 1580,2028 1638,1985 2188,1987 2191,1925 1663,1930 1558,1887 1485,1930 530,1940" rendition="Line" xml:id="facs_20_tr_2_tl_20" subtype="paragraph"/>
+            <zone points="271,2098 709,2121 920,2083 967,2116 1442,2065 2271,2100 2271,2007 2053,1987 1580,2028 1447,1990 271,2005" rendition="Line" xml:id="facs_20_tr_2_tl_21"/>
+            <zone points="271,2193 2166,2166 2166,2083 271,2105" rendition="Line" xml:id="facs_20_tr_2_tl_22"/>
+            <zone points="276,2274 2188,2241 2188,2181 1754,2163 279,2198" rendition="Line" xml:id="facs_20_tr_2_tl_23"/>
+            <zone points="279,2337 2156,2322 2158,2251 2108,2244 281,2274" rendition="Line" xml:id="facs_20_tr_2_tl_24"/>
+            <zone points="271,2420 842,2452 972,2412 2236,2402 2236,2339 2108,2322 271,2367" rendition="Line" xml:id="facs_20_tr_2_tl_25"/>
+            <zone points="276,2515 1397,2482 1806,2518 2007,2482 2010,2425 746,2452 374,2420 279,2452" rendition="Line" xml:id="facs_20_tr_2_tl_26"/>
+            <zone points="530,2605 2211,2580 2211,2518 2128,2497 530,2512" rendition="Line" xml:id="facs_20_tr_2_tl_27" subtype="paragraph"/>
+            <zone points="281,2661 568,2708 756,2658 854,2693 1312,2646 1372,2693 2214,2676 2216,2583 1583,2573 1399,2623 746,2621 686,2588 518,2623 284,2583" rendition="Line" xml:id="facs_20_tr_2_tl_28"/>
+            <zone points="276,2776 2239,2739 2241,2676 1158,2673 1023,2714 774,2673 565,2714 276,2688" rendition="Line" xml:id="facs_20_tr_2_tl_29"/>
+            <zone points="279,2834 568,2869 819,2819 2013,2834 2211,2819 2214,2754 279,2789" rendition="Line" xml:id="facs_20_tr_2_tl_30"/>
+            <zone points="276,2932 450,2962 518,2914 731,2950 877,2912 1435,2947 1495,2909 2254,2907 2254,2852 2013,2834 276,2872" rendition="Line" xml:id="facs_20_tr_2_tl_31"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0020.jpg" n="part1_p020.jpg" xml:id="img_0020" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p020.jpg"/>
+            
+            <ab facs="#facs_20_tr_2">
+               <lb facs="#facs_20_tr_2_tl_1" n="N001"/>[17]
+               <lb facs="#facs_20_tr_2_tl_3" n="N002"/>LECTURE III -- Oct. 6, 1955
+               <lb facs="#facs_20_tr_2_tl_4" n="N003"/>Last time, I tried to give a concept of faith which, I am convinced, was somehow
+               <lb facs="#facs_20_tr_2_tl_5" n="N004"/>a shock for many for you because it contradicted the popular ordinary understanding of faith
+               <lb facs="#facs_20_tr_2_tl_6" n="N005"/>and the... of religion. At the end of the lecture I was asked whether one is allowed to
+               <lb facs="#facs_20_tr_2_tl_7" n="N006"/>use a concept in such a different way, after this concept has been shaped by the history of
+               <lb facs="#facs_20_tr_2_tl_8" n="N007"/>thought in a special and definite way. Now my answer to this question was that it is not
+               <lb facs="#facs_20_tr_2_tl_9" n="N008"/>true that the concept of faith had this one-sided meaning of belief-in-unbelievable-things or,
+               <lb facs="#facs_20_tr_2_tl_10" n="N009"/>more exactly, of belief in things without evidence.
+               <lb facs="#facs_20_tr_2_tl_11" n="N010"/>There are two elements in the concept of faith--and this is the way in which
+               <lb facs="#facs_20_tr_2_tl_12" n="N011"/>we want to go now anyhow--and which answers this question more fully and indirectly.
+               <lb facs="#facs_20_tr_2_tl_13" n="N012"/>The one element is, as I said, the state of being ultimately concerned--what I called the
+               <lb facs="#facs_20_tr_2_tl_14" n="N013"/>ecstatic concept of <rs type="keyword" ref="#Faith">faith</rs>--ultimately concerned about whatever it may be. But there is no con-
+               <lb facs="#facs_20_tr_2_tl_15" n="N014"/>cern, not even an ultimate concern, which is not at the same time concrete. One cannot be
+               <lb facs="#facs_20_tr_2_tl_16" n="N015"/>concerned if there is nothing concrete about which one is concerned. This is just the point
+               <lb facs="#facs_20_tr_2_tl_17" n="N016"/>to which I want to go now, because this leads to religion in the narrower sense of the word:
+               <lb facs="#facs_20_tr_2_tl_18" n="N017"/>religion as a special cultural function, with special sociological characteristics, special forms of
+               <lb facs="#facs_20_tr_2_tl_19" n="N018"/>theoretical and practical expression.
+               <lb facs="#facs_20_tr_2_tl_20" n="N019"/>The decisive thing about the understanding of religion is that one understand [sic.]
+               <lb facs="#facs_20_tr_2_tl_21" n="N020"/>the duality of these meanings--the one meaning which is the real center and heart of religion
+               <lb facs="#facs_20_tr_2_tl_22" n="N021"/>and faith: being-grasped by an ultimate concern; and the other: being-related to special
+               <lb facs="#facs_20_tr_2_tl_23" n="N022"/>expressions of this ultimate concern. <rs type="keyword" ref="#Symbols">These special expressions are symbols, they express,
+               <lb break="no" facs="#facs_20_tr_2_tl_24" n="N023"/>in a concrete way, what is of ultimate concern. And even if these symbols are realities
+               <lb break="no" facs="#facs_20_tr_2_tl_25" n="N024"/>such as the nation, or success, they become symbols in the moment in which they become
+               <lb break="no" facs="#facs_20_tr_2_tl_26" n="N025"/>matters of ultimate concern.</rs> The concrete religious life is full of these symbols.
+               <lb facs="#facs_20_tr_2_tl_27" n="N026"/>Now the question arises: "Which are those expressions in which the REALLy [sic.]
+               <lb facs="#facs_20_tr_2_tl_28" n="N027"/>ultimate is the object of one's concern?" Here the great problems of the concreteness of
+               <lb facs="#facs_20_tr_2_tl_29" n="N028"/>the religious content arises. I gave you SOME contents, there are innumerable others. There
+               <lb facs="#facs_20_tr_2_tl_30" n="N029"/>are as many contents as there are realities, which in the history of mankind have become
+               <lb facs="#facs_20_tr_2_tl_31" n="N030"/>matters of unconditional concern by human beings. This is the reason for the large history
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

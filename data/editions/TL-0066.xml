@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p066</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p066</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_65">
+         <graphic url="TL-0066.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SIJFEMHKANFPKEZNBQAOJSAE&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="286,219 286,3081 2271,3081 2271,219" rendition="TextRegion" xml:id="facs_65_tr_2">
+            <zone points="1082,270 1104,270 1119,285 1129,285 1137,277 1174,277 1174,218 1147,220 1134,233 1082,230" rendition="Line" xml:id="facs_65_tr_2_tl_1"/>
+            <zone points="584,446 2080,446 2080,401 1949,384 584,409" rendition="Line" xml:id="facs_65_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="282,535 2038,525 2040,473 285,488" rendition="Line" xml:id="facs_65_tr_2_tl_3"/>
+            <zone points="282,622 2050,614 2050,562 1884,552 282,574" rendition="Line" xml:id="facs_65_tr_2_tl_4"/>
+            <zone points="285,711 2070,693 2070,641 1912,631 285,659" rendition="Line" xml:id="facs_65_tr_2_tl_5"/>
+            <zone points="277,780 2120,780 2122,726 1622,718 1461,753 1273,721 713,758 666,723 614,758 280,758" rendition="Line" xml:id="facs_65_tr_2_tl_6"/>
+            <zone points="282,872 1889,901 1912,805 282,832" rendition="Line" xml:id="facs_65_tr_2_tl_7"/>
+            <zone points="587,1038 2122,1045 2092,961 587,986" rendition="Line" xml:id="facs_65_tr_2_tl_8" subtype="paragraph"/>
+            <zone points="277,1132 2172,1117 2172,1065 1711,1052 277,1077" rendition="Line" xml:id="facs_65_tr_2_tl_9"/>
+            <zone points="277,1201 698,1213 760,1253 2219,1199 2219,1147 1986,1139 277,1176" rendition="Line" xml:id="facs_65_tr_2_tl_10"/>
+            <zone points="282,1293 2236,1280 2214,1228 1922,1223 282,1258" rendition="Line" xml:id="facs_65_tr_2_tl_11"/>
+            <zone points="290,1389 2268,1399 2268,1322 2174,1305 290,1332" rendition="Line" xml:id="facs_65_tr_2_tl_12"/>
+            <zone points="277,1476 2221,1476 2221,1389 277,1429" rendition="Line" xml:id="facs_65_tr_2_tl_13"/>
+            <zone points="282,1560 1065,1587 1563,1533 2105,1540 2105,1491 2028,1478 282,1501" rendition="Line" xml:id="facs_65_tr_2_tl_14"/>
+            <zone points="272,1627 958,1669 1766,1629 2167,1667 2253,1627 2253,1572 2090,1563 272,1600" rendition="Line" xml:id="facs_65_tr_2_tl_15"/>
+            <zone points="275,1711 418,1728 500,1706 904,1716 904,1674 884,1667 545,1659 505,1686 423,1659 357,1689 275,1676" rendition="Line" xml:id="facs_65_tr_2_tl_16"/>
+            <zone points="577,1798 1147,1785 1194,1830 2132,1847 2234,1790 2234,1731 577,1746" rendition="Line" xml:id="facs_65_tr_2_tl_17" subtype="paragraph"/>
+            <zone points="272,1889 342,1924 810,1892 988,1924 1104,1875 2060,1877 2063,1827 275,1850" rendition="Line" xml:id="facs_65_tr_2_tl_18"/>
+            <zone points="275,1969 357,1971 389,1981 466,1974 463,1924 414,1919 384,1931 337,1929 327,1919 307,1919 295,1931 272,1934" rendition="Line" xml:id="facs_65_tr_2_tl_19"/>
+            <zone points="572,2048 2194,2050 2194,1981 572,2013" rendition="Line" xml:id="facs_65_tr_2_tl_20" subtype="paragraph"/>
+            <zone points="272,2137 1402,2127 1481,2167 2139,2135 2139,2080 1436,2068 1377,2105 272,2110" rendition="Line" xml:id="facs_65_tr_2_tl_21"/>
+            <zone points="272,2224 2157,2224 2157,2167 1924,2149 1719,2184 272,2179" rendition="Line" xml:id="facs_65_tr_2_tl_22"/>
+            <zone points="275,2300 2256,2308 2256,2246 2135,2243 275,2278" rendition="Line" xml:id="facs_65_tr_2_tl_23"/>
+            <zone points="272,2387 2206,2390 2206,2338 2139,2323 272,2345" rendition="Line" xml:id="facs_65_tr_2_tl_24"/>
+            <zone points="275,2479 2266,2469 2266,2412 275,2432" rendition="Line" xml:id="facs_65_tr_2_tl_25"/>
+            <zone points="275,2558 1887,2543 1934,2588 2204,2598 2206,2491 275,2518" rendition="Line" xml:id="facs_65_tr_2_tl_26"/>
+            <zone points="275,2687 535,2679 584,2635 671,2687 2154,2637 2154,2583 2016,2578 275,2603" rendition="Line" xml:id="facs_65_tr_2_tl_27"/>
+            <zone points="275,2751 2135,2719 2110,2659 275,2687" rendition="Line" xml:id="facs_65_tr_2_tl_28"/>
+            <zone points="272,2813 2127,2806 2127,2759 1738,2736 1622,2778 272,2783" rendition="Line" xml:id="facs_65_tr_2_tl_29"/>
+            <zone points="275,2895 2162,2885 2162,2843 1766,2835 275,2867" rendition="Line" xml:id="facs_65_tr_2_tl_30"/>
+            <zone points="275,2989 352,2994 369,2976 389,2989 498,2989 498,2932 453,2932 438,2947 418,2942 389,2947 379,2957 354,2944 319,2944 310,2934 275,2937" rendition="Line" xml:id="facs_65_tr_2_tl_31"/>
+            <zone points="565,3058 2184,3068 2184,2986 2135,2984 1976,3021 1919,2986 1545,3026 1501,2991 1463,3028 1179,2994 565,3019" rendition="Line" xml:id="facs_65_tr_2_tl_32" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0066.jpg" n="part1_p066.jpg" xml:id="img_0065" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p066.jpg"/>
+            
+            <ab facs="#facs_65_tr_2">
+               <lb facs="#facs_65_tr_2_tl_1" n="N001"/>[62]
+               <lb facs="#facs_65_tr_2_tl_2" n="N002"/><rs type="keyword" ref="#Symbols">Now such a stage is often very undefined and non-definite, and then
+               <lb break="no" facs="#facs_65_tr_2_tl_3" n="N003"/>it might go on, without too great damage. But such a repression is unjustifiable
+               <lb break="no" facs="#facs_65_tr_2_tl_4" n="N004"/>if a mature mind is broken in its personal center, in its integrity, by political or
+               <lb break="no" facs="#facs_65_tr_2_tl_5" n="N005"/>psychological methods of repression, of questions concerning the symbolic character
+               <lb break="no" facs="#facs_65_tr_2_tl_6" n="N006"/>of symbols. In this moment, the person is split in his personal unity, and he is hurt
+               <lb break="no" facs="#facs_65_tr_2_tl_7" n="N007"/>in his personal integrity--AND THIS IS THE WAY HE SHOULD NOT GO!
+               <lb break="no" facs="#facs_65_tr_2_tl_8" n="N008"/>Very often, if somebody goes this way of repression, he does not fully
+               <lb break="no" facs="#facs_65_tr_2_tl_9" n="N009"/>succeed--probably in most cases, he does not fully succeed. Then it happens that when-
+               <lb break="no" facs="#facs_65_tr_2_tl_10" n="N010"/>ever, from outside, somebody represents the freedom to understand the symbolic character
+               <lb break="no" facs="#facs_65_tr_2_tl_11" n="N011"/>of the symbols, he becomes fanatical. This is the greatest danger, and the danger of much
+               <lb break="no" facs="#facs_65_tr_2_tl_12" n="N012"/>persecution, which follows the fact that there is no completely successful suppression of the
+               <lb break="no" facs="#facs_65_tr_2_tl_13" n="N013"/>questions which are in us. But there IS suppression, or repression, even, and out of this
+               <lb break="no" facs="#facs_65_tr_2_tl_14" n="N014"/>repression the anxiety follows that one may be wrong, and this anxiety also is then
+               <lb break="no" facs="#facs_65_tr_2_tl_15" n="N015"/>repressed. And then if somebody represents freedom and NON-repression, then he becomes
+               <lb break="no" facs="#facs_65_tr_2_tl_16" n="N016"/>an object of fanatical attack.
+               <lb break="no" facs="#facs_65_tr_2_tl_17" n="N017"/>So let me conclude this: Not NATURAL literalism is the enemy of critical
+               <lb break="no" facs="#facs_65_tr_2_tl_18" n="N018"/>thought, but conscious literalism, with repression and aggresson [sic.] against autonomous
+               <lb break="no" facs="#facs_65_tr_2_tl_19" n="N019"/>thought.
+               <lb break="no" facs="#facs_65_tr_2_tl_20" n="N020"/>But one question arises, namely whether myths (or special types of myths)
+               <lb break="no" facs="#facs_65_tr_2_tl_21" n="N021"/>are able to express every kind of ultimate concern. Christian theologians, for instance,
+               <lb break="no" facs="#facs_65_tr_2_tl_22" n="N022"/>argue that the word ''myth'' should be reserved for natural myths, for this large group
+               <lb break="no" facs="#facs_65_tr_2_tl_23" n="N023"/>of mythological self-expression of the human mind in which the repetitive natural processes,
+               <lb break="no" facs="#facs_65_tr_2_tl_24" n="N024"/>for instance seasons, are understood in their ultimate meaning. And one continues saying:
+               <lb break="no" facs="#facs_65_tr_2_tl_25" n="N025"/>if, however, the word is seen as a historical PROCESS, with a beginning and an end, and a
+               <lb break="no" facs="#facs_65_tr_2_tl_26" n="N026"/>center, as in Judaism and Christianity, in Persia and Islam, then the term ''myth'' should
+               <lb break="no" facs="#facs_65_tr_2_tl_27" n="N027"/>not be used. In other words, the term myth should be reserved for a special type of
+               <lb break="no" facs="#facs_65_tr_2_tl_28" n="N028"/>myth. This would be a rather radical reduction of the realm in which the term myth
+               <lb break="no" facs="#facs_65_tr_2_tl_29" n="N029"/>would be applicable. Myth could not be understood any more as the language of our
+               <lb break="no" facs="#facs_65_tr_2_tl_30" n="N030"/>ultimate concern, but only as a discarded idiom of this language, which we cannot use
+               <lb break="no" facs="#facs_65_tr_2_tl_31" n="N031"/>any more.
+               <lb break="no" facs="#facs_65_tr_2_tl_32" n="N032"/>But this again is not valid if we look at the history of religion, including</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p258</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p258</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_258">
+         <graphic url="TL-0258.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=IKBSHMFSUYQURRQVHUBBTXSA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="50,256 50,3497 2352,3497 2352,256" rendition="TextRegion" xml:id="facs_258_tr_1">
+            <zone points="1229,330 1242,330 1252,342 1303,342 1308,337 1326,342 1333,335 1349,335 1351,292 1313,289 1300,276 1278,276 1255,289 1232,286" rendition="Line" xml:id="facs_258_tr_1_tl_1"/>
+            <zone points="380,459 811,472 943,520 1131,484 2264,517 2261,456 380,406" rendition="Line" xml:id="facs_258_tr_1_tl_2"/>
+            <zone points="378,613 1884,667 2188,662 2188,596 1899,619 1767,581 1508,608 375,550" rendition="Line" xml:id="facs_258_tr_1_tl_3"/>
+            <zone points="375,766 2188,814 2185,745 1115,750 1082,717 375,700" rendition="Line" xml:id="facs_258_tr_1_tl_4"/>
+            <zone points="365,908 2337,961 2335,925 2195,892 363,872" rendition="Line" xml:id="facs_258_tr_1_tl_5"/>
+            <zone points="355,1052 1899,1115 2117,1108 2117,1044 352,1024" rendition="Line" xml:id="facs_258_tr_1_tl_6"/>
+            <zone points="355,1207 2322,1285 2342,1237 2051,1189 1840,1217 1807,1184 1427,1207 1029,1166 1001,1199 958,1164 631,1186 464,1148 352,1179" rendition="Line" xml:id="facs_258_tr_1_tl_7"/>
+            <zone points="350,1364 2243,1430 2241,1349 347,1326" rendition="Line" xml:id="facs_258_tr_1_tl_8"/>
+            <zone points="347,1531 2211,1589 2150,1511 1934,1539 1805,1503 1633,1531 347,1470" rendition="Line" xml:id="facs_258_tr_1_tl_9"/>
+            <zone points="337,1678 2124,1734 2122,1665 2033,1660 1724,1686 1665,1650 1371,1676 1197,1638 421,1650 388,1617 337,1650" rendition="Line" xml:id="facs_258_tr_1_tl_10"/>
+            <zone points="532,1830 2243,1894 2241,1815 1120,1820 578,1769 532,1802" rendition="Line" xml:id="facs_258_tr_1_tl_11" subtype="paragraph"/>
+            <zone points="327,1977 1901,2051 2249,2038 2246,1965 1899,1990 1280,1944 1245,1975 1176,1939 588,1954 385,1914 324,1947" rendition="Line" xml:id="facs_258_tr_1_tl_12"/>
+            <zone points="319,2127 2200,2188 2200,2129 2127,2119 920,2112 677,2069 629,2104 542,2071 319,2099" rendition="Line" xml:id="facs_258_tr_1_tl_13"/>
+            <zone points="319,2276 1105,2337 1214,2304 1349,2340 1486,2309 2190,2337 2188,2271 1333,2276 378,2218 319,2249" rendition="Line" xml:id="facs_258_tr_1_tl_14"/>
+            <zone points="314,2444 2127,2482 2124,2418 720,2411 375,2368 314,2398" rendition="Line" xml:id="facs_258_tr_1_tl_15"/>
+            <zone points="309,2614 796,2591 1610,2641 1767,2629 1767,2558 783,2563 558,2525 307,2555" rendition="Line" xml:id="facs_258_tr_1_tl_16"/>
+            <zone points="502,2735 2127,2796 2238,2794 2236,2745 1985,2743 1944,2705 1698,2738 1435,2695 1392,2728 1098,2685 499,2702" rendition="Line" xml:id="facs_258_tr_1_tl_17" subtype="paragraph"/>
+            <zone points="299,2882 2167,2938 2165,2862 1835,2890 1797,2857 1432,2880 1070,2839 966,2870 299,2816" rendition="Line" xml:id="facs_258_tr_1_tl_18"/>
+            <zone points="294,3039 2142,3100 2327,3093 2325,3024 292,2979" rendition="Line" xml:id="facs_258_tr_1_tl_19"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0258.jpg" n="part1_p258.jpg" xml:id="img_0258" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p258.jpg"/>
+            
+            <ab facs="#facs_258_tr_1">
+               <lb facs="#facs_258_tr_1_tl_1" n="N001"/>[254]
+               <lb facs="#facs_258_tr_1_tl_2" n="N002"/>we call romanticism. <rs type="keyword" ref="#Romanticism">Romanticism,</rs> in the genuine sense in which it appears in the European and
+               <lb facs="#facs_258_tr_1_tl_3" n="N003"/>British literature of the Romantics, is an attempt to overcome the subject-object structure of
+               <lb facs="#facs_258_tr_1_tl_4" n="N004"/>reality, to go behind it and beyond it, and to find again the creative man who has created the
+               <lb facs="#facs_258_tr_1_tl_5" n="N005"/>world of abstractions. For this reason, the romantic philosophers were very critical of the <rs type="keyword" ref="#Enlightenment">Enlighten-
+               <lb break="no" facs="#facs_258_tr_1_tl_6" n="N006"/>ment,</rs> with its attempt to analyze the world and the beginning industrial society with ITS
+               <lb facs="#facs_258_tr_1_tl_7" n="N007"/>attempt to reunite the elements of reality for the sake of control. But romanticism went ahead with a
+               <lb facs="#facs_258_tr_1_tl_8" n="N008"/>speed which was not yet justified. And so the reaction of the subject-object structure of reality
+               <lb facs="#facs_258_tr_1_tl_9" n="N009"/>in the 19th century was very drastic, was so drastic that the romantic philosophy, including the
+               <lb facs="#facs_258_tr_1_tl_10" n="N010"/>romantic <rs type="keyword" ref="#Doctrine_of_man">doctrine of man</rs>, became a matter of more name-calling than scientific refutation.
+               <lb facs="#facs_258_tr_1_tl_11" n="N011"/>The result was that in the second half of the 19th century, there was a complete victory
+               <lb facs="#facs_258_tr_1_tl_12" n="N012"/>of the subject-object structure of dealing with, of encountering, reality, and of a complete self-loss
+               <lb facs="#facs_258_tr_1_tl_13" n="N013"/>as man who has created these abstractions into which he was divided. It was one of the greatest
+               <lb facs="#facs_258_tr_1_tl_14" n="N014"/>catastrophes of the <rs type="keyword" ref="#Odyssey">Odyssey </rs>which happened in the middle of the 19th century and determined
+               <lb facs="#facs_258_tr_1_tl_15" n="N015"/>that in this century, certainly, man would not find [his way] back to himself as the creative
+               <lb facs="#facs_258_tr_1_tl_16" n="N016"/>ground of his creations---of course, that was the problem and the attempt.
+               <lb facs="#facs_258_tr_1_tl_17" n="N017"/>Since the beginning of the 20th century, developments took place in which, so to speak,
+               <lb facs="#facs_258_tr_1_tl_18" n="N018"/><rs type="person">Odysseus</rs> put on his sails again to return home. And we are in the midst of these attempts. We
+               <lb facs="#facs_258_tr_1_tl_19" n="N019"/>participate in them and we also see their dangers. We criticize them, but we cannot simply negate them.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

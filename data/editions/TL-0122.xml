@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p122</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p122</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_122">
+         <graphic url="TL-0122.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=BIOSVDNGIYITNYUNLZBAVZGL&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="346,244 346,3499 2430,3499 2430,244" rendition="TextRegion" xml:id="facs_122_tr_3">
+            <zone points="1119,308 1132,308 1161,326 1210,326 1226,316 1246,319 1246,246 1210,246 1189,238 1176,249 1166,246 1156,257 1119,257" rendition="Line" xml:id="facs_122_tr_3_tl_1"/>
+            <zone points="350,466 425,503 2239,469 2205,407 2133,430 2102,394 2063,428 2016,394 1980,428 1687,425 1643,391 1498,430 1464,394 1373,430 1233,391 1174,430 1083,394 884,430 847,394 806,433 604,396 526,433 446,363 350,430" rendition="Line" xml:id="facs_122_tr_3_tl_2"/>
+            <zone points="350,614 684,622 757,676 1163,617 2161,648 2161,560 350,565" rendition="Line" xml:id="facs_122_tr_3_tl_3"/>
+            <zone points="350,762 1179,770 1249,806 1728,806 1762,772 2099,834 2247,803 2247,705 350,736" rendition="Line" xml:id="facs_122_tr_3_tl_4"/>
+            <zone points="350,941 2228,925 2228,865 2089,853 350,886" rendition="Line" xml:id="facs_122_tr_3_tl_5"/>
+            <zone points="345,1088 487,1125 671,1088 710,1125 2306,1099 2306,1016 705,1005 663,1039 526,1000 345,1036" rendition="Line" xml:id="facs_122_tr_3_tl_6"/>
+            <zone points="352,1239 2254,1252 2254,1163 352,1169" rendition="Line" xml:id="facs_122_tr_3_tl_7"/>
+            <zone points="350,1363 417,1412 544,1412 583,1443 624,1412 816,1412 873,1376 873,1319 384,1316 350,1337" rendition="Line" xml:id="facs_122_tr_3_tl_8"/>
+            <zone points="549,1526 910,1524 959,1570 1166,1596 1220,1542 1366,1521 2192,1508 2112,1446 1783,1480 1233,1449 1200,1482 549,1451" rendition="Line" xml:id="facs_122_tr_3_tl_9" subtype="paragraph"/>
+            <zone points="352,1684 759,1734 814,1682 881,1734 998,1697 1277,1715 1371,1671 1910,1700 2003,1666 2143,1749 2234,1669 2327,1671 2327,1617 2254,1612 1130,1635 1026,1570 829,1643 684,1622 560,1524 352,1622" rendition="Line" xml:id="facs_122_tr_3_tl_10"/>
+            <zone points="345,1824 827,1827 860,1861 2423,1837 2423,1765 2368,1762 345,1791" rendition="Line" xml:id="facs_122_tr_3_tl_13"/>
+            <zone points="339,1990 1112,2019 1205,1972 2298,1969 2298,1915 339,1923" rendition="Line" xml:id="facs_122_tr_3_tl_14"/>
+            <zone points="347,2122 917,2122 917,2070 824,2070 806,2052 788,2070 347,2070" rendition="Line" xml:id="facs_122_tr_3_tl_15"/>
+            <zone points="547,2265 1868,2267 1987,2340 2218,2298 2218,2205 2029,2184 1796,2234 1752,2203 1163,2236 547,2208" rendition="Line" xml:id="facs_122_tr_3_tl_16" subtype="paragraph"/>
+            <zone points="337,2412 2278,2418 2278,2363 337,2387" rendition="Line" xml:id="facs_122_tr_3_tl_17"/>
+            <zone points="339,2568 2241,2573 2241,2516 1661,2495 1420,2539 339,2521" rendition="Line" xml:id="facs_122_tr_3_tl_18"/>
+            <zone points="337,2726 2241,2721 2192,2664 337,2674" rendition="Line" xml:id="facs_122_tr_3_tl_19"/>
+            <zone points="332,2874 1029,2871 1119,2936 2221,2918 2221,2817 332,2845" rendition="Line" xml:id="facs_122_tr_3_tl_20"/>
+            <zone points="339,3027 2327,3029 2327,2972 1964,2962 339,2983" rendition="Line" xml:id="facs_122_tr_3_tl_21"/>
+            <zone points="332,3177 562,3216 1404,3174 1705,3203 2280,3169 2283,3107 332,3151" rendition="Line" xml:id="facs_122_tr_3_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0122.jpg" n="part1_p122.jpg" xml:id="img_0122" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p122.jpg"/>
+            
+            <ab facs="#facs_122_tr_3">
+               <lb facs="#facs_122_tr_3_tl_1" n="N001"/>[119]
+               <lb facs="#facs_122_tr_3_tl_2" n="N002"/>to distinguish the scientific probabilities which are confirmed or refuted by continously-going-on [sic.]
+               <lb facs="#facs_122_tr_3_tl_3" n="N003"/>experimentation--on the one side, where nobody or nothing is allowed to interfere, neither a
+               <lb facs="#facs_122_tr_3_tl_4" n="N004"/>totalitarian state nor authoritarian religion; <ultimate_concern>and that, on the other hand, there is the dimension of
+               <lb break="no" facs="#facs_122_tr_3_tl_5" n="N005"/>ultimate concern, its experiences and its symbols</ultimate_concern>. These experiences cannot be denied EITHER,
+               <lb facs="#facs_122_tr_3_tl_6" n="N006"/>and if they are, then you must show to the people who do so that they don’t deny them in the name
+               <lb facs="#facs_122_tr_3_tl_7" n="N007"/>of their scientific method but in the name of their theological or metaphysical presuppositions of
+               <lb facs="#facs_122_tr_3_tl_8" n="N008"/>which they are not aware.
+               <lb facs="#facs_122_tr_3_tl_9" n="N009"/><rs type="keyword" ref="#Thesis">Now this leads me to another conflict which is going on during these two conflicts--
+               <lb break="no" facs="#facs_122_tr_3_tl_10" n="N010"/>Galileo and the Church, Darwin and the Church--and it is going on all the time between them and all
+               <lb break="no" facs="#facs_122_tr_3_tl_13" n="N011"/>the time today, namely: <rs type="keyword" ref="#Freedom">the conflict between a mechanistic interpretation of reality and the experience of</rs>
+               <lb break="no" facs="#facs_122_tr_3_tl_14" n="N012"/><rs type="keyword" ref="#Thesis">freedom which every human being has, including those who preach mechanism--and preaching is an</rs>
+               <lb break="no" facs="#facs_122_tr_3_tl_15" n="N013"/><rs type="keyword" ref="#Freedom">expression of their freedom</rs>!</rs>
+               <lb facs="#facs_122_tr_3_tl_16" n="N014"/>The best pattern for this has been brought about by the French astronomer <rs type="person" key="Lamarck, Jean-Baptiste">Lamarck</rs>,
+               <lb facs="#facs_122_tr_3_tl_17" n="N015"/>who said that if in a given moment all facts of this given moment are given to him, he can calculate
+               <lb facs="#facs_122_tr_3_tl_18" n="N016"/>everything which will happen, in Heaven and on earth, ever since. Now this means Lamarck puts
+               <lb facs="#facs_122_tr_3_tl_19" n="N017"/>himself in the position of a divine outside observer and then describes the process of the world as
+               <lb facs="#facs_122_tr_3_tl_20" n="N018"/>mechanically calculable processes. Now the first answer to this is that Lamarck forgets that
+               <lb facs="#facs_122_tr_3_tl_21" n="N019"/>every observer belongs to the processes which he observed himself. In order to make such statements,
+               <lb facs="#facs_122_tr_3_tl_22" n="N020"/>the observer must forget himself as an element of that which he observes. Modern science does not
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p030</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p030</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_30">
+         <graphic url="TL-0030.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CDBNMBMJQEXVDYUGBEXXUYGE&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="41,230 55,3295 2252,3287 2263,230" rendition="TextRegion" xml:id="facs_30_tr_1">
+            <zone points="1224,269 1238,269 1255,286 1299,286 1309,276 1321,278 1324,215 1317,212 1290,215 1285,210 1255,230 1253,227 1226,230" rendition="Line" xml:id="facs_30_tr_1_tl_1"/>
+            <zone points="278,396 313,408 383,405 396,393 457,410 488,393 513,405 606,401 606,347 506,347 484,369 442,347 386,369 364,347 320,342 300,364 278,364" rendition="Line" xml:id="facs_30_tr_1_tl_3" subtype="heading"/>
+            <zone points="532,525 1695,572 2154,532 2154,459 2096,491 532,459" rendition="Line" xml:id="facs_30_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="288,613 2157,620 2157,574 2020,554 288,567" rendition="Line" xml:id="facs_30_tr_1_tl_5"/>
+            <zone points="274,684 1055,708 1055,652 567,664 481,642 457,664 308,642 274,664" rendition="Line" xml:id="facs_30_tr_1_tl_6"/>
+            <zone points="535,867 2145,867 2145,808 2083,779 1827,823 535,796" rendition="Line" xml:id="facs_30_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="278,938 1749,997 2152,960 2152,894 2115,892 278,904" rendition="Line" xml:id="facs_30_tr_1_tl_8"/>
+            <zone points="276,1026 994,1036 994,977 686,977 613,1004 366,977 276,1004" rendition="Line" xml:id="facs_30_tr_1_tl_9"/>
+            <zone points="532,1202 2088,1214 2088,1160 2027,1148 532,1136" rendition="Line" xml:id="facs_30_tr_1_tl_10" subtype="paragraph"/>
+            <zone points="278,1277 2157,1314 2157,1238 2049,1224 278,1236" rendition="Line" xml:id="facs_30_tr_1_tl_11"/>
+            <zone points="276,1378 352,1412 970,1414 1468,1397 1558,1358 2157,1373 2157,1321 2083,1314 276,1321" rendition="Line" xml:id="facs_30_tr_1_tl_12"/>
+            <zone points="286,1451 2188,1453 2188,1395 286,1404" rendition="Line" xml:id="facs_30_tr_1_tl_13"/>
+            <zone points="278,1529 2169,1541 2169,1490 278,1478" rendition="Line" xml:id="facs_30_tr_1_tl_14"/>
+            <zone points="274,1614 1685,1658 1817,1607 2193,1619 2193,1573 2047,1558 274,1571" rendition="Line" xml:id="facs_30_tr_1_tl_15"/>
+            <zone points="281,1700 2164,1710 2164,1671 1981,1644 608,1673 281,1641" rendition="Line" xml:id="facs_30_tr_1_tl_17"/>
+            <zone points="274,1783 2096,1800 2064,1732 274,1739" rendition="Line" xml:id="facs_30_tr_1_tl_18"/>
+            <zone points="276,1893 1307,1912 1546,1861 2157,1869 2157,1827 2061,1812 276,1815" rendition="Line" xml:id="facs_30_tr_1_tl_19"/>
+            <zone points="288,1954 1290,1956 1290,1898 855,1925 828,1900 288,1895" rendition="Line" xml:id="facs_30_tr_1_tl_20"/>
+            <zone points="518,2118 1500,2169 1700,2164 1749,2118 2108,2125 2108,2066 1644,2074 1558,2035 1451,2081 518,2061" rendition="Line" xml:id="facs_30_tr_1_tl_21" subtype="paragraph"/>
+            <zone points="281,2218 2127,2215 2127,2169 1986,2149 281,2166" rendition="Line" xml:id="facs_30_tr_1_tl_22"/>
+            <zone points="269,2284 940,2291 940,2235 916,2232 779,2259 681,2232 635,2259 269,2247" rendition="Line" xml:id="facs_30_tr_1_tl_23"/>
+            <zone points="518,2450 2176,2457 2176,2401 860,2418 779,2384 738,2418 674,2384 633,2418 518,2384" rendition="Line" xml:id="facs_30_tr_1_tl_24" subtype="paragraph"/>
+            <zone points="266,2533 2230,2543 2230,2499 2171,2486 266,2499" rendition="Line" xml:id="facs_30_tr_1_tl_25"/>
+            <zone points="518,2709 2218,2716 2218,2655 518,2665" rendition="Line" xml:id="facs_30_tr_1_tl_26" subtype="paragraph"/>
+            <zone points="261,2784 435,2824 471,2797 620,2787 1077,2797 1077,2733 694,2733 625,2765 559,2740 261,2745" rendition="Line" xml:id="facs_30_tr_1_tl_27"/>
+            <zone points="515,2867 2259,2875 2259,2824 1934,2814 1705,2848 515,2824" rendition="Line" xml:id="facs_30_tr_1_tl_28" subtype="paragraph"/>
+            <zone points="264,2955 1910,2965 1910,2907 1820,2875 1700,2921 264,2919" rendition="Line" xml:id="facs_30_tr_1_tl_29"/>
+            <zone points="515,3119 943,3122 1014,3173 2130,3124 2130,3060 515,3063" rendition="Line" xml:id="facs_30_tr_1_tl_30" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0030.jpg" n="part1_p030.jpg" xml:id="img_0030" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p030.jpg"/>
+            
+            <ab facs="#facs_30_tr_1">
+               <lb facs="#facs_30_tr_1_tl_1" n="N001"/>[27]
+               <lb facs="#facs_30_tr_1_tl_3" n="N002"/>Oct. 11, 1955
+               <lb facs="#facs_30_tr_1_tl_4" n="N003"/>Last Saturday there was a discussion with you and Mr. Leibrecht, and some
+               <lb facs="#facs_30_tr_1_tl_5" n="N004"/>very interesting questions were raised. I want to read them, but I will answer only one,
+               <lb facs="#facs_30_tr_1_tl_6" n="N005"/>because they will be answered later.
+               <lb facs="#facs_30_tr_1_tl_7" n="N006"/>QUESTION: Is not the nature of Biblical revelation opposed to philosophy?
+               <lb facs="#facs_30_tr_1_tl_8" n="N007"/>Has not Karl Barth shown that a synthesis between Christianity and culture, Christianity
+               <lb facs="#facs_30_tr_1_tl_9" n="N008"/>and humanism, is [not possible]?
+               <lb facs="#facs_30_tr_1_tl_10" n="N009"/>TILLICH: The answer to this cannot be given in one word. In any case,
+               <lb facs="#facs_30_tr_1_tl_11" n="N010"/>the formulation I gave to this problem shows that it is not a matter of synthesis but a
+               <lb facs="#facs_30_tr_1_tl_12" n="N011"/>matter of mutual immanence, of being-within-each-other--for instance, the fact (to which
+               <lb facs="#facs_30_tr_1_tl_13" n="N012"/>we will refer very soon) that even Karl Barth has to use a language, which has developed
+               <lb facs="#facs_30_tr_1_tl_14" n="N013"/>in terms of a culture two thousands of years. But this is a very preliminary answer, and
+               <lb facs="#facs_30_tr_1_tl_15" n="N014"/>to this first part of the question, ''Is revelation opposed to philosophy?''--I must do what
+               <lb facs="#facs_30_tr_1_tl_17" n="N015"/>I don’t like to do, but I must do it: Please read a very small book of only 80 and some pages,
+               <lb facs="#facs_30_tr_1_tl_18" n="N016"/>by myself, which has arisen just on the basis of thousands of such questions, namely
+               <lb facs="#facs_30_tr_1_tl_19" n="N017"/><hi style="font-style: italic;">Biblical Religion and the Search for Ultimate Reality</hi>, from the Chicago University Press.
+               <lb facs="#facs_30_tr_1_tl_20" n="N018"/>There I try to answer this question more fully.
+               <lb facs="#facs_30_tr_1_tl_21" n="N019"/>QUESTION: If we interpret religion in ontological terms--for instance, the
+               <lb facs="#facs_30_tr_1_tl_22" n="N020"/>participation of our being in absolute Being--can we still speak of God as our Creator,
+               <lb facs="#facs_30_tr_1_tl_23" n="N021"/>and the Creator of the world?
+               <lb facs="#facs_30_tr_1_tl_24" n="N022"/>TILLICH: Now this is the next subject, namely the problem of symbols, and
+               <lb facs="#facs_30_tr_1_tl_25" n="N023"/>there I will answer this in discussing the meaning and the significance of symbolic language.
+               <lb facs="#facs_30_tr_1_tl_26" n="N024"/>QUESTION: Is the aesthetic intuition of reality the function of human culture?
+               <lb facs="#facs_30_tr_1_tl_27" n="N025"/>Is this intuition a form of revelation?
+               <lb facs="#facs_30_tr_1_tl_28" n="N026"/>TILLICH: This again I must postpone--this will be the problem of the two ways
+               <lb facs="#facs_30_tr_1_tl_29" n="N027"/>of looking at a painting--until we come to the section on Religion and the Arts.
+               <lb facs="#facs_30_tr_1_tl_30" n="N028"/>QUESTION: What is the criterion of a true ultimate concern? The answer
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

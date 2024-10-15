@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part3_p059</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p059</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_59">
+         <graphic url="TL-0451.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KORPYUECSASZHQMJVMWJEJEQ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="295,287 2355,287 2355,959 295,959" rendition="TextRegion" xml:id="facs_59_tr_2">
+            <zone points="1126,344 1138,344 1150,356 1185,356 1189,351 1194,356 1234,356 1241,349 1253,349 1251,270 1226,270 1212,285 1172,283 1157,290 1123,290" rendition="Line" xml:id="facs_59_tr_2_tl_1"/>
+            <zone points="283,499 619,501 654,533 705,499 963,501 1000,496 1000,410 949,447 880,452 848,425 821,452 735,452 708,428 678,457 634,418 425,423 386,460 344,423 283,464" rendition="Line" xml:id="facs_59_tr_2_tl_2"/>
+            <zone points="509,646 2310,624 2303,575 2042,548 840,609 511,575" rendition="Line" xml:id="facs_59_tr_2_tl_3"/>
+            <zone points="1194,781 1764,777 2133,836 2175,801 2349,801 2352,715 1194,754" rendition="Line" xml:id="facs_59_tr_2_tl_4"/>
+            <zone points="288,806 1071,799 1172,784 1172,757 968,732 772,737 725,764 612,737 585,764 558,740 460,769 381,745 354,772 329,747 288,772" rendition="Line" xml:id="facs_59_tr_2_tl_5"/>
+            <zone points="290,958 440,1027 966,963 1986,966 2155,949 2197,863 290,926" rendition="Line" xml:id="facs_59_tr_2_tl_6"/>
+         </zone>
+         <zone points="298,1006 2266,1006 2266,2159 298,2159" rendition="TextRegion" xml:id="facs_59_tr_3">
+            <zone points="290,1111 1853,1108 2209,1071 2212,1010 290,1057" rendition="Line" xml:id="facs_59_tr_3_tl_1"/>
+            <zone points="285,1256 2219,1224 2222,1160 285,1229" rendition="Line" xml:id="facs_59_tr_3_tl_2"/>
+            <zone points="300,1411 2177,1381 2180,1322 300,1376" rendition="Line" xml:id="facs_59_tr_3_tl_3"/>
+            <zone points="288,1551 2086,1536 2261,1479 290,1524" rendition="Line" xml:id="facs_59_tr_3_tl_4"/>
+            <zone points="292,1706 2207,1686 2209,1622 292,1674" rendition="Line" xml:id="facs_59_tr_3_tl_5"/>
+            <zone points="290,1853 1757,1890 2231,1823 2155,1762 292,1801" rendition="Line" xml:id="facs_59_tr_3_tl_6"/>
+            <zone points="300,2010 1012,2005 1015,1968 688,1944 302,1966" rendition="Line" xml:id="facs_59_tr_3_tl_7"/>
+            <zone points="526,2150 2180,2126 2116,2050 1563,2101 528,2082" rendition="Line" xml:id="facs_59_tr_3_tl_8"/>
+         </zone>
+         <zone points="50,2213 2185,2213 2185,3488 50,3488" rendition="TextRegion" xml:id="facs_59_tr_1">
+            <zone points="302,2315 2035,2293 2136,2239 302,2276" rendition="Line" xml:id="facs_59_tr_1_tl_1"/>
+            <zone points="302,2460 1954,2438 2086,2428 2089,2376 302,2413" rendition="Line" xml:id="facs_59_tr_1_tl_2"/>
+            <zone points="297,2615 2013,2590 2094,2578 2096,2516 297,2558" rendition="Line" xml:id="facs_59_tr_1_tl_3"/>
+            <zone points="310,2777 2077,2738 2145,2679 312,2708" rendition="Line" xml:id="facs_59_tr_1_tl_4"/>
+            <zone points="302,2905 2111,2880 2138,2819 302,2856" rendition="Line" xml:id="facs_59_tr_1_tl_5"/>
+            <zone points="305,3062 2180,3030 2182,2964 307,3035" rendition="Line" xml:id="facs_59_tr_1_tl_6"/>
+            <zone points="302,3209 976,3212 1044,3207 1044,3158 302,3168" rendition="Line" xml:id="facs_59_tr_1_tl_7"/>
+            <zone points="364,3470 413,3453 460,3487 597,3487 612,3472 646,3487 668,3472 683,3485 804,3485 809,3394 482,3409 423,3399 366,3426" rendition="Line" xml:id="facs_59_tr_1_tl_8"/>
+            <zone points="1435,3477 1450,3480 1460,3475 1467,3482 1484,3482 1497,3472 1509,3485 1526,3485 1511,3273 1479,3268 1465,3276 1450,3268 1420,3268" rendition="Line" xml:id="facs_59_tr_1_tl_9"/>
+            <zone points="2072,3470 2099,3463 2118,3477 2168,3470 2175,3207 2079,3205" rendition="Line" xml:id="facs_59_tr_1_tl_10"/>
+            <zone points="1111,3485 1145,3475 1165,3485 1256,3485 1266,3475 1278,3485 1342,3485 1339,3310 1108,3320" rendition="Line" xml:id="facs_59_tr_1_tl_11"/>
+            <zone points="37,3443 106,3443 118,3455 138,3453 170,3485 280,3492 283,3335 39,3345" rendition="Line" xml:id="facs_59_tr_1_tl_12"/>
+            <zone points="369,3490 371,3487 386,3485 398,3495 401,3492 425,3492 433,3485 452,3485 447,3455 423,3460 413,3453 408,3458 391,3455 376,3445 361,3448" rendition="Line" xml:id="facs_59_tr_1_tl_13"/>
+            <zone points="47,3490 59,3490 76,3480 86,3487 96,3487 101,3482 113,3482 120,3477 130,3477 133,3480 133,3445 130,3443 96,3443 84,3453 79,3445 49,3445" rendition="Line" xml:id="facs_59_tr_1_tl_14"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0451.jpg" n="part3_p059.jpg" xml:id="img_0059" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p059.jpg"/>
+            
+            <ab facs="#facs_59_tr_2">
+               <lb facs="#facs_59_tr_2_tl_1" n="N001"/> ee
+               <lb facs="#facs_59_tr_2_tl_2" n="N002"/>LECTURE XXXV, March 12, 956
+               <lb facs="#facs_59_tr_2_tl_3" n="N003"/>I have received a very nice but unfortunately unfeasible request, namely to add a few hours
+               <lb facs="#facs_59_tr_2_tl_4" n="N004"/>only five – today and the next two weeks, two hours each.
+               <lb facs="#facs_59_tr_2_tl_5" n="N005"/>to the ordinary hours, of which we have
+               <lb facs="#facs_59_tr_2_tl_6" n="N006"/>And there are some mathematical calculations that these hours do not completely agree with the
+            </ab>
+            <ab facs="#facs_59_tr_3">
+               <lb facs="#facs_59_tr_3_tl_1" n="N001"/>program I gave you in the beginning. Now it is not as bad as it seems to be because some of these
+               <lb facs="#facs_59_tr_3_tl_2" n="N002"/>points can beavcussed together in one more embrading discussion. On the other hand, I talked it
+               <lb facs="#facs_59_tr_3_tl_3" n="N003"/>over with Mr. Leibrecht and we agreed that it will be absolutely impossible—not only relatively,
+               <lb facs="#facs_59_tr_3_tl_4" n="N004"/>but absolutely [laughter] —to find an hour in which the whole class will be able to come, outside
+               <lb facs="#facs_59_tr_3_tl_5" n="N005"/>the ordinary hours which are reserved for it. So I am sorry I cannot accept this Augustion,
+               <lb facs="#facs_59_tr_3_tl_6" n="N006"/>but I feel very much moved by it to intensify the Jresentation and to concentrate a little bit more
+               <lb facs="#facs_59_tr_3_tl_7" n="N007"/>than I did perhaps in the last hours.
+               <lb facs="#facs_59_tr_3_tl_8" n="N008"/>The problem we have discussion was individual others. I gave you a discussion of the
+            </ab>
+            <ab facs="#facs_59_tr_1">
+               <lb facs="#facs_59_tr_1_tl_1" n="N001"/>different thpes of individualism, and then we came to the concept of person, personality, and
+               <lb facs="#facs_59_tr_1_tl_2" n="N002"/>the different meanings of the second word in different languages. In the meantime, I have
+               <lb facs="#facs_59_tr_1_tl_3" n="N003"/>iuarned that there is another use of the word personality, introduced by the psychology of
+               <lb facs="#facs_59_tr_1_tl_4" n="N004"/>personality, the idea of personality structure. Since this structure already has its voots in the
+               <lb facs="#facs_59_tr_1_tl_5" n="N005"/>boby period of human brings, one could speak of the "personality" of a baby. Now this means
+               <lb facs="#facs_59_tr_1_tl_6" n="N006"/>the word personality has become unless, and if we want to use it we must always say which of
+               <lb facs="#facs_59_tr_1_tl_7" n="N007"/>these different Seanings we will use.
+               <lb facs="#facs_59_tr_1_tl_8" n="N008"/>dʼavoir lʼautre beaucoup dʼune manière
+               <lb facs="#facs_59_tr_1_tl_9" n="N009"/>cʼest le
+               <lb facs="#facs_59_tr_1_tl_10" n="N010"/>cʼest en
+               <lb facs="#facs_59_tr_1_tl_11" n="N011"/>dʼun autre
+               <lb facs="#facs_59_tr_1_tl_12" n="N012"/>de mon ami
+               <lb facs="#facs_59_tr_1_tl_13" n="N013"/>G.C.F.P
+               <lb facs="#facs_59_tr_1_tl_14" n="N014"/>Vous avez
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

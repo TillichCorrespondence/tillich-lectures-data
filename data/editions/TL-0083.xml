@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p083</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p083</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_83">
+         <graphic url="TL-0083.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CXRDFPNNCLXVKKVXXTWTFUGU&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="38,252 38,3446 2361,3446 2361,252" rendition="TextRegion" xml:id="facs_83_tr_1">
+            <zone points="1098,300 1116,300 1129,310 1167,310 1175,303 1188,303 1190,246 1165,249 1159,241 1144,236 1113,264 1098,264" rendition="Line" xml:id="facs_83_tr_1_tl_1"/>
+            <zone points="287,459 2250,477 2270,395 2160,433 285,416" rendition="Line" xml:id="facs_83_tr_1_tl_2"/>
+            <zone points="593,549 2144,559 2144,510 1975,498 593,510" rendition="Line" xml:id="facs_83_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="285,634 2278,641 2278,590 285,605" rendition="Line" xml:id="facs_83_tr_1_tl_4"/>
+            <zone points="295,726 2185,739 2185,685 2044,667 295,675" rendition="Line" xml:id="facs_83_tr_1_tl_5"/>
+            <zone points="295,813 2357,821 2357,767 2267,754 295,772" rendition="Line" xml:id="facs_83_tr_1_tl_6"/>
+            <zone points="292,885 2124,903 2121,846 2065,836 290,844" rendition="Line" xml:id="facs_83_tr_1_tl_7"/>
+            <zone points="285,970 2142,982 2142,929 285,923" rendition="Line" xml:id="facs_83_tr_1_tl_8"/>
+            <zone points="277,1054 2129,1090 2126,1013 2065,1000 685,1026 567,982 277,1026" rendition="Line" xml:id="facs_83_tr_1_tl_9"/>
+            <zone points="277,1147 328,1185 2229,1157 2229,1098 1970,1088 277,1103" rendition="Line" xml:id="facs_83_tr_1_tl_10"/>
+            <zone points="282,1224 718,1267 2257,1229 2257,1170 1860,1203 282,1180" rendition="Line" xml:id="facs_83_tr_1_tl_11"/>
+            <zone points="282,1313 2191,1324 2191,1270 2137,1254 1172,1285 282,1254" rendition="Line" xml:id="facs_83_tr_1_tl_12"/>
+            <zone points="277,1388 2211,1398 2170,1339 277,1354" rendition="Line" xml:id="facs_83_tr_1_tl_13"/>
+            <zone points="272,1480 616,1485 616,1431 539,1431 523,1416 485,1447 469,1431 303,1431 272,1447" rendition="Line" xml:id="facs_83_tr_1_tl_14"/>
+            <zone points="577,1565 2211,1603 2211,1529 2162,1506 634,1529 577,1498" rendition="Line" xml:id="facs_83_tr_1_tl_15" subtype="paragraph"/>
+            <zone points="272,1647 1888,1695 1983,1642 2188,1652 2188,1608 1634,1590 272,1616" rendition="Line" xml:id="facs_83_tr_1_tl_16"/>
+            <zone points="272,1739 2188,1742 2157,1678 272,1688" rendition="Line" xml:id="facs_83_tr_1_tl_17"/>
+            <zone points="274,1860 2224,1824 2224,1772 2173,1757 2121,1788 274,1772" rendition="Line" xml:id="facs_83_tr_1_tl_18"/>
+            <zone points="272,1901 654,1906 739,1944 1064,1896 2232,1916 2232,1847 272,1860" rendition="Line" xml:id="facs_83_tr_1_tl_19"/>
+            <zone points="269,1988 2183,1998 2183,1944 2129,1929 269,1942" rendition="Line" xml:id="facs_83_tr_1_tl_20"/>
+            <zone points="269,2078 672,2065 939,2116 1152,2114 1200,2065 2155,2078 2155,2029 1988,2016 269,2029" rendition="Line" xml:id="facs_83_tr_1_tl_21"/>
+            <zone points="262,2165 2208,2160 2208,2096 262,2108" rendition="Line" xml:id="facs_83_tr_1_tl_22"/>
+            <zone points="262,2234 2224,2244 2193,2183 262,2191" rendition="Line" xml:id="facs_83_tr_1_tl_23"/>
+            <zone points="262,2319 2239,2324 2239,2275 1701,2293 1636,2257 1601,2293 262,2285" rendition="Line" xml:id="facs_83_tr_1_tl_24"/>
+            <zone points="262,2411 2157,2414 2157,2360 262,2362" rendition="Line" xml:id="facs_83_tr_1_tl_25"/>
+            <zone points="259,2488 1080,2483 1252,2519 1503,2491 1501,2444 256,2444" rendition="Line" xml:id="facs_83_tr_1_tl_26"/>
+            <zone points="559,2575 772,2616 841,2578 1367,2565 2121,2606 2096,2514 559,2524" rendition="Line" xml:id="facs_83_tr_1_tl_28" subtype="paragraph"/>
+            <zone points="256,2650 2142,2660 2142,2611 2055,2598 256,2627" rendition="Line" xml:id="facs_83_tr_1_tl_29"/>
+            <zone points="256,2750 2080,2755 2080,2693 2024,2691 256,2706" rendition="Line" xml:id="facs_83_tr_1_tl_30"/>
+            <zone points="254,2824 2265,2832 2265,2768 254,2780" rendition="Line" xml:id="facs_83_tr_1_tl_31"/>
+            <zone points="256,2914 1347,2934 1347,2855 1306,2852 256,2865" rendition="Line" xml:id="facs_83_tr_1_tl_33"/>
+            <zone points="254,3004 2191,3029 2191,2952 2144,2937 254,2965" rendition="Line" xml:id="facs_83_tr_1_tl_35"/>
+            <zone points="251,3106 2178,3086 2178,3042 2078,3027 736,3055 251,3001" rendition="Line" xml:id="facs_83_tr_1_tl_36"/>
+            <zone points="249,3165 2303,3170 2303,3124 2247,3111 249,3122" rendition="Line" xml:id="facs_83_tr_1_tl_37"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0083.jpg" n="part1_p083.jpg" xml:id="img_0083" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p083.jpg"/>
+            
+            <ab facs="#facs_83_tr_1">
+               <lb facs="#facs_83_tr_1_tl_1" n="N001"/>[80]
+               <lb facs="#facs_83_tr_1_tl_2" n="N002"/><progress>that you change something given into something better, otherwise you would not act at all.
+               <lb break="no" facs="#facs_83_tr_1_tl_3" n="N003"/>Let me exemplify this by our situation here. None of you would come
+               <lb break="no" facs="#facs_83_tr_1_tl_4" n="N004"/>to this lecture if he had not the right or wrong idea that AFTER this, he has made SOME
+               <lb break="no" facs="#facs_83_tr_1_tl_5" n="N005"/>infinitely small prograss [sic.] in his thinking--that is the only reason to come to this lecture,
+               <lb break="no" facs="#facs_83_tr_1_tl_6" n="N006"/>or at least it should be: there are unfortunately other reasons, such as grades and examinations,
+               <lb break="no" facs="#facs_83_tr_1_tl_7" n="N007"/>which are incidental. But the essential reason is certainly that you believe you make,
+               <lb break="no" facs="#facs_83_tr_1_tl_8" n="N008"/>between 11 and 12 o'clock, in some way, or some small point, a very small progress.
+               <lb break="no" facs="#facs_83_tr_1_tl_9" n="N009"/>And so it is with every activity which we perform. Now this means that action has
+               <lb break="no" facs="#facs_83_tr_1_tl_10" n="N010"/>in itself, as an essential element, the idea of progress, and cannot be separated completely
+               <lb break="no" facs="#facs_83_tr_1_tl_11" n="N011"/>from this idea. It is intrinsic in action itself. Man as action purposefully, as putting an end
+               <lb break="no" facs="#facs_83_tr_1_tl_12" n="N012"/>before himself in thought or imagination, and then using means for this end, is a reality
+               <lb break="no" facs="#facs_83_tr_1_tl_13" n="N013"/>which cannot be denied, and where the idea of progress is equally rooted, as it is in the
+               <lb break="no" facs="#facs_83_tr_1_tl_14" n="N014"/>technical realm.
+               <lb break="no" facs="#facs_83_tr_1_tl_15" n="N015"/>But there is a difference.<technology> In the technical realm, progress has that character</technology>
+               <lb break="no" facs="#facs_83_tr_1_tl_16" n="N016"/><technology>which it has received in modern times, namely the character of indefiniteness. You can</technology>
+               <lb break="no" facs="#facs_83_tr_1_tl_17" n="N017"/><technology>go on indefinitely in everything where technical elements are involved. There is no limit.</technology>
+               <lb break="no" facs="#facs_83_tr_1_tl_18" n="N018"/><technology>In all other realms there IS a limit. And this limit is--let me immediately shock you with</technology>
+               <lb break="no" facs="#facs_83_tr_1_tl_19" n="N019"/><technology>the decisive term--''freedom.'' In the realm of technical action, the object which is shaped,</technology>
+               <lb break="no" facs="#facs_83_tr_1_tl_20" n="N020"/><technology>according to the scheme of means and ends, is subject to our continuously transforming</technology>
+               <lb break="no" facs="#facs_83_tr_1_tl_21" n="N021"/><technology>activity.</technology> It cannot resist. YOU CAN resist, when I am teaching you, and you do, to a
+               <lb break="no" facs="#facs_83_tr_1_tl_22" n="N022"/>great extent, not only against what I say--that would be the necessary and good form of
+               <lb break="no" facs="#facs_83_tr_1_tl_23" n="N023"/>resistance, namely to criticize what I say (and I hope you do--and you did very much, in
+               <lb break="no" facs="#facs_83_tr_1_tl_24" n="N024"/>the end of the last lecture, about progress)--and that is good. But there is another form of
+               <lb break="no" facs="#facs_83_tr_1_tl_25" n="N025"/>resistance, namely the resistance of not wanting to take in at all, which expresses itself
+               <lb break="no" facs="#facs_83_tr_1_tl_26" n="N026"/>amongst other things in forgetting, in throwing out again.
+               <lb break="no" facs="#facs_83_tr_1_tl_28" n="N027"/>Now this is an example and is decisive for the belief, for instance, in man's
+               <lb break="no" facs="#facs_83_tr_1_tl_29" n="N028"/>educational progress, if we look at mankind as a whole. In which sense is educational
+               <lb break="no" facs="#facs_83_tr_1_tl_30" n="N029"/>progress possible? -- now here I anticipate something of later lectures next semester,
+               <lb break="no" facs="#facs_83_tr_1_tl_31" n="N030"/>but anyhow, why shouldn't l?--repetition is the mother of wisdom anyhow! <hi style="font-style: italic;">[some laughter]</hi>.
+               <lb break="no" facs="#facs_83_tr_1_tl_33" n="N031"/>So let me say this: with respect to TECHNIQUES of education, there MAY be
+               <lb break="no" facs="#facs_83_tr_1_tl_35" n="N032"/>a progress, and probably is. With respect to mankind being educated, and transformed by
+               <lb break="no" facs="#facs_83_tr_1_tl_36" n="N033"/>education, there is no progress. There is of course the possibility that special things are
+               <lb break="no" facs="#facs_83_tr_1_tl_37" n="N034"/>removed and other things are replacing it--the savage has other forms of educational expression</progress>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

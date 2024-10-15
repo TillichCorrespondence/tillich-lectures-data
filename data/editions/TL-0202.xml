@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p202</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p202</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_202">
+         <graphic url="TL-0202.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SINGXOMQVNTQVSJNBHTQRACA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="68,228 68,3483 2271,3483 2271,228" rendition="TextRegion" xml:id="facs_202_tr_1">
+            <zone points="1129,284 1146,284 1166,297 1179,292 1232,294 1252,289 1249,244 1232,244 1219,231 1212,236 1189,236 1171,226 1161,239 1126,239" rendition="Line" xml:id="facs_202_tr_1_tl_1"/>
+            <zone points="221,417 885,427 958,485 2240,483 2240,427 2167,402 1141,390 1051,304 975,385 505,347 334,375 289,332 221,382" rendition="Line" xml:id="facs_202_tr_1_tl_2"/>
+            <zone points="339,583 2227,669 2222,563 337,530" rendition="Line" xml:id="facs_202_tr_1_tl_3"/>
+            <zone points="347,724 410,772 734,739 880,774 993,732 2260,779 2257,737 2142,686 2021,729 344,656" rendition="Line" xml:id="facs_202_tr_1_tl_4"/>
+            <zone points="327,814 535,830 601,877 789,860 845,902 1277,900 1370,850 2235,890 2232,825 2195,822 327,784" rendition="Line" xml:id="facs_202_tr_1_tl_6"/>
+            <zone points="332,970 380,970 405,983 445,973 586,980 583,918 329,912" rendition="Line" xml:id="facs_202_tr_1_tl_7"/>
+            <zone points="525,1046 2076,1111 2247,1106 2245,1026 2187,1066 860,1023 825,990 523,1013" rendition="Line" xml:id="facs_202_tr_1_tl_8" subtype="paragraph"/>
+            <zone points="324,1194 2147,1269 2172,1204 322,1136" rendition="Line" xml:id="facs_202_tr_1_tl_9"/>
+            <zone points="312,1342 2212,1418 2212,1350 2122,1342 312,1310" rendition="Line" xml:id="facs_202_tr_1_tl_10"/>
+            <zone points="299,1493 2174,1574 2172,1523 2096,1491 1918,1516 299,1438" rendition="Line" xml:id="facs_202_tr_1_tl_11"/>
+            <zone points="297,1647 1269,1684 1267,1624 1229,1621 945,1639 862,1609 354,1594 297,1619" rendition="Line" xml:id="facs_202_tr_1_tl_12"/>
+            <zone points="493,1797 2252,1878 2262,1820 2039,1815 1991,1775 1893,1810 1259,1795 1129,1752 1068,1785 980,1750 490,1760" rendition="Line" xml:id="facs_202_tr_1_tl_13" subtype="paragraph"/>
+            <zone points="284,1946 2179,2006 2177,1968 2086,1943 284,1910" rendition="Line" xml:id="facs_202_tr_1_tl_14"/>
+            <zone points="284,2101 2124,2164 2122,2094 1943,2076 1340,2099 284,2039" rendition="Line" xml:id="facs_202_tr_1_tl_15"/>
+            <zone points="475,2257 2147,2310 2144,2247 475,2200" rendition="Line" xml:id="facs_202_tr_1_tl_16" subtype="paragraph"/>
+            <zone points="269,2396 2154,2458 2154,2401 2044,2386 1966,2418 269,2365" rendition="Line" xml:id="facs_202_tr_1_tl_17"/>
+            <zone points="266,2551 2127,2612 2124,2549 1679,2567 264,2496" rendition="Line" xml:id="facs_202_tr_1_tl_18"/>
+            <zone points="254,2702 704,2770 752,2722 2144,2768 2162,2700 251,2672" rendition="Line" xml:id="facs_202_tr_1_tl_19"/>
+            <zone points="251,2856 292,2856 329,2871 367,2858 538,2868 540,2803 347,2795 324,2820 304,2803 284,2818 274,2810 249,2820" rendition="Line" xml:id="facs_202_tr_1_tl_21"/>
+            <zone points="246,3016 334,3074 535,3074 593,3019 2257,3069 2255,3004 244,2951" rendition="Line" xml:id="facs_202_tr_1_tl_23"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0202.jpg" n="part1_p202.jpg" xml:id="img_0202" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p202.jpg"/>
+            
+            <ab facs="#facs_202_tr_1">
+               <lb facs="#facs_202_tr_1_tl_1" n="N001"/>[198]
+               <lb facs="#facs_202_tr_1_tl_2" n="N002"/>absurdity, did a great service: they vere the <hi style="font-style: italic;">reductio ad absurdum</hi> of extreme <rs type="keyword" ref="#Nominalism">nominalism</rs>. They
+               <lb facs="#facs_202_tr_1_tl_3" n="N003"/>showed that if you radically give up <rs type="keyword" ref="#Universal_category">universals,</rs> you necessarily have to give up language, because
+               <lb facs="#facs_202_tr_1_tl_4" n="N004"/>language moves in universals. And if you read one of the <rs type="keyword" ref="#Dadaism">Dadaistic </rs>poems, you will find that there
+               <lb facs="#facs_202_tr_1_tl_6" n="N005"/>are indeed no universals, but there's no sense either! <hi style="font-style: italic;">[some laughter]</hi> And this was the necessary
+               <lb facs="#facs_202_tr_1_tl_7" n="N006"/>implication.
+               <lb facs="#facs_202_tr_1_tl_8" n="N007"/>Now against this kind of <rs type="keyword" ref="#Nominalism">nominalistic </rs>radicalism, the philosophical argument taken from
+               <lb facs="#facs_202_tr_1_tl_9" n="N008"/>the meaning of universals is valid as a philosophical argument and has always been defended by
+               <lb facs="#facs_202_tr_1_tl_10" n="N009"/>rationalist idealists or, in the Neothomistic school, realists in the medieval sense. This definition,
+               <lb facs="#facs_202_tr_1_tl_11" n="N010"/>I would say, is valid. Even those who attack this definition use universals in a way which they
+               <lb facs="#facs_202_tr_1_tl_12" n="N011"/>canNOT defend from their own presuppositions.
+               <lb facs="#facs_202_tr_1_tl_13" n="N012"/>Now this is the inner philosophical struggle. Here the theologian, or the religious observer,
+               <lb facs="#facs_202_tr_1_tl_14" n="N013"/>can sit in the ranks and look down into the arena where the philosophers fight with each other---
+               <lb facs="#facs_202_tr_1_tl_15" n="N014"/>he is not concerned about this, or at least not necessarily except if he is a philosopher himself.
+               <lb facs="#facs_202_tr_1_tl_16" n="N015"/>But then the <rs type="keyword" ref="#Nominalism">nominalists </rs>answer, and although they cannot defend the attack against
+               <lb facs="#facs_202_tr_1_tl_17" n="N016"/>their <rs type="keyword" ref="#Dadaism">dadaistic</rs> implications, they can attack <rs type="keyword" ref="#Realism">realism</rs> with the same fundamental argument which
+               <lb facs="#facs_202_tr_1_tl_18" n="N017"/><rs type="person">Aristotle</rs> used against <rs type="person">Plato,</rs> namely that if you give to the <rs type="keyword" ref="#Universal_category">universals</rs> an <rs type="keyword" ref="#Ontology">ontological standing</rs> of
+               <lb facs="#facs_202_tr_1_tl_19" n="N018"/>their own, BESIDES the individual things, that you then reduplicate reality. <rs type="person">Aristotle</rs> called this
+               <lb facs="#facs_202_tr_1_tl_21" n="N019"/>argument <rs type="keyword" ref="#Tritos_Anthropos">the <hi style="font-style: italic;">tritos anthropos</hi>, </rs>which means that here is the individual Paul and there is the
+               <lb facs="#facs_202_tr_1_tl_23" n="N020"/>individual John, they have something in common: both of them are men. Now man himself becomes
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

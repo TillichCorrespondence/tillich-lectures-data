@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part3_p053</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p053</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_53">
+         <graphic url="TL-0445.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VAFBKPOEAGLDWHUWXANNWVEM&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="310,350 2239,350 2239,1326 310,1326" rendition="TextRegion" xml:id="facs_53_tr_3">
+            <zone points="1184,401 1199,401 1226,413 1304,411 1304,342 1270,345 1258,332 1245,332 1218,359 1184,359" rendition="Line" xml:id="facs_53_tr_3_tl_1"/>
+            <zone points="537,554 2232,581 2232,529 1888,482 1824,524 1373,485 1211,522 1172,482 1122,522 537,514" rendition="Line" xml:id="facs_53_tr_3_tl_2"/>
+            <zone points="303,694 2200,731 2200,665 2114,662 303,669" rendition="Line" xml:id="facs_53_tr_3_tl_3"/>
+            <zone points="303,852 701,901 1061,854 2159,869 2159,822 2048,810 303,805" rendition="Line" xml:id="facs_53_tr_3_tl_4"/>
+            <zone points="295,999 2176,1021 2127,965 295,975" rendition="Line" xml:id="facs_53_tr_3_tl_5"/>
+            <zone points="295,1149 1093,1162 1093,1115 980,1105 295,1108" rendition="Line" xml:id="facs_53_tr_3_tl_6"/>
+            <zone points="519,1307 935,1364 1231,1309 2203,1334 2203,1258 519,1248" rendition="Line" xml:id="facs_53_tr_3_tl_7"/>
+         </zone>
+         <zone points="280,1400 2230,1400 2230,2676 280,2676" rendition="TextRegion" xml:id="facs_53_tr_1">
+            <zone points="290,1452 2163,1469 2163,1420 2003,1410 290,1410" rendition="Line" xml:id="facs_53_tr_1_tl_1"/>
+            <zone points="318,1620 2156,1624 2156,1570 1738,1553 318,1560" rendition="Line" xml:id="facs_53_tr_1_tl_2"/>
+            <zone points="290,1760 2163,1775 2163,1723 1962,1713 290,1723" rendition="Line" xml:id="facs_53_tr_1_tl_3"/>
+            <zone points="281,1917 2225,1935 2225,1875 2023,1861 281,1871" rendition="Line" xml:id="facs_53_tr_1_tl_4"/>
+            <zone points="288,2065 2122,2090 2075,2013 286,2016" rendition="Line" xml:id="facs_53_tr_1_tl_5"/>
+            <zone points="286,2220 1568,2277 1651,2220 1981,2230 1981,2173 1883,2161 286,2163" rendition="Line" xml:id="facs_53_tr_1_tl_6"/>
+            <zone points="281,2365 847,2365 957,2412 1167,2360 2077,2380 2077,2326 1971,2316 281,2314" rendition="Line" xml:id="facs_53_tr_1_tl_7"/>
+            <zone points="266,2503 2213,2523 2163,2469 266,2478" rendition="Line" xml:id="facs_53_tr_1_tl_8"/>
+            <zone points="268,2666 1297,2685 1336,2673 1336,2619 551,2604 495,2638 406,2611 268,2636" rendition="Line" xml:id="facs_53_tr_1_tl_9"/>
+         </zone>
+         <zone points="47,2759 2248,2759 2248,3485 47,3485" rendition="TextRegion" xml:id="facs_53_tr_2">
+            <zone points="487,2813 2183,2823 2136,2759 487,2759" rendition="Line" xml:id="facs_53_tr_2_tl_1"/>
+            <zone points="261,2971 2159,2978 2159,2919 1994,2909 261,2922" rendition="Line" xml:id="facs_53_tr_2_tl_2"/>
+            <zone points="254,3116 1024,3128 1021,3059 992,3077 849,3057 829,3077 254,3086" rendition="Line" xml:id="facs_53_tr_2_tl_3"/>
+            <zone points="266,3197 2245,3205 2245,3150 266,3145" rendition="Line" xml:id="facs_53_tr_2_tl_4"/>
+            <zone points="34,3458 86,3463 96,3451 126,3461 143,3458 138,3333 91,3333 74,3328 64,3335 30,3337" rendition="Line" xml:id="facs_53_tr_2_tl_5"/>
+            <zone points="566,3485 618,3490 630,3478 655,3485 667,3480 679,3493 689,3493 721,3461 751,3463 748,3345 655,3340 647,3347 618,3347 564,3337" rendition="Line" xml:id="facs_53_tr_2_tl_6"/>
+            <zone points="965,3485 992,3485 1007,3495 1016,3488 1063,3490 1071,3483 1098,3488 1103,3308 970,3310" rendition="Line" xml:id="facs_53_tr_2_tl_7"/>
+            <zone points="212,3488 241,3485 263,3465 295,3490 308,3490 290,3301 256,3303 251,3298 212,3313 197,3313" rendition="Line" xml:id="facs_53_tr_2_tl_8"/>
+            <zone points="345,3468 369,3468 381,3478 418,3485 445,3461 485,3456 477,3342 450,3345 426,3333 399,3330 337,3335" rendition="Line" xml:id="facs_53_tr_2_tl_9"/>
+            <zone points="54,3488 76,3493 86,3485 96,3485 111,3473 116,3478 121,3478 123,3483 138,3485 143,3451 133,3451 126,3446 108,3446 98,3453 91,3448 59,3446" rendition="Line" xml:id="facs_53_tr_2_tl_10"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0445.jpg" n="part3_p053.jpg" xml:id="img_0053" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p053.jpg"/>
+            
+            <ab facs="#facs_53_tr_3">
+               <lb facs="#facs_53_tr_3_tl_1" n="N001"/>- 440-
+               <lb facs="#facs_53_tr_3_tl_2" n="N002"/>Persona means the character of the actor in a play—one has derived it from personare,
+               <lb facs="#facs_53_tr_3_tl_3" n="N003"/>which means "sounding through," namely through the wask. Persona, and the Greek prosopon,
+               <lb facs="#facs_53_tr_3_tl_4" n="N004"/>have received the meaning of "mark," of the special character a member of theavatrical cast
+               <lb facs="#facs_53_tr_3_tl_5" n="N005"/>represents. From there it was applied to the Maentered self, which we today call a person, which
+               <lb facs="#facs_53_tr_3_tl_6" n="N006"/>establishes itself in his exhical decisions.
+               <lb facs="#facs_53_tr_3_tl_7" n="N007"/>Now in German, person—Person—is the POTENTIALITY OF SELF-REALICATION,
+            </ab>
+            <ab facs="#facs_53_tr_1">
+               <lb facs="#facs_53_tr_1_tl_1" n="N001"/>in the different forms: religious, rational and romantic. In English, I have been told, the word
+               <lb facs="#facs_53_tr_1_tl_2" n="N002"/>"personality" is much more used for that. In German the word "personality," means a person
+               <lb facs="#facs_53_tr_1_tl_3" n="N003"/>which has become actually what it potentially is: a developed persona, is a personality, while
+               <lb facs="#facs_53_tr_1_tl_4" n="N004"/>persona is legal [?] a complete [?] thing—one must be treated as a person; therefore if somehow
+               <lb facs="#facs_53_tr_1_tl_5" n="N005"/>kills me, he will be killed himself—but that doesn’t mean that anything is developed; even the
+               <lb facs="#facs_53_tr_1_tl_6" n="N006"/>murder of a baby, where no person is developed, is a full number. So German makes a
+               <lb facs="#facs_53_tr_1_tl_7" n="N007"/>difference between persona and personality. "He is a personality" means he IS something,
+               <lb facs="#facs_53_tr_1_tl_8" n="N008"/>he has developed his potentialities, he is reasonable, he i’s impregnated in his being with values and
+               <lb facs="#facs_53_tr_1_tl_9" n="N009"/>manings. All this would be the word "personality."
+            </ab>
+            <ab facs="#facs_53_tr_2">
+               <lb facs="#facs_53_tr_2_tl_1" n="N001"/>Now may I ask YOU, those of you who feel they can answer it more from their more
+               <lb facs="#facs_53_tr_2_tl_2" n="N002"/>genuine feeling for the English language than I have it: what is the difference between "person"
+               <lb facs="#facs_53_tr_2_tl_3" n="N003"/>and "personality" YOU would make?
+               <lb facs="#facs_53_tr_2_tl_4" n="N004"/>STUDENT: [Susan Lord] : It seems to me that you use "personality" in two senses: 1) as opposed
+               <lb facs="#facs_53_tr_2_tl_5" n="N005"/>Monsieur
+               <lb facs="#facs_53_tr_2_tl_6" n="N006"/>dʼune manière
+               <lb facs="#facs_53_tr_2_tl_7" n="N007"/>pour la
+               <lb facs="#facs_53_tr_2_tl_8" n="N008"/>de mon ami
+               <lb facs="#facs_53_tr_2_tl_9" n="N009"/>pour le
+               <lb facs="#facs_53_tr_2_tl_10" n="N010"/>Je ne suis
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

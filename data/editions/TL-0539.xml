@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part4_p065</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p065</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_65">
+         <graphic url="TL-0539.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WJVWLTWAZRHFKASFRZPGJQDO&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="286,296 2254,296 2254,1135 286,1135" rendition="TextRegion" xml:id="facs_65_tr_3">
+            <zone points="1149,386 1162,386 1180,404 1208,402 1249,361 1270,358 1273,301 1152,301" rendition="Line" xml:id="facs_65_tr_3_tl_1"/>
+            <zone points="278,492 2187,469 2205,412 278,451" rendition="Line" xml:id="facs_65_tr_3_tl_2"/>
+            <zone points="273,605 294,613 623,605 626,551 307,556 289,575 273,575" rendition="Line" xml:id="facs_65_tr_3_tl_3"/>
+            <zone points="531,665 2205,647 2208,598 533,603" rendition="Line" xml:id="facs_65_tr_3_tl_4"/>
+            <zone points="273,781 2094,750 2043,703 276,732" rendition="Line" xml:id="facs_65_tr_3_tl_5"/>
+            <zone points="273,894 2221,879 2246,814 273,866" rendition="Line" xml:id="facs_65_tr_3_tl_6"/>
+            <zone points="337,1007 2141,997 2218,989 2221,930 337,982" rendition="Line" xml:id="facs_65_tr_3_tl_7"/>
+            <zone points="278,1139 2239,1113 2241,1054 278,1100" rendition="Line" xml:id="facs_65_tr_3_tl_8"/>
+         </zone>
+         <zone points="50,1162 2346,1162 2346,2192 50,2192" rendition="TextRegion" xml:id="facs_65_tr_2">
+            <zone points="278,1257 2324,1231 2326,1167 278,1198" rendition="Line" xml:id="facs_65_tr_2_tl_1"/>
+            <zone points="276,1363 1981,1358 2149,1340 2151,1291 276,1329" rendition="Line" xml:id="facs_65_tr_2_tl_2"/>
+            <zone points="276,1479 2107,1425 276,1453" rendition="Line" xml:id="facs_65_tr_2_tl_3"/>
+            <zone points="273,1600 2221,1590 2339,1572 2339,1515 273,1569" rendition="Line" xml:id="facs_65_tr_2_tl_4"/>
+            <zone points="276,1721 2210,1731 2301,1644 276,1672" rendition="Line" xml:id="facs_65_tr_2_tl_5"/>
+            <zone points="33,1827 59,1829 67,1837 93,1845 108,1829 121,1829 129,1667 108,1667 103,1672 41,1667" rendition="Line" xml:id="facs_65_tr_2_tl_6"/>
+            <zone points="273,1832 2234,1814 2234,1762 273,1788" rendition="Line" xml:id="facs_65_tr_2_tl_7"/>
+            <zone points="281,1966 2190,1937 2234,1873 283,1904" rendition="Line" xml:id="facs_65_tr_2_tl_8"/>
+            <zone points="67,2046 88,2048 113,2071 131,2064 142,2069 155,2056 232,2053 242,1948 193,1948 180,1935 160,1937 142,1914 124,1930 80,1930" rendition="Line" xml:id="facs_65_tr_2_tl_9"/>
+            <zone points="281,2074 1268,2053 1407,2115 1685,2046 2259,2046 2277,1989 281,2022" rendition="Line" xml:id="facs_65_tr_2_tl_10"/>
+            <zone points="52,2115 64,2113 80,2125 129,2125 134,2118 157,2133 247,2136 242,2053 216,2056 201,2074 183,2074 155,2056 124,2092 82,2069 49,2071" rendition="Line" xml:id="facs_65_tr_2_tl_11"/>
+            <zone points="278,2195 590,2190 714,2246 2185,2208 2141,2105 281,2141" rendition="Line" xml:id="facs_65_tr_2_tl_12"/>
+         </zone>
+         <zone points="47,2219 2260,2219 2260,3459 47,3459" rendition="TextRegion" xml:id="facs_65_tr_1">
+            <zone points="281,2308 2133,2285 2133,2231 281,2259" rendition="Line" xml:id="facs_65_tr_1_tl_1"/>
+            <zone points="281,2435 2182,2409 2254,2342 281,2378" rendition="Line" xml:id="facs_65_tr_1_tl_2"/>
+            <zone points="273,2532 1288,2538 1430,2525 1430,2471 273,2489" rendition="Line" xml:id="facs_65_tr_1_tl_3"/>
+            <zone points="528,2651 2012,2646 2192,2630 2195,2563 528,2592" rendition="Line" xml:id="facs_65_tr_1_tl_4"/>
+            <zone points="273,2705 907,2731 2128,2684 2128,2638 273,2682" rendition="Line" xml:id="facs_65_tr_1_tl_5"/>
+            <zone points="281,2780 2161,2749 2161,2690 281,2736" rendition="Line" xml:id="facs_65_tr_1_tl_6"/>
+            <zone points="278,2831 325,2836 332,2844 368,2834 500,2836 500,2782 410,2782 397,2795 381,2785 371,2795 358,2782 278,2782" rendition="Line" xml:id="facs_65_tr_1_tl_7"/>
+            <zone points="528,2885 1976,2870 1997,2831 531,2844" rendition="Line" xml:id="facs_65_tr_1_tl_8"/>
+            <zone points="840,3432 894,3437 927,3462 971,3457 992,3475 1028,3452 1082,3452 1100,3434 1134,3434 1136,3334 842,3339" rendition="Line" xml:id="facs_65_tr_1_tl_9"/>
+            <zone points="536,3483 562,3486 580,3475 590,3486 611,3478 647,3486 662,3470 683,3470 696,3267 549,3272" rendition="Line" xml:id="facs_65_tr_1_tl_10"/>
+            <zone points="33,3486 144,3486 157,3475 180,3473 229,3486 229,3354 162,3362 33,3357" rendition="Line" xml:id="facs_65_tr_1_tl_11"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0539.jpg" n="part4_p065.jpg" xml:id="img_0065" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p065.jpg"/>
+            
+            <ab facs="#facs_65_tr_3">
+               <lb facs="#facs_65_tr_3_tl_1" n="N001"/>-534
+               <lb facs="#facs_65_tr_3_tl_2" n="N002"/>reunion with that from which it is separated by its self-relatedness and by the estrangement in our
+               <lb facs="#facs_65_tr_3_tl_3" n="N003"/>actual existence.
+               <lb facs="#facs_65_tr_3_tl_4" n="N004"/>But now I jump to the third level immediately from here, and come later back to the
+               <lb facs="#facs_65_tr_3_tl_5" n="N005"/>second, namely to the level of the discrete situation, of the uniqueness of the moment, or¬
+               <lb facs="#facs_65_tr_3_tl_6" n="N006"/>as I called it-of the kairos. Love is the ultimate principle of all ethical action. To understand this
+               <lb facs="#facs_65_tr_3_tl_7" n="N007"/>we must first of all remove a wrong concept of love, namely love as emotion. If love is defined
+               <lb facs="#facs_65_tr_3_tl_8" n="N008"/>as emotion, then all I have said is ainsense—and not only relative nonsense, but absolute non¬
+            </ab>
+            <ab facs="#facs_65_tr_2">
+               <lb facs="#facs_65_tr_2_tl_1" n="N001"/>(some daughter) If love is what it REALLY is, namely the drive towards the réunion of the separated,
+               <lb facs="#facs_65_tr_2_tl_2" n="N002"/>then everything I have said and WILL say has at least a possible truth. The relationship of love
+               <lb facs="#facs_65_tr_2_tl_3" n="N003"/>to emotion is—like the relationship of everything which is constitutive for human existence—
+               <lb facs="#facs_65_tr_2_tl_4" n="N004"/>every function and act of man's mind and body,Tamely the (motional aecompanies it,and accompanies
+               <lb facs="#facs_65_tr_2_tl_5" n="N005"/>it to the degree to which the whole of our being is involved. It is WITH it; it is CONNECTED with it;
+               <lb facs="#facs_65_tr_2_tl_6" n="N006"/>toutes
+               <lb facs="#facs_65_tr_2_tl_7" n="N007"/>but it is not IIDENT1CAL with it. Theuchonion is not the matter itself. TheÜRÉ the TOTAL
+               <lb facs="#facs_65_tr_2_tl_8" n="N008"/>personality is involved, the moreement awareness is given. And since there is nothing in which
+               <lb facs="#facs_65_tr_2_tl_9" n="N009"/>Elant
+               <lb facs="#facs_65_tr_2_tl_10" n="N010"/>so much of our total being is involved as in faith—as ultimate concern—and love as the drive towards
+               <lb facs="#facs_65_tr_2_tl_11" n="N011"/>u. liele
+               <lb facs="#facs_65_tr_2_tl_12" n="N012"/>reunion; in these two the ()emitional element is extremely strong. But this doesn't mean that the
+            </ab>
+            <ab facs="#facs_65_tr_1">
+               <lb facs="#facs_65_tr_1_tl_1" n="N001"/>emitional element is IN lTSELF love or faith. This is one of the comfortable things in which
+               <lb facs="#facs_65_tr_1_tl_2" n="N002"/>people who want to REMOVE the fundamental religious concepts are EASILY able to parish religion
+               <lb facs="#facs_65_tr_1_tl_3" n="N003"/>into a corner in which it has not very much consequence.
+               <lb facs="#facs_65_tr_1_tl_4" n="N004"/>So I must unfortunately close in the middle of this consideration. But keep in mind
+               <lb facs="#facs_65_tr_1_tl_5" n="N005"/>the three levels: the level of love, tte level of wisdom, and the level of the concrete situation.
+               <lb facs="#facs_65_tr_1_tl_6" n="N006"/>And understand love as I think it MUST be understood: as the drive toward the réunion of the
+               <lb facs="#facs_65_tr_1_tl_7" n="N007"/>separated.
+               <lb facs="#facs_65_tr_1_tl_8" n="N008"/>And then next time we will continue with respect to the two other levels.
+               <lb facs="#facs_65_tr_1_tl_9" n="N009"/>Mais elle est vrai
+               <lb facs="#facs_65_tr_1_tl_10" n="N010"/>Monsieur,
+               <lb facs="#facs_65_tr_1_tl_11" n="N011"/>Monsieur,
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p021</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p021</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_21">
+         <graphic url="TL-0305.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AMMDHLCQYNNDDZHGVMRRAYAC&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="283,296 2328,296 2328,1580 283,1580" rendition="TextRegion" xml:id="facs_21_tr_2">
+            <zone points="1159,373 1179,373 1187,366 1210,366 1217,358 1222,363 1235,358 1243,366 1253,366 1263,355 1276,355 1276,309 1238,309 1217,289 1192,309 1159,309" rendition="Line" xml:id="facs_21_tr_2_tl_1"/>
+            <zone points="269,509 1023,563 1146,506 2133,501 2133,435 269,476" rendition="Line" xml:id="facs_21_tr_2_tl_2"/>
+            <zone points="271,668 831,708 1501,665 1836,708 1806,601 271,616" rendition="Line" xml:id="facs_21_tr_2_tl_5"/>
+            <zone points="276,826 1481,816 1504,762 279,775" rendition="Line" xml:id="facs_21_tr_2_tl_6"/>
+            <zone points="448,967 2281,951 2284,890 450,910" rendition="Line" xml:id="facs_21_tr_2_tl_7" subtype="paragraph"/>
+            <zone points="276,1123 1839,1136 2294,1061 276,1069" rendition="Line" xml:id="facs_21_tr_2_tl_8"/>
+            <zone points="269,1266 1872,1269 2325,1253 2325,1199 269,1243" rendition="Line" xml:id="facs_21_tr_2_tl_9"/>
+            <zone points="450,1414 2228,1409 2230,1353 453,1371" rendition="Line" xml:id="facs_21_tr_2_tl_10" subtype="paragraph"/>
+            <zone points="271,1570 2207,1565 2294,1558 2294,1499 271,1524" rendition="Line" xml:id="facs_21_tr_2_tl_11"/>
+         </zone>
+         <zone points="29,1645 2385,1645 2385,3482 29,3482" rendition="TextRegion" xml:id="facs_21_tr_1">
+            <zone points="269,1731 2043,1719 2146,1708 2148,1652 269,1698" rendition="Line" xml:id="facs_21_tr_1_tl_1"/>
+            <zone points="269,1870 2115,1864 2115,1806 269,1847" rendition="Line" xml:id="facs_21_tr_1_tl_2"/>
+            <zone points="279,2033 2023,2013 2023,1954 279,1974" rendition="Line" xml:id="facs_21_tr_1_tl_3"/>
+            <zone points="269,2171 297,2184 650,2182 650,2128 320,2123 292,2148 269,2148" rendition="Line" xml:id="facs_21_tr_1_tl_6"/>
+            <zone points="448,2325 931,2325 1327,2409 1465,2315 2033,2378 2110,2338 2350,2432 2350,2304 2033,2225 1634,2281 448,2266" rendition="Line" xml:id="facs_21_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="271,2483 2033,2458 2205,2529 2205,2407 2066,2386 1573,2435 933,2425 862,2373 803,2425 271,2430" rendition="Line" xml:id="facs_21_tr_1_tl_8"/>
+            <zone points="269,2629 2089,2624 2212,2606 2212,2555 269,2583" rendition="Line" xml:id="facs_21_tr_1_tl_9"/>
+            <zone points="266,2783 2210,2772 2263,2701 266,2749" rendition="Line" xml:id="facs_21_tr_1_tl_10"/>
+            <zone points="269,2928 1427,2923 1496,2982 2164,2931 2164,2857 269,2900" rendition="Line" xml:id="facs_21_tr_1_tl_11"/>
+            <zone points="271,3138 414,3138 568,3084 1419,3107 1386,3023 537,3028 468,3059 271,3036" rendition="Line" xml:id="facs_21_tr_1_tl_12"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0305.jpg" n="part2_p021.jpg" xml:id="img_0021" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p021.jpg"/>
+            
+            <ab facs="#facs_21_tr_2">
+               <lb facs="#facs_21_tr_2_tl_1" n="N001"/>[301]
+               <lb facs="#facs_21_tr_2_tl_2" n="N002"/>reality is expressed is the STYLE of a work of art. I will come to this; style is of fundamental
+               <lb facs="#facs_21_tr_2_tl_5" n="N003"/>importance. The style of a work of art is an expression of the encounter of the artist with ultimate
+               <lb facs="#facs_21_tr_2_tl_6" n="N004"/>reality, even if he expresses ultimate reality in atheistic terms.
+               <lb facs="#facs_21_tr_2_tl_7" n="N005"/>Now in this sense we can say, in this third function---to express---we have reached, more than
+               <lb facs="#facs_21_tr_2_tl_8" n="N006"/>in the two others, the heart of the artistic function. Its greatness is its expressive power, and the basis
+               <lb facs="#facs_21_tr_2_tl_9" n="N007"/>of its expressive power is the encounter between the creative artist and the reality which he encounters.
+               <lb facs="#facs_21_tr_2_tl_10" n="N008"/>This is the first consideration which I want to make. Now I come on this basis to the way
+               <lb facs="#facs_21_tr_2_tl_11" n="N009"/>in which the expression is done. This is SYMBOL. I have already spoken last semester about religious
+            </ab>
+            <ab facs="#facs_21_tr_1">
+               <lb facs="#facs_21_tr_1_tl_1" n="N001"/>symbols. We have to come back to them if we relate them to artistic ones. But I didn't speak
+               <lb facs="#facs_21_tr_1_tl_2" n="N002"/>about artistic symbols and their relation to religious ones. That is the next thing we must do,
+               <lb facs="#facs_21_tr_1_tl_3" n="N003"/>especially if we agree that the expressive function of art is its basic function and its most
+               <lb facs="#facs_21_tr_1_tl_6" n="N004"/>characteristic and innermost function.
+               <lb facs="#facs_21_tr_1_tl_7" n="N005"/>Let me say a little about symbols generally. There are, first, two groups of symbols,
+               <lb facs="#facs_21_tr_1_tl_8" n="N006"/>the one which should be called signs, but since we cannot do this---the linguistic development has
+               <lb facs="#facs_21_tr_1_tl_9" n="N007"/>ruined the word symbol as [it has] most other words, and we must walk all the time through this
+               <lb facs="#facs_21_tr_1_tl_10" n="N008"/>slum of a ruined language which we must move in, in modern times---for very different reasons,
+               <lb facs="#facs_21_tr_1_tl_11" n="N009"/>which we will explain later. Since this is so, we must speak of reflective symbols, psychological
+               <lb facs="#facs_21_tr_1_tl_12" n="N010"/>symbols, and, most important, of representative symbols.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

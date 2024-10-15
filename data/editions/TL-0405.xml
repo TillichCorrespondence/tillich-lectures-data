@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part3_p013</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p013</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_13">
+         <graphic url="TL-0405.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WMLDMVHCBVBQNKPKSVMAXNMP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="286,90 2263,90 2263,1383 286,1383" rendition="TextRegion" xml:id="facs_13_tr_2">
+            <zone points="769,164 801,164 809,157 813,164 821,164 833,162 840,154 853,154 860,0 777,0" rendition="Line" xml:id="facs_13_tr_2_tl_1"/>
+            <zone points="1090,390 1122,394 1132,404 1215,402 1215,326 1171,326 1152,341 1134,341 1125,350 1090,350" rendition="Line" xml:id="facs_13_tr_2_tl_2"/>
+            <zone points="282,541 2247,551 2247,497 2004,468 282,507" rendition="Line" xml:id="facs_13_tr_2_tl_3"/>
+            <zone points="284,696 2212,693 2212,637 284,652" rendition="Line" xml:id="facs_13_tr_2_tl_4"/>
+            <zone points="292,843 1918,867 2151,845 2154,789 292,804" rendition="Line" xml:id="facs_13_tr_2_tl_5"/>
+            <zone points="292,997 2097,997 2097,941 292,941" rendition="Line" xml:id="facs_13_tr_2_tl_6"/>
+            <zone points="287,1156 2232,1149 2232,1088 287,1125" rendition="Line" xml:id="facs_13_tr_2_tl_7"/>
+            <zone points="272,1298 412,1318 642,1303 757,1318 772,1316 772,1252 304,1254 272,1274" rendition="Line" xml:id="facs_13_tr_2_tl_8"/>
+            <zone points="517,1374 2256,1367 2256,1306 517,1318" rendition="Line" xml:id="facs_13_tr_2_tl_9"/>
+         </zone>
+         <zone points="286,1457 2224,1457 2224,3267 286,3267" rendition="TextRegion" xml:id="facs_13_tr_1">
+            <zone points="282,1526 1877,1534 2217,1517 2217,1465 282,1499" rendition="Line" xml:id="facs_13_tr_1_tl_1"/>
+            <zone points="272,1673 2161,1676 2217,1605 272,1627" rendition="Line" xml:id="facs_13_tr_1_tl_2"/>
+            <zone points="279,1825 336,1840 561,1845 696,1830 696,1779 635,1779 615,1762 598,1779 394,1781 377,1798 353,1779 316,1776 279,1798" rendition="Line" xml:id="facs_13_tr_1_tl_3"/>
+            <zone points="517,1904 1085,1955 1159,1899 2210,1894 2210,1828 517,1840" rendition="Line" xml:id="facs_13_tr_1_tl_4"/>
+            <zone points="282,2060 2058,2053 2190,2046 2190,1989 282,2014" rendition="Line" xml:id="facs_13_tr_1_tl_5"/>
+            <zone points="282,2207 2134,2207 2154,2146 282,2161" rendition="Line" xml:id="facs_13_tr_1_tl_6"/>
+            <zone points="282,2357 1992,2364 2134,2350 2134,2296 282,2313" rendition="Line" xml:id="facs_13_tr_1_tl_7"/>
+            <zone points="279,2511 1485,2519 1801,2501 1803,2452 282,2462" rendition="Line" xml:id="facs_13_tr_1_tl_8"/>
+            <zone points="510,2658 2046,2656 2176,2644 2176,2585 510,2602" rendition="Line" xml:id="facs_13_tr_1_tl_9"/>
+            <zone points="282,2820 2087,2808 2117,2734 282,2759" rendition="Line" xml:id="facs_13_tr_1_tl_10"/>
+            <zone points="272,2957 2119,2957 2119,2893 272,2911" rendition="Line" xml:id="facs_13_tr_1_tl_11"/>
+            <zone points="272,3104 2173,3109 2173,3065 272,3080" rendition="Line" xml:id="facs_13_tr_1_tl_12"/>
+            <zone points="274,3261 1735,3273 2180,3212 277,3212" rendition="Line" xml:id="facs_13_tr_1_tl_13"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0405.jpg" n="part3_p013.jpg" xml:id="img_0013" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p013.jpg"/>
+            
+            <ab facs="#facs_13_tr_2">
+               <lb facs="#facs_13_tr_2_tl_1" n="N001"/>de
+               <lb facs="#facs_13_tr_2_tl_2" n="N002"/>400.
+               <lb facs="#facs_13_tr_2_tl_3" n="N003"/>thought. You remember I showed you some archaic gods and goddesses in which the divine power,
+               <lb facs="#facs_13_tr_2_tl_4" n="N004"/>in the mystical smile which looks not as an object in time and space but as as an "I" which looks at
+               <lb facs="#facs_13_tr_2_tl_5" n="N005"/>"you, "encounters you, at the end of the temple; you must GO to it, you cannot go around it.
+               <lb facs="#facs_13_tr_2_tl_6" n="N006"/>You must kneel down before these gods and goddesses, because they represent the presence
+               <lb facs="#facs_13_tr_2_tl_7" n="N007"/>of ultimate reality; and that was the reason for their religious power over the minds of the people,
+               <lb facs="#facs_13_tr_2_tl_8" n="N008"/>if they took itussously.
+               <lb facs="#facs_13_tr_2_tl_9" n="N009"/>Then came the classical period, which is analogous to what I said about Giotto and some
+            </ab>
+            <ab facs="#facs_13_tr_1">
+               <lb facs="#facs_13_tr_1_tl_1" n="N001"/>early Renaissance people, in which the substance was still present but was already reduced into an
+               <lb facs="#facs_13_tr_1_tl_2" n="N002"/>idealized human figure around which you can go. But still some of the divine Majesty was left, in
+               <lb facs="#facs_13_tr_1_tl_3" n="N003"/>the classical period.
+               <lb facs="#facs_13_tr_1_tl_4" n="N004"/>Then came the naturalistic period, in which wonderfully naturalistic movements were
+               <lb facs="#facs_13_tr_1_tl_5" n="N005"/>given to the human bodies, even to those of the gods. But they were in no way divine any more.
+               <lb facs="#facs_13_tr_1_tl_6" n="N006"/>Aphrodite was a beautiful woman, and Apollo a beautiful lad—that's all. And you could enjoy
+               <lb facs="#facs_13_tr_1_tl_7" n="N007"/>their movements, their temsions, their beauty, you could study Gymnastics from them /little
+               <lb facs="#facs_13_tr_1_tl_8" n="N008"/> daughter), but you couldn’t do that from the goddesses and gods of the past.
+               <lb facs="#facs_13_tr_1_tl_9" n="N009"/>So we have a similar thing in the Greek sevelopment, and it is very interesting to see
+               <lb facs="#facs_13_tr_1_tl_10" n="N010"/>how in the religious period which Marts about 100 years before Christ and goes on for about
+               <lb facs="#facs_13_tr_1_tl_11" n="N011"/>500 years, not only in Christianity, in the paintings of the cave, but also in the pagan world,
+               <lb facs="#facs_13_tr_1_tl_12" n="N012"/>on theNaziures of the sarcophagi, [where] you find a return to the non-naturalistic archaism,
+               <lb facs="#facs_13_tr_1_tl_13" n="N013"/>archaic style, which now, since it is a repetition, could be called archaistic in contrast to archaic¬
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

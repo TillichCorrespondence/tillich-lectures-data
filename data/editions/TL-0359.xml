@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p075</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p075</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_75">
+         <graphic url="TL-0359.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NFEXLIZNNKFYJNJLNNDMFTLD&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="244,302 2206,302 2206,1281 244,1281" rendition="TextRegion" xml:id="facs_75_tr_1">
+            <zone points="1047,356 1060,356 1078,374 1127,372 1133,366 1146,374 1174,372 1174,307 1112,304 1102,292 1078,310 1047,310" rendition="Line" xml:id="facs_75_tr_1_tl_1"/>
+            <zone points="240,529 2098,519 2098,467 240,480" rendition="Line" xml:id="facs_75_tr_1_tl_2"/>
+            <zone points="232,668 2203,676 2203,609 232,640" rendition="Line" xml:id="facs_75_tr_1_tl_3"/>
+            <zone points="235,826 2103,823 2183,820 2183,764 235,792" rendition="Line" xml:id="facs_75_tr_1_tl_4"/>
+            <zone points="230,970 1259,996 2038,931 230,942" rendition="Line" xml:id="facs_75_tr_1_tl_5"/>
+            <zone points="232,1122 2170,1117 2170,1058 232,1094" rendition="Line" xml:id="facs_75_tr_1_tl_6"/>
+            <zone points="232,1280 351,1300 415,1272 1197,1275 1197,1233 1158,1218 232,1223" rendition="Line" xml:id="facs_75_tr_1_tl_8"/>
+         </zone>
+         <zone points="235,1374 2307,1374 2307,2502 235,2502" rendition="TextRegion" xml:id="facs_75_tr_2">
+            <zone points="224,1437 2056,1445 2214,1434 2214,1373 227,1411" rendition="Line" xml:id="facs_75_tr_2_tl_1" subtype="paragraph"/>
+            <zone points="227,1592 2214,1589 2214,1530 227,1563" rendition="Line" xml:id="facs_75_tr_2_tl_2"/>
+            <zone points="232,1749 2255,1749 2255,1680 232,1692" rendition="Line" xml:id="facs_75_tr_2_tl_3"/>
+            <zone points="232,1899 2141,1901 2276,1896 2278,1832 232,1840" rendition="Line" xml:id="facs_75_tr_2_tl_4"/>
+            <zone points="230,2056 2286,2049 2304,1981 230,2000" rendition="Line" xml:id="facs_75_tr_2_tl_5"/>
+            <zone points="230,2193 1969,2198 2123,2190 2123,2136 230,2149" rendition="Line" xml:id="facs_75_tr_2_tl_6"/>
+            <zone points="224,2343 2036,2350 2131,2340 2131,2283 224,2314" rendition="Line" xml:id="facs_75_tr_2_tl_7"/>
+            <zone points="222,2490 330,2503 346,2518 405,2497 660,2510 660,2443 423,2443 400,2466 377,2443 222,2441" rendition="Line" xml:id="facs_75_tr_2_tl_8"/>
+         </zone>
+         <zone points="38,2580 2239,2580 2239,3470 38,3470" rendition="TextRegion" xml:id="facs_75_tr_3">
+            <zone points="214,2644 2232,2647 2234,2559 214,2611" rendition="Line" xml:id="facs_75_tr_3_tl_1" subtype="paragraph"/>
+            <zone points="222,2794 2162,2815 2201,2732 222,2748" rendition="Line" xml:id="facs_75_tr_3_tl_2"/>
+            <zone points="335,2964 2141,2949 2141,2887 335,2910" rendition="Line" xml:id="facs_75_tr_3_tl_3"/>
+            <zone points="212,3099 1404,3111 1540,3101 1540,3039 212,3073" rendition="Line" xml:id="facs_75_tr_3_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0359.jpg" n="part2_p075.jpg" xml:id="img_0075" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p075.jpg"/>
+            
+            <ab facs="#facs_75_tr_1">
+               <lb facs="#facs_75_tr_1_tl_1" n="N001"/>[354]
+               <lb facs="#facs_75_tr_1_tl_2" n="N002"/>through it. Here you can also see what I said before: this Baby is already the same world-ruler
+               <lb facs="#facs_75_tr_1_tl_3" n="N003"/>as in the picture before is, the Christ on His throne. This is the interpretation of the Eastern church,
+               <lb facs="#facs_75_tr_1_tl_4" n="N004"/>of the divine Presence in the human, the infinite in the finite, so that the finite is almost swallowed.
+               <lb facs="#facs_75_tr_1_tl_5" n="N005"/>For those who know history of Christian though, [you] will remember that this was the
+               <lb facs="#facs_75_tr_1_tl_6" n="N006"/>monophysitic [sic.] trend, the trend to eliminate the human nature for the sake of the divine nature.
+               <lb facs="#facs_75_tr_1_tl_8" n="N007"/>But just this transparency made these pictures so religiously great and powerful.
+            </ab>
+            <ab facs="#facs_75_tr_2">
+               <lb facs="#facs_75_tr_2_tl_1" n="N001"/>23) BYZANTINE, 15th century--<hi style="font-style: italic;">RESURRECTION</hi>--I don't need to say anything. Here you have
+               <lb facs="#facs_75_tr_2_tl_2" n="N002"/>the same situation--nothing naturalistic in time and space. I will say one more--the two-dimensional
+               <lb facs="#facs_75_tr_2_tl_3" n="N003"/>character of the religious picture is a very important element in it, because the 3-dimensional character,
+               <lb facs="#facs_75_tr_2_tl_4" n="N004"/>which was really invented in the Renaissance, and of course before that sometime in the ancient period,
+               <lb facs="#facs_75_tr_2_tl_5" n="N005"/>puts the divine into time and space. THIS takes it into a dimension which is in itself beyond the actuality
+               <lb facs="#facs_75_tr_2_tl_6" n="N006"/>in time and space; what I called ''going-around,'' even in an illusionistic naturalistic way, doesn’t
+               <lb facs="#facs_75_tr_2_tl_7" n="N007"/>exist here--there is no illusion of a depth of space. It is simply totality of symbols, which appear
+               <lb facs="#facs_75_tr_2_tl_8" n="N008"/>here [in this picture].
+            </ab>
+            <ab facs="#facs_75_tr_3">
+               <lb facs="#facs_75_tr_3_tl_1" n="N001"/>24) ITALIAN--We are now [in] the Romanesque era, where we have such, and many less beautiful,
+               <lb facs="#facs_75_tr_3_tl_2" n="N002"/>Crucifixions. I remind you of the cover of the <hi style="font-style: italic;">Life [Magazine]</hi> issue for Christmas, where the Christ
+               <lb facs="#facs_75_tr_3_tl_3" n="N003"/>pictures were given. There we have a similar Romanesque picture, but more distorted, even,
+               <lb facs="#facs_75_tr_3_tl_4" n="N004"/>than this, and less naturalistic. But this is the Romanesque period.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p231</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p231</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_231">
+         <graphic url="TL-0231.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QLHMSLNGFFUKRAJYGHUBMLYX&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="89,261 89,3493 2257,3493 2257,261" rendition="TextRegion" xml:id="facs_231_tr_2">
+            <zone points="1058,333 1074,333 1081,340 1152,340 1157,335 1172,335 1172,265 1142,262 1111,292 1099,285 1091,290 1058,290" rendition="Line" xml:id="facs_231_tr_2_tl_1"/>
+            <zone points="272,499 2215,514 2215,428 1517,438 1474,391 1421,441 272,461" rendition="Line" xml:id="facs_231_tr_2_tl_2"/>
+            <zone points="277,650 1600,675 1600,587 1527,572 277,607" rendition="Line" xml:id="facs_231_tr_2_tl_3"/>
+            <zone points="451,796 2137,784 2114,716 1041,764 451,741" rendition="Line" xml:id="facs_231_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="285,953 786,980 867,942 2139,932 2142,869 285,925" rendition="Line" xml:id="facs_231_tr_2_tl_5"/>
+            <zone points="76,1144 2097,1086 2097,1016 78,1063" rendition="Line" xml:id="facs_231_tr_2_tl_6"/>
+            <zone points="282,1263 1051,1255 1086,1252 1089,1220 660,1192 285,1225" rendition="Line" xml:id="facs_231_tr_2_tl_7"/>
+            <zone points="449,1328 2172,1310 2175,1240 449,1270" rendition="Line" xml:id="facs_231_tr_2_tl_8" subtype="paragraph"/>
+            <zone points="282,1484 2233,1459 2233,1399 282,1449" rendition="Line" xml:id="facs_231_tr_2_tl_9"/>
+            <zone points="272,1630 1933,1610 1933,1552 272,1603" rendition="Line" xml:id="facs_231_tr_2_tl_10"/>
+            <zone points="449,1779 1827,1797 2223,1756 2180,1696 449,1721" rendition="Line" xml:id="facs_231_tr_2_tl_11" subtype="paragraph"/>
+            <zone points="282,1963 438,1986 640,1940 696,1976 1280,1986 2175,1913 2119,1847 282,1880" rendition="Line" xml:id="facs_231_tr_2_tl_12"/>
+            <zone points="272,2089 1257,2069 1310,2117 1779,2117 1842,2066 2182,2069 2182,2008 2066,2006 275,2059" rendition="Line" xml:id="facs_231_tr_2_tl_13"/>
+            <zone points="282,2248 638,2278 673,2245 713,2276 2051,2245 2044,2162 285,2195" rendition="Line" xml:id="facs_231_tr_2_tl_14"/>
+            <zone points="272,2404 693,2434 1905,2369 2041,2434 2248,2429 2250,2303 272,2361" rendition="Line" xml:id="facs_231_tr_2_tl_15"/>
+            <zone points="277,2565 340,2598 575,2596 625,2545 673,2593 728,2596 761,2563 937,2563 983,2596 1086,2580 1086,2482 277,2492" rendition="Line" xml:id="facs_231_tr_2_tl_17"/>
+            <zone points="446,2681 1966,2679 2122,2669 2124,2603 446,2654" rendition="Line" xml:id="facs_231_tr_2_tl_18" subtype="paragraph"/>
+            <zone points="275,2840 2119,2825 2119,2754 275,2812" rendition="Line" xml:id="facs_231_tr_2_tl_19"/>
+            <zone points="282,3014 2238,2966 2238,2901 675,2961 285,2938" rendition="Line" xml:id="facs_231_tr_2_tl_20"/>
+            <zone points="277,3142 2205,3117 2205,3062 2157,3057 277,3115" rendition="Line" xml:id="facs_231_tr_2_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0231.jpg" n="part1_p231.jpg" xml:id="img_0231" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p231.jpg"/>
+            
+            <ab facs="#facs_231_tr_2">
+               <lb facs="#facs_231_tr_2_tl_1" n="N001"/>[227]
+               <lb facs="#facs_231_tr_2_tl_2" n="N002"/>but which shows at the same time the interwovenness of all life processes, of all creative processes
+               <lb facs="#facs_231_tr_2_tl_3" n="N003"/>in man, and the impossibility of separating the one from the other.
+               <lb facs="#facs_231_tr_2_tl_4" n="N004"/>Let me make this clear by an application to something which happens between some
+               <lb facs="#facs_231_tr_2_tl_5" n="N005"/>of you very often, and often within each of you, namely you as philosopher have a discussion
+               <lb facs="#facs_231_tr_2_tl_6" n="N006"/>with you as theologian, or you as philosopher discuss with somebody else who is theologian
+               <lb facs="#facs_231_tr_2_tl_7" n="N007"/>and speaks as theologian, and vice versa.
+               <lb facs="#facs_231_tr_2_tl_8" n="N008"/>Now what happens in such discussions? Every theologian at a university, if he doesn't
+               <lb facs="#facs_231_tr_2_tl_9" n="N009"/>close his eyes but has contact with the university as a whole, must be drawn into these discussions.
+               <lb facs="#facs_231_tr_2_tl_10" n="N010"/>And if he tries to escape them, he shows that he is not worth to be at a university.
+               <lb facs="#facs_231_tr_2_tl_11" n="N011"/>But now what is going on in these discussions? There are two elements going on in them.
+               <lb facs="#facs_231_tr_2_tl_12" n="N012"/>One is argument---and this is the philosophical element in these discussions, and whoever enters
+               <lb facs="#facs_231_tr_2_tl_13" n="N013"/>such a discussion uses, and must use, arguments. But there is another element also in it, namely
+               <lb facs="#facs_231_tr_2_tl_14" n="N014"/>the desire to convert, the desire to communicate one's ultimate concern to the other one.
+               <lb facs="#facs_231_tr_2_tl_15" n="N015"/>And these two concerns can be together in one and the same person; the dialogue can be a dialogue
+               <lb facs="#facs_231_tr_2_tl_17" n="N016"/>within ourselves. But it is perhaps more ordinarily a dialogue between two persons.
+               <lb facs="#facs_231_tr_2_tl_18" n="N017"/>So we have these two elements. What l try to show, in the lecture especially, about
+               <lb facs="#facs_231_tr_2_tl_19" n="N018"/>the immanence of <ultimate_concern>ultimate concern</ultimate_concern> in philosophical attitudes and in philosophers, is based
+               <lb facs="#facs_231_tr_2_tl_20" n="N019"/>just on this insight. The <rs type="keyword" ref="#Naturalism">naturalist </rs>tries to convince the theologian by arguments---whereby l mean
+               <lb facs="#facs_231_tr_2_tl_21" n="N020"/>not an ecstatic naturalist (which I would confess myself to be), but the naturalist who denies the
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

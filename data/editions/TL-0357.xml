@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p073</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p073</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_73">
+         <graphic url="TL-0357.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VRFIFKBNXDLCRWTZXELEJYNX&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="23,72 2313,72 2313,1741 23,1741" rendition="TextRegion" xml:id="facs_73_tr_1">
+            <zone points="1104,367 1125,367 1132,375 1224,372 1224,306 1181,306 1163,319 1153,316 1142,324 1104,324" rendition="Line" xml:id="facs_73_tr_1_tl_2"/>
+            <zone points="260,530 2129,528 2310,518 2310,472 260,490" rendition="Line" xml:id="facs_73_tr_1_tl_3"/>
+            <zone points="258,678 2145,676 2145,612 258,648" rendition="Line" xml:id="facs_73_tr_1_tl_4"/>
+            <zone points="258,829 2201,836 2201,770 258,801" rendition="Line" xml:id="facs_73_tr_1_tl_5"/>
+            <zone points="247,979 1963,982 2190,974 2190,921 250,954" rendition="Line" xml:id="facs_73_tr_1_tl_6"/>
+            <zone points="255,1142 2203,1132 2206,1068 258,1089" rendition="Line" xml:id="facs_73_tr_1_tl_7"/>
+            <zone points="258,1288 1963,1285 2111,1278 2111,1219 258,1255" rendition="Line" xml:id="facs_73_tr_1_tl_8"/>
+            <zone points="724,1443 2137,1423 2083,1362 724,1377" rendition="Line" xml:id="facs_73_tr_1_tl_10"/>
+            <zone points="255,1581 653,1589 653,1553 620,1533 255,1535" rendition="Line" xml:id="facs_73_tr_1_tl_12"/>
+            <zone points="255,1729 2053,1734 2190,1721 2190,1645 255,1696" rendition="Line" xml:id="facs_73_tr_1_tl_13" subtype="paragraph"/>
+         </zone>
+         <zone points="265,1812 2212,1812 2212,2487 265,2487" rendition="TextRegion" xml:id="facs_73_tr_2">
+            <zone points="250,1887 2206,1884 2206,1818 250,1836" rendition="Line" xml:id="facs_73_tr_2_tl_1"/>
+            <zone points="250,2037 2066,2030 2066,1976 250,1992" rendition="Line" xml:id="facs_73_tr_2_tl_2"/>
+            <zone points="558,2180 719,2203 870,2183 1283,2188 1283,2124 852,2127 798,2155 768,2129 558,2124" rendition="Line" xml:id="facs_73_tr_2_tl_5"/>
+            <zone points="357,2267 969,2270 972,2201 357,2218" rendition="Line" xml:id="facs_73_tr_2_tl_7"/>
+            <zone points="250,2338 1260,2349 1260,2292 1193,2282 250,2298" rendition="Line" xml:id="facs_73_tr_2_tl_8"/>
+         </zone>
+         <zone points="101,2487 2140,2487 2140,3473 101,3473" rendition="TextRegion" xml:id="facs_73_tr_3">
+            <zone points="270,2497 374,2500 375,2470 271,2467" rendition="Line" xml:id="facs_73_l"/>
+            <zone points="426,2565 2122,2558 2122,2507 426,2527" rendition="Line" xml:id="facs_73_tr_3_tl_1" subtype="paragraph"/>
+            <zone points="245,2716 1767,2718 2122,2700 2122,2639 245,2680" rendition="Line" xml:id="facs_73_tr_3_tl_2"/>
+            <zone points="242,2861 2055,2861 2109,2797 242,2838" rendition="Line" xml:id="facs_73_tr_3_tl_3"/>
+            <zone points="245,3009 1915,3014 2091,3006 2094,2945 245,2984" rendition="Line" xml:id="facs_73_tr_3_tl_4"/>
+            <zone points="237,3162 2137,3152 2040,3093 240,3114" rendition="Line" xml:id="facs_73_tr_3_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0357.jpg" n="part2_p073.jpg" xml:id="img_0073" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p073.jpg"/>
+            
+            <ab facs="#facs_73_tr_1">
+               <lb facs="#facs_73_tr_1_tl_2" n="N001"/>[352]
+               <lb facs="#facs_73_tr_1_tl_3" n="N002"/>certainly the greatest painter of the 19th century. He is greater than his Impressionistic period, in which
+               <lb facs="#facs_73_tr_1_tl_4" n="N003"/>he was the leader. But in this picture it is obvious that he is not able to manage it. It is a Christ
+               <lb facs="#facs_73_tr_1_tl_5" n="N004"/>of which you would say there is equally nothing of the divine left. Now this means--and now I say
+               <lb facs="#facs_73_tr_1_tl_6" n="N005"/>something which may horrify you a little bit, I hope--namely that from 1650 to 1900, there was a
+               <lb facs="#facs_73_tr_1_tl_7" n="N006"/>great gap in religious art, and that in these 250 years, even by one of the greatest artists like Manet,
+               <lb facs="#facs_73_tr_1_tl_8" n="N007"/>nothing of religious power could have been produced. This is the reason why I bring you this
+               <lb facs="#facs_73_tr_1_tl_10" n="N008"/>picture. If you see, instead of that, a racetrack, or his other pictures, then we are in a quite
+               <lb facs="#facs_73_tr_1_tl_12" n="N009"/>different situation.
+               <lb facs="#facs_73_tr_1_tl_13" n="N010"/>QN: When you say ''religious power,'' do you mean just from the standpoint of religious symbol?
+            </ab>
+            <ab facs="#facs_73_tr_2">
+               <lb facs="#facs_73_tr_2_tl_1" n="N001"/>PT: No--he accepts the symbol of the Christ. But I mean the style--it is not so, that there is really
+               <lb facs="#facs_73_tr_2_tl_2" n="N002"/>religious power any more. It is a sad, almost sentimental look, in the eyes of the Christ.
+               <lb facs="#facs_73_tr_2_tl_5" n="N003"/>QN: Would you say that in those pictures that did not use religious subjects,
+               <lb facs="#facs_73_tr_2_tl_7" n="N004"/>there was any religious power?
+               <lb facs="#facs_73_tr_2_tl_8" n="N005"/>PT: Yes, very much so. Yes. Thank you for asking.
+            </ab>
+            <ab facs="#facs_73_tr_3">
+               <lb facs="#facs_73_l" n="N001"/>===
+               <lb facs="#facs_73_tr_3_tl_1" n="N002"/>IV--I come to the fourth period, which in some ways is most important. Most of the
+               <lb facs="#facs_73_tr_3_tl_2" n="N003"/>history of art is expressionistic and therefore able to produce sculptures and pictures which are
+               <lb facs="#facs_73_tr_3_tl_3" n="N004"/>expressive for the divine and can be used for religious symbols. We are now in the fourth level
+               <lb facs="#facs_73_tr_3_tl_4" n="N005"/>which combines expressionistic style with religious subject matter, and that is the style which
+               <lb facs="#facs_73_tr_3_tl_5" n="N006"/>is able [to be used] for the cult. This is an archaic Greek god, <hi style="font-style: italic;">APOLLO</hi>. Here you see how he
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

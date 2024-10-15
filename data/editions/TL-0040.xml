@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p040</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p040</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_40">
+         <graphic url="TL-0040.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XPFSGACQBYHGKFZGJWPGCUKV&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="221,99 2303,99 2303,970 221,970" rendition="TextRegion" xml:id="facs_40_r">
+            <zone points="1197,291 1346,289 1346,259 1196,261" rendition="Line" xml:id="facs_40_l"/>
+            <zone points="277,465 2140,463 2140,432 277,435" rendition="Line" xml:id="facs_40_l_480"/>
+            <zone points="280,545 2113,542 2113,512 280,515" rendition="Line" xml:id="facs_40_l_494"/>
+            <zone points="283,630 2103,628 2103,598 282,600" rendition="Line" xml:id="facs_40_l_508"/>
+            <zone points="291,721 882,721 882,691 291,691" rendition="Line" xml:id="facs_40_l_522"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0040.jpg" n="part1_p040.jpg" xml:id="img_0040" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p040.jpg"/>
+            
+            <ab facs="#facs_40_r">
+               <lb facs="#facs_40_l" n="N001"/>[37]
+               <lb facs="#facs_40_l_480" n="N002"/><rs type="keyword" ref="#Language">only an emotional meaning, they grasp levels of reality which can never be grasped by
+               <lb break="no" facs="#facs_40_l_494" n="N003"/>mathematical or quasi-mathematical signs. This means that we should not be afraid,
+               <lb break="no" facs="#facs_40_l_508" n="N004"/>in this respect, if we affirm the truth-value of the genuinely created languages in the
+               <lb break="no" facs="#facs_40_l_522" n="N005"/>whole history of mankind.</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

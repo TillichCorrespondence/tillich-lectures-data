@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p091</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p091</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_91">
+         <graphic url="TL-0091.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SNXDGMFKTNQYMRJPIGOGXBKB&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="274,259 274,2772 2289,2772 2289,259" rendition="TextRegion" xml:id="facs_91_tr_2">
+            <zone points="1078,302 1091,302 1108,317 1180,315 1177,245 1155,250 1145,240 1138,240 1110,268 1076,270" rendition="Line" xml:id="facs_91_tr_2_tl_1"/>
+            <zone points="587,481 2283,486 2283,429 587,431" rendition="Line" xml:id="facs_91_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="288,570 739,560 808,610 1286,555 2226,575 2228,516 1958,501 1847,533 1542,498 1180,535 290,513" rendition="Line" xml:id="facs_91_tr_2_tl_3"/>
+            <zone points="288,659 382,692 1215,677 1286,640 2280,667 2253,587 288,605" rendition="Line" xml:id="facs_91_tr_2_tl_4"/>
+            <zone points="283,736 369,771 642,731 2216,744 2181,674 283,694" rendition="Line" xml:id="facs_91_tr_2_tl_5"/>
+            <zone points="290,835 2271,823 2268,771 2090,756 2035,788 290,786" rendition="Line" xml:id="facs_91_tr_2_tl_6"/>
+            <zone points="587,905 987,897 1106,954 2204,900 2169,843 587,850" rendition="Line" xml:id="facs_91_tr_2_tl_7" subtype="paragraph"/>
+            <zone points="285,994 2095,996 2095,939 2000,925 285,942" rendition="Line" xml:id="facs_91_tr_2_tl_8"/>
+            <zone points="273,1068 2154,1073 2154,1021 2090,1011 273,1044" rendition="Line" xml:id="facs_91_tr_2_tl_9"/>
+            <zone points="275,1158 2122,1165 2122,1108 1968,1098 1455,1128 1078,1071 275,1108" rendition="Line" xml:id="facs_91_tr_2_tl_10"/>
+            <zone points="273,1234 2085,1237 2085,1190 1988,1180 273,1215" rendition="Line" xml:id="facs_91_tr_2_tl_11"/>
+            <zone points="273,1324 2137,1326 2137,1274 1981,1259 273,1294" rendition="Line" xml:id="facs_91_tr_2_tl_12"/>
+            <zone points="275,1410 2152,1405 2152,1356 1933,1343 275,1363" rendition="Line" xml:id="facs_91_tr_2_tl_13"/>
+            <zone points="273,1492 736,1490 788,1524 1004,1482 2166,1492 2166,1435 273,1465" rendition="Line" xml:id="facs_91_tr_2_tl_14"/>
+            <zone points="275,1576 2134,1572 2134,1529 2052,1517 275,1539" rendition="Line" xml:id="facs_91_tr_2_tl_15"/>
+            <zone points="273,1666 2112,1661 2112,1604 273,1616" rendition="Line" xml:id="facs_91_tr_2_tl_16"/>
+            <zone points="273,1748 2154,1748 2114,1683 1990,1715 1874,1683 273,1700" rendition="Line" xml:id="facs_91_tr_2_tl_17"/>
+            <zone points="270,1834 2154,1832 2147,1772 1995,1765 270,1785" rendition="Line" xml:id="facs_91_tr_2_tl_18"/>
+            <zone points="273,1916 2080,1916 2055,1854 273,1874" rendition="Line" xml:id="facs_91_tr_2_tl_19"/>
+            <zone points="265,2000 2075,1998 2075,1953 1951,1936 265,1966" rendition="Line" xml:id="facs_91_tr_2_tl_20"/>
+            <zone points="283,2092 2152,2080 2152,2018 2025,2050 283,2035" rendition="Line" xml:id="facs_91_tr_2_tl_21"/>
+            <zone points="265,2169 2122,2164 2122,2104 265,2124" rendition="Line" xml:id="facs_91_tr_2_tl_22"/>
+            <zone points="270,2261 2132,2253 2132,2189 1718,2221 270,2196" rendition="Line" xml:id="facs_91_tr_2_tl_23"/>
+            <zone points="265,2335 2176,2330 2176,2271 265,2295" rendition="Line" xml:id="facs_91_tr_2_tl_24"/>
+            <zone points="260,2414 1113,2422 1113,2380 260,2380" rendition="Line" xml:id="facs_91_tr_2_tl_25"/>
+            <zone points="568,2499 1286,2496 1681,2548 1822,2501 2114,2508 2114,2439 568,2447" rendition="Line" xml:id="facs_91_tr_2_tl_26" subtype="paragraph"/>
+            <zone points="265,2595 2117,2593 2117,2533 2023,2526 265,2546" rendition="Line" xml:id="facs_91_tr_2_tl_27"/>
+            <zone points="263,2672 2095,2670 2095,2623 1891,2610 263,2630" rendition="Line" xml:id="facs_91_tr_2_tl_28"/>
+            <zone points="265,2766 312,2761 327,2766 456,2764 456,2722 394,2722 387,2714 379,2719 265,2719" rendition="Line" xml:id="facs_91_tr_2_tl_29"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0091.jpg" n="part1_p091.jpg" xml:id="img_0091" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p091.jpg"/>
+            
+            <ab facs="#facs_91_tr_2">
+               <lb facs="#facs_91_tr_2_tl_1" n="N001"/>[88]
+               <lb facs="#facs_91_tr_2_tl_2" n="N002"/>Or the relationship, in a city, of socially representative buildings and individual
+               <lb facs="#facs_91_tr_2_tl_3" n="N003"/>housing; the relation of city and country, etc. Now in all these things, dwelling becomes
+               <lb facs="#facs_91_tr_2_tl_4" n="N004"/>symbolic for expressions of ultimate concerns. And I didn't speak, up to now, of SACRED
+               <lb facs="#facs_91_tr_2_tl_5" n="N005"/>buildings, where this is the intention, but even in so-called secular buildings it is hiddenly
+               <lb facs="#facs_91_tr_2_tl_6" n="N006"/>present behind the style of these houses. The same of course is true of dressing, of clothes.
+               <lb facs="#facs_91_tr_2_tl_7" n="N007"/><rs type="keyword" ref="#Style">This brings me to the problem of the style--now, not in art as art, but in
+               <lb break="no" facs="#facs_91_tr_2_tl_8" n="N008"/>technical creations which are built for purposes. <rs type="keyword" ref="#Honesty">Here I want to say only one thing:</rs>
+               <lb break="no" facs="#facs_91_tr_2_tl_9" n="N009"/><rs type="keyword" ref="#Honesty">the beauty of the perfect machine is its honesty. The honesty of the machine consists</rs>
+               <lb break="no" facs="#facs_91_tr_2_tl_10" n="N010"/><rs type="keyword" ref="#Honesty">in the fact that it EXPRESSES what it is created for, and nothing else. The honesty</rs>
+               <lb break="no" facs="#facs_91_tr_2_tl_11" n="N011"/><rs type="keyword" ref="#Honesty">of modern art, of modern buildings, is that it honestly expresses the relationship to</rs>
+               <lb break="no" facs="#facs_91_tr_2_tl_12" n="N012"/><rs type="keyword" ref="#Honesty">space, to others, to oneself, to light, etc., and doesn’t do anything, and doesn’t go to</rs>
+               <lb break="no" facs="#facs_91_tr_2_tl_13" n="N013"/><rs type="keyword" ref="#Honesty">textbooks of house-building in the Renaissance, or the Baroque, and puts a little curve</rs>
+               <lb break="no" facs="#facs_91_tr_2_tl_14" n="N014"/><rs type="keyword" ref="#Honesty">or tower, or <hi style="font-style: italic;">toretto</hi>, on the roof of a house, which has nothing whatsoever to do with</rs>
+               <lb break="no" facs="#facs_91_tr_2_tl_15" n="N015"/><rs type="keyword" ref="#Honesty">this reality out of which originally the Gothic and the Baroque and other things have</rs>
+               <lb break="no" facs="#facs_91_tr_2_tl_16" n="N016"/><rs type="keyword" ref="#Honesty">been created. This is the demand of architectural honesty, which is the fundamental</rs>
+               <lb break="no" facs="#facs_91_tr_2_tl_17" n="N017"/><rs type="keyword" ref="#Honesty">demand, and out of which the whole realm of building, which is technical act, gets its</rs>
+               <lb break="no" facs="#facs_91_tr_2_tl_18" n="N018"/><rs type="keyword" ref="#Honesty">ultimate dignity</rs></rs>. <rs type="keyword" ref="#Dwelling">So we have to find a way between two extremes (''extremes'' is not
+               <lb break="no" facs="#facs_91_tr_2_tl_19" n="N019"/>a good word)--two pitfalls--the one is a dwelling machine, where ''dwelling'' is only
+               <lb break="no" facs="#facs_91_tr_2_tl_20" n="N020"/>understood as needing light and food and warmth and protection against wind, etc.
+               <lb break="no" facs="#facs_91_tr_2_tl_21" n="N021"/>This is not dwelling, Dwelling means: having materials created by nature, within which
+               <lb break="no" facs="#facs_91_tr_2_tl_22" n="N022"/>one wants to live. Wood, perhaps, is perhaps not always the best from THIS kind of
+               <lb break="no" facs="#facs_91_tr_2_tl_23" n="N023"/>technical needs, but it is best from the point of view of our skin, and the feeling of
+               <lb break="no" facs="#facs_91_tr_2_tl_24" n="N024"/>our skin towards wood is more intimate because it is an organic substance than towards
+               <lb break="no" facs="#facs_91_tr_2_tl_25" n="N025"/>iron or stone. This is the one extreme.</rs>
+               <lb facs="#facs_91_tr_2_tl_26" n="N026"/>The other is the problem of the so-called ''beautifying.'' Don’t beautify
+               <lb facs="#facs_91_tr_2_tl_27" n="N027"/>anything in the realm of techniques, but express your will to live in this world, on a
+               <lb facs="#facs_91_tr_2_tl_28" n="N028"/>special place, in a special form, in special social surroundings with a special ultimate
+               <lb facs="#facs_91_tr_2_tl_29" n="N029"/>concern.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

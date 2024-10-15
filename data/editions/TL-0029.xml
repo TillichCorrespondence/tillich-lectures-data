@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p029</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p029</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_29">
+         <graphic url="TL-0029.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WPCXKQFHCOQILSJIKTRRFROB&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="60,221 56,3426 1336,3420 1340,200" rendition="TextRegion" xml:id="facs_29_tr_1">
+            <zone points="1187,281 1195,281 1207,292 1264,292 1271,285 1279,285 1279,232 1259,232 1242,247 1226,237 1221,240 1218,237 1199,256 1187,257" rendition="Line" xml:id="facs_29_tr_1_tl_1"/>
+            <zone points="228,408 264,420 461,420 475,408 516,420 545,401 583,412 583,381 542,377 527,362 257,367 228,388" rendition="Line" xml:id="facs_29_tr_1_tl_2" subtype="header"/>
+            <zone points="238,556 1545,549 1509,484 1475,516 238,484" rendition="Line" xml:id="facs_29_tr_1_tl_3"/>
+            <zone points="480,672 775,676 791,660 806,676 1022,676 1022,624 480,624" rendition="Line" xml:id="facs_29_tr_1_tl_4" subtype="heading"/>
+            <zone points="226,737 1602,748 1573,695 226,710" rendition="Line" xml:id="facs_29_tr_1_tl_5"/>
+            <zone points="228,811 1163,820 1163,770 228,779" rendition="Line" xml:id="facs_29_tr_1_tl_6"/>
+            <zone points="232,878 1233,878 1216,823 232,833" rendition="Line" xml:id="facs_29_tr_1_tl_8"/>
+            <zone points="482,1002 504,1003 511,996 518,1003 635,1003 635,955 551,950 544,945 532,950 482,950" rendition="Line" xml:id="facs_29_tr_1_tl_10" subtype="heading"/>
+            <zone points="228,1082 1247,1084 1202,1029 228,1036" rendition="Line" xml:id="facs_29_tr_1_tl_12"/>
+            <zone points="226,1144 972,1146 972,1099 945,1092 518,1098 492,1118 226,1099" rendition="Line" xml:id="facs_29_tr_1_tl_14"/>
+            <zone points="223,1206 1058,1211 1058,1159 223,1166" rendition="Line" xml:id="facs_29_tr_1_tl_16"/>
+            <zone points="470,1331 487,1339 744,1338 744,1279 719,1278 703,1293 530,1286 511,1295 494,1281 470,1295" rendition="Line" xml:id="facs_29_tr_1_tl_19" subtype="heading"/>
+            <zone points="216,1408 1315,1411 1315,1363 216,1375" rendition="Line" xml:id="facs_29_tr_1_tl_21"/>
+            <zone points="220,1473 960,1477 960,1422 811,1447 578,1423 468,1454 220,1439" rendition="Line" xml:id="facs_29_tr_1_tl_22"/>
+            <zone points="461,1595 480,1604 683,1602 683,1549 461,1554" rendition="Line" xml:id="facs_29_tr_1_tl_23" subtype="heading"/>
+            <zone points="216,1696 1557,1700 1557,1646 216,1660" rendition="Line" xml:id="facs_29_tr_1_tl_24"/>
+            <zone points="216,1760 972,1763 972,1710 516,1710 487,1739 415,1712 340,1734 309,1712 216,1718" rendition="Line" xml:id="facs_29_tr_1_tl_25"/>
+            <zone points="214,1821 1113,1826 1113,1777 214,1777" rendition="Line" xml:id="facs_29_tr_1_tl_26"/>
+            <zone points="220,1890 1384,1890 1384,1838 220,1845" rendition="Line" xml:id="facs_29_tr_1_tl_27"/>
+            <zone points="497,2020 727,2020 727,1960 643,1965 607,1953 556,1964 497,1960" rendition="Line" xml:id="facs_29_tr_1_tl_28" subtype="heading"/>
+            <zone points="204,2103 1108,2115 1108,2056 204,2072" rendition="Line" xml:id="facs_29_tr_1_tl_29"/>
+            <zone points="208,2175 256,2204 288,2180 425,2188 442,2171 876,2180 876,2127 636,2144 470,2125 437,2157 412,2133 208,2130" rendition="Line" xml:id="facs_29_tr_1_tl_30"/>
+            <zone points="458,2303 568,2308 583,2291 600,2308 638,2300 653,2315 758,2300 845,2308 845,2257 770,2247 458,2257" rendition="Line" xml:id="facs_29_tr_1_tl_31" subtype="heading"/>
+            <zone points="477,2418 676,2391 1226,2403 1226,2351 477,2356" rendition="Line" xml:id="facs_29_tr_1_tl_32"/>
+            <zone points="449,2518 472,2531 636,2528 636,2483 611,2483 593,2470 569,2473 559,2483 551,2475 542,2483 533,2475 475,2480 458,2497 449,2497" rendition="Line" xml:id="facs_29_tr_1_tl_34" subtype="heading"/>
+            <zone points="466,2626 576,2627 595,2615 612,2629 659,2614 671,2627 833,2627 835,2574 667,2574 655,2586 611,2576 599,2588 576,2574 521,2576 509,2588 468,2576" rendition="Line" xml:id="facs_29_tr_1_tl_35"/>
+            <zone points="204,2682 1190,2686 1190,2633 204,2641" rendition="Line" xml:id="facs_29_tr_1_tl_37"/>
+            <zone points="468,2746 1688,2747 1676,2696 468,2708" rendition="Line" xml:id="facs_29_tr_1_tl_38"/>
+            <zone points="446,2867 465,2876 487,2869 504,2876 676,2876 676,2819 513,2816 504,2823 446,2826" rendition="Line" xml:id="facs_29_tr_1_tl_40" subtype="heading"/>
+            <zone points="202,2967 1290,2972 1290,2912 490,2917 463,2945 202,2914" rendition="Line" xml:id="facs_29_tr_1_tl_41"/>
+            <zone points="199,3037 1166,3036 1166,2984 199,2993" rendition="Line" xml:id="facs_29_tr_1_tl_42"/>
+            <zone points="199,3092 954,3097 954,3046 497,3048 472,3072 199,3054" rendition="Line" xml:id="facs_29_tr_1_tl_43"/>
+            <zone points="451,3188 475,3195 487,3188 508,3195 559,3193 581,3212 609,3209 604,3147 590,3147 578,3156 513,3147 497,3135 489,3145 472,3133 460,3149 446,3152" rendition="Line" xml:id="facs_29_tr_1_tl_44"/>
+         </zone>
+         <zone points="1386,793 2392,793 2392,1431 1386,1431" rendition="TextRegion" xml:id="facs_29_r">
+            <zone points="1693,858 2178,867 2178,846 1693,838" rendition="Line" xml:id="facs_29_l_1227" subtype="heading"/>
+            <zone points="1412,973 2332,979 2332,959 1412,953" rendition="Line" xml:id="facs_29_l_1241"/>
+            <zone points="2217,1033 2361,1035 2361,1015 2217,1013" rendition="Line" xml:id="facs_29_l_1255"/>
+            <zone points="1410,1091 2098,1103 2098,1083 1410,1071" rendition="Line" xml:id="facs_29_l_1269"/>
+            <zone points="1412,1163 2379,1166 2379,1146 1412,1143" rendition="Line" xml:id="facs_29_l_1283"/>
+            <zone points="1415,1220 1919,1232 1919,1212 1416,1200" rendition="Line" xml:id="facs_29_l_1297"/>
+            <zone points="1407,1292 2295,1294 2295,1274 1407,1272" rendition="Line" xml:id="facs_29_l_1311"/>
+            <zone points="1419,1349 2202,1363 2203,1343 1420,1329" rendition="Line" xml:id="facs_29_l_1325"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0029.jpg" n="part1_p029.jpg" xml:id="img_0029" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p029.jpg"/>
+            
+            <ab facs="#facs_29_tr_1">
+               <lb facs="#facs_29_tr_1_tl_1" n="N001"/>[26]
+               <lb facs="#facs_29_tr_1_tl_2" n="N002"/>LECTURE IV--
+               <lb facs="#facs_29_tr_1_tl_3" n="N003"/>[Suggested Reading List -- collected by Prof. Leibrecht...]:
+               <lb facs="#facs_29_tr_1_tl_4" n="N004"/>RELIGION &amp; CULTURE
+               <lb facs="#facs_29_tr_1_tl_5" n="N005"/>T.S. Eliot, NOTES TOWARD THE DEFINITION OF CULTURE
+               <lb facs="#facs_29_tr_1_tl_6" n="N006"/>C. Cochrane, CHRISTIANITY &amp; CULTURE
+               <lb facs="#facs_29_tr_1_tl_8" n="N007"/>E. Brunner, CHRISTIANITY &amp; CIVILIZATION
+               <lb facs="#facs_29_tr_1_tl_10" n="N008"/>FAITH
+               <lb facs="#facs_29_tr_1_tl_12" n="N009"/>F. Schleiermacher, SPEECHES ON RELIGION...
+               <lb facs="#facs_29_tr_1_tl_14" n="N010"/>M.C.D'Arcy, NATURE OF BELIEF
+               <lb facs="#facs_29_tr_1_tl_16" n="N011"/>R. Kroner, THE PRIMACY OF FAITH
+               <lb facs="#facs_29_tr_1_tl_19" n="N012"/>LANGUAGE
+               <lb facs="#facs_29_tr_1_tl_21" n="N013"/>Ogden &amp; Richards, THE MEANING OF MEANING
+               <lb facs="#facs_29_tr_1_tl_22" n="N014"/>E. Cassirer, LANGUAGE &amp; MYTH
+               <lb facs="#facs_29_tr_1_tl_23" n="N015"/>SCIENCE
+               <lb facs="#facs_29_tr_1_tl_24" n="N016"/>Oppenheimer, SCIENCE &amp; THE COMMON UNDERSTANDING
+               <lb facs="#facs_29_tr_1_tl_25" n="N017"/>M.R. Cohen, REASON &amp; NATURE
+               <lb facs="#facs_29_tr_1_tl_26" n="N018"/>C. Raven, SCIENCE &amp; CHRISTIAN MAN
+               <lb facs="#facs_29_tr_1_tl_27" n="N019"/>K. Heim, CHRISTIAN FAITH &amp; NATURAL SCIENCE
+               <lb facs="#facs_29_tr_1_tl_28" n="N020"/>ESTHETICS
+               <lb facs="#facs_29_tr_1_tl_29" n="N021"/>F. Nietzsche, THE BIRTH OF TRAGEDY
+               <lb facs="#facs_29_tr_1_tl_30" n="N022"/>I. Edman, ARTS &amp; THE MAN
+               <lb facs="#facs_29_tr_1_tl_31" n="N023"/>LAW &amp; JUSTICE
+               <lb facs="#facs_29_tr_1_tl_32" n="N024"/>E. Brunner, JUSTICE &amp; THE SOCIAL ORDER
+               <lb facs="#facs_29_tr_1_tl_34" n="N025"/>ETHICS
+               <lb facs="#facs_29_tr_1_tl_35" n="N026"/>E. Brunner, LAW &amp; ORDER
+               <lb facs="#facs_29_tr_1_tl_37" n="N027"/>E. Fromm, PSYCHOANALYSIS &amp; RELIGION
+               <lb facs="#facs_29_tr_1_tl_38" n="N028"/>D. Roberts, PSYCHOTHERAPY &amp; THE CHRISTIAN VIEW OF MAN
+               <lb facs="#facs_29_tr_1_tl_40" n="N029"/>POLITICS
+               <lb facs="#facs_29_tr_1_tl_41" n="N030"/>R. Niebuhr, CHRISTIANITY &amp; POWER POLITICS
+               <lb facs="#facs_29_tr_1_tl_42" n="N031"/>J. Bennett, CHRISTIANITY &amp; COMMUNISM
+               <lb facs="#facs_29_tr_1_tl_43" n="N032"/>E. Heimann, FREEDOM &amp; ORDER
+               <lb facs="#facs_29_tr_1_tl_44" n="N033"/>(Cont.)
+            </ab>
+            <ab facs="#facs_29_r">
+               <lb facs="#facs_29_l_1227" n="N001"/>COGNITIVE ASPECT
+               <lb facs="#facs_29_l_1241" n="N002"/>J.H. Randall, MAKING OF the MODERN
+               <lb facs="#facs_29_l_1255" n="N003"/>MIND
+               <lb facs="#facs_29_l_1269" n="N004"/>G. Marcel, BEING &amp; HAVING
+               <lb facs="#facs_29_l_1283" n="N005"/>J. Wild, CHALLENGE OF EXISTENTIALISM
+               <lb facs="#facs_29_l_1297" n="N006"/>M. Buber, I &amp; THOU
+               <lb facs="#facs_29_l_1311" n="N007"/>P. Tillich, LOVE, POWER, &amp; JUSTICE
+               <lb facs="#facs_29_l_1325" n="N008"/>Ortega, REVOLT OF THE MASSES
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

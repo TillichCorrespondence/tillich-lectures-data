@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p093</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p093</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_93">
+         <graphic url="TL-0093.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=JYMZGUXJXFQOIFWOLHAOLHOI&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="232,222 232,3441 2260,3441 2260,222" rendition="TextRegion" xml:id="facs_93_tr_1">
+            <zone points="1096,277 1116,274 1131,287 1146,284 1161,287 1194,277 1189,219 1166,221 1151,211 1141,226 1093,229" rendition="Line" xml:id="facs_93_tr_1_tl_1"/>
+            <zone points="284,427 543,463 666,432 819,455 968,445 968,382 877,382 852,407 812,385 769,407 709,380 628,405 598,380 329,377 284,402" rendition="Line" xml:id="facs_93_tr_1_tl_3" subtype="heading"/>
+            <zone points="583,596 2016,631 2112,623 2112,563 581,551" rendition="Line" xml:id="facs_93_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="284,684 1214,686 1370,742 2162,709 2162,656 1963,641 284,661" rendition="Line" xml:id="facs_93_tr_1_tl_5"/>
+            <zone points="294,779 2132,789 2132,744 2041,726 1755,757 294,732" rendition="Line" xml:id="facs_93_tr_1_tl_6"/>
+            <zone points="284,847 2154,877 2154,825 2104,822 284,825" rendition="Line" xml:id="facs_93_tr_1_tl_7"/>
+            <zone points="287,950 2245,965 2245,912 2189,905 287,900" rendition="Line" xml:id="facs_93_tr_1_tl_8"/>
+            <zone points="287,1028 2084,1051 2084,998 1968,985 287,988" rendition="Line" xml:id="facs_93_tr_1_tl_9"/>
+            <zone points="279,1126 2164,1134 2164,1081 2031,1066 279,1078" rendition="Line" xml:id="facs_93_tr_1_tl_10"/>
+            <zone points="279,1197 2127,1249 2127,1169 1875,1156 279,1156" rendition="Line" xml:id="facs_93_tr_1_tl_11"/>
+            <zone points="271,1282 465,1320 902,1279 2142,1305 2142,1252 1903,1234 271,1237" rendition="Line" xml:id="facs_93_tr_1_tl_12"/>
+            <zone points="271,1362 2029,1388 2001,1327 271,1337" rendition="Line" xml:id="facs_93_tr_1_tl_13"/>
+            <zone points="269,1450 897,1508 975,1445 2167,1468 2142,1408 269,1408" rendition="Line" xml:id="facs_93_tr_1_tl_14"/>
+            <zone points="266,1531 349,1548 447,1533 706,1541 706,1493 543,1493 525,1481 442,1508 380,1481 367,1493 342,1478 266,1491" rendition="Line" xml:id="facs_93_tr_1_tl_15"/>
+            <zone points="566,1624 2187,1636 2187,1569 744,1589 566,1556" rendition="Line" xml:id="facs_93_tr_1_tl_16" subtype="paragraph"/>
+            <zone points="266,1697 2152,1722 2152,1669 2086,1657 266,1672" rendition="Line" xml:id="facs_93_tr_1_tl_17"/>
+            <zone points="261,1795 1928,1848 2179,1817 2152,1740 261,1742" rendition="Line" xml:id="facs_93_tr_1_tl_18"/>
+            <zone points="241,1921 779,1923 925,1868 2149,1893 2129,1830 364,1843 241,1792" rendition="Line" xml:id="facs_93_tr_1_tl_19"/>
+            <zone points="219,1961 2139,1971 2112,1910 219,1913" rendition="Line" xml:id="facs_93_tr_1_tl_20"/>
+            <zone points="261,2039 2096,2054 2061,1998 1903,1993 261,1998" rendition="Line" xml:id="facs_93_tr_1_tl_21"/>
+            <zone points="261,2124 2109,2139 2109,2094 2056,2081 261,2079" rendition="Line" xml:id="facs_93_tr_1_tl_22"/>
+            <zone points="239,2212 2210,2220 2210,2159 239,2179" rendition="Line" xml:id="facs_93_tr_1_tl_23"/>
+            <zone points="254,2293 1659,2295 1755,2340 1812,2295 2036,2310 2036,2245 1802,2277 1672,2242 254,2250" rendition="Line" xml:id="facs_93_tr_1_tl_25"/>
+            <zone points="254,2378 2021,2398 2149,2388 2147,2340 251,2343" rendition="Line" xml:id="facs_93_tr_1_tl_26"/>
+            <zone points="256,2458 1905,2486 2157,2476 2157,2423 254,2416" rendition="Line" xml:id="facs_93_tr_1_tl_27"/>
+            <zone points="254,2546 2212,2564 2212,2496 1976,2526 1913,2494 254,2491" rendition="Line" xml:id="facs_93_tr_1_tl_28"/>
+            <zone points="254,2634 1750,2632 1855,2680 2189,2680 2189,2594 251,2572" rendition="Line" xml:id="facs_93_tr_1_tl_29"/>
+            <zone points="241,2753 2142,2732 2142,2680 2066,2662 241,2680" rendition="Line" xml:id="facs_93_tr_1_tl_30"/>
+            <zone points="249,2803 2132,2813 2132,2773 2029,2758 249,2760" rendition="Line" xml:id="facs_93_tr_1_tl_31"/>
+            <zone points="246,2886 2066,2901 2066,2841 744,2858 578,2800 246,2803" rendition="Line" xml:id="facs_93_tr_1_tl_32"/>
+            <zone points="236,2961 2257,2984 2220,2921 236,2936" rendition="Line" xml:id="facs_93_tr_1_tl_33"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0093.jpg" n="part1_p093.jpg" xml:id="img_0093" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p093.jpg"/>
+            
+            <ab facs="#facs_93_tr_1">
+               <lb facs="#facs_93_tr_1_tl_1" n="N001"/>[90]
+               <lb facs="#facs_93_tr_1_tl_3" n="N002"/>LECTURE X--Nov. 1, 1955
+               <lb facs="#facs_93_tr_1_tl_4" n="N003"/>There are problems left from my last discussion of the relationship of
+               <lb facs="#facs_93_tr_1_tl_5" n="N004"/>religion and the technical realm. The one was the question of progress, which I think
+               <lb facs="#facs_93_tr_1_tl_6" n="N005"/>was very much in the mind of many of you, and rightly so. One of you asked me
+               <lb facs="#facs_93_tr_1_tl_7" n="N006"/>whether there is a progress in scientific research, and this brings me to a more general
+               <lb facs="#facs_93_tr_1_tl_8" n="N007"/>answer. Wherever man has a purpose and uses means for this purpose, there is a technical
+               <lb facs="#facs_93_tr_1_tl_9" n="N008"/>element. It is what I call, in my first division of the different forms of techniques,
+               <lb facs="#facs_93_tr_1_tl_10" n="N009"/>supporting techniques and not transforming techniques. Therefore you could apply this
+               <lb facs="#facs_93_tr_1_tl_11" n="N010"/>question also to education, to politics, to all those realms in which man has purposes
+               <lb facs="#facs_93_tr_1_tl_12" n="N011"/>and uses means for ends. In this sense, there is a large amount of technical means for
+               <lb facs="#facs_93_tr_1_tl_13" n="N012"/>ends in every scientific work. But there is something else also, in scientific work,
+               <lb facs="#facs_93_tr_1_tl_14" n="N013"/>and about this ''something else'' we want to talk when we come to the special subject:
+               <lb facs="#facs_93_tr_1_tl_15" n="N014"/>religion and science.
+               <lb facs="#facs_93_tr_1_tl_16" n="N015"/>So this is my general answer. All these things, in the reality of life which
+               <lb facs="#facs_93_tr_1_tl_17" n="N016"/>we treat here, point by point, do not appear in the reality of life point by point, but
+               <lb facs="#facs_93_tr_1_tl_18" n="N017"/>they appear in togetherness, and the function of a lecture like this is to DISTINGUISH,
+               <lb facs="#facs_93_tr_1_tl_19" n="N018"/>but not to SEPARATE. And I think that is something we all have to learn--especially
+               <lb facs="#facs_93_tr_1_tl_20" n="N019"/>in the academic world, where we always make distinctions--that if we make them, this
+               <lb facs="#facs_93_tr_1_tl_21" n="N020"/>does not mean that we separate realities. Distinctions are justified where variables are
+               <lb facs="#facs_93_tr_1_tl_22" n="N021"/>independently variable, where factors are independently variable. There we must make
+               <lb facs="#facs_93_tr_1_tl_23" n="N022"/>distinctions. But the reliability of factors doesn’t mean that these factors can be separated
+               <lb facs="#facs_93_tr_1_tl_25" n="N023"/>from each other. Now that is a very primitive logical footnote, but I have a lot of
+               <lb facs="#facs_93_tr_1_tl_26" n="N024"/>experience about this: whenever I made a distinction, somebody comes and says, ''But
+               <lb facs="#facs_93_tr_1_tl_27" n="N025"/>can you separate these things?'' And the answer is always, of course, ''No, you cannot.''
+               <lb facs="#facs_93_tr_1_tl_28" n="N026"/>But you must distinguish, nevertheless, because they are independently variable. Now this
+               <lb facs="#facs_93_tr_1_tl_29" n="N027"/>is also the case with these distinctions which we must make here, in order to go step by
+               <lb facs="#facs_93_tr_1_tl_30" n="N028"/>step from one relationship of religion to a cultural function, to the other. It does NOT
+               <lb facs="#facs_93_tr_1_tl_31" n="N029"/>mean separation. And I think I indicated this very clearly last time when I spoke, as
+               <lb facs="#facs_93_tr_1_tl_32" n="N030"/>an example, about the relationship of the visual arts and the technical realm. And I
+               <lb facs="#facs_93_tr_1_tl_33" n="N031"/>may add something here also--but first the answer to the question of progress involved in it.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

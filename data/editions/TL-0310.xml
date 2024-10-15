@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p026</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p026</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_26">
+         <graphic url="TL-0310.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MFHMCJJMXKQVSLAZLMWTNHAC&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="250,248 2271,248 2271,1240 250,1240" rendition="TextRegion" xml:id="facs_26_tr_2">
+            <zone points="1115,315 1161,315 1164,320 1174,315 1202,320 1231,317 1231,258 1197,258 1189,253 1176,263 1166,263 1161,255 1151,263 1115,263" rendition="Line" xml:id="facs_26_tr_2_tl_1"/>
+            <zone points="235,472 787,472 846,498 862,495 864,400 810,426 779,402 753,428 738,413 279,415 235,444" rendition="Line" xml:id="facs_26_tr_2_tl_2" subtype="heading"/>
+            <zone points="436,619 1256,611 1373,673 2092,596 2095,531 436,565" rendition="Line" xml:id="facs_26_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="240,782 1870,769 2095,748 2095,691 240,753" rendition="Line" xml:id="facs_26_tr_2_tl_4"/>
+            <zone points="240,934 1068,968 1540,903 1744,1017 2198,962 2245,846 1796,787 1427,882 240,903" rendition="Line" xml:id="facs_26_tr_2_tl_5"/>
+            <zone points="240,1086 2224,1055 2265,1001 240,1055" rendition="Line" xml:id="facs_26_tr_2_tl_6"/>
+            <zone points="243,1233 1989,1228 2188,1205 2190,1078 1612,1179 243,1202" rendition="Line" xml:id="facs_26_tr_2_tl_7"/>
+         </zone>
+         <zone points="250,1224 2391,1224 2391,2296 250,2296" rendition="TextRegion" xml:id="facs_26_tr_3">
+            <zone points="245,1391 1685,1367 1716,1308 245,1336" rendition="Line" xml:id="facs_26_tr_3_tl_3"/>
+            <zone points="441,1535 2110,1509 2224,1502 2224,1442 444,1481" rendition="Line" xml:id="facs_26_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="245,1690 1865,1669 2152,1651 2154,1594 245,1633" rendition="Line" xml:id="facs_26_tr_3_tl_5"/>
+            <zone points="235,1834 1840,1811 2069,1858 2255,1842 2309,1742 235,1809" rendition="Line" xml:id="facs_26_tr_3_tl_6"/>
+            <zone points="243,1992 2152,1966 2252,1956 2255,1899 243,1958" rendition="Line" xml:id="facs_26_tr_3_tl_7"/>
+            <zone points="245,2139 2116,2113 2116,2056 1989,2043 248,2082" rendition="Line" xml:id="facs_26_tr_3_tl_8"/>
+            <zone points="243,2286 2028,2270 2139,2263 2139,2201 243,2258" rendition="Line" xml:id="facs_26_tr_3_tl_9"/>
+         </zone>
+         <zone points="47,2347 2373,2347 2373,3473 47,3473" rendition="TextRegion" xml:id="facs_26_tr_1">
+            <zone points="250,2443 1811,2430 2211,2407 2211,2350 250,2412" rendition="Line" xml:id="facs_26_tr_1_tl_1"/>
+            <zone points="253,2595 1992,2567 2183,2557 2183,2497 255,2541" rendition="Line" xml:id="facs_26_tr_1_tl_2"/>
+            <zone points="243,2740 2178,2712 2196,2644 243,2691" rendition="Line" xml:id="facs_26_tr_1_tl_3"/>
+            <zone points="243,2887 2136,2869 2139,2797 243,2861" rendition="Line" xml:id="facs_26_tr_1_tl_4"/>
+            <zone points="253,3039 2090,3021 2092,2977 253,3011" rendition="Line" xml:id="facs_26_tr_1_tl_5"/>
+            <zone points="250,3207 2139,3173 2224,3158 2224,3096 250,3148" rendition="Line" xml:id="facs_26_tr_1_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0310.jpg" n="part2_p026.jpg" xml:id="img_0026" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p026.jpg"/>
+            
+            <ab facs="#facs_26_tr_2">
+               <lb facs="#facs_26_tr_2_tl_1" n="N001"/>[306]
+               <lb facs="#facs_26_tr_2_tl_2" n="N002"/>LECTURE XXV, Feb. 9, 1956
+               <lb facs="#facs_26_tr_2_tl_3" n="N003"/>We spoke about symbols and characteristics of the representative, in contrast to the
+               <lb facs="#facs_26_tr_2_tl_4" n="N004"/>non-representative, symbols (the reflective symbols), and also in contrast to the psychological
+               <lb facs="#facs_26_tr_2_tl_5" n="N005"/>symbols which are actually signs and not symbols---they are, so to speak, symptoms (symptom means
+               <lb facs="#facs_26_tr_2_tl_6" n="N006"/>sign, not symbol). Therefore we concentrate on the representative symbols. I gave you characteristics
+               <lb facs="#facs_26_tr_2_tl_7" n="N007"/>of these symbols which appear in language, in history, and in religion, and also in the arts. I didn't
+            </ab>
+            <ab facs="#facs_26_tr_3">
+               <lb facs="#facs_26_tr_3_tl_3" n="N001"/>speak about the latter ones because they are the subject of today's lecture.
+               <lb facs="#facs_26_tr_3_tl_4" n="N002"/>Let us go into thespecial [sic.] character of the artistic symbols. I had a long time of hesitation
+               <lb facs="#facs_26_tr_3_tl_5" n="N003"/>before I decided to speak of artistic symbols at all, for the reason which those of you who know
+               <lb facs="#facs_26_tr_3_tl_6" n="N004"/>a little about history of art will immediately understand. There is such a thing as intentionally symbolic
+               <lb facs="#facs_26_tr_3_tl_7" n="N005"/>art, for instance produced by the so-called pre-Raphaelites at the end of the 19th century in England.
+               <lb facs="#facs_26_tr_3_tl_8" n="N006"/>There is symbolistic poetry; there is symbolistic drama, whereby not elements of the ordinary
+               <lb facs="#facs_26_tr_3_tl_9" n="N007"/>reality are used in order to symbolize something beyond this ordinary reality, but where special
+            </ab>
+            <ab facs="#facs_26_tr_1">
+               <lb facs="#facs_26_tr_1_tl_1" n="N001"/>symbols are invented which are especially characterized as symbols---angelic figures, forms in which
+               <lb facs="#facs_26_tr_1_tl_2" n="N002"/>the NON-realistic element is intentionally expressed. It was always my feeling that such a kind of
+               <lb facs="#facs_26_tr_1_tl_3" n="N003"/>art is bad art. For this reason I was hesitating to speak in terms of symbols at all, when I spoke of
+               <lb facs="#facs_26_tr_1_tl_4" n="N004"/>art, but this was a more accidental reason. There was another reason, more substantial, namely
+               <lb facs="#facs_26_tr_1_tl_5" n="N005"/>the experience that if you are, in a picture or in a piece of music or in a poem or in a drama,
+               <lb facs="#facs_26_tr_1_tl_6" n="N006"/>participating in its meaning, there is the character which belongs to every symbol---to point beyond
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

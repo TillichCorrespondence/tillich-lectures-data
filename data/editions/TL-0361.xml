@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p077</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p077</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_77">
+         <graphic url="TL-0361.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=EVTKKKENMYKGXAEZRRCOMTLC&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="268,293 2325,293 2325,2147 268,2147" rendition="TextRegion" xml:id="facs_77_tr_1">
+            <zone points="1123,354 1168,360 1173,365 1186,365 1194,357 1238,357 1241,292 1209,295 1196,287 1183,297 1173,295 1162,305 1126,305" rendition="Line" xml:id="facs_77_tr_1_tl_1"/>
+            <zone points="271,500 2158,508 2106,451 1314,464 1178,414 271,464" rendition="Line" xml:id="facs_77_tr_1_tl_2"/>
+            <zone points="274,654 2205,665 2205,605 274,623" rendition="Line" xml:id="facs_77_tr_1_tl_3"/>
+            <zone points="279,813 2239,816 2239,758 2174,756 279,756" rendition="Line" xml:id="facs_77_tr_1_tl_4"/>
+            <zone points="266,954 2257,954 2179,907 266,907" rendition="Line" xml:id="facs_77_tr_1_tl_5"/>
+            <zone points="274,1108 1926,1129 2174,1115 2174,1053 274,1082" rendition="Line" xml:id="facs_77_tr_1_tl_6"/>
+            <zone points="268,1261 1811,1269 1811,1212 1749,1209 268,1207" rendition="Line" xml:id="facs_77_tr_1_tl_8"/>
+            <zone points="266,1415 1207,1420 1207,1358 1079,1358 1050,1384 907,1358 266,1376" rendition="Line" xml:id="facs_77_tr_1_tl_10"/>
+            <zone points="263,1538 2168,1540 2168,1470 263,1475" rendition="Line" xml:id="facs_77_tr_1_tl_11" subtype="paragraph"/>
+            <zone points="271,1691 2158,1691 2158,1632 271,1632" rendition="Line" xml:id="facs_77_tr_1_tl_12"/>
+            <zone points="261,1840 1282,1877 2267,1837 2267,1783 261,1788" rendition="Line" xml:id="facs_77_tr_1_tl_14"/>
+            <zone points="261,1996 2111,2004 2189,1999 2189,1936 261,1957" rendition="Line" xml:id="facs_77_tr_1_tl_15"/>
+            <zone points="253,2137 1994,2163 2127,2142 2127,2088 253,2106" rendition="Line" xml:id="facs_77_tr_1_tl_16"/>
+         </zone>
+         <zone points="137,2236 2334,2236 2334,3464 137,3464" rendition="TextRegion" xml:id="facs_77_tr_2">
+            <zone points="255,2307 2085,2301 2103,2241 255,2249" rendition="Line" xml:id="facs_77_tr_2_tl_1"/>
+            <zone points="248,2452 323,2458 336,2471 394,2458 498,2468 665,2460 665,2398 292,2398 268,2421 248,2421" rendition="Line" xml:id="facs_77_tr_2_tl_2"/>
+            <zone points="242,2598 2194,2601 2194,2546 1970,2520 242,2525" rendition="Line" xml:id="facs_77_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="235,2752 2174,2750 2174,2684 761,2724 566,2674 235,2724" rendition="Line" xml:id="facs_77_tr_2_tl_4"/>
+            <zone points="245,2906 2093,2909 2210,2901 2210,2836 245,2867" rendition="Line" xml:id="facs_77_tr_2_tl_5"/>
+            <zone points="248,3055 2077,3055 2043,2997 248,3008" rendition="Line" xml:id="facs_77_tr_2_tl_6"/>
+            <zone points="235,3200 2312,3214 2330,3141 235,3174" rendition="Line" xml:id="facs_77_tr_2_tl_7"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0361.jpg" n="part2_p077.jpg" xml:id="img_0077" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p077.jpg"/>
+            
+            <ab facs="#facs_77_tr_1">
+               <lb facs="#facs_77_tr_1_tl_1" n="N001"/>[356]
+               <lb facs="#facs_77_tr_1_tl_2" n="N002"/>28) HIERONYMOUS BOSCH, <hi style="font-style: italic;">TEMPTATION</hi>--I can simply repeat the same thing about the
+               <lb facs="#facs_77_tr_1_tl_3" n="N003"/>demonic character of the world. It is astonishing that these figures have been invented at that time
+               <lb facs="#facs_77_tr_1_tl_4" n="N004"/>and have been brought to the surface. In former pictures they were kept in the Hell, as Hell demons.
+               <lb facs="#facs_77_tr_1_tl_5" n="N005"/>Now they rule the surface, which means the unconscious has come into the open, in these pictures--
+               <lb facs="#facs_77_tr_1_tl_6" n="N006"/>...the coming of the unconscious anxiety elements. This period became increasingly a period of
+               <lb facs="#facs_77_tr_1_tl_8" n="N007"/>tremendous anxiety, anxiety both of death and of guilt--that’s combined--and [in the] hope to overcome it,
+               <lb facs="#facs_77_tr_1_tl_10" n="N008"/>the Reformation came, to a great extent.
+               <lb facs="#facs_77_tr_1_tl_11" n="N009"/>29) EL GRECO, <hi style="font-style: italic;">CORONATION OF THE VIRGIN</hi>--This is post-Renaissance, while the others
+               <lb facs="#facs_77_tr_1_tl_12" n="N010"/>were mostly pre-Renaissance. What has happened here? The religious spirit broke into the later
+               <lb facs="#facs_77_tr_1_tl_14" n="N011"/>Renaissance and produced what we call Mannerism [this] and Baroque--the attempt to give the mood of the
+               <lb facs="#facs_77_tr_1_tl_15" n="N012"/>natural forms again in religious ecstasy, just as the Spanish mystics tried to do it in steps going up,
+               <lb facs="#facs_77_tr_1_tl_16" n="N013"/>while Medieval mysticism, so to speak, was something lying above us, which comes down to us.
+            </ab>
+            <ab facs="#facs_77_tr_2">
+               <lb facs="#facs_77_tr_2_tl_1" n="N001"/>Now the tremendous bodily, even, and vital naturalistic ecstasy is needed in order to reach the
+               <lb facs="#facs_77_tr_2_tl_2" n="N002"/>religious expression.
+               <lb facs="#facs_77_tr_2_tl_3" n="N003"/>30) REMBRANDT, three crosses--Here we come to the end of that period after which the great
+               <lb facs="#facs_77_tr_2_tl_4" n="N004"/>gap started, as I told you--this is also one of the greatest religious pictures, I would say, because it
+               <lb facs="#facs_77_tr_2_tl_5" n="N005"/>expresses, with the MEANS of Rembrandt (light and lines), the reality of the human situation, in all
+               <lb facs="#facs_77_tr_2_tl_6" n="N006"/>these figures, but nevertheless in the triangular lines going up, at the same time the triumph.
+               <lb facs="#facs_77_tr_2_tl_7" n="N007"/>But not a visible triumph, so to speak, but a triumph in terms of an indication of a ''beyond the situation,''
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

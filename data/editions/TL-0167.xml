@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p167</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p167</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_167">
+         <graphic url="TL-0167.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KOMOFHXNEJYIDOLXVBVIVLJE&amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="137,238 137,3498 2280,3498 2280,238" rendition="TextRegion" xml:id="facs_167_tr_2">
+            <zone points="1135,309 1167,309 1175,317 1219,317 1224,312 1262,309 1264,259 1202,259 1187,244 1165,262 1135,264" rendition="Line" xml:id="facs_167_tr_2_tl_1"/>
+            <zone points="282,469 2264,461 2212,389 1997,416 1943,372 1885,416 282,426" rendition="Line" xml:id="facs_167_tr_2_tl_2"/>
+            <zone points="282,621 1224,608 1618,676 1721,613 2239,621 2239,559 2152,554 282,566" rendition="Line" xml:id="facs_167_tr_2_tl_3"/>
+            <zone points="272,763 2277,758 2277,698 272,738" rendition="Line" xml:id="facs_167_tr_2_tl_4"/>
+            <zone points="272,915 2227,923 2227,860 272,870" rendition="Line" xml:id="facs_167_tr_2_tl_5"/>
+            <zone points="272,1077 436,1125 718,1090 1374,1122 2252,1065 2252,1005 272,1042" rendition="Line" xml:id="facs_167_tr_2_tl_6"/>
+            <zone points="267,1217 1392,1219 1509,1254 2137,1214 2137,1162 2085,1150 1771,1170 1711,1130 1357,1137 1319,1175 267,1177" rendition="Line" xml:id="facs_167_tr_2_tl_7"/>
+            <zone points="267,1377 1459,1369 1574,1416 1628,1374 2247,1367 2247,1312 1638,1314 1559,1239 1454,1317 267,1344" rendition="Line" xml:id="facs_167_tr_2_tl_8"/>
+            <zone points="264,1521 1212,1524 1212,1469 264,1479" rendition="Line" xml:id="facs_167_tr_2_tl_9"/>
+            <zone points="464,1678 2219,1668 2219,1598 464,1646" rendition="Line" xml:id="facs_167_tr_2_tl_10" subtype="paragraph"/>
+            <zone points="264,1838 2219,1855 2222,1776 2155,1761 267,1778" rendition="Line" xml:id="facs_167_tr_2_tl_12"/>
+            <zone points="259,1975 616,1980 671,2022 823,1973 2239,1965 2239,1918 2150,1910 783,1928 711,1878 641,1933 259,1953" rendition="Line" xml:id="facs_167_tr_2_tl_13"/>
+            <zone points="259,2155 2192,2125 2192,2072 2055,2060 259,2087" rendition="Line" xml:id="facs_167_tr_2_tl_14"/>
+            <zone points="259,2277 1092,2277 1092,2229 1067,2219 259,2232" rendition="Line" xml:id="facs_167_tr_2_tl_16"/>
+            <zone points="456,2429 2239,2421 2239,2369 2165,2362 456,2401" rendition="Line" xml:id="facs_167_tr_2_tl_17" subtype="paragraph"/>
+            <zone points="259,2579 561,2611 1566,2579 1566,2526 259,2534" rendition="Line" xml:id="facs_167_tr_2_tl_18"/>
+            <zone points="464,2778 2202,2728 2202,2666 2145,2661 466,2678" rendition="Line" xml:id="facs_167_tr_2_tl_19" subtype="paragraph"/>
+            <zone points="254,2885 1122,2885 1185,2948 2167,2908 2167,2823 2092,2805 254,2843" rendition="Line" xml:id="facs_167_tr_2_tl_20"/>
+            <zone points="257,3037 2212,3040 2177,2968 257,3012" rendition="Line" xml:id="facs_167_tr_2_tl_21"/>
+            <zone points="254,3197 369,3249 539,3202 2160,3190 2160,3135 2022,3117 254,3152" rendition="Line" xml:id="facs_167_tr_2_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0167.jpg" n="part1_p167.jpg" xml:id="img_0167" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p167.jpg"/>
+            
+            <ab facs="#facs_167_tr_2">
+               <lb facs="#facs_167_tr_2_tl_1" n="N001"/>[164]
+               <lb facs="#facs_167_tr_2_tl_2" n="N002"/>these are sociological movements and often very profound psychological-emotional things behind it.
+               <lb facs="#facs_167_tr_2_tl_3" n="N003"/>All this is true. But there is much more behind it. This "much more" is the really important thing
+               <lb facs="#facs_167_tr_2_tl_4" n="N004"/>about it, otherwise the emotion could die down, as they always do after a certain time, and we could
+               <lb facs="#facs_167_tr_2_tl_5" n="N005"/>live in peace ever after. But this is not the case. The problem remains and is going on all the time,
+               <lb facs="#facs_167_tr_2_tl_6" n="N006"/>and it is a problem of ultimate religious significance, the problem about the <rs type="keyword" ref="#Structure_of_reality">structure of our reality</rs>:
+               <lb facs="#facs_167_tr_2_tl_7" n="N007"/>whether our reality is as <rs type="keyword" ref="#Pagan">paganism </rs>mostly has seen it, as <rs type="keyword" ref="#Manichaenism">Manichaenism</rs> has expressed it, in the
+               <lb facs="#facs_167_tr_2_tl_8" n="N008"/>most radical and powerful way, namely that the God who has saving power is ANOTHER God than
+               <lb facs="#facs_167_tr_2_tl_9" n="N009"/>the God who has created this miserable world!
+               <lb facs="#facs_167_tr_2_tl_10" n="N010"/>And I tell you there are more amongst us who, without using this terminology, have such
+               <lb facs="#facs_167_tr_2_tl_12" n="N011"/>feelings about the state of things. There are MANY people who FEEL that the world is a failure---
+               <lb facs="#facs_167_tr_2_tl_13" n="N012"/>and l understand that---and that if there is <rs type="keyword" ref="#Salvation">salvation</rs>, it must be salvation OUT of the world and not
+               <lb facs="#facs_167_tr_2_tl_14" n="N013"/>IN the world. Therefore the world, including the greatest in it---as for instance the arts, sciences,
+               <lb facs="#facs_167_tr_2_tl_16" n="N014"/>history, philosophy---has to be sacrificed.
+               <lb facs="#facs_167_tr_2_tl_17" n="N015"/>Now this is the one possibility, and against this possibility l am talking here, during these
+               <lb facs="#facs_167_tr_2_tl_18" n="N016"/>WHOLE lectures, from the first hour on to the last next semester.
+               <lb facs="#facs_167_tr_2_tl_19" n="N017"/>The other possibility is that one follows the Old and New Testament thinking, that one
+               <lb facs="#facs_167_tr_2_tl_20" n="N018"/>believes in the goodness of <rs type="keyword" ref="#Creation">creation-as-creation</rs>, and the structures of mind and reality, and that
+               <lb facs="#facs_167_tr_2_tl_21" n="N019"/>one believes that the miserable state of the world which no one can deny, is a matter of creaturely
+               <lb facs="#facs_167_tr_2_tl_22" n="N020"/><rs type="keyword" ref="#Freedom">freedom</rs>---perhaps unavoidable if the creature shall reach his fulfillment, but in any case is not a
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

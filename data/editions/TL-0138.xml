@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p138</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p138</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_138">
+         <graphic url="TL-0138.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZEWREBJVTPLNOUPHEJJOMIHV&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="166,167 166,3493 2397,3493 2397,167" rendition="TextRegion" xml:id="facs_138_tr_2">
+            <zone points="1100,234 1128,234 1141,245 1201,245 1213,234 1226,234 1226,175 1177,180 1149,170 1121,198 1100,201" rendition="Line" xml:id="facs_138_tr_2_tl_1"/>
+            <zone points="307,469 343,495 1353,487 1342,417 307,423" rendition="Line" xml:id="facs_138_tr_2_tl_2"/>
+            <zone points="412,634 1041,690 1144,623 2350,634 2313,564 412,572" rendition="Line" xml:id="facs_138_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="314,791 2270,793 2303,698 314,760" rendition="Line" xml:id="facs_138_tr_2_tl_4"/>
+            <zone points="307,964 1224,997 1718,927 2228,925 2228,868 2118,871 2079,830 1788,876 1682,793 1420,881 307,889" rendition="Line" xml:id="facs_138_tr_2_tl_6"/>
+            <zone points="322,1097 1332,1082 1445,1116 2174,1079 2192,1023 1644,1028 1559,958 1404,1036 322,1046" rendition="Line" xml:id="facs_138_tr_2_tl_7"/>
+            <zone points="317,1249 1198,1234 1280,1314 1386,1316 1963,1226 2275,1224 2275,1167 1602,1177 1502,1087 1311,1110 1242,1180 317,1190" rendition="Line" xml:id="facs_138_tr_2_tl_8"/>
+            <zone points="307,1389 1530,1443 2180,1373 2180,1314 307,1363" rendition="Line" xml:id="facs_138_tr_2_tl_9"/>
+            <zone points="322,1556 1561,1556 1561,1481 1399,1471 322,1492" rendition="Line" xml:id="facs_138_tr_2_tl_10"/>
+            <zone points="417,1687 1244,1690 1363,1731 1685,1672 2288,1677 2288,1605 1984,1641 1090,1623 1025,1657 420,1628" rendition="Line" xml:id="facs_138_tr_2_tl_11" subtype="paragraph"/>
+            <zone points="322,1847 1054,1839 1167,1894 1966,1863 2254,1829 2257,1770 322,1796" rendition="Line" xml:id="facs_138_tr_2_tl_13"/>
+            <zone points="319,1997 2373,1973 2373,1912 319,1961" rendition="Line" xml:id="facs_138_tr_2_tl_14"/>
+            <zone points="319,2149 2352,2123 2352,2066 319,2094" rendition="Line" xml:id="facs_138_tr_2_tl_15"/>
+            <zone points="317,2316 714,2342 827,2295 2285,2277 2285,2223 317,2267" rendition="Line" xml:id="facs_138_tr_2_tl_16"/>
+            <zone points="322,2453 2375,2432 2396,2362 435,2417 322,2388" rendition="Line" xml:id="facs_138_tr_2_tl_17"/>
+            <zone points="322,2594 335,2594 348,2607 538,2602 538,2545 520,2545 505,2530 489,2545 361,2545 340,2569 322,2569" rendition="Line" xml:id="facs_138_tr_2_tl_18"/>
+            <zone points="425,2677 1577,2648 1628,2692 2056,2695 2107,2654 2303,2646 2303,2579 2257,2607 2198,2569 2118,2610 1984,2574 1839,2615 1420,2620 1383,2584 1324,2625 1020,2592 984,2628 585,2633 549,2599 425,2638" rendition="Line" xml:id="facs_138_tr_2_tl_19" subtype="paragraph"/>
+            <zone points="319,2816 2228,2852 2270,2744 319,2790" rendition="Line" xml:id="facs_138_tr_2_tl_20"/>
+            <zone points="319,2968 392,3014 2283,2978 2246,2888 956,2937 322,2916" rendition="Line" xml:id="facs_138_tr_2_tl_21"/>
+            <zone points="319,3125 384,3171 1051,3169 1435,3115 2254,3102 2254,3040 319,3102" rendition="Line" xml:id="facs_138_tr_2_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0138.jpg" n="part1_p138.jpg" xml:id="img_0138" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p138.jpg"/>
+            
+            <ab facs="#facs_138_tr_2">
+               <lb facs="#facs_138_tr_2_tl_1" n="N001"/>[135]
+               <lb facs="#facs_138_tr_2_tl_2" n="N002"/>That is what I wanted to show, from the one theory.
+               <lb facs="#facs_138_tr_2_tl_3" n="N003"/>The other is the <rs type="keyword" ref="#Idealistic_Theory">idealistic [theory]</rs>. Very often, in popular thinking, when you speak to somebody
+               <lb facs="#facs_138_tr_2_tl_4" n="N004"/>and he knows or feels that you are a theologian, then he calls you ''idealistic.'' And then I shock
+               <lb facs="#facs_138_tr_2_tl_6" n="N005"/>him and say, ''I prefer to be a naturalist to being an idealist.'' Idealism is much farther [sic.] away from
+               <lb facs="#facs_138_tr_2_tl_7" n="N006"/>Christianity than <rs type="keyword" ref="#Naturalism">naturalism</rs> because idealism overlooks the reality of man as he is bound in
+               <lb facs="#facs_138_tr_2_tl_8" n="N007"/>matter, in unconscious strivings, in all that which depth psychology and sociology have shown to us.
+               <lb facs="#facs_138_tr_2_tl_9" n="N008"/>But even if one is idealist--and there are strong motives in the <rs type="keyword" ref="#Epistemology">EPISTEMOLOGICAL</rs> realm for
+               <lb facs="#facs_138_tr_2_tl_10" n="N009"/>idealism--then this is not a decision for or against Christianity.
+               <lb facs="#facs_138_tr_2_tl_11" n="N010"/>Then there are other theories, the so-called parallelism theory: ''There is the body, and there is
+               <lb facs="#facs_138_tr_2_tl_13" n="N011"/>the soul, and they go parallel.'' This was the idea of Descartes and the Cartesian school, that what
+               <lb facs="#facs_138_tr_2_tl_14" n="N012"/>happens in the bodily world always has an analogy in the inner world of the soul, and God Himself
+               <lb facs="#facs_138_tr_2_tl_15" n="N013"/>is the ultimate wheel in this process which makes that these two machines are coordinated. Now this is
+               <lb facs="#facs_138_tr_2_tl_16" n="N014"/>a very abstruse theory, and philosophers have always tried to overcome it, but not very successfully.
+               <lb facs="#facs_138_tr_2_tl_17" n="N015"/>Now I don't mind this theory either; it has no bearing on the problems of what happens on this side and
+               <lb facs="#facs_138_tr_2_tl_18" n="N016"/>that side.
+               <lb facs="#facs_138_tr_2_tl_19" n="N017"/>And if we have, then, a <monistic_theory>monistic theory,</monistic_theory> a <rs type="keyword" ref="#Gestalt"><hi style="font-style: italic;">Gestalt</hi></rs> theory--which I personally prefer, and think
+               <lb facs="#facs_138_tr_2_tl_20" n="N018"/>is the true description of the human situation--then we can only say that that which is real in man
+               <lb facs="#facs_138_tr_2_tl_21" n="N019"/>is what the Greeks called soul, <hi style="font-style: italic;">psyché</hi>, meaning life process, the dynamic power of his life process.
+               <lb facs="#facs_138_tr_2_tl_22" n="N020"/>And this dynamic power of a life process has two sides, the one side towards existence in time and
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

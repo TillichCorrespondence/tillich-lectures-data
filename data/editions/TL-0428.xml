@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part3_p036</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p036</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_36">
+         <graphic url="TL-0428.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TXDTYVTETRDVWNKJZHENZGTG&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="1050,9 2167,9 2167,239 1050,239" rendition="TextRegion" xml:id="facs_36_tr_3">
+            <zone points="2081,74 2140,76 2147,69 2159,71 2176,0 2096,0" rendition="Line" xml:id="facs_36_tr_3_tl_1"/>
+            <zone points="1035,233 1048,233 1053,238 1067,233 1077,243 1097,248 1109,243 1134,248 1151,231 1163,231 1163,184 1126,186 1109,169 1097,182 1035,179" rendition="Line" xml:id="facs_36_tr_3_tl_2"/>
+         </zone>
+         <zone points="256,394 2227,394 2227,1858 256,1858" rendition="TextRegion" xml:id="facs_36_tr_2">
+            <zone points="243,505 1789,469 1916,456 1916,405 245,464" rendition="Line" xml:id="facs_36_tr_2_tl_1"/>
+            <zone points="550,660 648,707 1185,628 1391,623 1440,675 2019,645 2037,567 552,586" rendition="Line" xml:id="facs_36_tr_2_tl_2"/>
+            <zone points="267,795 2081,766 2164,751 2167,690 267,743" rendition="Line" xml:id="facs_36_tr_2_tl_3"/>
+            <zone points="260,959 2118,910 2120,844 263,908" rendition="Line" xml:id="facs_36_tr_2_tl_4"/>
+            <zone points="267,1121 1929,1070 2179,1045 2181,984 270,1060" rendition="Line" xml:id="facs_36_tr_2_tl_5"/>
+            <zone points="260,1256 1786,1215 1875,1170 260,1202" rendition="Line" xml:id="facs_36_tr_2_tl_6"/>
+            <zone points="559,1396 2140,1357 2218,1350 2223,1278 562,1340" rendition="Line" xml:id="facs_36_tr_2_tl_7"/>
+            <zone points="260,1553 1784,1526 2152,1502 2152,1453 263,1526" rendition="Line" xml:id="facs_36_tr_2_tl_8"/>
+            <zone points="275,1708 1485,1688 1627,1669 1629,1617 275,1661" rendition="Line" xml:id="facs_36_tr_2_tl_9"/>
+            <zone points="582,1857 2164,1806 2218,1796 2221,1732 584,1794" rendition="Line" xml:id="facs_36_tr_2_tl_10"/>
+         </zone>
+         <zone points="47,1893 2260,1893 2260,3470 47,3470" rendition="TextRegion" xml:id="facs_36_tr_1">
+            <zone points="287,2029 2169,1965 2191,1889 290,1956" rendition="Line" xml:id="facs_36_tr_1_tl_1"/>
+            <zone points="280,2159 2103,2110 2230,2098 2233,2039 280,2132" rendition="Line" xml:id="facs_36_tr_1_tl_2"/>
+            <zone points="285,2311 1833,2277 2257,2211 287,2262" rendition="Line" xml:id="facs_36_tr_1_tl_3"/>
+            <zone points="292,2473 469,2515 1276,2429 1637,2468 1720,2414 2245,2407 2248,2348 294,2434" rendition="Line" xml:id="facs_36_tr_1_tl_4"/>
+            <zone points="292,2618 1597,2626 2211,2559 2213,2495 294,2564" rendition="Line" xml:id="facs_36_tr_1_tl_5"/>
+            <zone points="294,2765 2081,2711 2130,2645 297,2716" rendition="Line" xml:id="facs_36_tr_1_tl_6"/>
+            <zone points="307,2932 2078,2866 2162,2854 2164,2790 309,2871" rendition="Line" xml:id="facs_36_tr_1_tl_7"/>
+            <zone points="299,3067 2002,3016 2061,2952 302,3018" rendition="Line" xml:id="facs_36_tr_1_tl_8"/>
+            <zone points="307,3219 2049,3200 2162,3156 2164,3094 309,3168" rendition="Line" xml:id="facs_36_tr_1_tl_9"/>
+            <zone points="1745,3475 1764,3477 1784,3492 1826,3492 1872,3460 1892,3460 1899,3298 1855,3295 1835,3305 1806,3298 1774,3310 1752,3308" rendition="Line" xml:id="facs_36_tr_1_tl_10"/>
+            <zone points="1242,3494 1313,3487 1367,3494 1389,3475 1406,3475 1433,3448 1462,3450 1458,3259 1308,3256 1296,3266 1237,3268" rendition="Line" xml:id="facs_36_tr_1_tl_11"/>
+            <zone points="34,3504 3507,3507 231,3506 424,3494 427,3352 37,3354" rendition="Line" xml:id="facs_36_tr_1_tl_12"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0428.jpg" n="part3_p036.jpg" xml:id="img_0036" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p036.jpg"/>
+            
+            <ab facs="#facs_36_tr_3">
+               <lb facs="#facs_36_tr_3_tl_1" n="N001"/>vous avez
+               <lb facs="#facs_36_tr_3_tl_2" n="N002"/>1423.
+            </ab>
+            <ab facs="#facs_36_tr_2">
+               <lb facs="#facs_36_tr_2_tl_1" n="N001"/>it can point, IN all these realms, to the ultimacy of meaning, to the/depth-dimension.
+               <lb facs="#facs_36_tr_2_tl_2" n="N002"/>On this basis, education, to Protestantism, is a profoundly dialectical thing¬
+               <lb facs="#facs_36_tr_2_tl_3" n="N003"/>"dialectical" meaning Yes and No,amited. It belongs to the introductory form of education, but
+               <lb facs="#facs_36_tr_2_tl_4" n="N004"/>at the same time, it can use the technical education, and has used it very much, especially
+               <lb facs="#facs_36_tr_2_tl_5" n="N005"/>[in] the Protestant counties which introduced the universal obligation to go to the public school
+               <lb facs="#facs_36_tr_2_tl_6" n="N006"/>for every child. And it can use, at the same time, the humanistic education.
+               <lb facs="#facs_36_tr_2_tl_7" n="N007"/>Now this was done mostly in the higher education, and very thoughtely—I told you
+               <lb facs="#facs_36_tr_2_tl_8" n="N008"/>last time what humanistic education in Germany meant; it meant really living in the humanities
+               <lb facs="#facs_36_tr_2_tl_9" n="N009"/>for the decisive educational years of your life, from nine to eighteen.
+               <lb facs="#facs_36_tr_2_tl_10" n="N010"/>Ont of this, many problems arise. And we ShOU Ma actually concentrate on these
+            </ab>
+            <ab facs="#facs_36_tr_1">
+               <lb facs="#facs_36_tr_1_tl_1" n="N001"/>problems when we speak about religion and education. Here they are concent Kated in one living
+               <lb facs="#facs_36_tr_1_tl_2" n="N002"/>dialectic, between three type, and perhaps between something which is BEYOND them. In order
+               <lb facs="#facs_36_tr_1_tl_3" n="N003"/>to discuss this, let me first go back to a question which lies a little before the question "Whereto?"—
+               <lb facs="#facs_36_tr_1_tl_4" n="N004"/>namely "Where from?" The one answer is given: loughness, chaos, etc. But this is only the actual
+               <lb facs="#facs_36_tr_1_tl_5" n="N005"/>STATE of the child. The other question is: is every individual a tabula rasa?—maning an vonpty
+               <lb facs="#facs_36_tr_1_tl_6" n="N006"/>blackboard on which education has to write something. Or is every human being gifted with
+               <lb facs="#facs_36_tr_1_tl_7" n="N007"/>potentalities which belong essentially to his being? In the first case, everything must be given
+               <lb facs="#facs_36_tr_1_tl_8" n="N008"/>to him; he must be introduced into something which is completely new, for instance the
+               <lb facs="#facs_36_tr_1_tl_9" n="N009"/>surrounding world, including the religious message in it. The other way is theòvelopment of
+               <lb facs="#facs_36_tr_1_tl_10" n="N010"/>ne pense
+               <lb facs="#facs_36_tr_1_tl_11" n="N011"/>Monsieur
+               <lb facs="#facs_36_tr_1_tl_12" n="N012"/>le reste de ses rêveaux
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

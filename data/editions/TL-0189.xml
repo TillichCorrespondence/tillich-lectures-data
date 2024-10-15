@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p189</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p189</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_189">
+         <graphic url="TL-0189.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UZZMLFCCGJPZAOZLCGBPXEUG&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="44,172 47,677 44,3469 2283,3469 2283,172" rendition="TextRegion" xml:id="facs_189_tr_2">
+            <zone points="1152,237 1175,237 1204,254 1221,249 1249,254 1261,239 1273,239 1273,183 1239,185 1219,165 1212,165 1187,185 1152,185" rendition="Line" xml:id="facs_189_tr_2_tl_1"/>
+            <zone points="318,387 2243,410 2240,368 2028,326 1972,363 1888,326 1779,363 318,348" rendition="Line" xml:id="facs_189_tr_2_tl_2"/>
+            <zone points="318,533 2248,565 2248,508 1976,493 318,511" rendition="Line" xml:id="facs_189_tr_2_tl_3"/>
+            <zone points="518,691 2265,718 2263,654 518,646" rendition="Line" xml:id="facs_189_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="311,836 2171,871 2171,812 2058,785 311,792" rendition="Line" xml:id="facs_189_tr_2_tl_5"/>
+            <zone points="308,985 2112,1022 2181,1009 2179,960 306,940" rendition="Line" xml:id="facs_189_tr_2_tl_6"/>
+            <zone points="296,1157 323,1147 580,1145 580,1086 555,1098 469,1098 456,1086 444,1098 402,1098 390,1088 380,1098 331,1098 313,1115 296,1115" rendition="Line" xml:id="facs_189_tr_2_tl_7"/>
+            <zone points="506,1226 2245,1246 2245,1177 503,1160" rendition="Line" xml:id="facs_189_tr_2_tl_8" subtype="paragraph"/>
+            <zone points="296,1365 2206,1389 2206,1337 1976,1318 296,1318" rendition="Line" xml:id="facs_189_tr_2_tl_9"/>
+            <zone points="296,1518 2280,1540 2280,1488 2142,1483 296,1485" rendition="Line" xml:id="facs_189_tr_2_tl_10"/>
+            <zone points="286,1668 2092,1695 2092,1641 1853,1624 286,1641" rendition="Line" xml:id="facs_189_tr_2_tl_11"/>
+            <zone points="491,1826 2046,1853 2046,1809 1942,1779 491,1764" rendition="Line" xml:id="facs_189_tr_2_tl_12" subtype="paragraph"/>
+            <zone points="279,1972 622,2011 683,1979 2166,2004 2166,1942 279,1925" rendition="Line" xml:id="facs_189_tr_2_tl_13"/>
+            <zone points="279,2120 2253,2149 2253,2092 1959,2078 279,2078" rendition="Line" xml:id="facs_189_tr_2_tl_14"/>
+            <zone points="271,2275 2162,2300 2162,2243 2122,2236 271,2248" rendition="Line" xml:id="facs_189_tr_2_tl_15"/>
+            <zone points="271,2418 733,2428 896,2500 2196,2445 2149,2384 271,2379" rendition="Line" xml:id="facs_189_tr_2_tl_16"/>
+            <zone points="271,2571 854,2630 1175,2583 2201,2598 2201,2537 2115,2529 271,2534" rendition="Line" xml:id="facs_189_tr_2_tl_17"/>
+            <zone points="262,2724 2203,2759 2203,2699 2139,2682 439,2670 262,2702" rendition="Line" xml:id="facs_189_tr_2_tl_18"/>
+            <zone points="262,2872 2171,2894 2171,2845 2070,2830 262,2850" rendition="Line" xml:id="facs_189_tr_2_tl_19"/>
+            <zone points="264,3033 2211,3052 2211,3000 2147,2983 2068,3015 264,2988" rendition="Line" xml:id="facs_189_tr_2_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0189.jpg" n="part1_p189.jpg" xml:id="img_0189" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p189.jpg"/>
+            
+            <ab facs="#facs_189_tr_2">
+               <lb facs="#facs_189_tr_2_tl_1" n="N001"/>[185]
+               <lb facs="#facs_189_tr_2_tl_2" n="N002"/><rs type="keyword" ref="#Metaphysics">B<rs type="keyword" ref="#Physics">ut if this is the case, then this also includes the element of metaphysical passion, which you can</rs>
+               <lb break="no" facs="#facs_189_tr_2_tl_3" n="N003"/><rs type="keyword" ref="#Physics">observe in all the great physicists beginning with <rs type="person">Newton</rs> himself, and all the following physicists.</rs></rs>
+               <lb facs="#facs_189_tr_2_tl_4" n="N004"/>So philosophy, because of its dual character of being a matter of passion and a matter of
+               <lb facs="#facs_189_tr_2_tl_5" n="N005"/>detached observation at the same time, is present, even in scientific research, in both respects,
+               <lb facs="#facs_189_tr_2_tl_6" n="N006"/>which again is an answer to the question not only "<rs type="keyword" ref="#RELIGION">religion</rs> and <rs type="keyword" ref="#Philosophy">philosoph</rs>y" but also "<rs type="keyword" ref="#RELIGION">religion</rs>
+               <lb facs="#facs_189_tr_2_tl_7" n="N007"/>and <rs type="keyword" ref="#Science">science</rs>."
+               <lb facs="#facs_189_tr_2_tl_8" n="N008"/>Now the <rs type="keyword" ref="#Historical_research">historian</rs> (we spoke about him fully and about the different levels of his work)
+               <lb facs="#facs_189_tr_2_tl_9" n="N009"/>is in the same way, consciously or unconsciously, a philosopher. And those people who want to
+               <lb facs="#facs_189_tr_2_tl_10" n="N010"/>write a history of salvation and at the same time deny philosophy, simply don’t know what they are
+               <lb facs="#facs_189_tr_2_tl_11" n="N011"/>doing---and they could be pardoned if they were primitive, but unfortunately they are not.
+               <lb facs="#facs_189_tr_2_tl_12" n="N012"/>It's quite obvious that every task of the historian, beyond the finding of facts,
+               <lb facs="#facs_189_tr_2_tl_13" n="N013"/>is dependent on valuations of historical factors. What has EFFECT [a fact?] on man as acting
+               <lb facs="#facs_189_tr_2_tl_14" n="N014"/>in history? [?] To answer such a question, you must consciously or unconsciously have a doctrine
+               <lb facs="#facs_189_tr_2_tl_15" n="N015"/>of the nature of man. <rs type="keyword" ref="#Economy">Many presentday <rs type="keyword" ref="#Historical_research">factual historians,</rs> in all realms of life---take simply the
+               <lb break="no" facs="#facs_189_tr_2_tl_16" n="N016"/>history of economics: there you HAVE presuppositions about the nature of man, and it was the
+               <lb break="no" facs="#facs_189_tr_2_tl_17" n="N017"/>false presupposition of classical economics to believe that man can ECONOMICALLY be defined
+               <lb break="no" facs="#facs_189_tr_2_tl_18" n="N018"/>as that being which follows the laws of the market, buying at the lowest possible price and selling
+               <lb break="no" facs="#facs_189_tr_2_tl_19" n="N019"/>at the highest. Actually, the psychology of man is absolutely different from this law, which is a
+               <lb break="no" facs="#facs_189_tr_2_tl_20" n="N020"/>mere abstraction and can be used for mathematical equations as they appear in economics today.</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

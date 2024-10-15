@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p156</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p156</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_156">
+         <graphic url="TL-0156.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RLJZQLGPGIFSMSIBCGFHJAHV&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="44,274 44,3485 2415,3485 2415,274" rendition="TextRegion" xml:id="facs_156_tr_1">
+            <zone points="1221,331 1241,336 1252,333 1259,341 1339,341 1339,282 1288,280 1270,267 1257,282 1221,282" rendition="Line" xml:id="facs_156_tr_1_tl_1"/>
+            <zone points="344,449 982,462 982,387 823,410 610,392 590,413 572,395 485,408 433,377 398,413 344,416" rendition="Line" xml:id="facs_156_tr_1_tl_2" subtype="heading"/>
+            <zone points="580,569 1742,572 1839,616 2273,628 2270,510 793,536 580,503" rendition="Line" xml:id="facs_156_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="349,739 700,739 816,687 2339,700 2339,644 2257,636 349,639" rendition="Line" xml:id="facs_156_tr_1_tl_4"/>
+            <zone points="346,846 862,811 993,867 1090,836 1208,867 1529,805 1706,864 2078,862 2203,818 2203,764 1929,746 346,770" rendition="Line" xml:id="facs_156_tr_1_tl_5"/>
+            <zone points="349,921 2232,954 2232,877 2096,854 349,880" rendition="Line" xml:id="facs_156_tr_1_tl_6"/>
+            <zone points="349,1041 2193,1044 2193,998 2055,982 349,993" rendition="Line" xml:id="facs_156_tr_1_tl_7"/>
+            <zone points="349,1159 2411,1165 2411,1113 349,1108" rendition="Line" xml:id="facs_156_tr_1_tl_8"/>
+            <zone points="346,1272 2242,1290 2242,1231 2055,1213 2021,1247 1854,1213 1616,1247 346,1226" rendition="Line" xml:id="facs_156_tr_1_tl_9"/>
+            <zone points="346,1390 2211,1395 2211,1349 1390,1349 1347,1313 898,1362 346,1344" rendition="Line" xml:id="facs_156_tr_1_tl_10"/>
+            <zone points="346,1506 2250,1516 2250,1459 1944,1447 346,1472" rendition="Line" xml:id="facs_156_tr_1_tl_11"/>
+            <zone points="341,1619 369,1631 433,1626 464,1634 528,1621 551,1629 621,1626 621,1575 377,1575 357,1595 341,1595" rendition="Line" xml:id="facs_156_tr_1_tl_12"/>
+            <zone points="564,1690 1960,1683 2029,1719 2257,1688 2214,1621 564,1649" rendition="Line" xml:id="facs_156_tr_1_tl_13" subtype="paragraph"/>
+            <zone points="339,1796 618,1829 2237,1813 2201,1744 339,1749" rendition="Line" xml:id="facs_156_tr_1_tl_14"/>
+            <zone points="339,1919 2262,1924 2262,1867 339,1885" rendition="Line" xml:id="facs_156_tr_1_tl_15"/>
+            <zone points="336,2029 418,2083 2285,2037 2285,1990 2229,1975 336,2006" rendition="Line" xml:id="facs_156_tr_1_tl_16"/>
+            <zone points="341,2157 1608,2157 1665,2211 1993,2178 2198,2214 2280,2155 2237,2098 341,2108" rendition="Line" xml:id="facs_156_tr_1_tl_17"/>
+            <zone points="339,2273 390,2308 970,2273 1005,2308 1583,2324 1726,2270 2255,2308 2255,2224 1962,2211 339,2226" rendition="Line" xml:id="facs_156_tr_1_tl_18"/>
+            <zone points="341,2393 2283,2391 2283,2329 341,2342" rendition="Line" xml:id="facs_156_tr_1_tl_19"/>
+            <zone points="341,2516 2275,2509 2275,2457 341,2462" rendition="Line" xml:id="facs_156_tr_1_tl_20"/>
+            <zone points="339,2650 390,2688 990,2660 1036,2624 1967,2637 2188,2624 2191,2570 341,2575" rendition="Line" xml:id="facs_156_tr_1_tl_22"/>
+            <zone points="339,2737 1141,2739 1213,2786 1531,2788 1624,2739 2214,2742 2201,2683 339,2688" rendition="Line" xml:id="facs_156_tr_1_tl_24"/>
+            <zone points="331,2855 752,2857 798,2901 1057,2914 1131,2860 2165,2860 2167,2806 2101,2793 333,2809" rendition="Line" xml:id="facs_156_tr_1_tl_25"/>
+            <zone points="336,2978 1449,2978 1449,2927 1380,2909 336,2927" rendition="Line" xml:id="facs_156_tr_1_tl_26"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0156.jpg" n="part1_p156.jpg" xml:id="img_0156" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p156.jpg"/>
+            
+            <ab facs="#facs_156_tr_1">
+               <lb facs="#facs_156_tr_1_tl_1" n="N001"/>[153]
+               <lb facs="#facs_156_tr_1_tl_2" n="N002"/>LECTURE XIV, Nov. 17, 1955
+               <lb facs="#facs_156_tr_1_tl_3" n="N003"/>We have begun the discussion of the relationship of religion and historical research and
+               <lb facs="#facs_156_tr_1_tl_4" n="N004"/><rs type="keyword" ref="#Historiography">historiography</rs>. I tried first to show three elements in the work of the historian: the statement of the
+               <lb facs="#facs_156_tr_1_tl_5" n="N005"/>factual side, the attempt to explain the causal relations, and the understanding of the meaning.
+               <lb facs="#facs_156_tr_1_tl_6" n="N006"/>I said that the nearer we come from the first to the third level, the more the method is a method
+               <lb facs="#facs_156_tr_1_tl_7" n="N007"/>of <rs type="keyword" ref="#Participation">participation</rs>. And the nearer we are to the factual, the more it is a method of detachment.
+               <lb facs="#facs_156_tr_1_tl_8" n="N008"/>History, like science, has methods of verification which are analogous with each other; the documentation
+               <lb facs="#facs_156_tr_1_tl_9" n="N009"/>in history, and the repeating experimentation in science, have an analogous character. Of course,
+               <lb facs="#facs_156_tr_1_tl_10" n="N010"/>history cannot be repeated, cannot be subjected to an experiment in THIS sense. But one can
+               <lb facs="#facs_156_tr_1_tl_11" n="N011"/>verify statements of one document by statements of an independent document which agrees with
+               <lb facs="#facs_156_tr_1_tl_12" n="N012"/>the first one.
+               <lb facs="#facs_156_tr_1_tl_13" n="N013"/>All this finally leads us to the question of the relation of historical and religious truth.
+               <lb facs="#facs_156_tr_1_tl_14" n="N014"/>Here l come to a point which is especially important for that type of religion which is intimately
+               <lb facs="#facs_156_tr_1_tl_15" n="N015"/>related to history. There are different types, one type which is very little related to history. Most
+               <lb facs="#facs_156_tr_1_tl_16" n="N016"/>of the Asiatic and the European mystical forms of religion have this character, while there are other
+               <lb facs="#facs_156_tr_1_tl_17" n="N017"/>religions which are definitively related to historical events, such as Judaism, Islam, Christianity, the
+               <lb facs="#facs_156_tr_1_tl_18" n="N018"/>religion of the old Persians, and modern progressive humanism. In the case of the history-directed
+               <lb facs="#facs_156_tr_1_tl_19" n="N019"/>religions, the question of historical truth in relation to religious truth is one of the most important
+               <lb facs="#facs_156_tr_1_tl_20" n="N020"/>and most difficult things and has moved theological thought, especially in Protestantism, ever since
+               <lb facs="#facs_156_tr_1_tl_22" n="N021"/>the method of historical research was applied to the biblical literature. This is the place where
+               <lb facs="#facs_156_tr_1_tl_24" n="N022"/>we must first of all discuss the relationship of religious truth (or truth of faith, truth in terms of
+               <lb facs="#facs_156_tr_1_tl_25" n="N023"/>ultimate concern) and historical truth (truth in the sense of understanding historical realities,
+               <lb facs="#facs_156_tr_1_tl_26" n="N024"/>their factual, their explanatory, and their meaning side).
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

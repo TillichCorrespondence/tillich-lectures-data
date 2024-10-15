@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p028</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p028</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_28">
+         <graphic url="TL-0312.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FPMUGZSHYLOSSVFKDWLDILCS&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="259,227 2194,227 2194,1054 259,1054" rendition="TextRegion" xml:id="facs_28_tr_2">
+            <zone points="1096,285 1112,285 1125,295 1218,290 1218,223 1176,225 1163,238 1145,236 1135,244 1096,244" rendition="Line" xml:id="facs_28_tr_2_tl_1"/>
+            <zone points="244,441 2143,472 2177,365 244,409" rendition="Line" xml:id="facs_28_tr_2_tl_2"/>
+            <zone points="244,601 303,645 466,648 1477,622 1477,539 244,552" rendition="Line" xml:id="facs_28_tr_2_tl_3"/>
+            <zone points="420,739 2130,751 2187,741 2187,681 420,692" rendition="Line" xml:id="facs_28_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="244,894 2037,904 2187,899 2187,837 244,850" rendition="Line" xml:id="facs_28_tr_2_tl_5"/>
+            <zone points="249,1049 1975,1044 2120,1036 2120,985 249,1000" rendition="Line" xml:id="facs_28_tr_2_tl_6"/>
+         </zone>
+         <zone points="53,1126 2316,1126 2316,3470 53,3470" rendition="TextRegion" xml:id="facs_28_tr_1">
+            <zone points="244,1210 2065,1200 2140,1135 244,1156" rendition="Line" xml:id="facs_28_tr_1_tl_1"/>
+            <zone points="238,1347 2179,1342 2179,1288 238,1301" rendition="Line" xml:id="facs_28_tr_1_tl_2"/>
+            <zone points="241,1503 2197,1500 2223,1441 241,1472" rendition="Line" xml:id="facs_28_tr_1_tl_3"/>
+            <zone points="238,1651 2260,1653 2260,1591 238,1622" rendition="Line" xml:id="facs_28_tr_1_tl_4"/>
+            <zone points="251,1806 2234,1798 2234,1741 251,1752" rendition="Line" xml:id="facs_28_tr_1_tl_5"/>
+            <zone points="238,1954 2208,1956 2208,1897 238,1910" rendition="Line" xml:id="facs_28_tr_1_tl_6"/>
+            <zone points="231,2099 2270,2102 2309,2032 231,2073" rendition="Line" xml:id="facs_28_tr_1_tl_8"/>
+            <zone points="231,2252 2143,2278 2171,2190 231,2205" rendition="Line" xml:id="facs_28_tr_1_tl_9"/>
+            <zone points="233,2415 2252,2405 2252,2345 233,2363" rendition="Line" xml:id="facs_28_tr_1_tl_10"/>
+            <zone points="233,2558 1998,2558 2257,2542 2257,2493 233,2508" rendition="Line" xml:id="facs_28_tr_1_tl_12"/>
+            <zone points="233,2703 2192,2695 2304,2690 2306,2640 233,2656" rendition="Line" xml:id="facs_28_tr_1_tl_13"/>
+            <zone points="223,2853 1293,2887 2125,2845 2125,2793 223,2830" rendition="Line" xml:id="facs_28_tr_1_tl_14"/>
+            <zone points="231,3011 1749,3021 2190,2998 2190,2946 231,2980" rendition="Line" xml:id="facs_28_tr_1_tl_15"/>
+            <zone points="231,3159 2089,3164 2267,3148 2267,3094 231,3110" rendition="Line" xml:id="facs_28_tr_1_tl_16"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0312.jpg" n="part2_p028.jpg" xml:id="img_0028" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p028.jpg"/>
+            
+            <ab facs="#facs_28_tr_2">
+               <lb facs="#facs_28_tr_2_tl_1" n="N001"/>[308]
+               <lb facs="#facs_28_tr_2_tl_2" n="N002"/>example, and I think you will like it when next week we will show you pictures and their analysis,
+               <lb facs="#facs_28_tr_2_tl_3" n="N003"/>in terms of the categories which I give you in the lecture itself.
+               <lb facs="#facs_28_tr_2_tl_4" n="N004"/>In a picture, let us say a Dutch landscape, which most of you probably know---there you
+               <lb facs="#facs_28_tr_2_tl_5" n="N005"/>have trees, beautiful old trees, you would like them if you see them in nature---roads, sand, colors,
+               <lb facs="#facs_28_tr_2_tl_6" n="N006"/>clouds, beautiful sky usually, rivers, old mills, or whatever it may be. But I mean now a GOOD
+            </ab>
+            <ab facs="#facs_28_tr_1">
+               <lb facs="#facs_28_tr_1_tl_1" n="N001"/>picture, by [Jacob van] Ruisdael [1628-1682], or some other great painter. Now what happens
+               <lb facs="#facs_28_tr_1_tl_2" n="N002"/>if you look at such a picture? Do you say this is a good, desirable place to take a walk?---or as the
+               <lb facs="#facs_28_tr_1_tl_3" n="N003"/>Americans would say, to drive in and read the New York Times? <hi style="font-style: italic;">[laughter]</hi>. Or is there something
+               <lb facs="#facs_28_tr_1_tl_4" n="N004"/>else which is happening? I think if we analyze ourselves, we immediately are clear: there is something
+               <lb facs="#facs_28_tr_1_tl_5" n="N005"/>else happening. These trees, these greens and grays and browns and blues and forms stand for a level
+               <lb facs="#facs_28_tr_1_tl_6" n="N006"/>of reality which is opened up by them, by the artistic form which the great artist has given to them,
+               <lb facs="#facs_28_tr_1_tl_8" n="N007"/>and which without them you wouldn't even find, if there were a photographically very similar landscape
+               <lb facs="#facs_28_tr_1_tl_9" n="N008"/>somewhere in the world---which is usually not so, but even if it were so. This is the element of
+               <lb facs="#facs_28_tr_1_tl_10" n="N009"/>pointing-beyond-it. The natural colors and lines which you have even in the most abstract painting,
+               <lb facs="#facs_28_tr_1_tl_12" n="N010"/>the non-representative painting, still natural colors, our values, our relation to each other, the forms in
+               <lb facs="#facs_28_tr_1_tl_13" n="N011"/>which they appear, are given to us. They point to a dimension of reality which otherwise is hidden to us
+               <lb facs="#facs_28_tr_1_tl_14" n="N012"/>and which cannot be reached in any other way than in this way. Now if this is true---and I will
+               <lb facs="#facs_28_tr_1_tl_15" n="N013"/>carry this through later on in many different respects---then we can say: in every art, the materials
+               <lb facs="#facs_28_tr_1_tl_16" n="N014"/>taken from the perceived world point beyond themselves, but they do not point to something which is
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

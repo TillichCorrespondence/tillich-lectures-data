@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p067</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p067</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_67">
+         <graphic url="TL-0351.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LTVPUXVMJLLJSHJLVTGBNCCT&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="256,317 2194,317 2194,1419 256,1419" rendition="TextRegion" xml:id="facs_67_tr_1">
+            <zone points="1108,372 1120,372 1145,392 1155,392 1165,382 1180,389 1218,389 1223,382 1238,382 1233,314 1215,314 1195,337 1185,334 1158,309 1143,327 1108,327" rendition="Line" xml:id="facs_67_tr_1_tl_1"/>
+            <zone points="257,497 2083,521 2066,467 1739,439 257,462" rendition="Line" xml:id="facs_67_tr_1_tl_2"/>
+            <zone points="259,641 2073,676 2073,619 1679,591 259,619" rendition="Line" xml:id="facs_67_tr_1_tl_3"/>
+            <zone points="257,801 2176,846 2176,736 257,771" rendition="Line" xml:id="facs_67_tr_1_tl_4"/>
+            <zone points="264,948 2186,981 2186,916 264,901" rendition="Line" xml:id="facs_67_tr_1_tl_5"/>
+            <zone points="257,1103 2191,1120 2188,1065 257,1050" rendition="Line" xml:id="facs_67_tr_1_tl_6"/>
+            <zone points="252,1257 2186,1272 2186,1215 252,1208" rendition="Line" xml:id="facs_67_tr_1_tl_7"/>
+            <zone points="242,1402 1250,1422 1213,1360 284,1355 242,1377" rendition="Line" xml:id="facs_67_tr_1_tl_8"/>
+         </zone>
+         <zone points="238,1511 2215,1511 2215,2332 238,2332" rendition="TextRegion" xml:id="facs_67_tr_3">
+            <zone points="245,1572 2176,1579 2176,1514 245,1504" rendition="Line" xml:id="facs_67_tr_3_tl_1" subtype="paragraph"/>
+            <zone points="237,1714 2096,1729 2096,1672 237,1667" rendition="Line" xml:id="facs_67_tr_3_tl_2"/>
+            <zone points="237,1866 2098,1881 2098,1824 237,1836" rendition="Line" xml:id="facs_67_tr_3_tl_3"/>
+            <zone points="237,2011 2056,2038 2136,2031 2136,1956 237,1986" rendition="Line" xml:id="facs_67_tr_3_tl_4"/>
+            <zone points="230,2161 2163,2183 2163,2126 230,2133" rendition="Line" xml:id="facs_67_tr_3_tl_5"/>
+            <zone points="225,2313 2208,2333 2208,2275 225,2283" rendition="Line" xml:id="facs_67_tr_3_tl_6"/>
+         </zone>
+         <zone points="132,2413 2239,2413 2239,3468 132,3468" rendition="TextRegion" xml:id="facs_67_tr_2">
+            <zone points="227,2470 2133,2490 2133,2433 2033,2423 227,2428" rendition="Line" xml:id="facs_67_tr_2_tl_1"/>
+            <zone points="227,2627 2086,2637 2086,2577 227,2575" rendition="Line" xml:id="facs_67_tr_2_tl_2"/>
+            <zone points="230,2789 2236,2749 227,2725" rendition="Line" xml:id="facs_67_tr_2_tl_3"/>
+            <zone points="222,2922 2116,2944 2113,2879 220,2894" rendition="Line" xml:id="facs_67_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="212,3076 2036,3091 2036,3036 212,3051" rendition="Line" xml:id="facs_67_tr_2_tl_5"/>
+            <zone points="215,3226 2116,3236 2116,3179 215,3179" rendition="Line" xml:id="facs_67_tr_2_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0351.jpg" n="part2_p067.jpg" xml:id="img_0067" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p067.jpg"/>
+            
+            <ab facs="#facs_67_tr_1">
+               <lb facs="#facs_67_tr_1_tl_1" n="N001"/>[346]
+               <lb facs="#facs_67_tr_1_tl_2" n="N002"/>2) Kadinsky: <hi style="font-style: italic;">COMPOSITION</hi>--I can tell you of myself that long ago, in Wester Germany
+               <lb facs="#facs_67_tr_1_tl_3" n="N003"/>where Kandinsky often was, I was sitting in a house which has an original by Kandinsky,
+               <lb facs="#facs_67_tr_1_tl_4" n="N004"/>and first I had a feeling, ''Now what can I do with this?''(--this should be in colors, by the way--)
+               <lb facs="#facs_67_tr_1_tl_5" n="N005"/>but slowly something happened to me when I was sitting there, again and again, and looking at it,
+               <lb facs="#facs_67_tr_1_tl_6" n="N006"/>the same which I said before, namely that out of the possibilities of nature, human mind discovers
+               <lb facs="#facs_67_tr_1_tl_7" n="N007"/>elements which as such do not appear, but which give you a new feeling for cosmic reality, for the
+               <lb facs="#facs_67_tr_1_tl_8" n="N008"/>reality of the universe in terms of lines and colors.
+            </ab>
+            <ab facs="#facs_67_tr_3">
+               <lb facs="#facs_67_tr_3_tl_1" n="N001"/>3) <hi style="font-style: italic;">BREAKFAST</hi>--Leger--Leger has a very interesting character and has become more and more
+               <lb facs="#facs_67_tr_3_tl_2" n="N002"/>known and important in modern art. What he actually has done is that he takes the cubes and
+               <lb facs="#facs_67_tr_3_tl_3" n="N003"/>other instruments of modern industrial machine production and uses them as the fundamental
+               <lb facs="#facs_67_tr_3_tl_4" n="N004"/>elements in order to indicate not only inorganic nature but also human beings and other organic
+               <lb facs="#facs_67_tr_3_tl_5" n="N005"/>nature. In this way a kind of uncanny feeling of man constructed out of elements of the machine
+               <lb facs="#facs_67_tr_3_tl_6" n="N006"/>comes into the picture, and I will come back to this when, from Thursday on, I will use this modern
+            </ab>
+            <ab facs="#facs_67_tr_2">
+               <lb facs="#facs_67_tr_2_tl_1" n="N001"/>art to introduce you to my analysis of our genuine situation with respect to religion and culture,
+               <lb facs="#facs_67_tr_2_tl_2" n="N002"/>without dealing then with a very special subject, just because art, on the basis of its expressive
+               <lb facs="#facs_67_tr_2_tl_3" n="N003"/>power, can show us more, perhaps, than external, sociological or historical description are able to do.
+               <lb facs="#facs_67_tr_2_tl_4" n="N004"/>4) Picasso, <hi style="font-style: italic;">GUERNICA</hi>--Here we come to a picture which from the beginning was extremely
+               <lb facs="#facs_67_tr_2_tl_5" n="N005"/>controversial and which has now become almost a classic. It is Picasso's <hi style="font-style: italic;">Guernica</hi>, this little
+               <lb facs="#facs_67_tr_2_tl_6" n="N006"/>village in northern Spain which was bombed by the Fascist countries before the beginning of the
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p230</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p230</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_230">
+         <graphic url="TL-0230.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ISMIZWUSRVJXCNTUKPBNZGNP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="234,231 234,3503 2349,3503 2349,231" rendition="TextRegion" xml:id="facs_230_tr_2">
+            <zone points="1118,308 1131,308 1141,318 1209,321 1232,315 1232,245 1219,245 1196,268 1176,247 1163,250 1141,270 1118,270" rendition="Line" xml:id="facs_230_tr_2_tl_1"/>
+            <zone points="341,459 2168,477 2168,419 1918,396 1855,427 1615,424 1577,386 1527,424 1269,427 1232,389 1103,427 934,389 886,424 341,419" rendition="Line" xml:id="facs_230_tr_2_tl_2"/>
+            <zone points="343,621 2125,623 2125,565 343,570" rendition="Line" xml:id="facs_230_tr_2_tl_3"/>
+            <zone points="341,755 1264,772 1264,717 1219,709 341,712" rendition="Line" xml:id="facs_230_tr_2_tl_4"/>
+            <zone points="507,904 2178,926 2178,871 2112,858 507,878" rendition="Line" xml:id="facs_230_tr_2_tl_5" subtype="paragraph"/>
+            <zone points="336,1060 2213,1073 2213,1022 1996,1002 336,1015" rendition="Line" xml:id="facs_230_tr_2_tl_6"/>
+            <zone points="333,1211 2160,1221 2160,1168 2034,1153 1224,1189 333,1163" rendition="Line" xml:id="facs_230_tr_2_tl_7"/>
+            <zone points="326,1355 2133,1373 2133,1322 1860,1305 326,1333" rendition="Line" xml:id="facs_230_tr_2_tl_8"/>
+            <zone points="326,1512 2115,1534 2115,1474 2062,1464 326,1469" rendition="Line" xml:id="facs_230_tr_2_tl_9"/>
+            <zone points="343,1661 2107,1676 2107,1623 343,1615" rendition="Line" xml:id="facs_230_tr_2_tl_10"/>
+            <zone points="328,1815 1668,1825 1640,1767 328,1787" rendition="Line" xml:id="facs_230_tr_2_tl_11"/>
+            <zone points="502,1966 2082,1981 2082,1921 502,1918" rendition="Line" xml:id="facs_230_tr_2_tl_12" subtype="paragraph"/>
+            <zone points="321,2130 2188,2135 2188,2075 1928,2054 1638,2054 1592,2092 1171,2054 321,2075" rendition="Line" xml:id="facs_230_tr_2_tl_13"/>
+            <zone points="323,2307 1562,2337 1757,2276 2208,2319 2208,2231 2087,2211 323,2226" rendition="Line" xml:id="facs_230_tr_2_tl_14"/>
+            <zone points="318,2483 568,2468 626,2420 2196,2430 2196,2380 1890,2367 318,2380" rendition="Line" xml:id="facs_230_tr_2_tl_15"/>
+            <zone points="313,2567 2120,2584 2120,2529 1910,2516 313,2539" rendition="Line" xml:id="facs_230_tr_2_tl_16"/>
+            <zone points="321,2733 1259,2771 1378,2726 2342,2741 2340,2678 318,2675" rendition="Line" xml:id="facs_230_tr_2_tl_17"/>
+            <zone points="308,2864 1623,2877 1623,2809 308,2822" rendition="Line" xml:id="facs_230_tr_2_tl_18"/>
+            <zone points="500,3046 2143,3076 2143,2976 500,2970" rendition="Line" xml:id="facs_230_tr_2_tl_19" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0230.jpg" n="part1_p230.jpg" xml:id="img_0230" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p230.jpg"/>
+            
+            <ab facs="#facs_230_tr_2">
+               <lb facs="#facs_230_tr_2_tl_1" n="N001"/>[226]
+               <lb facs="#facs_230_tr_2_tl_2" n="N002"/>world of discourse in the religious arena and its expressions. This is the first and fundamental
+               <lb facs="#facs_230_tr_2_tl_3" n="N003"/>statement, and it corresponds to the statements we made about history, about sciences, and
+               <lb facs="#facs_230_tr_2_tl_4" n="N004"/>will make about the doctrine of man generally.
+               <lb facs="#facs_230_tr_2_tl_5" n="N005"/>But after this has been said and emphasized, the other side also must be seen and was
+               <lb facs="#facs_230_tr_2_tl_6" n="N006"/>described, namely that there is no pure philosopher and that his existential concern directs what
+               <lb facs="#facs_230_tr_2_tl_7" n="N007"/>he is asking and what his eyes are able to see, and also what he is not asking and what his eyes
+               <lb facs="#facs_230_tr_2_tl_8" n="N008"/>are unable to see. In this sense there is no direct interference of religion or ultimate concern
+               <lb facs="#facs_230_tr_2_tl_9" n="N009"/>in the processes of philosophical discussion, but there is the unity of the human personality
+               <lb facs="#facs_230_tr_2_tl_10" n="N010"/>THROUGH WHOM elements of ultimate concern direct questions and answers---not from
+               <lb facs="#facs_230_tr_2_tl_11" n="N011"/>outside but from the inner development of the philosopher himself.
+               <lb facs="#facs_230_tr_2_tl_12" n="N012"/>On the other hand, the theologian, if he uses the <hi style="font-style: italic;">logos</hi>, however he tries to avoid
+               <lb facs="#facs_230_tr_2_tl_13" n="N013"/>philosophical <rs type="keyword" ref="#Concept">concepts, </rs>he can do even this only by using them. All the attacks by theologians
+               <lb facs="#facs_230_tr_2_tl_14" n="N014"/>against philosophy are made with the help of philosophical concepts which then are used against
+               <lb facs="#facs_230_tr_2_tl_15" n="N015"/>philosophy. These inner contradictions show that the theologian, since he uses human <language>language</language>
+               <lb facs="#facs_230_tr_2_tl_16" n="N016"/>and since human language is formed by all kinds of man's self-expression---amongst them by
+               <lb facs="#facs_230_tr_2_tl_17" n="N017"/>philosophy---he cannot escape philosophy at all. And he shouldn't even want to because, as theologian,
+               <lb facs="#facs_230_tr_2_tl_18" n="N018"/>he has to do with the <hi style="font-style: italic;">logos</hi> of that in which <hi style="font-style: italic;">theos</hi> reveals Himself.
+               <lb facs="#facs_230_tr_2_tl_19" n="N019"/>This was the general attitude which liberates us from the problem of direct conflicts
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

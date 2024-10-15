@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p204</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p204</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_204">
+         <graphic url="TL-0204.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FTXWAKXQDIKYTHBEWGFFZJBV&amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="32,227 32,3492 2382,3492 2382,227" rendition="TextRegion" xml:id="facs_204_tr_1">
+            <zone points="1272,285 1290,285 1309,295 1350,295 1355,301 1379,293 1386,285 1399,285 1399,233 1368,231 1350,241 1337,238 1322,225 1309,238 1272,238" rendition="Line" xml:id="facs_204_tr_1_tl_1"/>
+            <zone points="363,446 710,417 2270,474 2267,422 358,337" rendition="Line" xml:id="facs_204_tr_1_tl_2"/>
+            <zone points="337,547 1277,622 1379,588 2298,635 2296,578 2006,552 1832,578 1428,526 1347,573 1156,526 384,485 337,516" rendition="Line" xml:id="facs_204_tr_1_tl_3"/>
+            <zone points="334,700 2335,790 2332,746 2112,684 2011,736 744,650 513,676 420,637 332,669" rendition="Line" xml:id="facs_204_tr_1_tl_4"/>
+            <zone points="334,860 2192,935 2265,928 2265,891 2102,832 1949,884 332,788" rendition="Line" xml:id="facs_204_tr_1_tl_5"/>
+            <zone points="472,1031 1296,1094 1428,1049 2324,1094 2322,1024 469,972" rendition="Line" xml:id="facs_204_tr_1_tl_7"/>
+            <zone points="314,1151 2262,1239 2260,1166 2161,1195 2052,1158 314,1119" rendition="Line" xml:id="facs_204_tr_1_tl_8"/>
+            <zone points="303,1301 2241,1397 2309,1386 2306,1322 552,1283 376,1241 301,1270" rendition="Line" xml:id="facs_204_tr_1_tl_9"/>
+            <zone points="298,1456 2221,1539 2218,1477 2102,1464 298,1423" rendition="Line" xml:id="facs_204_tr_1_tl_10"/>
+            <zone points="298,1607 2262,1702 2376,1692 2376,1640 295,1573" rendition="Line" xml:id="facs_204_tr_1_tl_11"/>
+            <zone points="288,1765 2260,1845 2317,1840 2314,1775 1399,1770 334,1697 285,1728" rendition="Line" xml:id="facs_204_tr_1_tl_12"/>
+            <zone points="282,1910 1368,1969 1498,1962 1500,1897 280,1876" rendition="Line" xml:id="facs_204_tr_1_tl_13"/>
+            <zone points="474,2076 2140,2140 2156,2060 1941,2089 1664,2042 1625,2076 1446,2034 1290,2065 1241,2026 1083,2057 1024,2019 992,2055 910,2013 871,2047 529,2006 472,2037" rendition="Line" xml:id="facs_204_tr_1_tl_14" subtype="paragraph"/>
+            <zone points="269,2216 1612,2260 1775,2309 2190,2283 2187,2244 2032,2208 1609,2228 1550,2190 938,2203 878,2166 580,2187 267,2146" rendition="Line" xml:id="facs_204_tr_1_tl_15"/>
+            <zone points="254,2358 2239,2438 2171,2371 254,2324" rendition="Line" xml:id="facs_204_tr_1_tl_16"/>
+            <zone points="251,2516 2322,2602 2270,2521 2076,2547 2034,2511 1840,2537 1656,2501 1627,2532 1262,2485 1202,2516 1119,2477 739,2495 583,2454 534,2490 298,2444 251,2477" rendition="Line" xml:id="facs_204_tr_1_tl_17"/>
+            <zone points="238,2659 2114,2749 2239,2736 2236,2672 236,2625" rendition="Line" xml:id="facs_204_tr_1_tl_18"/>
+            <zone points="241,2819 1936,2894 2112,2884 2109,2817 238,2765" rendition="Line" xml:id="facs_204_tr_1_tl_19"/>
+            <zone points="220,2959 303,2980 674,2990 671,2928 257,2915 220,2933" rendition="Line" xml:id="facs_204_tr_1_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0204.jpg" n="part1_p204.jpg" xml:id="img_0204" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p204.jpg"/>
+            
+            <ab facs="#facs_204_tr_1">
+               <lb facs="#facs_204_tr_1_tl_1" n="N001"/>[200]
+               <lb facs="#facs_204_tr_1_tl_2" n="N002"/>"biblicistic," although they are nothing but the heirs of Medieval <rs type="keyword" ref="#Nominalism">nominalism</rs>, in their arguments---
+               <lb facs="#facs_204_tr_1_tl_3" n="N003"/>I have been accused of using the term being in a way which contradicts the personalistic character of
+               <lb facs="#facs_204_tr_1_tl_4" n="N004"/>religion, and especially of <rs type="keyword" ref="#Bible">biblical religion</rs>. Now to this I want to answer---and I think ALL <rs type="keyword" ref="#Ontology">ontologists</rs>
+               <lb facs="#facs_204_tr_1_tl_5" n="N005"/>in theology, from the earliest periods up to present theology, and give the same answer in essence---
+               <lb facs="#facs_204_tr_1_tl_7" n="N006"/>namely that being is not a hypostasized <rs type="keyword" ref="#Universal_category">universal </rs>which is, so to speak put beside reality as ANOTHER
+               <lb facs="#facs_204_tr_1_tl_8" n="N007"/>reality, but is the experience of a quality in all realities and through all reality, namely of the <rs type="keyword" ref="#Power_of_Being">power
+               <lb break="no" facs="#facs_204_tr_1_tl_9" n="N008"/>of being over against nonbeing.</rs> And this is a matter of <ultimate_concern>ultimate concern</ultimate_concern> because every human being is
+               <lb facs="#facs_204_tr_1_tl_10" n="N009"/>in every moment threatened by innumerable forms of nonbeing, of destruction of the <rs type="keyword" ref="#Structure_of_Being">structure of
+               <lb break="no" facs="#facs_204_tr_1_tl_11" n="N010"/>being.</rs> Therefore <rs type="keyword" ref="#Ontology">ontology</rs> is on the ONE hand a philosophical decision, to be defended with philosophical
+               <lb facs="#facs_204_tr_1_tl_12" n="N011"/>arguments on the basis of the meaning of <rs type="keyword" ref="#Universal_category">universals; i</rs>t is on the OTHER hand an expression of <ultimate_concern>ultimate
+               <lb break="no" facs="#facs_204_tr_1_tl_13" n="N012"/>concern </ultimate_concern>about one's participation in <rs type="keyword" ref="#Power_of_Being">the power of being itself.</rs>
+               <lb facs="#facs_204_tr_1_tl_14" n="N013"/>And then the opposition. The opposition comes from a special power of being which
+               <lb facs="#facs_204_tr_1_tl_15" n="N014"/>in some way transcends all others, namely the <rs type="keyword" ref="#Power_of_Being">power of being which we call "personal."</rs> Here the
+               <lb facs="#facs_204_tr_1_tl_16" n="N015"/><rs type="keyword" ref="#Nominalism">nominalist</rs> argument receives its religious dimension, namely that the bearer of <ultimate_concern>ultimate concern</ultimate_concern> can
+               <lb facs="#facs_204_tr_1_tl_17" n="N016"/>only be he in whom the ultimate itself becomes conscious---and this is the person. Therefore a philosophy
+               <lb facs="#facs_204_tr_1_tl_18" n="N017"/>in which the person is swallowed by being, is a philosophy which is not only a matter of philosophical
+               <lb facs="#facs_204_tr_1_tl_19" n="N018"/>arguments but which is a matter of <ultimate_concern>ultimate concern</ultimate_concern> about the dignity and ultimate significance
+               <lb facs="#facs_204_tr_1_tl_20" n="N019"/>of personal existence.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p246</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p246</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_246">
+         <graphic url="TL-0246.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KRVYXNGRGVKVNYZIOSBDZWPK&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="47,246 47,3489 2298,3489 2298,246" rendition="TextRegion" xml:id="facs_246_tr_1">
+            <zone points="1160,318 1178,318 1186,326 1276,326 1276,246 1247,244 1223,265 1160,265" rendition="Line" xml:id="facs_246_tr_1_tl_1"/>
+            <zone points="342,469 2134,479 2134,429 1906,410 342,421" rendition="Line" xml:id="facs_246_tr_1_tl_2"/>
+            <zone points="331,625 2118,635 2118,572 331,590" rendition="Line" xml:id="facs_246_tr_1_tl_3"/>
+            <zone points="347,762 1972,786 1972,725 347,712" rendition="Line" xml:id="facs_246_tr_1_tl_4"/>
+            <zone points="535,927 2057,943 2057,879 535,874" rendition="Line" xml:id="facs_246_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="328,1078 2020,1091 2020,1030 328,1046" rendition="Line" xml:id="facs_246_tr_1_tl_6"/>
+            <zone points="326,1228 2144,1244 2144,1186 326,1178" rendition="Line" xml:id="facs_246_tr_1_tl_7"/>
+            <zone points="323,1379 2118,1414 2121,1340 320,1332" rendition="Line" xml:id="facs_246_tr_1_tl_8"/>
+            <zone points="320,1530 2068,1549 2068,1488 320,1501" rendition="Line" xml:id="facs_246_tr_1_tl_9"/>
+            <zone points="328,1689 342,1689 347,1694 392,1694 400,1689 405,1694 445,1692 445,1634 328,1631" rendition="Line" xml:id="facs_246_tr_1_tl_10"/>
+            <zone points="524,1766 1663,1774 1663,1708 1610,1705 524,1713" rendition="Line" xml:id="facs_246_tr_1_tl_11" subtype="paragraph"/>
+            <zone points="312,1906 2166,1933 2166,1869 312,1880" rendition="Line" xml:id="facs_246_tr_1_tl_13"/>
+            <zone points="323,2068 469,2065 492,2086 519,2070 577,2073 577,2009 548,2009 532,2020 506,2020 495,2009 323,2009" rendition="Line" xml:id="facs_246_tr_1_tl_14"/>
+            <zone points="514,2216 2200,2240 2160,2166 1784,2182 1731,2147 1697,2179 514,2179" rendition="Line" xml:id="facs_246_tr_1_tl_15" subtype="paragraph"/>
+            <zone points="318,2372 1443,2380 1443,2322 318,2314" rendition="Line" xml:id="facs_246_tr_1_tl_16"/>
+            <zone points="514,2528 2285,2550 2285,2470 514,2465" rendition="Line" xml:id="facs_246_tr_1_tl_17" subtype="paragraph"/>
+            <zone points="323,2679 2137,2693 2137,2632 2086,2626 323,2626" rendition="Line" xml:id="facs_246_tr_1_tl_18"/>
+            <zone points="45,2857 2168,2859 2168,2780 2076,2777 1189,2801 349,2775 244,2735 45,2798" rendition="Line" xml:id="facs_246_tr_1_tl_19"/>
+            <zone points="307,3005 384,3045 982,3026 1456,3074 1520,3031 1848,3042 1901,2989 2078,2989 2078,2925 1446,2944 1236,2880 1154,2928 307,2947" rendition="Line" xml:id="facs_246_tr_1_tl_20"/>
+            <zone points="304,3135 2110,3143 2110,3087 1935,3079 304,3087" rendition="Line" xml:id="facs_246_tr_1_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0246.jpg" n="part1_p246.jpg" xml:id="img_0246" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p246.jpg"/>
+            
+            <ab facs="#facs_246_tr_1">
+               <lb facs="#facs_246_tr_1_tl_1" n="N001"/>[242]
+               <lb facs="#facs_246_tr_1_tl_2" n="N002"/>each other in all history, which come to a turning point with the appearance of <rs type="person">Zoroaster</rs> as
+               <lb facs="#facs_246_tr_1_tl_3" n="N003"/>prophet, and which comes to an end, a final catastrophe, in the burning of the world by the
+               <lb facs="#facs_246_tr_1_tl_4" n="N004"/>"man from above," which is the pattern of the Son of Man in the biblical literature.
+               <lb facs="#facs_246_tr_1_tl_5" n="N005"/>Then [in] the Jewish interpretation of history, in the Old Testament, we have
+               <lb facs="#facs_246_tr_1_tl_6" n="N006"/>the same dramatic conflict, dramatized even in conscious poetic forms, in later Jewish
+               <lb facs="#facs_246_tr_1_tl_7" n="N007"/>apocalyptics, where the powers of good and evil develop stronger and stronger, and the "man
+               <lb facs="#facs_246_tr_1_tl_8" n="N008"/>from above," the Messiah, the Son of Man, will transform the given reality in a final victory
+               <lb facs="#facs_246_tr_1_tl_9" n="N009"/>over the evil pwoers [sic.], and the whole world will come to the Mount Zion to adore the true
+               <lb facs="#facs_246_tr_1_tl_10" n="N010"/>God.
+               <lb facs="#facs_246_tr_1_tl_11" n="N011"/>And we have the drama in the interpretation of history in Christianity, the
+               <lb facs="#facs_246_tr_1_tl_13" n="N012"/>drama of fall and salvation, salvation in the center of history, and again going toward the final
+               <lb facs="#facs_246_tr_1_tl_14" n="N013"/>catastrophe.
+               <lb facs="#facs_246_tr_1_tl_15" n="N014"/>Now these dramatic motifs are present in all interpretation of history and are logically
+               <lb facs="#facs_246_tr_1_tl_16" n="N015"/>transformed in the <rs type="keyword" ref="#Dialectical">dialectical method </rs>applied to <rs type="keyword" ref="#History">history.</rs>
+               <lb facs="#facs_246_tr_1_tl_17" n="N016"/>I want to return to the more poetic-dramatic form, namely man losing himself and finding
+               <lb facs="#facs_246_tr_1_tl_18" n="N017"/>himself again, which is repeated more than once in Western history. Let me describe it fully.
+               <lb facs="#facs_246_tr_1_tl_19" n="N018"/>Man is that being which is DEFINED by the possibility of asking the question of himself. Man
+               <lb facs="#facs_246_tr_1_tl_20" n="N019"/>asks "What am I? and what is the world which l encounter in relation to me?" This is the
+               <lb facs="#facs_246_tr_1_tl_21" n="N020"/>question of children, this is the question of the primitive mythologically creative mind.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

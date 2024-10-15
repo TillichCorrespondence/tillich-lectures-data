@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p087</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p087</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_87">
+         <graphic url="TL-0087.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MEUUHJYLQCLZZVAODAUWTAGZ&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="271,247 271,3089 2346,3089 2346,247" rendition="TextRegion" xml:id="facs_87_tr_2">
+            <zone points="1097,302 1119,302 1127,310 1147,310 1159,300 1169,310 1189,310 1191,240 1151,248 1144,238 1119,260 1097,260" rendition="Line" xml:id="facs_87_tr_2_tl_1"/>
+            <zone points="300,466 2080,478 2053,418 498,426 438,386 300,421" rendition="Line" xml:id="facs_87_tr_2_tl_2"/>
+            <zone points="300,552 2068,567 2068,513 1899,498 300,508" rendition="Line" xml:id="facs_87_tr_2_tl_3"/>
+            <zone points="302,631 2115,641 2115,594 2043,587 302,584" rendition="Line" xml:id="facs_87_tr_2_tl_4"/>
+            <zone points="297,730 2122,723 2122,676 1988,666 297,674" rendition="Line" xml:id="facs_87_tr_2_tl_5"/>
+            <zone points="300,812 2179,812 2179,763 2075,745 1738,778 300,758" rendition="Line" xml:id="facs_87_tr_2_tl_6"/>
+            <zone points="300,889 2048,891 2001,837 300,842" rendition="Line" xml:id="facs_87_tr_2_tl_7"/>
+            <zone points="292,968 2090,990 2090,934 1877,916 292,926" rendition="Line" xml:id="facs_87_tr_2_tl_8"/>
+            <zone points="292,1060 327,1062 357,1045 376,1062 441,1057 453,1070 498,1057 550,1070 594,1065 594,1010 510,1010 500,1000 490,1010 359,1008 347,995 292,1025" rendition="Line" xml:id="facs_87_tr_2_tl_9"/>
+            <zone points="587,1139 2343,1147 2343,1080 1974,1109 1909,1077 1104,1104 587,1070" rendition="Line" xml:id="facs_87_tr_2_tl_10" subtype="paragraph"/>
+            <zone points="285,1216 1719,1228 1719,1179 1642,1164 285,1189" rendition="Line" xml:id="facs_87_tr_2_tl_11"/>
+            <zone points="584,1303 745,1350 2248,1347 2248,1251 775,1280 584,1241" rendition="Line" xml:id="facs_87_tr_2_tl_12" subtype="paragraph"/>
+            <zone points="277,1402 324,1434 1018,1436 1233,1387 1728,1434 2157,1411 2157,1355 2068,1347 277,1357" rendition="Line" xml:id="facs_87_tr_2_tl_13"/>
+            <zone points="285,1493 2219,1493 2219,1441 2110,1426 285,1429" rendition="Line" xml:id="facs_87_tr_2_tl_14"/>
+            <zone points="287,1560 2229,1572 2229,1515 287,1528" rendition="Line" xml:id="facs_87_tr_2_tl_15"/>
+            <zone points="277,1642 2182,1654 2182,1607 1956,1592 277,1612" rendition="Line" xml:id="facs_87_tr_2_tl_16"/>
+            <zone points="272,1726 2263,1778 2263,1691 2221,1681 272,1684" rendition="Line" xml:id="facs_87_tr_2_tl_17"/>
+            <zone points="272,1805 359,1860 1075,1860 1124,1818 1322,1810 2152,1860 2152,1775 2055,1766 272,1771" rendition="Line" xml:id="facs_87_tr_2_tl_18"/>
+            <zone points="272,1892 349,1941 993,1936 993,1850 753,1870 691,1847 560,1870 495,1845 272,1852" rendition="Line" xml:id="facs_87_tr_2_tl_19"/>
+            <zone points="570,1983 2154,1986 2154,1934 570,1941" rendition="Line" xml:id="facs_87_tr_2_tl_20" subtype="paragraph"/>
+            <zone points="267,2065 2085,2085 2085,2021 1793,2008 267,2013" rendition="Line" xml:id="facs_87_tr_2_tl_21"/>
+            <zone points="267,2142 2229,2154 2229,2107 2164,2097 267,2097" rendition="Line" xml:id="facs_87_tr_2_tl_22"/>
+            <zone points="275,2231 622,2229 669,2276 1013,2278 1149,2276 1238,2236 1238,2194 1203,2184 1149,2209 1052,2179 963,2209 891,2179 275,2196" rendition="Line" xml:id="facs_87_tr_2_tl_23"/>
+            <zone points="562,2392 1300,2390 1416,2437 2003,2407 2003,2347 562,2340" rendition="Line" xml:id="facs_87_tr_2_tl_24" subtype="paragraph"/>
+            <zone points="260,2481 993,2531 1189,2481 1979,2494 1979,2439 1392,2424 260,2451" rendition="Line" xml:id="facs_87_tr_2_tl_25"/>
+            <zone points="267,2573 2196,2573 2196,2526 2102,2511 267,2526" rendition="Line" xml:id="facs_87_tr_2_tl_26"/>
+            <zone points="262,2652 2092,2662 2092,2612 2006,2600 262,2612" rendition="Line" xml:id="facs_87_tr_2_tl_27"/>
+            <zone points="262,2739 2068,2739 2068,2694 2018,2684 262,2682" rendition="Line" xml:id="facs_87_tr_2_tl_28"/>
+            <zone points="258,2823 2149,2828 2149,2776 2060,2771 258,2773" rendition="Line" xml:id="facs_87_tr_2_tl_29"/>
+            <zone points="260,2907 2221,2912 2221,2850 260,2860" rendition="Line" xml:id="facs_87_tr_2_tl_30"/>
+            <zone points="262,2996 2194,3006 2169,2934 262,2944" rendition="Line" xml:id="facs_87_tr_2_tl_31"/>
+            <zone points="260,3063 1674,3078 1674,3031 1387,3016 260,3041" rendition="Line" xml:id="facs_87_tr_2_tl_32"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0087.jpg" n="part1_p087.jpg" xml:id="img_0087" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p087.jpg"/>
+            
+            <ab facs="#facs_87_tr_2">
+               <lb facs="#facs_87_tr_2_tl_1" n="N001"/>[84]
+               <lb facs="#facs_87_tr_2_tl_2" n="N002"/><progress>the Bible and many words which are reported to be said by Jesus--whether this is
+               <lb break="no" facs="#facs_87_tr_2_tl_3" n="N003"/>empirically so or not, does not matter: they are seen as His words, by the early
+               <lb break="no" facs="#facs_87_tr_2_tl_4" n="N004"/>Christians, namely words which show that that which the early church expected is a
+               <lb break="no" facs="#facs_87_tr_2_tl_5" n="N005"/>progress in two directions: more insight, more power of the divine Spirit; and more
+               <lb break="no" facs="#facs_87_tr_2_tl_6" n="N006"/>power of the demonic Spirit [spirit?] equally. Both are growing: the divine AND the
+               <lb break="no" facs="#facs_87_tr_2_tl_7" n="N007"/>demonic! And there is no progress to a point in which the divine conquers the
+               <lb break="no" facs="#facs_87_tr_2_tl_8" n="N008"/>demonic, the end is not in the line of progress, but is the end ALSO OF progress,
+               <lb break="no" facs="#facs_87_tr_2_tl_9" n="N009"/>of everything.
+               <lb break="no" facs="#facs_87_tr_2_tl_10" n="N010"/>Now this is the Christian worldview, and one shouldn’t use that as a justification
+               <lb break="no" facs="#facs_87_tr_2_tl_11" n="N011"/>of the idea of progress. So let me sum up this whole discussion:
+               <lb break="no" facs="#facs_87_tr_2_tl_12" n="N012"/>There is a genuine realm in which the idea of progress is absolutely justified,
+               <lb break="no" facs="#facs_87_tr_2_tl_13" n="N013"/>namely progress in the technical realm. And there is, secondly, a progressive experience
+               <lb break="no" facs="#facs_87_tr_2_tl_14" n="N014"/>in every human action, but there is no law of continuous progress through human history
+               <lb break="no" facs="#facs_87_tr_2_tl_15" n="N015"/>--perhaps an analogy to the progress in the biological nature--because man is not biological
+               <lb break="no" facs="#facs_87_tr_2_tl_16" n="N016"/>nature, and he doesn't develop biologically into the state of super-man. <rs type="keyword" ref="#Freedom">But he starts a</rs>
+               <lb break="no" facs="#facs_87_tr_2_tl_17" n="N017"/><progress>NEW development, and this new development is determined by freedom, and freedom is the</progress>
+               <lb break="no" facs="#facs_87_tr_2_tl_18" n="N018"/><progress>absolute limit of the idea of progress, except in the technical realm, where there is no</progress>
+               <lb break="no" facs="#facs_87_tr_2_tl_19" n="N019"/><progress>freedom but complete rationality.</progress>
+               <lb break="no" facs="#facs_87_tr_2_tl_20" n="N020"/>Now I stop this and give it to you for thinking about it. We may come
+               <lb break="no" facs="#facs_87_tr_2_tl_21" n="N021"/>to it again and again. But this gives another view of the world, and there are many
+               <lb break="no" facs="#facs_87_tr_2_tl_22" n="N022"/>implications in it which I don't want to develop now, which HAVE to be developed when
+               <lb break="no" facs="#facs_87_tr_2_tl_23" n="N023"/>we deal directly with education, politics, etc.
+               <lb break="no" facs="#facs_87_tr_2_tl_24" n="N024"/>==<technology>There are two forms of tools: the dependent tool used by the</technology>
+               <lb break="no" facs="#facs_87_tr_2_tl_25" n="N025"/><technology>craftsman, and the independent tool which we call ''machine.'' The first is vital</technology>
+               <lb break="no" facs="#facs_87_tr_2_tl_26" n="N026"/><technology>and participates in the movements of the body. Everybody who knows Medieval furniture</technology>
+               <lb break="no" facs="#facs_87_tr_2_tl_27" n="N027"/><technology>or Medieval cathedrals or houses knows that. Everything is done not by the machine</technology>
+               <lb break="no" facs="#facs_87_tr_2_tl_28" n="N028"/><technology>but by the human hand with a tool. Of course a tool--but [?] innovations of the</technology>
+               <lb break="no" facs="#facs_87_tr_2_tl_29" n="N029"/><technology>human body are transferred to the object by the tool. And this makes the pre-machine</technology>
+               <lb break="no" facs="#facs_87_tr_2_tl_30" n="N030"/><technology>creativity, in the technical realm, so related to art, so immediately expressive and powerful.</technology>
+               <lb break="no" facs="#facs_87_tr_2_tl_31" n="N031"/><technology>The vitality is still in the tool. In the machine, man can only direct, preserve, mend,</technology>
+               <lb break="no" facs="#facs_87_tr_2_tl_32" n="N032"/><technology>and do things in which his vitality is not participating any more.</technology></progress>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p098</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p098</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_98">
+         <graphic url="TL-0098.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WCVPGXOEWHFUXCQOEEIHTCOE&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="307,258 307,3442 2289,3442 2289,258" rendition="TextRegion" xml:id="facs_98_tr_2">
+            <zone points="1210,305 1222,305 1239,317 1289,317 1294,312 1306,312 1306,263 1284,263 1279,258 1269,255 1259,258 1254,253 1239,268 1210,268" rendition="Line" xml:id="facs_98_tr_2_tl_1"/>
+            <zone points="573,471 2164,501 2164,446 2050,434 573,424" rendition="Line" xml:id="facs_98_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="345,617 2181,677 2179,585 345,555" rendition="Line" xml:id="facs_98_tr_2_tl_3"/>
+            <zone points="359,761 2266,796 2266,734 359,704" rendition="Line" xml:id="facs_98_tr_2_tl_4"/>
+            <zone points="345,915 511,964 729,967 798,912 2154,949 2152,905 2045,880 345,855" rendition="Line" xml:id="facs_98_tr_2_tl_5"/>
+            <zone points="342,1073 2266,1101 2266,1034 1976,1053 1847,1011 1668,1049 342,1031" rendition="Line" xml:id="facs_98_tr_2_tl_6"/>
+            <zone points="345,1140 2184,1170 2184,1125 2010,1110 345,1106" rendition="Line" xml:id="facs_98_tr_2_tl_7"/>
+            <zone points="342,1222 863,1267 1118,1227 2238,1262 2266,1205 340,1172" rendition="Line" xml:id="facs_98_tr_2_tl_8"/>
+            <zone points="335,1296 392,1334 674,1339 2278,1326 2278,1277 2166,1262 335,1249" rendition="Line" xml:id="facs_98_tr_2_tl_9"/>
+            <zone points="342,1378 2226,1410 2226,1356 340,1319" rendition="Line" xml:id="facs_98_tr_2_tl_10"/>
+            <zone points="335,1455 436,1443 625,1465 679,1448 798,1475 818,1453 979,1453 979,1410 959,1405 335,1388" rendition="Line" xml:id="facs_98_tr_2_tl_11"/>
+            <zone points="565,1557 2181,1552 2179,1492 1958,1477 1225,1500 563,1460" rendition="Line" xml:id="facs_98_tr_2_tl_12" subtype="paragraph"/>
+            <zone points="330,1589 959,1633 1698,1604 1924,1653 2186,1624 2186,1572 2038,1564 330,1544" rendition="Line" xml:id="facs_98_tr_2_tl_13"/>
+            <zone points="327,1666 513,1698 605,1673 1140,1686 1138,1631 1026,1643 944,1616 885,1638 327,1629" rendition="Line" xml:id="facs_98_tr_2_tl_14"/>
+            <zone points="548,1824 766,1862 1165,1829 2226,1876 2223,1800 545,1770" rendition="Line" xml:id="facs_98_tr_2_tl_15" subtype="paragraph"/>
+            <zone points="322,1894 2154,1926 2154,1862 1118,1827 905,1869 322,1862" rendition="Line" xml:id="facs_98_tr_2_tl_16"/>
+            <zone points="327,1968 2164,2013 2129,1938 327,1921" rendition="Line" xml:id="facs_98_tr_2_tl_17"/>
+            <zone points="322,2052 2189,2102 2204,2028 320,2003" rendition="Line" xml:id="facs_98_tr_2_tl_18"/>
+            <zone points="320,2114 2238,2149 2238,2102 1857,2082 320,2062" rendition="Line" xml:id="facs_98_tr_2_tl_19"/>
+            <zone points="305,2189 2206,2231 2231,2179 521,2124 302,2164" rendition="Line" xml:id="facs_98_tr_2_tl_20"/>
+            <zone points="320,2271 2199,2300 2216,2253 317,2226" rendition="Line" xml:id="facs_98_tr_2_tl_21"/>
+            <zone points="325,2355 2092,2387 2199,2372 2196,2315 322,2300" rendition="Line" xml:id="facs_98_tr_2_tl_22"/>
+            <zone points="317,2427 2273,2451 2273,2399 1703,2370 317,2380" rendition="Line" xml:id="facs_98_tr_2_tl_23"/>
+            <zone points="307,2489 2174,2526 2171,2479 1847,2451 307,2464" rendition="Line" xml:id="facs_98_tr_2_tl_24"/>
+            <zone points="307,2578 2134,2608 2132,2556 2077,2543 307,2531" rendition="Line" xml:id="facs_98_tr_2_tl_25"/>
+            <zone points="310,2660 2132,2677 2129,2618 307,2598" rendition="Line" xml:id="facs_98_tr_2_tl_26"/>
+            <zone points="312,2722 2107,2746 2080,2689 312,2682" rendition="Line" xml:id="facs_98_tr_2_tl_27"/>
+            <zone points="297,2794 451,2836 543,2801 1200,2813 1200,2766 1106,2754 297,2754" rendition="Line" xml:id="facs_98_tr_2_tl_28"/>
+            <zone points="523,2942 2223,2982 2221,2922 2095,2900 1517,2930 1430,2893 1319,2927 1282,2890 877,2917 788,2880 669,2915 523,2878" rendition="Line" xml:id="facs_98_tr_2_tl_29" subtype="paragraph"/>
+            <zone points="300,3024 2142,3059 2139,3004 1782,2979 300,2977" rendition="Line" xml:id="facs_98_tr_2_tl_30"/>
+            <zone points="292,3126 2288,3168 2285,3084 2221,3071 292,3054" rendition="Line" xml:id="facs_98_tr_2_tl_31"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0098.jpg" n="part1_p098.jpg" xml:id="img_0098" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p098.jpg"/>
+            
+            <ab facs="#facs_98_tr_2">
+               <lb facs="#facs_98_tr_2_tl_1" n="N001"/>[95]
+               <lb facs="#facs_98_tr_2_tl_2" n="N002"/><rs type="keyword" ref="#Creativity">Now I come to a general consideration of the relationship of technology and man.
+               <lb break="no" facs="#facs_98_tr_2_tl_3" n="N003"/>Here l want to be, first, WITHOUT any lamentation, but full of praise, for the technical realm.
+               <lb break="no" facs="#facs_98_tr_2_tl_4" n="N004"/>There are many elements of the relationship of technical and man, where the praise is a [?] praise.
+               <lb break="no" facs="#facs_98_tr_2_tl_5" n="N005"/>Man becomes creator. This word is itself a problematic word. It is derived from the religious
+               <lb break="no" facs="#facs_98_tr_2_tl_6" n="N006"/>symbol of creation and has been applied to man. It is almost impossible to prohibit any newspaper
+               <lb break="no" facs="#facs_98_tr_2_tl_7" n="N007"/>writer from using the word ''creative'' in every article he writes about somebody; and there are
+               <lb break="no" facs="#facs_98_tr_2_tl_8" n="N008"/>even classes in ''creative'' writing. Now we cannot change this, so we have at least to say one thing:
+               <lb break="no" facs="#facs_98_tr_2_tl_9" n="N009"/>man indeed has the dignity that he is allowed to participate in the creative process which is going on
+               <lb break="no" facs="#facs_98_tr_2_tl_10" n="N010"/>in every moment, here and now, because God has NOT created once-for-all, but He IS creating
+               <lb break="no" facs="#facs_98_tr_2_tl_11" n="N011"/>here-and-now, in every moment.
+               <lb break="no" facs="#facs_98_tr_2_tl_12" n="N012"/>This gives man a dignity which no other being has. He has indeed CONTINUED the
+               <lb break="no" facs="#facs_98_tr_2_tl_13" n="N013"/>original always-active divine creation beyond itself to something new. That is the first thing we
+               <lb break="no" facs="#facs_98_tr_2_tl_14" n="N014"/>must acknowledge in the technical realm.
+               <lb break="no" facs="#facs_98_tr_2_tl_15" n="N015"/>Second: What is created are new realities. These realities also, are potentially given in
+               <lb break="no" facs="#facs_98_tr_2_tl_16" n="N016"/>nature. They are discovered, they are found, they are not originated in the human mind. But
+               <lb break="no" facs="#facs_98_tr_2_tl_17" n="N017"/>without the human mind, they would never appear. So we can say: every technical creation is
+               <lb break="no" facs="#facs_98_tr_2_tl_18" n="N018"/>produced out of the state of potentiality, in original creation, in the original divine creation, into
+               <lb break="no" facs="#facs_98_tr_2_tl_19" n="N019"/>the state of actuality by man's technical activity.</rs> And such a technical product has a strong power
+               <lb facs="#facs_98_tr_2_tl_20" n="N020"/>of being. It has a power of being, as you can test by the way in which children react to it, looking
+               <lb facs="#facs_98_tr_2_tl_21" n="N021"/>at them, today often more intensively than at trees or even the ocean or the mountains. And this
+               <lb facs="#facs_98_tr_2_tl_22" n="N022"/>power of being is real power of being; it is limited, as [is] everything finite; it ages, and technical
+               <lb facs="#facs_98_tr_2_tl_23" n="N023"/>products, after they have become old-aged, are more ridiculous than living beings when they become
+               <lb facs="#facs_98_tr_2_tl_24" n="N024"/>old-aged. Human beings can become wiser, and sometimes they BECOME [so]. (Although not
+               <lb facs="#facs_98_tr_2_tl_25" n="N025"/>always.) T<technology>echnical products--the first automobiles, for instance--are somehow funny, they
+               <lb break="no" facs="#facs_98_tr_2_tl_26" n="N026"/>produce a kind of feeling of [being] ridiculous, if you look at them, although IN PRINCIPLE
+               <lb break="no" facs="#facs_98_tr_2_tl_27" n="N027"/>they are admirable: they are the beginning of a great development, but they really lose their
+               <lb break="no" facs="#facs_98_tr_2_tl_28" n="N028"/>standing as tools and become museum-pieces.
+               <lb break="no" facs="#facs_98_tr_2_tl_29" n="N029"/><technology>This is the double reality: man creating, and the created product has a power of being.</technology>
+               <lb break="no" facs="#facs_98_tr_2_tl_30" n="N030"/><technology>more finite perhaps than other powers of being, but very impressive anyhow as a real creation,</technology>
+               <lb break="no" facs="#facs_98_tr_2_tl_31" n="N031"/><technology>not produced totally by man but discovered as a possibility which lies already in the genuine creation.</technology></technology>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

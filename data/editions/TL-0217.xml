@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p217</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p217</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_217">
+         <graphic url="TL-0217.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=OZGRQRREHESDEGDXGJLDDPCI&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="26,229 26,3479 2316,3479 2316,229" rendition="TextRegion" xml:id="facs_217_tr_1">
+            <zone points="1186,278 1199,278 1219,296 1284,301 1294,293 1312,293 1312,214 1255,221 1243,214 1222,232 1186,229" rendition="Line" xml:id="facs_217_tr_1_tl_1"/>
+            <zone points="265,450 1484,442 1543,486 1677,442 2205,445 2156,376 265,409" rendition="Line" xml:id="facs_217_tr_1_tl_2"/>
+            <zone points="260,599 2135,589 2135,540 2050,527 1883,558 1533,512 260,566" rendition="Line" xml:id="facs_217_tr_1_tl_3"/>
+            <zone points="270,759 947,749 1086,803 2145,772 2145,684 1865,671 270,700" rendition="Line" xml:id="facs_217_tr_1_tl_4"/>
+            <zone points="247,903 350,908 437,965 530,918 648,934 759,918 759,872 682,844 512,844 481,870 460,851 283,854 247,872" rendition="Line" xml:id="facs_217_tr_1_tl_5"/>
+            <zone points="460,1055 2292,1044 2292,975 460,1019" rendition="Line" xml:id="facs_217_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="260,1243 543,1253 592,1204 864,1199 1243,1199 1338,1237 2148,1219 2148,1155 2091,1137 260,1155" rendition="Line" xml:id="facs_217_tr_1_tl_8"/>
+            <zone points="260,1363 2302,1345 2302,1297 2223,1279 260,1309" rendition="Line" xml:id="facs_217_tr_1_tl_9"/>
+            <zone points="255,1587 782,1577 913,1636 1026,1598 1261,1636 1335,1577 2138,1574 2138,1507 255,1531" rendition="Line" xml:id="facs_217_tr_1_tl_10"/>
+            <zone points="247,1734 2284,1726 2284,1664 247,1703" rendition="Line" xml:id="facs_217_tr_1_tl_11"/>
+            <zone points="244,1811 2076,1814 2050,1749 247,1778" rendition="Line" xml:id="facs_217_tr_1_tl_12"/>
+            <zone points="239,1958 1605,1955 1749,2019 1991,1986 2058,2053 2130,2053 2246,1963 2248,1899 1808,1803 1507,1924 239,1929" rendition="Line" xml:id="facs_217_tr_1_tl_13"/>
+            <zone points="244,2120 1430,2104 1495,2151 2313,2148 2315,2048 244,2091" rendition="Line" xml:id="facs_217_tr_1_tl_14"/>
+            <zone points="247,2287 2220,2254 2220,2199 2076,2192 250,2228" rendition="Line" xml:id="facs_217_tr_1_tl_15"/>
+            <zone points="255,2428 682,2470 831,2467 882,2418 2122,2408 2122,2346 828,2390 602,2369 543,2313 468,2372 255,2372" rendition="Line" xml:id="facs_217_tr_1_tl_16"/>
+            <zone points="242,2572 2094,2565 2094,2511 2045,2493 242,2542" rendition="Line" xml:id="facs_217_tr_1_tl_17"/>
+            <zone points="237,2717 2217,2747 2217,2650 237,2691" rendition="Line" xml:id="facs_217_tr_1_tl_18"/>
+            <zone points="237,2907 1248,2920 1333,2868 2251,2868 2251,2794 2097,2791 239,2848" rendition="Line" xml:id="facs_217_tr_1_tl_19"/>
+            <zone points="237,3041 314,3079 787,3077 851,3036 926,3077 2138,3046 2220,3012 2223,2958 237,3000" rendition="Line" xml:id="facs_217_tr_1_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0217.jpg" n="part1_p217.jpg" xml:id="img_0217" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p217.jpg"/>
+            
+            <ab facs="#facs_217_tr_1">
+               <lb facs="#facs_217_tr_1_tl_1" n="N001"/>[213]
+               <lb facs="#facs_217_tr_1_tl_2" n="N002"/>now that cannot be understood in terms of qualities which follow by geometric necessity from the
+               <lb facs="#facs_217_tr_1_tl_3" n="N003"/>substance. They have characteristics which make this philosophically impossibole [sic.]. Now here
+               <lb facs="#facs_217_tr_1_tl_4" n="N004"/>you see the two levels of discussion. And one and the same concept in <rs type="person">Spinoza</rs> produces these
+               <lb facs="#facs_217_tr_1_tl_5" n="N005"/>two levels of discussion.
+               <lb facs="#facs_217_tr_1_tl_7" n="N006"/>And so we could go on in the whole history of philosophy, and I would say a DISTINCTION
+               <lb facs="#facs_217_tr_1_tl_8" n="N007"/>IS POSSIBLE, but not a clear distinction because in the reality of the life of the philosophers---
+               <lb facs="#facs_217_tr_1_tl_9" n="N008"/>and of their PHILOSOPHY, which also has a life of its own---the ambiguity of his existence is manifest.
+               <lb facs="#facs_217_tr_1_tl_10" n="N009"/>QN: Last week you noted that <rs type="keyword" ref="#Epistemologists">the epistemologists i</rs>n the last century finally realized they were
+               <lb facs="#facs_217_tr_1_tl_11" n="N010"/>making certain <rs type="keyword" ref="#Ontology">ontological assumptions</rs>. You said there were similar assumptions the <rs type="keyword" ref="#Logical_Positivism">logical positivists</rs>
+               <lb facs="#facs_217_tr_1_tl_12" n="N011"/>made. I don't think, at least at that time, that you made clear what these assumptions were.
+               <lb facs="#facs_217_tr_1_tl_13" n="N012"/>PT: The question was: in which sense <rs type="keyword" ref="#Epistemologists">the epistemologists,</rs> i.e., actually the <rs type="keyword" ref="#Neo-Kantian_school">Neo-Kantian school</rs> and
+               <lb facs="#facs_217_tr_1_tl_14" n="N013"/>all those who discussed the same problems with this school---how, in which sense, they made <rs type="keyword" ref="#Ontology">ontological
+               <lb break="no" facs="#facs_217_tr_1_tl_15" n="N014"/>presuppositions</rs>. The man who is important for the beginning of philosophy in the first half of this
+               <lb facs="#facs_217_tr_1_tl_16" n="N015"/>century is <rs type="person">Nicolai Hartmann</rs>, who was a fully developed <rs type="keyword" ref="#Neo-Kantian_school">Neo-Kantian</rs> when he started. Out of
+               <lb facs="#facs_217_tr_1_tl_17" n="N016"/>this he tried to show---and I think very successfully, not only externally (this ended, actually,
+               <lb facs="#facs_217_tr_1_tl_18" n="N017"/>the importance of the <rs type="keyword" ref="#Neo-Kantian_school">Neo-Kantian school)</rs>, but also logically, that in the way in which <rs type="person">Kant</rs> speaks
+               <lb facs="#facs_217_tr_1_tl_19" n="N018"/>of time, space, the categories, consciousness generally, the birth of consciousness, the "thing-in-itself,"
+               <lb facs="#facs_217_tr_1_tl_20" n="N019"/>the problems of apperception, and all that belongs to the <rs type="keyword" ref="#Neo-Kantian_school">Neo-Kantian school, </rs>has presuppositions
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

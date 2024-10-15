@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p179</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p179</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_179">
+         <graphic url="TL-0179.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NPFXKOWJPSOKZJARFSSYTTMV&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="253,195 253,3501 2295,3501 2295,195" rendition="TextRegion" xml:id="facs_179_tr_2">
+            <zone points="1144,265 1199,280 1214,280 1216,275 1261,277 1259,207 1221,205 1201,195 1179,215 1144,215" rendition="Line" xml:id="facs_179_tr_2_tl_1"/>
+            <zone points="285,427 942,430 989,467 1089,427 2205,420 2178,362 1084,380 1014,322 954,382 285,390" rendition="Line" xml:id="facs_179_tr_2_tl_2"/>
+            <zone points="290,579 2288,574 2288,514 290,527" rendition="Line" xml:id="facs_179_tr_2_tl_3"/>
+            <zone points="285,752 1166,774 1226,729 2285,724 2288,674 287,704" rendition="Line" xml:id="facs_179_tr_2_tl_4"/>
+            <zone points="285,882 2223,884 2223,827 2085,812 285,839" rendition="Line" xml:id="facs_179_tr_2_tl_5"/>
+            <zone points="285,1034 480,1039 569,1094 1039,1076 1039,987 967,974 624,989 569,969 480,1006 457,987 285,1006" rendition="Line" xml:id="facs_179_tr_2_tl_6"/>
+            <zone points="455,1181 2220,1189 2220,1131 2070,1109 682,1151 455,1121" rendition="Line" xml:id="facs_179_tr_2_tl_7" subtype="paragraph"/>
+            <zone points="285,1336 2260,1326 2260,1281 2178,1269 285,1311" rendition="Line" xml:id="facs_179_tr_2_tl_8"/>
+            <zone points="282,1489 647,1494 649,1459 617,1439 285,1441" rendition="Line" xml:id="facs_179_tr_2_tl_9"/>
+            <zone points="455,1578 2100,1551 2095,1486 882,1526 455,1496" rendition="Line" xml:id="facs_179_tr_2_tl_10" subtype="paragraph"/>
+            <zone points="272,1713 2205,1743 2205,1646 272,1668" rendition="Line" xml:id="facs_179_tr_2_tl_11"/>
+            <zone points="272,1878 347,1923 632,1926 1159,1858 2158,1853 2158,1806 1783,1796 372,1806 272,1841" rendition="Line" xml:id="facs_179_tr_2_tl_12"/>
+            <zone points="275,2023 2098,2005 2098,1956 2045,1943 275,1976" rendition="Line" xml:id="facs_179_tr_2_tl_13"/>
+            <zone points="277,2170 2113,2158 2115,2115 277,2118" rendition="Line" xml:id="facs_179_tr_2_tl_14"/>
+            <zone points="272,2318 2113,2320 2113,2260 1846,2253 272,2293" rendition="Line" xml:id="facs_179_tr_2_tl_15"/>
+            <zone points="275,2480 2138,2463 2138,2403 1768,2390 1546,2433 275,2425" rendition="Line" xml:id="facs_179_tr_2_tl_16"/>
+            <zone points="285,2625 732,2630 732,2575 480,2575 460,2595 442,2577 317,2575 285,2595" rendition="Line" xml:id="facs_179_tr_2_tl_17"/>
+            <zone points="467,2717 1269,2755 1441,2697 1706,2757 2200,2705 2200,2630 1768,2667 1703,2635 1513,2670 1474,2637 1104,2675 467,2652" rendition="Line" xml:id="facs_179_tr_2_tl_18" subtype="paragraph"/>
+            <zone points="267,2865 1334,2852 1851,2915 2130,2875 2133,2735 1891,2740 1818,2802 1643,2822 267,2820" rendition="Line" xml:id="facs_179_tr_2_tl_19"/>
+            <zone points="260,3014 1528,3009 1613,3044 2033,3032 2160,3082 2260,3029 2260,2945 2070,2935 260,2990" rendition="Line" xml:id="facs_179_tr_2_tl_20"/>
+            <zone points="270,3267 447,3182 1241,3202 1239,3139 480,3129 325,3042 265,3072" rendition="Line" xml:id="facs_179_tr_2_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0179.jpg" n="part1_p179.jpg" xml:id="img_0179" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p179.jpg"/>
+            
+            <ab facs="#facs_179_tr_2">
+               <lb facs="#facs_179_tr_2_tl_1" n="N001"/>[175]
+               <lb facs="#facs_179_tr_2_tl_2" n="N002"/>is presupposed, then the relation of <truth_philosophical>philosophical truth</truth_philosophical> and the <truth_of_faith>truth of faith</truth_of_faith> can be determined.
+               <lb facs="#facs_179_tr_2_tl_3" n="N003"/><rs type="keyword" ref="#Structure_of_Being">Then <truth_philosophical>philosophical truth</truth_philosophical> is truth about the structure of being---which of course includes the structure
+               <lb break="no" facs="#facs_179_tr_2_tl_4" n="N004"/>of knowing, which is a special part of being; or the structure of history, the structure of all categories,
+               <lb break="no" facs="#facs_179_tr_2_tl_5" n="N005"/>of existence, the essential, and what not. All this is included. But in any case we can sum it all up
+               <lb break="no" facs="#facs_179_tr_2_tl_6" n="N006"/>when we say "The structure of being."</rs>
+               <lb facs="#facs_179_tr_2_tl_7" n="N007"/>The truth of being is truth about our <ultimate_concern>ultimate concern</ultimate_concern>. So we now have two preliminary
+               <lb facs="#facs_179_tr_2_tl_8" n="N008"/>answers: <truth_philosophical>philosophical truth</truth_philosophical> is truth about the s<rs type="keyword" ref="#Structure_of_Being">tructure of being</rs>; r<truth_of_faith>eligious truth</truth_of_faith> is truth about our
+               <lb facs="#facs_179_tr_2_tl_9" n="N009"/><ultimate_concern>ultimate concern.</ultimate_concern>
+               <lb facs="#facs_179_tr_2_tl_10" n="N010"/>Up to this point, the relation seems to be very similar to that between the <truth_of_faith>truth of
+               <lb break="no" facs="#facs_179_tr_2_tl_11" n="N011"/>faith </truth_of_faith>and SCIENTIFIC truth. But there is a difference. There is a point of identity between the
+               <lb facs="#facs_179_tr_2_tl_12" n="N012"/><truth_of_faith>truth of faith </truth_of_faith>and <truth_philosophical>philosophical truth</truth_philosophical> which is only indirectly in the scientific realm. There are
+               <lb facs="#facs_179_tr_2_tl_13" n="N013"/>two ultimates here. The philosophical question asks the question of ultimate reality and its
+               <lb facs="#facs_179_tr_2_tl_14" n="N014"/>structure, which is in every special reality; <ultimate_concern>and religion asks the question of what concerns us
+               <lb break="no" facs="#facs_179_tr_2_tl_15" n="N015"/>ultimately, which certainly ALSO must be ultimately real, otherwise it wouldn’t concern us,
+               <lb break="no" facs="#facs_179_tr_2_tl_16" n="N016"/>ultimately. Only ULTIMATE reality can concern us ultimately. The transitory things cannot
+               <lb break="no" facs="#facs_179_tr_2_tl_17" n="N017"/>concern us ultimately.
+               <lb break="no" facs="#facs_179_tr_2_tl_18" n="N018"/>So we are here in the problem of two ultimates: the philosophical and the theological.
+               <lb break="no" facs="#facs_179_tr_2_tl_19" n="N019"/>In BOTH cases something ULTIMATE is involved: .....in religion we want <rs type="keyword" ref="#Symbols">symbolic truth</rs>
+               <lb break="no" facs="#facs_179_tr_2_tl_20" n="N020"/>about ultimate reality, because it is a matter of ultimate concern; in philosophy we want <rs type="keyword" ref="#Concept">conceptual</rs>
+               <lb break="no" facs="#facs_179_tr_2_tl_21" n="N021"/>truth about the manifestation of ultimate reality.</ultimate_concern>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

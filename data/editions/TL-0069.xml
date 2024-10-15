@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p069</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p069</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_69">
+         <graphic url="TL-0069.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GEPJBGUFSWYXFWHFWKYTVACZ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="286,278 286,2990 2269,2990 2269,278" rendition="TextRegion" xml:id="facs_69_tr_2">
+            <zone points="1120,319 1133,319 1147,334 1162,341 1198,341 1205,334 1217,334 1217,281 1169,278 1164,273 1154,281 1120,281" rendition="Line" xml:id="facs_69_tr_2_tl_1"/>
+            <zone points="324,489 2185,508 2185,448 324,450" rendition="Line" xml:id="facs_69_tr_2_tl_2"/>
+            <zone points="322,581 2091,595 2091,549 1992,535 322,532" rendition="Line" xml:id="facs_69_tr_2_tl_3"/>
+            <zone points="624,641 1072,685 2139,675 2139,622 624,617" rendition="Line" xml:id="facs_69_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="624,733 2115,741 2115,687 624,680" rendition="Line" xml:id="facs_69_tr_2_tl_5"/>
+            <zone points="620,791 2154,803 2154,750 620,753" rendition="Line" xml:id="facs_69_tr_2_tl_6"/>
+            <zone points="627,854 849,871 985,849 1261,859 1261,823 1193,803 1159,825 1012,811 987,830 937,803 922,820 806,820 782,801 760,820 738,801 627,816" rendition="Line" xml:id="facs_69_tr_2_tl_7"/>
+            <zone points="1273,910 1900,917 1900,864 1810,864 1788,883 1754,862 1721,883 1701,864 1486,859 1399,881 1377,859 1319,859 1273,878" rendition="Line" xml:id="facs_69_tr_2_tl_8"/>
+            <zone points="615,1026 2190,1050 2190,980 615,973" rendition="Line" xml:id="facs_69_tr_2_tl_9" subtype="paragraph"/>
+            <zone points="322,1120 2263,1125 2263,1077 2016,1062 1687,1094 322,1065" rendition="Line" xml:id="facs_69_tr_2_tl_10"/>
+            <zone points="317,1198 2219,1210 2219,1166 2055,1152 317,1157" rendition="Line" xml:id="facs_69_tr_2_tl_11"/>
+            <zone points="312,1283 2190,1338 2190,1241 2139,1234 312,1239" rendition="Line" xml:id="facs_69_tr_2_tl_12"/>
+            <zone points="317,1392 2173,1379 2173,1333 2086,1324 317,1326" rendition="Line" xml:id="facs_69_tr_2_tl_13"/>
+            <zone points="302,1442 2016,1505 2028,1418 300,1421" rendition="Line" xml:id="facs_69_tr_2_tl_14"/>
+            <zone points="302,1566 1070,1534 2086,1575 2086,1491 302,1496" rendition="Line" xml:id="facs_69_tr_2_tl_15"/>
+            <zone points="302,1619 2110,1636 2110,1588 1791,1573 302,1580" rendition="Line" xml:id="facs_69_tr_2_tl_16"/>
+            <zone points="305,1706 1905,1718 1905,1672 1675,1655 305,1665" rendition="Line" xml:id="facs_69_tr_2_tl_17"/>
+            <zone points="598,1868 2115,1885 2115,1832 598,1822" rendition="Line" xml:id="facs_69_tr_2_tl_18" subtype="paragraph"/>
+            <zone points="298,1958 2176,1975 2176,1921 1914,1907 298,1912" rendition="Line" xml:id="facs_69_tr_2_tl_19"/>
+            <zone points="300,2042 2149,2059 2122,2001 300,1989" rendition="Line" xml:id="facs_69_tr_2_tl_20"/>
+            <zone points="300,2127 2200,2142 2200,2091 2088,2079 300,2084" rendition="Line" xml:id="facs_69_tr_2_tl_21"/>
+            <zone points="300,2212 448,2248 767,2246 857,2205 2072,2255 2072,2178 1951,2166 932,2171 823,2132 300,2168" rendition="Line" xml:id="facs_69_tr_2_tl_22"/>
+            <zone points="298,2294 511,2340 2137,2328 2115,2255 298,2246" rendition="Line" xml:id="facs_69_tr_2_tl_23"/>
+            <zone points="293,2403 2147,2389 2147,2343 2028,2338 293,2330" rendition="Line" xml:id="facs_69_tr_2_tl_24"/>
+            <zone points="293,2464 1965,2488 2178,2476 2176,2425 290,2420" rendition="Line" xml:id="facs_69_tr_2_tl_25"/>
+            <zone points="286,2543 1125,2541 1166,2580 1254,2546 2122,2556 2122,2497 286,2500" rendition="Line" xml:id="facs_69_tr_2_tl_26"/>
+            <zone points="288,2638 695,2626 811,2660 1024,2660 1024,2594 999,2582 288,2592" rendition="Line" xml:id="facs_69_tr_2_tl_27"/>
+            <zone points="583,2725 2076,2727 2074,2667 581,2686" rendition="Line" xml:id="facs_69_tr_2_tl_28" subtype="paragraph"/>
+            <zone points="278,2793 1379,2802 1588,2853 2132,2831 2132,2749 278,2754" rendition="Line" xml:id="facs_69_tr_2_tl_29"/>
+            <zone points="273,2882 651,2933 738,2880 1892,2887 2122,2938 2122,2851 2050,2834 273,2841" rendition="Line" xml:id="facs_69_tr_2_tl_30"/>
+            <zone points="276,3010 571,3013 741,2962 1031,3013 2084,2981 2084,2921 1423,2952 276,2914" rendition="Line" xml:id="facs_69_tr_2_tl_31"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0069.jpg" n="part1_p069.jpg" xml:id="img_0069" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p069.jpg"/>
+            
+            <ab facs="#facs_69_tr_2">
+               <lb facs="#facs_69_tr_2_tl_1" n="N001"/>[66]
+               <lb facs="#facs_69_tr_2_tl_2" n="N002"/>Protestants? How can Protestants recover the element of the female, mothering ground
+               <lb facs="#facs_69_tr_2_tl_3" n="N003"/>in the Divine? Is this necessary? Wise? (laughter) Finally, please elaborate fully:
+               <lb facs="#facs_69_tr_2_tl_4" n="N004"/>''Protestantism, in rejecting sexual symbolism, is in danger not only of
+               <lb facs="#facs_69_tr_2_tl_5" n="N005"/>losing much symbolic wealth but also of cutting off the sexual realm
+               <lb facs="#facs_69_tr_2_tl_6" n="N006"/>from the ground of being and meaning in which it is rooted and from
+               <lb facs="#facs_69_tr_2_tl_7" n="N007"/>which it gets its consecration.''
+               <lb facs="#facs_69_tr_2_tl_8" n="N008"/>--<hi style="font-style: italic;">The Protestant Era</hi>, p. 119.
+               <lb facs="#facs_69_tr_2_tl_9" n="N009"/>TILLICH: <rs type="keyword" ref="#Symbols">Now I am very grateful for these questions too. First a very
+               <lb break="no" facs="#facs_69_tr_2_tl_10" n="N010"/>simple answer, which I hope I said when I spoke here in class, namely that of course the
+               <lb break="no" facs="#facs_69_tr_2_tl_11" n="N011"/>dying of a symbol happens by a transformation of the fundamental relationship between
+               <lb break="no" facs="#facs_69_tr_2_tl_12" n="N012"/>a man and the ultimate, as it happened in the Reformation. So obviously this symbol
+               <lb break="no" facs="#facs_69_tr_2_tl_13" n="N013"/>didn’t die for the Catholics; on the contrary, it has almost removed all other symbols
+               <lb break="no" facs="#facs_69_tr_2_tl_14" n="N014"/>of Christianity, in the last decades. The main theological interest of Catholicism
+               <lb break="no" facs="#facs_69_tr_2_tl_15" n="N015"/>today is Mariology, the doctrine of Mary. But for Protestants it has been removed
+               <lb break="no" facs="#facs_69_tr_2_tl_16" n="N016"/>because of the reestablishment of the radical monotheistic element, the exclusiveness
+               <lb break="no" facs="#facs_69_tr_2_tl_17" n="N017"/>of the ultimate in the sense of prophetic religion. This is my first answer.
+               <lb break="no" facs="#facs_69_tr_2_tl_18" n="N018"/>Now your second question does two things for me: first it gives me
+               <lb break="no" facs="#facs_69_tr_2_tl_19" n="N019"/>the occasion to affirm that your question is quite justified. I believe that Protestantism
+               <lb break="no" facs="#facs_69_tr_2_tl_20" n="N020"/>REALLY has lost something by having lost the female symbolism--to a great extent,
+               <lb break="no" facs="#facs_69_tr_2_tl_21" n="N021"/>not completely. And one of the ways in which I try personally to regain it--what you
+               <lb break="no" facs="#facs_69_tr_2_tl_22" n="N022"/>call ''motherly ground'' is absolutely justified--terms like ''ground of being'' have a
+               <lb break="no" facs="#facs_69_tr_2_tl_23" n="N023"/>mystical connotation in which the motherly element, the carrying, embracing element,
+               <lb break="no" facs="#facs_69_tr_2_tl_24" n="N024"/>is contained. And this is my way in which at least, preliminarily, I try to overcome
+               <lb break="no" facs="#facs_69_tr_2_tl_25" n="N025"/>the exclusive and often intolerable male character of Protestant symbolism, especially in
+               <lb break="no" facs="#facs_69_tr_2_tl_26" n="N026"/>the Calvinistic realm of Protestantism. There is much more of infant symbolism and
+               <lb break="no" facs="#facs_69_tr_2_tl_27" n="N027"/>mother symbolism in Lutheranism.
+               <lb break="no" facs="#facs_69_tr_2_tl_28" n="N028"/>And then finally, you bring me to a statement about symbols which
+               <lb break="no" facs="#facs_69_tr_2_tl_29" n="N029"/>I left out, and I am glad you reminded me of it, namely the two-edged character of
+               <lb break="no" facs="#facs_69_tr_2_tl_30" n="N030"/>all religious symbols. I pointed to this briefly, when I spoke about [the] symbol as
+               <lb break="no" facs="#facs_69_tr_2_tl_31" n="N031"/>healing power, and I will use the realm of medicine, of healing, as an example for</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p052</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p052</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_52">
+         <graphic url="TL-0052.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KUZXQVTIWBFVESBRFOQCXLZJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="134,257 96,3490 2280,3490 2280,257" rendition="TextRegion" xml:id="facs_52_tr_2">
+            <zone points="1275,292 1287,292 1294,300 1306,300 1316,309 1373,309 1373,244 1354,247 1330,244 1308,264 1275,264" rendition="Line" xml:id="facs_52_tr_2_tl_1"/>
+            <zone points="357,465 1634,494 1850,458 1907,515 2243,518 2243,422 2159,415 357,415" rendition="Line" xml:id="facs_52_tr_2_tl_2"/>
+            <zone points="369,580 1601,604 2171,561 2171,513 369,513" rendition="Line" xml:id="facs_52_tr_2_tl_3"/>
+            <zone points="359,645 736,633 875,678 2238,652 2238,606 2135,592 359,582" rendition="Line" xml:id="facs_52_tr_2_tl_4"/>
+            <zone points="355,719 407,733 585,724 594,733 683,733 683,683 597,681 577,693 563,678 355,678" rendition="Line" xml:id="facs_52_tr_2_tl_5"/>
+            <zone points="654,836 2264,827 2262,755 2099,724 1984,779 1311,748 1014,779 829,743 654,774" rendition="Line" xml:id="facs_52_tr_2_tl_6" subtype="paragraph"/>
+            <zone points="359,918 724,932 889,884 1486,887 1723,935 2264,915 2231,820 1457,810 1196,865 359,841" rendition="Line" xml:id="facs_52_tr_2_tl_7"/>
+            <zone points="362,975 2231,980 2231,932 2183,927 362,935" rendition="Line" xml:id="facs_52_tr_2_tl_8"/>
+            <zone points="367,1062 2233,1064 2233,1026 1833,1021 1773,980 367,980" rendition="Line" xml:id="facs_52_tr_2_tl_9"/>
+            <zone points="355,1141 2149,1145 2149,1088 2082,1117 1991,1076 1313,1119 355,1097" rendition="Line" xml:id="facs_52_tr_2_tl_10"/>
+            <zone points="362,1229 2185,1234 2185,1172 362,1177" rendition="Line" xml:id="facs_52_tr_2_tl_11"/>
+            <zone points="350,1299 628,1349 2169,1318 2169,1265 1931,1256 350,1277" rendition="Line" xml:id="facs_52_tr_2_tl_12"/>
+            <zone points="359,1397 1800,1390 1852,1428 2240,1445 2260,1354 357,1347" rendition="Line" xml:id="facs_52_tr_2_tl_13"/>
+            <zone points="359,1483 1634,1529 2166,1483 2125,1428 498,1447 359,1409" rendition="Line" xml:id="facs_52_tr_2_tl_14"/>
+            <zone points="355,1565 415,1605 1951,1605 1996,1560 2226,1567 2226,1526 2020,1510 355,1519" rendition="Line" xml:id="facs_52_tr_2_tl_15"/>
+            <zone points="350,1641 2276,1653 2276,1598 350,1603" rendition="Line" xml:id="facs_52_tr_2_tl_16"/>
+            <zone points="350,1732 2207,1749 2171,1680 350,1699" rendition="Line" xml:id="facs_52_tr_2_tl_17"/>
+            <zone points="345,1812 1991,1821 1946,1764 345,1773" rendition="Line" xml:id="facs_52_tr_2_tl_18"/>
+            <zone points="649,1984 1469,1977 1574,2020 2149,1986 2149,1936 1963,1929 649,1931" rendition="Line" xml:id="facs_52_tr_2_tl_19" subtype="paragraph"/>
+            <zone points="345,2068 494,2118 1210,2113 1359,2066 2128,2078 2128,2025 1344,2030 1287,1996 345,2039" rendition="Line" xml:id="facs_52_tr_2_tl_20"/>
+            <zone points="355,2164 2066,2166 2066,2102 355,2104" rendition="Line" xml:id="facs_52_tr_2_tl_21"/>
+            <zone points="345,2231 2106,2245 2063,2183 345,2195" rendition="Line" xml:id="facs_52_tr_2_tl_22"/>
+            <zone points="350,2329 2164,2324 2125,2262 350,2276" rendition="Line" xml:id="facs_52_tr_2_tl_23"/>
+            <zone points="345,2401 2195,2408 2154,2348 1426,2379 503,2334 345,2370" rendition="Line" xml:id="facs_52_tr_2_tl_24"/>
+            <zone points="347,2497 2113,2499 2113,2449 2056,2435 347,2432" rendition="Line" xml:id="facs_52_tr_2_tl_25"/>
+            <zone points="345,2569 681,2612 1117,2564 2152,2581 2109,2518 345,2528" rendition="Line" xml:id="facs_52_tr_2_tl_26"/>
+            <zone points="345,2653 2188,2662 2152,2602 343,2612" rendition="Line" xml:id="facs_52_tr_2_tl_27"/>
+            <zone points="345,2744 2070,2741 2068,2701 1984,2684 343,2696" rendition="Line" xml:id="facs_52_tr_2_tl_28"/>
+            <zone points="640,2945 2236,2916 2236,2844 640,2854" rendition="Line" xml:id="facs_52_tr_2_tl_29" subtype="paragraph"/>
+            <zone points="343,2995 2200,2995 2161,2933 343,2947" rendition="Line" xml:id="facs_52_tr_2_tl_30"/>
+            <zone points="345,3094 2176,3084 2176,3029 1804,3017 345,3031" rendition="Line" xml:id="facs_52_tr_2_tl_31"/>
+            <zone points="347,3120 1716,3149 1713,3084 347,3094" rendition="Line" xml:id="facs_52_tr_2_tl_32" subtype="footnote"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0052.jpg" n="part1_p052.jpg" xml:id="img_0052" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p052.jpg"/>
+            
+            <ab facs="#facs_52_tr_2">
+               <lb facs="#facs_52_tr_2_tl_1" n="N001"/>[49]
+               <lb facs="#facs_52_tr_2_tl_2" n="N002"/>divine qualities which by far surpass the reality of this actual nation. The nation, then,
+               <lb facs="#facs_52_tr_2_tl_3" n="N003"/>is not seen empirically and is not meant in the ordinary sense of the word ''nation,''
+               <lb facs="#facs_52_tr_2_tl_4" n="N004"/>but it stands for that which is the TRUE ultimate and symbolizes, but it does so in an
+               <lb facs="#facs_52_tr_2_tl_5" n="N005"/>idolatrous way.
+               <lb facs="#facs_52_tr_2_tl_6" n="N006"/>If success is the ultimate concern, it is not the natural desire of actualizing
+               <lb facs="#facs_52_tr_2_tl_7" n="N007"/>one's possibilities, which we ALL have, but it is the readiness to sacrifice all other values
+               <lb facs="#facs_52_tr_2_tl_8" n="N008"/>of life for the sake of a position of power and social predominance. The anxiety, which
+               <lb facs="#facs_52_tr_2_tl_9" n="N009"/>I find in so many young people in our period, of not being a success, is an idolatrous*
+               <lb facs="#facs_52_tr_2_tl_10" n="N010"/>form of the anxiety of divine condemnation. One is not afraid of the possibility of
+               <lb facs="#facs_52_tr_2_tl_11" n="N011"/>divine condemnation, in the original sense of the religious tradition, but one IS afraid
+               <lb facs="#facs_52_tr_2_tl_12" n="N012"/>of being condemned to non-being by not being a success! In such a feeling, success
+               <lb facs="#facs_52_tr_2_tl_13" n="N013"/>is grace (again, a religious word); lack of success is final judgment. In this way, concepts
+               <lb facs="#facs_52_tr_2_tl_14" n="N014"/>which designate ordinary realities (such as nation, money, success), become idolatrous
+               <lb facs="#facs_52_tr_2_tl_15" n="N015"/>symbols of ultimate concern. They become divine beings, they become idols. The reason
+               <lb facs="#facs_52_tr_2_tl_16" n="N016"/>for this transformation of concept into symbols is the character of ultimacy, based on the
+               <lb facs="#facs_52_tr_2_tl_17" n="N017"/>nature of faith. That which is the TRUE ultimate transcends the realm of finite reality
+               <lb facs="#facs_52_tr_2_tl_18" n="N018"/>infinitely, and therefore no finite reality can express it directly and properly.
+               <lb facs="#facs_52_tr_2_tl_19" n="N019"/>I want to express this in a seemingly very paradoxical way. <rs type="keyword" ref="#Meaning_of_God">I want to
+               <lb break="no" facs="#facs_52_tr_2_tl_20" n="N020"/>say: GOD TRANSCENDS HIS OWN NAME. God transcends His own Name. This
+               <lb break="no" facs="#facs_52_tr_2_tl_21" n="N021"/>paradoxical situation is the [reason] why the use of the name of God EASILY,
+               <lb break="no" facs="#facs_52_tr_2_tl_22" n="N022"/>becomes an abuse--or, as the word says, a ''blasphemy.'' Therefore the fear of the
+               <lb break="no" facs="#facs_52_tr_2_tl_23" n="N023"/>people of the Old Testament to use the right name of God, because if they use His
+               <lb break="no" facs="#facs_52_tr_2_tl_24" n="N024"/>name in any way in which it is brought down to the level of ordinary objects besides
+               <lb break="no" facs="#facs_52_tr_2_tl_25" n="N025"/>[beside?] which He ALSO can be found, then His name is abused and one speaks,
+               <lb break="no" facs="#facs_52_tr_2_tl_26" n="N026"/>in using it, a blasphemy. Whatever we say about that which concerns us ultimately,
+               <lb break="no" facs="#facs_52_tr_2_tl_27" n="N027"/>even if we call it ''God,'' has a symbolic character. It points beyond itself, but at the
+               <lb break="no" facs="#facs_52_tr_2_tl_28" n="N028"/>same time (as we have seen last time), it participates in that to which it points.
+               <lb break="no" facs="#facs_52_tr_2_tl_29" n="N029"/>Faith can express itself adequately in no other way. <religious_language>The language of faith,</religious_language>
+               <lb break="no" facs="#facs_52_tr_2_tl_30" n="N030"/><religious_language>the language of religion, is the language of symbols, and there is no other language for</religious_language>
+               <lb break="no" facs="#facs_52_tr_2_tl_31" n="N031"/><religious_language>religion!</religious_language> If faith were what we have declined and strongly rejected (the acceptance of
+               <lb break="no" facs="#facs_52_tr_2_tl_32" n="N032"/>*We shall replace ''idolatric'' with ''idolatrous,'' hereinafter. (Ed.)</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

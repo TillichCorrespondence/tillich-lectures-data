@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p084</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p084</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_84">
+         <graphic url="TL-0084.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NVBPHPHRDTZUTSKKNPFEMSJK&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="32,251 32,3481 2277,3481 2277,251" rendition="TextRegion" xml:id="facs_84_tr_1">
+            <zone points="1123,294 1135,294 1147,307 1160,309 1209,299 1212,237 1199,237 1167,255 1157,250 1147,260 1125,260" rendition="Line" xml:id="facs_84_tr_1_tl_1"/>
+            <zone points="336,490 1642,537 1708,475 2146,485 2146,425 336,430" rendition="Line" xml:id="facs_84_tr_1_tl_2"/>
+            <zone points="336,579 415,613 821,613 927,561 1029,613 2213,593 2213,524 2158,509 336,522" rendition="Line" xml:id="facs_84_tr_1_tl_3"/>
+            <zone points="326,645 2205,677 2205,608 2139,593 326,623" rendition="Line" xml:id="facs_84_tr_1_tl_4"/>
+            <zone points="331,762 499,729 2188,747 2188,695 2102,680 331,710" rendition="Line" xml:id="facs_84_tr_1_tl_5"/>
+            <zone points="331,821 2092,821 2092,779 1978,764 331,794" rendition="Line" xml:id="facs_84_tr_1_tl_6"/>
+            <zone points="339,902 1066,900 1155,952 2092,932 2092,836 1615,873 339,858" rendition="Line" xml:id="facs_84_tr_1_tl_7"/>
+            <zone points="336,989 2203,989 2203,932 336,944" rendition="Line" xml:id="facs_84_tr_1_tl_8"/>
+            <zone points="336,1073 2171,1108 2171,1024 336,1031" rendition="Line" xml:id="facs_84_tr_1_tl_9"/>
+            <zone points="336,1165 991,1162 991,1100 786,1130 653,1108 336,1113" rendition="Line" xml:id="facs_84_tr_1_tl_10"/>
+            <zone points="628,1241 2208,1249 2208,1184 2171,1182 628,1197" rendition="Line" xml:id="facs_84_tr_1_tl_11" subtype="paragraph"/>
+            <zone points="215,1365 329,1320 462,1367 944,1357 1001,1315 1120,1367 2205,1352 2205,1276 2010,1266 653,1293 341,1281 287,1234 218,1281" rendition="Line" xml:id="facs_84_tr_1_tl_12"/>
+            <zone points="329,1432 1844,1446 2171,1404 2124,1355 329,1357" rendition="Line" xml:id="facs_84_tr_1_tl_13"/>
+            <zone points="329,1493 2235,1493 2235,1446 2109,1434 329,1454" rendition="Line" xml:id="facs_84_tr_1_tl_14"/>
+            <zone points="329,1597 2238,1575 2238,1530 2055,1521 329,1521" rendition="Line" xml:id="facs_84_tr_1_tl_15"/>
+            <zone points="329,1657 2163,1662 2163,1615 1914,1602 329,1617" rendition="Line" xml:id="facs_84_tr_1_tl_16"/>
+            <zone points="329,1755 1637,1788 2270,1743 2270,1696 2173,1684 329,1704" rendition="Line" xml:id="facs_84_tr_1_tl_17"/>
+            <zone points="329,1830 608,1862 687,1820 2181,1827 2181,1783 2079,1770 329,1785" rendition="Line" xml:id="facs_84_tr_1_tl_18"/>
+            <zone points="326,1941 591,1958 685,1906 848,1951 2193,1936 2193,1859 2065,1847 326,1869" rendition="Line" xml:id="facs_84_tr_1_tl_19"/>
+            <zone points="329,2018 2168,2020 2168,1938 329,1953" rendition="Line" xml:id="facs_84_tr_1_tl_21"/>
+            <zone points="321,2079 2235,2084 2235,2032 2171,2020 321,2037" rendition="Line" xml:id="facs_84_tr_1_tl_22"/>
+            <zone points="336,2176 2139,2163 2139,2116 2065,2102 1330,2136 336,2107" rendition="Line" xml:id="facs_84_tr_1_tl_23"/>
+            <zone points="324,2248 1172,2240 1780,2287 1872,2245 2193,2248 2163,2191 324,2205" rendition="Line" xml:id="facs_84_tr_1_tl_24"/>
+            <zone points="329,2334 809,2376 2198,2329 2171,2277 329,2290" rendition="Line" xml:id="facs_84_tr_1_tl_25"/>
+            <zone points="321,2413 2149,2416 2121,2354 321,2374" rendition="Line" xml:id="facs_84_tr_1_tl_26"/>
+            <zone points="329,2510 2136,2502 2136,2453 1812,2416 1352,2470 329,2455" rendition="Line" xml:id="facs_84_tr_1_tl_27"/>
+            <zone points="331,2586 757,2574 816,2628 1162,2628 1278,2576 2166,2589 2166,2532 1704,2517 331,2532" rendition="Line" xml:id="facs_84_tr_1_tl_29"/>
+            <zone points="314,2660 2092,2670 2092,2608 1751,2596 1550,2641 1224,2608 314,2638" rendition="Line" xml:id="facs_84_tr_1_tl_30"/>
+            <zone points="324,2752 2178,2749 2178,2688 1815,2678 1610,2722 1533,2690 324,2710" rendition="Line" xml:id="facs_84_tr_1_tl_31"/>
+            <zone points="321,2831 381,2838 396,2829 405,2838 435,2838 457,2853 492,2836 569,2836 569,2801 539,2789 415,2789 401,2804 381,2804 366,2789 321,2789" rendition="Line" xml:id="facs_84_tr_1_tl_32"/>
+            <zone points="608,2910 2107,2920 2151,2915 2154,2846 608,2858" rendition="Line" xml:id="facs_84_tr_1_tl_33" subtype="paragraph"/>
+            <zone points="316,2994 695,2997 764,3044 1103,3044 1199,2997 2077,3012 2077,2955 1919,2942 316,2969" rendition="Line" xml:id="facs_84_tr_1_tl_34"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0084.jpg" n="part1_p084.jpg" xml:id="img_0084" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p084.jpg"/>
+            
+            <ab facs="#facs_84_tr_1">
+               <lb facs="#facs_84_tr_1_tl_1" n="N001"/>[81]
+               <lb facs="#facs_84_tr_1_tl_2" n="N002"/>than we have.<education> BUT IS THIS PROGRESSIVE EDUCATION? Of course, we must ask
+               <lb break="no" facs="#facs_84_tr_1_tl_3" n="N003"/>what does education mean? It means a transformation of the personality in the direction
+               <lb break="no" facs="#facs_84_tr_1_tl_4" n="N004"/>of meaning and value. Now this happens always in individuals. But every individual can
+               <lb break="no" facs="#facs_84_tr_1_tl_5" n="N005"/>resist. And this resistance can have the character of not only forgetting, but of falling
+               <lb break="no" facs="#facs_84_tr_1_tl_6" n="N006"/>down to something which seems to belong to a state of things long ago overcome.
+               <lb break="no" facs="#facs_84_tr_1_tl_7" n="N007"/>The experience behind what I say is the shaking experience of the 20th century,
+               <lb break="no" facs="#facs_84_tr_1_tl_8" n="N008"/>when, after thousands of years of human education, and after two especially educational
+               <lb break="no" facs="#facs_84_tr_1_tl_9" n="N009"/>centuries (the 18th and the 19th), mankind fell down into a savagery which trespassed
+               <lb break="no" facs="#facs_84_tr_1_tl_10" n="N010"/>everything in former centuries!
+               <lb break="no" facs="#facs_84_tr_1_tl_11" n="N011"/>Now this means: the forms in which education is going on are changing;
+               <lb break="no" facs="#facs_84_tr_1_tl_12" n="N012"/>the techniques are progressive. <rs type="keyword" ref="#Freedom">But in the moment in which progressivistic [sic.] actions meet</rs>
+               <lb break="no" facs="#facs_84_tr_1_tl_13" n="N013"/><education>human freedom, NOTHING CAN BE DONE except to appeal to this freedom, and the</education>
+               <lb break="no" facs="#facs_84_tr_1_tl_14" n="N014"/><education>appeal will be announced or not announced. This happens, again, with every new human</education>
+               <lb break="no" facs="#facs_84_tr_1_tl_15" n="N015"/><education>being, it happens again with every new generation. Every education ends where the appeal</education>
+               <lb break="no" facs="#facs_84_tr_1_tl_16" n="N016"/><education>to freedom starts: there, are its limits. <ultimate_concern>You can give them much knowledge, you can</ultimate_concern></education>
+               <lb break="no" facs="#facs_84_tr_1_tl_17" n="N017"/><education><ultimate_concern>give them civilized behavior, but you cannot give them the ultimate decision about ultimate<education/></ultimate_concern><education/></education><education/><ultimate_concern/></education><ultimate_concern>
+               <lb break="no" facs="#facs_84_tr_1_tl_18" n="N018"/><education><ultimate_concern>concern and the consequences for the self-establishment of the personality, which is an<education/></ultimate_concern><education/></education><education/><ultimate_concern/></ultimate_concern><ultimate_concern>
+               <lb break="no" facs="#facs_84_tr_1_tl_19" n="N019"/><education><ultimate_concern>act of freedom. </ultimate_concern>Of course it is freedom implied, involved in destiny; it is not abstract</education>
+               <lb break="no" facs="#facs_84_tr_1_tl_21" n="N020"/><education>or absolute freedom. It is limited by destiny, but in these limits it IS freedom, and</education>
+               <lb break="no" facs="#facs_84_tr_1_tl_22" n="N021"/><education>in these limits no education can force mankind as a whole into something where freedom</education>
+               <lb break="no" facs="#facs_84_tr_1_tl_23" n="N022"/><rs type="keyword" ref="#Freedom">(and that means personal decision) is involved. This is the decisive limit</rs>. Therefore
+               <lb break="no" facs="#facs_84_tr_1_tl_24" n="N023"/>the belief in education as a progressive things [sic.], becomes a superstition in the moment in
+               <lb break="no" facs="#facs_84_tr_1_tl_25" n="N024"/>which a law of continuous progress is derived from it, and the belief is that the people
+               <lb break="no" facs="#facs_84_tr_1_tl_26" n="N025"/>in the creative realm--where personal decisions are involved, where ultimate concern is
+               <lb break="no" facs="#facs_84_tr_1_tl_27" n="N026"/>involved--are better in the year 1955 than they were in the year 1955 before Christ.
+               <lb break="no" facs="#facs_84_tr_1_tl_29" n="N027"/>THEY ARE NOT! The civilized forms--and that means ultimately techniques--are better;
+               <lb break="no" facs="#facs_84_tr_1_tl_30" n="N028"/>they are more adequate to the purpose of all techniques, about which I will speak
+               <lb break="no" facs="#facs_84_tr_1_tl_31" n="N029"/>more instantly. BUT <hi style="text-decoration: underline;">THE PEOPLE</hi> ARE NOT BETTER! And that's what I wanted
+               <lb break="no" facs="#facs_84_tr_1_tl_32" n="N030"/>to express.</ultimate_concern>
+               <lb facs="#facs_84_tr_1_tl_33" n="N031"/>Now let us imagine for a moment the opposite idea: the opposite idea
+               <lb facs="#facs_84_tr_1_tl_34" n="N032"/>would mean that the ethical decision can be PRODUCED by educatiors [sic.]. You can
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

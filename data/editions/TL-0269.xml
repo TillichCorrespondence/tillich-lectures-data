@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p269</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p269</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_269">
+         <graphic url="TL-0269.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MJKNAUOKABKEUMHFEQZURIQW&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="104,251 104,3443 2307,3443 2307,251" rendition="TextRegion" xml:id="facs_269_tr_1">
+            <zone points="1102,329 1116,329 1129,341 1221,341 1224,280 1190,280 1175,268 1165,271 1158,263 1138,283 1126,288 1104,285" rendition="Line" xml:id="facs_269_tr_1_tl_1"/>
+            <zone points="344,492 2303,492 2250,427 1382,448 1343,410 1102,410 946,451 907,412 663,410 624,448 563,410 344,453" rendition="Line" xml:id="facs_269_tr_1_tl_2"/>
+            <zone points="324,634 1153,644 1241,707 1767,678 1833,636 2235,653 2238,590 324,609" rendition="Line" xml:id="facs_269_tr_1_tl_3"/>
+            <zone points="349,792 2230,797 2230,719 1489,765 349,748" rendition="Line" xml:id="facs_269_tr_1_tl_4"/>
+            <zone points="339,931 1068,943 1141,994 2240,943 2240,878 339,907" rendition="Line" xml:id="facs_269_tr_1_tl_5"/>
+            <zone points="349,1129 670,1158 1394,1109 1533,1158 2189,1131 2247,1092 2247,1046 1943,1026 349,1053" rendition="Line" xml:id="facs_269_tr_1_tl_6"/>
+            <zone points="344,1238 2116,1255 2116,1199 1801,1180 344,1197" rendition="Line" xml:id="facs_269_tr_1_tl_7"/>
+            <zone points="336,1392 1528,1397 1528,1346 1038,1333 336,1367" rendition="Line" xml:id="facs_269_tr_1_tl_8"/>
+            <zone points="544,1543 2199,1572 2199,1482 2106,1467 1921,1509 544,1484" rendition="Line" xml:id="facs_269_tr_1_tl_9" subtype="paragraph"/>
+            <zone points="88,1738 246,1714 278,1736 344,1694 392,1733 958,1716 958,1662 895,1631 639,1633 604,1665 522,1631 483,1665 453,1633 297,1643 263,1614 224,1650 163,1621 90,1660" rendition="Line" xml:id="facs_269_tr_1_tl_10"/>
+            <zone points="536,1845 2179,1843 2179,1782 2077,1774 2035,1809 1740,1811 1704,1774 1467,1811 1207,1777 1136,1814 1090,1779 797,1814 536,1777" rendition="Line" xml:id="facs_269_tr_1_tl_11" subtype="paragraph"/>
+            <zone points="327,1996 2172,2004 2172,1940 327,1965" rendition="Line" xml:id="facs_269_tr_1_tl_12"/>
+            <zone points="332,2150 1555,2157 1555,2099 332,2104" rendition="Line" xml:id="facs_269_tr_1_tl_13"/>
+            <zone points="529,2301 2245,2308 2218,2238 1650,2269 529,2240" rendition="Line" xml:id="facs_269_tr_1_tl_14" subtype="paragraph"/>
+            <zone points="341,2501 629,2498 697,2455 2182,2452 2182,2401 2138,2396 341,2391" rendition="Line" xml:id="facs_269_tr_1_tl_15"/>
+            <zone points="324,2601 2138,2611 2138,2547 324,2576" rendition="Line" xml:id="facs_269_tr_1_tl_16"/>
+            <zone points="344,2752 2116,2757 2116,2703 344,2706" rendition="Line" xml:id="facs_269_tr_1_tl_17"/>
+            <zone points="322,2908 2184,2908 2184,2852 322,2859" rendition="Line" xml:id="facs_269_tr_1_tl_18"/>
+            <zone points="317,3057 2101,3062 2101,3003 2040,2998 317,3030" rendition="Line" xml:id="facs_269_tr_1_tl_19"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0269.jpg" n="part1_p269.jpg" xml:id="img_0269" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p269.jpg"/>
+            
+            <ab facs="#facs_269_tr_1">
+               <lb facs="#facs_269_tr_1_tl_1" n="N001"/>[265]
+               <lb facs="#facs_269_tr_1_tl_2" n="N002"/>AWARE OF HIS <rs type="keyword" ref="#Finitude">FINITUDE</rs>. Now EVERYTHING is finite, everything in time and space is finite.
+               <lb facs="#facs_269_tr_1_tl_3" n="N003"/>BUt [sic.] not everything is aware of its finitude. Man is aware that he IS finite. We can, so to speak,
+               <lb facs="#facs_269_tr_1_tl_4" n="N004"/>describe man as that being which is aware of his finitude. But how CAN one be aware of one's
+               <lb facs="#facs_269_tr_1_tl_5" n="N005"/>finitude only by being BEYOND it? You cannot be aware of that with which you are identical.
+               <lb facs="#facs_269_tr_1_tl_6" n="N006"/>Awareness always presupposes some presupposition, some element of subject-object separation.
+               <lb facs="#facs_269_tr_1_tl_7" n="N007"/>You can be aware of yourselves only because you are in the process of self-consciousness,
+               <lb facs="#facs_269_tr_1_tl_8" n="N008"/>separated from yourselves, although united with yourselves.
+               <lb facs="#facs_269_tr_1_tl_9" n="N009"/>When I ask how can man be aware of his<rs type="keyword" ref="#Finitude"> finitude</rs>, then my answer is: because he is
+               <lb facs="#facs_269_tr_1_tl_10" n="N010"/>aware of his potential infinity.
+               <lb facs="#facs_269_tr_1_tl_11" n="N011"/>But now the next step comes. This potential <rs type="keyword" ref="#Finitude">infinity</rs>, which we experience, has at
+               <lb facs="#facs_269_tr_1_tl_12" n="N012"/>the same time the character of nonactualized potentiality, or, expressed even sharper, it is an
+               <lb facs="#facs_269_tr_1_tl_13" n="N013"/>infinity to which we belong and from which we are excluded.
+               <lb facs="#facs_269_tr_1_tl_14" n="N014"/>Now let me make this clear by a word to which I always draw my attention---the word
+               <lb facs="#facs_269_tr_1_tl_15" n="N015"/>"the mortals." It is very interesting that in [the] <rs type="person">Homeric </rs>writings and later on in the classic
+               <lb facs="#facs_269_tr_1_tl_16" n="N016"/>tragedy, the Greek uses not the word <hi style="font-style: italic;">anthropoi</hi>, which means "men," but it uses the word
+               <lb facs="#facs_269_tr_1_tl_17" n="N017"/>"the mortals." Why? What does that mean? EVERY living being is mortal. Why are MEN
+               <lb facs="#facs_269_tr_1_tl_18" n="N018"/>the mortals, and not animals or plants, which are certainly also mortal? Because for man it is
+               <lb facs="#facs_269_tr_1_tl_19" n="N019"/>something which draws the attention: there is something about his being mortal which is
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

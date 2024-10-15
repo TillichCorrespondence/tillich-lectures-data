@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p073</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p073</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_73">
+         <graphic url="TL-0073.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GXMWUBXQETBFGNPYZYSCPFYB&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="208,253 208,3457 2245,3457 2245,253" rendition="TextRegion" xml:id="facs_73_tr_2">
+            <zone points="1111,305 1126,305 1128,310 1148,310 1166,317 1198,317 1210,308 1225,308 1228,258 1190,260 1178,246 1173,248 1166,243 1148,258 1111,258" rendition="Line" xml:id="facs_73_tr_2_tl_1"/>
+            <zone points="305,469 796,479 853,518 2058,491 2056,434 1419,429 1384,394 1334,429 305,424" rendition="Line" xml:id="facs_73_tr_2_tl_2"/>
+            <zone points="308,560 2029,583 2081,578 2081,526 305,521" rendition="Line" xml:id="facs_73_tr_2_tl_3"/>
+            <zone points="308,645 737,680 962,675 999,637 2091,660 2091,613 1672,595 1610,625 308,593" rendition="Line" xml:id="facs_73_tr_2_tl_4"/>
+            <zone points="303,719 387,774 1565,771 1639,729 2230,754 2185,687 303,672" rendition="Line" xml:id="facs_73_tr_2_tl_5"/>
+            <zone points="303,813 2113,831 2113,786 1924,771 303,769" rendition="Line" xml:id="facs_73_tr_2_tl_6"/>
+            <zone points="293,893 1567,955 1798,905 2237,918 2237,868 2192,863 293,848" rendition="Line" xml:id="facs_73_tr_2_tl_7"/>
+            <zone points="290,975 2024,1004 2024,950 1895,935 290,930" rendition="Line" xml:id="facs_73_tr_2_tl_8"/>
+            <zone points="288,1064 2190,1091 2143,1019 288,1014" rendition="Line" xml:id="facs_73_tr_2_tl_9"/>
+            <zone points="285,1138 2039,1163 2039,1121 1964,1106 1920,1136 285,1104" rendition="Line" xml:id="facs_73_tr_2_tl_10"/>
+            <zone points="285,1230 2165,1250 2163,1198 285,1180" rendition="Line" xml:id="facs_73_tr_2_tl_11"/>
+            <zone points="278,1304 2175,1342 2175,1290 1986,1275 278,1282" rendition="Line" xml:id="facs_73_tr_2_tl_12"/>
+            <zone points="538,1406 2103,1421 2051,1364 538,1344" rendition="Line" xml:id="facs_73_tr_2_tl_13" subtype="paragraph"/>
+            <zone points="273,1490 325,1528 625,1505 1044,1528 1101,1495 1099,1443 270,1436" rendition="Line" xml:id="facs_73_tr_2_tl_14"/>
+            <zone points="533,1572 1550,1632 2081,1605 2081,1535 533,1515" rendition="Line" xml:id="facs_73_tr_2_tl_15" subtype="paragraph"/>
+            <zone points="275,1699 1525,1657 2024,1686 1986,1612 273,1617" rendition="Line" xml:id="facs_73_tr_2_tl_16"/>
+            <zone points="275,1741 655,1781 751,1729 2110,1781 2110,1696 275,1699" rendition="Line" xml:id="facs_73_tr_2_tl_17"/>
+            <zone points="273,1820 1451,1875 1518,1823 2088,1838 2088,1796 2036,1788 273,1771" rendition="Line" xml:id="facs_73_tr_2_tl_18"/>
+            <zone points="270,1902 2123,1927 2120,1877 2063,1865 270,1855" rendition="Line" xml:id="facs_73_tr_2_tl_19"/>
+            <zone points="265,1984 2143,2014 2143,1959 2073,1947 265,1952" rendition="Line" xml:id="facs_73_tr_2_tl_20"/>
+            <zone points="265,2063 841,2115 1664,2115 1716,2083 2239,2113 2239,2026 1699,2056 1456,2019 1421,2051 265,2019" rendition="Line" xml:id="facs_73_tr_2_tl_21"/>
+            <zone points="260,2182 528,2190 578,2150 625,2195 1270,2170 1317,2212 1905,2212 1979,2165 2113,2180 2083,2115 1964,2145 260,2106" rendition="Line" xml:id="facs_73_tr_2_tl_22"/>
+            <zone points="260,2247 2056,2262 2056,2205 260,2190" rendition="Line" xml:id="facs_73_tr_2_tl_23"/>
+            <zone points="260,2316 2068,2346 2068,2296 1982,2279 1882,2309 260,2274" rendition="Line" xml:id="facs_73_tr_2_tl_24"/>
+            <zone points="255,2403 2041,2433 2039,2381 1833,2361 1495,2391 255,2358" rendition="Line" xml:id="facs_73_tr_2_tl_25"/>
+            <zone points="258,2490 2128,2515 2128,2465 1939,2450 258,2440" rendition="Line" xml:id="facs_73_tr_2_tl_26"/>
+            <zone points="258,2579 2115,2599 2115,2552 255,2522" rendition="Line" xml:id="facs_73_tr_2_tl_27"/>
+            <zone points="255,2659 2088,2693 2056,2626 255,2629" rendition="Line" xml:id="facs_73_tr_2_tl_28"/>
+            <zone points="243,2738 1617,2765 1617,2716 1282,2698 243,2698" rendition="Line" xml:id="facs_73_tr_2_tl_29"/>
+            <zone points="503,2835 2071,2850 2071,2797 503,2780" rendition="Line" xml:id="facs_73_tr_2_tl_30" subtype="paragraph"/>
+            <zone points="236,2907 893,2916 1153,2978 1376,2976 1431,2919 2227,2939 2225,2874 2145,2867 1793,2902 236,2882" rendition="Line" xml:id="facs_73_tr_2_tl_31"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0073.jpg" n="part1_p073.jpg" xml:id="img_0073" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p073.jpg"/>
+            
+            <ab facs="#facs_73_tr_2">
+               <lb facs="#facs_73_tr_2_tl_1" n="N001"/>[70]
+               <lb facs="#facs_73_tr_2_tl_2" n="N002"/>constitute ours, because OUR environment has also elements of contemplation, of
+               <lb facs="#facs_73_tr_2_tl_3" n="N003"/>aesthetics, of memories, of historical consciousness and many other elements which
+               <lb facs="#facs_73_tr_2_tl_4" n="N004"/>belong to our cultural creativity and therefore create a quite different environment.
+               <lb facs="#facs_73_tr_2_tl_5" n="N005"/>Now this has an immediately important religious consequence: the environmental theories
+               <lb facs="#facs_73_tr_2_tl_6" n="N006"/>are all wrong for the reason that they presuppose a stable environment and are not
+               <lb facs="#facs_73_tr_2_tl_7" n="N007"/>aware of the fact that environment is always a matter of correlation, namely a correlation
+               <lb facs="#facs_73_tr_2_tl_8" n="N008"/>between he-who-has-the-environment, and the environment. We can certainly say
+               <lb facs="#facs_73_tr_2_tl_9" n="N009"/>that the environment influences us, and in this sense is cause for many things happening
+               <lb facs="#facs_73_tr_2_tl_10" n="N010"/>to us and done by us. On the other hand, the other side is equally strong, that
+               <lb facs="#facs_73_tr_2_tl_11" n="N011"/>every spontaneous and free human being (animals as well as man) creates their environ-
+               <lb facs="#facs_73_tr_2_tl_12" n="N012"/>ment by the very character of this correlation between themselves and the environment.
+               <lb facs="#facs_73_tr_2_tl_13" n="N013"/>Now this is a fundamental insight which we must use also as a criterion
+               <lb facs="#facs_73_tr_2_tl_14" n="N014"/>to criticize the environmental theories.
+               <lb facs="#facs_73_tr_2_tl_15" n="N015"/>Secondly, man, beyond this, is able to have objects as mere objects, not
+               <lb facs="#facs_73_tr_2_tl_16" n="N016"/>as objects of action but as objects of contemplation, etc.--i.e., for instance the
+               <lb facs="#facs_73_tr_2_tl_17" n="N017"/>aesthetic relationship: this is already clear if you compare the expressive sounds of
+               <lb facs="#facs_73_tr_2_tl_18" n="N018"/>animals with the designative character of human language. Men also have expressive
+               <lb facs="#facs_73_tr_2_tl_19" n="N019"/>sounds, and perhaps primitive men have more of expressive sounds than of designative
+               <lb facs="#facs_73_tr_2_tl_20" n="N020"/>concepts. But in one moment of the development, very slowly perhaps, but some time
+               <lb facs="#facs_73_tr_2_tl_21" n="N021"/>it happens that man is able to grasp universals with his language, that he has NOT ONLY
+               <lb facs="#facs_73_tr_2_tl_22" n="N022"/>the expressive but also the designative language--designating objects <hi style="font-style: italic;">qua</hi> objects. It is
+               <lb facs="#facs_73_tr_2_tl_23" n="N023"/>very interesting that such differences always reappear on the soil of mankind itself.
+               <lb facs="#facs_73_tr_2_tl_24" n="N024"/>For instance, we can compare the Greek attitude towards reality with the modern.
+               <lb facs="#facs_73_tr_2_tl_25" n="N025"/>In Greece, the objectivation of the world reached its top. The Greek philosophers,
+               <lb facs="#facs_73_tr_2_tl_26" n="N026"/>and already the Greek language, was able to produce a system of concepts with which
+               <lb facs="#facs_73_tr_2_tl_27" n="N027"/>it was possible to grasp reality as contemplated, as a totality of calculable or intuitive
+               <lb facs="#facs_73_tr_2_tl_28" n="N028"/>objects. This is the Greek attitude, and the greatness of the Greeks. On this basis,
+               <lb facs="#facs_73_tr_2_tl_29" n="N029"/>they were able to produce science and philosophy, and history.
+               <lb facs="#facs_73_tr_2_tl_30" n="N030"/>When we come to the modern time, the situation seems to be different.
+               <lb facs="#facs_73_tr_2_tl_31" n="N031"/>And you can observe that in the Renaissance period. Take a man like <rs type="person" key="Da Vinci, Leonardo">Leonardo Da Vinci</rs>:
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

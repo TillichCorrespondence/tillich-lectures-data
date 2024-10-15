@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p021</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p021</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_21">
+         <graphic url="TL-0021.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GQMPHWHBQJTYQGXHQFWZUIYW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="214,283 236,3327 2379,3272 2349,283" rendition="TextRegion" xml:id="facs_21_tr_1">
+            <zone points="1220,326 1233,326 1265,342 1277,339 1296,342 1314,337 1311,285 1309,288 1288,288 1270,272 1257,285 1218,288" rendition="Line" xml:id="facs_21_tr_1_tl_1"/>
+            <zone points="275,487 2171,518 2171,464 2055,459 593,420 275,451" rendition="Line" xml:id="facs_21_tr_1_tl_2"/>
+            <zone points="272,575 2148,612 2148,549 2096,544 632,544 485,492 272,492" rendition="Line" xml:id="facs_21_tr_1_tl_3"/>
+            <zone points="269,653 2107,687 2107,630 269,606" rendition="Line" xml:id="facs_21_tr_1_tl_4"/>
+            <zone points="259,733 2114,770 2114,728 1977,707 941,718 679,681 586,713 311,676 259,710" rendition="Line" xml:id="facs_21_tr_1_tl_5"/>
+            <zone points="259,824 2112,853 2109,801 2008,790 259,780" rendition="Line" xml:id="facs_21_tr_1_tl_6"/>
+            <zone points="262,910 2345,941 2345,884 2159,873 262,860" rendition="Line" xml:id="facs_21_tr_1_tl_7"/>
+            <zone points="262,995 2218,1026 2216,974 2102,961 262,946" rendition="Line" xml:id="facs_21_tr_1_tl_8"/>
+            <zone points="259,1083 2151,1106 2148,1052 1959,1036 1873,1068 1682,1031 1360,1062 259,1029" rendition="Line" xml:id="facs_21_tr_1_tl_9"/>
+            <zone points="251,1176 2044,1205 2044,1135 1897,1122 1770,1153 1687,1117 251,1117" rendition="Line" xml:id="facs_21_tr_1_tl_10"/>
+            <zone points="249,1244 355,1285 656,1254 1762,1285 1762,1220 1596,1205 249,1200" rendition="Line" xml:id="facs_21_tr_1_tl_11"/>
+            <zone points="498,1360 2109,1355 2109,1288 498,1285" rendition="Line" xml:id="facs_21_tr_1_tl_12" subtype="paragraph"/>
+            <zone points="238,1415 2148,1456 2146,1394 2063,1386 238,1381" rendition="Line" xml:id="facs_21_tr_1_tl_13"/>
+            <zone points="249,1506 987,1508 1182,1560 1438,1563 1480,1518 2153,1531 2151,1480 2073,1467 249,1451" rendition="Line" xml:id="facs_21_tr_1_tl_14"/>
+            <zone points="246,1583 2039,1638 2039,1563 244,1537" rendition="Line" xml:id="facs_21_tr_1_tl_15"/>
+            <zone points="231,1661 295,1713 531,1697 617,1721 681,1702 681,1632 624,1632 609,1617 586,1632 567,1614 498,1630 482,1617 404,1640 306,1612 231,1638" rendition="Line" xml:id="facs_21_tr_1_tl_16"/>
+            <zone points="487,1752 2241,1780 2241,1718 2073,1710 1827,1739 487,1700" rendition="Line" xml:id="facs_21_tr_1_tl_17" subtype="paragraph"/>
+            <zone points="233,1832 1920,1858 1995,1892 1993,1793 1718,1775 233,1793" rendition="Line" xml:id="facs_21_tr_1_tl_18"/>
+            <zone points="223,1933 2267,1946 2267,1897 2107,1889 1283,1902 1182,1858 342,1842 223,1876" rendition="Line" xml:id="facs_21_tr_1_tl_19"/>
+            <zone points="231,2006 2174,2032 2171,1982 2003,1969 1262,1990 231,1943" rendition="Line" xml:id="facs_21_tr_1_tl_20"/>
+            <zone points="215,2076 288,2096 332,2081 347,2094 373,2081 510,2102 586,2099 609,2083 637,2099 674,2094 674,2042 630,2029 617,2042 339,2039 326,2052 257,2024 215,2037" rendition="Line" xml:id="facs_21_tr_1_tl_21"/>
+            <zone points="648,2177 1806,2197 1806,2130 1708,2156 1638,2125 648,2114" rendition="Line" xml:id="facs_21_tr_1_tl_22"/>
+            <zone points="650,2260 1526,2280 1575,2275 1573,2218 648,2205" rendition="Line" xml:id="facs_21_tr_1_tl_23"/>
+            <zone points="220,2332 2021,2374 2019,2288 1552,2280 1363,2322 220,2283" rendition="Line" xml:id="facs_21_tr_1_tl_24"/>
+            <zone points="215,2446 1329,2431 1972,2488 2208,2459 2205,2402 1982,2381 1734,2415 1687,2384 715,2397 430,2350 212,2379" rendition="Line" xml:id="facs_21_tr_1_tl_25"/>
+            <zone points="215,2508 2164,2542 2161,2490 1822,2472 215,2462" rendition="Line" xml:id="facs_21_tr_1_tl_26"/>
+            <zone points="210,2589 2039,2656 2039,2573 1936,2555 210,2563" rendition="Line" xml:id="facs_21_tr_1_tl_27"/>
+            <zone points="212,2679 2146,2708 2146,2653 1886,2640 212,2633" rendition="Line" xml:id="facs_21_tr_1_tl_28"/>
+            <zone points="200,2760 2187,2796 2184,2742 2076,2726 200,2726" rendition="Line" xml:id="facs_21_tr_1_tl_29"/>
+            <zone points="205,2848 2068,2881 2003,2819 205,2819" rendition="Line" xml:id="facs_21_tr_1_tl_30"/>
+            <zone points="205,2936 2112,2964 2112,2915 2057,2902 205,2905" rendition="Line" xml:id="facs_21_tr_1_tl_31"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0021.jpg" n="part1_p021.jpg" xml:id="img_0021" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p021.jpg"/>
+            
+            <ab facs="#facs_21_tr_1">
+               <lb facs="#facs_21_tr_1_tl_1" n="N001"/>[18]
+               <lb facs="#facs_21_tr_1_tl_2" n="N002"/>of religion, with its seemingly chaotic character, with the innumerable symbols which we
+               <lb facs="#facs_21_tr_1_tl_3" n="N003"/>find in all parts of mankind, in all cultures and religions. People who go at this reality
+               <lb facs="#facs_21_tr_1_tl_4" n="N004"/>without a key have the feeling that they are swallowed by a chaos in which there is
+               <lb facs="#facs_21_tr_1_tl_5" n="N005"/>no rationality, no structure, no understandable meaning.<rs type="keyword" ref="#Dreams"> It is like the dreams of the
+               <lb break="no" facs="#facs_21_tr_1_tl_6" n="N006"/>unconscious. But even the dreams of the unconscious have their meaning, as we know
+               <lb break="no" facs="#facs_21_tr_1_tl_7" n="N007"/>today. They are not completely irrational, although they are irrational from the point of view of
+               <lb break="no" facs="#facs_21_tr_1_tl_8" n="N008"/>day-awakening [i.e., waking consciousness--ed.]. But they are SOMEHOW rational insofar as
+               <lb break="no" facs="#facs_21_tr_1_tl_9" n="N009"/>they express something of the reality of our being, which otherwise cannot and has not
+               <lb break="no" facs="#facs_21_tr_1_tl_10" n="N010"/>been expressed. </rs>And that is the same with the expressions of religions, namely the
+               <lb facs="#facs_21_tr_1_tl_11" n="N011"/>concrete concerns which we find everywhere in the history of religion.
+               <lb facs="#facs_21_tr_1_tl_12" n="N012"/>Now this is not a lecture on philosophy of religion, although it is a great
+               <lb facs="#facs_21_tr_1_tl_13" n="N013"/>temptation for me to stick to this subject indefinitely, especially when I feel how many
+               <lb facs="#facs_21_tr_1_tl_14" n="N014"/>questions are in your minds about these shocking ideas which I have produced last time.
+               <lb facs="#facs_21_tr_1_tl_15" n="N015"/>Nevertheless I must be brief about it so that we can soon come to the relation of
+               <lb facs="#facs_21_tr_1_tl_16" n="N016"/>culture and religion.
+               <lb facs="#facs_21_tr_1_tl_17" n="N017"/><rs type="keyword" ref="#RELIGION"><rs type="keyword" ref="#Ultimacy">From the point of view of religion as ULTIMATE concern, as UNCONDITIONAL</rs>
+               <lb break="no" facs="#facs_21_tr_1_tl_18" n="N018"/><rs type="keyword" ref="#Ultimacy">concern, we can say that RELIGION IS THE SUBSTANCE OF CULTURE, AND</rs>
+               <lb break="no" facs="#facs_21_tr_1_tl_19" n="N019"/><rs type="keyword" ref="#Ultimacy">CULTURE IS THE FORM OE RELIGION. Now this is another shocking statement into which</rs>
+               <lb break="no" facs="#facs_21_tr_1_tl_20" n="N020"/><rs type="keyword" ref="#Ultimacy">I don’t want to go now, because it will be the main subject of all the following lectures.</rs>
+               <lb break="no" facs="#facs_21_tr_1_tl_21" n="N021"/><rs type="keyword" ref="#Ultimacy">But I will repeat it:</rs>
+               <lb break="no" facs="#facs_21_tr_1_tl_22" n="N022"/><rs type="keyword" ref="#Ultimacy">RELIGION IS THE SUBSTANCE OF CULTURE, and</rs>
+               <lb break="no" facs="#facs_21_tr_1_tl_23" n="N023"/><rs type="keyword" ref="#Ultimacy">CULTURE IS THE FORM OF RELIGION.</rs>
+               <lb break="no" facs="#facs_21_tr_1_tl_24" n="N024"/><rs type="keyword" ref="#Ultimacy">This is so, insofar as religion is the state of ultimate concern. In each of the eight</rs>
+               <lb break="no" facs="#facs_21_tr_1_tl_25" n="N025"/><rs type="keyword" ref="#Ultimacy">cultural levels we have discussed, you find that the real substance, the meaning-giving power,</rs>
+               <lb break="no" facs="#facs_21_tr_1_tl_26" n="N026"/><rs type="keyword" ref="#Ultimacy">the inexhaustibility of the meaning of cultural creations, is that element which I described</rs>
+               <lb break="no" facs="#facs_21_tr_1_tl_27" n="N027"/><rs type="keyword" ref="#Ultimacy">as ultimate concern.</rs></rs> And if such ultimate concern is lacking, culture falls into pieces.
+               <lb facs="#facs_21_tr_1_tl_28" n="N028"/>And on the other hand, where there IS religion, in any sense of the word, there it must
+               <lb facs="#facs_21_tr_1_tl_29" n="N029"/>express itself. But ''expressing'' means expressing itself in cultural forms--in aesthetic forms,
+               <lb facs="#facs_21_tr_1_tl_30" n="N030"/>in cognitive forms, in social forms, in ethical and political forms. So the relationship
+               <lb facs="#facs_21_tr_1_tl_31" n="N031"/>of culture and religion, from the fundamental consideration, from the fundamental point
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

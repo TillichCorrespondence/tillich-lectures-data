@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p020</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p020</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_20">
+         <graphic url="TL-0304.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LSGRFDIJXPJUEZYHCIKCYJPR&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="280,290 2310,290 2310,1093 280,1093" rendition="TextRegion" xml:id="facs_20_tr_3">
+            <zone points="1148,348 1163,348 1170,358 1264,358 1267,289 1229,294 1221,287 1211,297 1196,294 1186,302 1150,300" rendition="Line" xml:id="facs_20_tr_3_tl_1"/>
+            <zone points="457,487 2171,477 2082,396 658,447 457,409" rendition="Line" xml:id="facs_20_tr_3_tl_2" subtype="paragraph"/>
+            <zone points="267,630 1056,678 2249,630 2303,574 267,604" rendition="Line" xml:id="facs_20_tr_3_tl_3"/>
+            <zone points="274,784 1861,784 2074,772 2074,718 274,741" rendition="Line" xml:id="facs_20_tr_3_tl_4"/>
+            <zone points="825,934 2247,934 2247,871 962,866 825,899" rendition="Line" xml:id="facs_20_tr_3_tl_6"/>
+            <zone points="272,1084 2229,1079 2229,1021 272,1038" rendition="Line" xml:id="facs_20_tr_3_tl_8"/>
+         </zone>
+         <zone points="274,1165 2292,1165 2292,2523 274,2523" rendition="TextRegion" xml:id="facs_20_tr_2">
+            <zone points="269,1234 2242,1229 2277,1165 269,1193" rendition="Line" xml:id="facs_20_tr_2_tl_1"/>
+            <zone points="272,1384 2145,1386 2252,1373 2252,1323 272,1340" rendition="Line" xml:id="facs_20_tr_2_tl_2"/>
+            <zone points="269,1546 2171,1541 2173,1478 269,1493" rendition="Line" xml:id="facs_20_tr_2_tl_3"/>
+            <zone points="274,1691 1937,1696 2216,1681 2219,1627 277,1645" rendition="Line" xml:id="facs_20_tr_2_tl_4"/>
+            <zone points="267,1841 2092,1836 2221,1828 2224,1775 267,1808" rendition="Line" xml:id="facs_20_tr_2_tl_5"/>
+            <zone points="264,1990 2221,1983 2244,1924 267,1942" rendition="Line" xml:id="facs_20_tr_2_tl_6"/>
+            <zone points="259,2138 292,2150 475,2148 485,2158 510,2145 668,2150 668,2097 348,2094 289,2097 259,2115" rendition="Line" xml:id="facs_20_tr_2_tl_7"/>
+            <zone points="444,2216 2011,2221 2285,2206 2285,2138 444,2153" rendition="Line" xml:id="facs_20_tr_2_tl_8" subtype="paragraph"/>
+            <zone points="259,2364 1726,2376 1757,2310 259,2338" rendition="Line" xml:id="facs_20_tr_2_tl_9"/>
+            <zone points="442,2513 1998,2516 2153,2508 2153,2450 442,2468" rendition="Line" xml:id="facs_20_tr_2_tl_10" subtype="paragraph"/>
+         </zone>
+         <zone points="26,2595 2242,2595 2242,3482 26,3482" rendition="TextRegion" xml:id="facs_20_tr_1">
+            <zone points="256,2671 2133,2661 2133,2605 256,2628" rendition="Line" xml:id="facs_20_tr_1_tl_1"/>
+            <zone points="259,2821 2135,2821 2226,2805 2226,2732 259,2793" rendition="Line" xml:id="facs_20_tr_1_tl_2"/>
+            <zone points="264,2978 2044,2973 2094,2907 264,2927" rendition="Line" xml:id="facs_20_tr_1_tl_3"/>
+            <zone points="259,3125 2181,3120 2237,3052 259,3080" rendition="Line" xml:id="facs_20_tr_1_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0304.jpg" n="part2_p020.jpg" xml:id="img_0020" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p020.jpg"/>
+            
+            <ab facs="#facs_20_tr_3">
+               <lb facs="#facs_20_tr_3_tl_1" n="N001"/>[300]
+               <lb facs="#facs_20_tr_3_tl_2" n="N002"/>This is the second function of art. Now I come to the third and fundamental, which is
+               <lb facs="#facs_20_tr_3_tl_3" n="N003"/>embracing and decisive, namely the expressive function. Art "expresses" reality. The word expression
+               <lb facs="#facs_20_tr_3_tl_4" n="N004"/>can be used in a very large metaphysical sense. If this is done, we can do what Spinoza did
+               <lb facs="#facs_20_tr_3_tl_6" n="N005"/>who said that the substance of reality is expressed in the modes. The substance---of course, for him,
+               <lb facs="#facs_20_tr_3_tl_8" n="N006"/>the divine ground of everything, which has several attributes; and then there are the modes: all the
+            </ab>
+            <ab facs="#facs_20_tr_2">
+               <lb facs="#facs_20_tr_2_tl_1" n="N001"/>finite things in the world. In this philosophy, which theologians sometimes dismiss with the left hand
+               <lb facs="#facs_20_tr_2_tl_2" n="N002"/>with the word "pantheism" without giving a meaningful definition of this word! --- then perhaps the
+               <lb facs="#facs_20_tr_2_tl_3" n="N003"/>left hand wouldn't be enough! --- in any case, in this great philosophy which Spinoza represents,
+               <lb facs="#facs_20_tr_2_tl_4" n="N004"/>we can say we have a system of expression, namely expressing the divine ground of [or] substance
+               <lb facs="#facs_20_tr_2_tl_5" n="N005"/>of reality in everything finite, and therefore everything finite---as already in Aristotle---is in a drive
+               <lb facs="#facs_20_tr_2_tl_6" n="N006"/>back towards the infinite ground, a drive which Spinoza calls the "intellectual love" which becomes
+               <lb facs="#facs_20_tr_2_tl_7" n="N007"/>actual only in man.
+               <lb facs="#facs_20_tr_2_tl_8" n="N008"/>Now this doctrine of expression can be applied to art. It is a kind of ontological background
+               <lb facs="#facs_20_tr_2_tl_9" n="N009"/>of an understanding of this third function of art, namely to express reality.
+               <lb facs="#facs_20_tr_2_tl_10" n="N010"/>What is expressed? Three things. First, objectively: the material of the finite, of the
+            </ab>
+            <ab facs="#facs_20_tr_1">
+               <lb facs="#facs_20_tr_1_tl_1" n="N001"/>finite reality in time and space, which is used---in words or pictures or musical sounds or other
+               <lb facs="#facs_20_tr_1_tl_2" n="N002"/>expressions. Secondly, the expression of the encounter of him who creates, or in hearing and
+               <lb facs="#facs_20_tr_1_tl_3" n="N003"/>seeing recreates, the expression of subjectivity. And the third---and for this reason I brought
+               <lb facs="#facs_20_tr_1_tl_4" n="N004"/>Spinoza's philosophy in---the expression of ULTIMATE reality. And the way in which ULTIMATE
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

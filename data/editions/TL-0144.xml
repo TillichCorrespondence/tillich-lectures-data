@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p144</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p144</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_144">
+         <graphic url="TL-0144.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=JUKUNXZFCGOXXDMQGZBRMQDY&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="340,221 340,3473 2409,3473 2409,221" rendition="TextRegion" xml:id="facs_144_tr_1">
+            <zone points="1123,303 1146,303 1154,310 1167,310 1177,303 1185,310 1216,310 1226,300 1239,300 1239,235 1206,238 1188,256 1162,254 1157,248 1123,248" rendition="Line" xml:id="facs_144_tr_1_tl_1"/>
+            <zone points="370,466 2285,474 2285,419 1992,383 370,406" rendition="Line" xml:id="facs_144_tr_1_tl_2"/>
+            <zone points="365,595 523,644 2256,626 2256,559 2127,551 365,546" rendition="Line" xml:id="facs_144_tr_1_tl_3"/>
+            <zone points="354,745 1568,787 2339,763 2339,704 1770,678 354,696" rendition="Line" xml:id="facs_144_tr_1_tl_4"/>
+            <zone points="365,900 1959,908 1959,854 365,846" rendition="Line" xml:id="facs_144_tr_1_tl_5"/>
+            <zone points="561,1053 1604,1095 2217,1061 2215,1001 561,1019" rendition="Line" xml:id="facs_144_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="362,1201 2287,1211 2287,1151 362,1172" rendition="Line" xml:id="facs_144_tr_1_tl_7"/>
+            <zone points="360,1348 2287,1377 2287,1309 2249,1307 360,1299" rendition="Line" xml:id="facs_144_tr_1_tl_8"/>
+            <zone points="326,1542 406,1506 471,1542 1982,1571 2135,1537 2305,1571 2406,1509 2347,1454 326,1477" rendition="Line" xml:id="facs_144_tr_1_tl_9"/>
+            <zone points="354,1651 1040,1695 1100,1661 2321,1669 2321,1615 354,1602" rendition="Line" xml:id="facs_144_tr_1_tl_10"/>
+            <zone points="352,1809 2305,1822 2305,1754 352,1775" rendition="Line" xml:id="facs_144_tr_1_tl_11"/>
+            <zone points="344,1954 445,2018 1188,1982 1596,2018 1656,1961 2282,1961 2282,1904 344,1928" rendition="Line" xml:id="facs_144_tr_1_tl_12"/>
+            <zone points="354,2119 2396,2117 2396,2060 354,2057" rendition="Line" xml:id="facs_144_tr_1_tl_13"/>
+            <zone points="349,2256 2274,2277 2274,2192 349,2225" rendition="Line" xml:id="facs_144_tr_1_tl_14"/>
+            <zone points="344,2404 2236,2414 2233,2357 342,2355" rendition="Line" xml:id="facs_144_tr_1_tl_15"/>
+            <zone points="347,2598 1454,2626 1498,2590 2280,2572 2280,2510 347,2531" rendition="Line" xml:id="facs_144_tr_1_tl_16"/>
+            <zone points="347,2709 486,2740 1630,2709 1801,2756 1850,2714 2285,2714 2285,2657 347,2657" rendition="Line" xml:id="facs_144_tr_1_tl_17"/>
+            <zone points="347,2859 2220,2867 2220,2802 347,2807" rendition="Line" xml:id="facs_144_tr_1_tl_18"/>
+            <zone points="339,3012 1079,3017 1144,3058 1206,3017 2205,3020 2205,2960 339,2983" rendition="Line" xml:id="facs_144_tr_1_tl_19"/>
+            <zone points="339,3175 763,3224 1335,3175 2098,3180 2331,3165 2334,3095 1545,3139 1151,3102 712,3175 603,3126 339,3144" rendition="Line" xml:id="facs_144_tr_1_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0144.jpg" n="part1_p144.jpg" xml:id="img_0144" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p144.jpg"/>
+            
+            <ab facs="#facs_144_tr_1">
+               <lb facs="#facs_144_tr_1_tl_1" n="N001"/>[141]
+
+               <lb facs="#facs_144_tr_1_tl_2" n="N002"/>value? My answer was, it cannot. There are many ways in which an idea can come into existence,
+               <lb facs="#facs_144_tr_1_tl_3" n="N003"/>but no way as such refutes or confirms the truth WITHIN ITSELF. For this reason, I warn you,
+               <lb facs="#facs_144_tr_1_tl_4" n="N004"/>ALWAYS, [not] to confuse these two questions, of <genesis>genesis</genesis> and <rs type="keyword" ref="#Validity">validity</rs>. I may add here perhaps one
+               <lb facs="#facs_144_tr_1_tl_5" n="N005"/>thing because it is of such practical importance for our thought in our daily lives:
+               <lb facs="#facs_144_tr_1_tl_6" n="N006"/>Let us imagine that you discuss a problem of a life decision, an ethical or vocational
+               <lb facs="#facs_144_tr_1_tl_7" n="N007"/>decision, with a friend. And after a certain time, he tells you: of course, you must think like that
+               <lb facs="#facs_144_tr_1_tl_8" n="N008"/>because you come from this suburban sociological background. --- If then I were in your situation,
+               <lb facs="#facs_144_tr_1_tl_9" n="N009"/>I would answer: Yes, and you must think like that because you have neurotic traits in your character! --
+               <lb facs="#facs_144_tr_1_tl_10" n="N010"/>This is the only answer you can give. And then what is the next step? l used to say the next step is
+               <lb facs="#facs_144_tr_1_tl_11" n="N011"/>that one of the two says to the other, "So let's stop this and have a drink!" <hi style="font-style: italic;">[laughter]</hi> Now this is
+               <lb facs="#facs_144_tr_1_tl_12" n="N012"/>a caricature of the method which confuses genesis and validity. Probably he is right when he tells
+               <lb facs="#facs_144_tr_1_tl_13" n="N013"/>you that the fact of your coming from a special suburban surroundings enforces your ethical judgments.
+               <lb facs="#facs_144_tr_1_tl_14" n="N014"/>And probably YOU are right when you tell HIM that the neurotic elements (everybody has some)
+               <lb facs="#facs_144_tr_1_tl_15" n="N015"/>in his character structure enforce HIS theoretical---political or theological---judgments. But you
+               <lb facs="#facs_144_tr_1_tl_16" n="N016"/>only can continue asking: So what? That is the situation. That is all our situation. And you can,
+               <lb facs="#facs_144_tr_1_tl_17" n="N017"/>if it were not for grades, deal with me in the same way and say, "We don’t come any more because
+               <lb facs="#facs_144_tr_1_tl_18" n="N018"/>we can deduce this from your being born in the year 1886, in the middle of the High-Capitalist
+               <lb facs="#facs_144_tr_1_tl_19" n="N019"/>society of Central Europe; you are a German and nourished in German romanticism; you are a
+               <lb facs="#facs_144_tr_1_tl_20" n="N020"/>neurotic with extreme guilt feelings <hi style="font-style: italic;">[laughter]</hi> ; so everything you tell us here is nothing [other] than
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

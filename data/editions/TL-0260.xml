@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p260</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p260</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_260">
+         <graphic url="TL-0260.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=OGKCKCLAUXGJEJPVPQFEXCBN&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="29,216 29,3496 2325,3496 2325,216" rendition="TextRegion" xml:id="facs_260_tr_1">
+            <zone points="1222,294 1237,294 1244,301 1334,299 1334,238 1285,238 1281,233 1268,231 1256,243 1222,243" rendition="Line" xml:id="facs_260_tr_1_tl_1"/>
+            <zone points="369,447 1925,445 1859,369 1815,406 369,408" rendition="Line" xml:id="facs_260_tr_1_tl_2"/>
+            <zone points="569,593 2175,595 2175,544 2046,532 569,552" rendition="Line" xml:id="facs_260_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="374,756 2073,748 2073,697 374,700" rendition="Line" xml:id="facs_260_tr_1_tl_4"/>
+            <zone points="369,902 2318,897 2318,846 2041,838 369,872" rendition="Line" xml:id="facs_260_tr_1_tl_5"/>
+            <zone points="372,1045 2221,1052 2221,999 372,1004" rendition="Line" xml:id="facs_260_tr_1_tl_6"/>
+            <zone points="374,1203 2206,1200 2206,1152 2146,1137 374,1137" rendition="Line" xml:id="facs_260_tr_1_tl_7"/>
+            <zone points="369,1351 2214,1346 2214,1298 1988,1283 369,1302" rendition="Line" xml:id="facs_260_tr_1_tl_8"/>
+            <zone points="372,1507 2155,1509 2155,1453 1966,1429 372,1456" rendition="Line" xml:id="facs_260_tr_1_tl_9"/>
+            <zone points="362,1648 2245,1662 2245,1604 2044,1589 362,1623" rendition="Line" xml:id="facs_260_tr_1_tl_10"/>
+            <zone points="372,1801 1925,1805 1925,1750 1852,1742 372,1752" rendition="Line" xml:id="facs_260_tr_1_tl_11"/>
+            <zone points="564,1946 2226,1949 2226,1895 564,1900" rendition="Line" xml:id="facs_260_tr_1_tl_12" subtype="paragraph"/>
+            <zone points="364,2102 2102,2102 2102,2046 364,2053" rendition="Line" xml:id="facs_260_tr_1_tl_13"/>
+            <zone points="364,2248 2136,2255 2136,2204 1684,2185 364,2204" rendition="Line" xml:id="facs_260_tr_1_tl_14"/>
+            <zone points="362,2398 394,2413 634,2415 649,2403 676,2415 797,2413 797,2357 396,2357 362,2377" rendition="Line" xml:id="facs_260_tr_1_tl_15"/>
+            <zone points="569,2474 2194,2476 2194,2418 2121,2415 569,2420" rendition="Line" xml:id="facs_260_tr_1_tl_16" subtype="paragraph"/>
+            <zone points="374,2644 836,2634 1120,2683 1358,2675 1441,2622 2243,2629 2243,2573 374,2583" rendition="Line" xml:id="facs_260_tr_1_tl_17"/>
+            <zone points="362,2782 2291,2775 2291,2722 2228,2717 362,2731" rendition="Line" xml:id="facs_260_tr_1_tl_18"/>
+            <zone points="360,2923 2194,2933 2194,2872 1842,2863 360,2899" rendition="Line" xml:id="facs_260_tr_1_tl_19"/>
+            <zone points="362,3076 445,3123 865,3140 996,3076 2199,3081 2199,3025 1686,3011 362,3052" rendition="Line" xml:id="facs_260_tr_1_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0260.jpg" n="part1_p260.jpg" xml:id="img_0260" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p260.jpg"/>
+            
+            <ab facs="#facs_260_tr_1">
+               <lb facs="#facs_260_tr_1_tl_1" n="N001"/>[256]
+               <lb facs="#facs_260_tr_1_tl_2" n="N002"/>later on, in terms of seemingly miraculous ways, but actually in terms of tricks.
+               <lb facs="#facs_260_tr_1_tl_3" n="N003"/>The<rs type="keyword" ref="#Reductionism"> reductionist philosophers</rs> became aware that IN REALITY they did this trick
+               <lb facs="#facs_260_tr_1_tl_4" n="N004"/>and that it is not dignified to stick to it, after they had seen the tricky character of the
+               <lb facs="#facs_260_tr_1_tl_5" n="N005"/>reductionist method. So they accepted a concept of nature ("<rs type="keyword" ref="#Naturalism">naturalism</rs>" is derived from "nature")
+               <lb facs="#facs_260_tr_1_tl_6" n="N006"/>which could keep their claim to be naturalists. But we can now call this not reductionism, but
+               <lb facs="#facs_260_tr_1_tl_7" n="N007"/>integrated naturalism, which means that one calls everything "nature," including the creation
+               <lb facs="#facs_260_tr_1_tl_8" n="N008"/>of Shakespeare's plays, or the Bible---no one can prevent anyone from calling this "nature," or
+               <lb facs="#facs_260_tr_1_tl_9" n="N009"/>calling it an expression of human nature. But then the concept of nature loses its contrary,
+               <lb facs="#facs_260_tr_1_tl_10" n="N010"/>and this kind of naturalism could perhaps be criticized by <rs type="person">William James'</rs>s fallacy of the lacking
+               <lb facs="#facs_260_tr_1_tl_11" n="N011"/>contrast: if you call everything "nature," then the name loses its real meaning.
+               <lb facs="#facs_260_tr_1_tl_12" n="N012"/>But nevertheless the important thing is not the matter of the name, but it is that the
+               <lb facs="#facs_260_tr_1_tl_13" n="N013"/>reductionist trick was given up. That is one of the steps to the return of man to himself.
+               <lb facs="#facs_260_tr_1_tl_14" n="N014"/>He discovered that the levels of reality cannot be reduced to one. Then the question was:
+               <lb facs="#facs_260_tr_1_tl_15" n="N015"/>which is their unity?
+               <lb facs="#facs_260_tr_1_tl_16" n="N016"/>This leads to another discovery, and a very important one, which was first made in
+               <lb facs="#facs_260_tr_1_tl_17" n="N017"/><rs type="keyword" ref="#Psychology">psychology,</rs> namely the so-called <rs type="keyword" ref="#Gestalt"><hi style="font-style: italic;">Gestalt</hi> </rs>psychology. I intend to use this German word, which
+               <lb facs="#facs_260_tr_1_tl_18" n="N018"/>has become a foreign word in English, because there is no real translation for it. The transcription
+               <lb facs="#facs_260_tr_1_tl_19" n="N019"/>of the meaning, or the description of the meaning, of this word is perhaps "a living structure,"
+               <lb facs="#facs_260_tr_1_tl_20" n="N020"/>or "an independent structure." The word "structure" is not a good translation because every
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

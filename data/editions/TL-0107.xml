@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p107</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p107</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_107">
+         <graphic url="TL-0107.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NMECVRXIYIETURAOHNQGSJSC&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="244,246 244,3445 2415,3445 2415,246" rendition="TextRegion" xml:id="facs_107_tr_2">
+            <zone points="1152,306 1171,308 1179,316 1271,314 1271,262 1152,265" rendition="Line" xml:id="facs_107_tr_2_tl_1"/>
+            <zone points="254,435 1806,424 1952,481 2171,484 2171,384 1806,362 254,389" rendition="Line" xml:id="facs_107_tr_2_tl_2"/>
+            <zone points="254,552 2287,541 2287,484 254,516" rendition="Line" xml:id="facs_107_tr_2_tl_3"/>
+            <zone points="257,671 2336,660 2336,611 2260,598 257,611" rendition="Line" xml:id="facs_107_tr_2_tl_4"/>
+            <zone points="257,787 2317,773 2317,722 2074,714 257,735" rendition="Line" xml:id="facs_107_tr_2_tl_5"/>
+            <zone points="260,919 2328,895 2328,838 260,854" rendition="Line" xml:id="facs_107_tr_2_tl_6"/>
+            <zone points="246,1019 2095,1022 2239,1011 2241,954 246,971" rendition="Line" xml:id="facs_107_tr_2_tl_7"/>
+            <zone points="257,1152 681,1138 681,1090 592,1087 573,1068 530,1087 433,1090 400,1071 381,1090 308,1092 295,1106 257,1092" rendition="Line" xml:id="facs_107_tr_2_tl_8"/>
+            <zone points="341,1255 614,1287 2274,1244 2274,1195 1922,1168 1828,1200 1790,1163 1744,1203 1338,1171 1046,1211 1008,1173 971,1211 673,1211 619,1173 581,1211 343,1211" rendition="Line" xml:id="facs_107_tr_2_tl_9" subtype="paragraph"/>
+            <zone points="243,1368 2255,1365 2255,1319 2022,1295 243,1338" rendition="Line" xml:id="facs_107_tr_2_tl_10"/>
+            <zone points="241,1487 2260,1476 2263,1417 243,1455" rendition="Line" xml:id="facs_107_tr_2_tl_11"/>
+            <zone points="246,1606 2212,1598 2212,1541 2104,1530 246,1552" rendition="Line" xml:id="facs_107_tr_2_tl_12"/>
+            <zone points="241,1722 2166,1711 2166,1657 1952,1649 241,1687" rendition="Line" xml:id="facs_107_tr_2_tl_13"/>
+            <zone points="243,1841 2247,1830 2247,1774 2177,1768 243,1784" rendition="Line" xml:id="facs_107_tr_2_tl_14"/>
+            <zone points="241,1949 2193,1960 2160,1879 2044,1912 241,1920" rendition="Line" xml:id="facs_107_tr_2_tl_15"/>
+            <zone points="241,2068 2293,2060 2290,1995 241,2039" rendition="Line" xml:id="facs_107_tr_2_tl_16"/>
+            <zone points="238,2187 2412,2179 2412,2120 238,2152" rendition="Line" xml:id="facs_107_tr_2_tl_17"/>
+            <zone points="241,2236 306,2268 2279,2239 2279,2195 2055,2179 1498,2212 241,2187" rendition="Line" xml:id="facs_107_tr_2_tl_18"/>
+            <zone points="238,2360 635,2363 671,2385 692,2366 865,2366 865,2312 838,2309 784,2309 762,2331 676,2331 657,2309 446,2312 424,2333 392,2312 238,2314" rendition="Line" xml:id="facs_107_tr_2_tl_19"/>
+            <zone points="389,2485 2298,2485 2298,2428 2247,2409 1401,2433 1365,2398 1295,2436 1157,2406 938,2439 898,2404 768,2441 689,2406 443,2441 389,2406" rendition="Line" xml:id="facs_107_tr_2_tl_20" subtype="paragraph"/>
+            <zone points="243,2601 2271,2598 2271,2531 243,2544" rendition="Line" xml:id="facs_107_tr_2_tl_21"/>
+            <zone points="238,2717 2117,2758 2222,2706 2222,2644 238,2682" rendition="Line" xml:id="facs_107_tr_2_tl_22"/>
+            <zone points="230,2871 543,2885 633,2831 2314,2820 2268,2758 230,2801" rendition="Line" xml:id="facs_107_tr_2_tl_23"/>
+            <zone points="238,2955 2306,2942 2306,2882 2109,2877 1898,2912 1682,2879 1246,2917 1127,2885 238,2904" rendition="Line" xml:id="facs_107_tr_2_tl_24"/>
+            <zone points="235,3071 2209,3069 2209,3009 1879,2998 235,3036" rendition="Line" xml:id="facs_107_tr_2_tl_25"/>
+            <zone points="238,3196 698,3244 1479,3215 1479,3147 733,3196 238,3136" rendition="Line" xml:id="facs_107_tr_2_tl_26"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0107.jpg" n="part1_p107.jpg" xml:id="img_0107" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p107.jpg"/>
+            
+            <ab facs="#facs_107_tr_2">
+               <lb facs="#facs_107_tr_2_tl_1" n="N001"/>[104]
+               <lb facs="#facs_107_tr_2_tl_2" n="N002"/>developed. This became visible in the first typical scholar of the Pre-Socratic Greek, Anaxagoras,
+               <lb facs="#facs_107_tr_2_tl_3" n="N003"/>the first one who described the heavenly bodies--sun, moon, stars--as bodies. He saw that they were
+               <lb facs="#facs_107_tr_2_tl_4" n="N004"/>bodies. This was a tremendous first step because, before that, they were divine powers, representations of
+               <lb facs="#facs_107_tr_2_tl_5" n="N005"/>the fulness of the world with the divine. And now they were compared with bodies, i.e., with stones and
+               <lb facs="#facs_107_tr_2_tl_6" n="N006"/>pieces of earth! And the popular reaction in Athens when this became known was such that he had to go
+               <lb facs="#facs_107_tr_2_tl_7" n="N007"/>into exile. This was one of the earliest but most typical conflicts about science in relationship to the
+               <lb facs="#facs_107_tr_2_tl_8" n="N008"/>preceding worldview.
+               <lb facs="#facs_107_tr_2_tl_9" n="N009"/>Here the criticism came from science. It also could attack directly, in philosophical terms, the
+               <lb facs="#facs_107_tr_2_tl_10" n="N010"/>religious symbols with another kind of approach, namely historical analysis of their growth. This was
+               <lb facs="#facs_107_tr_2_tl_11" n="N011"/>done by men like Euhemeros, one of the Cynic philosophers, who derived the god-figures from deified
+               <lb facs="#facs_107_tr_2_tl_12" n="N012"/>heroes and kings. Now this is still done today, and we will come to it when we speak about religion
+               <lb facs="#facs_107_tr_2_tl_13" n="N013"/>and psychology later on. Today it is not so much heroes and kings, it is much more father-images
+               <lb facs="#facs_107_tr_2_tl_14" n="N014"/>from which the gods are derived, or mother-images. <rs type="keyword" ref="#Projection">The method is exactly the same, and the method
+               <lb break="no" facs="#facs_107_tr_2_tl_15" n="N015"/>of course is very primitive, because it always produces one word which it wants to express, namely
+               <lb break="no" facs="#facs_107_tr_2_tl_16" n="N016"/>deification. In order to deify either the father-image or the image of a hero or king, you must have that
+               <lb break="no" facs="#facs_107_tr_2_tl_17" n="N017"/>realm into which they are elevated. Or in terms of a modern way of speaking about it technically: projection
+               <lb break="no" facs="#facs_107_tr_2_tl_18" n="N018"/>--you must have a screen at which to project something. Now, that screen IS the divine sphere, IS the
+               <lb break="no" facs="#facs_107_tr_2_tl_19" n="N019"/>infinite, or however you call it.</rs>
+               <lb facs="#facs_107_tr_2_tl_20" n="N020"/>But in spite of this primitive logical mistake, which Euhemeros made as much as it is done today
+               <lb facs="#facs_107_tr_2_tl_21" n="N021"/>by many psychoanalysts, it was a conflict between science and religion, and one of the ways of solving
+               <lb facs="#facs_107_tr_2_tl_22" n="N022"/>this conflict was the attempt of the Stoic philosophers to interpret the gods as symbols of different
+               <lb facs="#facs_107_tr_2_tl_23" n="N023"/>natural powers. In this way they were preserved, and popular feeling was satisfied. But for the man who
+               <lb facs="#facs_107_tr_2_tl_24" n="N024"/>KNOWS, they represent something quite different, namely the powers of nature, or, as l say, the powers
+               <lb facs="#facs_107_tr_2_tl_25" n="N025"/>of being. AND if I say this, I would at the same time express my agreement with this interpretation,
+               <lb facs="#facs_107_tr_2_tl_26" n="N026"/>because the gods ARE powers of being, and symbols for them.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p195</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p195</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_195">
+         <graphic url="TL-0195.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RNTMQYDCDVJYYLBWVKBMFALJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="17,176 27,776 17,3500 2271,3500 2271,176" rendition="TextRegion" xml:id="facs_195_tr_2">
+            <zone points="1057,243 1082,243 1092,256 1160,254 1167,246 1180,248 1182,173 1157,173 1145,186 1130,191 1104,183 1089,196 1059,196" rendition="Line" xml:id="facs_195_tr_2_tl_1"/>
+            <zone points="404,427 1539,442 1662,382 2023,384 2023,336 1797,319 407,371" rendition="Line" xml:id="facs_195_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="233,572 1857,545 2081,532 2083,472 233,515" rendition="Line" xml:id="facs_195_tr_2_tl_3"/>
+            <zone points="231,715 607,743 2118,685 2118,622 2071,622 233,690" rendition="Line" xml:id="facs_195_tr_2_tl_4"/>
+            <zone points="231,868 2051,858 2093,848 2096,786 231,826" rendition="Line" xml:id="facs_195_tr_2_tl_5"/>
+            <zone points="216,1054 2081,989 2081,931 1998,929 218,976" rendition="Line" xml:id="facs_195_tr_2_tl_9"/>
+            <zone points="236,1180 2136,1142 2088,1079 236,1150" rendition="Line" xml:id="facs_195_tr_2_tl_10"/>
+            <zone points="236,1323 1107,1350 1298,1303 2118,1300 2118,1240 1915,1235 238,1275" rendition="Line" xml:id="facs_195_tr_2_tl_11"/>
+            <zone points="231,1473 319,1524 494,1524 587,1473 2058,1448 2076,1388 231,1448" rendition="Line" xml:id="facs_195_tr_2_tl_12"/>
+            <zone points="233,1629 1840,1599 1840,1544 236,1581" rendition="Line" xml:id="facs_195_tr_2_tl_13"/>
+            <zone points="412,1775 1970,1757 2103,1742 2106,1682 412,1724" rendition="Line" xml:id="facs_195_tr_2_tl_14" subtype="paragraph"/>
+            <zone points="238,1930 2128,1893 2131,1827 241,1875" rendition="Line" xml:id="facs_195_tr_2_tl_15"/>
+            <zone points="246,2078 1792,2086 1855,2046 2116,2048 2118,1985 246,2046" rendition="Line" xml:id="facs_195_tr_2_tl_16"/>
+            <zone points="218,2224 941,2241 1880,2194 1980,2272 2139,2307 2231,2292 2236,2038 2154,2023 1945,2141 1724,2169 1689,2139 218,2191" rendition="Line" xml:id="facs_195_tr_2_tl_17"/>
+            <zone points="246,2427 341,2467 472,2384 605,2372 878,2405 2086,2374 2071,2287 535,2332 371,2251 251,2279" rendition="Line" xml:id="facs_195_tr_2_tl_18"/>
+            <zone points="246,2538 469,2573 567,2523 2091,2502 2086,2440 248,2490" rendition="Line" xml:id="facs_195_tr_2_tl_19"/>
+            <zone points="254,2691 733,2726 843,2671 896,2726 1084,2723 2139,2646 2141,2590 256,2636" rendition="Line" xml:id="facs_195_tr_2_tl_21"/>
+            <zone points="248,2834 346,2884 1950,2851 2058,2804 2061,2743 248,2809" rendition="Line" xml:id="facs_195_tr_2_tl_24"/>
+            <zone points="251,2992 1727,2952 2053,2982 2134,2957 2136,2899 251,2964" rendition="Line" xml:id="facs_195_tr_2_tl_25"/>
+            <zone points="254,3180 542,3203 670,3148 999,3175 1345,3120 1682,3122 1888,3175 2159,3140 2159,3085 1885,3120 1644,3070 254,3100" rendition="Line" xml:id="facs_195_tr_2_tl_26"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0195.jpg" n="part1_p195.jpg" xml:id="img_0195" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p195.jpg"/>
+            
+            <ab facs="#facs_195_tr_2">
+               <lb facs="#facs_195_tr_2_tl_1" n="N001"/>[191]
+               <lb facs="#facs_195_tr_2_tl_2" n="N002"/>In other words, philosophy is implied in <rs type="keyword" ref="#Symbols">every symbol </rs>of <rs type="keyword" ref="#Faith">faith. </rs>But this does not
+               <lb facs="#facs_195_tr_2_tl_3" n="N003"/>determine the movement of philosophical thought, just as philosophy does not determine the
+               <lb facs="#facs_195_tr_2_tl_4" n="N004"/>character of one's <ultimate_concern>ultimate concern</ultimate_concern>. Symbols of faith can open the eyes of the philosopher for
+               <lb facs="#facs_195_tr_2_tl_5" n="N005"/>qualities of the universe which otherwise would not be recognized by him. But faith, religion,
+               <lb facs="#facs_195_tr_2_tl_9" n="N006"/>does never command a definite philosophy. The <rs type="keyword" ref="#Myth">myths </rs>and their conceptual elements can be
+               <lb facs="#facs_195_tr_2_tl_10" n="N007"/>understood in many different philosophies, and these philosophies have to fight with each other
+               <lb facs="#facs_195_tr_2_tl_11" n="N008"/>with the strictest means and tools of logical analysis. Here l see the function of the sharpening
+               <lb facs="#facs_195_tr_2_tl_12" n="N009"/>of the tools, which was done in the 19th century in epistemological terms, and is being done
+               <lb facs="#facs_195_tr_2_tl_13" n="N010"/>in the 20th century in logical terms---in terms of logistics and symbolic language.
+               <lb facs="#facs_195_tr_2_tl_14" n="N011"/>Now these two methods of sharpening the tools are necessary, and I hope things will
+               <lb facs="#facs_195_tr_2_tl_15" n="N012"/>develop---and l believe there are indications that they are developing already, as they developed
+               <lb facs="#facs_195_tr_2_tl_16" n="N013"/>towards the end of the 19th century when the leaders of the <rs type="person">Kantian</rs> school in Europe (which
+               <lb facs="#facs_195_tr_2_tl_17" n="N014"/>was also the epistemological school, the school of doctrine-of-knowledge)---people like <rs type="person">Nikolai Hart-
+               <lb break="no" facs="#facs_195_tr_2_tl_18" n="N015"/>mann </rs>and others---suddenly discovered that you cannot be an epistemologist without being a
+               <lb facs="#facs_195_tr_2_tl_19" n="N016"/><rs type="keyword" ref="#Metaphysics">metaphysicist.</rs> They discovered, IN THE VERY SCHOOL ITSELF, that you cannot ask the
+               <lb facs="#facs_195_tr_2_tl_21" n="N017"/>question "How can l know?'" without knowing what knowing is, and to know what knowing is
+               <lb facs="#facs_195_tr_2_tl_24" n="N018"/>means having a concept of being and knowledge and their relationship to each other. This
+               <lb facs="#facs_195_tr_2_tl_25" n="N019"/>discovery was the turning point where the philosophy of the 19th century (which was nothing
+               <lb facs="#facs_195_tr_2_tl_26" n="N020"/>but sharpening knives) started cutting again. And now today the<rs type="keyword" ref="#Logical_Positivism"> logical positivists, </rs>or however
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

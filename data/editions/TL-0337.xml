@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p053</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p053</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_53">
+         <graphic url="TL-0337.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RETURIODRHKQXTBLYNKCWZHW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="232,293 2319,293 2319,2031 232,2031" rendition="TextRegion" xml:id="facs_53_tr_1">
+            <zone points="1044,352 1057,350 1078,365 1163,363 1161,295 1122,293 1104,280 1091,285 1078,301 1042,303" rendition="Line" xml:id="facs_53_tr_1_tl_1"/>
+            <zone points="220,531 2278,500 2278,451 2099,435 311,472 220,417" rendition="Line" xml:id="facs_53_tr_1_tl_2"/>
+            <zone points="233,669 2314,617 236,609" rendition="Line" xml:id="facs_53_tr_1_tl_3"/>
+            <zone points="231,816 2200,803 2171,749 233,770" rendition="Line" xml:id="facs_53_tr_1_tl_4"/>
+            <zone points="233,979 2247,951 2236,894 236,920" rendition="Line" xml:id="facs_53_tr_1_tl_5"/>
+            <zone points="218,1117 1461,1125 1609,1112 1612,1052 218,1091" rendition="Line" xml:id="facs_53_tr_1_tl_6"/>
+            <zone points="446,1265 1886,1262 1886,1197 446,1213" rendition="Line" xml:id="facs_53_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="220,1423 2218,1407 2221,1350 220,1366" rendition="Line" xml:id="facs_53_tr_1_tl_8"/>
+            <zone points="223,1570 2008,1568 2127,1557 2127,1500 223,1526" rendition="Line" xml:id="facs_53_tr_1_tl_9"/>
+            <zone points="231,1721 2117,1713 2161,1645 233,1669" rendition="Line" xml:id="facs_53_tr_1_tl_10"/>
+            <zone points="220,1881 1962,1868 2109,1861 2109,1796 220,1842" rendition="Line" xml:id="facs_53_tr_1_tl_11"/>
+            <zone points="218,2021 2239,2013 2239,1949 218,1993" rendition="Line" xml:id="facs_53_tr_1_tl_12"/>
+         </zone>
+         <zone points="41,2093 2224,2093 2224,3488 41,3488" rendition="TextRegion" xml:id="facs_53_tr_2">
+            <zone points="218,2171 2013,2166 2197,2156 2197,2104 218,2148" rendition="Line" xml:id="facs_53_tr_2_tl_1"/>
+            <zone points="220,2330 1938,2327 2218,2309 2218,2244 220,2273" rendition="Line" xml:id="facs_53_tr_2_tl_2"/>
+            <zone points="218,2475 2135,2464 2171,2405 218,2428" rendition="Line" xml:id="facs_53_tr_2_tl_3"/>
+            <zone points="200,2638 2133,2622 2182,2550 200,2602" rendition="Line" xml:id="facs_53_tr_2_tl_4"/>
+            <zone points="223,2786 2057,2775 2205,2723 223,2723" rendition="Line" xml:id="facs_53_tr_2_tl_5"/>
+            <zone points="220,2938 1876,2928 2213,2910 2213,2845 220,2900" rendition="Line" xml:id="facs_53_tr_2_tl_6"/>
+            <zone points="212,3084 2052,3071 2171,3063 2171,2993 212,3055" rendition="Line" xml:id="facs_53_tr_2_tl_7"/>
+            <zone points="218,3257 339,3260 371,3275 399,3270 417,3286 438,3278 453,3288 531,3291 526,3247 487,3234 461,3239 412,3205 257,3190 225,3221 212,3221" rendition="Line" xml:id="facs_53_tr_2_tl_8"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0337.jpg" n="part2_p053.jpg" xml:id="img_0053" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p053.jpg"/>
+            
+            <ab facs="#facs_53_tr_1">
+               <lb facs="#facs_53_tr_1_tl_1" n="N001"/>[332]
+               <lb facs="#facs_53_tr_1_tl_2" n="N002"/>and this country generally, is not too near to the visual arts---it is much nearer to music and to literature.
+               <lb facs="#facs_53_tr_1_tl_3" n="N003"/>For this reason I think it would be good to show you not only one example for each, but many examples.
+               <lb facs="#facs_53_tr_1_tl_4" n="N004"/>So let yourselves slide into the atmosphere of the artistic realm, and something will then come upon
+               <lb facs="#facs_53_tr_1_tl_5" n="N005"/>you, I hope, and give you a feeling of what I have explained in one of these lectures as artistic symbols,
+               <lb facs="#facs_53_tr_1_tl_6" n="N006"/>and in some of these levels, then, the relationship to religious symbols.
+               <lb facs="#facs_53_tr_1_tl_7" n="N007"/>We start with the first level: naturalistic style and secular subject matter.
+               <lb facs="#facs_53_tr_1_tl_8" n="N008"/>1) <hi style="font-style: italic;">LANDSCAPE</hi>, by Ruben---I start the consideration of this realm with landscapes because in them
+               <lb facs="#facs_53_tr_1_tl_9" n="N009"/>the duality of this level is especially easy to be seen and to be understood. We called this level
+               <lb facs="#facs_53_tr_1_tl_10" n="N010"/>"naturalistic style and secular subject matter." Nevertheless I want to show you---but it cannot be
+               <lb facs="#facs_53_tr_1_tl_11" n="N011"/>shown---I want to ask you to try to understand that in such a picture there is something present
+               <lb facs="#facs_53_tr_1_tl_12" n="N012"/>of the level which art reveals---it isn't a copy of any real landscapes---but the MEANING of landscape,
+            </ab>
+            <ab facs="#facs_53_tr_2">
+               <lb facs="#facs_53_tr_2_tl_1" n="N001"/>the essence of landscape, seen through a special artistic patternment [??], is present in it. And then
+               <lb facs="#facs_53_tr_2_tl_2" n="N002"/>you can go even beyond it---this is my main point---namely you can feel that in such a picture there is
+               <lb facs="#facs_53_tr_2_tl_3" n="N003"/>also present ULTIMATE reality, because ultimate reality is not a reality BESIDE the concrete and
+               <lb facs="#facs_53_tr_2_tl_4" n="N004"/>finite reality, but it manifests itself THROUGH finite LESS-ultimate reality. The power of being in
+               <lb facs="#facs_53_tr_2_tl_5" n="N005"/>such a picture is manifest to everybody who goes into it. And of course, in order to enjoy a picture,
+               <lb facs="#facs_53_tr_2_tl_6" n="N006"/>one must go INTO it, not into it as if it were a photograph or a landscape, in which you want to take
+               <lb facs="#facs_53_tr_2_tl_7" n="N007"/>a walk or have a picnic or read a newspaper, but some of the power of reality which reveals itself
+               <lb facs="#facs_53_tr_2_tl_8" n="N008"/>in this picture.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

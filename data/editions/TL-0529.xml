@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part4_p055</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p055</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_55">
+         <graphic url="TL-0529.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ORACSIFGEPBADOEXUMBIJHDJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="53,15 2277,15 2277,1251 53,1251" rendition="TextRegion" xml:id="facs_55_tr_1">
+            <zone points="38,83 63,83 81,76 134,78 157,73 157,0 38,0" rendition="Line" xml:id="facs_55_tr_1_tl_1"/>
+            <zone points="1126,333 1139,333 1146,341 1167,348 1215,348 1220,343 1232,346 1237,341 1250,341 1250,263 1222,263 1212,273 1197,273 1187,283 1172,283 1162,293 1126,293" rendition="Line" xml:id="facs_55_tr_1_tl_2"/>
+            <zone points="250,482 740,492 770,518 823,490 924,530 924,434 846,437 795,386 745,437 629,427 598,457 490,419 293,424 250,454" rendition="Line" xml:id="facs_55_tr_1_tl_3"/>
+            <zone points="460,639 2270,662 2245,586 460,576" rendition="Line" xml:id="facs_55_tr_1_tl_4"/>
+            <zone points="247,805 1977,793 2172,838 2172,750 2005,737 247,760" rendition="Line" xml:id="facs_55_tr_1_tl_5"/>
+            <zone points="242,934 2235,957 2235,901 2010,889 242,912" rendition="Line" xml:id="facs_55_tr_1_tl_6"/>
+            <zone points="242,1096 1528,1098 1528,1050 1452,1038 242,1048" rendition="Line" xml:id="facs_55_tr_1_tl_7"/>
+            <zone points="1768,1093 2033,1106 2232,1098 2232,1043 2204,1058 2177,1045 1768,1048" rendition="Line" xml:id="facs_55_tr_1_tl_8"/>
+            <zone points="240,1245 740,1300 2235,1250 2235,1192 240,1194" rendition="Line" xml:id="facs_55_tr_1_tl_9"/>
+         </zone>
+         <zone points="232,1338 2322,1338 2322,2685 232,2685" rendition="TextRegion" xml:id="facs_55_tr_3">
+            <zone points="237,1389 2194,1414 2194,1351 2106,1348 237,1366" rendition="Line" xml:id="facs_55_tr_3_tl_1"/>
+            <zone points="237,1548 2146,1553 2146,1495 1992,1487 237,1497" rendition="Line" xml:id="facs_55_tr_3_tl_2"/>
+            <zone points="230,1694 283,1709 722,1704 740,1702 740,1646 265,1644 230,1664" rendition="Line" xml:id="facs_55_tr_3_tl_3"/>
+            <zone points="437,1778 2315,1780 2315,1717 437,1714" rendition="Line" xml:id="facs_55_tr_3_tl_4"/>
+            <zone points="225,1970 904,1934 2108,1987 2146,1863 225,1874" rendition="Line" xml:id="facs_55_tr_3_tl_5"/>
+            <zone points="227,2070 1505,2131 1694,2070 2187,2088 2154,2020 227,2030" rendition="Line" xml:id="facs_55_tr_3_tl_6"/>
+            <zone points="225,2225 2154,2227 2151,2182 1922,2169 222,2194" rendition="Line" xml:id="facs_55_tr_3_tl_7"/>
+            <zone points="217,2368 1290,2381 1396,2437 2202,2384 2202,2331 1722,2315 217,2346" rendition="Line" xml:id="facs_55_tr_3_tl_8"/>
+            <zone points="217,2535 2088,2540 2184,2533 2184,2477 217,2485" rendition="Line" xml:id="facs_55_tr_3_tl_9"/>
+            <zone points="217,2671 1386,2740 1694,2722 1821,2684 1821,2634 217,2649" rendition="Line" xml:id="facs_55_tr_3_tl_10"/>
+         </zone>
+         <zone points="17,2768 2245,2768 2245,3485 17,3485" rendition="TextRegion" xml:id="facs_55_tr_2">
+            <zone points="419,2833 2053,2831 2088,2780 419,2785" rendition="Line" xml:id="facs_55_tr_2_tl_1"/>
+            <zone points="212,2972 2124,2982 2124,2926 212,2949" rendition="Line" xml:id="facs_55_tr_2_tl_2"/>
+            <zone points="212,3128 1757,3156 2131,3141 2131,3083 212,3101" rendition="Line" xml:id="facs_55_tr_2_tl_3"/>
+            <zone points="212,3280 1303,3262 1553,3318 2174,3298 2240,3219 215,3227" rendition="Line" xml:id="facs_55_tr_2_tl_4"/>
+            <zone points="3,3404 50,3399 83,3414 114,3396 159,3421 172,3411 182,3416 220,3406 217,3325 68,3328 61,3336 0,3330" rendition="Line" xml:id="facs_55_tr_2_tl_5"/>
+            <zone points="659,3437 730,3401 851,3449 982,3399 1111,3424 1169,3399 1404,3404 1485,3437 1485,3366 659,3361" rendition="Line" xml:id="facs_55_tr_2_tl_6"/>
+            <zone points="2045,3429 2058,3429 2101,3469 2134,3469 2141,3464 2151,3472 2172,3472 2169,3356 2081,3348 2068,3358 2045,3358" rendition="Line" xml:id="facs_55_tr_2_tl_7"/>
+            <zone points="1704,3406 1735,3416 1760,3406 1808,3421 1833,3404 1853,3414 1871,3406 1889,3419 1899,3409 1937,3414 1949,3401 1995,3406 1995,3356 1906,3363 1704,3356" rendition="Line" xml:id="facs_55_tr_2_tl_8"/>
+            <zone points="260,3414 295,3416 306,3411 313,3399 331,3396 346,3409 354,3411 356,3406 376,3426 409,3424 407,3371 384,3373 366,3363 316,3363 280,3376 258,3376" rendition="Line" xml:id="facs_55_tr_2_tl_9"/>
+            <zone points="429,3406 442,3406 470,3431 495,3406 515,3396 530,3399 543,3409 561,3406 561,3366 477,3361 470,3366 465,3363 452,3373 429,3373" rendition="Line" xml:id="facs_55_tr_2_tl_10"/>
+            <zone points="434,3447 449,3449 472,3434 485,3442 508,3477 545,3482 561,3406 535,3406 530,3399 515,3396 485,3409 480,3404 465,3406 444,3399" rendition="Line" xml:id="facs_55_tr_2_tl_11"/>
+            <zone points="1916,3469 1932,3474 1947,3469 1959,3479 1990,3472 2000,3477 2023,3477 2040,3381 2028,3378 1985,3409 1952,3404 1949,3399 1942,3406 1929,3404" rendition="Line" xml:id="facs_55_tr_2_tl_12"/>
+            <zone points="982,3439 1010,3431 1020,3442 1050,3442 1066,3431 1086,3444 1129,3439 1149,3452 1235,3431 1235,3411 1215,3411 1204,3401 1156,3401 1124,3414 1058,3409 1050,3401 982,3401" rendition="Line" xml:id="facs_55_tr_2_tl_13"/>
+            <zone points="104,3439 116,3437 129,3447 146,3437 169,3452 177,3447 184,3454 220,3454 220,3406 202,3409 192,3406 177,3416 139,3409 116,3399 104,3401" rendition="Line" xml:id="facs_55_tr_2_tl_14"/>
+            <zone points="1528,3452 1581,3454 1621,3479 1641,3477 1664,3472 1707,3431 1725,3431 1783,3464 1808,3452 1838,3454 1836,3411 1805,3421 1752,3406 1735,3416 1682,3381 1664,3381 1586,3389 1560,3414 1525,3414" rendition="Line" xml:id="facs_55_tr_2_tl_15"/>
+            <zone points="687,3474 702,3477 720,3474 742,3477 747,3474 750,3479 778,3477 780,3411 763,3411 750,3419 735,3404 720,3406 710,3416 699,3409 689,3409" rendition="Line" xml:id="facs_55_tr_2_tl_16"/>
+            <zone points="1316,3442 1331,3442 1338,3449 1353,3449 1366,3442 1379,3452 1399,3444 1422,3444 1422,3406 1406,3406 1396,3414 1386,3414 1381,3409 1369,3414 1353,3409 1346,3411 1338,3404 1316,3404" rendition="Line" xml:id="facs_55_tr_2_tl_17"/>
+            <zone points="384,3479 404,3479 414,3474 427,3479 472,3479 495,3474 487,3434 480,3437 472,3434 457,3447 454,3444 447,3449 434,3449 391,3421 371,3429" rendition="Line" xml:id="facs_55_tr_2_tl_18"/>
+            <zone points="1078,3477 1103,3477 1111,3469 1119,3477 1131,3472 1156,3477 1162,3469 1177,3477 1197,3477 1209,3467 1225,3469 1232,3477 1255,3477 1255,3452 1242,3452 1220,3431 1207,3434 1194,3447 1182,3442 1149,3452 1126,3439 1114,3442 1103,3431 1076,3437" rendition="Line" xml:id="facs_55_tr_2_tl_19"/>
+            <zone points="98,3477 288,3477 285,3429 258,3442 230,3439 220,3449 189,3431 179,3439 164,3429 141,3442 129,3434 96,3442" rendition="Line" xml:id="facs_55_tr_2_tl_20"/>
+            <zone points="1310,3477 1333,3474 1346,3477 1371,3474 1379,3479 1389,3479 1394,3474 1429,3477 1427,3447 1411,3447 1404,3442 1391,3444 1389,3449 1376,3442 1369,3447 1364,3444 1353,3447 1348,3442 1338,3447 1321,3431 1308,3431" rendition="Line" xml:id="facs_55_tr_2_tl_21"/>
+            <zone points="1704,3474 1722,3474 1730,3467 1740,3467 1755,3479 1775,3477 1783,3469 1795,3469 1803,3477 1836,3477 1838,3434 1823,3434 1808,3449 1798,3452 1762,3452 1750,3437 1707,3431" rendition="Line" xml:id="facs_55_tr_2_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0529.jpg" n="part4_p055.jpg" xml:id="img_0055" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p055.jpg"/>
+            
+            <ab facs="#facs_55_tr_1">
+               <lb facs="#facs_55_tr_1_tl_1" n="N001"/>ou vous
+               <lb facs="#facs_55_tr_1_tl_2" n="N002"/>-624
+               <lb facs="#facs_55_tr_1_tl_3" n="N003"/>LECTURE XL, March 27, 956
+               <lb facs="#facs_55_tr_1_tl_4" n="N004"/>We are discussing the problem of ethics and religion, and we should do it in three main steps,
+               <lb facs="#facs_55_tr_1_tl_5" n="N005"/>the first of which has been done last time. The first problem in ethics is the problem of the moral
+               <lb facs="#facs_55_tr_1_tl_6" n="N006"/>imperative and its conconditional character. The point I made last time was that the moral imperative
+               <lb facs="#facs_55_tr_1_tl_7" n="N007"/>is not conconditional because of any special content, but that it is
+               <lb facs="#facs_55_tr_1_tl_8" n="N008"/>unconditional because
+               <lb facs="#facs_55_tr_1_tl_9" n="N009"/>it expresses the essential nature of man as a person. We have defined the nature of this conconditional
+            </ab>
+            <ab facs="#facs_55_tr_3">
+               <lb facs="#facs_55_tr_3_tl_1" n="N001"/>character by Eenying that any special form as such can be vested with the quality of conconditional,
+               <lb facs="#facs_55_tr_3_tl_2" n="N002"/>but that the EXPERIANCE of the self-affirmation of the person as a person, necessarily including
+               <lb facs="#facs_55_tr_3_tl_3" n="N003"/>unconditional character.
+               <lb facs="#facs_55_tr_3_tl_4" n="N004"/>Now this element of the conconditional was the first point, in which the exhical was transcended
+               <lb facs="#facs_55_tr_3_tl_5" n="N005"/>by the religious, or more exactly, in which the kthical included a dimension which must be called
+               <lb facs="#facs_55_tr_3_tl_6" n="N006"/>;.
+               <lb facs="#facs_55_tr_3_tl_7" n="N007"/>of Kant's argument for the existence of God, his moral argument, which was supposed to replace
+               <lb facs="#facs_55_tr_3_tl_8" n="N008"/>the theoretical arguments, which he had kriticized; and I congressized that this moral argument is not
+               <lb facs="#facs_55_tr_3_tl_9" n="N009"/>good either, as argument for the existence of God, but that it is a DESCRIPTION of just that point
+               <lb facs="#facs_55_tr_3_tl_10" n="N010"/>which I am making, namely the conconditional character of the moral imperative.
+            </ab>
+            <ab facs="#facs_55_tr_2">
+               <lb facs="#facs_55_tr_2_tl_1" n="N001"/>Now after this has been discussion, we come to the second point, the question of the
+               <lb facs="#facs_55_tr_2_tl_2" n="N002"/>moral contents. This is a point of very large interest and importance. Here again I want to show
+               <lb facs="#facs_55_tr_2_tl_3" n="N003"/>only one thing. I don't want to build a system of ethics, a table of Commandments, or anything
+               <lb facs="#facs_55_tr_2_tl_4" n="N004"/>like that, but I want to ask the fundamental question: Where do the contents of the moral imperative¬
+               <lb facs="#facs_55_tr_2_tl_5" n="N005"/>lʼautre
+               <lb facs="#facs_55_tr_2_tl_6" n="N006"/>de lʼhonneur, et très obéissant avec le dernier éviter
+               <lb facs="#facs_55_tr_2_tl_7" n="N007"/>cʼest le
+               <lb facs="#facs_55_tr_2_tl_8" n="N008"/>dʼavoir lʼautre vieux
+               <lb facs="#facs_55_tr_2_tl_9" n="N009"/>dʼune manière
+               <lb facs="#facs_55_tr_2_tl_10" n="N010"/>de lʼhonneur,
+               <lb facs="#facs_55_tr_2_tl_11" n="N011"/>de votre beau
+               <lb facs="#facs_55_tr_2_tl_12" n="N012"/>Monsieur
+               <lb facs="#facs_55_tr_2_tl_13" n="N013"/>dʼavoir lʼautre est
+               <lb facs="#facs_55_tr_2_tl_14" n="N014"/>dʼun autre
+               <lb facs="#facs_55_tr_2_tl_15" n="N015"/>dʼacquerir que je ne lui ai
+               <lb facs="#facs_55_tr_2_tl_16" n="N016"/>Monsieur
+               <lb facs="#facs_55_tr_2_tl_17" n="N017"/>dʼun autre
+               <lb facs="#facs_55_tr_2_tl_18" n="N018"/>dʼune manière
+               <lb facs="#facs_55_tr_2_tl_19" n="N019"/>dʼaprès un autre
+               <lb facs="#facs_55_tr_2_tl_20" n="N020"/>dʼune manière
+               <lb facs="#facs_55_tr_2_tl_21" n="N021"/>dʼun autre
+               <lb facs="#facs_55_tr_2_tl_22" n="N022"/>as a
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

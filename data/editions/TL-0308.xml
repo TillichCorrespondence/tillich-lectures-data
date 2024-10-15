@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p024</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p024</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_24">
+         <graphic url="TL-0308.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=IJLXWGHDSWHRVEMIRPHUMYYH&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="62,6 2167,6 2167,1108 62,1108" rendition="TextRegion" xml:id="facs_24_tr_3">
+            <zone points="1083,341 1111,341 1121,349 1147,349 1152,344 1158,349 1183,349 1209,344 1209,279 1173,282 1158,271 1147,274 1142,269 1114,292 1083,295" rendition="Line" xml:id="facs_24_tr_3_tl_2"/>
+            <zone points="214,491 2008,499 2008,416 214,457" rendition="Line" xml:id="facs_24_tr_3_tl_3"/>
+            <zone points="199,643 1013,677 2160,646 2160,592 199,620" rendition="Line" xml:id="facs_24_tr_3_tl_4"/>
+            <zone points="47,868 282,798 2067,798 2067,739 212,765 47,716" rendition="Line" xml:id="facs_24_tr_3_tl_5"/>
+            <zone points="214,946 2008,982 2085,951 2085,884 214,920" rendition="Line" xml:id="facs_24_tr_3_tl_6"/>
+            <zone points="209,1111 261,1155 1664,1155 2108,1096 2108,1044 209,1067" rendition="Line" xml:id="facs_24_tr_3_tl_7"/>
+         </zone>
+         <zone points="208,1180 2277,1180 2277,2622 208,2622" rendition="TextRegion" xml:id="facs_24_tr_1">
+            <zone points="209,1253 762,1310 2191,1253 2018,1183 209,1207" rendition="Line" xml:id="facs_24_tr_1_tl_1"/>
+            <zone points="207,1400 364,1413 413,1462 734,1444 798,1406 971,1408 971,1351 411,1346 207,1372" rendition="Line" xml:id="facs_24_tr_1_tl_2"/>
+            <zone points="380,1555 2026,1566 2199,1550 2199,1491 380,1499" rendition="Line" xml:id="facs_24_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="196,1705 320,1762 687,1718 959,1762 2057,1718 2196,1700 2196,1641 196,1682" rendition="Line" xml:id="facs_24_tr_1_tl_4"/>
+            <zone points="196,1855 2075,1860 2274,1853 2274,1803 196,1816" rendition="Line" xml:id="facs_24_tr_1_tl_5"/>
+            <zone points="243,2013 1429,2008 1566,2054 2095,2005 2098,1953 243,1982" rendition="Line" xml:id="facs_24_tr_1_tl_6"/>
+            <zone points="194,2155 1375,2152 1501,2214 2137,2157 2137,2106 194,2132" rendition="Line" xml:id="facs_24_tr_1_tl_7"/>
+            <zone points="196,2310 1240,2372 2214,2318 2214,2256 196,2281" rendition="Line" xml:id="facs_24_tr_1_tl_8"/>
+            <zone points="863,2460 2194,2462 2235,2408 863,2418" rendition="Line" xml:id="facs_24_tr_1_tl_10"/>
+            <zone points="196,2620 2020,2615 2095,2612 2098,2558 199,2571" rendition="Line" xml:id="facs_24_tr_1_tl_12"/>
+         </zone>
+         <zone points="17,2696 2149,2696 2149,3485 17,3485" rendition="TextRegion" xml:id="facs_24_tr_2">
+            <zone points="189,2767 2142,2775 2145,2710 189,2741" rendition="Line" xml:id="facs_24_tr_2_tl_1"/>
+            <zone points="186,2940 351,2979 1486,2982 1527,2971 1530,2871 186,2883" rendition="Line" xml:id="facs_24_tr_2_tl_2"/>
+            <zone points="367,3082 1062,3139 1189,3080 2134,3077 2137,3015 367,3054" rendition="Line" xml:id="facs_24_tr_2_tl_3" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0308.jpg" n="part2_p024.jpg" xml:id="img_0024" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p024.jpg"/>
+            
+            <ab facs="#facs_24_tr_3">
+               <lb facs="#facs_24_tr_3_tl_2" n="N001"/>[304]
+               <lb facs="#facs_24_tr_3_tl_3" n="N002"/>which influences the congregations. Then if they are very much influenced and impressed,
+               <lb facs="#facs_24_tr_3_tl_4" n="N003"/>and ask for a copy of the sermon, don't believe that this is the same thing, because the connotative
+               <lb facs="#facs_24_tr_3_tl_5" n="N004"/>power, not only of the words but also of the rhythm of the language, of the voice, of all these
+               <lb facs="#facs_24_tr_3_tl_6" n="N005"/>elements which belong to the language, come into it. And very often in the written or printed
+               <lb facs="#facs_24_tr_3_tl_7" n="N006"/>sermon, the symbolic power which was present when it was given, has vanished! This is only an
+            </ab>
+            <ab facs="#facs_24_tr_1">
+               <lb facs="#facs_24_tr_1_tl_1" n="N001"/>example to show you the dialectical character of language, that it always unites meaning and power---
+               <lb facs="#facs_24_tr_1_tl_2" n="N002"/>as [does] all spiritual life, by the way.
+               <lb facs="#facs_24_tr_1_tl_3" n="N003"/>Then I come to a political---or if you want, the historical-political---symbols, mostly persons
+               <lb facs="#facs_24_tr_1_tl_4" n="N004"/>and outstanding events. They are subject-matter in themselves. They are empirical. And they could
+               <lb facs="#facs_24_tr_1_tl_5" n="N005"/>be photographed, psychographed, phonographed in every moment of their existence. But they wouldn't
+               <lb facs="#facs_24_tr_1_tl_6" n="N006"/>change the situation if they have become symbols. A figure like Lincoln in this country is an
+               <lb facs="#facs_24_tr_1_tl_7" n="N007"/>empirical figure, with whom all this could have been done. But he is much more than this. He is
+               <lb facs="#facs_24_tr_1_tl_8" n="N008"/>representative for one of the fundamental meanings of the existence of this country, and, I personally
+               <lb facs="#facs_24_tr_1_tl_10" n="N009"/>would feel, for the BEST meaning of this country. Now this is symbolic and goes far beyond what can
+               <lb facs="#facs_24_tr_1_tl_12" n="N010"/>be said empirically about it. Of course the empirical material is the presupposition---without his
+            </ab>
+            <ab facs="#facs_24_tr_2">
+               <lb facs="#facs_24_tr_2_tl_1" n="N001"/>actually having lived and done this, in history, he never could have become a political symbol; but
+               <lb facs="#facs_24_tr_2_tl_2" n="N002"/>insofar as he IS a symbol, he transcends his empirical reality by far.
+               <lb facs="#facs_24_tr_2_tl_3" n="N003"/>And so it is also with special events. The battle between the Huns and the Franks, in the
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

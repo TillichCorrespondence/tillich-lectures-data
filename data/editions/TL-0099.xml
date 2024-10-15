@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p099</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p099</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_99">
+         <graphic url="TL-0099.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WPYQAHFTNLUVCJLUZOPJKBRJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="238,413 238,3202 2358,3202 2358,413" rendition="TextRegion" xml:id="facs_99_tr_2">
+            <zone points="1125,459 1140,462 1143,459 1154,470 1164,467 1170,470 1193,467 1199,473 1222,470 1220,407 1122,412" rendition="Line" xml:id="facs_99_tr_2_tl_1"/>
+            <zone points="227,631 1465,599 1507,647 1988,612 2125,644 2273,610 2273,544 2196,536 230,578" rendition="Line" xml:id="facs_99_tr_2_tl_2"/>
+            <zone points="222,694 333,742 1341,742 1555,702 1555,644 1468,626 224,668" rendition="Line" xml:id="facs_99_tr_2_tl_3"/>
+            <zone points="457,853 2059,853 2059,768 457,795" rendition="Line" xml:id="facs_99_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="230,935 375,964 496,916 2117,903 2117,845 232,876" rendition="Line" xml:id="facs_99_tr_2_tl_5"/>
+            <zone points="235,1008 2226,974 2226,927 2162,916 2017,948 531,919 235,961" rendition="Line" xml:id="facs_99_tr_2_tl_6"/>
+            <zone points="232,1085 2130,1061 2133,1003 2088,993 235,1035" rendition="Line" xml:id="facs_99_tr_2_tl_7"/>
+            <zone points="227,1148 2194,1125 2194,1072 2038,1061 227,1122" rendition="Line" xml:id="facs_99_tr_2_tl_8"/>
+            <zone points="222,1228 2181,1214 2181,1156 2104,1143 224,1183" rendition="Line" xml:id="facs_99_tr_2_tl_9"/>
+            <zone points="230,1309 2183,1278 2183,1230 2038,1214 232,1259" rendition="Line" xml:id="facs_99_tr_2_tl_10"/>
+            <zone points="232,1389 2109,1362 2109,1302 1896,1294 232,1336" rendition="Line" xml:id="facs_99_tr_2_tl_11"/>
+            <zone points="227,1449 2260,1434 2260,1373 2014,1365 230,1404" rendition="Line" xml:id="facs_99_tr_2_tl_12"/>
+            <zone points="230,1529 1608,1510 1645,1542 1695,1502 2094,1518 2096,1460 230,1470" rendition="Line" xml:id="facs_99_tr_2_tl_13"/>
+            <zone points="1090,1589 2091,1581 2094,1534 2012,1521 1093,1550" rendition="Line" xml:id="facs_99_tr_2_tl_14"/>
+            <zone points="238,1687 2202,1653 2170,1589 238,1637" rendition="Line" xml:id="facs_99_tr_2_tl_16"/>
+            <zone points="224,1758 2109,1734 2130,1684 224,1713" rendition="Line" xml:id="facs_99_tr_2_tl_17"/>
+            <zone points="230,1827 2086,1822 2154,1808 2157,1756 230,1798" rendition="Line" xml:id="facs_99_tr_2_tl_18"/>
+            <zone points="235,1909 1843,1896 1843,1843 1779,1827 235,1864" rendition="Line" xml:id="facs_99_tr_2_tl_19"/>
+            <zone points="457,2062 2130,2033 2130,1969 2059,1964 457,1996" rendition="Line" xml:id="facs_99_tr_2_tl_20" subtype="paragraph"/>
+            <zone points="230,2130 2101,2117 2104,2054 232,2080" rendition="Line" xml:id="facs_99_tr_2_tl_21"/>
+            <zone points="230,2228 2223,2181 2223,2130 2112,2120 2030,2152 232,2162" rendition="Line" xml:id="facs_99_tr_2_tl_22"/>
+            <zone points="238,2289 2167,2262 2167,2210 2075,2199 238,2239" rendition="Line" xml:id="facs_99_tr_2_tl_23"/>
+            <zone points="235,2350 2244,2360 2244,2286 2072,2270 235,2310" rendition="Line" xml:id="facs_99_tr_2_tl_24"/>
+            <zone points="238,2429 304,2468 554,2466 634,2426 2181,2402 2141,2350 240,2387" rendition="Line" xml:id="facs_99_tr_2_tl_25"/>
+            <zone points="232,2500 2236,2487 2239,2426 232,2455" rendition="Line" xml:id="facs_99_tr_2_tl_26"/>
+            <zone points="235,2579 293,2592 713,2585 715,2537 671,2524 628,2537 573,2524 552,2540 449,2540 430,2526 393,2542 375,2529 306,2542 293,2526 238,2542" rendition="Line" xml:id="facs_99_tr_2_tl_27"/>
+            <zone points="462,2656 2178,2632 2178,2569 462,2592" rendition="Line" xml:id="facs_99_tr_2_tl_28" subtype="paragraph"/>
+            <zone points="232,2732 2307,2711 2358,2669 232,2682" rendition="Line" xml:id="facs_99_tr_2_tl_29"/>
+            <zone points="230,2814 1045,2806 1045,2754 969,2746 433,2754 391,2777 356,2751 230,2751" rendition="Line" xml:id="facs_99_tr_2_tl_32"/>
+            <zone points="235,2888 2212,2883 2212,2806 235,2843" rendition="Line" xml:id="facs_99_tr_2_tl_33"/>
+            <zone points="232,2988 2199,2952 2199,2891 2144,2883 235,2917" rendition="Line" xml:id="facs_99_tr_2_tl_34"/>
+            <zone points="235,3057 2284,3044 2286,2965 235,2996" rendition="Line" xml:id="facs_99_tr_2_tl_35"/>
+            <zone points="230,3107 1053,3142 1156,3099 2078,3105 2173,3086 2175,3041 230,3070" rendition="Line" xml:id="facs_99_tr_2_tl_36"/>
+            <zone points="230,3186 2239,3171 2239,3115 2112,3099 1484,3147 230,3150" rendition="Line" xml:id="facs_99_tr_2_tl_37"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0099.jpg" n="part1_p099.jpg" xml:id="img_0099" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p099.jpg"/>
+            
+            <ab facs="#facs_99_tr_2">
+               <lb facs="#facs_99_tr_2_tl_1" n="N001"/>[96]
+               <lb facs="#facs_99_tr_2_tl_2" n="N002"/>H<rs type="keyword" ref="#Creativity">ere we can now define clearly the limits of man's creativity. He can produce into actuality something
+               <lb break="no" facs="#facs_99_tr_2_tl_3" n="N003"/>which is potentially already given in the world as it is given to him.
+               <lb break="no" facs="#facs_99_tr_2_tl_4" n="N004"/>Another consideration about technology and man is the LIBERATING power of
+               <lb break="no" facs="#facs_99_tr_2_tl_5" n="N005"/>technology. Technology liberates man in many respects. The first is: it liberates him from the
+               <lb break="no" facs="#facs_99_tr_2_tl_6" n="N006"/>limits of his temporal and spatial finitude--not altogether, certainly, but to a large extent.</rs> And what
+               <lb facs="#facs_99_tr_2_tl_7" n="N007"/>has happened only since my own childhood in this respect, in the last half century, is incredible,
+               <lb facs="#facs_99_tr_2_tl_8" n="N008"/>about overcoming the limits of time and space. <progress>But now let me here make an anticipatory footnote
+               <lb break="no" facs="#facs_99_tr_2_tl_9" n="N009"/>following the question about progress. Here we see where progress can force upon us by ourselves,
+               <lb break="no" facs="#facs_99_tr_2_tl_10" n="N010"/>namely by railway, airplane, telegraphy, etc.: they have conquered distance in space, and distance
+               <lb break="no" facs="#facs_99_tr_2_tl_11" n="N011"/>in time--which is needed in order to overcome this space--to a tremendous degree. In this way
+               <lb break="no" facs="#facs_99_tr_2_tl_12" n="N012"/>they have united mankind, technically, again to such a degree that mankind is REALLY now a unity
+               <lb break="no" facs="#facs_99_tr_2_tl_13" n="N013"/>in which what happens in the remotest tribe-movement in inner Africa, or wherever it may be,
+               <lb break="no" facs="#facs_99_tr_2_tl_14" n="N014"/>has repercussions in all centers of the world. Is that progress? Now it has produced the
+               <lb break="no" facs="#facs_99_tr_2_tl_16" n="N015"/>LARGEST gap bew [sic.] between mankind universally, which has ever existed. It has produced a telluric
+               <lb break="no" facs="#facs_99_tr_2_tl_17" n="N016"/>schizophrenia, a split mind, on a worldwide scale, or earth-wide. This was the answer. And it is
+               <lb break="no" facs="#facs_99_tr_2_tl_18" n="N017"/>very interesting for future historians: the technical union of the world occurred most speedily in
+               <lb break="no" facs="#facs_99_tr_2_tl_19" n="N018"/>connection with two world wars--and has made them possible. That is one thing</progress>.
+               <lb facs="#facs_99_tr_2_tl_20" n="N019"/><technology>Second: The liberating power of technology with respect to human work--and that
+               <lb break="no" facs="#facs_99_tr_2_tl_21" n="N020"/>is perhaps the greatest part of it. We all still have to perform mechanical functions all the time,
+               <lb break="no" facs="#facs_99_tr_2_tl_22" n="N021"/>using tools and becoming tools ourselves in a merely mechanical way--carrying things, etc. In former
+               <lb break="no" facs="#facs_99_tr_2_tl_23" n="N022"/>centuries and millennia, ALL work was done by human bodies pressed into mechanical functions.
+               <lb break="no" facs="#facs_99_tr_2_tl_24" n="N023"/>Therefore most of these cultures, which have produced miracles of the world, [such] as the Pyramids,
+               <lb break="no" facs="#facs_99_tr_2_tl_25" n="N024"/>were slave-states. There had to be a large amount of human bodies--I say ''bodies'' intentionally--
+               <lb break="no" facs="#facs_99_tr_2_tl_26" n="N025"/>which could be used for mechanical purposes in such a way that the mechanical means were identical
+               <lb break="no" facs="#facs_99_tr_2_tl_27" n="N026"/>with the human bodies.
+               <lb break="no" facs="#facs_99_tr_2_tl_28" n="N027"/>Now there is an element of justification in giving mechanical tasks to all of you, to our
+               <lb break="no" facs="#facs_99_tr_2_tl_29" n="N028"/>children, because our body is constructed in such a way that some mechanical tasks are needed in order to
+               <lb break="no" facs="#facs_99_tr_2_tl_32" n="N029"/>keep it alive. But what was done in these cultures was actually the destruction of bodies and souls
+               <lb break="no" facs="#facs_99_tr_2_tl_33" n="N030"/>of man. The bodies as tools were slowly broken down and died very early, and the souls were never
+               <lb break="no" facs="#facs_99_tr_2_tl_34" n="N031"/>able to experience the creative freedom which the few COULD experience at whom we are looking
+               <lb break="no" facs="#facs_99_tr_2_tl_35" n="N032"/>now as representatives of great culture. Here obviously the technical progress has produced possibilities
+               <lb break="no" facs="#facs_99_tr_2_tl_36" n="N033"/>for human liberation which are immense. And there are always realms still left. And if today the
+               <lb break="no" facs="#facs_99_tr_2_tl_37" n="N034"/>center of the discussion is taken by the concept of automation, we must first consider this NOT from</technology>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

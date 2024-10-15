@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p150</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p150</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_150">
+         <graphic url="TL-0150.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FOFUXWBZYGELGYEODIQATBAG&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="235,306 235,3497 2400,3497 2400,306" rendition="TextRegion" xml:id="facs_150_tr_2">
+            <zone points="1146,367 1174,370 1187,380 1205,375 1212,380 1266,378 1269,303 1246,306 1241,301 1210,329 1179,326 1146,331" rendition="Line" xml:id="facs_150_tr_2_tl_1"/>
+            <zone points="321,539 2235,527 2235,457 324,491" rendition="Line" xml:id="facs_150_tr_2_tl_2"/>
+            <zone points="324,691 2235,686 2196,616 324,637" rendition="Line" xml:id="facs_150_tr_2_tl_3"/>
+            <zone points="329,843 773,871 1087,835 1130,868 2060,894 2374,866 2374,776 329,786" rendition="Line" xml:id="facs_150_tr_2_tl_4"/>
+            <zone points="329,1017 1780,1030 1839,979 2286,976 2286,925 329,940" rendition="Line" xml:id="facs_150_tr_2_tl_5"/>
+            <zone points="326,1141 2348,1138 2348,1081 2281,1074 326,1089" rendition="Line" xml:id="facs_150_tr_2_tl_6"/>
+            <zone points="321,1282 1644,1279 1711,1318 2127,1331 2209,1295 2212,1225 324,1236" rendition="Line" xml:id="facs_150_tr_2_tl_7"/>
+            <zone points="324,1436 408,1477 2183,1469 2153,1372 324,1408" rendition="Line" xml:id="facs_150_tr_2_tl_8"/>
+            <zone points="326,1629 699,1621 742,1582 2320,1582 2320,1518 326,1557" rendition="Line" xml:id="facs_150_tr_2_tl_9"/>
+            <zone points="329,1742 2191,1765 2230,1677 329,1693" rendition="Line" xml:id="facs_150_tr_2_tl_10"/>
+            <zone points="329,1947 763,1888 2153,1888 2199,1826 329,1862" rendition="Line" xml:id="facs_150_tr_2_tl_11"/>
+            <zone points="329,2052 1254,2037 1325,2086 1842,2050 2078,2083 2137,2027 2245,2032 2189,1973 329,1996" rendition="Line" xml:id="facs_150_tr_2_tl_12"/>
+            <zone points="324,2196 2253,2189 2253,2129 2173,2119 324,2153" rendition="Line" xml:id="facs_150_tr_2_tl_13"/>
+            <zone points="321,2338 776,2374 2278,2340 2278,2284 1986,2273 321,2314" rendition="Line" xml:id="facs_150_tr_2_tl_14"/>
+            <zone points="329,2489 383,2533 606,2548 922,2494 2173,2487 2173,2430 331,2445" rendition="Line" xml:id="facs_150_tr_2_tl_15"/>
+            <zone points="329,2648 2194,2641 2171,2571 1677,2587 1636,2546 1552,2587 331,2597" rendition="Line" xml:id="facs_150_tr_2_tl_16"/>
+            <zone points="321,2790 2129,2838 2124,2723 876,2761 737,2710 321,2764" rendition="Line" xml:id="facs_150_tr_2_tl_17"/>
+            <zone points="218,3013 329,2964 2214,2957 2214,2872 1677,2900 765,2859 437,2895 306,2764 221,2787" rendition="Line" xml:id="facs_150_tr_2_tl_18"/>
+            <zone points="326,3129 2209,3088 2209,3036 1945,3016 329,3067" rendition="Line" xml:id="facs_150_tr_2_tl_19"/>
+            <zone points="258,3121 504,3123 504,3103 258,3101" rendition="Line" xml:id="facs_150_l_782"/>
+            <zone points="334,3162 2250,3167 2348,3157 2350,3106 334,3134" rendition="Line" xml:id="facs_150_tr_2_tl_20"/>
+            <zone points="331,3237 2397,3265 2397,3190 2281,3175 331,3201" rendition="Line" xml:id="facs_150_tr_2_tl_21"/>
+            <zone points="324,3293 968,3288 1002,3314 1045,3280 1148,3291 1148,3242 324,3244" rendition="Line" xml:id="facs_150_tr_2_tl_22"/>
+            <zone points="321,3357 1153,3334 1156,3293 321,3293" rendition="Line" xml:id="facs_150_tr_2_tl_23"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0150.jpg" n="part1_p150.jpg" xml:id="img_0150" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p150.jpg"/>
+            
+            <ab facs="#facs_150_tr_2">
+               <lb facs="#facs_150_tr_2_tl_1" n="N001"/>[147]
+               <lb facs="#facs_150_tr_2_tl_2" n="N002"/>Now this produces the mystery of understanding, which is one of the most important things in all
+               <lb facs="#facs_150_tr_2_tl_3" n="N003"/>humanities. And this is not only a matter of us sitting here, 3000 or 2400 years AFTER PLATO,
+               <lb facs="#facs_150_tr_2_tl_4" n="N004"/>but it is also a matter of <rs type="person" key=", Plato">Plato</rs> himself: when he tried to understand his OWN texts, he never understood
+               <lb facs="#facs_150_tr_2_tl_5" n="N005"/>them---of course it is humanly impossible---exactly as he had written them. All of us who ever have
+               <lb facs="#facs_150_tr_2_tl_6" n="N006"/>written books or papers which they have preserved, and read them again after a certain reasonable time,
+               <lb facs="#facs_150_tr_2_tl_7" n="N007"/>in which something happens in their own development, will realize that these texts do not mean
+               <lb facs="#facs_150_tr_2_tl_8" n="N008"/>the same to them now than they did at that time; you don’t know any more exactly what they
+               <lb facs="#facs_150_tr_2_tl_9" n="N009"/>meant at that time. They mean often something not absolutely different, but quite different. This is
+               <lb facs="#facs_150_tr_2_tl_10" n="N010"/>one of the most interesting experiences. And I would like that sometimes, some of you, or some
+               <lb facs="#facs_150_tr_2_tl_11" n="N011"/>other <hi style="font-style: italic;">doctorandus</hi>, would sit down for two years, or ten years, and look at the more important
+               <lb facs="#facs_150_tr_2_tl_12" n="N012"/>philosophers who had a development, and show the self-interpretation of their own texts by these
+               <lb facs="#facs_150_tr_2_tl_13" n="N013"/>philosophers in the later stages of their development. And they will find astonishing results! They
+               <lb facs="#facs_150_tr_2_tl_14" n="N014"/>are the FIRST one to create a "third" out of the text and out of their own means of understanding.
+               <lb facs="#facs_150_tr_2_tl_15" n="N015"/>Then their disciples follow---and how DISCIPLES understand masters, or teachers, is very well
+               <lb facs="#facs_150_tr_2_tl_16" n="N016"/>exemplified in that saying by <rs type="person" key="Hegel, Georg Wilhelm Friedrich">Hegel</rs> which is probably apocryphal, but in any case is very good,
+               <lb facs="#facs_150_tr_2_tl_17" n="N017"/>as most apocryphal sayings are: "I have only one pupil who has understood me, and he has
+               <lb facs="#facs_150_tr_2_tl_18" n="N018"/>misunderstood me!"* Now this kind of thing is something which one should not take in terms of
+               <lb facs="#facs_150_tr_2_tl_19" n="N019"/>understanding or misunderstanding. All the pupils in the Hegelian school have understood him,
+               <lb facs="#facs_150_l_782" n="N020"/>------------------------
+               <lb facs="#facs_150_tr_2_tl_20" n="N021"/>* In private conversation, with myself and <rs type="person" key="Bürkle, Horst">Horst Bürkle</rs>, then a Union Seminary colleague student, now
+               <lb facs="#facs_150_tr_2_tl_21" n="N022"/>a specialist in world religions in Germany, Prof Tillich expressed a doubt whether even Prof. <rs type="person" key="Adams, James Luther">James Luther
+               <lb break="no" facs="#facs_150_tr_2_tl_22" n="N023"/>Adams</rs> had understood him rightly. --Ed.
+               <lb facs="#facs_150_tr_2_tl_23" n="N024"/>My substitution for PT's "cryptic". -- Ed.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

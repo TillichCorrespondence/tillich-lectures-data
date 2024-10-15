@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p064</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p064</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_64">
+         <graphic url="TL-0348.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YAROCMYVTNFXMYMPEGSIGKTL&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="286,317 2200,317 2200,1362 286,1362" rendition="TextRegion" xml:id="facs_64_tr_1">
+            <zone points="1137,374 1149,374 1156,381 1258,379 1258,302 1246,302 1221,327 1137,327" rendition="Line" xml:id="facs_64_tr_1_tl_1"/>
+            <zone points="285,527 344,530 354,542 386,525 463,530 493,545 545,522 592,525 594,466 473,458 369,473 347,453 287,456" rendition="Line" xml:id="facs_64_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="287,612 2154,614 2154,560 2065,542 287,537" rendition="Line" xml:id="facs_64_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="277,748 2122,763 2139,706 277,721" rendition="Line" xml:id="facs_64_tr_1_tl_4"/>
+            <zone points="275,901 2092,909 2090,854 272,872" rendition="Line" xml:id="facs_64_tr_1_tl_5"/>
+            <zone points="272,1045 2194,1062 2144,1003 272,1000" rendition="Line" xml:id="facs_64_tr_1_tl_6"/>
+            <zone points="272,1206 2117,1216 2139,1156 272,1174" rendition="Line" xml:id="facs_64_tr_1_tl_7"/>
+            <zone points="272,1350 2068,1359 2068,1305 272,1303" rendition="Line" xml:id="facs_64_tr_1_tl_8"/>
+         </zone>
+         <zone points="268,1448 2248,1448 2248,2571 268,2571" rendition="TextRegion" xml:id="facs_64_tr_3">
+            <zone points="267,1506 2011,1520 2097,1511 2097,1459 267,1478" rendition="Line" xml:id="facs_64_tr_3_tl_1"/>
+            <zone points="272,1669 2070,1662 2095,1605 272,1607" rendition="Line" xml:id="facs_64_tr_3_tl_2"/>
+            <zone points="262,1805 2107,1813 2107,1758 1983,1751 262,1761" rendition="Line" xml:id="facs_64_tr_3_tl_3"/>
+            <zone points="505,1959 2189,1966 2189,1914 505,1934" rendition="Line" xml:id="facs_64_tr_3_tl_5"/>
+            <zone points="260,2107 2097,2125 2060,2063 260,2063" rendition="Line" xml:id="facs_64_tr_3_tl_6"/>
+            <zone points="255,2261 1731,2258 1639,2214 255,2211" rendition="Line" xml:id="facs_64_tr_3_tl_7"/>
+            <zone points="255,2412 1875,2429 2209,2412 2209,2362 255,2382" rendition="Line" xml:id="facs_64_tr_3_tl_9"/>
+            <zone points="258,2563 1763,2575 2149,2523 258,2531" rendition="Line" xml:id="facs_64_tr_3_tl_11"/>
+         </zone>
+         <zone points="47,2610 2236,2610 2236,3476 47,3476" rendition="TextRegion" xml:id="facs_64_tr_2">
+            <zone points="760,2716 2142,2716 2206,2711 2209,2657 763,2667" rendition="Line" xml:id="facs_64_tr_2_tl_2"/>
+            <zone points="243,2860 2147,2877 2229,2811 243,2835" rendition="Line" xml:id="facs_64_tr_2_tl_4"/>
+            <zone points="978,3014 2040,3028 2164,3014 2164,2959 978,2986" rendition="Line" xml:id="facs_64_tr_2_tl_5"/>
+            <zone points="253,3073 2050,3068 2011,3014 253,3028" rendition="Line" xml:id="facs_64_tr_2_tl_7"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0348.jpg" n="part2_p064.jpg" xml:id="img_0064" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p064.jpg"/>
+            
+            <ab facs="#facs_64_tr_1">
+               <lb facs="#facs_64_tr_1_tl_1" n="N001"/>[343]
+               <lb facs="#facs_64_tr_1_tl_2" n="N002"/>24) Braque--
+               <lb facs="#facs_64_tr_1_tl_3" n="N003"/>25) Braque--[The slide] was upside down... it is not much different!--Now what does a
+               <lb facs="#facs_64_tr_1_tl_4" n="N004"/>still life since 1900 mean? This is a tremendously metaphysical question, and I must answer it
+               <lb facs="#facs_64_tr_1_tl_5" n="N005"/>at the end of this hour metaphysically, because we want to go on there, then, next Tuesday.
+               <lb facs="#facs_64_tr_1_tl_6" n="N006"/>When I was in Paris two years ago, there was an exhibition of still lives from the 16th century on.
+               <lb facs="#facs_64_tr_1_tl_7" n="N007"/>And the nearer one comes to the 20th century, the more the importance of still lives increases.
+               <lb facs="#facs_64_tr_1_tl_8" n="N008"/>Today, when you go through exhibitions with abstract non-representative... art, you can
+            </ab>
+            <ab facs="#facs_64_tr_3">
+               <lb facs="#facs_64_tr_3_tl_1" n="N001"/>call almost everything ''Still Life.'' Now that means the artistic vision is gone--following the
+               <lb facs="#facs_64_tr_3_tl_2" n="N002"/>industrial analysis of our world--to the elements. But in doing so, in showing the cubes and
+               <lb facs="#facs_64_tr_3_tl_3" n="N003"/>forms which are the elements of natural reality, in [contrast] to the organic forms, it gives to
+               <lb facs="#facs_64_tr_3_tl_5" n="N004"/>these elements a depth-dimension which they have neither in reality nor even before in art.
+               <lb facs="#facs_64_tr_3_tl_6" n="N005"/>The cubistic tendency, which is of course expressed most fully in the so-called cubistic style,
+               <lb facs="#facs_64_tr_3_tl_7" n="N006"/>but which is much larger than a special style, means going down to the elements of reality,
+               <lb facs="#facs_64_tr_3_tl_9" n="N007"/>to the non-organic elements of reality, and to find there the power of being. They become cosmic
+               <lb facs="#facs_64_tr_3_tl_11" n="N008"/>representatives. They are not simply pieces of stones or planes or cubes, as you can see them in [the]
+            </ab>
+            <ab facs="#facs_64_tr_2">
+               <lb facs="#facs_64_tr_2_tl_2" n="N001"/>mathematical [realm], but they are expressions of ultimate reality in going below the surface of
+               <lb facs="#facs_64_tr_2_tl_4" n="N002"/>things and then finding in the deeper levels representatives of the ultimate reality in the non-organic
+               <lb facs="#facs_64_tr_2_tl_5" n="N003"/>realm. That is the meaning of cubism, and I will speak more about it. We must stop now.
+               <lb facs="#facs_64_tr_2_tl_7" n="N004"/>So I can promise you we will use the whole hour on Tuesday, but then we will be through.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p001</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p001</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
+         <graphic url="TL-0285.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=JDUPNIBOIVVVIGSLZSDVIUIO&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="235,290 2179,290 2356,3397 149,3445" rendition="TextRegion" xml:id="facs_1_tr_3">
+            <zone points="1034,341 1067,357 1126,359 1167,341 1195,367 1213,357 1249,357 1244,249 1203,264 1162,310 1147,310 1118,287 1075,285 1044,313 1031,313" rendition="Line" xml:id="facs_1_tr_3_tl_1"/>
+            <zone points="580,539 1457,526 1501,508 1503,454 1413,480 1329,457 1298,487 1257,454 1157,487 1106,457 1054,487 1029,459 944,462 846,498 800,464 685,503 659,475 616,500 582,477" rendition="Line" xml:id="facs_1_tr_3_tl_2" subtype="heading"/>
+            <zone points="221,667 1239,654 1390,644 1393,590 221,626" rendition="Line" xml:id="facs_1_tr_3_tl_3"/>
+            <zone points="226,739 2175,685 2175,626 226,685" rendition="Line" xml:id="facs_1_tr_3_tl_4"/>
+            <zone points="398,782 1383,764 1385,700 398,749" rendition="Line" xml:id="facs_1_tr_3_tl_5"/>
+            <zone points="223,844 2008,803 2008,739 223,805" rendition="Line" xml:id="facs_1_tr_3_tl_6"/>
+            <zone points="223,898 1313,887 1316,826 223,875" rendition="Line" xml:id="facs_1_tr_3_tl_7"/>
+            <zone points="231,967 1529,941 1808,918 1808,872 231,923" rendition="Line" xml:id="facs_1_tr_3_tl_8"/>
+            <zone points="282,1208 1509,1175 1512,1179 1520,1175 1506,1149 1518,1144 1521,1145 281,1178" rendition="Line" xml:id="facs_1_l"/>
+            <zone points="733,1261 1394,1245 1393,1215 732,1231" rendition="Line" xml:id="facs_1_l_165"/>
+            <zone points="294,1353 661,1341 661,1341 661,1311 660,1311 293,1323" rendition="Line" xml:id="facs_1_l_176"/>
+            <zone points="322,1406 1760,1365 1759,1335 321,1376" rendition="Line" xml:id="facs_1_l_183"/>
+            <zone points="318,1478 1796,1430 1795,1400 317,1448" rendition="Line" xml:id="facs_1_l_190"/>
+            <zone points="741,1527 1692,1502 1691,1472 740,1497" rendition="Line" xml:id="facs_1_l_197"/>
+            <zone points="314,1615 1543,1575 1542,1545 313,1585" rendition="Line" xml:id="facs_1_l_204"/>
+            <zone points="310,1672 2159,1631 2158,1601 309,1642" rendition="Line" xml:id="facs_1_l_211"/>
+            <zone points="318,1748 1224,1724 1224,1694 317,1718" rendition="Line" xml:id="facs_1_l_218"/>
+            <zone points="306,1821 1382,1788 1381,1758 305,1791" rendition="Line" xml:id="facs_1_l_225"/>
+            <zone points="226,1917 1664,1865 1662,1835 224,1887" rendition="Line" xml:id="facs_1_l_232"/>
+            <zone points="326,1982 1788,1941 1788,1911 325,1952" rendition="Line" xml:id="facs_1_l_239"/>
+            <zone points="322,2046 1881,2010 1880,1980 322,2016" rendition="Line" xml:id="facs_1_l_246"/>
+            <zone points="310,2111 1382,2086 1381,2056 309,2081" rendition="Line" xml:id="facs_1_l_253"/>
+            <zone points="310,2179 1607,2127 1606,2097 309,2149" rendition="Line" xml:id="facs_1_l_260"/>
+            <zone points="314,2248 1386,2207 1384,2177 313,2218" rendition="Line" xml:id="facs_1_l_267"/>
+            <zone points="306,2296 1357,2268 1357,2238 305,2266" rendition="Line" xml:id="facs_1_l_274"/>
+            <zone points="322,2360 1426,2320 1425,2290 321,2330" rendition="Line" xml:id="facs_1_l_281"/>
+            <zone points="314,2425 2256,2364 2255,2334 313,2395" rendition="Line" xml:id="facs_1_l_288"/>
+            <zone points="314,2493 1365,2453 1364,2423 313,2463" rendition="Line" xml:id="facs_1_l_295"/>
+            <zone points="238,2590 1954,2530 1952,2500 237,2560" rendition="Line" xml:id="facs_1_l_302"/>
+            <zone points="338,2671 1353,2626 1352,2596 337,2641" rendition="Line" xml:id="facs_1_l_309"/>
+            <zone points="334,2731 1430,2691 1429,2661 333,2701" rendition="Line" xml:id="facs_1_l_316"/>
+            <zone points="238,2832 1950,2763 1948,2733 236,2802" rendition="Line" xml:id="facs_1_l_323"/>
+            <zone points="254,2884 2264,2820 2263,2790 253,2854" rendition="Line" xml:id="facs_1_l_330"/>
+            <zone points="338,2961 1643,2904 1642,2874 337,2931" rendition="Line" xml:id="facs_1_l_337"/>
+            <zone points="737,2993 1470,2977 1470,2947 736,2963" rendition="Line" xml:id="facs_1_l_344"/>
+            <zone points="749,3049 1813,3025 1812,2995 749,3019" rendition="Line" xml:id="facs_1_l_351"/>
+            <zone points="334,3142 1494,3101 1493,3072 333,3112" rendition="Line" xml:id="facs_1_l_358"/>
+            <zone points="350,3174 1768,3138 1767,3108 350,3144" rendition="Line" xml:id="facs_1_l_365"/>
+            <zone points="238,3234 2235,3170 2235,3140 237,3204" rendition="Line" xml:id="facs_1_l_372"/>
+            <zone points="262,3299 1607,3267 1606,3237 261,3269" rendition="Line" xml:id="facs_1_l_379" subtype="footnote"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0285.jpg" n="part2_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p001.jpg"/>
+            
+            <ab facs="#facs_1_tr_3">
+               <lb facs="#facs_1_tr_3_tl_1" n="N001"/>[281]
+               <lb facs="#facs_1_tr_3_tl_2" n="N002"/>RELIGION and CULTURE — Semester II *
+               <lb facs="#facs_1_tr_3_tl_3" n="N003"/>1. The special character of art between theory and practice.
+               <lb facs="#facs_1_tr_3_tl_4" n="N004"/>2. The doctrine of artistic symbols. (Reflective and representative symbols, psychological symbols,
+               <lb facs="#facs_1_tr_3_tl_5" n="N005"/>symbols in the different arts---music, architecture)
+               <lb facs="#facs_1_tr_3_tl_6" n="N006"/>3. Theory of the four levels in the different arts. (The problem of subject matter in music)
+               <lb facs="#facs_1_tr_3_tl_7" n="N007"/>4. Examples of the four levels in the visual arts. (Slides)
+               <lb facs="#facs_1_tr_3_tl_8" n="N008"/>5. Discussion and beginning analysis of the present period in the light of the arts.
+               <lb facs="#facs_1_l" n="N009"/>*Malraux, A. THE TWILIGHT OF THE ABSOLUTE
+               <lb facs="#facs_1_l_165" n="N010"/>PSYCHOLOGY OF ART (1950)
+               <lb facs="#facs_1_l_176" n="N011"/>*Maritain, J. and
+               <lb facs="#facs_1_l_183" n="N012"/>Cocteau CREATIVE INTUITION IN ART AND POETRY
+               <lb facs="#facs_1_l_190" n="N013"/>Wilder, A. MODERN POETRY AND CHRISTIAN TRADITION
+               <lb facs="#facs_1_l_197" n="N014"/>SPIRITUAL ASPECTS OF THE NEW POETRY
+               <lb facs="#facs_1_l_204" n="N015"/>Watkin, W. PLANNING THE MODERN CHURCH
+               <lb facs="#facs_1_l_211" n="N016"/>*Tillich "Theology and the Modern Church" (Architectural Forum, Dec. 1955)
+               <lb facs="#facs_1_l_218" n="N017"/>Eastman RELIGIOUS DRAMA
+               <lb facs="#facs_1_l_225" n="N018"/>Bailey THE ARTS AND RELIGION
+               <lb facs="#facs_1_l_232" n="N019"/>6. Total analysis of the present situation in the light of preceding periods.
+               <lb facs="#facs_1_l_239" n="N020"/>Berdyaev, N. THE FAITH OF MAN IN THE MODERN WORLD
+               <lb facs="#facs_1_l_246" n="N021"/>*Schweitzer, A. THE DECAY AND RESTORATION OF CIVILIZATION
+               <lb facs="#facs_1_l_253" n="N022"/>Sorokin, P. THE CRISIS OF OUR AGE
+               <lb facs="#facs_1_l_260" n="N023"/>Niebuhr, Reinhold DOES CIVILIZATION NEED RELIGION?
+               <lb facs="#facs_1_l_267" n="N024"/>*Spengler, O. THE DECLINE OF THE WEST
+               <lb facs="#facs_1_l_274" n="N025"/>*Toynbee, A. CIVILIZATION ON TRIAL
+               <lb facs="#facs_1_l_281" n="N026"/>*Tillich, P. THE RELIGIOUS SITUATION
+               <lb facs="#facs_1_l_288" n="N027"/>Tillich, P. "The World Situation," in THE CHRISTIAN ANSWER, ed. H. P. Van Dusen
+               <lb facs="#facs_1_l_295" n="N028"/>Jaspers, K. MAN IN THE MODERN AGE
+               <lb facs="#facs_1_l_302" n="N029"/>7. Continuation of the analysis of present day industrial society. Its relation to religion.
+               <lb facs="#facs_1_l_309" n="N030"/>Mannheim, K. DIAGNOSIS OF OUR TIME
+               <lb facs="#facs_1_l_316" n="N031"/>*Mumford, L. TECHNICS AND CIVILIZATION
+               <lb facs="#facs_1_l_323" n="N032"/>8. Religion and Education. The meaning of education (the wherefrom and the whereto)
+               <lb facs="#facs_1_l_330" n="N033"/>9. The meaning and method of religious education. (Question and answer. Symbols and interpretation.)
+               <lb facs="#facs_1_l_337" n="N034"/>*Ulich HISTORY OF EDUCATIONAL THOUGHT
+               <lb facs="#facs_1_l_344" n="N035"/>*THE MEANING OF EDUCATION
+               <lb facs="#facs_1_l_351" n="N036"/>CRISIS AND HOPE IN AMERICAN EDUCATION
+               <lb facs="#facs_1_l_358" n="N037"/>*Sherill, L. THE STRUGGLE OF THE SOUL
+               <lb facs="#facs_1_l_365" n="N038"/>Smart, J. THE TEACHING MINISTRY OF THE CHURCH
+               <lb facs="#facs_1_l_372" n="N039"/>--------------------
+               <lb facs="#facs_1_l_379" n="N040"/>* Names with asterisk refer to books involved in exam topics. -Ed.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

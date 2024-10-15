@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p065</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p065</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_66">
+         <graphic url="TL-0065.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DHVZQWQAAIKPNFAWAQFYICWX&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="29,264 29,3488 2340,3488 2340,264" rendition="TextRegion" xml:id="facs_66_tr_1">
+            <zone points="1135,309 1155,309 1163,316 1223,316 1223,264 1208,264 1190,247 1160,276 1135,276" rendition="Line" xml:id="facs_66_tr_1_tl_1"/>
+            <zone points="339,471 1357,478 1496,518 2104,493 2104,433 339,416" rendition="Line" xml:id="facs_66_tr_1_tl_2"/>
+            <zone points="339,568 2333,590 2331,530 336,513" rendition="Line" xml:id="facs_66_tr_1_tl_3"/>
+            <zone points="336,645 1404,647 1457,695 1631,700 1900,650 2303,670 2303,620 2221,610 336,603" rendition="Line" xml:id="facs_66_tr_1_tl_4"/>
+            <zone points="331,727 2246,749 2246,697 331,682" rendition="Line" xml:id="facs_66_tr_1_tl_5"/>
+            <zone points="331,809 2271,827 2221,772 2004,797 1890,747 1850,779 1708,745 1551,784 1372,745 1180,784 949,752 331,777" rendition="Line" xml:id="facs_66_tr_1_tl_6"/>
+            <zone points="336,899 2116,916 2116,854 1897,844 336,852" rendition="Line" xml:id="facs_66_tr_1_tl_7"/>
+            <zone points="329,974 1785,1006 2159,994 2159,949 326,929" rendition="Line" xml:id="facs_66_tr_1_tl_8"/>
+            <zone points="324,1058 2079,1076 2079,1028 1952,1013 324,1026" rendition="Line" xml:id="facs_66_tr_1_tl_9"/>
+            <zone points="326,1145 692,1140 844,1190 951,1143 2199,1165 2199,1113 1728,1118 1688,1078 1374,1118 1295,1083 1188,1123 326,1081" rendition="Line" xml:id="facs_66_tr_1_tl_10"/>
+            <zone points="324,1230 2159,1243 2114,1185 1738,1158 1651,1195 1589,1155 1399,1195 1350,1158 1280,1193 1158,1160 844,1190 730,1150 324,1183" rendition="Line" xml:id="facs_66_tr_1_tl_11"/>
+            <zone points="324,1315 695,1315 735,1355 2271,1350 2271,1285 2181,1267 324,1255" rendition="Line" xml:id="facs_66_tr_1_tl_12"/>
+            <zone points="324,1394 2179,1409 2151,1360 1828,1347 1467,1377 324,1345" rendition="Line" xml:id="facs_66_tr_1_tl_13"/>
+            <zone points="321,1477 2139,1501 2139,1452 1927,1439 321,1429" rendition="Line" xml:id="facs_66_tr_1_tl_14"/>
+            <zone points="314,1561 1589,1579 1589,1531 1419,1516 314,1531" rendition="Line" xml:id="facs_66_tr_1_tl_15"/>
+            <zone points="622,1760 1633,1785 1853,1733 2102,1748 2102,1693 622,1688" rendition="Line" xml:id="facs_66_tr_1_tl_16" subtype="paragraph"/>
+            <zone points="309,1810 2136,1860 2136,1783 1882,1768 309,1785" rendition="Line" xml:id="facs_66_tr_1_tl_17"/>
+            <zone points="309,1887 2094,1925 2169,1917 2166,1868 306,1865" rendition="Line" xml:id="facs_66_tr_1_tl_18"/>
+            <zone points="311,1987 1696,1997 1646,1937 309,1940" rendition="Line" xml:id="facs_66_tr_1_tl_19"/>
+            <zone points="610,2151 635,2164 690,2154 876,2159 874,2067 829,2092 784,2057 608,2062" rendition="Line" xml:id="facs_66_tr_1_tl_20" subtype="paragraph"/>
+            <zone points="857,2206 2149,2221 2149,2176 2082,2149 857,2159" rendition="Line" xml:id="facs_66_tr_1_tl_21"/>
+            <zone points="304,2283 1372,2318 2156,2301 2154,2253 1140,2221 301,2251" rendition="Line" xml:id="facs_66_tr_1_tl_22"/>
+            <zone points="296,2363 1427,2370 1424,2306 1337,2338 1108,2296 839,2333 715,2286 503,2328 403,2296 296,2338" rendition="Line" xml:id="facs_66_tr_1_tl_23"/>
+            <zone points="538,2530 2134,2550 2094,2475 2059,2507 1041,2505 886,2470 814,2500 782,2468 538,2497" rendition="Line" xml:id="facs_66_tr_1_tl_24" subtype="paragraph"/>
+            <zone points="296,2627 396,2667 754,2610 2092,2637 2092,2585 914,2595 605,2532 296,2585" rendition="Line" xml:id="facs_66_tr_1_tl_26"/>
+            <zone points="296,2714 398,2749 700,2702 2067,2709 1994,2662 296,2662" rendition="Line" xml:id="facs_66_tr_1_tl_27"/>
+            <zone points="299,2789 1994,2816 1955,2746 299,2744" rendition="Line" xml:id="facs_66_tr_1_tl_28"/>
+            <zone points="296,2871 2087,2896 2087,2844 1848,2826 1001,2849 695,2834 635,2791 296,2826" rendition="Line" xml:id="facs_66_tr_1_tl_29"/>
+            <zone points="291,2953 2253,2981 2251,2926 2191,2911 1589,2936 1467,2888 1068,2931 291,2921" rendition="Line" xml:id="facs_66_tr_1_tl_30"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0065.jpg" n="part1_p065.jpg" xml:id="img_0066" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p065.jpg"/>
+            
+            <ab facs="#facs_66_tr_1">
+               <lb facs="#facs_66_tr_1_tl_1" n="N001"/>[63]
+               <lb facs="#facs_66_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Myth">Christianity. History proves that there are not only natural myths (meaning myths
+               <lb break="no" facs="#facs_66_tr_1_tl_3" n="N003"/>in which the movement of the sun and the moon, and day and night, etc., are mythologically
+               <lb break="no" facs="#facs_66_tr_1_tl_4" n="N004"/>understood, and deepened [?]), but there are also historical myths which are not repetitions.
+               <lb break="no" facs="#facs_66_tr_1_tl_5" n="N005"/>If, for instance, the earth is seen as the battle-place of two divine powers, the divine and
+               <lb break="no" facs="#facs_66_tr_1_tl_6" n="N006"/>the demonic (as in ancient Persia), then this is a historical myth. It is linear, not circular.
+               <lb break="no" facs="#facs_66_tr_1_tl_7" n="N007"/>It the God of creation selects and guides a nation through history, towards an end
+               <lb break="no" facs="#facs_66_tr_1_tl_8" n="N008"/>which transcends all history, this is a historical myth. If the Christ, the transcendent
+               <lb break="no" facs="#facs_66_tr_1_tl_9" n="N009"/>divine being, appears ''in the fullness of time,'' lives, dies, and resurrects, this is a
+               <lb break="no" facs="#facs_66_tr_1_tl_10" n="N010"/>historical myth. Christianity is superior to those religions which are bound to a natural
+               <lb break="no" facs="#facs_66_tr_1_tl_11" n="N011"/>myth, which are not the Asiatic ones, but partly the Greek religions and most of the
+               <lb break="no" facs="#facs_66_tr_1_tl_12" n="N012"/>Semitic religions. But Christianity speaks the mythological language, like every other religion.
+               <lb break="no" facs="#facs_66_tr_1_tl_13" n="N013"/>It is a broken myth, of course, in which Christianity expresses itself, but it is a myth.
+               <lb break="no" facs="#facs_66_tr_1_tl_14" n="N014"/>Therefore Christianity would not be an expression of ultimate concern if the concern
+               <lb break="no" facs="#facs_66_tr_1_tl_15" n="N015"/>about the really Ultimate were expressed in any other way.</rs>
+               <lb facs="#facs_66_tr_1_tl_16" n="N016"/>Now this is enough about the language of religion, and I will not go
+               <lb facs="#facs_66_tr_1_tl_17" n="N017"/>on today, but I will try to give the 15 minutes we still have for answering questions
+               <lb facs="#facs_66_tr_1_tl_18" n="N018"/>which must have come up in your minds. And here are some written -- I will try to
+               <lb facs="#facs_66_tr_1_tl_19" n="N019"/>read them. If not, those who wrote them may ask them again:
+               <lb facs="#facs_66_tr_1_tl_20" n="N020"/>QUESTION:
+               <lb facs="#facs_66_tr_1_tl_21" n="N021"/>It God is completely unknown--that is, no direct knowledge
+               <lb facs="#facs_66_tr_1_tl_22" n="N022"/>of Him is possible--how do we know that the fact of ultimate concern is grounded in
+               <lb facs="#facs_66_tr_1_tl_23" n="N023"/>Him? It is not a risk we dare, but a blind chance.
+               <lb facs="#facs_66_tr_1_tl_24" n="N024"/>TILLICH: Now let me go into this question. What does it mean when
+               <lb facs="#facs_66_tr_1_tl_26" n="N025"/>the question asked, ''God is completely unknown''? It presupposes, first of all, the
+               <lb facs="#facs_66_tr_1_tl_27" n="N026"/>concept of God. Therefore if it uses the word ''God''--I mean now the question--
+               <lb facs="#facs_66_tr_1_tl_28" n="N027"/>and asks about His being completley [sic.] unknown, there is a contradiction in this.
+               <lb facs="#facs_66_tr_1_tl_29" n="N028"/>If He were completely unknown, it would be meaningless to use these three letters,
+               <lb facs="#facs_66_tr_1_tl_30" n="N029"/>G-O-D, presupposing that they have a meaning. If they have a meaning, there is knowledge.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

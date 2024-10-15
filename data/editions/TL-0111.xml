@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p111</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p111</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_111">
+         <graphic url="TL-0111.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TALPPBIROMODOUIDRLIPAPFM&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="14,243 14,3272 2361,3272 2361,243" rendition="TextRegion" xml:id="facs_111_tr_1">
+            <zone points="1225,318 1263,326 1271,334 1352,334 1352,269 1298,277 1279,258 1265,272 1225,272" rendition="Line" xml:id="facs_111_tr_1_tl_1"/>
+            <zone points="277,479 1424,485 1424,436 1317,420 277,442" rendition="Line" xml:id="facs_111_tr_1_tl_2"/>
+            <zone points="552,633 679,679 1443,676 1494,627 2267,638 2267,590 1809,555 1774,587 552,592" rendition="Line" xml:id="facs_111_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="19,870 275,794 345,837 654,829 716,886 867,786 2181,781 2181,708 1282,746 969,714 932,746 544,619 183,735 22,738" rendition="Line" xml:id="facs_111_tr_1_tl_4"/>
+            <zone points="272,959 334,996 673,961 797,996 872,932 2281,942 2281,875 2200,872 859,899 670,845 275,880" rendition="Line" xml:id="facs_111_tr_1_tl_5"/>
+            <zone points="264,1082 337,1128 1290,1112 1564,1147 1823,1125 1869,1080 2232,1077 2232,1020 264,1047" rendition="Line" xml:id="facs_111_tr_1_tl_6"/>
+            <zone points="264,1225 2162,1230 2162,1177 1675,1166 264,1201" rendition="Line" xml:id="facs_111_tr_1_tl_7"/>
+            <zone points="264,1381 1545,1384 1545,1325 1260,1295 1220,1330 264,1352" rendition="Line" xml:id="facs_111_tr_1_tl_8"/>
+            <zone points="544,1527 2143,1532 2143,1489 2052,1462 716,1500 544,1467" rendition="Line" xml:id="facs_111_tr_1_tl_9" subtype="paragraph"/>
+            <zone points="269,1694 2200,1686 2229,1618 269,1651" rendition="Line" xml:id="facs_111_tr_1_tl_10"/>
+            <zone points="258,1831 2229,1844 2229,1777 258,1782" rendition="Line" xml:id="facs_111_tr_1_tl_12"/>
+            <zone points="261,1987 2237,1982 2237,1920 261,1955" rendition="Line" xml:id="facs_111_tr_1_tl_13"/>
+            <zone points="261,2138 829,2181 913,2132 2170,2132 2170,2073 261,2087" rendition="Line" xml:id="facs_111_tr_1_tl_14"/>
+            <zone points="261,2289 2353,2286 2353,2219 261,2229" rendition="Line" xml:id="facs_111_tr_1_tl_15"/>
+            <zone points="261,2437 1729,2472 1809,2434 2270,2437 2270,2380 261,2386" rendition="Line" xml:id="facs_111_tr_1_tl_16"/>
+            <zone points="248,2577 821,2582 872,2628 2178,2628 2178,2528 248,2550" rendition="Line" xml:id="facs_111_tr_1_tl_17"/>
+            <zone points="256,2787 452,2806 603,2738 2057,2733 2057,2682 1764,2668 1481,2706 256,2687" rendition="Line" xml:id="facs_111_tr_1_tl_18"/>
+            <zone points="533,2886 2213,2889 2213,2822 2092,2811 1723,2851 533,2833" rendition="Line" xml:id="facs_111_tr_1_tl_19" subtype="paragraph"/>
+            <zone points="248,3040 967,3037 1134,3078 1629,3029 1696,3078 2135,3078 2205,3037 2205,2970 248,3008" rendition="Line" xml:id="facs_111_tr_1_tl_20"/>
+            <zone points="242,3234 485,3301 1395,3201 1774,3204 1817,3166 2146,3172 2149,3102 1756,3094 692,3199 245,3172" rendition="Line" xml:id="facs_111_tr_1_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0111.jpg" n="part1_p111.jpg" xml:id="img_0111" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p111.jpg"/>
+            
+            <ab facs="#facs_111_tr_1">
+               <lb facs="#facs_111_tr_1_tl_1" n="N001"/>[108]
+               <lb facs="#facs_111_tr_1_tl_2" n="N002"/>under which it was possible to hide one's critical attitude.
+               <lb facs="#facs_111_tr_1_tl_3" n="N003"/>Around 1450, the modern development starts. And it starts with the two great names,
+               <lb facs="#facs_111_tr_1_tl_4" n="N004"/><rs type="person" key=", Copernicus">Copernicus</rs> and <rs type="person" key=", Galileo">Galileo</rs>. It is of greatest interest to know what happened, when they started the
+               <lb facs="#facs_111_tr_1_tl_5" n="N005"/>new astronomical worldview, and the new method of dealing mathematically with nature. Interesting
+               <lb facs="#facs_111_tr_1_tl_6" n="N006"/>is <rs type="person" key="Luther, Martin">Luther's</rs> reaction against Copernicus. He denied it in the name of biblicism, which he sometimes
+               <lb facs="#facs_111_tr_1_tl_7" n="N007"/>had in a rather primitive way, while in other cases he was one of the critics of biblical literalism.
+               <lb facs="#facs_111_tr_1_tl_8" n="N008"/><rs type="keyword" ref="#Inquisition">And Galileo's trial before the Inquisition is common knowledge.
+               <lb break="no" facs="#facs_111_tr_1_tl_9" n="N009"/>What was so terrifying for these men, Protestants as well as Catholics, in the new
+               <lb break="no" facs="#facs_111_tr_1_tl_10" n="N010"/>scientific astronomic world view? It was the end of the central position of the earth. In the whole
+               <lb break="no" facs="#facs_111_tr_1_tl_12" n="N011"/>Middle Ages and in the ancient world, with one exception, the earth was the center and everything
+               <lb break="no" facs="#facs_111_tr_1_tl_13" n="N012"/>else was moving around it</rs>. <rs type="keyword" ref="#Pythagorean_School">In the later development of the Pythagorean school, there was an attack
+               <lb break="no" facs="#facs_111_tr_1_tl_14" n="N013"/>on this. The Pythagoreans SAW that the earth moves around the sun. But this idea was rejected
+               <lb break="no" facs="#facs_111_tr_1_tl_15" n="N014"/>under the guidance of Aristotle. There was a kind of conference of astronomers in which Pythagoreanism
+               <lb break="no" facs="#facs_111_tr_1_tl_16" n="N015"/>was rejected. So, during the whole Middle Ages, the Aristotelian worldview, with the central situation
+               <lb break="no" facs="#facs_111_tr_1_tl_17" n="N016"/>of the earth, was preserved. Of course, this was also the mythological worldview and the biblical
+               <lb break="no" facs="#facs_111_tr_1_tl_18" n="N017"/>worldview.</rs> And now the earth is out of this central position. It is one star like the others.
+               <lb facs="#facs_111_tr_1_tl_19" n="N018"/>The meaning of this was immense, and we must have a little empathy for the Church
+               <lb facs="#facs_111_tr_1_tl_20" n="N019"/>of the 16th and 17th centuries, for which Pascal is the great witness--the feeling of lostness in the
+               <lb facs="#facs_111_tr_1_tl_21" n="N020"/>new universe, and the tremendous catastrophes this had for the emotional life. In this moment,
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

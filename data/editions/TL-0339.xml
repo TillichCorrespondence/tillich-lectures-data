@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p055</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p055</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_55">
+         <graphic url="TL-0339.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CPADDJPZRVMJYACOEHGZOALI&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="208,287 2221,287 2221,1690 208,1690" rendition="TextRegion" xml:id="facs_55_tr_2">
+            <zone points="1141,350 1154,347 1164,358 1177,353 1187,358 1217,358 1222,353 1258,350 1258,287 1220,289 1205,276 1202,282 1187,279 1177,287 1141,289" rendition="Line" xml:id="facs_55_tr_2_tl_1"/>
+            <zone points="195,472 2059,462 2176,454 2176,401 195,434" rendition="Line" xml:id="facs_55_tr_2_tl_2"/>
+            <zone points="200,629 1905,616 2100,606 2100,548 200,576" rendition="Line" xml:id="facs_55_tr_2_tl_3"/>
+            <zone points="200,776 2189,758 2189,690 200,746" rendition="Line" xml:id="facs_55_tr_2_tl_4"/>
+            <zone points="205,933 1955,918 2194,903 2196,837 205,895" rendition="Line" xml:id="facs_55_tr_2_tl_5"/>
+            <zone points="216,1091 2047,1063 2136,1053 2138,997 216,1030" rendition="Line" xml:id="facs_55_tr_2_tl_6"/>
+            <zone points="205,1235 2100,1215 2100,1146 208,1190" rendition="Line" xml:id="facs_55_tr_2_tl_7"/>
+            <zone points="200,1382 2032,1397 2209,1357 2212,1291 200,1352" rendition="Line" xml:id="facs_55_tr_2_tl_8"/>
+            <zone points="208,1542 2161,1509 2214,1443 208,1479" rendition="Line" xml:id="facs_55_tr_2_tl_10" subtype="paragraph"/>
+            <zone points="208,1692 2067,1661 2171,1654 2171,1600 208,1633" rendition="Line" xml:id="facs_55_tr_2_tl_11"/>
+         </zone>
+         <zone points="38,1744 2331,1744 2331,3488 38,3488" rendition="TextRegion" xml:id="facs_55_tr_1">
+            <zone points="200,1841 2133,1813 2199,1745 200,1803" rendition="Line" xml:id="facs_55_tr_1_tl_1"/>
+            <zone points="200,1988 2232,1958 2234,1895 200,1955" rendition="Line" xml:id="facs_55_tr_1_tl_2"/>
+            <zone points="205,2133 1917,2125 2097,2108 2100,2054 205,2087" rendition="Line" xml:id="facs_55_tr_1_tl_3"/>
+            <zone points="208,2293 1993,2272 2024,2209 208,2242" rendition="Line" xml:id="facs_55_tr_1_tl_5"/>
+            <zone points="205,2442 1537,2422 1517,2371 208,2392" rendition="Line" xml:id="facs_55_tr_1_tl_6"/>
+            <zone points="208,2592 2047,2572 2250,2516 208,2529" rendition="Line" xml:id="facs_55_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="208,2747 1689,2737 2156,2711 2156,2653 211,2696" rendition="Line" xml:id="facs_55_tr_1_tl_8"/>
+            <zone points="205,2891 1874,2871 1943,2863 1945,2810 205,2866" rendition="Line" xml:id="facs_55_tr_1_tl_9"/>
+            <zone points="383,3046 2141,3013 2141,2950 386,3011" rendition="Line" xml:id="facs_55_tr_1_tl_10" subtype="paragraph"/>
+            <zone points="200,3196 398,3213 535,3193 736,3198 736,3135 441,3140 413,3165 375,3140 259,3142 200,3168" rendition="Line" xml:id="facs_55_tr_1_tl_11"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0339.jpg" n="part2_p055.jpg" xml:id="img_0055" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p055.jpg"/>
+            
+            <ab facs="#facs_55_tr_2">
+               <lb facs="#facs_55_tr_2_tl_1" n="N001"/>[334]
+               <lb facs="#facs_55_tr_2_tl_2" n="N002"/>in contrast to the Ruisdaels and the Rubens, which I would call objective naturalism. It is subjective
+               <lb facs="#facs_55_tr_2_tl_3" n="N003"/>insofar as the nature which appears here is, as Zola has said, nature seen through a temperament.
+               <lb facs="#facs_55_tr_2_tl_4" n="N004"/>It is the optic organization not only of man generally, but of the seeing possibility of one great artist,
+               <lb facs="#facs_55_tr_2_tl_5" n="N005"/>which appears here. Here again I would say, through this subjective naturalism which is present in all
+               <lb facs="#facs_55_tr_2_tl_6" n="N006"/>the expressionistic pictures, we have the presence of ultimate reality, but now ultimate reality not
+               <lb facs="#facs_55_tr_2_tl_7" n="N007"/>only in nature but IN OUR ENCOUNTER with nature. And this is the greatness and the beauty
+               <lb facs="#facs_55_tr_2_tl_8" n="N008"/>of impressionistic art, that it brings in, in a way that was never before, the optical subjectivity of man.
+               <lb facs="#facs_55_tr_2_tl_10" n="N009"/>5) <hi style="font-style: italic;">RAILROAD STATION [La Gare]</hi> by Monet -- This means that the same Monet was able to make a picture of
+               <lb facs="#facs_55_tr_2_tl_11" n="N010"/>the technical world, the second world man has created above nature, and in this world we have also
+            </ab>
+            <ab facs="#facs_55_tr_1">
+               <lb facs="#facs_55_tr_1_tl_1" n="N001"/>not only the objectivity of the technical things, which constitute a railroad station, but also the optic
+               <lb facs="#facs_55_tr_1_tl_2" n="N002"/>reception, the subjective receptive side, which, [like] the impressionists, he always put into the center.
+               <lb facs="#facs_55_tr_1_tl_3" n="N003"/>The technical world is in this way able, through the artistic symbol, also to become a symbol for
+               <lb facs="#facs_55_tr_1_tl_5" n="N004"/>ultimate reality, not directly in a religious sense---it is secular subject matter---but indirectly, through
+               <lb facs="#facs_55_tr_1_tl_6" n="N005"/>the power of being which is revealed also in these creations of man.
+               <lb facs="#facs_55_tr_1_tl_7" n="N006"/>6) <hi style="font-style: italic;">UNLOADING THE CARGO</hi> (Monet) -- It is a mixture of technical and natural elements, and what
+               <lb facs="#facs_55_tr_1_tl_8" n="N007"/>I said about both of them is here repeated in this very beautiful work of impressionist art. We will
+               <lb facs="#facs_55_tr_1_tl_9" n="N008"/>call this realm, which is now finished, nature---and technic[s] and its relation to nature.
+               <lb facs="#facs_55_tr_1_tl_10" n="N009"/>Next we will have another realm of naturalistic style and secular subject matter: human
+               <lb facs="#facs_55_tr_1_tl_11" n="N010"/>relations, social relations:
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

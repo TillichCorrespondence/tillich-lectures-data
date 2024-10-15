@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p064</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p064</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_64">
+         <graphic url="TL-0064.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HQYCYQCXVSDNXPQZRHNFMSLB&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="62,257 62,3453 2361,3453 2361,257" rendition="TextRegion" xml:id="facs_64_tr_1">
+            <zone points="1157,304 1170,304 1197,317 1209,314 1227,317 1234,312 1247,312 1247,247 1234,247 1222,259 1209,259 1202,252 1195,257 1157,257" rendition="Line" xml:id="facs_64_tr_1_tl_1"/>
+            <zone points="653,464 2274,524 2272,434 1676,424 1631,389 1596,424 653,411" rendition="Line" xml:id="facs_64_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="359,546 2110,584 2127,524 357,499" rendition="Line" xml:id="facs_64_tr_1_tl_3"/>
+            <zone points="359,633 2267,668 2264,613 1608,579 1546,621 359,581" rendition="Line" xml:id="facs_64_tr_1_tl_4"/>
+            <zone points="357,716 2344,773 2342,696 357,686" rendition="Line" xml:id="facs_64_tr_1_tl_5"/>
+            <zone points="357,800 2317,838 2317,791 2125,771 357,756" rendition="Line" xml:id="facs_64_tr_1_tl_6"/>
+            <zone points="354,888 2354,930 2354,873 2092,830 1963,878 352,835" rendition="Line" xml:id="facs_64_tr_1_tl_7"/>
+            <zone points="347,965 1768,1000 1766,943 1706,933 347,920" rendition="Line" xml:id="facs_64_tr_1_tl_8"/>
+            <zone points="646,1150 1112,1190 2187,1172 2185,1125 2110,1092 2037,1122 646,1077" rendition="Line" xml:id="facs_64_tr_1_tl_10" subtype="paragraph"/>
+            <zone points="344,1219 2204,1254 2239,1197 342,1187" rendition="Line" xml:id="facs_64_tr_1_tl_12"/>
+            <zone points="339,1302 1586,1362 1648,1327 1746,1364 2219,1332 2219,1279 2140,1272 339,1254" rendition="Line" xml:id="facs_64_tr_1_tl_14"/>
+            <zone points="344,1394 2192,1421 2192,1369 2017,1352 344,1339" rendition="Line" xml:id="facs_64_tr_1_tl_15"/>
+            <zone points="344,1474 2237,1519 2237,1451 701,1444 638,1396 342,1394" rendition="Line" xml:id="facs_64_tr_1_tl_16"/>
+            <zone points="334,1554 2157,1589 2157,1531 2077,1524 334,1506" rendition="Line" xml:id="facs_64_tr_1_tl_17"/>
+            <zone points="342,1643 1975,1678 2152,1666 2152,1621 339,1591" rendition="Line" xml:id="facs_64_tr_1_tl_18"/>
+            <zone points="349,1726 1377,1766 2105,1751 2105,1701 347,1668" rendition="Line" xml:id="facs_64_tr_1_tl_19"/>
+            <zone points="329,1805 566,1815 608,1858 993,1858 1145,1810 2130,1840 2160,1783 327,1776" rendition="Line" xml:id="facs_64_tr_1_tl_20"/>
+            <zone points="329,1900 2180,1925 2180,1868 327,1848" rendition="Line" xml:id="facs_64_tr_1_tl_21"/>
+            <zone points="327,1980 2165,2005 2162,1953 1800,1935 1721,1968 1247,1923 1209,1958 327,1928" rendition="Line" xml:id="facs_64_tr_1_tl_22"/>
+            <zone points="327,2060 2165,2092 2162,2035 1938,2020 327,2015" rendition="Line" xml:id="facs_64_tr_1_tl_23"/>
+            <zone points="327,2150 2150,2165 2102,2122 526,2115 327,2080" rendition="Line" xml:id="facs_64_tr_1_tl_24"/>
+            <zone points="327,2229 728,2277 895,2274 963,2229 2147,2262 2145,2209 1920,2194 327,2180" rendition="Line" xml:id="facs_64_tr_1_tl_25"/>
+            <zone points="314,2307 2190,2342 2207,2287 312,2262" rendition="Line" xml:id="facs_64_tr_1_tl_26"/>
+            <zone points="317,2394 2122,2434 2122,2374 1948,2359 1601,2387 1421,2352 648,2364 534,2327 317,2362" rendition="Line" xml:id="facs_64_tr_1_tl_27"/>
+            <zone points="317,2481 2085,2511 2085,2446 2022,2476 1990,2444 317,2439" rendition="Line" xml:id="facs_64_tr_1_tl_28"/>
+            <zone points="317,2569 2309,2596 2309,2544 2025,2561 1963,2521 1878,2556 317,2514" rendition="Line" xml:id="facs_64_tr_1_tl_29"/>
+            <zone points="317,2693 2022,2713 2090,2708 2090,2631 314,2611" rendition="Line" xml:id="facs_64_tr_1_tl_30"/>
+            <zone points="309,2731 918,2786 1192,2753 2150,2791 2167,2713 307,2701" rendition="Line" xml:id="facs_64_tr_1_tl_31"/>
+            <zone points="312,2820 2122,2860 2095,2786 312,2773" rendition="Line" xml:id="facs_64_tr_1_tl_32"/>
+            <zone points="309,2895 1726,2935 2092,2925 2092,2875 1601,2885 1272,2828 988,2880 307,2850" rendition="Line" xml:id="facs_64_tr_1_tl_33"/>
+            <zone points="312,2990 933,2997 930,2953 880,2938 853,2953 309,2943" rendition="Line" xml:id="facs_64_tr_1_tl_34"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0064.jpg" n="part1_p064.jpg" xml:id="img_0064" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p064.jpg"/>
+            
+            <ab facs="#facs_64_tr_1">
+               <lb facs="#facs_64_tr_1_tl_1" n="N001"/>[61]
+               <lb facs="#facs_64_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Literalism">Literalism deprives God of His ultimacy; religiously speaking, of His majesty.
+               <lb break="no" facs="#facs_64_tr_1_tl_3" n="N003"/>It draws Him down to the level of that which is, by its very nature, not ultimate:
+               <lb break="no" facs="#facs_64_tr_1_tl_4" n="N004"/>the finite, the unconditional.<rs type="keyword" ref="#Literalism"/></rs> In the last analysis, it is not rational criticism of the myth
+               <lb facs="#facs_64_tr_1_tl_5" n="N005"/><rs type="keyword" ref="#Literalism">which is decisive--it never was, in the history of religion--but it is the inner-religious criticism.
+               <lb break="no" facs="#facs_64_tr_1_tl_6" n="N006"/>Faith, if it takes its symbols literally, becomes idolatrous. This is what has been felt by the
+               <lb break="no" facs="#facs_64_tr_1_tl_7" n="N007"/>classic leaders of the great religions (which became great by this very fact) as the shortcoming,
+               <lb break="no" facs="#facs_64_tr_1_tl_8" n="N008"/>the danger, of all symbolism and mythology in the religious realm.
+               <lb break="no" facs="#facs_64_tr_1_tl_10" n="N009"/>Literalism calls ''ultimate'' something which is less than ultimate. Faith,
+               <lb break="no" facs="#facs_64_tr_1_tl_12" n="N010"/>conscious of the symbolic character of its symbols, gives God the honor which is due to
+               <lb break="no" facs="#facs_64_tr_1_tl_14" n="N011"/>Him. Therefore one should distinguish two stages of literalism: the natural stage and the
+               <lb break="no" facs="#facs_64_tr_1_tl_15" n="N012"/>reactive stage. The natural stage is the stage in which the mythical and the literal are
+               <lb break="no" facs="#facs_64_tr_1_tl_16" n="N013"/>undistinguishable for human consciousness. The primitive period of human groups and of
+               <lb break="no" facs="#facs_64_tr_1_tl_17" n="N014"/>individuals in all periods consists in the inability to separate the creations of symbolic
+               <lb break="no" facs="#facs_64_tr_1_tl_18" n="N015"/>imagination from the facts which can be verified through observation and experiment.
+               <lb break="no" facs="#facs_64_tr_1_tl_19" n="N016"/>This stage of the human mind is FULLY JUSTIFIED, and should not be disturbed
+               <lb break="no" facs="#facs_64_tr_1_tl_20" n="N017"/>artificially, if somebody lives in it. It should not be disturbed, either in individuals or
+               <lb break="no" facs="#facs_64_tr_1_tl_21" n="N018"/>groups, up to the decisive moment in which man's questioning mind breaks the natural
+               <lb break="no" facs="#facs_64_tr_1_tl_22" n="N019"/>acceptance of the mythological visions as literal in their meaning. If this moment has
+               <lb break="no" facs="#facs_64_tr_1_tl_23" n="N020"/>appeared in the development of an individual--all those of you who have to deal with
+               <lb break="no" facs="#facs_64_tr_1_tl_24" n="N021"/>children, as parents or teachers, know that this is one of the most critical moments--
+               <lb break="no" facs="#facs_64_tr_1_tl_25" n="N022"/>then two ways can be taken. The one way is that one replaces the unbroken by the
+               <lb break="no" facs="#facs_64_tr_1_tl_26" n="N023"/>broken myth, not that one removes the myth--one cannot--but that one is aware of the
+               <lb break="no" facs="#facs_64_tr_1_tl_27" n="N024"/>symbolic character of the mythological symbols. This is the way which is objectively
+               <lb break="no" facs="#facs_64_tr_1_tl_28" n="N025"/>demanded, although it is impossible for many people who prefer the repression of
+               <lb break="no" facs="#facs_64_tr_1_tl_29" n="N026"/>their questions to any kind of unsafety which appears with the breaking of the myth. People
+               <lb break="no" facs="#facs_64_tr_1_tl_30" n="N027"/>who WANT to remain safe, they are forced into the second stage of literalism--the
+               <lb break="no" facs="#facs_64_tr_1_tl_31" n="N028"/>conscious one--in which they repress the questions which have come up in their minds.
+               <lb break="no" facs="#facs_64_tr_1_tl_32" n="N029"/>And this is the wrong way, the way of repression. The tool of repression is usually
+               <lb break="no" facs="#facs_64_tr_1_tl_33" n="N030"/>an acknowledged authority--the sacred qualities (like Church or Bible) to which one
+               <lb break="no" facs="#facs_64_tr_1_tl_34" n="N031"/>owes unconditional surrender.</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

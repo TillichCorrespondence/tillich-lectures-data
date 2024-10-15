@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p127</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p127</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_127">
+         <graphic url="TL-0127.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XWFZWXZMVZMOLSDDSMXUVKQD&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="304,230 304,3001 2355,3001 2355,230" rendition="TextRegion" xml:id="facs_127_tr_3">
+            <zone points="1132,306 1163,311 1170,319 1257,314 1257,263 1229,263 1219,270 1204,270 1196,268 1178,250 1168,258 1132,258" rendition="Line" xml:id="facs_127_tr_3_tl_1"/>
+            <zone points="309,474 2173,464 2173,411 1979,393 309,426" rendition="Line" xml:id="facs_127_tr_3_tl_2"/>
+            <zone points="306,622 2300,615 2275,548 306,564" rendition="Line" xml:id="facs_127_tr_3_tl_3"/>
+            <zone points="454,775 2282,765 2282,706 2201,704 454,722" rendition="Line" xml:id="facs_127_tr_3_tl_4"/>
+            <zone points="301,961 1619,966 1762,910 2241,915 2241,849 446,895 301,831" rendition="Line" xml:id="facs_127_tr_3_tl_5"/>
+            <zone points="301,1107 1436,1074 1540,1158 1617,1102 2351,1119 2351,1012 301,1030" rendition="Line" xml:id="facs_127_tr_3_tl_6"/>
+            <zone points="309,1234 421,1285 1374,1275 1540,1216 2129,1239 2247,1219 2249,1160 1556,1176 1522,1140 1482,1176 309,1188" rendition="Line" xml:id="facs_127_tr_3_tl_7"/>
+            <zone points="301,1380 408,1428 1556,1377 2111,1413 2168,1372 2168,1313 2035,1283 1958,1318 1578,1285 1527,1321 301,1329" rendition="Line" xml:id="facs_127_tr_3_tl_8"/>
+            <zone points="309,1556 1612,1515 1757,1586 2157,1566 2259,1517 2213,1461 309,1479" rendition="Line" xml:id="facs_127_tr_3_tl_9"/>
+            <zone points="298,1680 2277,1668 2280,1609 301,1627" rendition="Line" xml:id="facs_127_tr_3_tl_10"/>
+            <zone points="296,1831 2300,1823 2300,1757 296,1800" rendition="Line" xml:id="facs_127_tr_3_tl_11"/>
+            <zone points="298,1984 2203,1969 2203,1915 298,1930" rendition="Line" xml:id="facs_127_tr_3_tl_12"/>
+            <zone points="298,2139 393,2139 411,2142 418,2150 439,2150 449,2139 462,2139 462,2083 298,2083" rendition="Line" xml:id="facs_127_tr_3_tl_13"/>
+            <zone points="500,2208 2175,2196 2175,2127 1997,2162 1943,2129 1099,2170 1040,2137 905,2170 500,2145" rendition="Line" xml:id="facs_127_tr_3_tl_14" subtype="paragraph"/>
+            <zone points="877,2354 959,2405 2239,2354 2239,2292 877,2326" rendition="Line" xml:id="facs_127_tr_3_tl_15"/>
+            <zone points="291,2547 918,2565 1336,2504 2162,2504 2162,2443 291,2484" rendition="Line" xml:id="facs_127_tr_3_tl_17"/>
+            <zone points="291,2665 2094,2693 2188,2657 2188,2593 291,2637" rendition="Line" xml:id="facs_127_tr_3_tl_18"/>
+            <zone points="288,2836 382,2884 479,2848 2270,2820 2270,2741 1943,2723 1119,2777 291,2759" rendition="Line" xml:id="facs_127_tr_3_tl_19"/>
+            <zone points="298,2973 362,3012 836,3012 836,2920 706,2907 635,2920 615,2902 597,2920 553,2907 298,2925" rendition="Line" xml:id="facs_127_tr_3_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0127.jpg" n="part1_p127.jpg" xml:id="img_0127" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p127.jpg"/>
+            
+            <ab facs="#facs_127_tr_3">
+               <lb facs="#facs_127_tr_3_tl_1" n="N001"/>[124]
+               <lb facs="#facs_127_tr_3_tl_2" n="N002"/>about this, but we may find one. Now suppose there is a theory which shows preceding states
+               <lb facs="#facs_127_tr_3_tl_3" n="N003"/>in which perhaps this concentration from which our present world started can be explained in terms
+               <lb facs="#facs_127_tr_3_tl_4" n="N004"/>as processes in which the concentration took place. Then the year five billion is as worthless
+               <lb facs="#facs_127_tr_3_tl_5" n="N005"/>as the year of the Jewish Orthodox calendar of five thousand years. <rs type="keyword" ref="#Creation">Now that is what I wanted to
+               <lb break="no" facs="#facs_127_tr_3_tl_6" n="N006"/>show: this has nothing to do with the doctrine of creation, with the dimension of our ultimate concern
+               <lb break="no" facs="#facs_127_tr_3_tl_7" n="N007"/>which relates time to eternity and has the faith in the sense of a CONCRETE RISK of faith, that
+               <lb break="no" facs="#facs_127_tr_3_tl_8" n="N008"/>every temporal moment, however far we go in past and future, has a direct relationship to the
+               <lb break="no" facs="#facs_127_tr_3_tl_9" n="N009"/>eternal. And no astronomical theory about the past or the future--and the entropy theory is also a
+               <lb break="no" facs="#facs_127_tr_3_tl_10" n="N010"/>theory about the future; it is the death of cold, perhaps, before the universe will die, and not, as the
+               <lb break="no" facs="#facs_127_tr_3_tl_11" n="N011"/>old Stoics believed, a burning of the world. However this may be, the relationship of any moment of
+               <lb break="no" facs="#facs_127_tr_3_tl_12" n="N012"/>time to the eternal is not changed by the more or less complete verification of any astronomical
+               <lb break="no" facs="#facs_127_tr_3_tl_13" n="N013"/>theory.</rs>
+               <lb facs="#facs_127_tr_3_tl_14" n="N014"/>So--and with this I conclude, up to now (I will continue a little more in this problem
+               <lb facs="#facs_127_tr_3_tl_15" n="N015"/>next Thursday) with the warning to theologians: do not rejoice and do not be sorry
+               <lb facs="#facs_127_tr_3_tl_17" n="N016"/>about ANYthing which has scientific probability. And to the scientists and to the believers in
+               <lb facs="#facs_127_tr_3_tl_18" n="N017"/>science amongst us--to whom I ALSO belong--don’t transcend the realm of scientific research
+               <lb facs="#facs_127_tr_3_tl_19" n="N018"/>in the order of finite relations in order to produce a metaphysical or a religious matrix within which
+               <lb facs="#facs_127_tr_3_tl_20" n="N019"/>your research is going on.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

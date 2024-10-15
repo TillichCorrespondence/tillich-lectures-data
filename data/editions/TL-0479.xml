@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part4_p005</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p005</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_5">
+         <graphic url="TL-0479.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RHNMLLEVIZPRFYIYUVCMBOZE&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,269 2257,269 2257,1652 298,1652" rendition="TextRegion" xml:id="facs_5_tr_2">
+            <zone points="1099,324 1158,334 1171,334 1181,327 1190,337 1223,329 1220,240 1200,240 1178,260 1163,257 1136,285 1126,277 1096,277" rendition="Line" xml:id="facs_5_tr_2_tl_1"/>
+            <zone points="304,446 849,443 906,485 1054,438 2022,448 2059,396 304,398" rendition="Line" xml:id="facs_5_tr_2_tl_2"/>
+            <zone points="304,589 2232,596 2235,535 304,537" rendition="Line" xml:id="facs_5_tr_2_tl_3"/>
+            <zone points="342,668 1658,671 1658,609 342,629" rendition="Line" xml:id="facs_5_tr_2_tl_4"/>
+            <zone points="302,745 2250,742 2168,678 302,693" rendition="Line" xml:id="facs_5_tr_2_tl_5"/>
+            <zone points="295,891 2030,901 2228,893 2228,839 295,856" rendition="Line" xml:id="facs_5_tr_2_tl_6"/>
+            <zone points="295,1044 2106,1052 2106,983 295,990" rendition="Line" xml:id="facs_5_tr_2_tl_7"/>
+            <zone points="295,1193 2044,1203 2091,1138 295,1161" rendition="Line" xml:id="facs_5_tr_2_tl_8"/>
+            <zone points="287,1339 2153,1349 2153,1289 287,1294" rendition="Line" xml:id="facs_5_tr_2_tl_9"/>
+            <zone points="285,1490 1926,1510 2109,1495 2109,1438 285,1465" rendition="Line" xml:id="facs_5_tr_2_tl_10"/>
+            <zone points="285,1641 2141,1643 2141,1594 1992,1584 285,1596" rendition="Line" xml:id="facs_5_tr_2_tl_11"/>
+         </zone>
+         <zone points="280,1735 2280,1735 2280,3013 280,3013" rendition="TextRegion" xml:id="facs_5_tr_3">
+            <zone points="287,1797 1846,1807 2104,1797 2106,1737 290,1742" rendition="Line" xml:id="facs_5_tr_3_tl_1"/>
+            <zone points="285,1945 2059,1960 2059,1891 285,1913" rendition="Line" xml:id="facs_5_tr_3_tl_2"/>
+            <zone points="287,2096 2277,2101 2277,2039 287,2047" rendition="Line" xml:id="facs_5_tr_3_tl_3"/>
+            <zone points="285,2240 1685,2262 2215,2247 2218,2190 287,2193" rendition="Line" xml:id="facs_5_tr_3_tl_4"/>
+            <zone points="282,2401 2148,2398 2148,2344 282,2369" rendition="Line" xml:id="facs_5_tr_3_tl_5"/>
+            <zone points="275,2552 2136,2552 2195,2502 277,2497" rendition="Line" xml:id="facs_5_tr_3_tl_6"/>
+            <zone points="275,2705 2091,2710 2190,2695 2190,2641 275,2651" rendition="Line" xml:id="facs_5_tr_3_tl_7"/>
+            <zone points="267,2846 2039,2861 2173,2854 2173,2789 267,2822" rendition="Line" xml:id="facs_5_tr_3_tl_8"/>
+            <zone points="270,3005 2104,3007 2237,2997 2240,2943 272,2958" rendition="Line" xml:id="facs_5_tr_3_tl_9"/>
+         </zone>
+         <zone points="44,3341 2218,3341 2218,3464 44,3464" rendition="TextRegion" xml:id="facs_5_tr_1">
+            <zone points="2128,3460 2146,3458 2151,3453 2168,3460 2178,3460 2185,3453 2213,3453 2210,3307 2176,3307 2171,3302 2161,3312 2126,3314" rendition="Line" xml:id="facs_5_tr_1_tl_1"/>
+            <zone points="1017,3418 1109,3398 1143,3416 1205,3406 1220,3420 1302,3406 1384,3423 1406,3401 1468,3413 1465,3252 1015,3260" rendition="Line" xml:id="facs_5_tr_1_tl_2"/>
+            <zone points="708,3430 725,3435 762,3408 790,3416 809,3401 955,3403 955,3314 770,3321 742,3312 730,3324 708,3324" rendition="Line" xml:id="facs_5_tr_1_tl_3"/>
+            <zone points="171,3416 188,3413 193,3418 200,3416 205,3406 220,3408 228,3401 252,3406 240,3272 205,3274 196,3279 188,3274 156,3279" rendition="Line" xml:id="facs_5_tr_1_tl_4"/>
+            <zone points="290,3433 329,3440 381,3403 450,3463 629,3460 626,3279 527,3282 510,3299 478,3282 287,3287" rendition="Line" xml:id="facs_5_tr_1_tl_5"/>
+            <zone points="770,3458 953,3455 958,3393 916,3406 864,3403 861,3398 829,3408 812,3401 792,3408 772,3403" rendition="Line" xml:id="facs_5_tr_1_tl_6"/>
+            <zone points="27,3463 151,3460 173,3465 188,3341 158,3334 141,3339 136,3331 114,3341 87,3334 42,3336" rendition="Line" xml:id="facs_5_tr_1_tl_7"/>
+            <zone points="186,3463 223,3465 257,3458 270,3463 346,3463 346,3406 307,3418 282,3401 262,3398 250,3408 235,3398 220,3408 205,3408 198,3416 183,3416" rendition="Line" xml:id="facs_5_tr_1_tl_8"/>
+            <zone points="1267,3455 1297,3460 1307,3450 1322,3450 1332,3460 1388,3460 1388,3423 1364,3418 1356,3425 1341,3425 1329,3413 1314,3428 1297,3416 1292,3420 1267,3420" rendition="Line" xml:id="facs_5_tr_1_tl_9"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0479.jpg" n="part4_p005.jpg" xml:id="img_0005" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p005.jpg"/>
+            
+            <ab facs="#facs_5_tr_2">
+               <lb facs="#facs_5_tr_2_tl_1" n="N001"/>- will
+               <lb facs="#facs_5_tr_2_tl_2" n="N002"/>And, there, was that conflict between the humanistic and the.introductori. point of view.
+               <lb facs="#facs_5_tr_2_tl_3" n="N003"/>ÇN: [Earl Scott] : All genetors considered, economie and otherwise, what is your feeling about the
+               <lb facs="#facs_5_tr_2_tl_4" n="N004"/>question of the Protestant parochial school on the American scene?
+               <lb facs="#facs_5_tr_2_tl_5" n="N005"/>PT: Yes, it is very hard to say. I personally dislike it, because it provinces theintensification of the
+               <lb facs="#facs_5_tr_2_tl_6" n="N006"/>denominational conflicts. Of course these comflicts are still very powerful in relationship to Rome
+               <lb facs="#facs_5_tr_2_tl_7" n="N007"/>and Protestants. They are not very powerful in Protestants, except in sometwatics in every
+               <lb facs="#facs_5_tr_2_tl_8" n="N008"/>denominational group who prevent real union. But the actual life in most communities is a
+               <lb facs="#facs_5_tr_2_tl_9" n="N009"/>matter of adaptation to each other. That is a different situation. But you see, I am not expert
+               <lb facs="#facs_5_tr_2_tl_10" n="N010"/>about these special sections of America because I don't come from the "grass roots," I come
+               <lb facs="#facs_5_tr_2_tl_11" n="N011"/>from the grass roots in GRMANY. And I was very happy to have this kind of education, but
+            </ab>
+            <ab facs="#facs_5_tr_3">
+               <lb facs="#facs_5_tr_3_tl_1" n="N001"/>I know that others were not, and that the I onflict was going on and then changes came after
+               <lb facs="#facs_5_tr_3_tl_2" n="N002"/>the First World War, and the Republic was declared, etc. It was a long history. One thing
+               <lb facs="#facs_5_tr_3_tl_3" n="N003"/>1 must anticipate: there is no society without an ultimate concern, and Abmbols of ultimate concern.
+               <lb facs="#facs_5_tr_3_tl_4" n="N004"/>The question is whether in the America society any of the special religious denominations can be
+               <lb facs="#facs_5_tr_3_tl_5" n="N005"/>useful, in the present conflicting situation, all providing for the symbolis of ultimate concern in
+               <lb facs="#facs_5_tr_3_tl_6" n="N006"/>the context of the school. And here I am very doubtful. The actual symbol of ultimate concern
+               <lb facs="#facs_5_tr_3_tl_7" n="N007"/>in this country is the Constitution, and its quite meaningful that this is the basis for the religious
+               <lb facs="#facs_5_tr_3_tl_8" n="N008"/>education.-Where "religious,” of course, is meant in the largest sense of the word, namely being
+               <lb facs="#facs_5_tr_3_tl_9" n="N009"/>ultimately concerned. And here we have the foundations. But to replace this unity in the present
+            </ab>
+            <ab facs="#facs_5_tr_1">
+               <lb facs="#facs_5_tr_1_tl_1" n="N001"/>ne se
+               <lb facs="#facs_5_tr_1_tl_2" n="N002"/>décembre, sont avec le monde.
+               <lb facs="#facs_5_tr_1_tl_3" n="N003"/>cʼest lʼhonneur de ses
+               <lb facs="#facs_5_tr_1_tl_4" n="N004"/>dans cette
+               <lb facs="#facs_5_tr_1_tl_5" n="N005"/>dʼune manière beaucoup
+               <lb facs="#facs_5_tr_1_tl_6" n="N006"/>dʼun autre vie de
+               <lb facs="#facs_5_tr_1_tl_7" n="N007"/>a-t-elle
+               <lb facs="#facs_5_tr_1_tl_8" n="N008"/>dʼune manière
+               <lb facs="#facs_5_tr_1_tl_9" n="N009"/>de votre beau
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

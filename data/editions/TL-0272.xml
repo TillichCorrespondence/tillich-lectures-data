@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p272</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p272</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_272">
+         <graphic url="TL-0272.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KUSFJTEDXHRDDJVUYIKXMHIO&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="271,275 271,3484 2358,3484 2358,275" rendition="TextRegion" xml:id="facs_272_tr_2">
+            <zone points="1216,341 1236,341 1243,348 1337,346 1337,272 1307,272 1292,279 1270,274 1248,297 1216,297" rendition="Line" xml:id="facs_272_tr_2_tl_1"/>
+            <zone points="371,487 2175,502 2175,457 1745,425 371,450" rendition="Line" xml:id="facs_272_tr_2_tl_2"/>
+            <zone points="368,635 2355,677 2355,601 2197,593 368,591" rendition="Line" xml:id="facs_272_tr_2_tl_3"/>
+            <zone points="368,862 798,838 887,791 2343,811 2343,741 2108,756 2039,707 1945,756 368,759" rendition="Line" xml:id="facs_272_tr_2_tl_4"/>
+            <zone points="368,937 2199,956 2199,904 1750,887 368,909" rendition="Line" xml:id="facs_272_tr_2_tl_5"/>
+            <zone points="366,1085 2254,1117 2254,1060 2101,1048 366,1040" rendition="Line" xml:id="facs_272_tr_2_tl_6"/>
+            <zone points="368,1253 2286,1268 2286,1211 2204,1189 1705,1221 368,1196" rendition="Line" xml:id="facs_272_tr_2_tl_7"/>
+            <zone points="356,1386 2281,1406 2281,1357 2039,1334 1999,1374 356,1342" rendition="Line" xml:id="facs_272_tr_2_tl_8"/>
+            <zone points="358,1537 2271,1554 2271,1503 1735,1520 1540,1483 358,1510" rendition="Line" xml:id="facs_272_tr_2_tl_9"/>
+            <zone points="363,1688 803,1700 843,1732 1379,1732 1438,1703 1438,1653 1349,1638 363,1646" rendition="Line" xml:id="facs_272_tr_2_tl_10"/>
+            <zone points="531,1834 2311,1861 2311,1794 531,1782" rendition="Line" xml:id="facs_272_tr_2_tl_11" subtype="paragraph"/>
+            <zone points="348,1987 707,2026 2303,2009 2281,1947 348,1942" rendition="Line" xml:id="facs_272_tr_2_tl_12"/>
+            <zone points="358,2148 2217,2172 2217,2108 2061,2093 1428,2125 922,2081 727,2118 358,2096" rendition="Line" xml:id="facs_272_tr_2_tl_13"/>
+            <zone points="348,2306 2167,2308 2130,2254 348,2266" rendition="Line" xml:id="facs_272_tr_2_tl_14"/>
+            <zone points="348,2439 2133,2466 2133,2409 2046,2405 348,2412" rendition="Line" xml:id="facs_272_tr_2_tl_15"/>
+            <zone points="348,2533 880,2578 984,2543 2209,2565 2229,2503 346,2486" rendition="Line" xml:id="facs_272_tr_2_tl_16"/>
+            <zone points="341,2681 1085,2726 2224,2711 2224,2654 2036,2634 341,2657" rendition="Line" xml:id="facs_272_tr_2_tl_17"/>
+            <zone points="348,2842 474,2844 539,2896 1379,2884 1465,2849 2115,2884 2187,2847 2120,2797 348,2807" rendition="Line" xml:id="facs_272_tr_2_tl_18"/>
+            <zone points="339,3010 536,3045 2128,3005 2128,2953 1910,2941 339,2961" rendition="Line" xml:id="facs_272_tr_2_tl_19"/>
+            <zone points="336,3136 2281,3166 2281,3104 336,3111" rendition="Line" xml:id="facs_272_tr_2_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0272.jpg" n="part1_p272.jpg" xml:id="img_0272" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p272.jpg"/>
+            
+            <ab facs="#facs_272_tr_2">
+               <lb facs="#facs_272_tr_2_tl_1" n="N001"/>[268]
+               <lb facs="#facs_272_tr_2_tl_2" n="N002"/>the theoretical and the practical realm, namely the <rs type="keyword" ref="#Doctrine_of_man">doctrine of man.</rs> We have dedicated two
+               <lb facs="#facs_272_tr_2_tl_3" n="N003"/>lectures already to this doctrine of man, whereby I spoke metaphorically of the <rs type="keyword" ref="#Iliad">Iliad</rs> and the <rs type="keyword" ref="#Odyssey">Odyssey</rs>
+               <lb facs="#facs_272_tr_2_tl_4" n="N004"/>of the human mind---man asking the question of himself and his world, being estranged from himself,
+               <lb facs="#facs_272_tr_2_tl_5" n="N005"/>dissolving himself in the different levels of reality which he meets, finding that he cannot find
+               <lb facs="#facs_272_tr_2_tl_6" n="N006"/>himself on this basis. In the last hour, I gave you some points in which the Odyssey can be seen,
+               <lb facs="#facs_272_tr_2_tl_7" n="N007"/>points which have happened [in the past]---in terms of <rs type="keyword" ref="#Romanticism">romanticism</rs>, of elements of <rs type="keyword" ref="#Existentialism">existentialism</rs>,
+               <lb facs="#facs_272_tr_2_tl_8" n="N008"/>in the past---and then points which are especially characteristic of the 20th century. Here I came
+               <lb facs="#facs_272_tr_2_tl_9" n="N009"/>to that movement which has become so important for the climate of man's self-interpretation
+               <lb facs="#facs_272_tr_2_tl_10" n="N010"/>of himself, namely the rediscovery of the <unconscious>unconscious</unconscious>.
+               <lb facs="#facs_272_tr_2_tl_11" n="N011"/>The discovery of the <unconscious>unconscious</unconscious> is one of the things to which we should dedicate this last
+               <lb facs="#facs_272_tr_2_tl_12" n="N012"/>hour because it is, in all the ways in which this rediscovery has been done, most important for man's
+               <lb facs="#facs_272_tr_2_tl_13" n="N013"/>self-interpretation of himself, in the present situation. First of all I speak of the REdiscovery
+               <lb facs="#facs_272_tr_2_tl_14" n="N014"/>of the unconscious. That means it was not unknown to former periods of history. Wherever
+               <lb facs="#facs_272_tr_2_tl_15" n="N015"/>voluntaristic elements became important in philosophy, especially in the doctrine of being,
+               <lb facs="#facs_272_tr_2_tl_16" n="N016"/>there, in the past, the reality of drives and strivings which are not yet conscious was seen clearly.
+               <lb facs="#facs_272_tr_2_tl_17" n="N017"/>But with the modern time---with Protestantism, especially in its Calvinistic and Zwinglian forms,
+               <lb facs="#facs_272_tr_2_tl_18" n="N018"/>and with the emphasis on consciousness in <rs type="person">Descartes </rs>and his school, and English <rs type="keyword" ref="#Empiricism">empiricism</rs>---
+               <lb facs="#facs_272_tr_2_tl_19" n="N019"/>the insight into the power of the unconscious got lost. It was rediscovered the first time in
+               <lb facs="#facs_272_tr_2_tl_20" n="N020"/><rs type="keyword" ref="#Romanticism">romanticism</rs>, but romanticism had special characteristics which made it useless, to a certain extent,
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

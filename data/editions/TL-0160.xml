@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p160</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p160</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_160">
+         <graphic url="TL-0160.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WKTSGTRFYJLNCNAFORKCBWAN&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="124,267 124,3507 2355,3507 2355,267" rendition="TextRegion" xml:id="facs_160_tr_1">
+            <zone points="1264,347 1294,349 1302,357 1357,357 1367,349 1387,349 1387,282 1362,282 1349,294 1327,294 1317,284 1299,302 1264,302" rendition="Line" xml:id="facs_160_tr_1_tl_1"/>
+            <zone points="544,541 1758,549 1805,501 2294,504 2294,456 2152,459 2107,414 2045,459 1818,426 893,464 828,416 708,416 653,464 544,464" rendition="Line" xml:id="facs_160_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="347,658 2207,646 2207,591 347,601" rendition="Line" xml:id="facs_160_tr_1_tl_3"/>
+            <zone points="347,818 2294,810 2294,751 2090,723 1564,773 347,761" rendition="Line" xml:id="facs_160_tr_1_tl_4"/>
+            <zone points="349,958 2244,955 2244,903 349,905" rendition="Line" xml:id="facs_160_tr_1_tl_5"/>
+            <zone points="347,1112 2314,1110 2314,1045 347,1057" rendition="Line" xml:id="facs_160_tr_1_tl_6"/>
+            <zone points="344,1254 2282,1262 2282,1199 344,1227" rendition="Line" xml:id="facs_160_tr_1_tl_7"/>
+            <zone points="347,1414 2190,1411 2192,1352 349,1357" rendition="Line" xml:id="facs_160_tr_1_tl_8"/>
+            <zone points="344,1554 708,1603 813,1561 2175,1566 2135,1504 1895,1491 344,1524" rendition="Line" xml:id="facs_160_tr_1_tl_9"/>
+            <zone points="347,1711 1162,1716 1242,1761 2202,1721 2202,1651 347,1661" rendition="Line" xml:id="facs_160_tr_1_tl_10"/>
+            <zone points="344,1893 2207,1893 2207,1805 344,1815" rendition="Line" xml:id="facs_160_tr_1_tl_11"/>
+            <zone points="347,2027 2242,2027 2242,1950 431,1950 347,1983" rendition="Line" xml:id="facs_160_tr_1_tl_12"/>
+            <zone points="347,2187 2207,2165 2347,2157 2349,2097 349,2112" rendition="Line" xml:id="facs_160_tr_1_tl_13"/>
+            <zone points="347,2309 2217,2309 2217,2257 347,2267" rendition="Line" xml:id="facs_160_tr_1_tl_14"/>
+            <zone points="342,2461 681,2501 1377,2456 1613,2501 2287,2489 2287,2401 342,2414" rendition="Line" xml:id="facs_160_tr_1_tl_15"/>
+            <zone points="344,2633 2262,2648 2262,2549 344,2566" rendition="Line" xml:id="facs_160_tr_1_tl_16"/>
+            <zone points="342,2818 574,2818 603,2788 651,2773 651,2716 506,2718 474,2698 456,2716 342,2721" rendition="Line" xml:id="facs_160_tr_1_tl_17"/>
+            <zone points="539,2910 2307,2903 2309,2853 2212,2833 541,2870" rendition="Line" xml:id="facs_160_tr_1_tl_18" subtype="paragraph"/>
+            <zone points="339,3065 1217,3092 2237,3055 2237,2990 339,3030" rendition="Line" xml:id="facs_160_tr_1_tl_19"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0160.jpg" n="part1_p160.jpg" xml:id="img_0160" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p160.jpg"/>
+            
+            <ab facs="#facs_160_tr_1">
+               <lb facs="#facs_160_tr_1_tl_1" n="N001"/>[157]
+               <lb facs="#facs_160_tr_1_tl_2" n="N002"/>Now NOBODY can say that these stories are well-documented. They have no high degree
+               <lb facs="#facs_160_tr_1_tl_3" n="N003"/>of probability---most of them, at least---and it is not a matter of faith to find out the degrees of
+               <lb facs="#facs_160_tr_1_tl_4" n="N004"/>probability or of improbability of any of these special stories. Some are VERY WELL documented,
+               <lb facs="#facs_160_tr_1_tl_5" n="N005"/>but this is a matter of research and of nothing else. <rs type="keyword" ref="#Philology">And it HAS to be done with all the tools of a
+               <lb break="no" facs="#facs_160_tr_1_tl_6" n="N006"/>solid philological and historical method. No one should judge about one verse of the New Testament
+               <lb break="no" facs="#facs_160_tr_1_tl_7" n="N007"/>which tells a story, who has not gone through an iron philological discipline. And I would like that
+               <lb break="no" facs="#facs_160_tr_1_tl_8" n="N008"/>this would be taken as seriously as it was done 100 years ago, when philology was really <hi style="font-style: italic;">philos</hi>,
+               <lb break="no" facs="#facs_160_tr_1_tl_9" n="N009"/>namely "friend," of everybody who wanted to go into the study of the meaning of existence,
+               <lb break="no" facs="#facs_160_tr_1_tl_10" n="N010"/>as it is given in the documents of the past. Without such philological work, nothing historically
+               <lb break="no" facs="#facs_160_tr_1_tl_11" n="N011"/>probable can be said. And no intensity of faith can replace this work of philological exactitude
+               <lb break="no" facs="#facs_160_tr_1_tl_12" n="N012"/>and preciseness. And I can tell you---l had to learn that myself as a student---philological method
+               <lb break="no" facs="#facs_160_tr_1_tl_13" n="N013"/>can be VERY precise; it isn't vague; and conjectures can be very solid, and MANY of these conjectures
+               <lb break="no" facs="#facs_160_tr_1_tl_14" n="N014"/>which have been made about texts of the past have been proved to be true by later discovery of
+               <lb break="no" facs="#facs_160_tr_1_tl_15" n="N015"/>original texts. This is not vague, , [sic.] as scientists often think it is, but it is a precise method which can
+               <lb break="no" facs="#facs_160_tr_1_tl_16" n="N016"/>lead to a high degree of probability---never BEYOND that, never to certainty, but to a high degree
+               <lb break="no" facs="#facs_160_tr_1_tl_17" n="N017"/>of probability.</rs>
+               <lb facs="#facs_160_tr_1_tl_18" n="N018"/>And so l would say: it isn’t a matter of faith to decide whether the presently used edition
+               <lb facs="#facs_160_tr_1_tl_19" n="N019"/>of the Muslim Koran is identical with the original text, although this is the fervent belief of most
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p151</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p151</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_151">
+         <graphic url="TL-0151.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ULIKPYCNNVABJNDTZZNYZGVP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="316,273 316,3457 2349,3457 2349,273" rendition="TextRegion" xml:id="facs_151_tr_2">
+            <zone points="1147,338 1172,340 1187,350 1207,340 1230,350 1270,343 1268,270 1240,270 1215,295 1194,277 1179,290 1144,290" rendition="Line" xml:id="facs_151_tr_2_tl_1"/>
+            <zone points="320,496 1182,517 1343,459 1923,469 1945,413 1189,421 1147,381 1104,421 932,421 879,383 837,423 428,396 320,428" rendition="Line" xml:id="facs_151_tr_2_tl_2"/>
+            <zone points="524,627 2248,575 2248,537 2172,519 524,527" rendition="Line" xml:id="facs_151_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="323,703 2286,693 2286,635 323,670" rendition="Line" xml:id="facs_151_tr_2_tl_4"/>
+            <zone points="315,814 675,872 1464,834 2220,864 2220,756 2152,743 315,771" rendition="Line" xml:id="facs_151_tr_2_tl_5"/>
+            <zone points="315,968 446,998 491,965 1983,965 2034,922 2208,925 2208,877 1996,852 315,879" rendition="Line" xml:id="facs_151_tr_2_tl_6"/>
+            <zone points="318,1074 1824,1094 1971,1043 2276,1043 2276,988 320,1005" rendition="Line" xml:id="facs_151_tr_2_tl_7"/>
+            <zone points="315,1169 2218,1187 2220,1109 2079,1101 318,1139" rendition="Line" xml:id="facs_151_tr_2_tl_8"/>
+            <zone points="320,1293 418,1348 484,1313 2286,1318 2346,1283 2346,1222 2218,1210 320,1255" rendition="Line" xml:id="facs_151_tr_2_tl_9"/>
+            <zone points="318,1424 1706,1444 1772,1396 2167,1396 2155,1343 1913,1338 318,1361" rendition="Line" xml:id="facs_151_tr_2_tl_10"/>
+            <zone points="315,1527 2243,1515 2243,1464 1925,1454 315,1474" rendition="Line" xml:id="facs_151_tr_2_tl_11"/>
+            <zone points="315,1643 2233,1630 2233,1585 2034,1575 315,1585" rendition="Line" xml:id="facs_151_tr_2_tl_12"/>
+            <zone points="318,1764 2271,1749 2271,1701 1958,1688 318,1714" rendition="Line" xml:id="facs_151_tr_2_tl_13"/>
+            <zone points="320,1875 2245,1862 2245,1814 1963,1802 320,1832" rendition="Line" xml:id="facs_151_tr_2_tl_14"/>
+            <zone points="307,1991 2215,1978 2215,1928 2041,1910 1678,1950 307,1945" rendition="Line" xml:id="facs_151_tr_2_tl_15"/>
+            <zone points="307,2114 2238,2102 2238,2046 307,2064" rendition="Line" xml:id="facs_151_tr_2_tl_16"/>
+            <zone points="305,2223 2205,2213 2205,2160 2087,2155 305,2182" rendition="Line" xml:id="facs_151_tr_2_tl_17"/>
+            <zone points="318,2349 2087,2334 2087,2273 995,2313 318,2286" rendition="Line" xml:id="facs_151_tr_2_tl_18"/>
+            <zone points="302,2462 1202,2454 1328,2500 2155,2467 2157,2379 305,2432" rendition="Line" xml:id="facs_151_tr_2_tl_19"/>
+            <zone points="305,2583 731,2583 786,2628 1940,2596 1943,2510 307,2540" rendition="Line" xml:id="facs_151_tr_2_tl_20"/>
+            <zone points="512,2696 1824,2701 2122,2684 2124,2628 512,2651" rendition="Line" xml:id="facs_151_tr_2_tl_21" subtype="paragraph"/>
+            <zone points="310,2772 2139,2769 2119,2684 310,2714" rendition="Line" xml:id="facs_151_tr_2_tl_22"/>
+            <zone points="310,2893 1333,2916 1386,2868 1751,2865 1824,2913 2263,2898 2263,2815 2213,2802 310,2830" rendition="Line" xml:id="facs_151_tr_2_tl_23"/>
+            <zone points="302,3039 1436,3034 1484,2986 1555,3044 2152,3014 2208,2989 2210,2928 302,2948" rendition="Line" xml:id="facs_151_tr_2_tl_24"/>
+            <zone points="305,3110 600,3115 665,3170 2306,3092 2306,3039 2160,3027 1709,3072 305,3064" rendition="Line" xml:id="facs_151_tr_2_tl_25"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0151.jpg" n="part1_p151.jpg" xml:id="img_0151" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p151.jpg"/>
+            
+            <ab facs="#facs_151_tr_2">
+               <lb facs="#facs_151_tr_2_tl_1" n="N001"/>[148]
+               <lb facs="#facs_151_tr_2_tl_2" n="N002"/>but have made something "third" out of him, [by] their own organs of reception.
+               <lb facs="#facs_151_tr_2_tl_3" n="N003"/>The same is true, of course, of the biblical literature. And since l have to speak anyhow
+               <lb facs="#facs_151_tr_2_tl_4" n="N004"/>about it more than in my former lectures, in these [remarks] on history let me say immediately the
+               <lb facs="#facs_151_tr_2_tl_5" n="N005"/>following: THERE IS NO ONE WHO HAS NOT MADE SOMETHING "THIRD" OUT OF THE
+               <lb facs="#facs_151_tr_2_tl_6" n="N006"/>BIBLICAL TEXTS AND HIS PARTICIPATION OF UNDERSTANDING IN THEM. Therefore
+               <lb facs="#facs_151_tr_2_tl_7" n="N007"/>the history of commentaries is a continuous history going on through all centuries, and the present-
+               <lb facs="#facs_151_tr_2_tl_8" n="N008"/>day commentaries contain the same texts---almost the same, with very few changes---and in most
+               <lb facs="#facs_151_tr_2_tl_9" n="N009"/>cases where EXACTLY the same texts are used, the commentaries today say something quite different
+               <lb facs="#facs_151_tr_2_tl_10" n="N010"/>than the commentaries by <rs type="person" key=", Origen">Origen</rs> or <rs type="person" key=", Augustine">Augustine</rs> or earlier commentaries. Now this means that
+               <lb facs="#facs_151_tr_2_tl_11" n="N011"/>the commentary to a text is a creation of a special type of truth: it is the truth of <rs type="keyword" ref="#Understanding">understanding</rs>.
+               <lb facs="#facs_151_tr_2_tl_12" n="N012"/>But don’t misunderstand ME, now! I do NOT mean to say that the commentator, the interpreter
+               <lb facs="#facs_151_tr_2_tl_13" n="N013"/>of a text, simply makes something new out of it, says his OWN thought, in terms of a commentary.
+               <lb facs="#facs_151_tr_2_tl_14" n="N014"/>Then he is not a commentator---then he is a systematic theologian <hi style="font-style: italic;">[some laughter]</hi>. And I know
+               <lb facs="#facs_151_tr_2_tl_15" n="N015"/>some commentators who were systematic theologians and who used---for instance <rs type="person" key="Barth, Karl">Karl Barth</rs> on
+               <lb facs="#facs_151_tr_2_tl_16" n="N016"/>Paul's <hi style="font-style: italic;">Letter to the Romans</hi>, [written] IN ORDER TO EXPRESS Barth’s THEOLOGY, using the
+               <lb facs="#facs_151_tr_2_tl_17" n="N017"/>Pauline text but not even INTENDING to give a real commentary, in terms of understanding of
+               <lb facs="#facs_151_tr_2_tl_18" n="N018"/>Paul. Now this is an extreme case, and we have other people who did the same thing, and
+               <lb facs="#facs_151_tr_2_tl_19" n="N019"/>sometimes a very fruitful case---I still believe that this commentary on Romans is Karl Barth's
+               <lb facs="#facs_151_tr_2_tl_20" n="N020"/>by far the best book. But you shouldn’t take it if you want to understand Paul.
+               <lb facs="#facs_151_tr_2_tl_21" n="N021"/>Now the same was done, for instance, by another very good book, which l ALSO
+               <lb facs="#facs_151_tr_2_tl_22" n="N022"/>would call perhaps his best book, namely <rs type="person" key="Heidegger, Martin">Heidegger's</rs> commentary on <rs type="person" key="Kant, Immanuel">Kant</rs>, which is a really
+               <lb facs="#facs_151_tr_2_tl_23" n="N023"/>great book, in which he interprets Kant existentially, or existentialistically, and this interpretation
+               <lb facs="#facs_151_tr_2_tl_24" n="N024"/>is a GREAT WORK of philosophy, a tremendous thought. But if you want to know what Kant
+               <lb facs="#facs_151_tr_2_tl_25" n="N025"/>HAS SAID, please don't use it and quote it in your papers about Kant. But if you want to RELATE
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

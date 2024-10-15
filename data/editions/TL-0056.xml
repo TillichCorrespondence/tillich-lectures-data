@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p056</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p056</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_56">
+         <graphic url="TL-0056.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CFMVZDDEHAIFQNWPLCGJMCXB&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="286,249 286,3450 2283,3450 2283,249" rendition="TextRegion" xml:id="facs_56_tr_3">
+            <zone points="1222,301 1240,301 1249,308 1289,308 1296,301 1311,301 1311,242 1281,244 1264,249 1259,254 1222,254" rendition="Line" xml:id="facs_56_tr_3_tl_1"/>
+            <zone points="328,499 2235,474 2235,408 328,401" rendition="Line" xml:id="facs_56_tr_3_tl_2"/>
+            <zone points="328,545 993,579 2115,550 2112,511 2027,496 325,504" rendition="Line" xml:id="facs_56_tr_3_tl_3"/>
+            <zone points="330,631 1501,645 1465,584 330,604" rendition="Line" xml:id="facs_56_tr_3_tl_4"/>
+            <zone points="628,721 719,765 2181,746 2181,675 628,667" rendition="Line" xml:id="facs_56_tr_3_tl_5" subtype="paragraph"/>
+            <zone points="271,848 335,817 1313,836 1345,804 1401,839 2142,836 2139,763 2049,756 660,775 377,763 269,699" rendition="Line" xml:id="facs_56_tr_3_tl_6"/>
+            <zone points="323,878 946,890 1198,941 1768,907 1736,839 323,844" rendition="Line" xml:id="facs_56_tr_3_tl_7"/>
+            <zone points="619,968 2134,976 2134,927 2051,912 2000,944 619,919" rendition="Line" xml:id="facs_56_tr_3_tl_8" subtype="paragraph"/>
+            <zone points="328,1059 1638,1095 1824,1049 2178,1059 2178,1012 2098,1000 328,1005" rendition="Line" xml:id="facs_56_tr_3_tl_9"/>
+            <zone points="330,1149 2083,1149 2083,1088 330,1090" rendition="Line" xml:id="facs_56_tr_3_tl_10"/>
+            <zone points="320,1218 2152,1230 2103,1166 320,1188" rendition="Line" xml:id="facs_56_tr_3_tl_11"/>
+            <zone points="330,1311 687,1347 944,1298 2193,1318 2193,1267 2134,1252 330,1254" rendition="Line" xml:id="facs_56_tr_3_tl_12"/>
+            <zone points="320,1386 2188,1406 2188,1352 2061,1337 320,1355" rendition="Line" xml:id="facs_56_tr_3_tl_13"/>
+            <zone points="318,1467 2112,1494 2227,1484 2225,1433 315,1440" rendition="Line" xml:id="facs_56_tr_3_tl_14"/>
+            <zone points="323,1555 2166,1570 2130,1506 323,1513" rendition="Line" xml:id="facs_56_tr_3_tl_15"/>
+            <zone points="323,1641 1440,1689 1484,1653 2205,1653 2205,1601 2134,1594 323,1594" rendition="Line" xml:id="facs_56_tr_3_tl_16"/>
+            <zone points="318,1746 2191,1763 2191,1675 318,1682" rendition="Line" xml:id="facs_56_tr_3_tl_17"/>
+            <zone points="315,1807 2208,1841 2208,1770 2147,1760 315,1770" rendition="Line" xml:id="facs_56_tr_3_tl_18"/>
+            <zone points="315,1912 2276,1902 2276,1846 315,1844" rendition="Line" xml:id="facs_56_tr_3_tl_19"/>
+            <zone points="311,1976 1506,1988 1487,1936 311,1936" rendition="Line" xml:id="facs_56_tr_3_tl_20"/>
+            <zone points="609,2159 2198,2156 2198,2095 1990,2083 895,2105 836,2071 731,2105 609,2073" rendition="Line" xml:id="facs_56_tr_3_tl_21" subtype="paragraph"/>
+            <zone points="318,2235 2213,2267 2274,2259 2271,2188 315,2186" rendition="Line" xml:id="facs_56_tr_3_tl_22"/>
+            <zone points="318,2308 2242,2325 2242,2264 2205,2262 721,2289 318,2257" rendition="Line" xml:id="facs_56_tr_3_tl_23"/>
+            <zone points="318,2406 2066,2394 2264,2435 2264,2359 2208,2345 318,2355" rendition="Line" xml:id="facs_56_tr_3_tl_24"/>
+            <zone points="306,2496 362,2533 1853,2531 2029,2484 2029,2428 306,2455" rendition="Line" xml:id="facs_56_tr_3_tl_25"/>
+            <zone points="606,2560 1132,2560 1232,2611 2095,2582 2095,2516 606,2518" rendition="Line" xml:id="facs_56_tr_3_tl_26" subtype="paragraph"/>
+            <zone points="308,2643 795,2643 951,2692 2193,2658 2193,2599 308,2604" rendition="Line" xml:id="facs_56_tr_3_tl_27"/>
+            <zone points="313,2741 2208,2748 2205,2699 2117,2685 311,2682" rendition="Line" xml:id="facs_56_tr_3_tl_28"/>
+            <zone points="308,2834 2191,2839 2191,2768 308,2780" rendition="Line" xml:id="facs_56_tr_3_tl_29"/>
+            <zone points="328,2873 1853,2890 1853,2844 1790,2839 328,2848" rendition="Line" xml:id="facs_56_tr_3_tl_30" subtype="footnote"/>
+            <zone points="359,2939 2269,2944 2269,2900 2205,2883 359,2897" rendition="Line" xml:id="facs_56_tr_3_tl_31" subtype="footnote-continued"/>
+            <zone points="372,2993 1800,2998 1800,2941 1682,2966 1631,2932 372,2956" rendition="Line" xml:id="facs_56_tr_3_tl_32" subtype="footnote-continued"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0056.jpg" n="part1_p056.jpg" xml:id="img_0056" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p056.jpg"/>
+            
+            <ab facs="#facs_56_tr_3">
+               <lb facs="#facs_56_tr_3_tl_1" n="N001"/>[53]
+               <lb facs="#facs_56_tr_3_tl_2" n="N002"/>to the ULTIMACY of one's concern? And which is less adequate? Which is distorted and
+               <lb facs="#facs_56_tr_3_tl_3" n="N003"/>idolatrous? This is the problem, and not the wrongly-so-called ''existence'' of God--
+               <lb facs="#facs_56_tr_3_tl_4" n="N004"/>which I would call in impossible combination of words.
+               <lb facs="#facs_56_tr_3_tl_5" n="N005"/>God as the ultimate in man's ultimate concern is MORE certain than any
+               <lb facs="#facs_56_tr_3_tl_6" n="N006"/>other certainty, even the certainty of one's self. God as symbolized in a divine figure
+               <lb facs="#facs_56_tr_3_tl_7" n="N007"/>is a matter of daring faith, of courage, of risk, of change, of error.
+               <lb facs="#facs_56_tr_3_tl_8" n="N008"/>Now God is the basis [?]* of faith, but He is not the only one. There
+               <lb facs="#facs_56_tr_3_tl_9" n="N009"/>is a second level which I would call the qualities and actions of God--qualities such as
+               <lb facs="#facs_56_tr_3_tl_10" n="N010"/>power, love, justice: they are taken from finite experiences which we all have and
+               <lb facs="#facs_56_tr_3_tl_11" n="N011"/>are applied symbolically to that which is beyond finitude and infinity. -- Or if faith
+               <lb facs="#facs_56_tr_3_tl_12" n="N012"/>calls God ''almighty,'' faith uses the human experience of power in order to symbolize
+               <lb facs="#facs_56_tr_3_tl_13" n="N013"/>the content of its infinite concern. But it DOES NOT DO something extremely absurd,
+               <lb facs="#facs_56_tr_3_tl_14" n="N014"/>namely [to] assert the existance [sic.] of a highest being, sitting on His throne, and being able
+               <lb facs="#facs_56_tr_3_tl_15" n="N015"/>to do what He pleases to do, and nobody (not even Himself) knows what He will do
+               <lb facs="#facs_56_tr_3_tl_16" n="N016"/>the next moment. This is a caricature and absurdity, and many stumbling blocks against
+               <lb facs="#facs_56_tr_3_tl_17" n="N017"/>religion are derived from non-symbolic literalism of religion which leads us to a nest of
+               <lb facs="#facs_56_tr_3_tl_18" n="N018"/>absurdities. For instance the question of so many people: Why, if God is almighty, has
+               <lb facs="#facs_56_tr_3_tl_19" n="N019"/>He permitted misery on earth? --Now this presupposes a nonsensical and absurd concept of
+               <lb facs="#facs_56_tr_3_tl_20" n="N020"/>almightiness. But I cannot go into this in this moment.
+               <lb facs="#facs_56_tr_3_tl_21" n="N021"/>So it is with all the other qualities: omniscience--I will only show how
+               <lb facs="#facs_56_tr_3_tl_22" n="N022"/>absurd this becomes in the moment in which symbolic language is understood literalistically.
+               <lb facs="#facs_56_tr_3_tl_23" n="N023"/>Then one can ask, with some medieval Scholastic: Does God also know everything which
+               <lb facs="#facs_56_tr_3_tl_24" n="N024"/>would have happened, if what has happened had not happened? -- Now here you see what
+               <lb facs="#facs_56_tr_3_tl_25" n="N025"/>an amount of absurdity is possible if you distort symbols into literal statements.
+               <lb facs="#facs_56_tr_3_tl_26" n="N026"/>The same is true of all the divine activities (past, present and future)
+               <lb facs="#facs_56_tr_3_tl_27" n="N027"/>which one tells about God. They are symbols taken from our daily experience, and not
+               <lb facs="#facs_56_tr_3_tl_28" n="N028"/>informations [sic.] about what God has done, or what a highest Being called ''God'' has done,
+               <lb facs="#facs_56_tr_3_tl_29" n="N029"/>once upon a time, or will do some time in the future. <rs type="keyword" ref="#Faith">Faith is not the belief in such
+               <lb break="no" facs="#facs_56_tr_3_tl_30" n="N030"/>*My notes recorded ''the basic of faith,'' with subsequent interpolations
+               </rs><lb facs="#facs_56_tr_3_tl_31" n="N031"/>that T. may have said ''basis,'' and that perhaps the word ''symbol'' was understood, but
+               <lb facs="#facs_56_tr_3_tl_32" n="N032"/>not expressed; or perhaps he meant ''basic'' as ''foundation''.--Ed.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p039</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p039</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_39">
+         <graphic url="TL-0039.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DRWTRCOYRPPYYUWXTBKZEVIE&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="143,196 143,2883 2230,2883 2230,196" rendition="TextRegion" xml:id="facs_39_tr_2">
+            <zone points="1228,238 1243,238 1275,260 1283,260 1290,253 1330,253 1330,206 1303,203 1298,208 1280,208 1263,201 1251,206 1228,206" rendition="Line" xml:id="facs_39_tr_2_tl_1"/>
+            <zone points="532,416 612,453 1038,456 1102,406 1151,453 1615,456 1664,409 1736,463 2147,423 2147,369 532,357" rendition="Line" xml:id="facs_39_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="282,537 1122,547 1248,495 1345,545 2187,547 2187,451 2144,446 282,466" rendition="Line" xml:id="facs_39_tr_2_tl_3"/>
+            <zone points="277,574 1003,629 1122,579 2115,599 2080,547 277,535" rendition="Line" xml:id="facs_39_tr_2_tl_4"/>
+            <zone points="277,659 1213,671 1325,711 2214,686 2214,639 2137,626 277,631" rendition="Line" xml:id="facs_39_tr_2_tl_5"/>
+            <zone points="272,745 1075,748 1184,800 1278,750 1676,755 2130,805 2127,718 1941,706 272,716" rendition="Line" xml:id="facs_39_tr_2_tl_6"/>
+            <zone points="275,839 2112,854 2070,795 275,792" rendition="Line" xml:id="facs_39_tr_2_tl_7"/>
+            <zone points="272,914 1567,921 1674,966 2206,941 2204,889 1585,852 1317,899 272,872" rendition="Line" xml:id="facs_39_tr_2_tl_8"/>
+            <zone points="275,1005 2211,1020 2209,973 2040,958 275,956" rendition="Line" xml:id="facs_39_tr_2_tl_9"/>
+            <zone points="270,1082 1114,1132 1322,1092 1496,1142 2075,1109 2075,1055 1790,1038 270,1035" rendition="Line" xml:id="facs_39_tr_2_tl_10"/>
+            <zone points="267,1169 510,1221 1231,1223 1278,1174 2199,1211 2199,1139 2135,1134 267,1122" rendition="Line" xml:id="facs_39_tr_2_tl_11"/>
+            <zone points="262,1275 1553,1258 1756,1315 2127,1317 2154,1228 260,1199" rendition="Line" xml:id="facs_39_tr_2_tl_12"/>
+            <zone points="262,1362 2130,1357 2110,1310 1961,1298 262,1298" rendition="Line" xml:id="facs_39_tr_2_tl_13"/>
+            <zone points="267,1459 934,1419 2169,1454 2184,1394 265,1367" rendition="Line" xml:id="facs_39_tr_2_tl_14"/>
+            <zone points="258,1501 797,1503 882,1543 2157,1523 2157,1473 258,1459" rendition="Line" xml:id="facs_39_tr_2_tl_15"/>
+            <zone points="258,1590 765,1587 859,1637 1191,1637 1278,1592 2167,1610 2167,1560 2006,1548 334,1558 258,1523" rendition="Line" xml:id="facs_39_tr_2_tl_16"/>
+            <zone points="191,1731 292,1674 530,1667 1892,1694 1855,1632 188,1622" rendition="Line" xml:id="facs_39_tr_2_tl_17"/>
+            <zone points="495,1840 1981,1870 1979,1803 495,1803" rendition="Line" xml:id="facs_39_tr_2_tl_18" subtype="paragraph"/>
+            <zone points="240,1917 2152,1949 2152,1894 240,1872" rendition="Line" xml:id="facs_39_tr_2_tl_19"/>
+            <zone points="245,2011 2157,2031 2157,1981 1941,1971 245,1961" rendition="Line" xml:id="facs_39_tr_2_tl_20"/>
+            <zone points="238,2090 2095,2120 2224,2117 2221,2063 235,2045" rendition="Line" xml:id="facs_39_tr_2_tl_21"/>
+            <zone points="235,2201 275,2204 310,2169 347,2182 530,2182 547,2196 582,2182 607,2196 666,2189 666,2139 490,2125 478,2137 359,2137 332,2122 235,2135" rendition="Line" xml:id="facs_39_tr_2_tl_22"/>
+            <zone points="490,2288 2135,2298 2135,2216 852,2234 792,2174 572,2231 490,2204" rendition="Line" xml:id="facs_39_tr_2_tl_23" subtype="paragraph"/>
+            <zone points="233,2367 2063,2365 2038,2310 233,2300" rendition="Line" xml:id="facs_39_tr_2_tl_24"/>
+            <zone points="240,2444 2206,2454 2206,2402 2080,2390 240,2392" rendition="Line" xml:id="facs_39_tr_2_tl_25"/>
+            <zone points="233,2516 2152,2541 2152,2489 2055,2474 349,2486 233,2454" rendition="Line" xml:id="facs_39_tr_2_tl_26"/>
+            <zone points="129,2598 1149,2600 1260,2642 1855,2659 2095,2630 2095,2578 1914,2555 129,2560" rendition="Line" xml:id="facs_39_tr_2_tl_27"/>
+            <zone points="230,2711 2031,2744 2191,2716 2191,2659 228,2640" rendition="Line" xml:id="facs_39_tr_2_tl_28"/>
+            <zone points="220,2798 1657,2820 1751,2778 2038,2786 2038,2741 1961,2731 220,2724" rendition="Line" xml:id="facs_39_tr_2_tl_29"/>
+            <zone points="225,2867 532,2850 683,2900 894,2872 934,2910 1298,2917 1352,2880 1629,2907 1674,2860 2085,2875 2085,2823 1907,2815 225,2811" rendition="Line" xml:id="facs_39_tr_2_tl_30"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0039.jpg" n="part1_p039.jpg" xml:id="img_0039" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p039.jpg"/>
+            
+            <ab facs="#facs_39_tr_2">
+               <lb facs="#facs_39_tr_2_tl_1" n="N001"/>[36]
+               <lb facs="#facs_39_tr_2_tl_2" n="N002"/><rs type="keyword" ref="#Language">Now a last consideration. Language has two sides: meaning and power--
+               <lb break="no" facs="#facs_39_tr_2_tl_3" n="N003"/>as everything in man's spiritual life [does]. The very definition of man's creative spirit,
+               <lb break="no" facs="#facs_39_tr_2_tl_4" n="N004"/>is: the unity of meaning and power. Some mystical [?] expressions are completely,
+               <lb break="no" facs="#facs_39_tr_2_tl_5" n="N005"/>or rather almost completely, determined by meaning without power; others are determined
+               <lb break="no" facs="#facs_39_tr_2_tl_6" n="N006"/>almost completely by power without meaning. The two extremes are the mathematical
+               <lb break="no" facs="#facs_39_tr_2_tl_7" n="N007"/>sign, which is completely defined in its meaning by the decision which makes up the
+               <lb break="no" facs="#facs_39_tr_2_tl_8" n="N008"/>definition of this mathematical sign; and on the other hand a liturgical language, which is
+               <lb break="no" facs="#facs_39_tr_2_tl_9" n="N009"/>not understandable to the present generation, especially if it is given in a foreign language.
+               <lb break="no" facs="#facs_39_tr_2_tl_10" n="N010"/>There, only the sound as such is important, and the power expressed in this sound.
+               <lb break="no" facs="#facs_39_tr_2_tl_11" n="N011"/><rs type="keyword" ref="#Logical_Positivism">Now my main criticism of logical positivism (I have others, too) is that it tries to reduce</rs>
+               <lb break="no" facs="#facs_39_tr_2_tl_12" n="N012"/><rs type="keyword" ref="#Logical_Positivism">language to meaning, and to remove the element of power. </rs>In mathematical abstraction,
+               <lb break="no" facs="#facs_39_tr_2_tl_13" n="N013"/>this is certainly possible, but otherwise it takes away one decisive element of language.
+               <lb break="no" facs="#facs_39_tr_2_tl_14" n="N014"/>The power of a word is based on its connotations--traditional connotation and personally
+               <lb break="no" facs="#facs_39_tr_2_tl_15" n="N015"/>experienced connotation. The power of a sentence is dependent on the images produced
+               <lb break="no" facs="#facs_39_tr_2_tl_16" n="N016"/>by special words in it. The power of speech is dependent on the constellation of images
+               <lb break="no" facs="#facs_39_tr_2_tl_17" n="N017"/>PRODUCED BY the speech, and on the rhythm, the musical element, in it.
+               <lb break="no" facs="#facs_39_tr_2_tl_18" n="N018"/>Now these sides of language are not unessential, emotional additions,
+               <lb break="no" facs="#facs_39_tr_2_tl_19" n="N019"/>but they all witness to the encounter with reality which has produced them, and where
+               <lb break="no" facs="#facs_39_tr_2_tl_20" n="N020"/>they are mediators to us of the same encounter--or of a similar one, because it is never
+               <lb break="no" facs="#facs_39_tr_2_tl_21" n="N021"/>absolutely the same. If you see this, then you can understand a lot about the manifoldness
+               <lb break="no" facs="#facs_39_tr_2_tl_22" n="N022"/>of human language.
+               <lb break="no" facs="#facs_39_tr_2_tl_23" n="N023"/>I would say one of the consequences of this polarity of meaning and power
+               <lb break="no" facs="#facs_39_tr_2_tl_24" n="N024"/>in all language is that we can find an answer to the question whether philosophy is
+               <lb break="no" facs="#facs_39_tr_2_tl_25" n="N025"/>possible or not. It is not by chance but very consistent that some of the logical positivists
+               <lb break="no" facs="#facs_39_tr_2_tl_26" n="N026"/>have rejected the whole history of philosophy--except the beginnings of logical positivism
+               <lb break="no" facs="#facs_39_tr_2_tl_27" n="N027"/>in the ''Vienna Circle'' a few decades ago--because philosophy, all classical philosophy,
+               <lb break="no" facs="#facs_39_tr_2_tl_28" n="N028"/>through the whole history of mankind, has terms in which meaning and power are united,
+               <lb break="no" facs="#facs_39_tr_2_tl_29" n="N029"/>and if you take away the element of power, then these words are (as some logical
+               <lb break="no" facs="#facs_39_tr_2_tl_30" n="N030"/>positivists tell us) meaningless, or they have an emotional meaning. But they have not</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

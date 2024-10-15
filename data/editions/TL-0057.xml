@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p057</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p057</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_57">
+         <graphic url="TL-0057.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=JQWNQQCSBERMHWPKSJFBRERR&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="250,262 250,3072 2227,3072 2227,262" rendition="TextRegion" xml:id="facs_57_tr_1">
+            <zone points="1176,315 1200,315 1209,325 1224,325 1231,320 1239,325 1253,325 1265,315 1277,315 1277,269 1226,271 1224,267 1209,267 1200,276 1176,276" rendition="Line" xml:id="facs_57_tr_1_tl_1"/>
+            <zone points="276,451 2092,448 2220,436 2223,383 276,417" rendition="Line" xml:id="facs_57_tr_1_tl_2"/>
+            <zone points="281,533 909,533 911,490 814,477 742,504 645,477 545,504 524,480 429,477 281,497" rendition="Line" xml:id="facs_57_tr_1_tl_3"/>
+            <zone points="577,613 2126,616 2126,548 2089,545 577,557" rendition="Line" xml:id="facs_57_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="281,700 2026,698 2026,640 281,657" rendition="Line" xml:id="facs_57_tr_1_tl_5"/>
+            <zone points="291,788 1042,778 1236,822 1634,805 1675,766 2072,780 2075,734 293,744" rendition="Line" xml:id="facs_57_tr_1_tl_6"/>
+            <zone points="279,870 965,860 1178,902 1685,851 2058,899 2058,812 1973,800 279,826" rendition="Line" xml:id="facs_57_tr_1_tl_7"/>
+            <zone points="291,950 2123,965 2126,899 291,928" rendition="Line" xml:id="facs_57_tr_1_tl_8"/>
+            <zone points="276,1037 579,1079 734,1030 800,1076 2189,1020 2189,977 2029,965 276,996" rendition="Line" xml:id="facs_57_tr_1_tl_9"/>
+            <zone points="279,1132 1542,1159 1786,1146 1849,1100 2174,1110 2174,1064 2092,1052 279,1083" rendition="Line" xml:id="facs_57_tr_1_tl_10"/>
+            <zone points="281,1212 1297,1190 1437,1239 2201,1207 2201,1137 281,1168" rendition="Line" xml:id="facs_57_tr_1_tl_11"/>
+            <zone points="276,1287 381,1328 749,1282 1086,1319 1243,1275 2082,1285 2082,1234 1995,1219 279,1253" rendition="Line" xml:id="facs_57_tr_1_tl_12"/>
+            <zone points="276,1377 2118,1357 2118,1314 2026,1299 276,1333" rendition="Line" xml:id="facs_57_tr_1_tl_13"/>
+            <zone points="271,1452 2087,1445 2087,1399 1857,1384 271,1415" rendition="Line" xml:id="facs_57_tr_1_tl_14"/>
+            <zone points="271,1542 1934,1542 2174,1532 2193,1478 271,1493" rendition="Line" xml:id="facs_57_tr_1_tl_15"/>
+            <zone points="271,1629 836,1619 950,1668 1045,1631 1922,1617 1876,1563 271,1590" rendition="Line" xml:id="facs_57_tr_1_tl_16"/>
+            <zone points="582,1716 2026,1701 2026,1651 1978,1641 582,1660" rendition="Line" xml:id="facs_57_tr_1_tl_17" subtype="paragraph"/>
+            <zone points="276,1794 1113,1781 1384,1830 2063,1781 2063,1716 1927,1750 1847,1718 276,1764" rendition="Line" xml:id="facs_57_tr_1_tl_18"/>
+            <zone points="271,1876 2070,1869 2070,1820 1941,1811 271,1832" rendition="Line" xml:id="facs_57_tr_1_tl_19"/>
+            <zone points="271,1958 1491,1990 1621,1944 2106,1949 2106,1898 2046,1886 1927,1920 271,1920" rendition="Line" xml:id="facs_57_tr_1_tl_20"/>
+            <zone points="267,2041 2167,2036 2169,1985 267,2004" rendition="Line" xml:id="facs_57_tr_1_tl_21"/>
+            <zone points="274,2135 385,2169 899,2123 2121,2118 2053,2065 276,2094" rendition="Line" xml:id="facs_57_tr_1_tl_22"/>
+            <zone points="238,2218 490,2210 650,2259 2048,2242 2128,2203 2128,2155 1944,2143 238,2193" rendition="Line" xml:id="facs_57_tr_1_tl_23"/>
+            <zone points="276,2324 1694,2281 1864,2327 2063,2310 2065,2247 2014,2237 279,2264" rendition="Line" xml:id="facs_57_tr_1_tl_24"/>
+            <zone points="276,2416 943,2375 1088,2419 2043,2404 2094,2366 1944,2315 276,2346" rendition="Line" xml:id="facs_57_tr_1_tl_25"/>
+            <zone points="276,2475 1772,2460 1772,2416 1709,2404 276,2436" rendition="Line" xml:id="facs_57_tr_1_tl_26"/>
+            <zone points="577,2547 2114,2550 2114,2477 577,2501" rendition="Line" xml:id="facs_57_tr_1_tl_27" subtype="paragraph"/>
+            <zone points="271,2642 1338,2620 2046,2659 2046,2576 2007,2562 271,2596" rendition="Line" xml:id="facs_57_tr_1_tl_28"/>
+            <zone points="276,2722 2080,2710 2080,2656 1849,2649 276,2664" rendition="Line" xml:id="facs_57_tr_1_tl_29"/>
+            <zone points="269,2812 320,2850 526,2814 1062,2843 1231,2790 2104,2790 2104,2741 269,2770" rendition="Line" xml:id="facs_57_tr_1_tl_30"/>
+            <zone points="269,2889 2109,2901 2111,2812 271,2850" rendition="Line" xml:id="facs_57_tr_1_tl_31"/>
+            <zone points="269,3003 2058,2959 2058,2916 1861,2908 618,2945 572,2899 271,2899" rendition="Line" xml:id="facs_57_tr_1_tl_32"/>
+            <zone points="276,3064 473,3052 574,3107 703,3107 1144,3047 2075,3044 2075,2998 1929,2984 276,3015" rendition="Line" xml:id="facs_57_tr_1_tl_33"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0057.jpg" n="part1_p057.jpg" xml:id="img_0057" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p057.jpg"/>
+            
+            <ab facs="#facs_57_tr_1">
+               <lb facs="#facs_57_tr_1_tl_1" n="N001"/>[54]
+               <lb facs="#facs_57_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Faith">absurdities, but it is the acceptance of symbols in which our ultimate concern is expressed
+               <lb break="no" facs="#facs_57_tr_1_tl_3" n="N003"/>IN TERMS of divine actions.</rs>
+               <lb facs="#facs_57_tr_1_tl_4" n="N004"/>I will return to this when I discuss the term ''myth,'' but before doing
+               <lb facs="#facs_57_tr_1_tl_5" n="N005"/>this, let me speak about another level in which the religious symbols are moving.
+               <lb facs="#facs_57_tr_1_tl_6" n="N006"/>The level I just gave is--let us call it ''transcendent symbolism.'' But there is also,
+               <lb facs="#facs_57_tr_1_tl_7" n="N007"/>in all religious language, a level of immanent religious symbolism. The transcendent
+               <lb facs="#facs_57_tr_1_tl_8" n="N008"/>--going-beyond the finite reality, in terms of symbolism--deals with God, His qualities,
+               <lb facs="#facs_57_tr_1_tl_9" n="N009"/>and His actions. The immanent symbolism (''remaining within'' the limitation of time and
+               <lb facs="#facs_57_tr_1_tl_10" n="N010"/>space) deals with the manifestations of the divine within time and space. There we have
+               <lb facs="#facs_57_tr_1_tl_11" n="N011"/>different levels of such manifestations. We have the manifestations of the divine in special
+               <lb facs="#facs_57_tr_1_tl_12" n="N012"/>divine figures, usually called incarnations. We have incarnation myths in all religions,
+               <lb facs="#facs_57_tr_1_tl_13" n="N013"/>and especially in religions such as the Indian and Greek religions, in which the divine
+               <lb facs="#facs_57_tr_1_tl_14" n="N014"/>has become so transcendent that it was necessary for the religious consciousness to
+               <lb facs="#facs_57_tr_1_tl_15" n="N015"/>have more concrete symbolism, and this has been expressed in the mythology of incarna-
+               <lb facs="#facs_57_tr_1_tl_16" n="N016"/>tion, of the divine beings appearing in human, animal, vegetative figures, etc.
+               <lb facs="#facs_57_tr_1_tl_17" n="N017"/>Now all this is one realm, and a very important one. It is a realm
+               <lb facs="#facs_57_tr_1_tl_18" n="N018"/>which one could call, with a Christian term, the realm of the epiphany (the Greek
+               <lb facs="#facs_57_tr_1_tl_19" n="N019"/>for ''appearance,'' making-oneself-visible). <rs type="keyword" ref="#Sacrament">Another realm of the immanent symbolism
+               <lb break="no" facs="#facs_57_tr_1_tl_20" n="N020"/>is the sacramental realm: special things, events, gestures, which in themselves manifest
+               <lb break="no" facs="#facs_57_tr_1_tl_21" n="N021"/>for somebody his ultimate concern (that is the meaning of sacrament). Sacrament means
+               <lb break="no" facs="#facs_57_tr_1_tl_22" n="N022"/>the presence of the holy, of that which concerns us ultimately, in objects taken from
+               <lb break="no" facs="#facs_57_tr_1_tl_23" n="N023"/>our daily life. The word sacrament should not be restricted to the few so-called sacra-
+               <lb break="no" facs="#facs_57_tr_1_tl_24" n="N024"/>ments--two in Protestantism, seven in Catholicism--but sacramental means something
+               <lb break="no" facs="#facs_57_tr_1_tl_25" n="N025"/>much more universal. It means the experience of the holy in realities here-and-now--
+               <lb break="no" facs="#facs_57_tr_1_tl_26" n="N026"/>on the altar, or in the service, or in a book, or wherever it may be.</rs>
+               <lb facs="#facs_57_tr_1_tl_27" n="N027"/>Then there is a third level of immanent symbolism which I would call,
+               <lb facs="#facs_57_tr_1_tl_28" n="N028"/>combining those terms I strongly distinguished in the beginning: signs and symbols.
+               <lb facs="#facs_57_tr_1_tl_29" n="N029"/>They are symbols. For instance: water, light, flowers, or other things which become
+               <lb facs="#facs_57_tr_1_tl_30" n="N030"/>symbols--parts of the church buildings, etc. All this can become symbols. They are
+               <lb facs="#facs_57_tr_1_tl_31" n="N031"/><hi style="font-style: italic;">sacramentalia</hi>, in the larger sense of the word, or they can be called signs-which-have-
+               <lb facs="#facs_57_tr_1_tl_32" n="N032"/>become-symbols--all these are sign-symbols: geometrical figures, colors. To repeat:
+               <lb facs="#facs_57_tr_1_tl_33" n="N033"/>we have the two fundamental realms of the symbolic language of religion. The one
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

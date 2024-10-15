@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p060</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p060</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_60">
+         <graphic url="TL-0344.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ILGHBDIONQHSTKTZCNOAJMUN&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="232,329 2346,329 2346,1454 232,1454" rendition="TextRegion" xml:id="facs_60_tr_2">
+            <zone points="1037,385 1050,385 1071,398 1144,398 1152,390 1165,390 1165,332 1128,335 1107,314 1097,314 1073,338 1037,338" rendition="Line" xml:id="facs_60_tr_2_tl_1"/>
+            <zone points="238,531 2259,558 2259,508 2013,487 238,495" rendition="Line" xml:id="facs_60_tr_2_tl_2"/>
+            <zone points="236,683 2303,715 2303,649 2133,644 236,657" rendition="Line" xml:id="facs_60_tr_2_tl_3"/>
+            <zone points="233,838 2262,853 2262,796 233,788" rendition="Line" xml:id="facs_60_tr_2_tl_4"/>
+            <zone points="241,989 2340,1008 2340,948 241,934" rendition="Line" xml:id="facs_60_tr_2_tl_5"/>
+            <zone points="228,1139 2230,1154 2230,1097 228,1112" rendition="Line" xml:id="facs_60_tr_2_tl_6"/>
+            <zone points="228,1296 2104,1309 2104,1251 228,1246" rendition="Line" xml:id="facs_60_tr_2_tl_7"/>
+            <zone points="217,1440 513,1461 908,1450 908,1413 869,1390 811,1416 788,1393 529,1387 445,1413 421,1390 257,1387 217,1411" rendition="Line" xml:id="facs_60_tr_2_tl_8"/>
+         </zone>
+         <zone points="47,1538 2331,1538 2331,3485 47,3485" rendition="TextRegion" xml:id="facs_60_tr_1">
+            <zone points="228,1594 1510,1605 1510,1534 1366,1565 1314,1531 1243,1563 228,1531" rendition="Line" xml:id="facs_60_tr_1_tl_1" subtype="paragraph"/>
+            <zone points="222,1743 2118,1756 2118,1688 222,1680" rendition="Line" xml:id="facs_60_tr_1_tl_2"/>
+            <zone points="217,1900 790,1903 790,1866 754,1843 558,1843 534,1866 503,1840 416,1843 390,1864 366,1840 217,1837" rendition="Line" xml:id="facs_60_tr_1_tl_3"/>
+            <zone points="222,1987 2327,1997 2280,1932 222,1916" rendition="Line" xml:id="facs_60_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="212,2128 2146,2149 2146,2089 212,2102" rendition="Line" xml:id="facs_60_tr_1_tl_5"/>
+            <zone points="215,2296 2157,2301 2157,2243 215,2259" rendition="Line" xml:id="facs_60_tr_1_tl_6"/>
+            <zone points="215,2377 251,2382 259,2374 304,2371 408,2374 408,2330 395,2330 382,2316 325,2314 311,2327 262,2324 246,2330 230,2319 215,2319" rendition="Line" xml:id="facs_60_tr_1_tl_7"/>
+            <zone points="220,2447 285,2463 306,2442 463,2460 911,2445 911,2411 859,2390 220,2387" rendition="Line" xml:id="facs_60_tr_1_tl_8" subtype="paragraph"/>
+            <zone points="215,2521 914,2534 1068,2515 1068,2489 864,2463 359,2487 212,2468" rendition="Line" xml:id="facs_60_tr_1_tl_9" subtype="paragraph"/>
+            <zone points="212,2594 2180,2604 2180,2547 212,2542" rendition="Line" xml:id="facs_60_tr_1_tl_10" subtype="paragraph"/>
+            <zone points="202,2741 2170,2751 2133,2693 202,2691" rendition="Line" xml:id="facs_60_tr_1_tl_11"/>
+            <zone points="207,2908 2091,2898 2091,2840 207,2840" rendition="Line" xml:id="facs_60_tr_1_tl_12"/>
+            <zone points="202,3044 1858,3062 1992,3052 1992,2994 202,3008" rendition="Line" xml:id="facs_60_tr_1_tl_13"/>
+            <zone points="191,3188 2021,3214 2115,3206 2115,3141 191,3162" rendition="Line" xml:id="facs_60_tr_1_tl_14"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0344.jpg" n="part2_p060.jpg" xml:id="img_0060" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p060.jpg"/>
+            
+            <ab facs="#facs_60_tr_2">
+               <lb facs="#facs_60_tr_2_tl_1" n="N001"/>[339]
+               <lb facs="#facs_60_tr_2_tl_2" n="N002"/>our daily life. Now I hope you all had this experience. When you came from a gallery and were under
+               <lb facs="#facs_60_tr_2_tl_3" n="N003"/>the strong impression of a great artist, now you saw, with his eyes, the ordinary nature... in the woods,
+               <lb facs="#facs_60_tr_2_tl_4" n="N004"/>and in the faces of men. This has happened to me very often, and not only with usual arts by but also
+               <lb facs="#facs_60_tr_2_tl_5" n="N005"/>with novels, etc: reality is opened. And now if it is opened, we can see this reality ALSO with the eyes of
+               <lb facs="#facs_60_tr_2_tl_6" n="N006"/>the artist in our ordinary world, i.e. we do the same thing then WITHOUT painting it--but we SEE it
+               <lb facs="#facs_60_tr_2_tl_7" n="N007"/>also. And that is one of the great things of the education by art, that even in the ordinary life
+               <lb facs="#facs_60_tr_2_tl_8" n="N008"/>the vision of the artist comes out.
+            </ab>
+            <ab facs="#facs_60_tr_1">
+               <lb facs="#facs_60_tr_1_tl_1" n="N001"/>QN: Is it essentially the artist who teaches us to see these things?
+               <lb facs="#facs_60_tr_1_tl_2" n="N002"/>PT: Yes. I think that the history of art has educated the eyes of mankind in all ALL periods of
+               <lb facs="#facs_60_tr_1_tl_3" n="N003"/>history, and in all countries.
+               <lb facs="#facs_60_tr_1_tl_4" n="N004"/>13) A Roman painting of the Hellenistic period--I come to the portrait, another group of the naturalistic.
+               <lb facs="#facs_60_tr_1_tl_5" n="N005"/>14) Another Roman painting from Pompeii--This shows how old, naturalism is, and it is not
+               <lb facs="#facs_60_tr_1_tl_6" n="N006"/>only an invention of the Renaissance; and how old, portraits are which tried to be as near to life as
+               <lb facs="#facs_60_tr_1_tl_7" n="N007"/>possible.
+               <lb facs="#facs_60_tr_1_tl_8" n="N008"/>15) Roman painting, 3rd century--
+               <lb facs="#facs_60_tr_1_tl_9" n="N009"/>16) Greek painting, Hellenistic period--
+               <lb facs="#facs_60_tr_1_tl_10" n="N010"/>17) Portrait, by Bronzino--We come to the Renaissance, not only because it is a beautiful picture
+               <lb facs="#facs_60_tr_1_tl_11" n="N011"/>but also because I want to say something about it, about this whole realm. This whole realm of the
+               <lb facs="#facs_60_tr_1_tl_12" n="N012"/>portrait is a very interesting one. For me this has much to do with the Christian doctrine of the
+               <lb facs="#facs_60_tr_1_tl_13" n="N013"/>resurrection of the body, which of course I understand symbolically, but as a true symbol.
+               <lb facs="#facs_60_tr_1_tl_14" n="N014"/>And the symbol is true because man is a whole, and, as a whole, the bodily existence participates
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

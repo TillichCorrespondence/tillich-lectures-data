@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p284</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p284</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_284">
+         <graphic url="TL-0284.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=URRKCPHCHPGMUNEYENOIREAM&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="35,221 35,3501 2313,3501 2313,221" rendition="TextRegion" xml:id="facs_284_tr_1">
+            <zone points="1230,278 1244,280 1259,292 1324,294 1348,289 1348,221 1303,223 1299,219 1280,231 1273,228 1259,240 1230,240" rendition="Line" xml:id="facs_284_tr_1_tl_1"/>
+            <zone points="339,428 2218,454 2218,409 2136,367 2082,405 1986,362 1875,400 339,391" rendition="Line" xml:id="facs_284_tr_1_tl_2"/>
+            <zone points="329,572 2136,605 2134,543 1861,532 329,546" rendition="Line" xml:id="facs_284_tr_1_tl_3"/>
+            <zone points="327,722 2124,746 2124,696 2061,678 327,699" rendition="Line" xml:id="facs_284_tr_1_tl_4"/>
+            <zone points="334,880 2108,894 2075,835 1884,828 334,835" rendition="Line" xml:id="facs_284_tr_1_tl_5"/>
+            <zone points="329,1035 1289,1037 1329,1077 1555,1094 2054,1080 2134,1042 2134,995 2065,981 329,993" rendition="Line" xml:id="facs_284_tr_1_tl_6"/>
+            <zone points="329,1181 2103,1195 2103,1143 329,1136" rendition="Line" xml:id="facs_284_tr_1_tl_7"/>
+            <zone points="320,1327 2143,1381 2143,1289 2073,1282 320,1289" rendition="Line" xml:id="facs_284_tr_1_tl_8"/>
+            <zone points="327,1489 1124,1491 1124,1442 979,1426 327,1437" rendition="Line" xml:id="facs_284_tr_1_tl_9"/>
+            <zone points="480,1621 2056,1656 2056,1576 480,1569" rendition="Line" xml:id="facs_284_tr_1_tl_11" subtype="paragraph"/>
+            <zone points="259,1870 383,1771 1160,1774 1209,1811 2087,1781 2087,1729 1929,1715 400,1724 259,1640" rendition="Line" xml:id="facs_284_tr_1_tl_12"/>
+            <zone points="320,1913 1393,1941 1409,1877 431,1861 318,1887" rendition="Line" xml:id="facs_284_tr_1_tl_13"/>
+            <zone points="461,2065 2124,2084 2124,2026 1720,2004 461,2037" rendition="Line" xml:id="facs_284_tr_1_tl_14" subtype="paragraph"/>
+            <zone points="315,2214 2171,2228 2171,2178 1986,2169 315,2188" rendition="Line" xml:id="facs_284_tr_1_tl_15"/>
+            <zone points="315,2360 2164,2381 2164,2327 1783,2308 315,2317" rendition="Line" xml:id="facs_284_tr_1_tl_16"/>
+            <zone points="308,2522 1513,2534 1513,2480 1397,2463 308,2489" rendition="Line" xml:id="facs_284_tr_1_tl_17"/>
+            <zone points="459,2696 513,2738 1223,2724 1320,2672 2028,2684 2028,2625 456,2614" rendition="Line" xml:id="facs_284_tr_1_tl_18" subtype="paragraph"/>
+            <zone points="306,2818 2174,2837 2174,2783 306,2771" rendition="Line" xml:id="facs_284_tr_1_tl_19"/>
+            <zone points="318,2976 2209,2983 2209,2934 2110,2929 318,2929" rendition="Line" xml:id="facs_284_tr_1_tl_20"/>
+            <zone points="303,3044 2014,3070 2080,3061 2077,3004 301,3011" rendition="Line" xml:id="facs_284_tr_1_tl_21"/>
+            <zone points="303,3124 369,3152 435,3134 541,3141 562,3124 689,3134 689,3075 663,3089 607,3086 593,3072 548,3089 510,3089 494,3072 442,3075 428,3089 303,3086" rendition="Line" xml:id="facs_284_tr_1_tl_22"/>
+            <zone points="315,3237 362,3218 494,3221 510,3206 567,3223 696,3204 774,3211 765,3141 661,3164 318,3169" rendition="Line" xml:id="facs_284_tr_1_tl_23"/>
+         </zone>
+      </surface>
+   
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0284.jpg" n="part1_p284.jpg" xml:id="img_0284" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p284.jpg"/>
+            
+            <ab facs="#facs_284_tr_1">
+               <lb facs="#facs_284_tr_1_tl_1" n="N001"/>[280]
+               <lb facs="#facs_284_tr_1_tl_2" n="N002"/>When you are in a state of <rs type="keyword" ref="#Anxiety">anxiety</rs>---let us say about an examination---you can say "Now alright,
+               <lb facs="#facs_284_tr_1_tl_3" n="N003"/>what can happen?" . . . . and if if [sic.] you face, exactly in terms of a content, what the anxiety
+               <lb facs="#facs_284_tr_1_tl_4" n="N004"/>might be occasioned by, and can find it, then you can say, "Alright, I can stand that!" But
+               <lb facs="#facs_284_tr_1_tl_5" n="N005"/>anxiety is anxiety of not being able to resist nonbeing. And that is also a very fine analysis
+               <lb facs="#facs_284_tr_1_tl_6" n="N006"/>given by modern psychologists and neurologists: fear is the fear NOT of something, but fear
+               <lb facs="#facs_284_tr_1_tl_7" n="N007"/>is the fear of falling into anxiety. And if we are able to develop this courage to FIGHT the
+               <lb facs="#facs_284_tr_1_tl_8" n="N008"/>occasioning cause, then we are BEYOND this moment of anxiety, but we can never get rid of
+               <lb facs="#facs_284_tr_1_tl_9" n="N009"/>anxiety as such, because of our <rs type="keyword" ref="#Finitude">finitude</rs>.
+               <lb facs="#facs_284_tr_1_tl_11" n="N010"/>And in man the <rs type="keyword" ref="#Anxiety">anxiety</rs> is not only caused by his knowledge of his having to die,
+               <lb facs="#facs_284_tr_1_tl_12" n="N011"/>but also by guilt consciousness and by the question of the meaning of life. These forms of
+               <lb facs="#facs_284_tr_1_tl_13" n="N012"/>anxiety are added to the anxiety of all creature[liness].
+               <lb facs="#facs_284_tr_1_tl_14" n="N013"/>Now if we understand this, then we understand that <rs type="keyword" ref="#Depth_psychology">depth psychology</rs>, in unity with
+               <lb facs="#facs_284_tr_1_tl_15" n="N014"/><rs type="keyword" ref="#Existentialism">existentialism</rs>, have given us really the return of <rs type="person">Odysseus</rs> to his homeland, to a certain extent.
+               <lb facs="#facs_284_tr_1_tl_16" n="N015"/>There are still the dangers of the <rs type="keyword" ref="#Odyssey">Odyssey</rs>, and we don't know how far we will go, but we have
+               <lb facs="#facs_284_tr_1_tl_17" n="N016"/>at least taken one step toward the self-interpretation of man.
+               <lb facs="#facs_284_tr_1_tl_18" n="N017"/>Now in the semester starting in February, I want to go into the problems of the
+               <lb facs="#facs_284_tr_1_tl_19" n="N018"/>EXPRESSION of the human situation, as I just have described it, in the visual and partly in the
+               <lb facs="#facs_284_tr_1_tl_20" n="N019"/>other arts, and then go the social surroundings and implications of this human situation, and the
+               <lb facs="#facs_284_tr_1_tl_21" n="N020"/>relationship of religion to the legal, ethical, social and political problems. Now I wish you
+               <lb facs="#facs_284_tr_1_tl_22" n="N021"/>a good New Year !
+               <lb facs="#facs_284_tr_1_tl_23" n="N022"/>[END OF SEMESTER]
+            </ab>
+         
+        </div>
+      </body>
+    </text>
+</TEI>

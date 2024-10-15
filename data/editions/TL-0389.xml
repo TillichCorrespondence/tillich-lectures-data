@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p105</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p105</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_105">
+         <graphic url="TL-0389.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LSWHUBDWJIQGRYBLDJIZJIPM&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="50,3 2224,3 2224,1416 50,1416" rendition="TextRegion" xml:id="facs_105_tr_2">
+            <zone points="1140,334 1153,334 1168,344 1260,339 1260,288 1224,288 1219,293 1201,275 1191,275 1170,291 1140,293" rendition="Line" xml:id="facs_105_tr_2_tl_3"/>
+            <zone points="291,477 982,518 2035,482 2035,439 1874,413 291,444" rendition="Line" xml:id="facs_105_tr_2_tl_4"/>
+            <zone points="293,627 877,630 877,597 844,579 785,597 711,574 372,581 357,566 293,594" rendition="Line" xml:id="facs_105_tr_2_tl_5"/>
+            <zone points="538,696 2060,701 2060,640 538,630" rendition="Line" xml:id="facs_105_tr_2_tl_6" subtype="paragraph"/>
+            <zone points="293,844 1948,854 1986,790 293,796" rendition="Line" xml:id="facs_105_tr_2_tl_7"/>
+            <zone points="291,977 2124,982 2124,928 2053,918 291,931" rendition="Line" xml:id="facs_105_tr_2_tl_9"/>
+            <zone points="283,1119 2218,1125 2142,1063 283,1081" rendition="Line" xml:id="facs_105_tr_2_tl_10"/>
+            <zone points="288,1275 1265,1316 1344,1267 2173,1270 2188,1216 288,1224" rendition="Line" xml:id="facs_105_tr_2_tl_11"/>
+            <zone points="278,1408 2173,1413 2188,1357 278,1367" rendition="Line" xml:id="facs_105_tr_2_tl_12"/>
+         </zone>
+         <zone points="283,1490 2257,1490 2257,2413 283,2413" rendition="TextRegion" xml:id="facs_105_tr_3">
+            <zone points="278,1576 2175,1566 2252,1502 278,1507" rendition="Line" xml:id="facs_105_tr_3_tl_1"/>
+            <zone points="275,1691 1956,1703 2160,1693 2160,1647 275,1652" rendition="Line" xml:id="facs_105_tr_3_tl_2"/>
+            <zone points="283,1854 1040,1846 1102,1839 1102,1785 283,1788" rendition="Line" xml:id="facs_105_tr_3_tl_3"/>
+            <zone points="523,1971 2211,1981 2211,1918 523,1920" rendition="Line" xml:id="facs_105_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="273,2116 798,2160 936,2119 2017,2124 2017,2071 273,2073" rendition="Line" xml:id="facs_105_tr_3_tl_5"/>
+            <zone points="268,2259 388,2310 2236,2308 2236,2203 268,2218" rendition="Line" xml:id="facs_105_tr_3_tl_6"/>
+            <zone points="268,2428 2241,2405 2244,2361 270,2366" rendition="Line" xml:id="facs_105_tr_3_tl_7"/>
+         </zone>
+         <zone points="219,2487 2322,2487 2322,3464 219,3464" rendition="TextRegion" xml:id="facs_105_tr_1">
+            <zone points="268,2553 1882,2596 1933,2547 2157,2558 2157,2496 268,2502" rendition="Line" xml:id="facs_105_tr_1_tl_1"/>
+            <zone points="265,2703 1915,2703 2315,2688 2318,2637 265,2652" rendition="Line" xml:id="facs_105_tr_1_tl_2"/>
+            <zone points="263,2836 2211,2853 2211,2780 2071,2764 263,2790" rendition="Line" xml:id="facs_105_tr_1_tl_3"/>
+            <zone points="1227,3012 2083,3014 2122,2996 2122,2920 1767,2915 1522,2948 1492,2925 1227,2925" rendition="Line" xml:id="facs_105_tr_1_tl_5"/>
+            <zone points="258,3114 1754,3172 2155,3152 2157,3068 260,3075" rendition="Line" xml:id="facs_105_tr_1_tl_7"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0389.jpg" n="part2_p105.jpg" xml:id="img_0105" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p105.jpg"/>
+            
+            <ab facs="#facs_105_tr_2">
+               <lb facs="#facs_105_tr_2_tl_3" n="N001"/>[384]
+               <lb facs="#facs_105_tr_2_tl_4" n="N002"/>who make the same decisions, who have the same ideals, the same conventions, the same
+               <lb facs="#facs_105_tr_2_tl_5" n="N003"/>criticisms and rejections, etc.
+               <lb facs="#facs_105_tr_2_tl_6" n="N004"/>Now I leave the realm of intellectual influences which work DIRECTLY, and
+               <lb facs="#facs_105_tr_2_tl_7" n="N005"/>come to others which INdirectly, namely the industrial society <hi style="font-style: italic;">qua</hi> industrial society.
+               <lb facs="#facs_105_tr_2_tl_9" n="N006"/>There are different forms. The first is industry itself, namely using men as cogs in a machine.
+               <lb facs="#facs_105_tr_2_tl_10" n="N007"/>Here you see an example that we never should say ''Never!'', that this kind of work which is done
+               <lb facs="#facs_105_tr_2_tl_11" n="N008"/>in the assembly line is most dehumanizing for man--it certainly is. But on the other hand, it can
+               <lb facs="#facs_105_tr_2_tl_12" n="N009"/>be taken over, and automation means it WILL be taken over. Then at least some of this form of
+            </ab>
+            <ab facs="#facs_105_tr_3">
+               <lb facs="#facs_105_tr_3_tl_1" n="N001"/>making man into cogs of a machine is reduced. But there is still more left than we can even imagine
+               <lb facs="#facs_105_tr_3_tl_2" n="N002"/>in our fantasy: work which tends to dehumanize man because it makes him do things which in
+               <lb facs="#facs_105_tr_3_tl_3" n="N003"/>principle should be done by the machine.
+               <lb facs="#facs_105_tr_3_tl_4" n="N004"/>One of the implications of this is that the worker--and this is even true if automation
+               <lb facs="#facs_105_tr_3_tl_5" n="N005"/>is fully developed--doesn’t know what he works. Now that has been very often noticed.
+               <lb facs="#facs_105_tr_3_tl_6" n="N006"/>The craftsman who makes a table or shoe, sees everything from the material he buys to the finished
+               <lb facs="#facs_105_tr_3_tl_7" n="N007"/>shoe which he sells, and he knows all the processes and all the irrationalities and all the tricks of the
+            </ab>
+            <ab facs="#facs_105_tr_1">
+               <lb facs="#facs_105_tr_1_tl_1" n="N001"/>trade. This gives creative joy, because an element of freedom and creativity is left. If you only
+               <lb facs="#facs_105_tr_1_tl_2" n="N002"/>push one place all the time with your hammer, or if you work even more than this, but don’t see what
+               <lb facs="#facs_105_tr_1_tl_3" n="N003"/>the result is and are not responsible for it, then the creative element is almost destroyed. This was
+               <lb facs="#facs_105_tr_1_tl_5" n="N004"/>one of the things which made the difference between the old crafts, where people worked usually
+               <lb facs="#facs_105_tr_1_tl_7" n="N005"/>fourteen to sixteen and more hours, and the laborer today who works perhaps only eight hours
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

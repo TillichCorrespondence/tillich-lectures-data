@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p225</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p225</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_225">
+         <graphic url="TL-0225.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CEKGEZFTHDNPDJGICEWEMECA&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="17,216 17,3473 2319,3473 2319,216" rendition="TextRegion" xml:id="facs_225_tr_1">
+            <zone points="1147,294 1164,294 1172,301 1261,299 1261,223 1225,223 1212,210 1182,230 1147,230" rendition="Line" xml:id="facs_225_tr_1_tl_1"/>
+            <zone points="294,440 2116,443 2071,385 1380,397 1321,357 1258,400 1215,364 1180,400 294,405" rendition="Line" xml:id="facs_225_tr_1_tl_2"/>
+            <zone points="294,595 1785,582 1886,645 2200,645 2258,602 2258,534 294,544" rendition="Line" xml:id="facs_225_tr_1_tl_3"/>
+            <zone points="284,747 375,805 795,807 1349,744 2245,742 2248,688 2083,681 286,714" rendition="Line" xml:id="facs_225_tr_1_tl_4"/>
+            <zone points="284,891 327,909 448,888 942,901 942,843 782,845 762,866 724,845 321,845 284,866" rendition="Line" xml:id="facs_225_tr_1_tl_6"/>
+            <zone points="286,1053 2149,1045 2149,982 2093,980 286,995" rendition="Line" xml:id="facs_225_tr_1_tl_7"/>
+            <zone points="291,1192 645,1192 749,1253 1172,1218 1233,1266 1364,1190 2187,1200 2187,1149 2063,1139 291,1144" rendition="Line" xml:id="facs_225_tr_1_tl_8"/>
+            <zone points="296,1400 972,1405 972,1299 681,1299 661,1319 610,1299 501,1299 481,1319 385,1299 296,1319" rendition="Line" xml:id="facs_225_tr_1_tl_9"/>
+            <zone points="451,1496 2119,1509 2121,1430 451,1466" rendition="Line" xml:id="facs_225_tr_1_tl_11" subtype="paragraph"/>
+            <zone points="3,1683 719,1653 790,1696 1005,1698 1088,1650 1149,1701 1653,1701 1691,1590 5,1595" rendition="Line" xml:id="facs_225_tr_1_tl_12"/>
+            <zone points="451,1795 1967,1812 2260,1800 2263,1739 453,1744" rendition="Line" xml:id="facs_225_tr_1_tl_13" subtype="paragraph"/>
+            <zone points="281,1952 2316,1944 2316,1886 987,1921 281,1893" rendition="Line" xml:id="facs_225_tr_1_tl_14"/>
+            <zone points="448,2101 2154,2101 2154,2045 448,2055" rendition="Line" xml:id="facs_225_tr_1_tl_15" subtype="paragraph"/>
+            <zone points="268,2248 461,2258 534,2308 749,2271 926,2308 1033,2253 2283,2245 2283,2192 268,2220" rendition="Line" xml:id="facs_225_tr_1_tl_16"/>
+            <zone points="271,2402 372,2422 580,2400 620,2420 688,2402 840,2407 840,2354 663,2341 309,2354 271,2374" rendition="Line" xml:id="facs_225_tr_1_tl_17"/>
+            <zone points="443,2554 2215,2557 2215,2508 2139,2473 2000,2511 1610,2473 1552,2511 1347,2478 1311,2514 1157,2481 894,2519 820,2481 782,2519 618,2486 443,2521" rendition="Line" xml:id="facs_225_tr_1_tl_18" subtype="paragraph"/>
+            <zone points="276,2706 1357,2706 1410,2757 2091,2719 2248,2754 2248,2640 276,2658" rendition="Line" xml:id="facs_225_tr_1_tl_19"/>
+            <zone points="261,2855 876,2860 957,2919 2197,2853 2197,2797 1896,2787 1734,2825 261,2830" rendition="Line" xml:id="facs_225_tr_1_tl_20"/>
+            <zone points="268,3012 1020,3045 1066,3010 2177,3005 2144,2941 268,2969" rendition="Line" xml:id="facs_225_tr_1_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0225.jpg" n="part1_p225.jpg" xml:id="img_0225" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p225.jpg"/>
+            
+            <ab facs="#facs_225_tr_1">
+               <lb facs="#facs_225_tr_1_tl_1" n="N001"/>[221]
+               <lb facs="#facs_225_tr_1_tl_2" n="N002"/>very hard to say whether a <rs type="keyword" ref="#Symbols">symbol</rs> which is still ACCEPTED (in contrast, in this case, to the
+               <lb facs="#facs_225_tr_1_tl_3" n="N003"/>symbol of the Holy Virgin) is definitively dead. Sometimes people tell us, "Your Christian symbols
+               <lb facs="#facs_225_tr_1_tl_4" n="N004"/>are dead." Now they are dead for many people. The question is, "Can they become alive for them
+               <lb facs="#facs_225_tr_1_tl_6" n="N005"/>again?" I don't know. And the FURTHER question is, "If they CAN, can ALL of them,
+               <lb facs="#facs_225_tr_1_tl_7" n="N006"/>ALL of those which are preserved in Protestantism---which are very few in comparison with
+               <lb facs="#facs_225_tr_1_tl_8" n="N007"/><rs type="keyword" ref="#Roman_Catholicism">Catholicism-</rs>--can THEY become alive again? Can the <rs type="keyword" ref="#Sacrament">sacraments </rs>become alive again?":
+               <lb facs="#facs_225_tr_1_tl_9" n="N008"/>---ALL - - OPEN - - QUESTIONS!
+               <lb facs="#facs_225_tr_1_tl_11" n="N009"/>But this is not the problem of our lectures here. The problem is the<truth_of_faith> truth of faith,</truth_of_faith>
+               <lb facs="#facs_225_tr_1_tl_12" n="N010"/>and the truth of faith is the<rs type="keyword" ref="#Adequacy"> adequacy</rs> and the living power of a symbol.
+               <lb facs="#facs_225_tr_1_tl_13" n="N011"/>Now this was in contrast to an ultimate criterion, to the criterion of <rs type="keyword" ref="#Ultimacy">ultimacy, </rs>as I called it.
+               <lb facs="#facs_225_tr_1_tl_14" n="N012"/>This was the criterion of <rs type="keyword" ref="#Adequacy">adequacy.</rs> Let us say a few words about what the criterion of <rs type="keyword" ref="#Ultimacy">ultimacy </rs>says:
+               <lb facs="#facs_225_tr_1_tl_15" n="N013"/>A <truth_of_faith>truth of faith </truth_of_faith>must express that ultimate which is REALLY ultimate; or, negatively
+               <lb facs="#facs_225_tr_1_tl_16" n="N014"/>expressed, it must not be <rs type="keyword" ref="#Idolatrous">idolatrous</rs>, because every symbol which doesn't express the ultimate that is
+               <lb facs="#facs_225_tr_1_tl_17" n="N015"/>really ultimate is <rs type="keyword" ref="#Idolatrous">idolatrous.</rs>
+               <lb facs="#facs_225_tr_1_tl_18" n="N016"/>In the light of this criterion, the history of faith AS A WHOLE, the <rs type="keyword" ref="#History_of_Religion">history of religion,</rs>
+               <lb facs="#facs_225_tr_1_tl_19" n="N017"/>including Christianity, stands under a severe judgment. It belongs to the weaknesses OF ALL faith
+               <lb facs="#facs_225_tr_1_tl_20" n="N018"/>that it becomes <rs type="keyword" ref="#Idolatrous">idolatrous,</rs> that means, that it elevates a finite element to unconditional validity.
+               <lb facs="#facs_225_tr_1_tl_21" n="N019"/>And this is not only so in polytheism, where we often use the word <rs type="keyword" ref="#Idolatrous">"idolatrous"</rs> easily, but it is
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p250</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p250</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_250">
+         <graphic url="TL-0250.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=JDFTUJJJGQBDTEBQLBLYNSEZ&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="310,249 310,3439 2176,3439 2176,249" rendition="TextRegion" xml:id="facs_250_tr_2">
+            <zone points="1086,314 1107,314 1116,326 1195,326 1204,317 1216,317 1218,263 1186,263 1176,254 1165,254 1146,259 1133,273 1089,273" rendition="Line" xml:id="facs_250_tr_2_tl_1"/>
+            <zone points="333,441 2087,460 2087,411 1918,391 333,402" rendition="Line" xml:id="facs_250_tr_2_tl_2"/>
+            <zone points="328,596 996,603 996,576 961,552 756,534 740,550 328,550" rendition="Line" xml:id="facs_250_tr_2_tl_3"/>
+            <zone points="483,680 2168,693 2168,636 483,619" rendition="Line" xml:id="facs_250_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="331,823 1616,832 2087,899 2087,786 331,779" rendition="Line" xml:id="facs_250_tr_2_tl_5"/>
+            <zone points="337,973 2119,992 2117,938 337,929" rendition="Line" xml:id="facs_250_tr_2_tl_6"/>
+            <zone points="337,1139 2018,1149 2018,1096 1928,1079 1040,1112 994,1075 337,1084" rendition="Line" xml:id="facs_250_tr_2_tl_7"/>
+            <zone points="331,1290 1426,1287 1472,1331 2147,1301 2147,1241 331,1234" rendition="Line" xml:id="facs_250_tr_2_tl_8"/>
+            <zone points="319,1442 2027,1507 2027,1398 319,1414" rendition="Line" xml:id="facs_250_tr_2_tl_9"/>
+            <zone points="328,1597 532,1595 573,1636 2096,1629 2096,1551 328,1539" rendition="Line" xml:id="facs_250_tr_2_tl_11"/>
+            <zone points="324,1745 617,1750 617,1715 592,1715 571,1694 356,1692 324,1701" rendition="Line" xml:id="facs_250_tr_2_tl_12"/>
+            <zone points="474,1821 733,1861 2080,1828 2080,1763 744,1791 474,1745" rendition="Line" xml:id="facs_250_tr_2_tl_13" subtype="paragraph"/>
+            <zone points="314,1965 2173,1988 2173,1930 2103,1925 314,1937" rendition="Line" xml:id="facs_250_tr_2_tl_14"/>
+            <zone points="324,2119 2092,2133 2092,2078 1819,2064 324,2076" rendition="Line" xml:id="facs_250_tr_2_tl_15"/>
+            <zone points="319,2277 2119,2290 2119,2226 319,2244" rendition="Line" xml:id="facs_250_tr_2_tl_16"/>
+            <zone points="314,2427 465,2482 855,2429 2138,2434 2138,2378 314,2369" rendition="Line" xml:id="facs_250_tr_2_tl_17"/>
+            <zone points="314,2579 1930,2589 1930,2538 314,2552" rendition="Line" xml:id="facs_250_tr_2_tl_18"/>
+            <zone points="469,2737 2143,2743 2143,2681 469,2679" rendition="Line" xml:id="facs_250_tr_2_tl_19" subtype="paragraph"/>
+            <zone points="303,2882 2069,2891 2069,2827 303,2850" rendition="Line" xml:id="facs_250_tr_2_tl_20"/>
+            <zone points="307,3042 2015,3049 2015,2993 1317,3023 307,2988" rendition="Line" xml:id="facs_250_tr_2_tl_21"/>
+            <zone points="298,3196 811,3199 904,3266 1740,3206 1706,3155 1560,3139 298,3169" rendition="Line" xml:id="facs_250_tr_2_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0250.jpg" n="part1_p250.jpg" xml:id="img_0250" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p250.jpg"/>
+            
+            <ab facs="#facs_250_tr_2">
+               <lb facs="#facs_250_tr_2_tl_1" n="N001"/>[246]
+               <lb facs="#facs_250_tr_2_tl_2" n="N002"/>other. And WITHIN these levels, he sees a being which he recognizes as himself, if he sees
+               <lb facs="#facs_250_tr_2_tl_3" n="N003"/>himself in a mirror, namely man.
+               <lb facs="#facs_250_tr_2_tl_4" n="N004"/>Now the following thing happens: man, if he sees himself within this realm, or within
+               <lb facs="#facs_250_tr_2_tl_5" n="N005"/>his world, puts himself into one of these different levels which he calls fundamental levels.
+               <lb facs="#facs_250_tr_2_tl_6" n="N006"/>Then man becomes a part of matter, or a structural harmony of numbers, or he becomes an
+               <lb facs="#facs_250_tr_2_tl_7" n="N007"/>essence, or a center of spiritual life. In any case, he becomes something equal to those
+               <lb facs="#facs_250_tr_2_tl_8" n="N008"/>realities which he finds within the totality of his world. He finds himself as an element in the
+               <lb facs="#facs_250_tr_2_tl_9" n="N009"/>processes of physical reality, of biological, of psychological, of sociological, or spiritual
+               <lb facs="#facs_250_tr_2_tl_11" n="N010"/>reality. These processes are in his objective world---he looks at them---and then he finds himself as a
+               <lb facs="#facs_250_tr_2_tl_12" n="N011"/>part of them.
+               <lb facs="#facs_250_tr_2_tl_13" n="N012"/>For instance, he is a physical object, and he looks at himself as at stones and other
+               <lb facs="#facs_250_tr_2_tl_14" n="N013"/>inorganic realities; he looks at himself as a combination of atoms, perhaps with a central atom,
+               <lb facs="#facs_250_tr_2_tl_15" n="N014"/>but in any case, himself down to the level of those realities which he himself has abstracted
+               <lb facs="#facs_250_tr_2_tl_16" n="N015"/>of the whole of his world as the fundamental level. Or he thinks in more <rs type="person">Aristotelian</rs> terms,
+               <lb facs="#facs_250_tr_2_tl_17" n="N016"/>i.e., biological terms. And he sees himself as a <biology>biological</biology> organism subjected to the structures
+               <lb facs="#facs_250_tr_2_tl_18" n="N017"/>and laws of organicistic development---and that's ALL what he sees about himself.
+               <lb facs="#facs_250_tr_2_tl_19" n="N018"/>Or he sees a realm---which is usually called the <rs type="keyword" ref="#Psychology">psychological</rs>, the inner realm. He sees
+               <lb facs="#facs_250_tr_2_tl_20" n="N019"/>himself as the bearer of psychological processes which are going through him and the laws
+               <lb facs="#facs_250_tr_2_tl_21" n="N020"/>of association which he describes in the realm of psychological functions. Or he
+               <lb facs="#facs_250_tr_2_tl_22" n="N021"/>sees himself as a member in a <rs type="keyword" ref="#Sociology">sociological </rs>role determined by this whole.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p099</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p099</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_99">
+         <graphic url="TL-0383.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FUSJVQCBEWHOQMZJKXWYMDOW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="229,284 2182,284 2182,1556 229,1556" rendition="TextRegion" xml:id="facs_99_tr_1">
+            <zone points="1042,333 1054,333 1074,348 1153,348 1160,341 1175,341 1175,286 1141,286 1131,276 1111,272 1101,274 1089,286 1042,286" rendition="Line" xml:id="facs_99_tr_1_tl_1"/>
+            <zone points="227,506 1839,501 2121,491 2177,437 227,464" rendition="Line" xml:id="facs_99_tr_1_tl_2"/>
+            <zone points="854,642 2076,639 2079,583 854,600" rendition="Line" xml:id="facs_99_tr_1_tl_3"/>
+            <zone points="227,792 1859,788 2054,778 2054,726 230,765" rendition="Line" xml:id="facs_99_tr_1_tl_5"/>
+            <zone points="230,938 926,997 2143,936 2143,881 230,916" rendition="Line" xml:id="facs_99_tr_1_tl_6"/>
+            <zone points="235,1116 985,1084 1938,1141 2084,1116 2086,1029 237,1054" rendition="Line" xml:id="facs_99_tr_1_tl_7"/>
+            <zone points="227,1259 296,1316 1568,1284 1977,1262 2002,1180 227,1220" rendition="Line" xml:id="facs_99_tr_1_tl_8"/>
+            <zone points="217,1395 289,1444 1183,1442 1311,1390 1992,1390 2032,1313 217,1373" rendition="Line" xml:id="facs_99_tr_1_tl_9"/>
+            <zone points="215,1548 1773,1587 1824,1538 2106,1536 2106,1484 215,1506" rendition="Line" xml:id="facs_99_tr_1_tl_10"/>
+         </zone>
+         <zone points="232,1621 2179,1621 2179,2461 232,2461" rendition="TextRegion" xml:id="facs_99_tr_3">
+            <zone points="222,1698 1861,1701 2172,1686 2172,1629 222,1674" rendition="Line" xml:id="facs_99_tr_3_tl_1"/>
+            <zone points="227,1856 2158,1837 2160,1785 227,1810" rendition="Line" xml:id="facs_99_tr_3_tl_2"/>
+            <zone points="217,1997 1898,2022 2069,1987 2069,1931 217,1953" rendition="Line" xml:id="facs_99_tr_3_tl_3"/>
+            <zone points="217,2145 790,2150 899,2214 1153,2145 1632,2210 2079,2180 2098,2079 1069,2098 886,2029 795,2103 220,2123" rendition="Line" xml:id="facs_99_tr_3_tl_4"/>
+            <zone points="225,2301 580,2298 704,2375 928,2370 1029,2298 1489,2291 1536,2340 2071,2372 2074,2224 1903,2175 1743,2244 1020,2254 741,2177 570,2276 225,2259" rendition="Line" xml:id="facs_99_tr_3_tl_5"/>
+            <zone points="227,2528 536,2516 684,2451 1861,2454 2044,2437 2047,2372 595,2410 380,2343 227,2412" rendition="Line" xml:id="facs_99_tr_3_tl_6"/>
+         </zone>
+         <zone points="130,2532 2209,2532 2209,3467 130,3467" rendition="TextRegion" xml:id="facs_99_tr_2">
+            <zone points="217,2605 1889,2602 1987,2590 1987,2540 217,2563" rendition="Line" xml:id="facs_99_tr_2_tl_1"/>
+            <zone points="217,2760 2032,2750 2202,2730 2205,2676 217,2728" rendition="Line" xml:id="facs_99_tr_2_tl_2"/>
+            <zone points="220,2913 1523,2948 2185,2884 2185,2834 222,2861" rendition="Line" xml:id="facs_99_tr_2_tl_3"/>
+            <zone points="215,3059 1856,3108 2140,3074 2190,2987 215,3014" rendition="Line" xml:id="facs_99_tr_2_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0383.jpg" n="part2_p099.jpg" xml:id="img_0099" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p099.jpg"/>
+            
+            <ab facs="#facs_99_tr_1">
+               <lb facs="#facs_99_tr_1_tl_1" n="N001"/>[378]
+               <lb facs="#facs_99_tr_1_tl_2" n="N002"/>certainly find out that he or she has a tendency towards greed or towards waste--you can do that--
+               <lb facs="#facs_99_tr_1_tl_3" n="N003"/>that he or she is able to perceive quickly new changes on the street or in the cooking
+               <lb facs="#facs_99_tr_1_tl_5" n="N004"/>which ordinarily are not so easily observed. All these things you can find, and they can fill a
+               <lb facs="#facs_99_tr_1_tl_6" n="N005"/>whole book, if you want, and then you have the person, and you decide, on the basis of this test,
+               <lb facs="#facs_99_tr_1_tl_7" n="N006"/>you want to marry her or him or not. Now this is the absurdity which in this very radical case
+               <lb facs="#facs_99_tr_1_tl_8" n="N007"/>shows how absurd these methods are if they are observed for more than realms of possible
+               <lb facs="#facs_99_tr_1_tl_9" n="N008"/>abstraction from the totality of the personality. There they CAN be used. If they are used
+               <lb facs="#facs_99_tr_1_tl_10" n="N009"/>for the valuation of the personality AS A WHOLE, then they are absurd and can never produce
+            </ab>
+            <ab facs="#facs_99_tr_3">
+               <lb facs="#facs_99_tr_3_tl_1" n="N001"/>a life relationship. Here you have methods which produce objectivation, which consider man as an
+               <lb facs="#facs_99_tr_3_tl_2" n="N002"/>objective thing. It is very interesting and perhaps not too well known to you because you did not
+               <lb facs="#facs_99_tr_3_tl_3" n="N003"/>have much experience about it, but the Europe had [it] with the dictators, that even a dictator
+               <lb facs="#facs_99_tr_3_tl_4" n="N004"/>of such an uneducated past like Hitler, was an excellent psychologist from the point of view of
+               <lb facs="#facs_99_tr_3_tl_5" n="N005"/>test psychology. In his <hi style="font-style: italic;">Mein Kampf</hi>, which is his basic book, he developed the psychology of
+               <lb facs="#facs_99_tr_3_tl_6" n="N006"/>mass guidance, and insofar as you can abstract from man, in terms of mass society (to which
+            </ab>
+            <ab facs="#facs_99_tr_2">
+               <lb facs="#facs_99_tr_2_tl_1" n="N001"/>I come immediately), all those elements in which his freedom of decision is involved, just
+               <lb facs="#facs_99_tr_2_tl_2" n="N002"/>as far as you can do this you have the most powerful tool a dictator can have, much more powerful
+               <lb facs="#facs_99_tr_2_tl_3" n="N003"/>than storm troopers or armies, namely the guidance of a whole nation in[to] those realms in which
+               <lb facs="#facs_99_tr_2_tl_4" n="N004"/>the individual resistance doesn't exist, in which you can calculate the reactions by test experiments.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

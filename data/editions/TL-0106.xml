@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p106</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p106</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_106">
+         <graphic url="TL-0106.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=JAYECQFRVLMWLCOENCGQQAOZ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="145,247 145,3484 2430,3484 2430,247" rendition="TextRegion" xml:id="facs_106_tr_2">
+            <zone points="1221,311 1240,308 1256,319 1277,316 1301,324 1341,319 1336,249 1299,249 1291,241 1277,241 1258,257 1221,260" rendition="Line" xml:id="facs_106_tr_2_tl_1"/>
+            <zone points="332,412 2233,452 2233,399 2145,391 332,361" rendition="Line" xml:id="facs_106_tr_2_tl_2"/>
+            <zone points="329,530 407,544 439,525 461,536 651,533 667,549 704,541 704,495 661,493 640,474 610,495 560,495 546,482 503,493 474,469 439,493 415,471 364,471 329,493" rendition="Line" xml:id="facs_106_tr_2_tl_3"/>
+            <zone points="418,643 2295,685 2292,624 418,600" rendition="Line" xml:id="facs_106_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="321,758 2356,803 2356,766 2260,734 1004,739 321,693" rendition="Line" xml:id="facs_106_tr_2_tl_5"/>
+            <zone points="316,870 1301,918 1392,902 1390,838 313,835" rendition="Line" xml:id="facs_106_tr_2_tl_6"/>
+            <zone points="402,985 1044,1009 1272,1063 2332,1047 2329,983 2142,961 2096,993 1371,945 1020,972 934,932 809,967 718,932 402,953" rendition="Line" xml:id="facs_106_tr_2_tl_7" subtype="paragraph"/>
+            <zone points="313,1130 972,1159 1023,1122 1087,1186 1240,1191 1507,1154 1885,1175 1944,1138 2354,1157 2372,1092 311,1074" rendition="Line" xml:id="facs_106_tr_2_tl_8"/>
+            <zone points="308,1226 2362,1269 2359,1216 2265,1208 308,1194" rendition="Line" xml:id="facs_106_tr_2_tl_9"/>
+            <zone points="303,1341 755,1357 755,1299 511,1293 493,1312 471,1293 356,1288 337,1309 303,1309" rendition="Line" xml:id="facs_106_tr_2_tl_10"/>
+            <zone points="391,1465 2399,1515 2396,1462 1971,1454 1909,1416 1874,1449 391,1419" rendition="Line" xml:id="facs_106_tr_2_tl_11" subtype="paragraph"/>
+            <zone points="295,1572 629,1615 720,1582 2359,1639 2394,1585 1719,1537 533,1548 353,1510 292,1542" rendition="Line" xml:id="facs_106_tr_2_tl_12"/>
+            <zone points="295,1695 1216,1746 2412,1743 2423,1703 292,1633" rendition="Line" xml:id="facs_106_tr_2_tl_13"/>
+            <zone points="292,1810 2329,1861 2327,1794 292,1778" rendition="Line" xml:id="facs_106_tr_2_tl_14"/>
+            <zone points="292,1933 1708,1947 1773,1997 2193,2019 2356,2000 2354,1909 289,1893" rendition="Line" xml:id="facs_106_tr_2_tl_15"/>
+            <zone points="284,2067 1874,2118 1952,2080 2238,2086 2238,2027 281,1989" rendition="Line" xml:id="facs_106_tr_2_tl_16"/>
+            <zone points="286,2163 2220,2201 2217,2142 1930,2163 1866,2123 1762,2158 1357,2115 589,2134 536,2086 286,2110" rendition="Line" xml:id="facs_106_tr_2_tl_17"/>
+            <zone points="284,2281 1063,2297 1060,2241 1034,2238 554,2230 525,2249 284,2225" rendition="Line" xml:id="facs_106_tr_2_tl_18"/>
+            <zone points="372,2396 739,2453 2241,2463 2238,2367 731,2367 420,2324 372,2354" rendition="Line" xml:id="facs_106_tr_2_tl_19" subtype="paragraph"/>
+            <zone points="308,2530 549,2565 964,2522 1655,2557 1818,2549 1818,2485 305,2463" rendition="Line" xml:id="facs_106_tr_2_tl_20"/>
+            <zone points="367,2621 2163,2686 2198,2632 364,2568" rendition="Line" xml:id="facs_106_tr_2_tl_21" subtype="paragraph"/>
+            <zone points="265,2744 2313,2787 2313,2744 2171,2720 265,2710" rendition="Line" xml:id="facs_106_tr_2_tl_22"/>
+            <zone points="265,2862 2415,2918 2415,2870 2345,2841 265,2822" rendition="Line" xml:id="facs_106_tr_2_tl_23"/>
+            <zone points="268,2985 1925,3012 1968,3044 2391,3015 2343,2961 268,2927" rendition="Line" xml:id="facs_106_tr_2_tl_24"/>
+            <zone points="257,3095 2225,3141 2222,3079 1647,3052 1582,3090 993,3079 881,3036 790,3074 257,3068" rendition="Line" xml:id="facs_106_tr_2_tl_25"/>
+            <zone points="246,3213 2321,3197 2321,3125 1165,3170 926,3122 246,3184" rendition="Line" xml:id="facs_106_tr_2_tl_26"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0106.jpg" n="part1_p106.jpg" xml:id="img_0106" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p106.jpg"/>
+            
+            <ab facs="#facs_106_tr_2">
+               <lb facs="#facs_106_tr_2_tl_1" n="N001"/>[103]
+               <lb facs="#facs_106_tr_2_tl_2" n="N002"/>how they enter their life, continuously, again and again, in all great and important moments; how
+               <lb facs="#facs_106_tr_2_tl_3" n="N003"/>they direct reality.
+               <lb facs="#facs_106_tr_2_tl_4" n="N004"/>In the Old Testament, God appears in special moments--in the Prophets; He appears in special
+               <lb facs="#facs_106_tr_2_tl_5" n="N005"/>historical events--in the crowning of kings, in the judgment about them, in battles, in salvation of cities,
+               <lb facs="#facs_106_tr_2_tl_6" n="N006"/>in destruction of kingdoms--''the world is full of gods.''
+               <lb facs="#facs_106_tr_2_tl_7" n="N007"/>In this whole kind of thinking, there is no possible conflict because the supernatural and the natural
+               <lb facs="#facs_106_tr_2_tl_8" n="N008"/>are on one and the same place. <rs type="keyword" ref="#Ultimacy">The world is full of divine-sacred, numinous power. Trees and stones and
+               <lb break="no" facs="#facs_106_tr_2_tl_9" n="N009"/>clouds are not what they are for us--things--but they are filled with the awe-inspiring presence of that
+               <lb break="no" facs="#facs_106_tr_2_tl_10" n="N010"/>which is the Ultimate</rs>.
+               <lb facs="#facs_106_tr_2_tl_11" n="N011"/>Now let's suppose that such a worldview, which is often hardly distinguished from magical techniques,
+               <lb facs="#facs_106_tr_2_tl_12" n="N012"/>although logicall [sic.], the distinction is clear--that such a worldview has still its ''residua,'' in all of us in every-
+               <lb facs="#facs_106_tr_2_tl_13" n="N013"/>body; that the human race is not completely beyond this stage, and that for many people this is not the form
+               <lb facs="#facs_106_tr_2_tl_14" n="N014"/>in which the divine MUST be present if they can accept it at all; and that for others the divine cannot be
+               <lb facs="#facs_106_tr_2_tl_15" n="N015"/>seen in any other way, and that for this reason they reject it altogether. This is the large ten- and perhaps
+               <lb facs="#facs_106_tr_2_tl_16" n="N016"/>hundred-thousands of years' background to the problem of Religion and Science. And without this
+               <lb facs="#facs_106_tr_2_tl_17" n="N017"/>background, we simply wouldn't be able to understand the sharpness of the conflict, the emotional
+               <lb facs="#facs_106_tr_2_tl_18" n="N018"/>elements connected with it all the time.
+               <lb facs="#facs_106_tr_2_tl_19" n="N019"/>The conflict started with the interpretation of the natural as natural, with the Greek concept of
+               <lb facs="#facs_106_tr_2_tl_20" n="N020"/>''phusis,'' ''natura'' in Latin, both words meaning ''that which grows by itself.''
+               <lb facs="#facs_106_tr_2_tl_21" n="N021"/>When the early Greek philosophers wrote their poems "peri phuseos'' (''about nature''), they
+               <lb facs="#facs_106_tr_2_tl_22" n="N022"/>tried to describe and to calculate what was observable and calculable. But this was an attitude of a quite
+               <lb facs="#facs_106_tr_2_tl_23" n="N023"/>different character from the character of the immediate experience of the numinous, the divine, in everything.
+               <lb facs="#facs_106_tr_2_tl_24" n="N024"/>They didn't intend to deny the presence of the divine in reality, they are rightly called ''the old theologians''--
+               <lb facs="#facs_106_tr_2_tl_25" n="N025"/>meaning that there was much theology still in their philosophy--but the APPROACH was different.
+               <lb facs="#facs_106_tr_2_tl_26" n="N026"/>And out of this approach, out of the method, some fundamental change of man's relationship to reality
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

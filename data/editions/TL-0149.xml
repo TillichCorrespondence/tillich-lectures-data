@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p149</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p149</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_149">
+         <graphic url="TL-0149.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DKFYDNWUVQLAXMPXVOIZKNFD&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="262,253 262,3476 2319,3476 2319,253" rendition="TextRegion" xml:id="facs_149_tr_2">
+            <zone points="1189,388 1204,386 1250,334 1272,342 1306,339 1304,276 1269,278 1265,273 1250,288 1228,273 1218,281 1184,281" rendition="Line" xml:id="facs_149_tr_2_tl_1"/>
+            <zone points="352,478 2197,518 2168,442 1250,447 1191,388 1123,447 498,444 457,403 352,444" rendition="Line" xml:id="facs_149_tr_2_tl_2"/>
+            <zone points="359,649 2163,654 2163,596 359,588" rendition="Line" xml:id="facs_149_tr_2_tl_3"/>
+            <zone points="344,781 1587,820 2168,806 2168,749 342,737" rendition="Line" xml:id="facs_149_tr_2_tl_4"/>
+            <zone points="344,933 1597,945 1770,994 1770,893 344,889" rendition="Line" xml:id="facs_149_tr_2_tl_5"/>
+            <zone points="342,1125 427,1155 498,1121 2151,1108 2151,1040 342,1035" rendition="Line" xml:id="facs_149_tr_2_tl_7"/>
+            <zone points="339,1238 2217,1252 2217,1199 339,1186" rendition="Line" xml:id="facs_149_tr_2_tl_8"/>
+            <zone points="334,1384 2256,1404 2256,1345 334,1338" rendition="Line" xml:id="facs_149_tr_2_tl_9"/>
+            <zone points="332,1540 2202,1555 2202,1494 332,1511" rendition="Line" xml:id="facs_149_tr_2_tl_10"/>
+            <zone points="330,1694 2119,1726 2170,1716 2168,1648 327,1660" rendition="Line" xml:id="facs_149_tr_2_tl_11"/>
+            <zone points="330,1882 842,1894 957,1890 986,1860 1182,1858 1179,1797 327,1816" rendition="Line" xml:id="facs_149_tr_2_tl_12"/>
+            <zone points="530,1997 1413,2053 1543,2002 1665,2051 1919,2051 1965,2004 2026,2051 2092,2014 2239,2051 2251,1951 527,1936" rendition="Line" xml:id="facs_149_tr_2_tl_14" subtype="paragraph"/>
+            <zone points="330,2168 876,2212 1025,2151 2231,2158 2231,2099 330,2095" rendition="Line" xml:id="facs_149_tr_2_tl_15"/>
+            <zone points="315,2290 2153,2312 2190,2256 1069,2231 937,2270 312,2265" rendition="Line" xml:id="facs_149_tr_2_tl_16"/>
+            <zone points="317,2436 449,2478 727,2444 2234,2466 2234,2410 2002,2392 317,2392" rendition="Line" xml:id="facs_149_tr_2_tl_17"/>
+            <zone points="315,2600 2273,2607 2273,2549 762,2571 398,2536 315,2568" rendition="Line" xml:id="facs_149_tr_2_tl_18"/>
+            <zone points="317,2761 2197,2766 2197,2695 317,2698" rendition="Line" xml:id="facs_149_tr_2_tl_19"/>
+            <zone points="312,2895 862,2895 1055,2949 2173,2947 2173,2851 312,2849" rendition="Line" xml:id="facs_149_tr_2_tl_20"/>
+            <zone points="308,3059 381,3091 1496,3056 1670,3108 2241,3105 2214,2995 308,3020" rendition="Line" xml:id="facs_149_tr_2_tl_21"/>
+            <zone points="320,3220 710,3301 1291,3283 1365,3342 1504,3266 1870,3283 2026,3240 2026,3179 674,3205 320,3171" rendition="Line" xml:id="facs_149_tr_2_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0149.jpg" n="part1_p149.jpg" xml:id="img_0149" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p149.jpg"/>
+            
+            <ab facs="#facs_149_tr_2">
+               <lb facs="#facs_149_tr_2_tl_1" n="N001"/>[146]
+               <lb facs="#facs_149_tr_2_tl_2" n="N002"/>STILL as much detached as possible, but it is not completely without involvement because it
+               <lb facs="#facs_149_tr_2_tl_3" n="N003"/>presupposes a participation in those who ACT historically, and in their motives. And if you
+               <lb facs="#facs_149_tr_2_tl_4" n="N004"/>EXPLAIN Caesar's attack on Rome, then you can find, and you always find, more than one
+               <lb facs="#facs_149_tr_2_tl_5" n="N005"/>motive. And you evaluate the weight of these motives and thereby you come to an
+               <lb facs="#facs_149_tr_2_tl_7" n="N006"/>involvement in terms of an analogy which you make with yourselves. Unconsciously, every
+               <lb facs="#facs_149_tr_2_tl_8" n="N007"/>historian puts himself on the place of the great historical actors, otherwise he wouldn’t be able
+               <lb facs="#facs_149_tr_2_tl_9" n="N008"/>to explain anything. For instance, he must understand what ambition means, what will-to-power
+               <lb facs="#facs_149_tr_2_tl_10" n="N009"/>means, what the feeling for justice means, what anticipation of danger means---and many other
+               <lb facs="#facs_149_tr_2_tl_11" n="N010"/>things like that. And he must be able to put these motives into the right proportion. This
+               <lb facs="#facs_149_tr_2_tl_12" n="N011"/>means involvement, and is more than mere detached analysis.
+               <lb facs="#facs_149_tr_2_tl_14" n="N012"/>Then there is the third and most difficult thing, namely understanding. <rs type="keyword" ref="#Understanding">Understanding</rs>
+               <lb facs="#facs_149_tr_2_tl_15" n="N013"/>is an act of total participation. Let me give first an example of a text. How can you understand
+               <lb facs="#facs_149_tr_2_tl_16" n="N014"/>a text like a Platonic dialogue, or a biblical text? What do you do if you try to understand it?
+               <lb facs="#facs_149_tr_2_tl_17" n="N015"/>You try to use your organs of understanding of the realm described in this text---in the one case,
+               <lb facs="#facs_149_tr_2_tl_18" n="N016"/>a philosophy, politics, or aesthetics; in the other case, religion or ethics---you must participate with
+               <lb facs="#facs_149_tr_2_tl_19" n="N017"/>your organs of understanding just in what has happened, in the text. But now something very
+               <lb facs="#facs_149_tr_2_tl_20" n="N018"/>difficult occurs, namely it occurs that your organs of understanding do not leave the text
+               <lb facs="#facs_149_tr_2_tl_21" n="N019"/>unchanged, but something NEW is created: the understood text, , <choice><corr/><sic>[sic.]</sic></choice> which is not only the text as it
+               <lb facs="#facs_149_tr_2_tl_22" n="N020"/>"STANDS" there, but it is also the text as it has grasped you, or as you have grasped it.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

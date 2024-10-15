@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p044</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p044</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_44">
+         <graphic url="TL-0328.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WSMEKFJRSISQRGECNKSEHVCP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="280,323 2313,323 2313,2452 280,2452" rendition="TextRegion" xml:id="facs_44_tr_1">
+            <zone points="1114,376 1139,379 1151,389 1231,389 1231,310 1211,312 1186,337 1166,317 1151,332 1114,332" rendition="Line" xml:id="facs_44_tr_1_tl_1"/>
+            <zone points="446,537 2112,540 2182,478 446,500" rendition="Line" xml:id="facs_44_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="270,693 2256,683 2256,624 270,664" rendition="Line" xml:id="facs_44_tr_1_tl_3"/>
+            <zone points="275,844 2110,837 2110,780 275,800" rendition="Line" xml:id="facs_44_tr_1_tl_4"/>
+            <zone points="272,998 1986,981 2031,929 272,961" rendition="Line" xml:id="facs_44_tr_1_tl_5"/>
+            <zone points="272,1147 495,1164 525,1144 938,1149 976,1142 976,1092 272,1102" rendition="Line" xml:id="facs_44_tr_1_tl_7"/>
+            <zone points="270,1293 2248,1270 2070,1211 270,1231" rendition="Line" xml:id="facs_44_tr_1_tl_8"/>
+            <zone points="275,1461 2191,1436 2191,1379 275,1402" rendition="Line" xml:id="facs_44_tr_1_tl_9"/>
+            <zone points="270,1600 1407,1597 1409,1545 270,1555" rendition="Line" xml:id="facs_44_tr_1_tl_10"/>
+            <zone points="448,1746 2033,1766 2035,1684 451,1699" rendition="Line" xml:id="facs_44_tr_1_tl_13" subtype="paragraph"/>
+            <zone points="267,1823 1414,1830 1436,1775 267,1790" rendition="Line" xml:id="facs_44_tr_1_tl_14"/>
+            <zone points="443,1919 2239,1909 2310,1852 443,1872" rendition="Line" xml:id="facs_44_tr_1_tl_15" subtype="paragraph"/>
+            <zone points="267,2075 329,2078 359,2070 371,2078 399,2073 426,2078 443,2073 443,2021 421,2021 404,2003 396,2003 379,2021 357,2021 339,2003 314,2018 267,2018" rendition="Line" xml:id="facs_44_tr_1_tl_16"/>
+            <zone points="438,2142 1528,2179 1615,2127 2196,2127 2199,2060 441,2085" rendition="Line" xml:id="facs_44_tr_1_tl_17" subtype="paragraph"/>
+            <zone points="270,2295 2182,2278 2182,2226 2087,2214 272,2248" rendition="Line" xml:id="facs_44_tr_1_tl_18"/>
+            <zone points="270,2444 2194,2437 2211,2372 270,2395" rendition="Line" xml:id="facs_44_tr_1_tl_19"/>
+         </zone>
+         <zone points="26,2517 2251,2517 2251,3456 26,3456" rendition="TextRegion" xml:id="facs_44_tr_2">
+            <zone points="275,2630 2246,2580 2246,2521 1813,2513 277,2546" rendition="Line" xml:id="facs_44_tr_2_tl_1"/>
+            <zone points="267,2754 2122,2734 2087,2672 267,2694" rendition="Line" xml:id="facs_44_tr_2_tl_2"/>
+            <zone points="267,2905 2078,2885 2167,2877 2169,2818 270,2848" rendition="Line" xml:id="facs_44_tr_2_tl_3"/>
+            <zone points="277,3041 2122,3046 2122,2981 277,2996" rendition="Line" xml:id="facs_44_tr_2_tl_4"/>
+            <zone points="262,3204 2095,3189 2122,3128 262,3152" rendition="Line" xml:id="facs_44_tr_2_tl_5"/>
+            <zone points="270,3291 656,3281 780,3301 780,3251 743,3239 713,3239 688,3264 641,3232 607,3244 369,3229 270,3244" rendition="Line" xml:id="facs_44_tr_2_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0328.jpg" n="part2_p044.jpg" xml:id="img_0044" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p044.jpg"/>
+            
+            <ab facs="#facs_44_tr_1">
+               <lb facs="#facs_44_tr_1_tl_1" n="N001"/>[323]
+               <lb facs="#facs_44_tr_1_tl_2" n="N002"/>Now this gives you a first taste of the many problems connected with the relationship of
+               <lb facs="#facs_44_tr_1_tl_3" n="N003"/>religion and art. This is the first and fundamental distinction which we must keep in mind---in music,
+               <lb facs="#facs_44_tr_1_tl_4" n="N004"/>in visual arts, in poetry. Perfect poems rarely will be able to become sung in a congregation,
+               <lb facs="#facs_44_tr_1_tl_5" n="N005"/>even if they find good melody. Here again you have these dialectics. There ARE some---
+               <lb facs="#facs_44_tr_1_tl_7" n="N006"/>I would say some of Paul Gerhardt and some of the
+               <lb facs="#facs_44_tr_1_tl_8" n="N007"/>English, <hi style="font-style: italic;">"O God of Ages" [i.e. Rock of Ages? O God, our help in ages past? --Ed.]</hi> --- what is that?---
+               <lb facs="#facs_44_tr_1_tl_9" n="N008"/>you know of that---[ from audience: "O God our help in ages past"? --- Whittier?] -- No --- I will
+               <lb facs="#facs_44_tr_1_tl_10" n="N009"/>find him before the end of the class---I will think of him !
+               <lb facs="#facs_44_tr_1_tl_13" n="N010"/>There is a complete poetic expression combined with a religious power, but you will not
+               <lb facs="#facs_44_tr_1_tl_14" n="N011"/>find ten percent in our hymnbooks which have this quality.
+               <lb facs="#facs_44_tr_1_tl_15" n="N012"/>Now I come to another consideration which increases the dialectical situation between religion
+               <lb facs="#facs_44_tr_1_tl_16" n="N013"/>and art.
+               <lb facs="#facs_44_tr_1_tl_17" n="N014"/>Art always has three elements: 1) The subject matter, even if it is only different fields of
+               <lb facs="#facs_44_tr_1_tl_18" n="N015"/>color combined, in completely abstract art---even that is subject matter, although it is not subject
+               <lb facs="#facs_44_tr_1_tl_19" n="N016"/>matter in any sense of our natural worldview. 2) Secondly, art has that which makes it art, namely
+            </ab>
+            <ab facs="#facs_44_tr_2">
+               <lb facs="#facs_44_tr_2_tl_1" n="N001"/>the form. The form ist hedecisive [sic.] element, and what is lacking in poor melodies, in poor hymns, or
+               <lb facs="#facs_44_tr_2_tl_2" n="N002"/>in poor religious pictures, or in poor texts of hymns, is the form: they have no artistic form.
+               <lb facs="#facs_44_tr_2_tl_3" n="N003"/>Form is always that which makes a thing what it is. We have forgotten this meaning of the word
+               <lb facs="#facs_44_tr_2_tl_4" n="N004"/>"form" because we have fallen everywhere in[to] what you rightly call "formalism," namely
+               <lb facs="#facs_44_tr_2_tl_5" n="N005"/>form without meaning. But form is that which distinguishes the work of art from a failure to
+               <lb facs="#facs_44_tr_2_tl_6" n="N006"/>produce a work of art.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

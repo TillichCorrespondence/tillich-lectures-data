@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p043</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p043</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_43">
+         <graphic url="TL-0043.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RNBRDEUAVDPCKAJZLBPAHVYC&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="250,274 250,3126 2343,3126 2343,274" rendition="TextRegion" xml:id="facs_43_tr_1">
+            <zone points="1180,322 1193,319 1218,342 1259,342 1269,335 1282,335 1277,258 1262,258 1246,266 1236,263 1223,278 1177,281" rendition="Line" xml:id="facs_43_tr_1_tl_1"/>
+            <zone points="281,493 1210,501 1256,547 1662,495 2094,518 2094,447 1479,444 1412,386 1356,439 281,452" rendition="Line" xml:id="facs_43_tr_1_tl_2"/>
+            <zone points="286,587 2339,592 2339,541 2137,559 2099,524 286,534" rendition="Line" xml:id="facs_43_tr_1_tl_3"/>
+            <zone points="283,667 968,659 1149,710 2204,690 2204,626 2046,615 283,633" rendition="Line" xml:id="facs_43_tr_1_tl_4"/>
+            <zone points="283,758 1039,804 1466,797 1611,746 2229,766 2229,712 2130,702 283,705" rendition="Line" xml:id="facs_43_tr_1_tl_5"/>
+            <zone points="281,833 2171,845 2171,799 2102,787 281,794" rendition="Line" xml:id="facs_43_tr_1_tl_6"/>
+            <zone points="281,912 2109,932 2109,881 2007,866 281,873" rendition="Line" xml:id="facs_43_tr_1_tl_7"/>
+            <zone points="278,999 1361,1004 1405,1047 1987,1050 2061,1001 2178,1029 2178,963 2125,947 2074,978 278,958" rendition="Line" xml:id="facs_43_tr_1_tl_8"/>
+            <zone points="278,1124 1731,1126 1767,1088 2268,1096 2268,1037 276,1042" rendition="Line" xml:id="facs_43_tr_1_tl_9"/>
+            <zone points="278,1170 2109,1182 2109,1136 1964,1121 278,1126" rendition="Line" xml:id="facs_43_tr_1_tl_10"/>
+            <zone points="575,1331 1670,1333 1954,1382 2112,1346 2112,1279 575,1274" rendition="Line" xml:id="facs_43_tr_1_tl_11" subtype="paragraph"/>
+            <zone points="266,1415 1770,1420 2217,1476 2217,1382 266,1384" rendition="Line" xml:id="facs_43_tr_1_tl_12"/>
+            <zone points="260,1525 2155,1522 2155,1474 2076,1458 260,1476" rendition="Line" xml:id="facs_43_tr_1_tl_13"/>
+            <zone points="268,1596 1987,1588 2260,1629 2260,1550 2099,1537 268,1545" rendition="Line" xml:id="facs_43_tr_1_tl_14"/>
+            <zone points="260,1673 294,1678 319,1701 590,1701 590,1632 544,1617 518,1629 478,1619 421,1629 403,1617 386,1632 291,1629 260,1645" rendition="Line" xml:id="facs_43_tr_1_tl_15"/>
+            <zone points="564,1760 2102,1765 2102,1698 1859,1731 1803,1698 1747,1729 564,1701" rendition="Line" xml:id="facs_43_tr_1_tl_16" subtype="paragraph"/>
+            <zone points="258,1841 2153,1854 2153,1788 258,1795" rendition="Line" xml:id="facs_43_tr_1_tl_17"/>
+            <zone points="258,1928 861,1923 1231,1974 1422,1926 2176,1938 2176,1887 2010,1874 258,1882" rendition="Line" xml:id="facs_43_tr_1_tl_18"/>
+            <zone points="258,2005 2196,2020 2196,1959 258,1959" rendition="Line" xml:id="facs_43_tr_1_tl_19"/>
+            <zone points="258,2099 370,2140 797,2148 884,2094 2115,2112 2115,2063 1959,2051 258,2053" rendition="Line" xml:id="facs_43_tr_1_tl_20"/>
+            <zone points="258,2222 319,2183 748,2173 1417,2240 1417,2145 1323,2132 258,2127" rendition="Line" xml:id="facs_43_tr_1_tl_21"/>
+            <zone points="554,2263 2270,2278 2270,2217 554,2212" rendition="Line" xml:id="facs_43_tr_1_tl_22" subtype="paragraph"/>
+            <zone points="248,2360 1336,2398 1435,2355 2010,2347 2214,2383 2214,2319 2076,2306 248,2306" rendition="Line" xml:id="facs_43_tr_1_tl_23"/>
+            <zone points="250,2464 2089,2446 2089,2385 250,2395" rendition="Line" xml:id="facs_43_tr_1_tl_24"/>
+            <zone points="250,2515 2132,2541 2132,2462 1647,2495 250,2472" rendition="Line" xml:id="facs_43_tr_1_tl_25"/>
+            <zone points="243,2597 289,2630 797,2592 2048,2628 2048,2559 1928,2551 243,2556" rendition="Line" xml:id="facs_43_tr_1_tl_26"/>
+            <zone points="245,2692 2102,2702 2102,2646 2053,2630 245,2641" rendition="Line" xml:id="facs_43_tr_1_tl_27"/>
+            <zone points="248,2773 1816,2789 2010,2784 2028,2733 245,2725" rendition="Line" xml:id="facs_43_tr_1_tl_28"/>
+            <zone points="235,2842 999,2886 2135,2876 2135,2799 235,2822" rendition="Line" xml:id="facs_43_tr_1_tl_29"/>
+            <zone points="235,2973 669,2980 830,2934 2191,2950 2166,2886 235,2896" rendition="Line" xml:id="facs_43_tr_1_tl_30"/>
+            <zone points="235,3021 1279,3077 1366,3021 2140,3031 2140,2985 2086,2973 235,2983" rendition="Line" xml:id="facs_43_tr_1_tl_31"/>
+            <zone points="235,3108 317,3144 794,3103 2058,3123 2058,3075 1951,3057 235,3062" rendition="Line" xml:id="facs_43_tr_1_tl_32"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0043.jpg" n="part1_p043.jpg" xml:id="img_0043" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p043.jpg"/>
+            
+            <ab facs="#facs_43_tr_1">
+               <lb facs="#facs_43_tr_1_tl_1" n="N001"/>[40]
+               <lb facs="#facs_43_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Language">should observe, namely that in all language the spatial category, the spatial relations,
+               <lb break="no" facs="#facs_43_tr_1_tl_3" n="N003"/>the relation in space, are decisive for the grasp of the human mind. Not the OTHER categories
+               <lb break="no" facs="#facs_43_tr_1_tl_4" n="N004"/>are of such primary importance as the category of space. Neither time nor causality nor
+               <lb break="no" facs="#facs_43_tr_1_tl_5" n="N005"/>substance nor quantity or quality, but space is decisive. Why? Because we encounter things
+               <lb break="no" facs="#facs_43_tr_1_tl_6" n="N006"/>within the context of our world in terms of ''here'' and ''now.'' Things are here; then
+               <lb break="no" facs="#facs_43_tr_1_tl_7" n="N007"/>we can point to them. They are there; we point to them as absent. They are here;
+               <lb break="no" facs="#facs_43_tr_1_tl_8" n="N008"/>we point to them as present. And this is decisive. The now-element is much later. The
+               <lb break="no" facs="#facs_43_tr_1_tl_9" n="N009"/>element of time is much more abstract and much more complicated. Therefore the modes of
+               <lb break="no" facs="#facs_43_tr_1_tl_10" n="N010"/>time are not as genuinely expressed in our direct language as the dimension of space.
+               <lb break="no" facs="#facs_43_tr_1_tl_11" n="N011"/>This leads to a phenomenon in language which we call metaphor. When
+               <lb break="no" facs="#facs_43_tr_1_tl_12" n="N012"/>we speak about inner experiences, we must use the language of outer experience, we must
+               <lb break="no" facs="#facs_43_tr_1_tl_13" n="N013"/>spatialize--not ''special-ize,'' but ''spatial-ize,'' put into spatial relations--even those things
+               <lb break="no" facs="#facs_43_tr_1_tl_14" n="N014"/>which are matters of our inner experience. Now if we do this, then we say we use language
+               <lb break="no" facs="#facs_43_tr_1_tl_15" n="N015"/>metaphorically.
+               <lb break="no" facs="#facs_43_tr_1_tl_16" n="N016"/>In all levels of culture which we have discussed, this origin of language
+               <lb break="no" facs="#facs_43_tr_1_tl_17" n="N017"/>is still visible. I can now give you immediately an example in terms of the word which
+               <lb break="no" facs="#facs_43_tr_1_tl_18" n="N018"/>I just used, namely ''level.'' ''Level'' is a spatial term. Levels are strata above each other.
+               <lb break="no" facs="#facs_43_tr_1_tl_19" n="N019"/>Words like ''level,'' ''strata,'' are used in all psychology, in all value realms. Or we speak
+               <lb break="no" facs="#facs_43_tr_1_tl_20" n="N020"/>of higher, lower, up, down. In all levels of man's spiritual activity, wherever language
+               <lb break="no" facs="#facs_43_tr_1_tl_21" n="N021"/>is used at all, there it is used with spatial metaphors.
+               <lb break="no" facs="#facs_43_tr_1_tl_22" n="N022"/>Now this is very important because we will find that this is also a predominant
+               <lb break="no" facs="#facs_43_tr_1_tl_23" n="N023"/>thing in religious symbolism. But these are metaphors, these are not yet symbols. A meta-
+               <lb break="no" facs="#facs_43_tr_1_tl_24" n="N024"/>phor is not a symbol. The word comes from <hi style="font-style: italic;">meta ferein</hi>, which means ''transferring,''
+               <lb break="no" facs="#facs_43_tr_1_tl_25" n="N025"/>transferring an image from one realm to the other. But even so, metaphoric language is
+               <lb break="no" facs="#facs_43_tr_1_tl_26" n="N026"/>still direct language. When we speak of ''high'' tension in our soul, or of the ''lower''
+               <lb break="no" facs="#facs_43_tr_1_tl_27" n="N027"/>levels of our moral behavior, or of the ''higher'' levels, then we still grasp that reality
+               <lb break="no" facs="#facs_43_tr_1_tl_28" n="N028"/>directly; we don’t use symbols yet, but we use metaphors. And it is important to
+               <lb break="no" facs="#facs_43_tr_1_tl_29" n="N029"/>distinguish symbol and metaphor. Metaphor is based on the fact that the first origin of
+               <lb break="no" facs="#facs_43_tr_1_tl_30" n="N030"/>language is technical, using things as tools, and that words point to things which are FOR
+               <lb break="no" facs="#facs_43_tr_1_tl_31" n="N031"/>something, and which encounter in spatial relations. On this basis, all direct signification
+               <lb break="no" facs="#facs_43_tr_1_tl_32" n="N032"/>has spatial character, and if it is used for other realms of reality, then again it is a</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

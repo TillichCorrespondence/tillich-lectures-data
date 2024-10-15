@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p041</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p041</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_41">
+         <graphic url="TL-0325.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=THXXRUFZDPLVKFZFUOSNTKGX&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="256,314 2319,314 2319,1598 256,1598" rendition="TextRegion" xml:id="facs_41_tr_1">
+            <zone points="1089,369 1117,374 1125,382 1215,379 1218,294 1189,294 1176,302 1156,302 1146,294 1125,312 1089,312" rendition="Line" xml:id="facs_41_tr_1_tl_1"/>
+            <zone points="423,524 2198,534 2214,454 423,488" rendition="Line" xml:id="facs_41_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="243,679 2190,679 2291,673 2291,614 243,653" rendition="Line" xml:id="facs_41_tr_1_tl_3"/>
+            <zone points="253,833 2219,828 2219,771 253,789" rendition="Line" xml:id="facs_41_tr_1_tl_4"/>
+            <zone points="245,986 1863,988 2092,937 245,957" rendition="Line" xml:id="facs_41_tr_1_tl_5"/>
+            <zone points="250,1148 1966,1135 2188,1125 2188,1066 250,1086" rendition="Line" xml:id="facs_41_tr_1_tl_6"/>
+            <zone points="245,1287 2229,1285 2229,1218 245,1238" rendition="Line" xml:id="facs_41_tr_1_tl_7"/>
+            <zone points="245,1445 2157,1434 2157,1375 245,1396" rendition="Line" xml:id="facs_41_tr_1_tl_8"/>
+            <zone points="243,1587 2252,1584 2314,1514 243,1561" rendition="Line" xml:id="facs_41_tr_1_tl_9"/>
+         </zone>
+         <zone points="250,1666 2289,1666 2289,2502 250,2502" rendition="TextRegion" xml:id="facs_41_tr_3">
+            <zone points="243,1742 2283,1726 2250,1667 245,1698" rendition="Line" xml:id="facs_41_tr_3_tl_1"/>
+            <zone points="243,1894 1994,1894 2214,1878 2214,1819 243,1845" rendition="Line" xml:id="facs_41_tr_3_tl_2"/>
+            <zone points="245,2046 1834,2046 2247,2028 2247,1969 245,1989" rendition="Line" xml:id="facs_41_tr_3_tl_3"/>
+            <zone points="237,2190 1742,2198 2121,2183 2121,2118 240,2165" rendition="Line" xml:id="facs_41_tr_3_tl_4"/>
+            <zone points="235,2340 2206,2332 2206,2268 235,2286" rendition="Line" xml:id="facs_41_tr_3_tl_5"/>
+            <zone points="248,2492 2131,2487 2131,2430 248,2446" rendition="Line" xml:id="facs_41_tr_3_tl_6"/>
+         </zone>
+         <zone points="23,2517 2266,2517 2266,3482 23,3482" rendition="TextRegion" xml:id="facs_41_tr_2">
+            <zone points="240,2644 1311,2637 1571,2694 2095,2657 2098,2572 243,2619" rendition="Line" xml:id="facs_41_tr_2_tl_3"/>
+            <zone points="240,2794 1233,2794 1313,2851 2211,2820 2211,2722 2154,2719 240,2743" rendition="Line" xml:id="facs_41_tr_2_tl_4"/>
+            <zone points="243,2977 2206,2982 2252,2869 243,2897" rendition="Line" xml:id="facs_41_tr_2_tl_5"/>
+            <zone points="235,3101 2098,3093 2206,3086 2208,3021 235,3073" rendition="Line" xml:id="facs_41_tr_2_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0325.jpg" n="part2_p041.jpg" xml:id="img_0041" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p041.jpg"/>
+            
+            <ab facs="#facs_41_tr_1">
+               <lb facs="#facs_41_tr_1_tl_1" n="N001"/>[321]
+               <lb facs="#facs_41_tr_1_tl_2" n="N002"/>The phenomenon of double symbolization: -- You have the holy legend, the story of [the]
+               <lb facs="#facs_41_tr_1_tl_3" n="N003"/>Passion, of Jesus as the Christ. It is a ritual legend with, [like] all legend, a strong historical foundation,
+               <lb facs="#facs_41_tr_1_tl_4" n="N004"/>but with characteristics in which the religious symbols are always present---the symbol of the Christ,
+               <lb facs="#facs_41_tr_1_tl_5" n="N005"/>of the Son of Man itself, the symbols of death and resurrection, the symbols of representative
+               <lb facs="#facs_41_tr_1_tl_6" n="N006"/>suffering, etc. This is one realm of symbols. Now in the <hi style="font-style: italic;">Passion of Matthew</hi> by Bach, you have all
+               <lb facs="#facs_41_tr_1_tl_7" n="N007"/>this used, but it is used by another sphere of symbols, namely by musical symbols: sounds, rhythms,
+               <lb facs="#facs_41_tr_1_tl_8" n="N008"/>melodies. So when you go to a concert, in a church, where the <hi style="font-style: italic;">Passion of Matthew</hi> is performed,
+               <lb facs="#facs_41_tr_1_tl_9" n="N009"/>then you are in a rather dialectical situation---whether you know it or not, and whether you would call it
+            </ab>
+            <ab facs="#facs_41_tr_3">
+               <lb facs="#facs_41_tr_3_tl_1" n="N001"/>so or not. On the one hand, you have the central Christian symbols; on the other, you have great music
+               <lb facs="#facs_41_tr_3_tl_2" n="N002"/>of the Baroque, i.e., a special style of mysical [sic.] symbolization. Two things can happen to you, in this
+               <lb facs="#facs_41_tr_3_tl_3" n="N003"/>situation. The one thing is that you listen to the performance and are grasped by the power of Bach's
+               <lb facs="#facs_41_tr_3_tl_4" n="N004"/>music and that you judge whether the performance is good or bad, i.e., adequate to the musical
+               <lb facs="#facs_41_tr_3_tl_5" n="N005"/>demands or not. This is the aesthetic experience many people have who go to religious music. But
+               <lb facs="#facs_41_tr_3_tl_6" n="N006"/>when the churches started to ask people to come into the churches, when Bach's <hi style="font-style: italic;">Passion</hi> or
+            </ab>
+            <ab facs="#facs_41_tr_2">
+               <lb facs="#facs_41_tr_2_tl_3" n="N001"/>others were performed, then another idea was behind them: they wanted at the same time to mediate
+               <lb facs="#facs_41_tr_2_tl_4" n="N002"/>the religious power of the RELIGIOUS symbols, which appear doubly symbolized in the MUSICAL
+               <lb facs="#facs_41_tr_2_tl_5" n="N003"/>symbols. And the question in every visitor is always: do you listen in terms of your ultimate concern
+               <lb facs="#facs_41_tr_2_tl_6" n="N004"/>and DISregard the aesthetic form?---or do you listen in terms of an aesthetic judge who perhaps has
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

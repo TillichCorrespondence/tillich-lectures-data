@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p061</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p061</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_61">
+         <graphic url="TL-0061.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RVBSIYOOGBUCPOSYDVTTSCDF&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="262,257 262,3053 2215,3053 2215,257" rendition="TextRegion" xml:id="facs_61_tr_1">
+            <zone points="1175,311 1187,311 1194,318 1243,318 1257,308 1270,308 1270,269 1255,269 1236,250 1221,262 1209,265 1175,265" rendition="Line" xml:id="facs_61_tr_1_tl_1"/>
+            <zone points="269,476 493,481 534,502 592,471 964,486 964,422 869,422 837,449 813,425 745,449 682,420 629,444 595,415 269,427" rendition="Line" xml:id="facs_61_tr_1_tl_4" subtype="heading"/>
+            <zone points="575,646 862,692 1527,631 2122,646 2122,587 575,592" rendition="Line" xml:id="facs_61_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="260,731 2177,726 2180,680 2088,665 262,704" rendition="Line" xml:id="facs_61_tr_1_tl_6"/>
+            <zone points="566,842 2124,862 2124,782 2066,813 566,804" rendition="Line" xml:id="facs_61_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="269,939 364,983 1034,986 1600,964 1658,922 2090,930 2066,874 1927,869 269,891" rendition="Line" xml:id="facs_61_tr_1_tl_8"/>
+            <zone points="269,1017 447,1015 539,1061 702,1027 753,1061 1342,1058 1488,1010 1656,1051 2039,1029 2039,964 1738,986 1704,952 1478,988 269,978" rendition="Line" xml:id="facs_61_tr_1_tl_9"/>
+            <zone points="272,1112 323,1148 1325,1129 1427,1090 2141,1102 2141,1039 272,1058" rendition="Line" xml:id="facs_61_tr_1_tl_10"/>
+            <zone points="272,1194 1503,1221 1755,1172 2141,1180 2141,1138 1517,1141 1449,1102 272,1146" rendition="Line" xml:id="facs_61_tr_1_tl_11"/>
+            <zone points="269,1272 2042,1272 2042,1211 269,1231" rendition="Line" xml:id="facs_61_tr_1_tl_12"/>
+            <zone points="260,1355 2095,1350 2095,1306 1920,1291 260,1325" rendition="Line" xml:id="facs_61_tr_1_tl_13"/>
+            <zone points="265,1447 2134,1437 2134,1386 2078,1379 265,1401" rendition="Line" xml:id="facs_61_tr_1_tl_14"/>
+            <zone points="260,1529 2068,1510 2027,1466 1498,1457 1330,1493 260,1495" rendition="Line" xml:id="facs_61_tr_1_tl_15"/>
+            <zone points="267,1614 2054,1600 2020,1549 267,1558" rendition="Line" xml:id="facs_61_tr_1_tl_16"/>
+            <zone points="260,1699 2066,1685 2068,1622 262,1648" rendition="Line" xml:id="facs_61_tr_1_tl_17"/>
+            <zone points="265,1782 2083,1758 2032,1716 265,1721" rendition="Line" xml:id="facs_61_tr_1_tl_18"/>
+            <zone points="255,1862 2032,1852 2032,1794 255,1818" rendition="Line" xml:id="facs_61_tr_1_tl_19"/>
+            <zone points="252,1949 1796,1942 1796,1886 255,1906" rendition="Line" xml:id="facs_61_tr_1_tl_20"/>
+            <zone points="561,2114 2080,2109 2080,2051 561,2046" rendition="Line" xml:id="facs_61_tr_1_tl_21" subtype="paragraph"/>
+            <zone points="255,2231 2042,2197 2044,2141 257,2139" rendition="Line" xml:id="facs_61_tr_1_tl_22"/>
+            <zone points="257,2279 2027,2292 2027,2233 1981,2221 257,2238" rendition="Line" xml:id="facs_61_tr_1_tl_23"/>
+            <zone points="252,2372 333,2406 1257,2408 2148,2364 2148,2301 252,2326" rendition="Line" xml:id="facs_61_tr_1_tl_24"/>
+            <zone points="255,2452 2163,2444 2163,2398 2010,2386 255,2408" rendition="Line" xml:id="facs_61_tr_1_tl_25"/>
+            <zone points="248,2529 2097,2546 2097,2483 1903,2469 248,2493" rendition="Line" xml:id="facs_61_tr_1_tl_26"/>
+            <zone points="260,2627 1791,2656 1993,2602 2211,2612 2211,2561 2071,2551 260,2585" rendition="Line" xml:id="facs_61_tr_1_tl_27"/>
+            <zone points="257,2709 2143,2692 2143,2634 257,2665" rendition="Line" xml:id="facs_61_tr_1_tl_28"/>
+            <zone points="257,2796 2160,2813 2160,2729 1998,2719 1872,2753 257,2748" rendition="Line" xml:id="facs_61_tr_1_tl_29"/>
+            <zone points="248,2869 1088,2862 1136,2906 2022,2877 2022,2821 1855,2816 248,2843" rendition="Line" xml:id="facs_61_tr_1_tl_30"/>
+            <zone points="250,2962 2156,2947 2156,2903 2100,2889 252,2913" rendition="Line" xml:id="facs_61_tr_1_tl_31"/>
+            <zone points="252,3042 1034,3047 1034,2998 252,3000" rendition="Line" xml:id="facs_61_tr_1_tl_32"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0061.jpg" n="part1_p061.jpg" xml:id="img_0061" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p061.jpg"/>
+            
+            <ab facs="#facs_61_tr_1">
+               <lb facs="#facs_61_tr_1_tl_1" n="N001"/>[58]
+               <lb facs="#facs_61_tr_1_tl_4" n="N002"/>LECTURE VII -- Oct. 20, 1955
+               <lb facs="#facs_61_tr_1_tl_5" n="N003"/>There are several [written] questions [here] which I shall try to answer
+               <lb facs="#facs_61_tr_1_tl_6" n="N004"/>after I finish the lecture, and perhaps some of them will be answered implicitly anyhow.
+               <lb facs="#facs_61_tr_1_tl_7" n="N005"/>Now what I said in the last minute of Tuesday's lecture was that in all
+               <lb facs="#facs_61_tr_1_tl_8" n="N006"/>religions, there are movements of anti-mythological criticism, and that this refers not
+               <lb facs="#facs_61_tr_1_tl_9" n="N007"/>only to polytheism (which means a DIVIDED ultimacy), but that it also refers to
+               <lb facs="#facs_61_tr_1_tl_10" n="N008"/>attempts to take the monotheistic symbolism literally. I refer here to a concept which
+               <lb facs="#facs_61_tr_1_tl_11" n="N009"/>is as ugly as it is important--namely ''demythologization.'' Everybody breaks his tongue
+               <lb facs="#facs_61_tr_1_tl_12" n="N010"/>when he uses that word for the first time! Nevertheless, the word has been used
+               <lb facs="#facs_61_tr_1_tl_13" n="N011"/>and is now in the center of many theological discussions, especially on the European
+               <lb facs="#facs_61_tr_1_tl_14" n="N012"/>Continent. The word has been used in connection with the elaboration of the mythical
+               <lb facs="#facs_61_tr_1_tl_15" n="N013"/>elements in the stories and symbols of the Bible, especially of the New Testament-
+               <lb facs="#facs_61_tr_1_tl_16" n="N014"/>stories like those of the Paradise, of the Fall of Adam, of the Great Flood, of the
+               <lb facs="#facs_61_tr_1_tl_17" n="N015"/>Exodus from Egypt, of the Virginal Birth of the Messiah, many of His miracles, of
+               <lb facs="#facs_61_tr_1_tl_18" n="N016"/>His resurrection and ascension, of His expected return as the Judge of the universe--
+               <lb facs="#facs_61_tr_1_tl_19" n="N017"/>in short, all the stories in which divine-human interactions are told, are considered
+               <lb facs="#facs_61_tr_1_tl_20" n="N018"/>mythological in character and therefore as objects of demythologization.
+               <lb facs="#facs_61_tr_1_tl_21" n="N019"/>Now the question we must ask, in connection with our problems here
+               <lb facs="#facs_61_tr_1_tl_22" n="N020"/>(namely, religion and language) is: what does the word ''demythologization'' really
+               <lb facs="#facs_61_tr_1_tl_23" n="N021"/>mean? I would say it can mean something very sound and necessary, namely the
+               <lb facs="#facs_61_tr_1_tl_24" n="N022"/>necessity of acknowledging a symbol as a symbol, and a myth as a myth, and rejecting
+               <lb facs="#facs_61_tr_1_tl_25" n="N023"/>the transformation of a symbol or myth into a literal statement about things and events
+               <lb facs="#facs_61_tr_1_tl_26" n="N024"/>happening in time and space. On the other hand, the word can mean something very
+               <lb facs="#facs_61_tr_1_tl_27" n="N025"/>wrong. It can mean the REMOVAL of symbols and myths ALTOGETHER. And if it does
+               <lb facs="#facs_61_tr_1_tl_28" n="N026"/>mean this, then demythologization must be rejected. Then it becomes an attempt which
+               <lb facs="#facs_61_tr_1_tl_29" n="N027"/>can never be successful because symbol and myth are forms of the human consciousness
+               <lb facs="#facs_61_tr_1_tl_30" n="N028"/>which are always present in all of us. One can replace one myth by another one,
+               <lb facs="#facs_61_tr_1_tl_31" n="N029"/>but one cannot remove myth from man's spiritual life, for the myth is the combination
+               <lb facs="#facs_61_tr_1_tl_32" n="N030"/>of symbols of our ultimate concern.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

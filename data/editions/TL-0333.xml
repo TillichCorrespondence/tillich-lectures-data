@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p049</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p049</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_49">
+         <graphic url="TL-0333.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GVQQVLIHFUXMMGXIYJZYXBKE&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="289,296 2304,296 2304,1729 289,1729" rendition="TextRegion" xml:id="facs_49_tr_1">
+            <zone points="1130,355 1147,357 1157,367 1253,365 1253,289 1225,289 1200,315 1180,294 1165,307 1130,304" rendition="Line" xml:id="facs_49_tr_1_tl_1"/>
+            <zone points="287,521 2227,511 2227,458 2046,440 488,473 393,385 287,430" rendition="Line" xml:id="facs_49_tr_1_tl_2"/>
+            <zone points="287,679 2234,662 2234,599 287,619" rendition="Line" xml:id="facs_49_tr_1_tl_3"/>
+            <zone points="289,820 2282,815 2300,747 289,762" rendition="Line" xml:id="facs_49_tr_1_tl_4"/>
+            <zone points="277,966 2194,959 2194,903 279,918" rendition="Line" xml:id="facs_49_tr_1_tl_5"/>
+            <zone points="274,1117 1610,1120 1676,1117 1676,1059 274,1092" rendition="Line" xml:id="facs_49_tr_1_tl_7"/>
+            <zone points="284,1273 1955,1271 1983,1198 284,1215" rendition="Line" xml:id="facs_49_tr_1_tl_8"/>
+            <zone points="503,1417 1130,1444 2295,1412 2295,1371 503,1386" rendition="Line" xml:id="facs_49_tr_1_tl_9" subtype="paragraph"/>
+            <zone points="282,1570 1163,1575 1163,1512 1092,1535 1069,1512 705,1515 679,1540 649,1515 584,1540 546,1515 410,1517 385,1542 282,1520" rendition="Line" xml:id="facs_49_tr_1_tl_10"/>
+            <zone points="498,1721 1565,1709 2131,1764 2131,1673 2026,1641 498,1691" rendition="Line" xml:id="facs_49_tr_1_tl_11" subtype="paragraph"/>
+         </zone>
+         <zone points="286,1801 2280,1801 2280,2935 286,2935" rendition="TextRegion" xml:id="facs_49_tr_3">
+            <zone points="274,1872 1998,1870 2234,1860 2237,1802 277,1842" rendition="Line" xml:id="facs_49_tr_3_tl_1"/>
+            <zone points="272,2026 2275,2016 2275,1953 272,2000" rendition="Line" xml:id="facs_49_tr_3_tl_2"/>
+            <zone points="272,2182 2086,2182 2212,2164 2212,2111 274,2149" rendition="Line" xml:id="facs_49_tr_3_tl_3"/>
+            <zone points="287,2325 2104,2325 2164,2265 287,2277" rendition="Line" xml:id="facs_49_tr_3_tl_4"/>
+            <zone points="272,2473 2086,2476 2257,2463 2257,2403 272,2423" rendition="Line" xml:id="facs_49_tr_3_tl_5"/>
+            <zone points="274,2629 1983,2624 2134,2614 2136,2557 274,2599" rendition="Line" xml:id="facs_49_tr_3_tl_6"/>
+            <zone points="274,2783 2164,2775 2199,2700 274,2750" rendition="Line" xml:id="facs_49_tr_3_tl_7"/>
+            <zone points="274,2936 1402,2934 1530,2924 1530,2869 274,2899" rendition="Line" xml:id="facs_49_tr_3_tl_8"/>
+         </zone>
+         <zone points="35,3001 2301,3001 2301,3470 35,3470" rendition="TextRegion" xml:id="facs_49_tr_2">
+            <zone points="491,3080 2099,3077 2247,3067 2247,3004 493,3050" rendition="Line" xml:id="facs_49_tr_2_tl_1" subtype="paragraph"/>
+            <zone points="274,3246 949,3296 2292,3228 2295,3176 712,3256 277,3178" rendition="Line" xml:id="facs_49_tr_2_tl_2"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0333.jpg" n="part2_p049.jpg" xml:id="img_0049" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p049.jpg"/>
+            
+            <ab facs="#facs_49_tr_1">
+               <lb facs="#facs_49_tr_1_tl_1" n="N001"/>[328]
+               <lb facs="#facs_49_tr_1_tl_2" n="N002"/>and simply call it non-naturalistic. We have that in primitive art, we have it in the whole Byzantine
+               <lb facs="#facs_49_tr_1_tl_3" n="N003"/>period, we have it in the archaic Greek period, we have it in the Romanesque and largely still in the
+               <lb facs="#facs_49_tr_1_tl_4" n="N004"/>Gothic period. And we have a reaction of it against the natural and idealistic forms of the Renaissance
+               <lb facs="#facs_49_tr_1_tl_5" n="N005"/>in Baroque art. Then we have it again, after an increasing victory of naturalism, according to the
+               <lb facs="#facs_49_tr_1_tl_7" n="N006"/>technical-scientific world in which we live, the new and very powerful reaction against
+               <lb facs="#facs_49_tr_1_tl_8" n="N007"/>naturalism, from a non-naturalistic art in the 20th century, since 1900 almost exactly.
+               <lb facs="#facs_49_tr_1_tl_9" n="N008"/>Now this induces me also to give to all this quite another name, namely existentialistic art.
+               <lb facs="#facs_49_tr_1_tl_10" n="N009"/>The reason for this, I will show you later on.
+               <lb facs="#facs_49_tr_1_tl_11" n="N010"/>All this shows that we have two different ways. Now what does expressionistic or
+            </ab>
+            <ab facs="#facs_49_tr_3">
+               <lb facs="#facs_49_tr_3_tl_1" n="N001"/>non-naturalistic art do? In order to produce artistic symbols, it disrupts the naturalistic worldview.
+               <lb facs="#facs_49_tr_3_tl_2" n="N002"/>All primitive figures---take African masks, or figures, of men and women, or of animals---do not show
+               <lb facs="#facs_49_tr_3_tl_3" n="N003"/>show [sic.] the natural forms of things, but they show the forms of things in which the power of life, of
+               <lb facs="#facs_49_tr_3_tl_4" n="N004"/>vitality, which characterizes these primitive people, are expressed. And so you can go through.
+               <lb facs="#facs_49_tr_3_tl_5" n="N005"/>In early Greek art, we have not goddesses which are beautiful women, but who are really goddesses
+               <lb facs="#facs_49_tr_3_tl_6" n="N006"/>through which holiness shines in their ground, to which you go and which you do not observe
+               <lb facs="#facs_49_tr_3_tl_7" n="N007"/>as an object in time and space. Or in the Byzantine art, where the spiritual always shines through
+               <lb facs="#facs_49_tr_3_tl_8" n="N008"/>everything physical, as in the mosaics. Or the Romanesque art.
+            </ab>
+            <ab facs="#facs_49_tr_2">
+               <lb facs="#facs_49_tr_2_tl_1" n="N001"/>Now this shows that we have to make a distinction of types of art from the point of
+               <lb facs="#facs_49_tr_2_tl_2" n="N002"/>view of religion and art, according to the two principles: the one is non-naturalistic against naturalistic;
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

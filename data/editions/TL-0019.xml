@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p019</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p019</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_19">
+         <graphic url="TL-0019.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DTRNDXVOYXFQAJKIXMUGEZES&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="235,265 235,2998 2394,2998 2394,265" rendition="TextRegion" xml:id="facs_19_tr_2">
+            <zone points="1232,307 1245,304 1266,325 1304,325 1328,320 1325,248 1306,248 1304,253 1293,248 1269,269 1229,272" rendition="Line" xml:id="facs_19_tr_2_tl_1"/>
+            <zone points="283,472 1048,483 1085,517 2146,501 2146,437 2000,429 429,419 384,384 283,419" rendition="Line" xml:id="facs_19_tr_2_tl_2"/>
+            <zone points="285,571 2205,589 2202,531 285,515" rendition="Line" xml:id="facs_19_tr_2_tl_3"/>
+            <zone points="283,643 2176,707 2176,616 2069,603 283,595" rendition="Line" xml:id="facs_19_tr_2_tl_4"/>
+            <zone points="283,736 440,776 1338,728 2077,771 2109,701 280,677" rendition="Line" xml:id="facs_19_tr_2_tl_5"/>
+            <zone points="275,808 2258,835 2258,787 1472,752 941,792 275,768" rendition="Line" xml:id="facs_19_tr_2_tl_6"/>
+            <zone points="272,901 1434,901 1666,955 2144,960 2192,923 2192,869 1970,845 1365,877 973,835 933,869 272,848" rendition="Line" xml:id="facs_19_tr_2_tl_7"/>
+            <zone points="275,1011 2181,1029 2181,957 2085,944 275,925" rendition="Line" xml:id="facs_19_tr_2_tl_8"/>
+            <zone points="269,1106 909,1106 968,1066 2160,1122 2157,1037 2106,1027 267,1016" rendition="Line" xml:id="facs_19_tr_2_tl_9"/>
+            <zone points="272,1186 1981,1210 2176,1170 2176,1120 2037,1109 1992,1141 1824,1104 272,1106" rendition="Line" xml:id="facs_19_tr_2_tl_10"/>
+            <zone points="267,1234 480,1274 789,1274 909,1237 1027,1272 1146,1234 1189,1269 1306,1261 1304,1197 1210,1186 1152,1213 267,1189" rendition="Line" xml:id="facs_19_tr_2_tl_11"/>
+            <zone points="504,1325 573,1365 960,1368 1019,1328 1106,1376 1322,1325 1757,1378 1824,1330 2240,1341 2240,1285 504,1269" rendition="Line" xml:id="facs_19_tr_2_tl_12"/>
+            <zone points="259,1400 2234,1429 2234,1368 2005,1357 259,1346" rendition="Line" xml:id="facs_19_tr_2_tl_13"/>
+            <zone points="267,1488 712,1525 877,1485 2109,1506 2109,1458 1842,1437 267,1434" rendition="Line" xml:id="facs_19_tr_2_tl_14"/>
+            <zone points="256,1565 2042,1600 2152,1589 2149,1538 253,1517" rendition="Line" xml:id="facs_19_tr_2_tl_15"/>
+            <zone points="256,1653 2093,1696 2093,1624 256,1605" rendition="Line" xml:id="facs_19_tr_2_tl_16"/>
+            <zone points="251,1762 2197,1760 2160,1693 251,1701" rendition="Line" xml:id="facs_19_tr_2_tl_17"/>
+            <zone points="248,1813 2304,1853 2386,1845 2386,1792 245,1768" rendition="Line" xml:id="facs_19_tr_2_tl_18"/>
+            <zone points="261,1920 2173,1928 2173,1864 261,1856" rendition="Line" xml:id="facs_19_tr_2_tl_19"/>
+            <zone points="248,1989 2090,2018 2090,1960 2018,1954 248,1938" rendition="Line" xml:id="facs_19_tr_2_tl_20"/>
+            <zone points="245,2077 2178,2098 2178,2032 2069,2061 2032,2026 1920,2061 245,2024" rendition="Line" xml:id="facs_19_tr_2_tl_21"/>
+            <zone points="243,2154 2256,2189 2253,2112 2090,2144 891,2090 776,2130 243,2117" rendition="Line" xml:id="facs_19_tr_2_tl_22"/>
+            <zone points="237,2242 1277,2245 1400,2296 1717,2304 1850,2250 2328,2269 2325,2216 2050,2200 235,2189" rendition="Line" xml:id="facs_19_tr_2_tl_23"/>
+            <zone points="243,2330 1464,2330 1517,2373 1565,2341 2197,2346 2144,2290 243,2264" rendition="Line" xml:id="facs_19_tr_2_tl_24"/>
+            <zone points="229,2405 2266,2426 2237,2386 2045,2365 1962,2400 1840,2362 229,2376" rendition="Line" xml:id="facs_19_tr_2_tl_25"/>
+            <zone points="229,2493 443,2504 499,2490 589,2512 619,2498 717,2512 725,2453 688,2456 661,2437 648,2453 632,2440 365,2437 293,2461 259,2434 227,2445" rendition="Line" xml:id="facs_19_tr_2_tl_26"/>
+            <zone points="480,2597 2018,2629 2050,2536 477,2512" rendition="Line" xml:id="facs_19_tr_2_tl_27"/>
+            <zone points="221,2677 1509,2720 2032,2685 2032,2634 1600,2613 221,2608" rendition="Line" xml:id="facs_19_tr_2_tl_28"/>
+            <zone points="229,2752 1650,2786 1664,2709 227,2688" rendition="Line" xml:id="facs_19_tr_2_tl_29"/>
+            <zone points="253,2840 357,2838 357,2817 253,2820" rendition="Line" xml:id="facs_19_l"/>
+            <zone points="261,2909 2026,2952 2026,2885 368,2872 259,2834" rendition="Line" xml:id="facs_19_tr_2_tl_30"/>
+            <zone points="339,2978 1757,2981 1656,2933 339,2946" rendition="Line" xml:id="facs_19_tr_2_tl_31"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0019.jpg" n="part1_p019.jpg" xml:id="img_0019" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p019.jpg"/>
+            
+            <ab facs="#facs_19_tr_2">
+               <lb facs="#facs_19_tr_2_tl_1" n="N001"/>[16]
+               <lb facs="#facs_19_tr_2_tl_2" n="N002"/>the encounter with another person. They become persons in this encounter. There is a
+               <lb facs="#facs_19_tr_2_tl_3" n="N003"/>phenomenon--which I like to call "resistance"--which makes the person possible. Imagine
+               <lb facs="#facs_19_tr_2_tl_4" n="N004"/>for a moment if you were alone in the world, you could swallow the whole world into
+               <lb facs="#facs_19_tr_2_tl_5" n="N005"/>yourself without resistance, except that resistance which can be overcome technically.
+               <lb facs="#facs_19_tr_2_tl_6" n="N006"/>But there is the other person, and in the moment in which you encounter him, you cannot
+               <lb facs="#facs_19_tr_2_tl_7" n="N007"/>go on, you cannot swallow it--of course you can do it, you can make the other person
+               <lb facs="#facs_19_tr_2_tl_8" n="N008"/>into a piece of nature. But then you destroy yourself, because in the other person is an
+               <lb facs="#facs_19_tr_2_tl_9" n="N009"/>unconditional demand to accept him as another person. <rs type="keyword" ref="#Ethics">Everything unconditional is first
+               <lb break="no" facs="#facs_19_tr_2_tl_10" n="N010"/>experiences [sic.] in the ego-thou encounter, in the encounter of person with person. We call
+               <lb break="no" facs="#facs_19_tr_2_tl_11" n="N011"/>this the realm of morals, and its theory: ethics.</rs>
+               <lb facs="#facs_19_tr_2_tl_12" n="N012"/>The eighth function: social exchange, law and ethical reality, are existing not in
+               <lb facs="#facs_19_tr_2_tl_13" n="N013"/>the air, but in a powerful reality, in a community which has the power to be. We can call
+               <lb facs="#facs_19_tr_2_tl_14" n="N014"/>this community ''state,'' but this is a very late word, of the 17th and 18th centuries.
+               <lb facs="#facs_19_tr_2_tl_15" n="N015"/>We can call it with the Greeks, πολιτεια<hi style="superscript">1</hi>, namely the community which has the power
+               <lb facs="#facs_19_tr_2_tl_16" n="N016"/>to be and to act. Whether we call it this way or that way, it is also an ever-present
+               <lb facs="#facs_19_tr_2_tl_17" n="N017"/>reality of every culture. In the most primitive patriarchal society (as we read about it in
+               <lb facs="#facs_19_tr_2_tl_18" n="N018"/>the stories of the Patriarchs of the Old Testament), we have a state-like function--we have law, the
+               <lb facs="#facs_19_tr_2_tl_19" n="N019"/>power of action, a centered reality. Therefore the highest concepts of philosophers and
+               <lb facs="#facs_19_tr_2_tl_20" n="N020"/>theologians are derived directly or symbolically from this all-embracing cultural reality.
+               <lb facs="#facs_19_tr_2_tl_21" n="N021"/>Plato's <hi style="text-decoration: underline;">politeia</hi> is his philosophy of ALL culture, including education, science, music, and
+               <lb facs="#facs_19_tr_2_tl_22" n="N022"/>everything. Augustine's <hi style="font-style: italic;">De civitatis Dei et terrenae</hi> (''the society of God and of the earth'')
+               <lb facs="#facs_19_tr_2_tl_23" n="N023"/>are the symbols he uses for the fulfilment, and for the demonic opposition against the fulfilment.
+               <lb facs="#facs_19_tr_2_tl_24" n="N024"/>The kingdom of God in the Old and New Testaments is a political symbol applied to the
+               <lb facs="#facs_19_tr_2_tl_25" n="N025"/>universe. This means: the last and most embracing of cultural functions is the political one--
+               <lb facs="#facs_19_tr_2_tl_26" n="N026"/>it embraces everything.
+               <lb facs="#facs_19_tr_2_tl_27" n="N027"/>Now I am at the end of the organization of the lectures. The last four
+               <lb facs="#facs_19_tr_2_tl_28" n="N028"/>subjects will be discussed next semester, the first four in the first. And there is no
+               <lb facs="#facs_19_tr_2_tl_29" n="N029"/>religion in my enumeration, and I will tell you next Tuesday why.
+               <lb facs="#facs_19_l" n="N030"/>==
+               <lb facs="#facs_19_tr_2_tl_30" n="N031"/>(1) Cf. <hi style="font-style: italic;">Theological Dictionary of the New Testament</hi>, ed. Gerhard Friedrich. Vol. VI.
+               <lb facs="#facs_19_tr_2_tl_31" n="N032"/>pp. 525ff. -- Wm. B. Eerdmans Pub'g Co., Grand Rapids, 1968. -- (Ed.)
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

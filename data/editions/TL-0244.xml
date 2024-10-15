@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p244</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p244</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_244">
+         <graphic url="TL-0244.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MECUMBWWKBVLFZUUZUHFSBIS&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="32,271 32,3474 2385,3474 2385,271" rendition="TextRegion" xml:id="facs_244_tr_1">
+            <zone points="1211,335 1230,333 1237,340 1265,340 1272,347 1281,347 1289,340 1305,345 1317,333 1333,333 1333,293 1298,293 1289,283 1265,276 1248,293 1239,286 1211,288" rendition="Line" xml:id="facs_244_tr_1_tl_1"/>
+            <zone points="583,526 2211,564 2124,470 2072,517 583,489" rendition="Line" xml:id="facs_244_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="380,675 2251,725 2214,656 380,647" rendition="Line" xml:id="facs_244_tr_1_tl_3"/>
+            <zone points="385,838 2247,878 2247,814 382,779" rendition="Line" xml:id="facs_244_tr_1_tl_4"/>
+            <zone points="378,982 2079,1036 2145,1022 2145,965 375,951" rendition="Line" xml:id="facs_244_tr_1_tl_5"/>
+            <zone points="378,1149 621,1140 670,1187 1765,1185 1860,1222 1935,1180 1935,1119 375,1090" rendition="Line" xml:id="facs_244_tr_1_tl_6"/>
+            <zone points="571,1286 1791,1319 1888,1376 2301,1378 2379,1338 2377,1267 1718,1286 1652,1251 1600,1281 571,1232" rendition="Line" xml:id="facs_244_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="366,1435 2131,1484 2129,1421 366,1385" rendition="Line" xml:id="facs_244_tr_1_tl_8"/>
+            <zone points="361,1588 2124,1643 2098,1574 361,1560" rendition="Line" xml:id="facs_244_tr_1_tl_9"/>
+            <zone points="361,1756 2100,1782 2098,1725 1966,1699 1546,1739 361,1692" rendition="Line" xml:id="facs_244_tr_1_tl_10"/>
+            <zone points="356,1895 1121,1914 1182,1956 2209,1940 2207,1876 356,1862" rendition="Line" xml:id="facs_244_tr_1_tl_11"/>
+            <zone points="345,2058 1083,2115 1555,2115 1643,2074 2133,2110 2150,2039 342,2020" rendition="Line" xml:id="facs_244_tr_1_tl_12"/>
+            <zone points="340,2195 2209,2244 2207,2183 340,2166" rendition="Line" xml:id="facs_244_tr_1_tl_13"/>
+            <zone points="342,2355 2063,2395 2063,2334 340,2301" rendition="Line" xml:id="facs_244_tr_1_tl_14"/>
+            <zone points="337,2506 2079,2544 2107,2487 335,2452" rendition="Line" xml:id="facs_244_tr_1_tl_15"/>
+            <zone points="330,2657 2223,2690 2221,2634 1900,2620 330,2608" rendition="Line" xml:id="facs_244_tr_1_tl_16"/>
+            <zone points="330,2813 2145,2853 2145,2787 328,2756" rendition="Line" xml:id="facs_244_tr_1_tl_17"/>
+            <zone points="321,2964 1975,3007 2077,2995 2077,2945 319,2929" rendition="Line" xml:id="facs_244_tr_1_tl_18"/>
+            <zone points="309,3106 2032,3146 2032,3094 309,3082" rendition="Line" xml:id="facs_244_tr_1_tl_19"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0244.jpg" n="part1_p244.jpg" xml:id="img_0244" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p244.jpg"/>
+            
+            <ab facs="#facs_244_tr_1">
+               <lb facs="#facs_244_tr_1_tl_1" n="N001"/>[240]
+               <lb facs="#facs_244_tr_1_tl_2" n="N002"/>Now I want to go to a question the significance of which is very great and which in
+               <lb facs="#facs_244_tr_1_tl_3" n="N003"/>SOME way is a transition from this semester to the next one. That is the reason why l intended
+               <lb facs="#facs_244_tr_1_tl_4" n="N004"/>originally to discuss it in the next semester, but since the spatial and technical conditions in this
+               <lb facs="#facs_244_tr_1_tl_5" n="N005"/>room make the showing of slides very difficult---after inquiry---we decided last Thursday to
+               <lb facs="#facs_244_tr_1_tl_6" n="N006"/>postpone the problem of religion and the arts to the beginning of next semester.
+               <lb facs="#facs_244_tr_1_tl_7" n="N007"/>That leaves us now with the question of the <rs type="keyword" ref="#Doctrine_of_man">doctrine of man,</rs> or of the self-interpretation
+               <lb facs="#facs_244_tr_1_tl_8" n="N008"/>of man. I wouldn't call it "religion and psychology," because psychology has already been
+               <lb facs="#facs_244_tr_1_tl_9" n="N009"/>discussed implicitly in the relationship of religion and science---there we discussed not only
+               <lb facs="#facs_244_tr_1_tl_10" n="N010"/>physics but also biology and psychology, to a certain extent. The problem of these three
+               <lb facs="#facs_244_tr_1_tl_11" n="N011"/>remaining lectures is different from this. It is man as man, and the self-interpretation of man as
+               <lb facs="#facs_244_tr_1_tl_12" n="N012"/>man. Now that is a kind of summary of ALL other problems. To show this is my first task,
+               <lb facs="#facs_244_tr_1_tl_13" n="N013"/>I call the lecture today: "Man's search for himself and self-loss in his world." I want to do this
+               <lb facs="#facs_244_tr_1_tl_14" n="N014"/>in a dramatic form, and l believe that in order to UNDERSTAND history, and historical
+               <lb facs="#facs_244_tr_1_tl_15" n="N015"/>developments, one must have a vision of the developments which has a dramatic character.
+               <lb facs="#facs_244_tr_1_tl_16" n="N016"/>In a more abstract concept this has been called "<rs type="keyword" ref="#Dialectical">dialectical character </rs>of history." But "dramatic"
+               <lb facs="#facs_244_tr_1_tl_17" n="N017"/>and "<rs type="keyword" ref="#Dialectical">dialectic"</rs>, if applied to history, mean exactly the same thing. When <rs type="person">Marx</rs>, for instance,
+               <lb facs="#facs_244_tr_1_tl_18" n="N018"/>applied the <rs type="keyword" ref="#Dialectical">dialectical method </rs>to the development of industrial society, he actually gave a
+               <lb facs="#facs_244_tr_1_tl_19" n="N019"/>DRAMATIC interpretation of industrial society, its inner conflicts---which is a dramatic
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

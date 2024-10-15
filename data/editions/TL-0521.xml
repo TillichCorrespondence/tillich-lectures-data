@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part4_p047</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p047</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_47">
+         <graphic url="TL-0521.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AJTXDZTHKMBNMLSRSJPQZEPB&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="188,33 2263,33 2263,1553 188,1553" rendition="TextRegion" xml:id="facs_47_tr_2">
+            <zone points="173,99 201,102 227,92 268,94 268,0 173,0" rendition="Line" xml:id="facs_47_tr_2_tl_1"/>
+            <zone points="1135,342 1153,339 1163,349 1186,349 1191,344 1196,349 1260,349 1260,293 1224,291 1214,280 1204,278 1188,286 1183,283 1170,296 1135,298" rendition="Line" xml:id="facs_47_tr_2_tl_2"/>
+            <zone points="260,490 2157,502 2106,428 260,454" rendition="Line" xml:id="facs_47_tr_2_tl_3"/>
+            <zone points="260,655 1306,658 1336,648 1336,594 260,612" rendition="Line" xml:id="facs_47_tr_2_tl_4"/>
+            <zone points="459,793 2241,806 2241,745 459,742" rendition="Line" xml:id="facs_47_tr_2_tl_5"/>
+            <zone points="250,938 2213,951 2213,898 2124,887 250,892" rendition="Line" xml:id="facs_47_tr_2_tl_6"/>
+            <zone points="247,1086 2239,1102 2239,1051 1989,1043 247,1063" rendition="Line" xml:id="facs_47_tr_2_tl_7"/>
+            <zone points="250,1244 2239,1255 2257,1198 250,1216" rendition="Line" xml:id="facs_47_tr_2_tl_8"/>
+            <zone points="250,1390 2058,1413 2007,1341 1612,1329 250,1364" rendition="Line" xml:id="facs_47_tr_2_tl_9"/>
+            <zone points="247,1550 2109,1548 2109,1497 1877,1489 247,1497" rendition="Line" xml:id="facs_47_tr_2_tl_10"/>
+         </zone>
+         <zone points="154,1639 2388,1639 2388,3488 154,3488" rendition="TextRegion" xml:id="facs_47_tr_1">
+            <zone points="245,1693 2188,1711 2188,1650 2078,1637 245,1650" rendition="Line" xml:id="facs_47_tr_1_tl_1"/>
+            <zone points="314,1790 326,1790 334,1798 365,1793 390,1800 418,1793 454,1798 454,1729 441,1729 426,1744 405,1744 393,1731 382,1731 367,1744 342,1744 326,1759 314,1759" rendition="Line" xml:id="facs_47_tr_1_tl_2"/>
+            <zone points="431,1851 2190,1859 2206,1800 431,1823" rendition="Line" xml:id="facs_47_tr_1_tl_3"/>
+            <zone points="250,1854 268,1851 306,1854 309,1849 316,1854 332,1854 339,1846 352,1846 352,1798 334,1798 321,1788 291,1788 263,1816 247,1816" rendition="Line" xml:id="facs_47_tr_1_tl_4"/>
+            <zone points="240,2004 2259,2014 2259,1951 240,1958" rendition="Line" xml:id="facs_47_tr_1_tl_5"/>
+            <zone points="240,2155 2285,2162 2285,2104 2175,2099 240,2104" rendition="Line" xml:id="facs_47_tr_1_tl_6"/>
+            <zone points="232,2300 2257,2308 2257,2254 2048,2247 232,2259" rendition="Line" xml:id="facs_47_tr_1_tl_7"/>
+            <zone points="224,2445 418,2468 913,2461 913,2412 862,2397 421,2410 395,2387 224,2422" rendition="Line" xml:id="facs_47_tr_1_tl_8"/>
+            <zone points="1130,2453 2160,2453 2206,2484 2254,2468 2254,2407 1517,2387 1130,2428" rendition="Line" xml:id="facs_47_tr_1_tl_9"/>
+            <zone points="229,2601 1994,2614 2211,2604 2236,2553 229,2576" rendition="Line" xml:id="facs_47_tr_1_tl_10"/>
+            <zone points="237,2762 2180,2772 2211,2698 237,2723" rendition="Line" xml:id="facs_47_tr_1_tl_11"/>
+            <zone points="229,2907 2027,2917 2275,2902 2275,2851 229,2876" rendition="Line" xml:id="facs_47_tr_1_tl_12"/>
+            <zone points="224,3055 1530,3063 1530,3009 224,3009" rendition="Line" xml:id="facs_47_tr_1_tl_13"/>
+            <zone points="423,3221 1413,3282 2384,3244 2323,3177 1436,3233 423,3182" rendition="Line" xml:id="facs_47_tr_1_tl_14"/>
+            <zone points="643,3425 681,3414 750,3432 1007,3420 1023,3432 1074,3420 1074,3361 640,3366" rendition="Line" xml:id="facs_47_tr_1_tl_15"/>
+            <zone points="467,3437 482,3440 497,3427 510,3432 533,3420 551,3430 571,3430 581,3420 599,3432 627,3417 648,3417 650,3346 589,3343 561,3351 520,3348 505,3340 492,3351 469,3351" rendition="Line" xml:id="facs_47_tr_1_tl_16"/>
+            <zone points="1313,3425 1339,3422 1402,3476 1471,3471 1497,3442 1550,3476 1589,3432 1698,3437 1698,3391 1504,3391 1423,3374 1311,3386" rendition="Line" xml:id="facs_47_tr_1_tl_17"/>
+            <zone points="140,3432 201,3427 227,3440 250,3420 270,3427 309,3414 324,3425 375,3414 413,3435 439,3422 474,3435 474,3330 140,3335" rendition="Line" xml:id="facs_47_tr_1_tl_18"/>
+            <zone points="1148,3412 1173,3412 1193,3435 1201,3437 1250,3435 1252,3371 1221,3369 1211,3376 1188,3363 1178,3351 1150,3353" rendition="Line" xml:id="facs_47_tr_1_tl_19"/>
+            <zone points="1775,3455 1790,3455 1800,3445 1818,3453 1826,3448 1831,3453 1844,3442 1867,3442 1851,3335 1828,3335 1818,3328 1808,3335 1757,3335" rendition="Line" xml:id="facs_47_tr_1_tl_20"/>
+            <zone points="839,3455 872,3465 900,3442 921,3458 979,3445 992,3453 1015,3448 1035,3460 1046,3455 1053,3463 1079,3460 1079,3420 1038,3417 1020,3427 997,3417 974,3425 913,3420 872,3427 859,3414 839,3417" rendition="Line" xml:id="facs_47_tr_1_tl_21"/>
+            <zone points="556,3448 581,3455 602,3450 609,3458 638,3458 653,3468 666,3455 676,3458 696,3448 717,3460 762,3455 790,3442 790,3425 770,3427 750,3417 643,3422 604,3409 574,3430 556,3430" rendition="Line" xml:id="facs_47_tr_1_tl_22"/>
+            <zone points="235,3468 263,3463 273,3450 283,3455 309,3445 334,3460 342,3455 370,3460 375,3453 398,3460 413,3455 413,3422 400,3425 375,3414 360,3425 347,3420 324,3425 309,3414 265,3430 252,3422 232,3422" rendition="Line" xml:id="facs_47_tr_1_tl_23"/>
+            <zone points="477,3460 497,3458 502,3463 507,3463 510,3460 525,3460 541,3450 546,3455 564,3455 564,3427 548,3427 536,3420 518,3427 513,3422 507,3427 497,3427 490,3420 477,3420" rendition="Line" xml:id="facs_47_tr_1_tl_24"/>
+            <zone points="1038,3486 1063,3478 1155,3486 1165,3476 1214,3481 1232,3471 1367,3478 1367,3430 1331,3422 1290,3442 1267,3430 1201,3437 1168,3412 1153,3425 1117,3422 1079,3450 1038,3445" rendition="Line" xml:id="facs_47_tr_1_tl_25"/>
+            <zone points="1747,3465 1749,3468 1777,3465 1785,3476 1798,3481 1813,3468 1821,3468 1828,3478 1861,3478 1864,3445 1839,3442 1833,3437 1828,3442 1821,3435 1800,3445 1762,3409 1749,3409" rendition="Line" xml:id="facs_47_tr_1_tl_26"/>
+            <zone points="316,3483 329,3483 339,3478 344,3486 354,3486 360,3481 382,3486 398,3481 400,3486 416,3486 418,3453 395,3450 380,3458 375,3453 342,3455 334,3442 321,3442" rendition="Line" xml:id="facs_47_tr_1_tl_27"/>
+            <zone points="232,3476 245,3478 255,3486 268,3486 280,3478 291,3476 303,3491 326,3491 329,3448 316,3448 314,3445 309,3450 296,3448 288,3453 278,3453 278,3450 265,3453 265,3450 255,3450 247,3455 232,3453" rendition="Line" xml:id="facs_47_tr_1_tl_28"/>
+            <zone points="477,3486 523,3476 666,3488 762,3476 793,3486 790,3453 770,3445 714,3458 668,3440 650,3450 622,3440 592,3455 561,3442 546,3453 474,3450" rendition="Line" xml:id="facs_47_tr_1_tl_29"/>
+            <zone points="783,3486 824,3478 831,3486 882,3486 895,3476 915,3488 933,3481 984,3486 1017,3473 1048,3476 1048,3448 1028,3450 1020,3442 1007,3453 941,3450 926,3458 900,3445 887,3455 864,3445 852,3453 819,3442 783,3445" rendition="Line" xml:id="facs_47_tr_1_tl_30"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0521.jpg" n="part4_p047.jpg" xml:id="img_0047" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p047.jpg"/>
+            
+            <ab facs="#facs_47_tr_2">
+               <lb facs="#facs_47_tr_2_tl_1" n="N001"/>Monsieur,
+               <lb facs="#facs_47_tr_2_tl_2" n="N002"/>- i6
+               <lb facs="#facs_47_tr_2_tl_3" n="N003"/>of the myth, without asking questions, and the loss of this by theontical question, and then the
+               <lb facs="#facs_47_tr_2_tl_4" n="N004"/>poss slbility of regaining it on another level in maturity.
+               <lb facs="#facs_47_tr_2_tl_5" n="N005"/>Now the question was: where does the OUGHT come, the UGHT-to-be come? It comes
+               <lb facs="#facs_47_tr_2_tl_6" n="N006"/>in the moment in which actualization appears as a possibility. I could show this in the profundities
+               <lb facs="#facs_47_tr_2_tl_7" n="N007"/>of the myth of the Fall of Adam, in Genesis 3, where all the deepest psychological insightes about the
+               <lb facs="#facs_47_tr_2_tl_8" n="N008"/>transition from dreams innocence to actualization are given. There is the double desire to actualize
+               <lb facs="#facs_47_tr_2_tl_9" n="N009"/>oneself: vitally—the fruit which is beautiful to look at; and spiritually (with a small “s”)—.
+               <lb facs="#facs_47_tr_2_tl_10" n="N010"/>the possibility of knowledge and power over nature are symbolized in the Twee. At the same
+            </ab>
+            <ab facs="#facs_47_tr_1">
+               <lb facs="#facs_47_tr_1_tl_1" n="N001"/>time, man receivers the command NOT to actualize himself! He stands between the two anxious,
+               <lb facs="#facs_47_tr_1_tl_2" n="N002"/>called
+               <lb facs="#facs_47_tr_1_tl_3" n="N003"/>. it: the one which tells him not to actualize himself, and in the old myth which precedes
+               <lb facs="#facs_47_tr_1_tl_4" n="N004"/>as I
+               <lb facs="#facs_47_tr_1_tl_5" n="N005"/>perhaps the Genesis myth, it is the real fear of the gods, that man actualizes and becomes God Himself,
+               <lb facs="#facs_47_tr_1_tl_6" n="N006"/>and thisdunds through the story itself, when the gods who at that point are almost described as having
+               <lb facs="#facs_47_tr_1_tl_7" n="N007"/>a Council, a deliberation, where they decide finally that if man is NOT only knowing and HAVING
+               <lb facs="#facs_47_tr_1_tl_8" n="N008"/>Pbringing, but is also immortal, i.e.
+               <lb facs="#facs_47_tr_1_tl_9" n="N009"/>continues eating from the fruit which gives immortality,
+               <lb facs="#facs_47_tr_1_tl_10" n="N010"/>then he really is God,and therefore they drive him out and let him to be what he naturally is: finite¬
+               <lb facs="#facs_47_tr_1_tl_11" n="N011"/>and that means, returning to the soil. It is not that death is the PUNISHMENT, but it is the natural
+               <lb facs="#facs_47_tr_1_tl_12" n="N012"/>consequence, in this old, old story of man’s finitude. The punishment is only that he is separated from
+               <lb facs="#facs_47_tr_1_tl_13" n="N013"/>the infinite, symbolized in the fruit of eternity: the Twee of Life.
+               <lb facs="#facs_47_tr_1_tl_14" n="N014"/>Now all this has very profound elements of description of our present state, and so we must use it¬
+               <lb facs="#facs_47_tr_1_tl_15" n="N015"/>Mais elle est vrai a lʼhonneur ses mêmes.
+               <lb facs="#facs_47_tr_1_tl_16" n="N016"/>dʼavoir lʼautre
+               <lb facs="#facs_47_tr_1_tl_17" n="N017"/>Monsieur Mʼa beaucoup vous
+               <lb facs="#facs_47_tr_1_tl_18" n="N018"/>dʼune manière vieuse
+               <lb facs="#facs_47_tr_1_tl_19" n="N019"/>cette
+               <lb facs="#facs_47_tr_1_tl_20" n="N020"/>Monsieur
+               <lb facs="#facs_47_tr_1_tl_21" n="N021"/>dʼune manière beaucoup
+               <lb facs="#facs_47_tr_1_tl_22" n="N022"/>dʼune manière beaucoup
+               <lb facs="#facs_47_tr_1_tl_23" n="N023"/>de votre beau moi de
+               <lb facs="#facs_47_tr_1_tl_24" n="N024"/>dʼun autre
+               <lb facs="#facs_47_tr_1_tl_25" n="N025"/>Monsieur, que je mʼadresse
+               <lb facs="#facs_47_tr_1_tl_26" n="N026"/>quʼil en a
+               <lb facs="#facs_47_tr_1_tl_27" n="N027"/>dʼadresse à
+               <lb facs="#facs_47_tr_1_tl_28" n="N028"/>dʼune
+               <lb facs="#facs_47_tr_1_tl_29" n="N029"/>dʼavoir lʼautre beaucoup dʼune manié
+               <lb facs="#facs_47_tr_1_tl_30" n="N030"/>dʼavoir lʼautre vieux même ses
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

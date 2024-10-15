@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p108</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p108</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_108">
+         <graphic url="TL-0392.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SAAEELMUWUORFCHGNSLUOPZY&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="277,-2 2224,-2 2224,1452 277,1452" rendition="TextRegion" xml:id="facs_108_tr_2">
+            <zone points="1140,319 1152,319 1166,334 1181,331 1188,324 1198,334 1213,326 1220,334 1230,334 1247,319 1261,319 1264,265 1230,268 1220,258 1198,278 1179,278 1174,273 1164,282 1142,282" rendition="Line" xml:id="facs_108_tr_2_tl_2"/>
+            <zone points="273,487 1870,468 1946,458 1948,407 273,443" rendition="Line" xml:id="facs_108_tr_2_tl_3"/>
+            <zone points="468,614 2106,604 2121,548 468,572" rendition="Line" xml:id="facs_108_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="270,769 2045,750 2045,694 270,721" rendition="Line" xml:id="facs_108_tr_2_tl_5"/>
+            <zone points="265,903 1992,899 2089,886 2089,835 265,877" rendition="Line" xml:id="facs_108_tr_2_tl_6"/>
+            <zone points="263,1042 2116,1030 2116,981 2023,967 265,1003" rendition="Line" xml:id="facs_108_tr_2_tl_7"/>
+            <zone points="273,1205 1987,1174 2109,1164 2111,1118 275,1147" rendition="Line" xml:id="facs_108_tr_2_tl_8"/>
+            <zone points="265,1337 1834,1349 2218,1330 2218,1256 265,1305" rendition="Line" xml:id="facs_108_tr_2_tl_9"/>
+         </zone>
+         <zone points="74,1394 2149,1394 2149,2189 74,2189" rendition="TextRegion" xml:id="facs_108_tr_3">
+            <zone points="270,1473 1782,1461 1753,1390 1668,1427 273,1429" rendition="Line" xml:id="facs_108_tr_3_tl_1"/>
+            <zone points="270,1622 329,1668 1110,1612 1502,1658 2109,1597 2111,1546 270,1571" rendition="Line" xml:id="facs_108_tr_3_tl_2"/>
+            <zone points="265,1761 2116,1741 2116,1687 2023,1678 268,1709" rendition="Line" xml:id="facs_108_tr_3_tl_3"/>
+            <zone points="265,1902 1902,1897 2077,1877 2077,1834 265,1855" rendition="Line" xml:id="facs_108_tr_3_tl_5"/>
+            <zone points="485,2023 2116,2053 2116,1975 2058,1960 485,1994" rendition="Line" xml:id="facs_108_tr_3_tl_6"/>
+            <zone points="265,2179 2143,2165 2143,2099 265,2138" rendition="Line" xml:id="facs_108_tr_3_tl_8"/>
+         </zone>
+         <zone points="47,2242 2227,2242 2227,3479 47,3479" rendition="TextRegion" xml:id="facs_108_tr_1">
+            <zone points="265,2325 2184,2311 2223,2252 265,2301" rendition="Line" xml:id="facs_108_tr_1_tl_1"/>
+            <zone points="261,2515 2099,2454 2194,2445 2196,2384 261,2442" rendition="Line" xml:id="facs_108_tr_1_tl_2"/>
+            <zone points="265,2613 1870,2601 2150,2588 2150,2535 265,2569" rendition="Line" xml:id="facs_108_tr_1_tl_3"/>
+            <zone points="265,2749 2067,2739 2067,2681 268,2725" rendition="Line" xml:id="facs_108_tr_1_tl_4"/>
+            <zone points="270,2898 1982,2881 2070,2839 270,2851" rendition="Line" xml:id="facs_108_tr_1_tl_5"/>
+            <zone points="273,3046 1137,3078 1198,3029 2165,3012 2167,2956 273,2993" rendition="Line" xml:id="facs_108_tr_1_tl_6"/>
+         </zone>
+      </surface>
+   
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0392.jpg" n="part2_p108.jpg" xml:id="img_0108" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p108.jpg"/>
+            
+            <ab facs="#facs_108_tr_2">
+               <lb facs="#facs_108_tr_2_tl_2" n="N001"/>[387]
+               <lb facs="#facs_108_tr_2_tl_3" n="N002"/>see the whole tragedy of the force to adjustment, under the necessity of competition.
+               <lb facs="#facs_108_tr_2_tl_4" n="N003"/>This leads finally to the problem of advertisement. Advertisement is the means of
+               <lb facs="#facs_108_tr_2_tl_5" n="N004"/>conditioning the customer for special products. Now this means that the products are not
+               <lb facs="#facs_108_tr_2_tl_6" n="N005"/>conditioned by the needs felt by the customer, but by the need to sell, and especially by the
+               <lb facs="#facs_108_tr_2_tl_7" n="N006"/>need to sell ever-new things in a dynamic society--to OVER-sell, all the time, in order to keep
+               <lb facs="#facs_108_tr_2_tl_8" n="N007"/>going. This gives perversion of needs... Formerly there were needs, and there still are
+               <lb facs="#facs_108_tr_2_tl_9" n="N008"/>needs of all kind, and industry and work tried to serve them. Now there are needs produced which
+            </ab>
+            <ab facs="#facs_108_tr_3">
+               <lb facs="#facs_108_tr_3_tl_1" n="N001"/>didn’t exist before, and are produced in order to make selling possible. This distorts
+               <lb facs="#facs_108_tr_3_tl_2" n="N002"/>the fundamental meaning of production, to satisfy needs, almost into its opposite. We come
+               <lb facs="#facs_108_tr_3_tl_3" n="N003"/>into the vicious circle of gadgets, the vicious circle which produces means and ends, and these
+               <lb facs="#facs_108_tr_3_tl_5" n="N004"/>ends become means again, and there is no end of this circle of means and ends. If you
+               <lb facs="#facs_108_tr_3_tl_6" n="N005"/>ask ''For what?'', the answer would be ''For production.'' And if you ask ''Production
+               <lb facs="#facs_108_tr_3_tl_8" n="N006"/>for what?'', you would answer ''For gadgets.'' And so it goes on, and there is no ultimate end,
+            </ab>
+            <ab facs="#facs_108_tr_1">
+               <lb facs="#facs_108_tr_1_tl_1" n="N001"/>no overall end, as it was in a period in which needs decided what was to be produced. So we have
+               <lb facs="#facs_108_tr_1_tl_2" n="N002"/>a total society which doesn't do anything but produce, not in order to produce the fulfillment of
+               <lb facs="#facs_108_tr_1_tl_3" n="N003"/>needs, but in order to create new needs and then new productions for these new needs. This is
+               <lb facs="#facs_108_tr_1_tl_4" n="N004"/>the vicious circle in which we all become ruined because every real time for contemplation,
+               <lb facs="#facs_108_tr_1_tl_5" n="N005"/>for the ''vertical line'' towards the eternal, is taken away by the dynamic of this society in
+               <lb facs="#facs_108_tr_1_tl_6" n="N006"/>which the end, the purpose, is NOT the end, but becomes again a means for MORE production!
+            </ab>
+         
+        </div>
+      </body>
+    </text>
+</TEI>

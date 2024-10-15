@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p128</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p128</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_128">
+         <graphic url="TL-0128.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QDGEHFIZBHOPLCSEHNRFKUBY&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="50,255 50,3475 2173,3475 2173,255" rendition="TextRegion" xml:id="facs_128_tr_1">
+            <zone points="1132,298 1145,296 1162,309 1224,309 1231,303 1242,303 1235,230 1216,230 1200,245 1167,245 1156,261 1129,261" rendition="Line" xml:id="facs_128_tr_1_tl_1"/>
+            <zone points="365,453 1920,457 2060,499 2137,484 2135,404 362,382" rendition="Line" xml:id="facs_128_tr_1_tl_3"/>
+            <zone points="360,632 1388,643 1388,566 358,548" rendition="Line" xml:id="facs_128_tr_1_tl_5"/>
+            <zone points="365,747 833,756 831,707 557,694 519,709 477,705 449,681 362,696" rendition="Line" xml:id="facs_128_tr_1_tl_7"/>
+            <zone points="358,899 2080,924 2080,866 358,840" rendition="Line" xml:id="facs_128_tr_1_tl_10"/>
+            <zone points="340,1041 1235,1052 1361,1092 1602,1067 1600,1008 340,1008" rendition="Line" xml:id="facs_128_tr_1_tl_11"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0128.jpg" n="part1_p128.jpg" xml:id="img_0128" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p128.jpg"/>
+            
+            <ab facs="#facs_128_tr_1">
+               <lb facs="#facs_128_tr_1_tl_1" n="N001"/>[125]
+               <lb facs="#facs_128_tr_1_tl_3" n="N002"/><rs type="keyword" ref="#Thesis"><ultimate_concern>But after this has been said, and while this is done, one should, as [a] theologian, be completely</ultimate_concern>
+               <lb break="no" facs="#facs_128_tr_1_tl_5" n="N003"/><ultimate_concern>un-irritated by these processes and be certain of the fact that the ultimate itself is a screen</ultimate_concern>
+               <lb break="no" facs="#facs_128_tr_1_tl_7" n="N004"/><ultimate_concern>which makes all these attempts alone meaningful, and for that very reason the problem is not</ultimate_concern>
+               <lb break="no" facs="#facs_128_tr_1_tl_10" n="N005"/><ultimate_concern>to reject these attempts and to prove the truth of special contents, but to point to this one</ultimate_concern>
+               <lb break="no" facs="#facs_128_tr_1_tl_11" n="N006"/><ultimate_concern>fundamental experience, which I have called ''ultimate concern.'</ultimate_concern>'</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

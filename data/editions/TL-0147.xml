@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p147</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p147</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_147">
+         <graphic url="TL-0147.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PQBCDKNZSDYHJYTBFTJFVQKP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="289,288 289,3456 2406,3456 2406,288" rendition="TextRegion" xml:id="facs_147_tr_2">
+            <zone points="1095,362 1128,365 1136,373 1149,373 1157,367 1206,373 1208,367 1221,367 1221,316 1159,316 1141,298 1131,308 1095,308" rendition="Line" xml:id="facs_147_tr_2_tl_1"/>
+            <zone points="347,512 1488,520 1659,559 1731,525 2220,533 2220,481 1690,461 347,466" rendition="Line" xml:id="facs_147_tr_2_tl_2"/>
+            <zone points="339,662 2049,740 2163,693 2163,629 2034,621 339,629" rendition="Line" xml:id="facs_147_tr_2_tl_3"/>
+            <zone points="331,828 398,869 825,859 867,820 2282,836 2282,781 590,735 331,781" rendition="Line" xml:id="facs_147_tr_2_tl_4"/>
+            <zone points="326,965 1131,983 1216,1027 2174,1030 2259,996 2259,937 326,919" rendition="Line" xml:id="facs_147_tr_2_tl_5"/>
+            <zone points="323,1115 422,1177 704,1154 735,1185 2337,1149 2334,1092 2243,1089 323,1089" rendition="Line" xml:id="facs_147_tr_2_tl_7"/>
+            <zone points="323,1276 2399,1309 2373,1242 323,1239" rendition="Line" xml:id="facs_147_tr_2_tl_8"/>
+            <zone points="316,1426 2210,1446 2210,1384 316,1395" rendition="Line" xml:id="facs_147_tr_2_tl_9"/>
+            <zone points="313,1584 1954,1594 1954,1537 313,1529" rendition="Line" xml:id="facs_147_tr_2_tl_10"/>
+            <zone points="515,1723 2179,1736 2194,1669 512,1656" rendition="Line" xml:id="facs_147_tr_2_tl_11" subtype="paragraph"/>
+            <zone points="303,1778 2202,1806 2202,1757 2119,1739 1822,1770 303,1734" rendition="Line" xml:id="facs_147_tr_2_tl_12"/>
+            <zone points="310,1930 2158,1969 2158,1899 310,1881" rendition="Line" xml:id="facs_147_tr_2_tl_13"/>
+            <zone points="295,2104 489,2145 567,2086 1063,2124 2223,2109 2223,2047 295,2052" rendition="Line" xml:id="facs_147_tr_2_tl_14"/>
+            <zone points="295,2228 1428,2277 2106,2259 2106,2202 292,2202" rendition="Line" xml:id="facs_147_tr_2_tl_15"/>
+            <zone points="292,2383 2148,2412 2145,2347 290,2357" rendition="Line" xml:id="facs_147_tr_2_tl_16"/>
+            <zone points="285,2531 2158,2554 2132,2497 285,2505" rendition="Line" xml:id="facs_147_tr_2_tl_17"/>
+            <zone points="287,2678 2163,2714 2161,2650 2070,2644 683,2663 287,2626" rendition="Line" xml:id="facs_147_tr_2_tl_18"/>
+            <zone points="277,2882 2215,2862 2212,2797 274,2789" rendition="Line" xml:id="facs_147_tr_2_tl_19"/>
+            <zone points="285,2989 435,3009 510,2994 919,3004 919,2952 683,2939 530,2945 512,2963 492,2942 285,2939" rendition="Line" xml:id="facs_147_tr_2_tl_20"/>
+            <zone points="479,3139 1752,3146 1985,3206 2215,3177 2215,3113 2070,3097 590,3108 479,3069" rendition="Line" xml:id="facs_147_tr_2_tl_21" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0147.jpg" n="part1_p147.jpg" xml:id="img_0147" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p147.jpg"/>
+            
+            <ab facs="#facs_147_tr_2">
+               <lb facs="#facs_147_tr_2_tl_1" n="N001"/>[144]
+               <lb facs="#facs_147_tr_2_tl_2" n="N002"/>can test the experiment by which his predecessor came to a special result and can find out the
+               <lb facs="#facs_147_tr_2_tl_3" n="N003"/>mistakes or the truth of them. Nothing like this can be done in <rs type="keyword" ref="#History">history</rs>, not even in biology,
+               <lb facs="#facs_147_tr_2_tl_4" n="N004"/>not even in the psychology of an individual person, because even the conditions in which an individual
+               <lb facs="#facs_147_tr_2_tl_5" n="N005"/>lives are beyond repetition: his life process has gone beyond the moment in which you have first
+               <lb facs="#facs_147_tr_2_tl_7" n="N006"/>observed him. He is not the same tomorrow that he was today. Therefore you cannot subject him to
+               <lb facs="#facs_147_tr_2_tl_8" n="N007"/>a test of repetition. Or you can do it only in some realms which can be abstracted from his life process,
+               <lb facs="#facs_147_tr_2_tl_9" n="N008"/>and all test methods are based on such abstractions. But if you want to know the total life of a
+               <lb facs="#facs_147_tr_2_tl_10" n="N009"/>person, then this total life cannot be repeated in any moment of its whole process.
+               <lb facs="#facs_147_tr_2_tl_11" n="N010"/>And so it is with history as a whole. Historical events are not subject to experiment.
+               <lb facs="#facs_147_tr_2_tl_12" n="N011"/>But they are subject to an experience which is, to a certain degree verifiable, or verifying. Here
+               <lb facs="#facs_147_tr_2_tl_13" n="N012"/>we have an analogy to the physical experiment in historical research, namely the dealing with
+               <lb facs="#facs_147_tr_2_tl_14" n="N013"/>documents. If, concerning the same event, you have two independent documents which point to
+               <lb facs="#facs_147_tr_2_tl_15" n="N014"/>the same fact, then you have a high degree of probability that the assertion is verified. But
+               <lb facs="#facs_147_tr_2_tl_16" n="N015"/>I would say "a high degree" of probability---you never have more than this, in ANY historical
+               <lb facs="#facs_147_tr_2_tl_17" n="N016"/>research, even if it refers to the last year of your own life, and your own personal experiences.
+               <lb facs="#facs_147_tr_2_tl_18" n="N017"/>You can ask others who were with you, you can ask your memory, you can do a lot of things,
+               <lb facs="#facs_147_tr_2_tl_19" n="N018"/>but you can never trespass probability, you never can reach that amount of verifiable hypotheses
+               <lb facs="#facs_147_tr_2_tl_20" n="N019"/>which you can reach in science.
+               <lb facs="#facs_147_tr_2_tl_21" n="N020"/>What does history do, in its work? What does the historian do? He does three things---
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p137</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p137</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_137">
+         <graphic url="TL-0137.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WDDLJHUAYYIFABWNZMWERBDT&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="59,189 59,3473 2385,3473 2385,189" rendition="TextRegion" xml:id="facs_137_tr_1">
+            <zone points="1103,253 1133,253 1145,262 1178,262 1184,256 1195,265 1217,265 1214,173 1189,173 1178,162 1164,159 1139,178 1100,178" rendition="Line" xml:id="facs_137_tr_1_tl_1"/>
+            <zone points="312,535 2275,501 2273,418 727,429 443,409 309,343" rendition="Line" xml:id="facs_137_tr_1_tl_2"/>
+            <zone points="309,627 2334,649 2309,593 2139,579 309,582" rendition="Line" xml:id="facs_137_tr_1_tl_3"/>
+            <zone points="306,769 975,788 1053,838 2337,805 2337,710 2281,705 1571,724 1387,685 1267,724 306,741" rendition="Line" xml:id="facs_137_tr_1_tl_4"/>
+            <zone points="58,986 287,930 354,966 2242,958 2298,944 2298,886 1145,883 1100,838 991,883 354,880 262,791 56,827" rendition="Line" xml:id="facs_137_tr_1_tl_5"/>
+            <zone points="301,1075 1117,1159 1585,1111 1635,1156 1833,1120 2275,1156 2275,1033 1704,1053 1629,1008 1011,1005 301,1047" rendition="Line" xml:id="facs_137_tr_1_tl_6"/>
+            <zone points="295,1225 2078,1256 2348,1245 2348,1192 292,1178" rendition="Line" xml:id="facs_137_tr_1_tl_8"/>
+            <zone points="304,1406 365,1445 891,1412 966,1443 1030,1387 1120,1443 1345,1443 1518,1390 2203,1395 2200,1342 1824,1320 301,1334" rendition="Line" xml:id="facs_137_tr_1_tl_10"/>
+            <zone points="298,1540 624,1532 702,1574 1253,1535 2261,1557 2261,1501 2206,1496 298,1487" rendition="Line" xml:id="facs_137_tr_1_tl_12"/>
+            <zone points="290,1690 2309,1707 2306,1643 290,1632" rendition="Line" xml:id="facs_137_tr_1_tl_13"/>
+            <zone points="290,1835 961,1835 1117,1894 2242,1874 2242,1794 290,1782" rendition="Line" xml:id="facs_137_tr_1_tl_14"/>
+            <zone points="287,1988 719,1997 780,2053 1604,2039 1718,1994 2312,2011 2312,1944 287,1958" rendition="Line" xml:id="facs_137_tr_1_tl_15"/>
+            <zone points="281,2139 2217,2158 2381,2150 2378,2092 278,2083" rendition="Line" xml:id="facs_137_tr_1_tl_16"/>
+            <zone points="276,2286 2323,2300 2323,2245 276,2256" rendition="Line" xml:id="facs_137_tr_1_tl_17"/>
+            <zone points="276,2440 437,2442 479,2484 1220,2465 1434,2501 1521,2442 2342,2454 2342,2392 276,2381" rendition="Line" xml:id="facs_137_tr_1_tl_19"/>
+            <zone points="267,2590 2203,2612 2203,2548 2086,2537 267,2537" rendition="Line" xml:id="facs_137_tr_1_tl_20"/>
+            <zone points="265,2735 1738,2749 1794,2791 2066,2791 2133,2749 2133,2693 2050,2690 265,2707" rendition="Line" xml:id="facs_137_tr_1_tl_21"/>
+            <zone points="362,2888 2339,2905 2339,2846 362,2860" rendition="Line" xml:id="facs_137_tr_1_tl_22" subtype="paragraph"/>
+            <zone points="259,3041 2312,3061 2312,2991 259,2986" rendition="Line" xml:id="facs_137_tr_1_tl_24"/>
+            <zone points="262,3208 1078,3264 2273,3261 2270,3192 1095,3214 944,3155 446,3175 262,3141" rendition="Line" xml:id="facs_137_tr_1_tl_25"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0137.jpg" n="part1_p137.jpg" xml:id="img_0137" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p137.jpg"/>
+            
+            <ab facs="#facs_137_tr_1">
+               <lb facs="#facs_137_tr_1_tl_1" n="N001"/>[134]
+               <lb facs="#facs_137_tr_1_tl_2" n="N002"/>of feeling responsibility, guilt, hope, ecstasy, <ultimate_concern>ultimate concern</ultimate_concern>. And there is no materialistic theory
+               <lb facs="#facs_137_tr_1_tl_3" n="N003"/>which can prove to us that we cannot have this--so we simply have it! And if somebody nevertheless
+               <lb facs="#facs_137_tr_1_tl_4" n="N004"/>tries to do it, then we can tell him, ''Now listen, you want to tell us the truth, with your materialistic
+               <lb facs="#facs_137_tr_1_tl_5" n="N005"/>interpretation of man. What is truth?" And in this moment, if he really understands the meaning of
+               <lb facs="#facs_137_tr_1_tl_6" n="N006"/>this question--''Truth is the result of deliberation and decision, of the freedom of research and the
+               <lb facs="#facs_137_tr_1_tl_8" n="N007"/>freedom of error''-- now this lies in a dimension which has nothing to do, although it may be <hi style="text-decoration: underline;">based on</hi>,
+               <lb facs="#facs_137_tr_1_tl_10" n="N008"/>the movement of atoms and electrons. I don't deny that it is based on them, that without them
+               <lb facs="#facs_137_tr_1_tl_12" n="N009"/>it doesn’t exist. But the interesting thing is that these movements of electrons--or formerly atoms,
+               <lb facs="#facs_137_tr_1_tl_13" n="N010"/>in the primitive materialistic period--that these have the possibility of producing the atomistic theory
+               <lb facs="#facs_137_tr_1_tl_14" n="N011"/>and the materialistic philosophy. No materialist ever has explained how materialism can produce a
+               <lb facs="#facs_137_tr_1_tl_15" n="N012"/>materialistic theory, how matter and its movement can produce this. Or he must do something which,
+               <lb facs="#facs_137_tr_1_tl_16" n="N013"/>today, <rs type="keyword" ref="#Naturalism">naturalism</rs> does--that is a very interesting movement, which shows how right we are here, in these
+               <lb facs="#facs_137_tr_1_tl_17" n="N014"/>discussions. The naturalists explained everything away. Now they have seen this is an impossible state
+               <lb facs="#facs_137_tr_1_tl_19" n="N015"/>because they would explain away themselves and their theory... So they say: What we mean by nature
+               <lb facs="#facs_137_tr_1_tl_20" n="N016"/>is that it includes the aesthetic function of man, the possibility of creating works of art and even,
+               <lb facs="#facs_137_tr_1_tl_21" n="N017"/>if you want, they hesitatingly admit something like ''religious experience.'' All this is nature.
+               <lb facs="#facs_137_tr_1_tl_22" n="N018"/>All right! Let us call all this ''nature'' instead of ''universe,'' ''totality,'' or ''reality''--I don’t mind.
+               <lb facs="#facs_137_tr_1_tl_24" n="N019"/>But in the moment in which naturalism has ceased to be reductionist--reducing everything to one level
+               <lb facs="#facs_137_tr_1_tl_25" n="N020"/>of reality--it has seen the impossibility in itself to refute things like what we called <ultimate_concern>ultimate concern</ultimate_concern>.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

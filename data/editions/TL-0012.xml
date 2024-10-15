@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p012</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p012</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_12">
+         <graphic url="TL-0012.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LCAHBNHHHXIVGYQRKZOSGPWV&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="1152,266 1349,266 1349,375 1152,375" rendition="TextRegion" xml:id="facs_12_r">
+            <zone points="1176,359 1314,361 1315,341 1176,339" rendition="Line" xml:id="facs_12_l"/>
+         </zone>
+         <zone points="1693,454 44,454 44,3267 2341,3245 2346,454" rendition="TextRegion" xml:id="facs_12_tr_1">
+            <zone points="276,516 322,550 653,508 2098,519 2098,454 1891,457 1821,415 1682,459 1228,421 828,467 276,454" rendition="Line" xml:id="facs_12_tr_1_tl_1"/>
+            <zone points="266,593 1125,593 1223,632 1272,591 2128,586 2128,524 266,547" rendition="Line" xml:id="facs_12_tr_1_tl_2"/>
+            <zone points="268,673 658,710 725,668 1775,671 1984,722 2343,684 2343,619 2072,599 1744,635 1086,593 268,611" rendition="Line" xml:id="facs_12_tr_1_tl_3"/>
+            <zone points="271,771 299,774 338,769 353,779 384,774 382,704 356,704 351,710 335,710 328,717 320,717 302,704 281,717 268,717" rendition="Line" xml:id="facs_12_tr_1_tl_4"/>
+            <zone points="506,846 818,882 854,846 1305,885 1672,838 2098,875 2098,733 1950,787 1674,756 1277,805 1024,756 962,702 777,789 506,789" rendition="Line" xml:id="facs_12_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="276,947 2242,918 2242,869 1948,857 276,859" rendition="Line" xml:id="facs_12_tr_1_tl_6"/>
+            <zone points="266,1011 815,1042 2250,1011 2250,944 2010,931 1360,968 1256,931 1089,965 266,949" rendition="Line" xml:id="facs_12_tr_1_tl_7"/>
+            <zone points="263,1091 470,1138 1035,1122 1068,1089 1226,1127 1404,1091 2286,1122 2286,1024 2113,1047 2036,1009 263,1047" rendition="Line" xml:id="facs_12_tr_1_tl_8"/>
+            <zone points="268,1187 333,1220 908,1189 1112,1220 1146,1187 2098,1176 2098,1117 1757,1133 1695,1091 1571,1127 268,1135" rendition="Line" xml:id="facs_12_tr_1_tl_9"/>
+            <zone points="266,1267 2327,1275 2327,1195 2015,1184 266,1220" rendition="Line" xml:id="facs_12_tr_1_tl_10"/>
+            <zone points="266,1365 356,1396 1006,1344 1889,1365 1889,1298 1767,1269 266,1290" rendition="Line" xml:id="facs_12_tr_1_tl_11"/>
+            <zone points="513,1442 1437,1473 2281,1442 2283,1378 2131,1344 2074,1385 1961,1344 1930,1375 516,1380" rendition="Line" xml:id="facs_12_tr_1_tl_12" subtype="paragraph"/>
+            <zone points="266,1525 622,1514 751,1556 1285,1507 2098,1525 2159,1507 2162,1450 1187,1473 268,1429" rendition="Line" xml:id="facs_12_tr_1_tl_13"/>
+            <zone points="268,1618 707,1602 1326,1659 1832,1587 2307,1592 2309,1545 2167,1517 1481,1533 1406,1571 1313,1535 271,1556" rendition="Line" xml:id="facs_12_tr_1_tl_14"/>
+            <zone points="261,1685 676,1687 702,1716 820,1680 1017,1685 1050,1711 1109,1685 1109,1641 1029,1623 519,1643 390,1607 261,1646" rendition="Line" xml:id="facs_12_tr_1_tl_16"/>
+            <zone points="508,1858 2159,1845 2159,1752 1615,1783 1499,1736 978,1811 508,1765" rendition="Line" xml:id="facs_12_tr_1_tl_17" subtype="paragraph"/>
+            <zone points="258,1953 2203,1969 2203,1863 1873,1845 1615,1889 1401,1855 1326,1894 857,1858 573,1894 495,1855 258,1891" rendition="Line" xml:id="facs_12_tr_1_tl_18"/>
+            <zone points="268,2051 2234,2023 2234,1948 668,1984 537,1948 426,1987 268,1953" rendition="Line" xml:id="facs_12_tr_1_tl_19"/>
+            <zone points="268,2131 619,2108 715,2149 1081,2103 1226,2147 1318,2100 1406,2131 2227,2098 2227,2036 2159,2018 1976,2059 1863,2020 1424,2056 1370,2018 1122,2064 1066,2025 908,2061 787,2023 702,2061 268,2049" rendition="Line" xml:id="facs_12_tr_1_tl_20"/>
+            <zone points="266,2196 983,2227 1223,2180 1427,2211 1473,2178 2263,2180 2219,2098 1649,2141 266,2131" rendition="Line" xml:id="facs_12_tr_1_tl_21"/>
+            <zone points="261,2278 2141,2260 2141,2219 1935,2221 1873,2180 1164,2229 261,2196" rendition="Line" xml:id="facs_12_tr_1_tl_22"/>
+            <zone points="268,2348 395,2392 485,2356 650,2389 802,2386 802,2294 733,2288 712,2309 684,2286 619,2301 583,2276 526,2301 268,2294" rendition="Line" xml:id="facs_12_tr_1_tl_23"/>
+            <zone points="506,2451 1716,2456 1989,2420 2157,2454 2157,2371 1987,2353 1277,2389 1109,2358 947,2405 506,2371" rendition="Line" xml:id="facs_12_tr_1_tl_24" subtype="paragraph"/>
+            <zone points="266,2531 1076,2565 1321,2518 1453,2552 2175,2516 2175,2451 2110,2436 1215,2436 1078,2485 947,2438 544,2485 266,2451" rendition="Line" xml:id="facs_12_tr_1_tl_25"/>
+            <zone points="263,2626 2325,2614 2325,2541 2232,2523 1076,2565 263,2531" rendition="Line" xml:id="facs_12_tr_1_tl_26"/>
+            <zone points="261,2706 2309,2691 2309,2626 2105,2598 1809,2647 261,2626" rendition="Line" xml:id="facs_12_tr_1_tl_27"/>
+            <zone points="261,2789 1814,2761 2221,2804 2221,2706 2134,2691 261,2717" rendition="Line" xml:id="facs_12_tr_1_tl_28"/>
+            <zone points="261,2877 495,2900 738,2853 955,2897 1721,2897 2214,2848 2214,2804 1896,2766 1321,2812 261,2799" rendition="Line" xml:id="facs_12_tr_1_tl_29"/>
+            <zone points="266,2964 2193,2946 2193,2884 2131,2872 266,2897" rendition="Line" xml:id="facs_12_tr_1_tl_31"/>
+            <zone points="253,3042 557,3078 1256,3016 1623,3057 2206,3039 2206,2946 1731,2982 1628,2949 617,2993 253,2967" rendition="Line" xml:id="facs_12_tr_1_tl_32"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0012.jpg" n="part1_p012.jpg" xml:id="img_0012" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p012.jpg"/>
+            
+            <ab facs="#facs_12_r">
+               <lb facs="#facs_12_l" n="N001"/>[9]
+            </ab>
+            <ab facs="#facs_12_tr_1">
+               <lb facs="#facs_12_tr_1_tl_1" n="N001"/>which has a power-of-being independently of the act of creation, which has an impact
+               <lb facs="#facs_12_tr_1_tl_2" n="N002"/>on other people which can be acknowledged, at least sometimes, by the community of
+               <lb facs="#facs_12_tr_1_tl_3" n="N003"/>those who are under its impact. That is what I meant when I spoke of the power-of independent-
+               <lb facs="#facs_12_tr_1_tl_4" n="N004"/>being.
+               <lb facs="#facs_12_tr_1_tl_5" n="N005"/>Take another example from the practical realm, e.g., a political movement.
+               <lb facs="#facs_12_tr_1_tl_6" n="N006"/>Many political movements are going on in [our] time--the witness to this is my wastepaper
+               <lb facs="#facs_12_tr_1_tl_7" n="N007"/>basket! -- These political movements, which are immediately thrown into this most important
+               <lb facs="#facs_12_tr_1_tl_8" n="N008"/>tool of existence [laughter], have no independent power-of-being, they don’t reach the state of
+               <lb facs="#facs_12_tr_1_tl_9" n="N009"/>independent cultural realities. But sometimes it happens that out of such a movement,
+               <lb facs="#facs_12_tr_1_tl_10" n="N010"/>something comes out which changes the surface of the earth, as for instance the Nazi movement,
+               <lb facs="#facs_12_tr_1_tl_11" n="N011"/>the Communist movement, and, in earlier periods, the democratic movement.
+               <lb facs="#facs_12_tr_1_tl_12" n="N012"/>Now this is, then, a cultural reality which has the power of independent existence,
+               <lb facs="#facs_12_tr_1_tl_13" n="N013"/>born out of the chaotic social situation on the one hand, and a <rs type="keyword" ref="#Creativity">creative</rs> political subject
+               <lb facs="#facs_12_tr_1_tl_14" n="N014"/>on the other hand. Out of this kind of encounters, all culture is created. That is what I meant
+               <lb facs="#facs_12_tr_1_tl_16" n="N015"/>and I hope this answered the question.
+               <lb facs="#facs_12_tr_1_tl_17" n="N016"/>I said that the first and most important and all-permeating cultural creation is
+               <lb facs="#facs_12_tr_1_tl_18" n="N017"/><rs type="keyword" ref="#Language">language</rs>, because language has the power of liberating man from the bondage to the given
+               <lb facs="#facs_12_tr_1_tl_19" n="N018"/>in time and space. He can transcend it, he can produce abstractions, universals, and language
+               <lb facs="#facs_12_tr_1_tl_20" n="N019"/>lives in universals and their connections. Nothing is more astonishing than this power of the
+               <lb facs="#facs_12_tr_1_tl_21" n="N020"/>human mind to see and to create universals. This power is language. And therefore I said the
+               <lb facs="#facs_12_tr_1_tl_22" n="N021"/>first section of our lectures, with which we shall start next week, will be the problem:
+               <lb facs="#facs_12_tr_1_tl_23" n="N022"/>"Religion and Language."
+               <lb facs="#facs_12_tr_1_tl_24" n="N023"/>I come now to the activity of man towards reality in his encounter with it,
+               <lb facs="#facs_12_tr_1_tl_25" n="N024"/>which we can call the transformation of reality, the transforming or technical function of
+               <lb facs="#facs_12_tr_1_tl_26" n="N025"/>the human mind. Language makes it possible that man produces tools. There are very interesting
+               <lb facs="#facs_12_tr_1_tl_27" n="N026"/>experiments about the way in which animals, especially higher apes, use tools. If you take their
+               <lb facs="#facs_12_tr_1_tl_28" n="N027"/>food away from them, and give them a stick, they use the stick to get the food. But they
+               <lb facs="#facs_12_tr_1_tl_29" n="N028"/>don’t produce a tool as a tool, and here the most important word is the word "as." Man
+               <lb facs="#facs_12_tr_1_tl_31" n="N029"/>produces tools as tools, and therefore he has been defined, rightly--at least in ONE of his
+               <lb facs="#facs_12_tr_1_tl_32" n="N030"/>functions--as homo faber, "he who fabricates," the man who is able to fabricate tools, and
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

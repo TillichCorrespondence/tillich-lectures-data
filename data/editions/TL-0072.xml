@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p072</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p072</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_72">
+         <graphic url="TL-0072.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZAOSGIBLWNUDVWZPDPFNFZEU&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="256,80 256,3488 2310,3488 2310,80" rendition="TextRegion" xml:id="facs_72_tr_2">
+            <zone points="1120,284 1138,284 1147,294 1175,291 1177,296 1192,294 1199,286 1212,289 1216,220 1212,217 1202,217 1182,234 1167,225 1142,247 1123,249" rendition="Line" xml:id="facs_72_tr_2_tl_3"/>
+            <zone points="323,444 575,444 609,476 688,444 1056,461 1054,390 965,392 940,417 883,395 846,422 777,392 728,417 691,380 587,417 545,392 363,390 323,417" rendition="Line" xml:id="facs_72_tr_2_tl_6" subtype="heading"/>
+            <zone points="575,612 2073,629 2033,568 575,563" rendition="Line" xml:id="facs_72_tr_2_tl_7" subtype="paragraph"/>
+            <zone points="321,706 1291,701 1382,743 1974,758 2063,718 2063,664 1947,651 321,671" rendition="Line" xml:id="facs_72_tr_2_tl_8"/>
+            <zone points="321,785 2194,797 2194,753 2129,738 321,758" rendition="Line" xml:id="facs_72_tr_2_tl_9"/>
+            <zone points="323,873 2307,908 2307,836 2149,824 323,841" rendition="Line" xml:id="facs_72_tr_2_tl_10"/>
+            <zone points="323,945 2233,967 2184,911 323,901" rendition="Line" xml:id="facs_72_tr_2_tl_11"/>
+            <zone points="321,1039 664,1046 664,999 627,999 609,982 590,997 526,997 511,982 496,997 456,985 412,997 400,987 321,1004" rendition="Line" xml:id="facs_72_tr_2_tl_12"/>
+            <zone points="572,1123 2166,1140 2166,1063 950,1091 572,1056" rendition="Line" xml:id="facs_72_tr_2_tl_13" subtype="paragraph"/>
+            <zone points="323,1209 881,1207 928,1253 1105,1204 2196,1229 2196,1172 2048,1150 1893,1184 323,1160" rendition="Line" xml:id="facs_72_tr_2_tl_14"/>
+            <zone points="323,1293 1552,1288 1710,1340 2080,1308 2080,1241 323,1231" rendition="Line" xml:id="facs_72_tr_2_tl_15"/>
+            <zone points="323,1382 382,1414 669,1384 718,1424 2060,1382 2060,1340 1974,1325 323,1330" rendition="Line" xml:id="facs_72_tr_2_tl_16"/>
+            <zone points="318,1461 2018,1468 2018,1421 1888,1416 318,1416" rendition="Line" xml:id="facs_72_tr_2_tl_17"/>
+            <zone points="323,1545 1340,1545 1414,1587 1596,1547 2179,1552 2179,1505 1893,1488 323,1483" rendition="Line" xml:id="facs_72_tr_2_tl_18"/>
+            <zone points="313,1619 2179,1636 2149,1572 313,1589" rendition="Line" xml:id="facs_72_tr_2_tl_19"/>
+            <zone points="311,1708 1184,1767 1463,1764 1648,1708 2164,1727 2120,1658 311,1678" rendition="Line" xml:id="facs_72_tr_2_tl_20"/>
+            <zone points="311,1826 397,1843 952,1814 952,1745 311,1754" rendition="Line" xml:id="facs_72_tr_2_tl_21"/>
+            <zone points="568,1878 2162,1893 2162,1848 2090,1826 568,1831" rendition="Line" xml:id="facs_72_tr_2_tl_22" subtype="paragraph"/>
+            <zone points="308,1962 2236,1972 2236,1920 308,1927" rendition="Line" xml:id="facs_72_tr_2_tl_23"/>
+            <zone points="318,2053 2137,2090 2137,2009 2083,1999 318,1999" rendition="Line" xml:id="facs_72_tr_2_tl_24"/>
+            <zone points="308,2142 2073,2139 2070,2092 1944,2083 306,2100" rendition="Line" xml:id="facs_72_tr_2_tl_25"/>
+            <zone points="291,2226 1498,2245 1638,2213 2041,2263 2092,2228 2092,2166 291,2179" rendition="Line" xml:id="facs_72_tr_2_tl_26"/>
+            <zone points="306,2319 338,2324 345,2317 380,2317 387,2312 422,2317 439,2300 452,2300 449,2255 363,2258 333,2250 316,2268 304,2268" rendition="Line" xml:id="facs_72_tr_2_tl_27"/>
+            <zone points="563,2384 1078,2376 1226,2430 1596,2426 1725,2359 2152,2391 2152,2334 563,2329" rendition="Line" xml:id="facs_72_tr_2_tl_28" subtype="paragraph"/>
+            <zone points="306,2463 1942,2502 2223,2470 2191,2426 2006,2418 306,2421" rendition="Line" xml:id="facs_72_tr_2_tl_29"/>
+            <zone points="308,2549 1034,2546 1298,2596 1397,2546 1742,2549 1789,2596 2211,2591 2211,2514 2041,2500 1740,2529 308,2492" rendition="Line" xml:id="facs_72_tr_2_tl_30"/>
+            <zone points="304,2660 607,2662 642,2628 1261,2665 1493,2635 1735,2682 2181,2660 2181,2591 304,2586" rendition="Line" xml:id="facs_72_tr_2_tl_31"/>
+            <zone points="296,2717 407,2756 1051,2714 2181,2724 2181,2670 2110,2667 1769,2697 400,2660 296,2692" rendition="Line" xml:id="facs_72_tr_2_tl_32"/>
+            <zone points="299,2808 1362,2798 1547,2850 2134,2852 2134,2761 2038,2749 299,2756" rendition="Line" xml:id="facs_72_tr_2_tl_33"/>
+            <zone points="306,2887 2134,2894 2132,2855 1962,2835 304,2838" rendition="Line" xml:id="facs_72_tr_2_tl_34"/>
+            <zone points="299,2963 503,2966 565,3013 770,3010 827,2963 1823,3015 2152,2988 2152,2934 2095,2919 299,2924" rendition="Line" xml:id="facs_72_tr_2_tl_35"/>
+            <zone points="291,3057 405,3109 585,3077 893,3109 960,3050 2142,3065 2142,3003 291,3023" rendition="Line" xml:id="facs_72_tr_2_tl_36"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0072.jpg" n="part1_p072.jpg" xml:id="img_0072" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p072.jpg"/>
+            
+            <ab facs="#facs_72_tr_2">
+               <lb facs="#facs_72_tr_2_tl_3" n="N001"/>[69]
+               <lb facs="#facs_72_tr_2_tl_6" n="N002"/>LECTURE VIII -- Oct. 25, 1955
+               <lb facs="#facs_72_tr_2_tl_7" n="N003"/>The next realm we must discuss is the relationship of religion and the
+               <lb facs="#facs_72_tr_2_tl_8" n="N004"/>technical realm. The first part will deal with the logical structure of the technical
+               <lb facs="#facs_72_tr_2_tl_9" n="N005"/>realm, and then we will discuss its relationship to the religious problem. <technology>Now the first
+               <lb break="no" facs="#facs_72_tr_2_tl_10" n="N006"/>thing I have to justify is that this is the second cultural function after language: technology.
+               <lb break="no" facs="#facs_72_tr_2_tl_11" n="N007"/>This is important in relation to science, to which we will come after having discussed the
+               <lb break="no" facs="#facs_72_tr_2_tl_12" n="N008"/>technical realm</technology>.
+               <lb facs="#facs_72_tr_2_tl_13" n="N009"/>The world is not a totality of observed objects, but the world is a totality
+               <lb facs="#facs_72_tr_2_tl_14" n="N010"/>of usable tools--this is an important insight, that man (and not only man, but all living
+               <lb facs="#facs_72_tr_2_tl_15" n="N011"/>beings) has first of all a relationship to reality which has the character of tool, of
+               <lb facs="#facs_72_tr_2_tl_16" n="N012"/>means and ends, of using and not of contemplating. The tool-character of things
+               <lb facs="#facs_72_tr_2_tl_17" n="N013"/>precedes, in pragmatic dignity and in developmental priority, its object-character.
+               <lb facs="#facs_72_tr_2_tl_18" n="N014"/><rs type="person" key="Heidegger, Martin">This is especially emphasized by the philosopher Heidegger and is a very important part
+               <lb break="no" facs="#facs_72_tr_2_tl_19" n="N015"/>of the understanding of man and man's existence in his world. Man is not a scientific
+               <lb break="no" facs="#facs_72_tr_2_tl_20" n="N016"/>subject, but man is first of all somebody who uses things. He is first of all pragmatic,
+               <lb break="no" facs="#facs_72_tr_2_tl_21" n="N017"/>acting, before he is observing.</rs>
+               <lb facs="#facs_72_tr_2_tl_22" n="N018"/>The things are first of all FOR US, adaptable to our purposes before they
+               <lb facs="#facs_72_tr_2_tl_23" n="N019"/>are in themselves what they are, or, as we call it, pure objects. This leads to the general
+               <lb facs="#facs_72_tr_2_tl_24" n="N020"/>statement that the active relationship of man to his world precedes the contemplative
+               <lb facs="#facs_72_tr_2_tl_25" n="N021"/>relationship. This has many other consequences also, but I want first to apply this
+               <lb facs="#facs_72_tr_2_tl_26" n="N022"/>fundamental insight to the problem of the technical realm, of technology in general
+               <lb facs="#facs_72_tr_2_tl_27" n="N023"/>terms.
+               <lb facs="#facs_72_tr_2_tl_28" n="N024"/>What is the relationship of action and contemplation? To understand this
+               <lb facs="#facs_72_tr_2_tl_29" n="N025"/>it is good to observe an animal and to ask oneself--for instance, if one has a dog, a cat--
+               <lb facs="#facs_72_tr_2_tl_30" n="N026"/>how are THEY dealing with their environment? Or in other terms: what IS environment
+               <lb facs="#facs_72_tr_2_tl_31" n="N027"/>FOR THEM? You will find that for the dog, in your room, only a limited amount of
+               <lb facs="#facs_72_tr_2_tl_32" n="N028"/>realities are realities at all, namely those which are related to action. Where the animal
+               <lb facs="#facs_72_tr_2_tl_33" n="N029"/>acts, there they are; but otherwise they are not... As I said, for animals, things
+               <lb facs="#facs_72_tr_2_tl_34" n="N030"/>are never things, but objects of action and not of contemplation. Therefore if we use
+               <lb facs="#facs_72_tr_2_tl_35" n="N031"/>the term ''environment,'' we must say that for an animal, his environment has nothing
+               <lb facs="#facs_72_tr_2_tl_36" n="N032"/>to do with OUR environment. Not the same realities constitute his environment which
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

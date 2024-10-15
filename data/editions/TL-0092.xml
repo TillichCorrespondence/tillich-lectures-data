@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p092</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p092</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_92">
+         <graphic url="TL-0092.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PNYPAQOAZYVLZCPJFFOAISBM&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="291,250 291,3448 2248,3448 2248,250" rendition="TextRegion" xml:id="facs_92_tr_3">
+            <zone points="1108,306 1125,308 1127,313 1139,318 1188,318 1192,253 1180,253 1171,258 1166,253 1159,255 1154,251 1127,275 1110,275 1108,272" rendition="Line" xml:id="facs_92_tr_3_tl_1"/>
+            <zone points="619,477 670,515 2235,501 2235,426 2163,422 619,412" rendition="Line" xml:id="facs_92_tr_3_tl_2" subtype="paragraph"/>
+            <zone points="316,556 446,612 1462,607 1460,518 316,511" rendition="Line" xml:id="facs_92_tr_3_tl_3"/>
+            <zone points="612,730 2057,735 2057,665 612,662" rendition="Line" xml:id="facs_92_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="316,812 2197,829 2197,776 1879,756 1607,788 316,749" rendition="Line" xml:id="facs_92_tr_3_tl_5"/>
+            <zone points="311,930 862,935 1055,891 2223,908 2221,860 1944,843 308,850" rendition="Line" xml:id="facs_92_tr_3_tl_6"/>
+            <zone points="308,971 2245,988 2245,942 2129,925 1975,956 308,932" rendition="Line" xml:id="facs_92_tr_3_tl_7"/>
+            <zone points="311,1069 2158,1072 2158,1014 311,1024" rendition="Line" xml:id="facs_92_tr_3_tl_8"/>
+            <zone points="316,1151 2091,1163 2055,1103 316,1096" rendition="Line" xml:id="facs_92_tr_3_tl_9"/>
+            <zone points="311,1238 2175,1243 2175,1197 2105,1183 311,1192" rendition="Line" xml:id="facs_92_tr_3_tl_10"/>
+            <zone points="296,1313 371,1371 1443,1356 1443,1284 1214,1265 296,1269" rendition="Line" xml:id="facs_92_tr_3_tl_11"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0092.jpg" n="part1_p092.jpg" xml:id="img_0092" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p092.jpg"/>
+            
+            <ab facs="#facs_92_tr_3">
+               <lb facs="#facs_92_tr_3_tl_1" n="N001"/>[89]
+               <lb facs="#facs_92_tr_3_tl_2" n="N002"/><technology><ultimate_concern>So you see how such a consideration brings the technical realm immediately</ultimate_concern>
+               <lb break="no" facs="#facs_92_tr_3_tl_3" n="N003"/><ultimate_concern>into the relationship to problems of ultimate concern.</ultimate_concern>
+               <lb break="no" facs="#facs_92_tr_3_tl_4" n="N004"/>I had, two weeks ago, a meeting with some architects about church
+               <lb break="no" facs="#facs_92_tr_3_tl_5" n="N005"/>building, and I had to give the introductory speech, and my main emphasis was honesty,
+               <lb break="no" facs="#facs_92_tr_3_tl_6" n="N006"/>the principle of honesty. This was accepted by all of them. The question, of course, was:
+               <lb break="no" facs="#facs_92_tr_3_tl_7" n="N007"/>what is, in a special religious group, the honest expression of what it means? Now if you
+               <lb break="no" facs="#facs_92_tr_3_tl_8" n="N008"/>are ever in the occasion to build a house or to choose to rent a house, then think of
+               <lb break="no" facs="#facs_92_tr_3_tl_9" n="N009"/>this principle before any other principle. And if you buy furniture for your house,
+               <lb break="no" facs="#facs_92_tr_3_tl_10" n="N010"/>think of this principle. Only if it is an HONEST EXPRESSION, of what you are, then
+               <lb break="no" facs="#facs_92_tr_3_tl_11" n="N011"/>it will express your being and give happiness to you.</technology>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

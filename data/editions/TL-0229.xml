@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p229</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p229</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_229">
+         <graphic url="TL-0229.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ORBJYOFKKWLRZNFDLKYTXYVX&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="262,224 262,3453 2313,3453 2313,224" rendition="TextRegion" xml:id="facs_229_tr_1">
+            <zone points="1044,295 1057,295 1069,308 1141,308 1148,300 1161,300 1161,244 1131,244 1118,257 1110,255 1092,237 1080,250 1044,250" rendition="Line" xml:id="facs_229_tr_1_tl_1"/>
+            <zone points="265,456 878,458 878,405 789,390 761,415 736,397 693,418 466,377 423,418 382,377 313,420 265,420" rendition="Line" xml:id="facs_229_tr_1_tl_2" subtype="heading"/>
+            <zone points="270,611 2083,606 2103,550 1838,519 1767,555 1716,522 1683,555 919,565 881,532 807,568 761,532 723,568 369,573 272,542" rendition="Line" xml:id="facs_229_tr_1_tl_3"/>
+            <zone points="308,690 2164,677 2167,611 2024,606 311,654" rendition="Line" xml:id="facs_229_tr_1_tl_4"/>
+            <zone points="306,754 624,774 1100,759 1100,700 306,733" rendition="Line" xml:id="facs_229_tr_1_tl_5"/>
+            <zone points="260,901 2121,901 2121,835 2052,820 260,876" rendition="Line" xml:id="facs_229_tr_1_tl_6"/>
+            <zone points="270,1075 2169,1049 2169,985 270,1016" rendition="Line" xml:id="facs_229_tr_1_tl_7"/>
+            <zone points="265,1212 2139,1202 2139,1146 2093,1143 265,1166" rendition="Line" xml:id="facs_229_tr_1_tl_8"/>
+            <zone points="262,1365 2169,1352 2131,1291 262,1334" rendition="Line" xml:id="facs_229_tr_1_tl_9"/>
+            <zone points="257,1518 2203,1507 2203,1444 257,1487" rendition="Line" xml:id="facs_229_tr_1_tl_10"/>
+            <zone points="260,1663 2251,1653 2251,1596 2149,1594 260,1632" rendition="Line" xml:id="facs_229_tr_1_tl_11"/>
+            <zone points="262,1821 2187,1803 2190,1752 2073,1742 265,1772" rendition="Line" xml:id="facs_229_tr_1_tl_12"/>
+            <zone points="262,1973 2271,1958 2312,1892 262,1917" rendition="Line" xml:id="facs_229_tr_1_tl_13"/>
+            <zone points="260,2118 2146,2108 2146,2050 260,2068" rendition="Line" xml:id="facs_229_tr_1_tl_14"/>
+            <zone points="260,2274 2149,2261 2131,2197 260,2220" rendition="Line" xml:id="facs_229_tr_1_tl_15"/>
+            <zone points="252,2421 2108,2414 2108,2353 1383,2391 252,2373" rendition="Line" xml:id="facs_229_tr_1_tl_16"/>
+            <zone points="260,2577 2154,2556 2154,2500 260,2521" rendition="Line" xml:id="facs_229_tr_1_tl_17"/>
+            <zone points="273,2731 365,2726 373,2726 373,2696 364,2696 271,2701" rendition="Line" xml:id="facs_229_l"/>
+            <zone points="433,2801 2200,2798 2200,2730 2129,2714 2055,2750 1775,2719 1737,2755 1614,2719 978,2763 705,2732 670,2768 433,2732" rendition="Line" xml:id="facs_229_tr_1_tl_18" subtype="paragraph"/>
+            <zone points="265,2951 2276,2949 2279,2885 267,2898" rendition="Line" xml:id="facs_229_tr_1_tl_19"/>
+            <zone points="247,3101 2210,3094 2246,3035 247,3076" rendition="Line" xml:id="facs_229_tr_1_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0229.jpg" n="part1_p229.jpg" xml:id="img_0229" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p229.jpg"/>
+            
+            <ab facs="#facs_229_tr_1">
+               <lb facs="#facs_229_tr_1_tl_1" n="N001"/>[225]
+               <lb facs="#facs_229_tr_1_tl_2" n="N002"/>LECTURE XIX, Dec. 8, 1955
+               <lb facs="#facs_229_tr_1_tl_3" n="N003"/>QN: Is the character of the <ultimate_concern>ultimate concern</ultimate_concern> which is immanent in all philosophical inquiry
+               <lb facs="#facs_229_tr_1_tl_4" n="N004"/>conditioned, changed, or at all affected by the particular subject under consideration, [or the]
+               <lb facs="#facs_229_tr_1_tl_5" n="N005"/>content of the philosophical statement?
+               <lb facs="#facs_229_tr_1_tl_6" n="N006"/>PT: This question needs a little commentary [from you]. I am not absolutely sure whether I
+               <lb facs="#facs_229_tr_1_tl_7" n="N007"/>grasp it. Now the unconditional concern is something which grows out of the totality of the life
+               <lb facs="#facs_229_tr_1_tl_8" n="N008"/>experience of a human being, and insofar as the direction of his philosophical inquiry ALSO is
+               <lb facs="#facs_229_tr_1_tl_9" n="N009"/>dependent on his interest, his passion, his total eros (in the Platonic sense) toward a special side
+               <lb facs="#facs_229_tr_1_tl_10" n="N010"/>of reality, this certainly is an element which comes out of an ultimate concern and may influence
+               <lb facs="#facs_229_tr_1_tl_11" n="N011"/>---and certainly has often influenced---the special way in which this ultimate concern expresses itself.
+               <lb facs="#facs_229_tr_1_tl_12" n="N012"/>On the other hand, these expressions have effect on the concern itself, as always an expression of
+               <lb facs="#facs_229_tr_1_tl_13" n="N013"/>something which is in us also CHANGES us---it is not only an expression which could be and could not
+               <lb facs="#facs_229_tr_1_tl_14" n="N014"/>be, but it is also an expression which is a reaction ON that which IS expressed. So in this sense
+               <lb facs="#facs_229_tr_1_tl_15" n="N015"/>one can say that in the course of philosophical inquiry, things may happen in the person of the
+               <lb facs="#facs_229_tr_1_tl_16" n="N016"/>philosopher which will give to his <ultimate_concern>ultimate concern</ultimate_concern> another direction, insofar as it is a
+               <lb facs="#facs_229_tr_1_tl_17" n="N017"/>concrete expression with concern. I don't know whether this completely answers the question.
+               <lb facs="#facs_229_l" n="N018"/>==
+               <lb facs="#facs_229_tr_1_tl_18" n="N019"/>Let us sum up what we have discussed about the relationship of <rs type="keyword" ref="#RELIGION">religion </rs>and <rs type="keyword" ref="#Philosophy">philosophy.</rs>
+               <lb facs="#facs_229_tr_1_tl_19" n="N020"/>The first and main thing was that there is no interference from religion in the philosophical arena, or,
+               <lb facs="#facs_229_tr_1_tl_20" n="N021"/>as one calls it today, "'universe of discourse." And there is no interference of the PHILOSOPHICAL
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

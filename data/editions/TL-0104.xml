@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p104</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p104</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_104">
+         <graphic url="TL-0104.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NZAZFBCMQQMQDUOMXDVVDVYZ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="209,64 155,3474 2388,3474 2388,130" rendition="TextRegion" xml:id="facs_104_tr_2">
+            <zone points="1213,191 1231,188 1244,198 1265,196 1270,201 1337,193 1332,129 1309,131 1293,149 1273,131 1262,129 1249,142 1213,144" rendition="Line" xml:id="facs_104_tr_2_tl_1"/>
+            <zone points="325,356 520,392 706,361 773,420 1311,420 1383,366 1471,438 2337,394 2334,337 1868,314 325,307" rendition="Line" xml:id="facs_104_tr_2_tl_2"/>
+            <zone points="415,469 428,466 438,477 556,477 556,423 446,423 428,441 415,443" rendition="Line" xml:id="facs_104_tr_2_tl_3"/>
+            <zone points="322,528 456,564 708,533 814,582 1110,582 1157,541 1909,567 1857,495 1752,487 1082,508 322,464" rendition="Line" xml:id="facs_104_tr_2_tl_4"/>
+            <zone points="314,654 428,678 750,654 845,708 1293,708 1291,613 1242,600 314,598" rendition="Line" xml:id="facs_104_tr_2_tl_5"/>
+            <zone points="417,763 2283,804 2283,737 1177,747 417,701" rendition="Line" xml:id="facs_104_tr_2_tl_6" subtype="paragraph"/>
+            <zone points="314,884 1649,945 2380,927 2378,863 2313,858 314,822" rendition="Line" xml:id="facs_104_tr_2_tl_7"/>
+            <zone points="304,997 2213,1028 2210,974 505,969 441,933 304,964" rendition="Line" xml:id="facs_104_tr_2_tl_8"/>
+            <zone points="307,1113 1025,1128 1090,1175 1242,1154 1337,1190 1566,1188 1716,1136 2094,1167 2223,1149 2223,1113 1461,1061 304,1079" rendition="Line" xml:id="facs_104_tr_2_tl_9"/>
+            <zone points="304,1229 976,1242 1072,1286 1430,1286 1474,1252 2290,1280 2316,1206 301,1172" rendition="Line" xml:id="facs_104_tr_2_tl_10"/>
+            <zone points="301,1342 404,1347 477,1412 546,1378 801,1412 858,1355 969,1404 1404,1365 2257,1381 2257,1327 2064,1319 301,1309" rendition="Line" xml:id="facs_104_tr_2_tl_11"/>
+            <zone points="299,1466 2259,1499 2257,1438 2012,1427 299,1432" rendition="Line" xml:id="facs_104_tr_2_tl_12"/>
+            <zone points="299,1582 559,1600 603,1587 698,1590 696,1538 593,1533 567,1553 520,1530 384,1538 340,1517 296,1548" rendition="Line" xml:id="facs_104_tr_2_tl_13"/>
+            <zone points="389,1690 922,1703 1041,1744 1126,1713 2190,1742 2190,1659 386,1657" rendition="Line" xml:id="facs_104_tr_2_tl_14" subtype="paragraph"/>
+            <zone points="296,1819 2334,1852 2332,1785 296,1757" rendition="Line" xml:id="facs_104_tr_2_tl_15"/>
+            <zone points="294,1948 2265,1966 2265,1906 2087,1891 1687,1922 294,1878" rendition="Line" xml:id="facs_104_tr_2_tl_16"/>
+            <zone points="283,2048 1901,2100 2228,2084 2228,2020 281,1994" rendition="Line" xml:id="facs_104_tr_2_tl_17"/>
+            <zone points="281,2167 2316,2210 2275,2141 281,2115" rendition="Line" xml:id="facs_104_tr_2_tl_18"/>
+            <zone points="281,2280 2236,2321 2236,2262 1713,2275 1592,2228 1270,2267 912,2221 281,2249" rendition="Line" xml:id="facs_104_tr_2_tl_19"/>
+            <zone points="278,2398 894,2471 958,2437 2241,2468 2241,2365 2156,2398 2097,2365 1468,2388 1015,2342 881,2378 690,2337 278,2370" rendition="Line" xml:id="facs_104_tr_2_tl_20"/>
+            <zone points="281,2527 2262,2545 2262,2494 1886,2509 1829,2468 1561,2465 1474,2504 1401,2465 281,2453" rendition="Line" xml:id="facs_104_tr_2_tl_21"/>
+            <zone points="273,2628 2007,2661 2061,2702 2267,2677 2267,2599 2051,2587 273,2599" rendition="Line" xml:id="facs_104_tr_2_tl_22"/>
+            <zone points="268,2751 2223,2780 2223,2721 2159,2718 268,2695" rendition="Line" xml:id="facs_104_tr_2_tl_23"/>
+            <zone points="265,2862 2169,2898 2169,2836 644,2844 309,2803 265,2836" rendition="Line" xml:id="facs_104_tr_2_tl_24"/>
+            <zone points="263,3001 1113,3004 1110,2947 528,2921 477,2947 348,2927 260,2960" rendition="Line" xml:id="facs_104_tr_2_tl_25"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0104.jpg" n="part1_p104.jpg" xml:id="img_0104" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p104.jpg"/>
+            
+            <ab facs="#facs_104_tr_2">
+               <lb facs="#facs_104_tr_2_tl_1" n="N001"/>[101]
+               <lb facs="#facs_104_tr_2_tl_2" n="N002"/>1) The first step is Religion and the Natural sciences--what the word ''science'' means in the narrower
+               <lb facs="#facs_104_tr_2_tl_3" n="N003"/>sense.
+               <lb facs="#facs_104_tr_2_tl_4" n="N004"/>2) The next will be Religion and History--historical research and historiography.
+               <lb facs="#facs_104_tr_2_tl_5" n="N005"/>3) The third step will be Religion and Philosophy.
+               <lb facs="#facs_104_tr_2_tl_6" n="N006"/>You may ask whether there is nothing else but these three involved in the subject ''Religion and
+               <lb facs="#facs_104_tr_2_tl_7" n="N007"/>the Cognitive Realm.'' The reason l don't go, for instance, into social sciences here, including psychology,
+               <lb facs="#facs_104_tr_2_tl_8" n="N008"/>is that in these realms it is not the special method which puts us before the problem Religion and
+               <lb facs="#facs_104_tr_2_tl_9" n="N009"/>Cognition, but it is the content, and from the point of CONTENT, they will come into the picture
+               <lb facs="#facs_104_tr_2_tl_10" n="N010"/>definitively and intensively; but from the point of method, it is enough to compare religious knowledge
+               <lb facs="#facs_104_tr_2_tl_11" n="N011"/>with scientific knowledge, with historical knowledge, from the point of view of the methodological
+               <lb facs="#facs_104_tr_2_tl_12" n="N012"/>approach in these three realms. Therefore our first consideration goes at the problem of religion and
+               <lb facs="#facs_104_tr_2_tl_13" n="N013"/>the cognitive realm.
+               <lb facs="#facs_104_tr_2_tl_14" n="N014"/>When I go to the question of religion and science, then something happens to our emotional
+               <lb facs="#facs_104_tr_2_tl_15" n="N015"/>reaction. We all--and our whole culture--have a very definite and very disturbing remembrance of the
+               <lb facs="#facs_104_tr_2_tl_16" n="N016"/>past, through which we went in the last thousand or 2000 years--or even 3000 years. Our historical
+               <lb facs="#facs_104_tr_2_tl_17" n="N017"/>memory is not only a matter of historical knowledge in the theoretical sense, but it is the matter of
+               <lb facs="#facs_104_tr_2_tl_18" n="N018"/>something which has formed our subconscious, and therefore produces emotional reactions all the time,
+               <lb facs="#facs_104_tr_2_tl_19" n="N019"/>when we come to this subject religion-and-science. The reason is that for centuries, or for millennia,
+               <lb facs="#facs_104_tr_2_tl_20" n="N020"/>more exaclty [sic.], deadly conflicts took place between these two realms of man's spiritual creativity, and
+               <lb facs="#facs_104_tr_2_tl_21" n="N021"/>that fear and hate are still in the depth of most people today, on the basis of these conflicts. You can
+               <lb facs="#facs_104_tr_2_tl_22" n="N022"/>test that any time, when you speak to somebody, an ordinary man who is not philosophicall educated,
+               <lb facs="#facs_104_tr_2_tl_23" n="N023"/>but you speak about Science and the Church, or something like that, you will immediately feel
+               <lb facs="#facs_104_tr_2_tl_24" n="N024"/>that there is a scar, that something has happened, even to this man, although it actually happened
+               <lb facs="#facs_104_tr_2_tl_25" n="N025"/>perhaps hundreds of years before his birth.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

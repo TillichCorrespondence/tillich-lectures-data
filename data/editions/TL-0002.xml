@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p002</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p002</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
+         <graphic url="TL-0002.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KCXUGZFJHCXCOQBTQDNJXDIV&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="475,0 1839,0 1839,1437 475,1437" rendition="TextRegion" xml:id="facs_2_tr_1">
+            <zone points="1030,522 1118,524 1127,515 1135,522 1180,524 1196,516 1198,471 1147,468 1109,477 1102,470 1078,470 1051,476 1031,464" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
+            <zone points="854,628 1022,626 1084,608 1360,611 1362,560 856,575" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+            <zone points="917,713 934,724 1209,715 1209,667 1103,676 1037,676 1030,668 1019,679 1000,664 917,683" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+            <zone points="893,818 965,829 1335,809 1336,787 1317,775 1219,782 1186,764 1153,784 1136,773 1048,790 895,782" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+            <zone points="567,955 1422,940 1422,898 1333,887 567,914" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+            <zone points="549,1060 596,1046 625,1060 883,1051 884,1006 829,1006 811,1019 796,1006 764,1007 715,1022 668,1009 652,1024 626,1007 593,1034 549,1019" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+            <zone points="539,1135 1234,1123 1234,1085 1168,1076 540,1099" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+            <zone points="546,1212 604,1201 656,1218 916,1203 916,1183 878,1166 769,1160 709,1175 692,1160 679,1169 664,1160 596,1186 546,1163" rendition="Line" xml:id="facs_2_tr_1_tl_10"/>
+            <zone points="543,1285 608,1276 641,1299 689,1282 1070,1282 1157,1273 1159,1240 1075,1224 1055,1243 835,1231 545,1249" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
+            <zone points="558,1362 604,1353 760,1371 784,1356 1009,1357 1009,1324 977,1303 917,1323 707,1312 667,1329 629,1314 599,1332 558,1323" rendition="Line" xml:id="facs_2_tr_1_tl_12"/>
+            <zone points="613,1441 1378,1416 1321,1371 614,1389" rendition="Line" xml:id="facs_2_tr_1_tl_13"/>
+         </zone>
+         <zone points="537,1424 1737,1424 1737,2553 537,2553" rendition="TextRegion" xml:id="facs_2_tr_3">
+            <zone points="610,1515 1735,1485 1708,1440 1614,1434 611,1468" rendition="Line" xml:id="facs_2_tr_3_tl_1"/>
+            <zone points="610,1563 745,1561 745,1542 734,1542 724,1530 680,1530 665,1522 656,1530 611,1527" rendition="Line" xml:id="facs_2_tr_3_tl_2"/>
+            <zone points="610,1638 1587,1618 1558,1572 611,1590" rendition="Line" xml:id="facs_2_tr_3_tl_3"/>
+            <zone points="604,1711 626,1723 748,1711 904,1723 920,1707 1024,1707 1024,1678 970,1662 802,1665 752,1684 604,1680" rendition="Line" xml:id="facs_2_tr_3_tl_4"/>
+            <zone points="528,1788 1503,1771 1504,1723 1416,1714 530,1747" rendition="Line" xml:id="facs_2_tr_3_tl_5"/>
+            <zone points="528,1862 1731,1844 1732,1791 1645,1820 1617,1788 1246,1797 1210,1832 530,1824" rendition="Line" xml:id="facs_2_tr_3_tl_6"/>
+            <zone points="607,1911 647,1925 673,1923 679,1917 703,1922 710,1914 718,1923 755,1923 757,1874 742,1872 731,1883 689,1884 674,1874 662,1883 655,1875 635,1877 608,1869" rendition="Line" xml:id="facs_2_tr_3_tl_7"/>
+            <zone points="528,1989 1734,1962 1656,1920 605,1971 530,1940" rendition="Line" xml:id="facs_2_tr_3_tl_8"/>
+            <zone points="611,2040 626,2045 712,2043 710,2013 703,2013 697,2007 671,2007 661,2013 646,2000 635,2000 629,2006 625,2001 620,2006 610,2006" rendition="Line" xml:id="facs_2_tr_3_tl_9"/>
+            <zone points="531,2120 1221,2106 1221,2084 1169,2058 531,2087" rendition="Line" xml:id="facs_2_tr_3_tl_10"/>
+            <zone points="531,2201 1285,2178 1258,2141 1096,2132 1048,2154 1021,2136 998,2156 638,2153 610,2175 533,2154" rendition="Line" xml:id="facs_2_tr_3_tl_11"/>
+            <zone points="537,2274 1710,2243 1633,2201 539,2228" rendition="Line" xml:id="facs_2_tr_3_tl_12"/>
+            <zone points="531,2352 1135,2348 1136,2298 1085,2289 901,2309 847,2292 754,2316 683,2298 602,2327 533,2309" rendition="Line" xml:id="facs_2_tr_3_tl_13"/>
+            <zone points="611,2549 722,2557 814,2536 982,2555 1100,2539 1102,2491 850,2497 827,2519 776,2498 611,2504" rendition="Line" xml:id="facs_2_tr_3_tl_14"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0002.jpg" n="part1_p002.jpg" xml:id="img_0002" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p002.jpg"/>
+            
+            <ab facs="#facs_2_tr_1">
+               <lb facs="#facs_2_tr_1_tl_3" n="N001"/>1955-56
+               <lb facs="#facs_2_tr_1_tl_4" n="N002"/>HARVARD UNIVERSITY
+               <lb facs="#facs_2_tr_1_tl_5" n="N003"/>HUMANITIES 127
+               <lb facs="#facs_2_tr_1_tl_6" n="N004"/>RELIGION AND CULTURE
+               <lb facs="#facs_2_tr_1_tl_7" n="N005"/>Select and discuss three of the following problems:
+               <lb facs="#facs_2_tr_1_tl_8" n="N006"/>1. Faith and belief.
+               <lb facs="#facs_2_tr_1_tl_9" n="N007"/>2. Ultimate concern and other concerns.
+               <lb facs="#facs_2_tr_1_tl_10" n="N008"/>3. Faith and reason.
+               <lb facs="#facs_2_tr_1_tl_11" n="N009"/>4. The nature of religious symbols.
+               <lb facs="#facs_2_tr_1_tl_12" n="N010"/>5. Language and symbols.
+               <lb facs="#facs_2_tr_1_tl_13" n="N011"/>6. The religious meaning of the technical realm.
+            </ab>
+            <ab facs="#facs_2_tr_3">
+               <lb facs="#facs_2_tr_3_tl_1" n="N001"/>7. Meaning of technical creativity for the understanding of man's
+               <lb facs="#facs_2_tr_3_tl_2" n="N002"/>nature.
+               <lb facs="#facs_2_tr_3_tl_3" n="N003"/>8. The conflict of religion and science since the Renaissance.
+               <lb facs="#facs_2_tr_3_tl_4" n="N004"/>9. Science and faith today.
+               <lb facs="#facs_2_tr_3_tl_5" n="N005"/>10. Is there significance of modern physics for theology?
+               <lb facs="#facs_2_tr_3_tl_6" n="N006"/>11. Religion and historical research. (Relationship of faith and
+               <lb facs="#facs_2_tr_3_tl_7" n="N007"/>history)
+               <lb facs="#facs_2_tr_3_tl_8" n="N008"/>12. Religious elements in the main philosophical approaches of our
+               <lb facs="#facs_2_tr_3_tl_9" n="N009"/>time.
+               <lb facs="#facs_2_tr_3_tl_10" n="N010"/>13. The idea of a Christian philosophy.
+               <lb facs="#facs_2_tr_3_tl_11" n="N011"/>14. Anthropology and the doctrine of man.
+               <lb facs="#facs_2_tr_3_tl_12" n="N012"/>15. The mind-body problem and the psychology of the unconscious.
+               <lb facs="#facs_2_tr_3_tl_13" n="N013"/>16. Religious and medical healing.
+               <lb facs="#facs_2_tr_3_tl_14" n="N014"/>Mid-year. January, 1956.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

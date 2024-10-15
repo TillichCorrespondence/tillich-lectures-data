@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p094</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p094</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_94">
+         <graphic url="TL-0378.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GMXAESQZUNNDIDPJTWMXTXLD&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="247,269 2266,269 2266,1783 247,1783" rendition="TextRegion" xml:id="facs_94_tr_1">
+            <zone points="1103,327 1115,327 1138,342 1201,340 1213,330 1226,330 1224,262 1188,264 1183,259 1156,259 1135,282 1123,277 1100,279" rendition="Line" xml:id="facs_94_tr_1_tl_1"/>
+            <zone points="237,496 2087,493 2198,443 237,456" rendition="Line" xml:id="facs_94_tr_1_tl_2"/>
+            <zone points="237,650 1518,680 1634,627 2241,639 2241,589 237,617" rendition="Line" xml:id="facs_94_tr_1_tl_3"/>
+            <zone points="237,806 2263,788 2263,740 2006,725 239,750" rendition="Line" xml:id="facs_94_tr_1_tl_4"/>
+            <zone points="237,871 2084,869 2054,811 1926,798 237,828" rendition="Line" xml:id="facs_94_tr_1_tl_5"/>
+            <zone points="234,1022 2090,1020 2175,962 237,977" rendition="Line" xml:id="facs_94_tr_1_tl_6"/>
+            <zone points="237,1176 2059,1173 2059,1115 237,1128" rendition="Line" xml:id="facs_94_tr_1_tl_7"/>
+            <zone points="239,1324 2150,1317 2188,1259 239,1274" rendition="Line" xml:id="facs_94_tr_1_tl_8"/>
+            <zone points="239,1478 2140,1463 2140,1415 1747,1405 242,1430" rendition="Line" xml:id="facs_94_tr_1_tl_9"/>
+            <zone points="234,1631 2220,1621 2236,1563 234,1599" rendition="Line" xml:id="facs_94_tr_1_tl_10"/>
+            <zone points="239,1780 2200,1775 2200,1717 239,1732" rendition="Line" xml:id="facs_94_tr_1_tl_11"/>
+         </zone>
+         <zone points="94,1854 2307,1854 2307,3476 94,3476" rendition="TextRegion" xml:id="facs_94_tr_2">
+            <zone points="227,1928 2017,1926 2112,1918 2112,1863 227,1883" rendition="Line" xml:id="facs_94_tr_2_tl_1"/>
+            <zone points="229,2090 2105,2077 2208,2069 2208,2014 229,2032" rendition="Line" xml:id="facs_94_tr_2_tl_2"/>
+            <zone points="227,2231 1458,2228 1458,2180 227,2185" rendition="Line" xml:id="facs_94_tr_2_tl_4"/>
+            <zone points="811,2379 2200,2379 2200,2321 811,2329" rendition="Line" xml:id="facs_94_tr_2_tl_5"/>
+            <zone points="222,2525 1931,2533 2090,2528 2090,2470 222,2502" rendition="Line" xml:id="facs_94_tr_2_tl_7"/>
+            <zone points="229,2684 1752,2684 2054,2633 229,2636" rendition="Line" xml:id="facs_94_tr_2_tl_8"/>
+            <zone points="219,2832 1689,2847 2145,2822 2145,2779 219,2799" rendition="Line" xml:id="facs_94_tr_2_tl_10"/>
+            <zone points="227,2981 1762,2988 2145,2973 2145,2915 227,2938" rendition="Line" xml:id="facs_94_tr_2_tl_12"/>
+            <zone points="211,3129 2125,3139 2140,3069 211,3107" rendition="Line" xml:id="facs_94_tr_2_tl_13"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0378.jpg" n="part2_p094.jpg" xml:id="img_0094" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p094.jpg"/>
+            
+            <ab facs="#facs_94_tr_1">
+               <lb facs="#facs_94_tr_1_tl_1" n="N001"/>[373]
+               <lb facs="#facs_94_tr_1_tl_2" n="N002"/>not hesitate to say, against some of my romantic friends who are terribly afraid of automation, that
+               <lb facs="#facs_94_tr_1_tl_3" n="N003"/>even automation carried through radically has a great liberating power. The more things which can be
+               <lb facs="#facs_94_tr_1_tl_4" n="N004"/>subject to automation ARE subject to it, the less unnecessary mechanical work has to be done by man.
+               <lb facs="#facs_94_tr_1_tl_5" n="N005"/>One has metaphorically called the machines ''slaves.'' They are not slaves because in the slave-
+               <lb facs="#facs_94_tr_1_tl_6" n="N006"/>relationship, there is an element of person-to-person relationship, and if this is not accepted by the
+               <lb facs="#facs_94_tr_1_tl_7" n="N007"/>master, he not only destroys the slave but also himself. Machine has not such a relationship;
+               <lb facs="#facs_94_tr_1_tl_8" n="N008"/>it is merely tool, and it liberates man--in this case especially the worker--from activities which can
+               <lb facs="#facs_94_tr_1_tl_9" n="N009"/>be taken over. When we speak about the machine age, or the age of automation, or however we
+               <lb facs="#facs_94_tr_1_tl_10" n="N010"/>call it, we never forget, for a romanticizing theology, the liberating blessing produced by the machine,
+               <lb facs="#facs_94_tr_1_tl_11" n="N011"/>even in its most complicated and most radical forms. It is good to see, when you are as old as I am,
+            </ab>
+            <ab facs="#facs_94_tr_2">
+               <lb facs="#facs_94_tr_2_tl_1" n="N001"/>how from my youth, when even the building of a railway in which I participated nine years
+               <lb facs="#facs_94_tr_2_tl_2" n="N002"/>(of course very successfully), namely putting sand into a car with your hands and then pushing it to
+               <lb facs="#facs_94_tr_2_tl_4" n="N003"/>the place where it should go--now all this was done in Eastern Germany by Polish workers
+               <lb facs="#facs_94_tr_2_tl_5" n="N004"/>at that time, and I was their intimate friend and helped them. Now, when I see what is going
+               <lb facs="#facs_94_tr_2_tl_7" n="N005"/>on today, when you build a road or railway, there was almost nothing like this done by hands,
+               <lb facs="#facs_94_tr_2_tl_8" n="N006"/>by activities of the muscle, but by somebody sitting somewhere and directing the machine--
+               <lb facs="#facs_94_tr_2_tl_10" n="N007"/>the machine grasps, the machine runs, the machine fills, the machine puts out in on its place, etc.
+               <lb facs="#facs_94_tr_2_tl_12" n="N008"/>Now this is a tremendous thing. I don't speak here about the problem of employment connected with it,
+               <lb facs="#facs_94_tr_2_tl_13" n="N009"/>the problem of leisure time--I will come to this later. But here I only want to say: don't forget
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

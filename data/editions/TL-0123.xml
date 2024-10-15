@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p123</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p123</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_123">
+         <graphic url="TL-0123.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RVRBITFKOVAASWQPCUIVSOZB&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="256,213 256,3456 2349,3456 2349,213" rendition="TextRegion" xml:id="facs_123_tr_1">
+            <zone points="1192,277 1212,277 1220,285 1307,283 1307,203 1259,206 1254,200 1228,223 1192,223" rendition="Line" xml:id="facs_123_tr_1_tl_1"/>
+            <zone points="288,462 1392,429 1521,485 1603,434 1649,468 1713,434 2173,437 2127,375 1621,388 1539,306 1428,388 501,388 434,324 288,388" rendition="Line" xml:id="facs_123_tr_1_tl_2"/>
+            <zone points="288,586 2232,581 2127,532 288,532" rendition="Line" xml:id="facs_123_tr_1_tl_3"/>
+            <zone points="280,660 2209,670 2209,611 2034,604 280,629" rendition="Line" xml:id="facs_123_tr_1_tl_5"/>
+            <zone points="272,807 650,804 799,868 1385,830 1983,863 2153,817 2153,763 2068,750 272,763" rendition="Line" xml:id="facs_123_tr_1_tl_6"/>
+            <zone points="275,963 357,997 2160,997 2160,912 1945,899 275,914" rendition="Line" xml:id="facs_123_tr_1_tl_7"/>
+            <zone points="272,1107 735,1115 850,1156 2212,1159 2212,1061 272,1063" rendition="Line" xml:id="facs_123_tr_1_tl_8"/>
+            <zone points="267,1349 894,1318 958,1266 1354,1264 1523,1315 2237,1269 2237,1212 2076,1202 896,1233 488,1215 365,1148 267,1197" rendition="Line" xml:id="facs_123_tr_1_tl_9"/>
+            <zone points="262,1405 2186,1413 2186,1364 2014,1349 262,1382" rendition="Line" xml:id="facs_123_tr_1_tl_10"/>
+            <zone points="259,1562 2124,1564 2124,1516 1991,1490 1919,1534 1189,1503 259,1534" rendition="Line" xml:id="facs_123_tr_1_tl_11"/>
+            <zone points="262,1716 1403,1718 1403,1662 262,1665" rendition="Line" xml:id="facs_123_tr_1_tl_12"/>
+            <zone points="437,1867 545,1939 2122,1867 2122,1806 437,1811" rendition="Line" xml:id="facs_123_tr_1_tl_13" subtype="paragraph"/>
+            <zone points="257,2016 1577,2047 1955,2029 1978,1973 259,1975" rendition="Line" xml:id="facs_123_tr_1_tl_14"/>
+            <zone points="241,2201 694,2171 789,2214 1652,2227 2114,2178 2086,2114 1747,2129 1685,2076 1623,2129 319,2099 241,2150" rendition="Line" xml:id="facs_123_tr_1_tl_18"/>
+            <zone points="254,2317 637,2325 701,2374 1045,2371 1135,2320 2160,2332 2160,2273 2006,2260 614,2286 581,2253 334,2263 254,2214" rendition="Line" xml:id="facs_123_tr_1_tl_19"/>
+            <zone points="247,2469 1921,2466 2214,2502 2214,2420 247,2427" rendition="Line" xml:id="facs_123_tr_1_tl_20"/>
+            <zone points="252,2623 2163,2651 2163,2574 2099,2569 252,2574" rendition="Line" xml:id="facs_123_tr_1_tl_21"/>
+            <zone points="252,2800 1523,2815 1564,2774 2214,2774 2214,2718 1916,2710 252,2728" rendition="Line" xml:id="facs_123_tr_1_tl_22"/>
+            <zone points="247,2921 2276,2928 2276,2877 2160,2859 247,2880" rendition="Line" xml:id="facs_123_tr_1_tl_23"/>
+            <zone points="244,3080 457,3085 527,3142 789,3139 845,3082 907,3129 1097,3106 1130,3139 1246,3139 1320,3088 1377,3126 2309,3103 2309,3026 2178,3018 244,3029" rendition="Line" xml:id="facs_123_tr_1_tl_24"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0123.jpg" n="part1_p123.jpg" xml:id="img_0123" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p123.jpg"/>
+            
+            <ab facs="#facs_123_tr_1">
+               <lb facs="#facs_123_tr_1_tl_1" n="N001"/>[120]
+               <lb facs="#facs_123_tr_1_tl_2" n="N002"/>make this mistake any more. Modern science is very much aware of the function of the
+               <lb facs="#facs_123_tr_1_tl_3" n="N003"/>observer, and all the critics of mechanism, for centuries, were aware of the fact that the observer--
+               <lb facs="#facs_123_tr_1_tl_5" n="N004"/>namely man who MAKES such statements--belongs to the whole of reality about which he makes
+               <lb facs="#facs_123_tr_1_tl_6" n="N005"/>these statements. Therefore the critics of the universal mechanistic worldview are aware of the
+               <lb facs="#facs_123_tr_1_tl_7" n="N006"/>fact that this mechanism, if it is carried through, must explain something which itself cannot be
+               <lb facs="#facs_123_tr_1_tl_8" n="N007"/>explained mechanistically, namely the fact that there is a mind which is able to discuss mechanism
+               <lb facs="#facs_123_tr_1_tl_9" n="N008"/>as truer than other alternatives. And a discussion between true and false is a discussion in the realm
+               <lb facs="#facs_123_tr_1_tl_10" n="N009"/>of freedom, because if it were a mechanical process which produces mechanism, it would have no
+               <lb facs="#facs_123_tr_1_tl_11" n="N010"/>truth value, it would be only another fact in the universal mechanism. In this way, the whole
+               <lb facs="#facs_123_tr_1_tl_12" n="N011"/>theory undercuts itself by the very fact that it does exist.
+               <lb facs="#facs_123_tr_1_tl_13" n="N012"/>Now this means: our immediate experience contradicts this worldview which applies
+               <lb facs="#facs_123_tr_1_tl_14" n="N013"/>special experiences of an abstract character in physical sciences to the whole of reality.
+               <lb facs="#facs_123_tr_1_tl_18" n="N014"/>A mechanistic worldview does exactly what a progressivistic [sic.] worldview does on another level.
+               <lb facs="#facs_123_tr_1_tl_19" n="N015"/>I told you that the progressivistic [sic.] worldview elevates the limited experience of progress, in every
+               <lb facs="#facs_123_tr_1_tl_20" n="N016"/>human action--where it is justified and necessary, otherwise we would not act at all--to a universal
+               <lb facs="#facs_123_tr_1_tl_21" n="N017"/>law of metaphysics, or of the divine universe, however you want to express it. In the same way,
+               <lb facs="#facs_123_tr_1_tl_22" n="N018"/>mechanistic science elevates the limited realm in which calculable, quantitative relationships can be
+               <lb facs="#facs_123_tr_1_tl_23" n="N019"/>described, into a universal law for everything that is. In doing so, it becomes metaphysical or religious
+               <lb facs="#facs_123_tr_1_tl_24" n="N020"/>itself. And only in this realm is the conflict going on, not in the realm of the application of quantitative
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

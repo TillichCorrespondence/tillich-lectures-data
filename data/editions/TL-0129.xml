@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p129</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p129</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_129">
+         <graphic url="TL-0129.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TOUXZDTYADKHCNRTWTLJZTEV&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="23,154 23,3473 2388,3473 2388,154" rendition="TextRegion" xml:id="facs_129_tr_1">
+            <zone points="1080,261 1093,261 1118,276 1199,274 1199,200 1176,203 1158,221 1148,221 1133,205 1118,218 1080,218" rendition="Line" xml:id="facs_129_tr_1_tl_2"/>
+            <zone points="327,487 510,499 560,550 616,540 662,494 946,494 948,426 862,428 831,454 806,428 669,431 608,378 550,431 370,436 330,459" rendition="Line" xml:id="facs_129_tr_1_tl_5" subtype="heading"/>
+            <zone points="560,639 2383,624 2385,565 1427,586 1394,550 1344,588 766,598 717,560 621,598 560,560" rendition="Line" xml:id="facs_129_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="332,793 748,839 2221,804 2223,710 335,740" rendition="Line" xml:id="facs_129_tr_1_tl_7"/>
+            <zone points="330,938 2363,925 2337,854 330,913" rendition="Line" xml:id="facs_129_tr_1_tl_8"/>
+            <zone points="335,1098 2289,1067 2259,1009 335,1042" rendition="Line" xml:id="facs_129_tr_1_tl_9"/>
+            <zone points="330,1245 2231,1222 2231,1169 2132,1166 330,1214" rendition="Line" xml:id="facs_129_tr_1_tl_10"/>
+            <zone points="332,1392 1095,1382 1146,1430 1658,1445 1747,1407 2112,1412 2188,1369 2185,1321 1952,1311 332,1366" rendition="Line" xml:id="facs_129_tr_1_tl_11"/>
+            <zone points="215,1564 330,1546 383,1600 515,1612 839,1569 1529,1572 1648,1526 2208,1529 2208,1460 1932,1491 1541,1450 1093,1503 218,1508" rendition="Line" xml:id="facs_129_tr_1_tl_12"/>
+            <zone points="335,1706 1019,1736 2140,1693 2140,1622 2005,1605 1747,1655 335,1655" rendition="Line" xml:id="facs_129_tr_1_tl_13"/>
+            <zone points="332,1858 2335,1828 2335,1767 2231,1764 332,1820" rendition="Line" xml:id="facs_129_tr_1_tl_14"/>
+            <zone points="332,2046 535,2053 588,2008 626,2048 778,2043 1072,1987 2175,1975 2160,1919 1724,1914 1161,1965 335,1954" rendition="Line" xml:id="facs_129_tr_1_tl_15"/>
+            <zone points="335,2152 1810,2127 1896,2178 2233,2178 2236,2081 2198,2061 337,2099" rendition="Line" xml:id="facs_129_tr_1_tl_16"/>
+            <zone points="335,2335 390,2373 446,2337 1567,2340 1617,2292 1663,2340 2221,2309 2223,2223 337,2256" rendition="Line" xml:id="facs_129_tr_1_tl_17"/>
+            <zone points="342,2472 847,2502 996,2439 1055,2500 1526,2500 2140,2472 2269,2429 2266,2370 2195,2360 345,2401" rendition="Line" xml:id="facs_129_tr_1_tl_18"/>
+            <zone points="337,2598 2170,2583 2188,2525 337,2573" rendition="Line" xml:id="facs_129_tr_1_tl_19"/>
+            <zone points="335,2756 428,2821 2157,2758 2160,2672 2104,2662 337,2710" rendition="Line" xml:id="facs_129_tr_1_tl_20"/>
+            <zone points="332,2903 1123,2898 1247,2948 1630,2946 2249,2918 2327,2872 2330,2816 332,2857" rendition="Line" xml:id="facs_129_tr_1_tl_21"/>
+            <zone points="335,3055 357,3065 667,3062 667,3007 335,3012" rendition="Line" xml:id="facs_129_tr_1_tl_23"/>
+            <zone points="565,3133 958,3126 1174,3171 2243,3110 2246,3032 565,3090" rendition="Line" xml:id="facs_129_tr_1_tl_24" subtype="paragraph"/>
+            <zone points="332,3252 2312,3214 2314,3148 649,3176 332,3225" rendition="Line" xml:id="facs_129_tr_1_tl_25"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0129.jpg" n="part1_p129.jpg" xml:id="img_0129" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p129.jpg"/>
+            
+            <ab facs="#facs_129_tr_1">
+               <lb facs="#facs_129_tr_1_tl_2" n="N001"/>[126]
+               <lb facs="#facs_129_tr_1_tl_5" n="N002"/>LECTURE XII, Nov. 10, 1955
+               <lb facs="#facs_129_tr_1_tl_6" n="N003"/>We will finish today the discussion on religion and science. At the end of the Tuesday hour, 
+               <lb facs="#facs_129_tr_1_tl_7" n="N004"/>I tried to show that religious symbols can neither be refuted nor confirmed by scientific results.
+               <lb facs="#facs_129_tr_1_tl_8" n="N005"/>In earlier periods, 1500 years ago, the problem was that from the side of science, religion was attacked,
+               <lb facs="#facs_129_tr_1_tl_9" n="N006"/>and the idea was that scientific results refute religious symbols. <rs type="keyword" ref="#Thesis">TODAY the problem is almost the
+               <lb break="no" facs="#facs_129_tr_1_tl_10" n="N007"/>opposite, namely that one has to be careful not to use present-day scientific results in order to
+               <lb break="no" facs="#facs_129_tr_1_tl_11" n="N008"/>confirm joyfully the truth of religion. Both ways are equally wrong and equally dangerous--
+               <lb break="no" facs="#facs_129_tr_1_tl_12" n="N009"/>that is the thesis of this whole section on religion and science, and that I tried to carry through
+               <lb break="no" facs="#facs_129_tr_1_tl_13" n="N010"/>in such a way that I showed that the earlier conflicts never were conflicts between
+               <lb break="no" facs="#facs_129_tr_1_tl_14" n="N011"/>merely scientific results and religious statements, but between worldviews, philosophical or religious,
+               <lb break="no" facs="#facs_129_tr_1_tl_15" n="N012"/>BEHIND the scientific results which came into conflict with traditional religious forms.</rs>
+               <lb facs="#facs_129_tr_1_tl_16" n="N013"/>And I criticized both science and religion for not understanding this situation, for confusing the
+               <lb facs="#facs_129_tr_1_tl_17" n="N014"/>inquiry into the finite relationships of realities with each other, with the dimension of ultimate
+               <lb facs="#facs_129_tr_1_tl_18" n="N015"/>meaning as symbolized by them. Science does this by identifying religious presuppositions it has,
+               <lb facs="#facs_129_tr_1_tl_19" n="N016"/>consciously or unconsciously, with the scientific results itself. Theology does it by making,
+               <lb facs="#facs_129_tr_1_tl_20" n="N017"/>in the name of religious symbols, factual statements about the movements of finite realities.
+               <lb facs="#facs_129_tr_1_tl_21" n="N018"/>In both cases, a boundaryline [sic.] is trespassed; in both cases, a fundamental confusion of DIMENSIONS
+               <lb facs="#facs_129_tr_1_tl_23" n="N019"/>has taken place.
+               <lb facs="#facs_129_tr_1_tl_24" n="N020"/>I spoke then about <rs type="person" key="Lamarck, Jean-Baptiste">Lamarck's</rs> metaphysics of mechanism, about the danger of using
+               <lb facs="#facs_129_tr_1_tl_25" n="N021"/>the law of entropy, of thedeath [sic.] of warmth, in order to prove the idea of creation ONCE UPON A
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

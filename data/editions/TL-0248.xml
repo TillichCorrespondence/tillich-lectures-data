@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p248</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p248</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_248">
+         <graphic url="TL-0248.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FRKTPJSDKUALREKECREFYCDJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="262,260 262,3500 2248,3500 2248,260" rendition="TextRegion" xml:id="facs_248_tr_3">
+            <zone points="1192,330 1204,330 1221,342 1313,340 1313,284 1291,284 1277,296 1262,294 1240,274 1226,286 1192,286" rendition="Line" xml:id="facs_248_tr_3_tl_1"/>
+            <zone points="345,432 1869,502 2117,486 2141,430 1949,425 1879,371 1833,422 342,386" rendition="Line" xml:id="facs_248_tr_3_tl_2"/>
+            <zone points="342,597 2207,638 2204,570 2124,602 1862,558 1711,590 1670,558 1406,583 1374,551 1289,580 340,527" rendition="Line" xml:id="facs_248_tr_3_tl_3"/>
+            <zone points="333,784 357,787 374,804 478,804 507,772 527,784 578,774 575,692 367,687 345,709 330,711" rendition="Line" xml:id="facs_248_tr_3_tl_4"/>
+            <zone points="534,820 636,871 1279,881 1413,837 1680,852 1741,901 2221,896 2192,787 2148,823 2044,782 1787,813 1748,777 1699,811 1665,779 1554,808 532,757" rendition="Line" xml:id="facs_248_tr_3_tl_5" subtype="paragraph"/>
+            <zone points="323,1012 842,1029 1163,986 2119,1022 2117,954 2032,949 323,932" rendition="Line" xml:id="facs_248_tr_3_tl_6"/>
+            <zone points="320,1141 2109,1219 2105,1105 320,1078" rendition="Line" xml:id="facs_248_tr_3_tl_7"/>
+            <zone points="318,1299 765,1340 842,1287 2207,1333 2245,1284 316,1240" rendition="Line" xml:id="facs_248_tr_3_tl_8"/>
+            <zone points="311,1423 2156,1483 2153,1413 311,1396" rendition="Line" xml:id="facs_248_tr_3_tl_9"/>
+            <zone points="306,1573 1520,1614 1517,1551 1469,1546 306,1541" rendition="Line" xml:id="facs_248_tr_3_tl_10"/>
+            <zone points="500,1728 561,1762 2119,1772 2117,1699 2049,1733 1957,1697 1726,1726 1687,1690 1636,1724 1556,1687 1483,1721 1362,1682 1274,1716 1027,1677 995,1709 670,1668 500,1694" rendition="Line" xml:id="facs_248_tr_3_tl_11" subtype="paragraph"/>
+            <zone points="299,1879 862,1952 2126,1954 2124,1859 299,1842" rendition="Line" xml:id="facs_248_tr_3_tl_12"/>
+            <zone points="286,2025 738,2039 816,2097 1503,2114 1777,2100 1874,2073 1874,2037 284,1998" rendition="Line" xml:id="facs_248_tr_3_tl_13"/>
+            <zone points="490,2190 1685,2238 2090,2231 2090,2192 488,2129" rendition="Line" xml:id="facs_248_tr_3_tl_14" subtype="paragraph"/>
+            <zone points="279,2333 961,2345 1022,2406 1680,2425 1772,2377 2221,2389 2165,2318 1682,2340 279,2275" rendition="Line" xml:id="facs_248_tr_3_tl_15"/>
+            <zone points="279,2493 2068,2544 2066,2474 277,2432" rendition="Line" xml:id="facs_248_tr_3_tl_16"/>
+            <zone points="277,2644 1852,2687 2090,2685 2107,2648 274,2583" rendition="Line" xml:id="facs_248_tr_3_tl_17"/>
+            <zone points="272,2801 2114,2845 2211,2838 2211,2767 1515,2758 1488,2789 269,2736" rendition="Line" xml:id="facs_248_tr_3_tl_18"/>
+            <zone points="260,2940 2209,2986 2207,2920 260,2908" rendition="Line" xml:id="facs_248_tr_3_tl_19"/>
+            <zone points="255,3093 2199,3139 2199,3073 1622,3095 335,3034 255,3064" rendition="Line" xml:id="facs_248_tr_3_tl_20"/>
+            <zone points="248,3243 260,3243 272,3253 313,3253 320,3246 328,3253 435,3253 432,3202 286,3197 265,3219 248,3219" rendition="Line" xml:id="facs_248_tr_3_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0248.jpg" n="part1_p248.jpg" xml:id="img_0248" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p248.jpg"/>
+            
+            <ab facs="#facs_248_tr_3">
+               <lb facs="#facs_248_tr_3_tl_1" n="N001"/>[244]
+               <lb facs="#facs_248_tr_3_tl_2" n="N002"/>is called philosophical, then it unites, of course, cognitive elements (in the ordinary sense of
+               <lb facs="#facs_248_tr_3_tl_3" n="N003"/>logical description) and intuitive elements: one must experience this doubleness of having and
+               <lb facs="#facs_248_tr_3_tl_4" n="N004"/>not-having.
+               <lb facs="#facs_248_tr_3_tl_5" n="N005"/>We find ourselves as a part of our world, but this our world, although it is OUR world,
+               <lb facs="#facs_248_tr_3_tl_6" n="N006"/>is at the same time strange to us. And the same is true with ourselves: we HAVE ourselves,
+               <lb facs="#facs_248_tr_3_tl_7" n="N007"/>we are aware of ourselves in every moment of our life processes, and at the same time, we
+               <lb facs="#facs_248_tr_3_tl_8" n="N008"/>are strange to ourselves, we ask the QUESTION ABOUT OURSELVES. So the question is always
+               <lb facs="#facs_248_tr_3_tl_9" n="N009"/>a double question, the question of ourselves (we have ourselves and have not ourselves), [and]
+               <lb facs="#facs_248_tr_3_tl_10" n="N010"/>of our world (we have our world and we have not our world).
+               <lb facs="#facs_248_tr_3_tl_11" n="N011"/>Now this double question is the reason for the possibility of losing oneself in one's
+               <lb facs="#facs_248_tr_3_tl_12" n="N012"/>world. And man's development is to a large extent a process of losing himself in the world to
+               <lb facs="#facs_248_tr_3_tl_13" n="N013"/>which he belongs and at which he looks at the same time as separated from him.
+               <lb facs="#facs_248_tr_3_tl_14" n="N014"/>Now let us directly use <rs type="keyword" ref="#Poetry">poetic<rs type="keyword" ref="#Symbols"/></rs><rs type="keyword" ref="#Symbols"> symbols f</rs>or this. The poetic symbol is taken from
+               <lb facs="#facs_248_tr_3_tl_15" n="N015"/><rs type="person">Homer,</rs> the <hi style="font-style: italic;">Iliad</hi> + the <hi style="font-style: italic;">Odyssey</hi>. The Iliad is the process of going-out, and losing oneself; and the
+               <lb facs="#facs_248_tr_3_tl_16" n="N016"/>Odyssey is the symbol for the returning-to-oneself. Man's cognitive relationship to himself,
+               <lb facs="#facs_248_tr_3_tl_17" n="N017"/>in his world, has both characteristics, under the predominance of the one or the other. In the
+               <lb facs="#facs_248_tr_3_tl_18" n="N018"/>period in which we are living, the predominance is on the side of the Iliad---man having lost himself
+               <lb facs="#facs_248_tr_3_tl_19" n="N019"/>in his world. But there are symptoms of the end, of this cognitive self-loss in one's world, and of a
+               <lb facs="#facs_248_tr_3_tl_20" n="N020"/>return to oneself. This is the first thing I want to discuss with you in connection with the doctrine
+               <lb facs="#facs_248_tr_3_tl_21" n="N021"/>of man.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p066</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p066</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_66">
+         <graphic url="TL-0350.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ERRPIPRPVCUDSVFTOGGWCKPL&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="235,329 2295,329 2295,2126 235,2126" rendition="TextRegion" xml:id="facs_66_tr_1">
+            <zone points="1063,388 1081,385 1091,395 1112,398 1168,398 1173,390 1188,390 1188,314 1165,316 1150,332 1127,332 1122,326 1063,329" rendition="Line" xml:id="facs_66_tr_1_tl_1"/>
+            <zone points="242,505 946,518 946,464 887,459 678,462 558,439 533,464 242,462" rendition="Line" xml:id="facs_66_tr_1_tl_2" subtype="heading"/>
+            <zone points="449,630 2224,638 2170,571 1963,553 449,556" rendition="Line" xml:id="facs_66_tr_1_tl_3"/>
+            <zone points="240,760 2257,775 2257,709 240,734" rendition="Line" xml:id="facs_66_tr_1_tl_4"/>
+            <zone points="242,915 2292,918 2292,857 242,880" rendition="Line" xml:id="facs_66_tr_1_tl_5"/>
+            <zone points="232,1058 1102,1091 1688,1068 1688,1007 1002,1033 405,997 232,1033" rendition="Line" xml:id="facs_66_tr_1_tl_6"/>
+            <zone points="240,1214 1874,1229 2252,1211 2252,1153 240,1163" rendition="Line" xml:id="facs_66_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="229,1359 2155,1367 2122,1311 229,1334" rendition="Line" xml:id="facs_66_tr_1_tl_8"/>
+            <zone points="224,1507 2211,1525 2211,1461 224,1482" rendition="Line" xml:id="facs_66_tr_1_tl_9"/>
+            <zone points="227,1660 2137,1680 2137,1612 227,1635" rendition="Line" xml:id="facs_66_tr_1_tl_10"/>
+            <zone points="224,1813 2088,1823 2088,1765 224,1765" rendition="Line" xml:id="facs_66_tr_1_tl_11"/>
+            <zone points="229,1969 2185,1974 2185,1915 229,1918" rendition="Line" xml:id="facs_66_tr_1_tl_12"/>
+            <zone points="222,2111 2101,2124 2101,2066 222,2066" rendition="Line" xml:id="facs_66_tr_1_tl_13"/>
+         </zone>
+         <zone points="47,2213 2239,2213 2239,3467 47,3467" rendition="TextRegion" xml:id="facs_66_tr_2">
+            <zone points="288,2267 2142,2285 2160,2221 288,2241" rendition="Line" xml:id="facs_66_tr_2_tl_1"/>
+            <zone points="217,2412 2068,2433 2132,2364 217,2387" rendition="Line" xml:id="facs_66_tr_2_tl_2"/>
+            <zone points="222,2570 2218,2573 2234,2514 222,2517" rendition="Line" xml:id="facs_66_tr_2_tl_3"/>
+            <zone points="212,2718 2073,2726 2073,2665 212,2672" rendition="Line" xml:id="facs_66_tr_2_tl_4"/>
+            <zone points="214,2879 2106,2876 2106,2818 214,2846" rendition="Line" xml:id="facs_66_tr_2_tl_5"/>
+            <zone points="207,3019 1793,3037 2142,3022 2142,2966 207,2994" rendition="Line" xml:id="facs_66_tr_2_tl_6"/>
+            <zone points="207,3172 229,3182 507,3180 528,3195 553,3180 615,3182 615,3126 207,3124" rendition="Line" xml:id="facs_66_tr_2_tl_7"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0350.jpg" n="part2_p066.jpg" xml:id="img_0066" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p066.jpg"/>
+            
+            <ab facs="#facs_66_tr_1">
+               <lb facs="#facs_66_tr_1_tl_1" n="N001"/>[345]
+               <lb facs="#facs_66_tr_1_tl_2" n="N002"/>LECTURE XXVIII, Feb. 21, 1956
+               <lb facs="#facs_66_tr_1_tl_3" n="N003"/>You remember that in the last hour I spoke to you about the nature of still life, about the
+               <lb facs="#facs_66_tr_1_tl_4" n="N004"/>nature of still life, the nature of pictures in which the organic elements are taken away, are not shown,
+               <lb facs="#facs_66_tr_1_tl_5" n="N005"/>and the inorganic elements out of which reality is constructed are visible. This is the foundation for the
+               <lb facs="#facs_66_tr_1_tl_6" n="N006"/>understanding of much of modern art, of that which is called abstract art.
+               <lb facs="#facs_66_tr_1_tl_7" n="N007"/>1) <hi style="font-style: italic;">MAN WITH A GUITAR</hi>, Braque--Here what you see is not the dissolution--yes, the dissolution
+               <lb facs="#facs_66_tr_1_tl_8" n="N008"/>of the surface reality of the human body into fundamental mathematical and physical structures.
+               <lb facs="#facs_66_tr_1_tl_9" n="N009"/>If you ask why is this a man with a guitar, I cannot give an answer, but it shouldn't be the problem;
+               <lb facs="#facs_66_tr_1_tl_10" n="N010"/>the problem should be that in such pictures, which have appeared in large numbers especially by
+               <lb facs="#facs_66_tr_1_tl_11" n="N011"/>Picasso and Braque and many of their followers, that in such pictures new forms of reality are
+               <lb facs="#facs_66_tr_1_tl_12" n="N012"/>discovered below the surface of reality, and this discovery is the decisive thing. The way in which
+               <lb facs="#facs_66_tr_1_tl_13" n="N013"/>it is composed doesn't indicate very much of the naturalistic basis out of which it has been
+            </ab>
+            <ab facs="#facs_66_tr_2">
+               <lb facs="#facs_66_tr_2_tl_1" n="N001"/>abstracted, and it shall not--you shouldn't ask this question. If you ask it, then the meaning
+               <lb facs="#facs_66_tr_2_tl_2" n="N002"/>of the whole thing is lost. But if you don't ask it, then you see that here is something which you
+               <lb facs="#facs_66_tr_2_tl_3" n="N003"/>don’t find in any other art, [it] comes so to speak out of the underground of reality into the surface.
+               <lb facs="#facs_66_tr_2_tl_4" n="N004"/>And then something happens which I showed you in connection with the still lives, that these
+               <lb facs="#facs_66_tr_2_tl_5" n="N005"/>non-organic forms of reality are filled with a kind of mystical or metaphysical or cosmic power,
+               <lb facs="#facs_66_tr_2_tl_6" n="N006"/>and that is most visible in them if you look at them and let the power of their symbolic character
+               <lb facs="#facs_66_tr_2_tl_7" n="N007"/>have effect on you.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

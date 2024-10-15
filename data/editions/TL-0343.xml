@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p059</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p059</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_59">
+         <graphic url="TL-0343.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RSQMKLVSBULMOSGHWXXJOLVY&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="1058,340 1217,340 1217,372 1058,372" rendition="TextRegion" xml:id="facs_59_r">
+            <zone points="1058,370 1217,372 1217,342 1059,340" rendition="Line" xml:id="facs_59_l"/>
+         </zone>
+         <zone points="274,463 2283,463 2283,1744 274,1744" rendition="TextRegion" xml:id="facs_59_tr_2">
+            <zone points="272,531 2047,541 2115,534 2115,481 272,489" rendition="Line" xml:id="facs_59_tr_2_tl_1"/>
+            <zone points="269,681 1227,683 1227,628 688,628 666,651 643,628 484,651 419,628 359,651 309,626 269,648" rendition="Line" xml:id="facs_59_tr_2_tl_2"/>
+            <zone points="274,830 2279,838 2232,768 274,776" rendition="Line" xml:id="facs_59_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="267,988 1741,998 1898,980 1898,928 267,955" rendition="Line" xml:id="facs_59_tr_2_tl_4"/>
+            <zone points="267,1137 1162,1137 1162,1082 606,1085 586,1105 267,1082" rendition="Line" xml:id="facs_59_tr_2_tl_5"/>
+            <zone points="267,1207 1823,1222 1997,1204 1997,1140 267,1162" rendition="Line" xml:id="facs_59_tr_2_tl_6"/>
+            <zone points="267,1284 2197,1292 2197,1239 2045,1197 267,1239" rendition="Line" xml:id="facs_59_tr_2_tl_7"/>
+            <zone points="259,1434 2105,1439 2182,1431 2182,1374 259,1389" rendition="Line" xml:id="facs_59_tr_2_tl_8"/>
+            <zone points="259,1581 1965,1596 2145,1584 2145,1531 259,1539" rendition="Line" xml:id="facs_59_tr_2_tl_9"/>
+            <zone points="259,1728 2007,1748 2115,1733 2117,1683 262,1706" rendition="Line" xml:id="facs_59_tr_2_tl_10"/>
+         </zone>
+         <zone points="47,1827 2188,1827 2188,3488 47,3488" rendition="TextRegion" xml:id="facs_59_tr_1">
+            <zone points="257,1885 2157,1895 2157,1833 257,1860" rendition="Line" xml:id="facs_59_tr_1_tl_1"/>
+            <zone points="249,2035 2142,2045 2142,1973 249,1990" rendition="Line" xml:id="facs_59_tr_1_tl_2"/>
+            <zone points="257,2190 2030,2197 2125,2190 2125,2135 257,2147" rendition="Line" xml:id="facs_59_tr_1_tl_3"/>
+            <zone points="257,2337 2125,2342 2125,2287 257,2307" rendition="Line" xml:id="facs_59_tr_1_tl_4"/>
+            <zone points="252,2496 2157,2486 2125,2434 1930,2424 252,2446" rendition="Line" xml:id="facs_59_tr_1_tl_5"/>
+            <zone points="254,2646 1963,2646 2110,2638 2112,2584 254,2596" rendition="Line" xml:id="facs_59_tr_1_tl_6"/>
+            <zone points="249,2793 2100,2798 2182,2736 249,2763" rendition="Line" xml:id="facs_59_tr_1_tl_7"/>
+            <zone points="242,2948 1973,2958 2165,2940 2165,2888 242,2923" rendition="Line" xml:id="facs_59_tr_1_tl_8"/>
+            <zone points="244,3107 2005,3105 2125,3095 2125,3047 244,3062" rendition="Line" xml:id="facs_59_tr_1_tl_9"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0343.jpg" n="part2_p059.jpg" xml:id="img_0059" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p059.jpg"/>
+            
+            <ab facs="#facs_59_r">
+               <lb facs="#facs_59_l" n="N001"/>[338]
+            </ab>
+            <ab facs="#facs_59_tr_2">
+               <lb facs="#facs_59_tr_2_tl_1" n="N001"/>it appears again. We will see later on how much that means for our modern art, this duality of
+               <lb facs="#facs_59_tr_2_tl_2" n="N002"/>the tragic AND the vital self-affirmation of man.
+               <lb facs="#facs_59_tr_2_tl_3" n="N003"/>QN: What do these naturalistic pictures signify because they have been represented in artistic symbols
+               <lb facs="#facs_59_tr_2_tl_4" n="N004"/>as over against what they would signify just as they exist before they were painted?
+               <lb facs="#facs_59_tr_2_tl_5" n="N005"/>PT: Excuse me, I was not able to understand.
+               <lb facs="#facs_59_tr_2_tl_6" n="N006"/>QN: What is added to the subject matter of these pictures by their having been painted?
+               <lb facs="#facs_59_tr_2_tl_7" n="N007"/>PT: Oh. Have you ever seen comedians like that in such a landscape, in such a kind of oscillating
+               <lb facs="#facs_59_tr_2_tl_8" n="N008"/>light and darkness, in some atmosphere of mist which is natural and non-natural at the same time?
+               <lb facs="#facs_59_tr_2_tl_9" n="N009"/>You remember from my lecture about the symbols of art: they are taken from nature, from the
+               <lb facs="#facs_59_tr_2_tl_10" n="N010"/>world as we encounter it, but then they lead, by a special way of using this material, into
+            </ab>
+            <ab facs="#facs_59_tr_1">
+               <lb facs="#facs_59_tr_1_tl_1" n="N001"/>a level which is not the level of our ordinary encounter with reality. That is what the artist does,
+               <lb facs="#facs_59_tr_1_tl_2" n="N002"/>beyond that which happens. This is the first step. Now I go one step beyond this: I say [that]
+               <lb facs="#facs_59_tr_1_tl_3" n="N003"/>in this way something which we also can have often, in meeting nature, reveals itself in a special
+               <lb facs="#facs_59_tr_1_tl_4" n="N004"/>way, namely ultimate reality in NON-ultimate reality. And here the traits of non-ultimate
+               <lb facs="#facs_59_tr_1_tl_5" n="N005"/>reality come out in the unity of the comic and the tragic, which we see especially in this picture.
+               <lb facs="#facs_59_tr_1_tl_6" n="N006"/>But before we come to this analysis, the FIRST step has to be made, namely the step to the
+               <lb facs="#facs_59_tr_1_tl_7" n="N007"/>artistic symbols, AS artistic symbols, which use the material but make something new out of it, and
+               <lb facs="#facs_59_tr_1_tl_8" n="N008"/>NOW--perhaps this is one of the reasons for your question--we are able, with our eyes (which are
+               <lb facs="#facs_59_tr_1_tl_9" n="N009"/>educated by the history of art), to see with the eyes of Watteau a reality which we encounter in
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p183</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p183</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_183">
+         <graphic url="TL-0183.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZOOFDMZMXSXVCJTPTTLJOSUU&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="158,202 158,3482 2254,3482 2254,202" rendition="TextRegion" xml:id="facs_183_tr_3">
+            <zone points="1188,267 1218,269 1226,277 1307,277 1307,194 1254,196 1241,201 1226,217 1188,217" rendition="Line" xml:id="facs_183_tr_3_tl_1"/>
+            <zone points="312,423 1697,420 2178,476 2248,438 2248,385 2049,350 1974,385 1732,352 1702,383 360,380 312,347" rendition="Line" xml:id="facs_183_tr_3_tl_2"/>
+            <zone points="312,577 385,612 1022,604 1072,566 2200,579 2200,526 312,524" rendition="Line" xml:id="facs_183_tr_3_tl_3"/>
+            <zone points="302,717 2225,733 2225,680 2092,670 302,675" rendition="Line" xml:id="facs_183_tr_3_tl_4"/>
+            <zone points="297,871 738,881 823,949 1004,881 2223,894 2223,836 2112,818 297,843" rendition="Line" xml:id="facs_183_tr_3_tl_5"/>
+            <zone points="305,1093 1475,1035 1629,1088 2228,1090 2228,989 2173,979 305,989" rendition="Line" xml:id="facs_183_tr_3_tl_6"/>
+            <zone points="302,1251 672,1188 1271,1254 1541,1186 2231,1186 2231,1140 1573,1140 1171,1067 1025,1110 712,1105 662,1150 300,1120" rendition="Line" xml:id="facs_183_tr_3_tl_7"/>
+            <zone points="292,1322 2248,1337 2248,1291 2059,1274 292,1279" rendition="Line" xml:id="facs_183_tr_3_tl_8"/>
+            <zone points="287,1478 637,1478 783,1558 833,1508 2168,1498 2183,1445 1410,1440 1309,1372 1198,1440 284,1435" rendition="Line" xml:id="facs_183_tr_3_tl_9"/>
+            <zone points="274,1694 519,1714 773,1631 1158,1631 1400,1684 1551,1634 2236,1644 2236,1594 2168,1578 1556,1596 1478,1548 1344,1591 1254,1541 1161,1591 851,1591 534,1478 274,1568" rendition="Line" xml:id="facs_183_tr_3_tl_12"/>
+            <zone points="206,1860 352,1805 790,1828 836,1787 896,1828 2225,1828 2225,1742 425,1740 206,1689" rendition="Line" xml:id="facs_183_tr_3_tl_13"/>
+            <zone points="287,1933 2152,1941 2152,1893 2032,1878 287,1883" rendition="Line" xml:id="facs_183_tr_3_tl_14"/>
+            <zone points="272,2077 2220,2102 2188,2027 272,2052" rendition="Line" xml:id="facs_183_tr_3_tl_15"/>
+            <zone points="269,2225 2248,2251 2246,2198 269,2183" rendition="Line" xml:id="facs_183_tr_3_tl_16"/>
+            <zone points="272,2389 2236,2412 2236,2354 2173,2349 272,2366" rendition="Line" xml:id="facs_183_tr_3_tl_17"/>
+            <zone points="264,2545 624,2555 705,2616 1098,2555 1203,2603 1523,2555 2225,2558 2225,2505 2049,2495 264,2515" rendition="Line" xml:id="facs_183_tr_3_tl_18"/>
+            <zone points="267,2699 1095,2706 1543,2757 2165,2711 2165,2653 267,2653" rendition="Line" xml:id="facs_183_tr_3_tl_19"/>
+            <zone points="267,2878 317,2915 491,2880 801,2915 1224,2847 2110,2855 2110,2787 1626,2827 1274,2787 267,2802" rendition="Line" xml:id="facs_183_tr_3_tl_20"/>
+            <zone points="259,3059 1239,3044 1289,3003 1536,3059 2125,3016 2125,2961 2069,2945 259,2963" rendition="Line" xml:id="facs_183_tr_3_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0183.jpg" n="part1_p183.jpg" xml:id="img_0183" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p183.jpg"/>
+            
+            <ab facs="#facs_183_tr_3">
+               <lb facs="#facs_183_tr_3_tl_1" n="N001"/>[179]
+               <lb facs="#facs_183_tr_3_tl_2" n="N002"/>both about structure and reality, and about the meaning of existence. Therefore the philosophers
+               <lb facs="#facs_183_tr_3_tl_3" n="N003"/>ALWAYS have theological substance. Their power is just the unity of these things---look at the
+               <lb facs="#facs_183_tr_3_tl_4" n="N004"/>Greek philosophers, at the Indian philosophers, at the philosophers of the modern period (not to
+               <lb facs="#facs_183_tr_3_tl_5" n="N005"/>speak of the Medieval ones from <rs type="person">Leibniz</rs> to <rs type="person">Spinoza</rs>), to <rs type="person">Kant</rs> and <rs type="person">Hegel.</rs> There seems to be only
+               <lb facs="#facs_183_tr_3_tl_6" n="N006"/>one exception, namely the positivistic line of philosophers, from <rs type="person">Locke</rs> and <rs type="person">Hume</rs> to present-day
+               <lb facs="#facs_183_tr_3_tl_7" n="N007"/><rs type="keyword" ref="#Logical_Positivism">logical positivism</rs>. This seems to be an exception to this rule. But this is only [so] if you look at
+               <lb facs="#facs_183_tr_3_tl_8" n="N008"/>them very superficially. SOME of them restrict themselves to special problems which NEEDED to
+               <lb facs="#facs_183_tr_3_tl_9" n="N009"/>be asked in their time: the epistemological problem, in the time of <rs type="person">Locke</rs> and <rs type="person">Hume</rs> and <rs type="person">Kant;</rs>
+               <lb facs="#facs_183_tr_3_tl_12" n="N010"/>the logical problem in OUR period; and the linguistic problem, which is so urgently needed today.
+               <lb facs="#facs_183_tr_3_tl_13" n="N011"/>This is certainly necessary, is an important endeavor, and justified. But partly it doesn’t cover the
+               <lb facs="#facs_183_tr_3_tl_14" n="N012"/>whole of it what has been called philosophy. And beyond this, if it is MORE than this, in the
+               <lb facs="#facs_183_tr_3_tl_15" n="N013"/>moment in which it makes criticisms of other philosophers, of theologians, it becomes philosophy
+               <lb facs="#facs_183_tr_3_tl_16" n="N014"/>itself and shows an <ultimate_concern>ultimate concern</ultimate_concern>. It shows an interpretation of being by relating language to
+               <lb facs="#facs_183_tr_3_tl_17" n="N015"/>reality, semantics to that to which the <hi style="font-style: italic;">seimata</hi>, the signs, point. <rs type="keyword" ref="#Logical_Positivism">And in the moment in which they
+               <lb break="no" facs="#facs_183_tr_3_tl_18" n="N016"/>do this, in which the logical positivists or epistemologists speak about reality at all---and they do it
+               <lb break="no" facs="#facs_183_tr_3_tl_19" n="N017"/>more and more today---in the same moment they become sons of classical philosophy, and their
+               <lb break="no" facs="#facs_183_tr_3_tl_20" n="N018"/>rejection of all philosophy is self-contradictory. You cannot escape, even if you are a logical
+               <lb break="no" facs="#facs_183_tr_3_tl_21" n="N019"/>positivist, the fundamental structure of humanity, namely to ask the question of the meaning</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

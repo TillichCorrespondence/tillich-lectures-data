@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p139</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p139</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_139">
+         <graphic url="TL-0139.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YOMSURXMVZUQHZWMJBUSZZRX&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="223,161 223,3225 2349,3225 2349,161" rendition="TextRegion" xml:id="facs_139_tr_2">
+            <zone points="1099,243 1122,245 1130,253 1180,251 1203,256 1211,256 1214,248 1227,248 1227,188 1169,188 1161,196 1135,188 1099,191" rendition="Line" xml:id="facs_139_tr_2_tl_1"/>
+            <zone points="318,444 950,467 989,501 1104,457 1903,462 2057,522 2156,465 2305,485 2302,329 2216,331 2091,425 1430,412 1370,378 1336,412 1078,410 893,269 726,399 318,397" rendition="Line" xml:id="facs_139_tr_2_tl_2"/>
+            <zone points="313,608 407,647 2297,673 2294,527 2104,564 2041,514 1999,561 1801,585 817,569 744,514 668,566 311,561" rendition="Line" xml:id="facs_139_tr_2_tl_3"/>
+            <zone points="313,744 543,754 606,804 2211,786 2208,728 2007,713 313,718" rendition="Line" xml:id="facs_139_tr_2_tl_4"/>
+            <zone points="308,898 2276,932 2276,869 308,867" rendition="Line" xml:id="facs_139_tr_2_tl_5"/>
+            <zone points="305,1047 519,1086 689,1054 2339,1091 2336,1018 303,1018" rendition="Line" xml:id="facs_139_tr_2_tl_6"/>
+            <zone points="303,1203 2232,1235 2232,1169 303,1169" rendition="Line" xml:id="facs_139_tr_2_tl_7"/>
+            <zone points="305,1357 1409,1370 1355,1318 305,1300" rendition="Line" xml:id="facs_139_tr_2_tl_8"/>
+            <zone points="392,1498 1211,1516 1420,1569 2279,1540 2276,1467 2182,1493 1937,1417 1454,1454 1375,1422 1232,1480 392,1433" rendition="Line" xml:id="facs_139_tr_2_tl_9" subtype="paragraph"/>
+            <zone points="287,1655 2242,1686 2242,1623 287,1597" rendition="Line" xml:id="facs_139_tr_2_tl_10"/>
+            <zone points="209,1871 300,1798 940,1811 989,1858 2242,1877 2242,1770 462,1775 206,1725" rendition="Line" xml:id="facs_139_tr_2_tl_11"/>
+            <zone points="256,2002 303,1968 853,2020 1355,1999 1579,2015 1678,2085 1999,2083 2263,1994 2263,1905 1746,1895 1694,1848 1584,1921 410,1905 253,1801" rendition="Line" xml:id="facs_139_tr_2_tl_12"/>
+            <zone points="274,2106 496,2179 577,2145 1355,2145 1472,2182 1569,2179 1631,2122 2292,2135 2289,2083 2216,2070 274,2054" rendition="Line" xml:id="facs_139_tr_2_tl_13"/>
+            <zone points="274,2352 501,2260 1819,2294 2177,2286 2177,2234 444,2211 271,2135" rendition="Line" xml:id="facs_139_tr_2_tl_14"/>
+            <zone points="269,2422 517,2419 574,2466 882,2466 934,2419 1128,2422 1208,2469 1441,2469 1522,2427 2255,2466 2252,2372 269,2357" rendition="Line" xml:id="facs_139_tr_2_tl_15"/>
+            <zone points="264,2558 806,2573 846,2613 1062,2628 1300,2573 2318,2623 2318,2550 2271,2526 264,2526" rendition="Line" xml:id="facs_139_tr_2_tl_16"/>
+            <zone points="264,2712 321,2756 1211,2720 1263,2772 1681,2787 1772,2725 2276,2738 2276,2678 2237,2675 264,2675" rendition="Line" xml:id="facs_139_tr_2_tl_17"/>
+            <zone points="251,2858 2273,2902 2271,2832 746,2840 553,2793 491,2834 251,2832" rendition="Line" xml:id="facs_139_tr_2_tl_18"/>
+            <zone points="248,3015 1931,3030 2078,3077 2344,3075 2341,2981 248,2983" rendition="Line" xml:id="facs_139_tr_2_tl_19"/>
+            <zone points="243,3218 663,3166 2258,3202 2276,3135 240,3114" rendition="Line" xml:id="facs_139_tr_2_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0139.jpg" n="part1_p139.jpg" xml:id="img_0139" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p139.jpg"/>
+            
+            <ab facs="#facs_139_tr_2">
+               <lb facs="#facs_139_tr_2_tl_1" n="N001"/>[136]
+               <lb facs="#facs_139_tr_2_tl_2" n="N002"/>space--this side we call ''<rs type="keyword" ref="#Body">body</rs>,'' it ENBODIES itself in time and space; and the other side is ''<rs type="keyword" ref="#Mind">mind</rs>,''
+               <lb facs="#facs_139_tr_2_tl_3" n="N003"/>it is able to have relationship to universals, to principles, to laws, to norms, and is able to understand
+               <lb facs="#facs_139_tr_2_tl_4" n="N004"/>them and, beyond all this, to go into the ultimate problems of man's relationship to the eternal.
+               <lb facs="#facs_139_tr_2_tl_5" n="N005"/>All this is not a matter of physical or biological or psychological or sociological doctrine of man.
+               <lb facs="#facs_139_tr_2_tl_6" n="N006"/>All this is a matter of different theories, none of which contradicts essentially the situation of <ultimate_concern>ultimate
+               <lb break="no" facs="#facs_139_tr_2_tl_7" n="N007"/>concern</ultimate_concern>, and none of which CONFIRMS definitively the situation of ultimate concern. Here also
+               <lb facs="#facs_139_tr_2_tl_8" n="N008"/>we must be as cautious as in the other form of <rs type="keyword" ref="#Physics">physics</rs>.
+               <lb facs="#facs_139_tr_2_tl_9" n="N009"/>This leads me to a last consideration, namely the problem of <genesis>genesis</genesis> and <rs type="keyword" ref="#Validity">validity</rs>. This is a very
+               <lb facs="#facs_139_tr_2_tl_10" n="N010"/>important problem in all these discussions--the genetic problem in relationship to the problem of
+               <lb facs="#facs_139_tr_2_tl_11" n="N011"/>validity. I hear again and again, ''If you know how, e.g., religion or art or whatever it may be, comes
+               <lb facs="#facs_139_tr_2_tl_12" n="N012"/>into existence, then you have refuted it, then it has been shown that it is NOTHING ELSE THAN.''
+               <lb facs="#facs_139_tr_2_tl_13" n="N013"/>Now this is a very poor kind of thinking. Everything has its <genesis>genesis</genesis>. Let us think about the genesis of
+               <lb facs="#facs_139_tr_2_tl_14" n="N014"/><rs type="keyword" ref="#Love">love</rs>, of a love-relationship between a male and female. This love relationship, if you describe it
+               <lb facs="#facs_139_tr_2_tl_15" n="N015"/>genetically, has many causes: there is the chemical cause, which has to do with the sex substance
+               <lb facs="#facs_139_tr_2_tl_16" n="N016"/>of both sexes; there are the nervous dynamics in the body of each of them; there are longings of one for
+               <lb facs="#facs_139_tr_2_tl_17" n="N017"/>what he has not, and can have by the other one--all these things are there. There are many elements
+               <lb facs="#facs_139_tr_2_tl_18" n="N018"/>of anxiety, of loneliness, of guilt feelings, and there is finally something in which one individual being
+               <lb facs="#facs_139_tr_2_tl_19" n="N019"/>affirms another individual being in terms of surrender, trust, desire to be with him or her. Now this is the
+               <lb facs="#facs_139_tr_2_tl_20" n="N020"/>genesis. If you SAY that the fact that there are chemical processes participating in such a relationship
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

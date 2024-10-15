@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p190</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p190</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_190">
+         <graphic url="TL-0190.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XGCIRPHGPXDFPLKAJDGOGHIF&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="35,163 35,3484 2301,3484 2301,163" rendition="TextRegion" xml:id="facs_190_tr_1">
+            <zone points="1155,218 1168,218 1181,231 1193,228 1208,239 1221,234 1241,236 1249,228 1280,228 1280,175 1224,175 1216,180 1155,178" rendition="Line" xml:id="facs_190_tr_1_tl_1"/>
+            <zone points="272,373 2127,386 2127,317 2084,343 2049,307 2013,343 1729,338 1693,302 1620,338 1445,302 1409,338 1236,305 1203,338 670,340 617,289 553,340 320,307 272,343" rendition="Line" xml:id="facs_190_tr_1_tl_2"/>
+            <zone points="269,528 2247,531 2247,475 1800,462 269,477" rendition="Line" xml:id="facs_190_tr_1_tl_3"/>
+            <zone points="267,673 1234,675 1269,711 2224,685 2224,627 267,630" rendition="Line" xml:id="facs_190_tr_1_tl_4"/>
+            <zone points="272,835 2244,835 2244,777 2110,762 272,782" rendition="Line" xml:id="facs_190_tr_1_tl_5"/>
+            <zone points="272,990 2229,985 2229,929 1846,952 1688,919 272,949" rendition="Line" xml:id="facs_190_tr_1_tl_6"/>
+            <zone points="269,1148 320,1186 622,1188 2221,1135 2168,1079 1985,1074 269,1082" rendition="Line" xml:id="facs_190_tr_1_tl_7"/>
+            <zone points="259,1277 1533,1285 1698,1343 2277,1290 2277,1236 2216,1226 259,1252" rendition="Line" xml:id="facs_190_tr_1_tl_8"/>
+            <zone points="267,1467 2257,1434 2257,1379 267,1404" rendition="Line" xml:id="facs_190_tr_1_tl_9"/>
+            <zone points="264,1582 2193,1587 2193,1526 264,1549" rendition="Line" xml:id="facs_190_tr_1_tl_10"/>
+            <zone points="259,1737 391,1752 454,1734 721,1742 718,1688 523,1688 487,1670 472,1688 292,1686 256,1701" rendition="Line" xml:id="facs_190_tr_1_tl_11"/>
+            <zone points="467,1825 1637,1833 1637,1767 721,1767 660,1795 467,1767" rendition="Line" xml:id="facs_190_tr_1_tl_13" subtype="paragraph"/>
+            <zone points="267,1973 2295,1975 2295,1922 2054,1914 267,1924" rendition="Line" xml:id="facs_190_tr_1_tl_14"/>
+            <zone points="259,2120 2133,2138 2206,2127 2209,2072 259,2077" rendition="Line" xml:id="facs_190_tr_1_tl_15"/>
+            <zone points="264,2277 2221,2277 2221,2224 2077,2216 264,2229" rendition="Line" xml:id="facs_190_tr_1_tl_16"/>
+            <zone points="254,2427 2176,2430 2176,2376 1490,2358 254,2399" rendition="Line" xml:id="facs_190_tr_1_tl_17"/>
+            <zone points="256,2582 2298,2582 2298,2526 256,2531" rendition="Line" xml:id="facs_190_tr_1_tl_18"/>
+            <zone points="259,2724 741,2732 782,2772 896,2732 2224,2739 2224,2689 2173,2673 259,2678" rendition="Line" xml:id="facs_190_tr_1_tl_19"/>
+            <zone points="254,2874 381,2909 708,2884 767,2937 2206,2894 2206,2821 2023,2813 1929,2848 1683,2813 254,2831" rendition="Line" xml:id="facs_190_tr_1_tl_20"/>
+            <zone points="264,3034 2267,3029 2267,2973 1932,2965 264,2983" rendition="Line" xml:id="facs_190_tr_1_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0190.jpg" n="part1_p190.jpg" xml:id="img_0190" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p190.jpg"/>
+            
+            <ab facs="#facs_190_tr_1">
+               <lb facs="#facs_190_tr_1_tl_1" n="N001"/>[186]
+               <lb facs="#facs_190_tr_1_tl_2" n="N002"/>REAL human beings like to pay more for something, even if they could pay less, in many cases,
+               <lb facs="#facs_190_tr_1_tl_3" n="N003"/>because they believe it is better---or simply to show something <hi style="font-style: italic;">[some laughter]</hi>---innumerable motives
+               <lb facs="#facs_190_tr_1_tl_4" n="N004"/>which are not defined in this way. Now these motives are all consequences of human nature, and
+               <lb facs="#facs_190_tr_1_tl_5" n="N005"/>they must be understood in terms of the different forces in human nature. <rs type="keyword" ref="#Economy">The economic will, as it is
+               <lb break="no" facs="#facs_190_tr_1_tl_6" n="N006"/>called, is different in every group, in every social class, in every religious situation. The economic will
+               <lb break="no" facs="#facs_190_tr_1_tl_7" n="N007"/>in original India is something quite different from that in presentday America, and it makes no sense
+               <lb break="no" facs="#facs_190_tr_1_tl_8" n="N008"/>to bring them under one and the same denominator. This means the economist presupposes a doctrine
+               <lb break="no" facs="#facs_190_tr_1_tl_9" n="N009"/>of the nature of man;</rs> and a doctrine of the nature of man, however much biology and psychology and
+               <lb facs="#facs_190_tr_1_tl_10" n="N010"/>sociology are involved in it, has fundamental philosophical presuppositions, as I don’t even need to
+               <lb facs="#facs_190_tr_1_tl_11" n="N011"/>show, in this moment.
+               <lb facs="#facs_190_tr_1_tl_13" n="N012"/>But even the act of finding historical facts has philosophical presuppositions, namely
+               <lb facs="#facs_190_tr_1_tl_14" n="N013"/>the decision, "Which facts, out of the infinite amount of happenings in every infinitely small moment of
+               <lb facs="#facs_190_tr_1_tl_15" n="N014"/>time, should be called historically relevant facts?" Now if you ask this simple question and imagine
+               <lb facs="#facs_190_tr_1_tl_16" n="N015"/>for a moment that we are together here for 50 minutes, that in these 50 minutes, in the bodies and
+               <lb facs="#facs_190_tr_1_tl_17" n="N016"/>minds of each of us, more things happen than all the books of the world could write down, if you
+               <lb facs="#facs_190_tr_1_tl_18" n="N017"/>describe what actually happens in the subatomic moments of time and in the half-unconscious elements
+               <lb facs="#facs_190_tr_1_tl_19" n="N018"/>of the soul---but you don’t even mention this class in your history books, except [if] something very
+               <lb facs="#facs_190_tr_1_tl_20" n="N019"/>dramatic happens in it. But to say that something is very "DRAMATIC", you have a principle of
+               <lb facs="#facs_190_tr_1_tl_21" n="N020"/>selection. And these principles of selection are dependent on your understanding of human nature and
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p104</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p104</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_104">
+         <graphic url="TL-0388.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RINFOKZISKLXHHPOIYPTZOMN&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="283,290 2233,290 2233,1359 283,1359" rendition="TextRegion" xml:id="facs_104_tr_3">
+            <zone points="1126,349 1140,349 1150,357 1244,354 1241,303 1204,303 1193,292 1188,298 1123,300" rendition="Line" xml:id="facs_104_tr_3_tl_1"/>
+            <zone points="282,507 2116,496 2158,426 282,458" rendition="Line" xml:id="facs_104_tr_3_tl_2"/>
+            <zone points="273,641 1593,678 1644,635 2148,646 2148,582 273,614" rendition="Line" xml:id="facs_104_tr_3_tl_3"/>
+            <zone points="282,783 2097,788 2097,729 282,756" rendition="Line" xml:id="facs_104_tr_3_tl_4"/>
+            <zone points="271,922 1995,984 2174,965 2228,858 271,896" rendition="Line" xml:id="facs_104_tr_3_tl_5"/>
+            <zone points="276,1075 1083,1126 1174,1067 2212,1072 2212,1014 276,1024" rendition="Line" xml:id="facs_104_tr_3_tl_6"/>
+            <zone points="268,1249 1043,1252 1131,1204 1279,1255 2142,1252 2142,1150 268,1182" rendition="Line" xml:id="facs_104_tr_3_tl_7"/>
+            <zone points="273,1381 1153,1413 2032,1365 2110,1295 273,1308" rendition="Line" xml:id="facs_104_tr_3_tl_8"/>
+         </zone>
+         <zone points="274,1427 2301,1427 2301,2855 274,2855" rendition="TextRegion" xml:id="facs_104_tr_2">
+            <zone points="273,1491 2038,1510 2148,1485 2148,1434 273,1467" rendition="Line" xml:id="facs_104_tr_2_tl_1"/>
+            <zone points="273,1638 1981,1641 2107,1633 2107,1566 273,1595" rendition="Line" xml:id="facs_104_tr_2_tl_2"/>
+            <zone points="271,1780 2091,1775 2091,1711 271,1737" rendition="Line" xml:id="facs_104_tr_2_tl_3"/>
+            <zone points="268,1922 383,1987 410,1987 450,1955 702,1955 702,1872 268,1869" rendition="Line" xml:id="facs_104_tr_2_tl_4"/>
+            <zone points="517,1984 2298,2006 2255,1920 517,1955" rendition="Line" xml:id="facs_104_tr_2_tl_5" subtype="paragraph"/>
+            <zone points="265,2140 2196,2137 2279,2134 2279,2075 268,2105" rendition="Line" xml:id="facs_104_tr_2_tl_6"/>
+            <zone points="265,2276 2059,2284 2142,2274 2142,2223 265,2247" rendition="Line" xml:id="facs_104_tr_2_tl_7"/>
+            <zone points="271,2464 1957,2429 2137,2416 2140,2360 271,2373" rendition="Line" xml:id="facs_104_tr_2_tl_8"/>
+            <zone points="265,2620 1678,2598 2046,2558 2046,2502 265,2520" rendition="Line" xml:id="facs_104_tr_2_tl_9"/>
+            <zone points="263,2708 1719,2711 2110,2660 263,2676" rendition="Line" xml:id="facs_104_tr_2_tl_10"/>
+            <zone points="260,2847 1885,2850 2177,2837 2177,2780 260,2799" rendition="Line" xml:id="facs_104_tr_2_tl_11"/>
+         </zone>
+         <zone points="80,2920 2224,2920 2224,3467 80,3467" rendition="TextRegion" xml:id="facs_104_tr_1">
+            <zone points="64,3024 1512,2987 1598,3043 2172,3014 2217,2917 67,2968" rendition="Line" xml:id="facs_104_tr_1_tl_1"/>
+            <zone points="263,3132 1968,3140 2164,3134 2164,3083 263,3108" rendition="Line" xml:id="facs_104_tr_1_tl_2"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0388.jpg" n="part2_p104.jpg" xml:id="img_0104" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p104.jpg"/>
+            
+            <ab facs="#facs_104_tr_3">
+               <lb facs="#facs_104_tr_3_tl_1" n="N001"/>[383]
+               <lb facs="#facs_104_tr_3_tl_2" n="N002"/>If they say they are adjusted to the general standards of the way in which one should think and
+               <lb facs="#facs_104_tr_3_tl_3" n="N003"/>act, then I would say this ''adjustment'' is adjustment to mass society and is a fundamental way
+               <lb facs="#facs_104_tr_3_tl_4" n="N004"/>of preventing people to remain non-conformists and to say No! And a teacher who tells me,
+               <lb facs="#facs_104_tr_3_tl_5" n="N005"/>if I ask him, ''How often do your pupils say NO to what you say, either in papers or in questions?''--
+               <lb facs="#facs_104_tr_3_tl_6" n="N006"/>and he says either ''Usually they don't'' or ''They don't dare!'' [<hi style="font-style: italic;">laughter</hi>], or something like that,
+               <lb facs="#facs_104_tr_3_tl_7" n="N007"/>then I would say this is a very bad teacher. And one of the main criteria of the good teacher is
+               <lb facs="#facs_104_tr_3_tl_8" n="N008"/>that he creates so much independent thinking that they reject the teacher, not malignantly or
+            </ab>
+            <ab facs="#facs_104_tr_2">
+               <lb facs="#facs_104_tr_2_tl_1" n="N001"/>with hostility, but in terms of their own thought; then they have really learned something from
+               <lb facs="#facs_104_tr_2_tl_2" n="N002"/>him, namely the ability of dialectical discussion about problems which can anyhow be solved
+               <lb facs="#facs_104_tr_2_tl_3" n="N003"/>ONLY through the process of Yes and No, and never through a monolithic statement of the
+               <lb facs="#facs_104_tr_2_tl_4" n="N004"/>teacher to the pupils.
+               <lb facs="#facs_104_tr_2_tl_5" n="N005"/>The other ways of hidden psychological influence are the means of mass communication,
+               <lb facs="#facs_104_tr_2_tl_6" n="N006"/>to which I already referred and which are so much discussed today. These means of mass communica-
+               <lb facs="#facs_104_tr_2_tl_7" n="N007"/>tion (the older one, the newspaper, the radio; and the newer one, the movie and television) are
+               <lb facs="#facs_104_tr_2_tl_8" n="N008"/>extremely strong, even to those who listen or look at them very little. They are strong because
+               <lb facs="#facs_104_tr_2_tl_9" n="N009"/>they fill the atmosphere and produce a language, produce connotations, indirectly even in
+               <lb facs="#facs_104_tr_2_tl_10" n="N010"/>those who are not addicted to one of these influences, but who keep fairly away from them...
+               <lb facs="#facs_104_tr_2_tl_11" n="N011"/>But they cannot really keep away from them because the whole civilization is filled with them.
+            </ab>
+            <ab facs="#facs_104_tr_1">
+               <lb facs="#facs_104_tr_1_tl_1" n="N001"/>And they are most powerful means for producing mass society--people who know the same things,
+               <lb facs="#facs_104_tr_1_tl_2" n="N002"/>they have learned from these means of mass communication: people who think the same thing,
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

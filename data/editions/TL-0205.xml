@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p205</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p205</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_205">
+         <graphic url="TL-0205.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KINXROCJYKDQXMPQAYUGAJMB&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="44,211 44,3466 2403,3466 2403,211" rendition="TextRegion" xml:id="facs_205_tr_1">
+            <zone points="1155,282 1187,285 1195,295 1211,290 1232,293 1238,287 1249,293 1273,293 1275,215 1262,212 1232,239 1214,220 1192,236 1155,234" rendition="Line" xml:id="facs_205_tr_1_tl_1"/>
+            <zone points="430,448 996,470 1101,435 2108,422 2164,413 2167,362 430,408" rendition="Line" xml:id="facs_205_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="231,604 2143,567 2145,494 2076,494 2038,529 1973,497 1517,540 1485,507 1348,548 1015,521 910,558 234,572" rendition="Line" xml:id="facs_205_tr_1_tl_3"/>
+            <zone points="236,763 2046,773 2191,730 2191,650 239,698" rendition="Line" xml:id="facs_205_tr_1_tl_4"/>
+            <zone points="236,910 317,964 690,924 902,996 1249,964 1402,883 2145,870 2148,811 1385,832 1302,789 1235,838 865,843 811,803 542,873 236,857" rendition="Line" xml:id="facs_205_tr_1_tl_5"/>
+            <zone points="236,1055 2253,1010 2161,956 236,1026" rendition="Line" xml:id="facs_205_tr_1_tl_6"/>
+            <zone points="244,1141 349,1189 712,1189 2247,1106 2247,1042 2124,1034 247,1093" rendition="Line" xml:id="facs_205_tr_1_tl_7"/>
+            <zone points="228,1318 301,1348 757,1294 1552,1318 2288,1278 2277,1189 231,1222" rendition="Line" xml:id="facs_205_tr_1_tl_8"/>
+            <zone points="242,1474 1085,1477 1187,1420 2202,1399 2204,1337 244,1388" rendition="Line" xml:id="facs_205_tr_1_tl_9"/>
+            <zone points="245,1613 2367,1567 2367,1545 244,1591" rendition="Line" xml:id="facs_205_l_523"/>
+            <zone points="242,1743 2027,1702 1949,1646 242,1716" rendition="Line" xml:id="facs_205_tr_1_tl_11"/>
+            <zone points="440,1882 2223,1893 2255,1794 440,1853" rendition="Line" xml:id="facs_205_tr_1_tl_12" subtype="paragraph"/>
+            <zone points="247,2046 2169,2008 2258,1998 2261,1931 247,2008" rendition="Line" xml:id="facs_205_tr_1_tl_13"/>
+            <zone points="242,2229 827,2245 1756,2180 1984,2212 2204,2178 2207,2097 242,2164" rendition="Line" xml:id="facs_205_tr_1_tl_14"/>
+            <zone points="250,2352 392,2403 1192,2320 2196,2309 2247,2301 2250,2239 250,2290" rendition="Line" xml:id="facs_205_tr_1_tl_15"/>
+            <zone points="250,2500 2164,2457 2212,2451 2215,2390 250,2468" rendition="Line" xml:id="facs_205_tr_1_tl_16"/>
+            <zone points="250,2647 1114,2631 1227,2658 1232,2535 1136,2580 252,2623" rendition="Line" xml:id="facs_205_tr_1_tl_18"/>
+            <zone points="247,2795 2247,2744 2250,2709 2092,2688 250,2766" rendition="Line" xml:id="facs_205_tr_1_tl_19"/>
+            <zone points="247,2951 663,2945 768,2983 897,2940 2223,2902 2199,2838 1216,2900 763,2870 247,2924" rendition="Line" xml:id="facs_205_tr_1_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0205.jpg" n="part1_p205.jpg" xml:id="img_0205" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p205.jpg"/>
+            
+            <ab facs="#facs_205_tr_1">
+               <lb facs="#facs_205_tr_1_tl_1" n="N001"/>[201]
+               <lb facs="#facs_205_tr_1_tl_2" n="N002"/>Now l hope that the distinction---which is the real emphasis in this discussion---has been
+               <lb facs="#facs_205_tr_1_tl_3" n="N003"/>as clear as it can become, in these very difficult heights of abstraction. But l will repeat it again:
+               <lb facs="#facs_205_tr_1_tl_4" n="N004"/>the philosophical arguments between <rs type="keyword" ref="#Nominalism">nominalism </rs>and <rs type="keyword" ref="#Realism">realism</rs>---or today, between l<rs type="keyword" ref="#Logical_Positivism">ogical positivism</rs>
+               <lb facs="#facs_205_tr_1_tl_5" n="N005"/>and <rs type="keyword" ref="#Ontology">ontology</rs>---go around the meaning of <rs type="keyword" ref="#Universal_category">universals. </rs>And there, they have their place, where the
+               <lb facs="#facs_205_tr_1_tl_6" n="N006"/>theologian has no right whatsoever to interfere and to tell them where to go. And this is decisive---
+               <lb facs="#facs_205_tr_1_tl_7" n="N007"/>and here l feel very much on the side of Protestantism against Roman Catholic tendencies which were
+               <lb facs="#facs_205_tr_1_tl_8" n="N008"/>more than ever before supported by the present pope, to give judgments about philosophical arguments.
+               <lb facs="#facs_205_tr_1_tl_9" n="N009"/>This is not the business of the theologian and should never be and never could be, because it would
+               <lb facs="#facs_205_l_523" n="N010"/>demand the breaking of the honesty and freedom of the <hi style="font-style: italic;">philos-sophia</hi>, of the radical asking [of] the questions
+               <lb facs="#facs_205_tr_1_tl_11" n="N011"/>of being. and THAT CANNOT BE DONE. Philosophy CANNOT follow any lead in this.
+               <lb facs="#facs_205_tr_1_tl_12" n="N012"/>But if you discuss with philosophers, or one or the other group, you can show to them that
+               <lb facs="#facs_205_tr_1_tl_13" n="N013"/>there is a dimension in their thought which is not simply a matter of philosophical arguments, but
+               <lb facs="#facs_205_tr_1_tl_14" n="N014"/>which is a matter of encounter with reality as such in the TOTALITY of one's being, and not only
+               <lb facs="#facs_205_tr_1_tl_15" n="N015"/>in the realm of logical arguments. If you show THlS, then you have not only a business but [also] a
+               <lb facs="#facs_205_tr_1_tl_16" n="N016"/>duty and a possibility not to interfere in the arguments but to show that here an <ultimate_concern>ultimate concern</ultimate_concern>
+               <lb facs="#facs_205_tr_1_tl_18" n="N017"/>determines the picture beyond any argument---for instance, in some cases, which I often have found,
+               <lb facs="#facs_205_tr_1_tl_19" n="N018"/>a lack of an experience of that dimension which I describe as the<rs type="keyword" ref="#Power_of_Being"> experience of the power of being---</rs>
+               <lb facs="#facs_205_tr_1_tl_20" n="N019"/>a lack of feeling for the threat of nonbeing. You can often find that, and then of course you cannot
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

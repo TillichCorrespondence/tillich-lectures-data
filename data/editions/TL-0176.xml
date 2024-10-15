@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p176</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p176</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_176">
+         <graphic url="TL-0176.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HDAXDZCRYNYLICTHYZLTOWGD&amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="146,231 146,3492 2415,3492 2415,231" rendition="TextRegion" xml:id="facs_176_tr_2">
+            <zone points="1195,301 1210,301 1223,311 1239,311 1246,316 1311,316 1306,238 1257,241 1249,233 1241,233 1228,249 1192,249" rendition="Line" xml:id="facs_176_tr_2_tl_1"/>
+            <zone points="345,446 2135,485 2195,482 2195,428 342,399" rendition="Line" xml:id="facs_176_tr_2_tl_2"/>
+            <zone points="339,601 1337,606 1643,622 1702,676 1871,643 2410,674 2410,549 339,567" rendition="Line" xml:id="facs_176_tr_2_tl_3"/>
+            <zone points="337,744 2073,806 2265,788 2262,723 2127,726 2081,681 1498,731 334,694" rendition="Line" xml:id="facs_176_tr_2_tl_4"/>
+            <zone points="339,897 739,910 894,967 2322,930 2319,876 1778,871 1739,834 339,850" rendition="Line" xml:id="facs_176_tr_2_tl_5"/>
+            <zone points="329,1044 1596,1068 1770,1109 1998,1073 2052,1125 2407,1125 2405,1029 329,1018" rendition="Line" xml:id="facs_176_tr_2_tl_6"/>
+            <zone points="321,1231 2342,1223 2296,1166 319,1166" rendition="Line" xml:id="facs_176_tr_2_tl_8"/>
+            <zone points="319,1342 2210,1384 2330,1381 2330,1324 316,1316" rendition="Line" xml:id="facs_176_tr_2_tl_9"/>
+            <zone points="324,1498 1373,1570 1542,1534 1804,1555 1832,1472 321,1469" rendition="Line" xml:id="facs_176_tr_2_tl_10"/>
+            <zone points="531,1648 2252,1710 2252,1620 531,1599" rendition="Line" xml:id="facs_176_tr_2_tl_11" subtype="paragraph"/>
+            <zone points="241,1933 505,1845 1876,1855 2083,1892 2267,1845 2265,1780 2109,1772 402,1752 236,1625" rendition="Line" xml:id="facs_176_tr_2_tl_12"/>
+            <zone points="308,1987 352,2019 1029,1985 1246,2019 1443,1964 2203,2003 2203,1936 306,1923" rendition="Line" xml:id="facs_176_tr_2_tl_13"/>
+            <zone points="311,2107 2177,2125 2138,2081 1905,2073 311,2076" rendition="Line" xml:id="facs_176_tr_2_tl_14"/>
+            <zone points="301,2257 2190,2288 2190,2231 1925,2249 1886,2210 301,2210" rendition="Line" xml:id="facs_176_tr_2_tl_15"/>
+            <zone points="301,2402 1731,2428 1905,2467 2210,2436 2210,2376 301,2376" rendition="Line" xml:id="facs_176_tr_2_tl_16"/>
+            <zone points="295,2560 2236,2594 2236,2532 293,2503" rendition="Line" xml:id="facs_176_tr_2_tl_17"/>
+            <zone points="298,2747 1912,2780 2164,2744 2161,2679 295,2659" rendition="Line" xml:id="facs_176_tr_2_tl_18"/>
+            <zone points="290,2902 767,2915 819,2871 868,2915 1744,2897 2006,2938 2130,2907 2130,2812 352,2801 290,2832" rendition="Line" xml:id="facs_176_tr_2_tl_19"/>
+            <zone points="290,3060 373,3076 422,3040 728,3040 1021,3065 1094,3042 1094,2975 1068,2972 389,2964 368,2944 290,2964" rendition="Line" xml:id="facs_176_tr_2_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0176.jpg" n="part1_p176.jpg" xml:id="img_0176" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p176.jpg"/>
+            
+            <ab facs="#facs_176_tr_2">
+               <lb facs="#facs_176_tr_2_tl_1" n="N001"/>[172]
+               <lb facs="#facs_176_tr_2_tl_2" n="N002"/>that even in the OLD Testament a special interpretation of time and space, and the universe, is
+               <lb facs="#facs_176_tr_2_tl_3" n="N003"/>always present, and that if they use---even ONLY! <rs type="keyword" ref="#Concept">--biblical concepts, they are using philosophical concepts
+               <lb break="no" facs="#facs_176_tr_2_tl_4" n="N004"/>But they never DO that only, even if they TELL you; they use also the concept of man, they use
+               <lb break="no" facs="#facs_176_tr_2_tl_5" n="N005"/>the concept of history, they use the concept of becoming and of being, </rs>but if someone asked, "What
+               <lb facs="#facs_176_tr_2_tl_6" n="N006"/>do you mean with becoming and being and history and man and animal?", they say, "I cannot answer this
+               <lb facs="#facs_176_tr_2_tl_8" n="N007"/>because that is philosophy." Now that is the thing which raises a real wrath in me! <hi style="font-style: italic;">[some laughter] </hi>-
+               <lb facs="#facs_176_tr_2_tl_9" n="N008"/>not because of ignorance---I don’t mind ignorance; we are here in order to overcome it in ourselves and
+               <lb facs="#facs_176_tr_2_tl_10" n="N009"/>others---but l mind irresponsible self-contradiction out of emotional motives.
+               <lb facs="#facs_176_tr_2_tl_11" n="N010"/>The difficulty of every discussion concerning<rs type="keyword" ref="#Philosophy"> philosophy </rs>as such is the fact that there is
+               <lb facs="#facs_176_tr_2_tl_12" n="N011"/>no definition of philosophy WHICH IS NOT ALREADY A PHILOSOPHICAL SYSTEM <hi style="font-style: italic;">IN NUCE</hi>,
+               <lb facs="#facs_176_tr_2_tl_13" n="N012"/>a condensed philosophical system---that's the difficulty. If you read all the nice (or I would say
+               <lb facs="#facs_176_tr_2_tl_14" n="N013"/>abominable) textbooks on philosophy, and in the first paragraph you read a DEFINITION of
+               <lb facs="#facs_176_tr_2_tl_15" n="N014"/>philosophy, then read this paragraph again after you have studied the whole book---and perhaps
+               <lb facs="#facs_176_tr_2_tl_16" n="N015"/>even a real philosopher---and then go back to the definition and you will immediately know what
+               <lb facs="#facs_176_tr_2_tl_17" n="N016"/>kind of philosophy this man has who wrote this textbook. Here again we should be honest and say
+               <lb facs="#facs_176_tr_2_tl_18" n="N017"/>that there is no possible defintion [sic.] of philosophy which is not the immediate expression already
+               <lb facs="#facs_176_tr_2_tl_19" n="N018"/>of a philosophical system. You cannot escape, by textbook knowledge, from a DECISION in
+               <lb facs="#facs_176_tr_2_tl_20" n="N019"/>philosophy---that's what I wanted to say.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

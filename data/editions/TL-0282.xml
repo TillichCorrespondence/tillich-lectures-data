@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p282</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p282</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_282">
+         <graphic url="TL-0282.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZARZZWDOJBYQNQPFVGDRSCJA&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="11,238 11,3493 2283,3493 2283,238" rendition="TextRegion" xml:id="facs_282_tr_1">
+            <zone points="1124,318 1139,318 1147,325 1237,325 1237,267 1212,267 1189,244 1172,252 1159,265 1124,265" rendition="Line" xml:id="facs_282_tr_1_tl_1"/>
+            <zone points="285,451 2235,501 2235,444 2117,421 1525,431 1459,375 1401,428 285,413" rendition="Line" xml:id="facs_282_tr_1_tl_2"/>
+            <zone points="292,610 2248,645 2208,575 292,577" rendition="Line" xml:id="facs_282_tr_1_tl_3"/>
+            <zone points="277,756 2165,799 2165,723 2054,683 2001,721 1063,741 277,706" rendition="Line" xml:id="facs_282_tr_1_tl_4"/>
+            <zone points="282,910 2271,932 2268,877 2069,837 2003,872 975,887 280,857" rendition="Line" xml:id="facs_282_tr_1_tl_5"/>
+            <zone points="277,1058 1933,1094 2205,1084 2205,1023 275,1023" rendition="Line" xml:id="facs_282_tr_1_tl_6"/>
+            <zone points="270,1205 2273,1242 2273,1179 2210,1174 270,1179" rendition="Line" xml:id="facs_282_tr_1_tl_7"/>
+            <zone points="267,1368 2238,1396 2238,1333 2097,1323 267,1323" rendition="Line" xml:id="facs_282_tr_1_tl_8"/>
+            <zone points="275,1517 2223,1552 2220,1487 2132,1482 275,1479" rendition="Line" xml:id="facs_282_tr_1_tl_9"/>
+            <zone points="270,1661 1774,1701 2271,1686 2271,1628 1484,1651 267,1610" rendition="Line" xml:id="facs_282_tr_1_tl_10"/>
+            <zone points="260,1845 1910,1890 1976,1830 2213,1837 2210,1779 257,1784" rendition="Line" xml:id="facs_282_tr_1_tl_11"/>
+            <zone points="257,1958 544,1981 877,1976 877,1923 852,1920 290,1910 257,1933" rendition="Line" xml:id="facs_282_tr_1_tl_12"/>
+            <zone points="466,2119 2218,2142 2215,2054 2034,2097 1918,2051 1794,2094 1751,2051 1630,2092 1590,2061 1051,2087 1013,2049 978,2084 885,2044 837,2084 784,2044 660,2082 620,2041 529,2079 466,2039" rendition="Line" xml:id="facs_282_tr_1_tl_13" subtype="paragraph"/>
+            <zone points="255,2260 625,2306 816,2268 2213,2283 2213,2220 255,2230" rendition="Line" xml:id="facs_282_tr_1_tl_14"/>
+            <zone points="255,2419 383,2467 625,2422 844,2470 2205,2460 2205,2384 2150,2374 585,2394 255,2356" rendition="Line" xml:id="facs_282_tr_1_tl_15"/>
+            <zone points="247,2570 350,2626 794,2591 1061,2631 1197,2578 2205,2588 2202,2528 1205,2545 1076,2500 244,2538" rendition="Line" xml:id="facs_282_tr_1_tl_17"/>
+            <zone points="255,2719 2276,2744 2276,2679 255,2664" rendition="Line" xml:id="facs_282_tr_1_tl_18"/>
+            <zone points="446,2868 2187,2901 2185,2838 446,2822" rendition="Line" xml:id="facs_282_tr_1_tl_19" subtype="paragraph"/>
+            <zone points="239,3014 2170,3044 2170,2979 761,2994 325,2951 239,2984" rendition="Line" xml:id="facs_282_tr_1_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0282.jpg" n="part1_p282.jpg" xml:id="img_0282" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p282.jpg"/>
+            
+            <ab facs="#facs_282_tr_1">
+               <lb facs="#facs_282_tr_1_tl_1" n="N001"/>[278]
+               <lb facs="#facs_282_tr_1_tl_2" n="N002"/>who endeavored to produce a good family relationship to their husbands or wives, to their children,
+               <lb facs="#facs_282_tr_1_tl_3" n="N003"/>were those who OFTEN, by this very fact, produced reactions in their children (or in the other part,
+               <lb facs="#facs_282_tr_1_tl_4" n="N004"/>in the marriage, which could not find a way out and therefore produced neurosis and psychosis).
+               <lb facs="#facs_282_tr_1_tl_5" n="N005"/>I cannot go into these things fully. The important point for the understanding of <rs type="keyword" ref="#Symbols">symbols</rs> of <ultimate_concern>ultimate
+               <lb break="no" facs="#facs_282_tr_1_tl_6" n="N006"/>concern</ultimate_concern> is that families, friend-relationships and social relations generally, in their GOODNESS are
+               <lb facs="#facs_282_tr_1_tl_7" n="N007"/>ambiguous: THAT's the decisive thing. If you make the distinction between good ones and bad ones,
+               <lb facs="#facs_282_tr_1_tl_8" n="N008"/>[e,g.], "Let us all become men of good will, then we will also have good social relations, good family
+               <lb facs="#facs_282_tr_1_tl_9" n="N009"/>relations, and everything will be alright"---then every psychoanalyst who knows the human psyche,
+               <lb facs="#facs_282_tr_1_tl_10" n="N010"/>the human soul, in its darker [side], its unconscious strivings, can only have a smile about this amount
+               <lb facs="#facs_282_tr_1_tl_11" n="N011"/>of ignorance about real human beings. The actual situation is a situation of ambiguity. And that is
+               <lb facs="#facs_282_tr_1_tl_12" n="N012"/>the first thing we must realize.
+               <lb facs="#facs_282_tr_1_tl_13" n="N013"/>Now I come to the last point, namely the awareness of this situation, and the form of this
+               <lb facs="#facs_282_tr_1_tl_14" n="N014"/>awareness, I call "<rs type="keyword" ref="#Anxiety">anxiety</rs>." If you want, it is a rediscovery of the most existentialist sentence in all
+               <lb facs="#facs_282_tr_1_tl_15" n="N015"/>[of] <rs type="person">Augustine</rs>, namely: the human soul is restless till it rests in Thee---namely God. Now, for this
+               <lb facs="#facs_282_tr_1_tl_17" n="N016"/>restlessness, we have today the term "anxiety"---we didn't have it 20 years ago when I came to this
+               <lb facs="#facs_282_tr_1_tl_18" n="N017"/>country, but words develop in connection with insights. Today this word can be used and understood.
+               <lb facs="#facs_282_tr_1_tl_19" n="N018"/>There are analysts who speak of "basic anxiety," but they restrict this phrase to <rs type="keyword" ref="#Anxiety">anxiety</rs>
+               <lb facs="#facs_282_tr_1_tl_20" n="N019"/>in a special primitive culture and a special developed culture---for instance the basic anxiety of the
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

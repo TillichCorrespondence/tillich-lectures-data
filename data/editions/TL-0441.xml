@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part3_p049</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p049</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_49">
+         <graphic url="TL-0441.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GJYNQLFESTZFYGSJQIRSBBVW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="310,57 2346,57 2346,813 310,813" rendition="TextRegion" xml:id="facs_49_tr_3">
+            <zone points="386,115 593,118 593,8 386,8" rendition="Line" xml:id="facs_49_tr_3_tl_1"/>
+            <zone points="1143,348 1182,350 1189,358 1271,358 1271,274 1235,276 1230,271 1217,276 1205,289 1143,289" rendition="Line" xml:id="facs_49_tr_3_tl_2"/>
+            <zone points="297,512 2187,512 2187,450 297,463" rendition="Line" xml:id="facs_49_tr_3_tl_3"/>
+            <zone points="299,655 2107,662 2343,652 2343,591 299,619" rendition="Line" xml:id="facs_49_tr_3_tl_4"/>
+            <zone points="302,808 2018,813 2210,803 2212,749 304,754" rendition="Line" xml:id="facs_49_tr_3_tl_5"/>
+         </zone>
+         <zone points="298,896 2358,896 2358,2162 298,2162" rendition="TextRegion" xml:id="facs_49_tr_1">
+            <zone points="299,964 2330,964 2350,893 299,903" rendition="Line" xml:id="facs_49_tr_1_tl_1"/>
+            <zone points="297,1113 2261,1113 2276,1049 297,1077" rendition="Line" xml:id="facs_49_tr_1_tl_2"/>
+            <zone points="297,1261 1823,1269 2263,1253 2263,1197 297,1228" rendition="Line" xml:id="facs_49_tr_1_tl_3"/>
+            <zone points="286,1407 2240,1404 2240,1340 286,1378" rendition="Line" xml:id="facs_49_tr_1_tl_4"/>
+            <zone points="289,1565 2095,1568 2171,1558 2174,1499 292,1532" rendition="Line" xml:id="facs_49_tr_1_tl_5"/>
+            <zone points="289,1711 1857,1747 2271,1706 2271,1655 289,1680" rendition="Line" xml:id="facs_49_tr_1_tl_6"/>
+            <zone points="294,1864 2123,1870 2179,1803 294,1811" rendition="Line" xml:id="facs_49_tr_1_tl_7"/>
+            <zone points="284,2013 2230,2013 2230,1949 284,1982" rendition="Line" xml:id="facs_49_tr_1_tl_8"/>
+            <zone points="1859,2156 1882,2166 2228,2166 2228,2105 1859,2105" rendition="Line" xml:id="facs_49_tr_1_tl_9"/>
+         </zone>
+         <zone points="23,2105 2301,2105 2301,3485 23,3485" rendition="TextRegion" xml:id="facs_49_tr_2">
+            <zone points="535,2164 1693,2166 1708,2110 535,2133" rendition="Line" xml:id="facs_49_tr_2_tl_1"/>
+            <zone points="281,2317 2146,2327 2146,2251 281,2286" rendition="Line" xml:id="facs_49_tr_2_tl_2"/>
+            <zone points="279,2471 2015,2473 2105,2460 2105,2407 279,2419" rendition="Line" xml:id="facs_49_tr_2_tl_3"/>
+            <zone points="281,2624 2286,2614 2286,2542 281,2558" rendition="Line" xml:id="facs_49_tr_2_tl_4"/>
+            <zone points="279,2770 2136,2772 2297,2721 279,2737" rendition="Line" xml:id="facs_49_tr_2_tl_5"/>
+            <zone points="281,2921 2207,2926 2274,2875 281,2893" rendition="Line" xml:id="facs_49_tr_2_tl_6"/>
+            <zone points="276,3074 2010,3077 2153,3066 2153,3008 276,3026" rendition="Line" xml:id="facs_49_tr_2_tl_7"/>
+            <zone points="271,3225 2092,3230 2245,3222 2245,3176 271,3197" rendition="Line" xml:id="facs_49_tr_2_tl_8"/>
+            <zone points="8,3463 212,3440 263,3460 355,3440 563,3483 563,3381 496,3396 478,3381 8,3378" rendition="Line" xml:id="facs_49_tr_2_tl_9"/>
+            <zone points="33,3481 120,3471 136,3486 194,3476 212,3486 233,3471 263,3486 481,3483 481,3455 358,3440 33,3453" rendition="Line" xml:id="facs_49_tr_2_tl_10"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0441.jpg" n="part3_p049.jpg" xml:id="img_0049" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p049.jpg"/>
+            
+            <ab facs="#facs_49_tr_3">
+               <lb facs="#facs_49_tr_3_tl_1" n="N001"/>dʼauteur avec
+               <lb facs="#facs_49_tr_3_tl_2" n="N002"/>„34
+               <lb facs="#facs_49_tr_3_tl_3" n="N003"/>are in business relations, they use the abbreviations for the great Iorporation, [such] as "G.M.,
+               <lb facs="#facs_49_tr_3_tl_4" n="N004"/>the Jo manufacturer, and I am supposed to know this language, when I speak to someone, but I never
+               <lb facs="#facs_49_tr_3_tl_5" n="N005"/>was in school to learn it! And it is at least a thousand words which are in common use; and who
+            </ab>
+            <ab facs="#facs_49_tr_1">
+               <lb facs="#facs_49_tr_1_tl_1" n="N001"/>can know all of them? What to do these words mean? They mean that the word doesn't mean anything
+               <lb facs="#facs_49_tr_1_tl_2" n="N002"/>any more--the original words of which the dembined words are the letters. These original words are
+               <lb facs="#facs_49_tr_1_tl_3" n="N003"/>not necessary for the technical communication of separated monads, but they are sufficient in order
+               <lb facs="#facs_49_tr_1_tl_4" n="N004"/>to point to something which, if you have learned it, you know, and no more is needed. The whole
+               <lb facs="#facs_49_tr_1_tl_5" n="N005"/>realm of connotations, the power of language which lies in the connotations and the history of
+               <lb facs="#facs_49_tr_1_tl_6" n="N006"/>the words and the rhythms and the combinations, in which all participate, which then are real doors
+               <lb facs="#facs_49_tr_1_tl_7" n="N007"/>and lvindows from one to the other: they are taken away, and what is left are sign pointing to
+               <lb facs="#facs_49_tr_1_tl_8" n="N008"/>something in which Kooperation is possible, for instance "buying" what somebody else wants to sell!
+               <lb facs="#facs_49_tr_1_tl_9" n="N009"/>individual who is
+            </ab>
+            <ab facs="#facs_49_tr_2">
+               <lb facs="#facs_49_tr_2_tl_1" n="N001"/>Now this is the second form of individualism, the rational
+               <lb facs="#facs_49_tr_2_tl_2" n="N002"/>attomized, goes his way, and where only the doctrine of reerstablished harmony, which is lying
+               <lb facs="#facs_49_tr_2_tl_3" n="N003"/>in God, is able to make understandable that communication is possible at all! When I speak
+               <lb facs="#facs_49_tr_2_tl_4" n="N004"/>to you—according to this doctrine—it is not me whom you hear, but the movement ofdunds which
+               <lb facs="#facs_49_tr_2_tl_5" n="N005"/>come to you arebringing to the movements of my thoughts in myself, and my thoughts have
+               <lb facs="#facs_49_tr_2_tl_6" n="N006"/>no direct causality on the movements, the waves, which hit your ears and then are perceived by you.
+               <lb facs="#facs_49_tr_2_tl_7" n="N007"/>And even more, what is perceived by your body has no direct influence on what is going on in
+               <lb facs="#facs_49_tr_2_tl_8" n="N008"/>your central monad, which is your soul; and the only way in which such communication is possible
+               <lb facs="#facs_49_tr_2_tl_9" n="N009"/>Mais elle est vrai avec lʼhonneur dʼautre vérité
+               <lb facs="#facs_49_tr_2_tl_10" n="N010"/>Monsieur Mʼa paruilà lʼécrire séance
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

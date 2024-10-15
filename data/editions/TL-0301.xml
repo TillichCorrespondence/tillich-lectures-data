@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p017</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p017</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_17">
+         <graphic url="TL-0301.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NLUDIWPDGQHPCSZOFHVYQXPO&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="271,272 2286,272 2286,1246 271,1246" rendition="TextRegion" xml:id="facs_17_tr_2">
+            <zone points="1147,331 1163,331 1173,341 1242,341 1250,333 1268,336 1273,268 1260,265 1218,276 1213,268 1205,270 1200,265 1163,297 1150,297" rendition="Line" xml:id="facs_17_tr_2_tl_1"/>
+            <zone points="270,480 2210,501 2210,444 2118,420 270,420" rendition="Line" xml:id="facs_17_tr_2_tl_2"/>
+            <zone points="265,630 2242,646 2258,591 265,606" rendition="Line" xml:id="facs_17_tr_2_tl_3"/>
+            <zone points="262,785 2221,788 2221,735 2071,727 262,738" rendition="Line" xml:id="facs_17_tr_2_tl_4"/>
+            <zone points="265,932 2181,942 2181,885 265,887" rendition="Line" xml:id="facs_17_tr_2_tl_5"/>
+            <zone points="262,1084 2281,1089 2281,1040 2000,1029 262,1040" rendition="Line" xml:id="facs_17_tr_2_tl_7"/>
+            <zone points="257,1236 2258,1250 2258,1192 2150,1176 257,1192" rendition="Line" xml:id="facs_17_tr_2_tl_8"/>
+         </zone>
+         <zone points="104,1326 2367,1326 2367,3476 104,3476" rendition="TextRegion" xml:id="facs_17_tr_1">
+            <zone points="255,1389 2360,1381 2250,1334 255,1344" rendition="Line" xml:id="facs_17_tr_1_tl_1"/>
+            <zone points="255,1533 1659,1549 1635,1483 255,1507" rendition="Line" xml:id="facs_17_tr_1_tl_3"/>
+            <zone points="423,1685 2132,1709 2205,1693 2205,1641 423,1659" rendition="Line" xml:id="facs_17_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="244,1851 2082,1861 2200,1848 2200,1796 244,1803" rendition="Line" xml:id="facs_17_tr_1_tl_6"/>
+            <zone points="247,1995 1998,1998 1998,1940 247,1964" rendition="Line" xml:id="facs_17_tr_1_tl_7"/>
+            <zone points="428,2139 2092,2150 2050,2090 428,2097" rendition="Line" xml:id="facs_17_tr_1_tl_8" subtype="paragraph"/>
+            <zone points="242,2294 2058,2310 2174,2302 2174,2242 242,2268" rendition="Line" xml:id="facs_17_tr_1_tl_9"/>
+            <zone points="244,2452 2074,2462 2268,2449 2268,2397 244,2399" rendition="Line" xml:id="facs_17_tr_1_tl_10"/>
+            <zone points="236,2594 1945,2614 2242,2594 2242,2544 236,2552" rendition="Line" xml:id="facs_17_tr_1_tl_11"/>
+            <zone points="239,2743 1895,2759 2079,2748 2079,2691 239,2714" rendition="Line" xml:id="facs_17_tr_1_tl_12"/>
+            <zone points="415,2906 2250,2911 2250,2851 2163,2843 415,2856" rendition="Line" xml:id="facs_17_tr_1_tl_13" subtype="paragraph"/>
+            <zone points="242,3056 2124,3050 2087,3006 1593,2992 242,3011" rendition="Line" xml:id="facs_17_tr_1_tl_14"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0301.jpg" n="part2_p017.jpg" xml:id="img_0017" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p017.jpg"/>
+            
+            <ab facs="#facs_17_tr_2">
+               <lb facs="#facs_17_tr_2_tl_1" n="N001"/>[297]
+               <lb facs="#facs_17_tr_2_tl_2" n="N002"/>The world was split in[to] these two realms. Kant himself didn't feel able to overcome definitively
+               <lb facs="#facs_17_tr_2_tl_3" n="N003"/>this fundamental split, which expresses our whole situation in industrial society---I will return to this.
+               <lb facs="#facs_17_tr_2_tl_4" n="N004"/>But he said there are at least possible ideas, postulates, which may indicate possible reconciliations.
+               <lb facs="#facs_17_tr_2_tl_5" n="N005"/>The one is the organic matter: in organisms, in nature, there is an element of meaning in spite of
+               <lb facs="#facs_17_tr_2_tl_7" n="N006"/>the fact that they also are subject to the laws of nature. We have that problem through the whole 19th
+               <lb facs="#facs_17_tr_2_tl_8" n="N007"/>and 20th centuries, and we have it today in biology as the fight between those who approach biology
+            </ab>
+            <ab facs="#facs_17_tr_1">
+               <lb facs="#facs_17_tr_1_tl_1" n="N001"/>in terms of mechanical equations and those who approach it in terms of a gestalt biology and psychology---
+               <lb facs="#facs_17_tr_1_tl_3" n="N002"/><hi style="font-style: italic;">Gestalt</hi> = living structure, a living whole, but the word "gestalt" is usually in English also.
+               <lb facs="#facs_17_tr_1_tl_5" n="N003"/>This is the one realm, in which mechanical necessity and ethical freedom and meaning are
+               <lb facs="#facs_17_tr_1_tl_6" n="N004"/>partly united. Kant didn't say they ARE; his criticism was much too cautious to make a dogmatic
+               <lb facs="#facs_17_tr_1_tl_7" n="N005"/>statement about it, but he says they can be considered AS IF they were a reconciliation.
+               <lb facs="#facs_17_tr_1_tl_8" n="N006"/>The other realm, in which he saw this reconciliation, was the artistic. In the artistic
+               <lb facs="#facs_17_tr_1_tl_9" n="N007"/>realm there is also empirical reality, experience of our world in all its finitude, which is subjected
+               <lb facs="#facs_17_tr_1_tl_10" n="N008"/>to the laws of nature, which is used in order to express meaning. And that is what art does; therefore
+               <lb facs="#facs_17_tr_1_tl_11" n="N009"/>a work of art has the same character as a living being: in them, purpose is actualized (or as we would
+               <lb facs="#facs_17_tr_1_tl_12" n="N010"/>say today, better, meaning is actualized). It is the union of the theoretical and the practical.
+               <lb facs="#facs_17_tr_1_tl_13" n="N011"/>Now this was the idea of the Neo-Kantian school, which derived from this its theories of art.
+               <lb facs="#facs_17_tr_1_tl_14" n="N012"/>These theories are thoroughly idealistic---also a word which needs different ways of salvation!---
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

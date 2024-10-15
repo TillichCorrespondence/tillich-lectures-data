@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p180</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p180</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_180">
+         <graphic url="TL-0180.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HVJJWSSQUSNHQGISNTVNBTLD&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="38,216 38,3486 2445,3486 2445,216" rendition="TextRegion" xml:id="facs_180_tr_1">
+            <zone points="1213,272 1225,272 1246,287 1253,282 1296,287 1303,282 1336,282 1334,219 1298,216 1278,204 1266,214 1256,211 1243,224 1210,224" rendition="Line" xml:id="facs_180_tr_1_tl_1"/>
+            <zone points="538,438 991,483 1142,430 2297,440 2297,398 2169,365 2106,398 538,362" rendition="Line" xml:id="facs_180_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="337,579 2265,619 2265,533 2227,531 337,526" rendition="Line" xml:id="facs_180_tr_1_tl_3"/>
+            <zone points="335,722 357,732 664,735 664,682 400,674 382,692 370,679 357,692 335,692" rendition="Line" xml:id="facs_180_tr_1_tl_4"/>
+            <zone points="541,881 850,886 896,931 1185,898 1374,931 1464,878 2202,893 2202,840 2078,795 2000,850 541,813" rendition="Line" xml:id="facs_180_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="332,1044 2172,1044 2172,986 2018,979 332,979" rendition="Line" xml:id="facs_180_tr_1_tl_6"/>
+            <zone points="330,1183 1756,1183 1812,1223 2179,1228 2179,1140 1995,1132 330,1152" rendition="Line" xml:id="facs_180_tr_1_tl_7"/>
+            <zone points="335,1339 2179,1351 2177,1306 2066,1283 335,1283" rendition="Line" xml:id="facs_180_tr_1_tl_8"/>
+            <zone points="320,1477 559,1487 632,1540 1321,1520 1502,1555 1658,1485 2199,1510 2199,1447 2026,1424 320,1454" rendition="Line" xml:id="facs_180_tr_1_tl_9"/>
+            <zone points="320,1631 473,1686 898,1696 1085,1638 2232,1646 2232,1588 320,1605" rendition="Line" xml:id="facs_180_tr_1_tl_10"/>
+            <zone points="322,1776 569,1789 606,1827 2106,1797 2106,1744 2018,1741 443,1719 322,1754" rendition="Line" xml:id="facs_180_tr_1_tl_11"/>
+            <zone points="322,1932 483,1953 1074,1940 1054,1882 357,1882 322,1902" rendition="Line" xml:id="facs_180_tr_1_tl_12"/>
+            <zone points="526,2091 2214,2094 2172,2028 896,2056 526,2023" rendition="Line" xml:id="facs_180_tr_1_tl_13" subtype="paragraph"/>
+            <zone points="320,2237 908,2272 1142,2237 1230,2310 1344,2244 2204,2247 2204,2192 1364,2192 1321,2149 1188,2192 320,2204" rendition="Line" xml:id="facs_180_tr_1_tl_14"/>
+            <zone points="320,2388 911,2393 956,2438 1751,2428 1867,2468 2292,2431 2292,2300 2131,2297 2086,2252 1902,2252 1776,2345 898,2360 742,2322 320,2360" rendition="Line" xml:id="facs_180_tr_1_tl_15"/>
+            <zone points="315,2567 687,2594 783,2541 1424,2541 1651,2597 2078,2597 2161,2559 2290,2582 2315,2514 312,2506" rendition="Line" xml:id="facs_180_tr_1_tl_17"/>
+            <zone points="320,2697 448,2728 508,2695 2343,2697 2343,2642 320,2660" rendition="Line" xml:id="facs_180_tr_1_tl_18"/>
+            <zone points="317,2841 2302,2848 2302,2798 317,2808" rendition="Line" xml:id="facs_180_tr_1_tl_20"/>
+            <zone points="307,2987 2146,3004 2146,2947 1905,2934 1746,2967 644,2931 307,2962" rendition="Line" xml:id="facs_180_tr_1_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0180.jpg" n="part1_p180.jpg" xml:id="img_0180" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p180.jpg"/>
+            
+            <ab facs="#facs_180_tr_1">
+               <lb facs="#facs_180_tr_1_tl_1" n="N001"/>[176]
+               <lb facs="#facs_180_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Ultimacy"><truth_philosophical>Philosophical truth</truth_philosophical> consists in true <rs type="keyword" ref="#Concept">concepts </rs>concerning the manifestation of the ultimate
+               <lb break="no" facs="#facs_180_tr_1_tl_3" n="N003"/>in the universe. The <truth_of_faith>truth of faith</truth_of_faith> consists in true <rs type="keyword" ref="#Symbols">symbols </rs>concerning our existential RELATION
+               <lb break="no" facs="#facs_180_tr_1_tl_4" n="N004"/>to the ultimate.
+               <lb break="no" facs="#facs_180_tr_1_tl_5" n="N005"/>Now here we are in the center of the problem. The relation between these two is the
+               <lb break="no" facs="#facs_180_tr_1_tl_6" n="N006"/>problem with which we have to deal; the relation between these two is the problem which has
+               <lb break="no" facs="#facs_180_tr_1_tl_7" n="N007"/>ALWAYS been discussed. The first question you will probably raise is, "Why does philosophy
+               <lb break="no" facs="#facs_180_tr_1_tl_8" n="N008"/>use <rs type="keyword" ref="#Concept">concepts</rs>, and why does faith use <rs type="keyword" ref="#Symbols">symbols,</rs> if both try to express the same ultimate?" The
+               <lb break="no" facs="#facs_180_tr_1_tl_9" n="N009"/>answer is, "The DIFFERENCE of the RELATION to the ultimate." In the case of philosophy,
+               <lb break="no" facs="#facs_180_tr_1_tl_10" n="N010"/>the relation is detached description of the basic structure in which the ultimate manifests itself in
+               <lb break="no" facs="#facs_180_tr_1_tl_11" n="N011"/>the universe; in the case of faith, it is the INVOLVED expression of our CONCERN of the
+               <lb break="no" facs="#facs_180_tr_1_tl_12" n="N012"/>meaning of ultimate reality FOR US.</rs>
+               <lb facs="#facs_180_tr_1_tl_13" n="N013"/>Some of you have read or know <rs type="person">Luther</rs>'s catechisms. In Luther's catechisms, there is
+               <lb facs="#facs_180_tr_1_tl_14" n="N014"/>always the phrase "for you," and he says the "for you" demands faithful hearts. Now this
+               <lb facs="#facs_180_tr_1_tl_15" n="N015"/>can lead us to the difference. In the moment in which the relationship has a "FOR YOU" character,
+               <lb facs="#facs_180_tr_1_tl_17" n="N016"/>it becomes existential. And then we are in the realm of <rs type="keyword" ref="#Faith">faith,</rs> and it is a matter of decision, of daring,
+               <lb facs="#facs_180_tr_1_tl_18" n="N017"/>of risk, of doubt, but not of detached description. The philosopher, as a philosopher, gives a detached
+               <lb facs="#facs_180_tr_1_tl_20" n="N018"/>description. He speaks of essential and existential being, he speaks of being and becoming, dynamics
+               <lb facs="#facs_180_tr_1_tl_21" n="N019"/>and form, world and self. He speaks, with <rs type="person">Aristotle,</rs> of matter and form, of <hi style="font-style: italic;">entelechaia</hi>, etc.;
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p051</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p051</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_51">
+         <graphic url="TL-0335.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AJJICBHVRQWITWQBQLAWEENM&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="232,305 2227,305 2227,1141 232,1141" rendition="TextRegion" xml:id="facs_51_tr_1">
+            <zone points="1043,366 1058,366 1077,380 1089,380 1097,373 1168,371 1166,302 1129,297 1121,302 1104,302 1097,297 1089,299 1072,317 1062,312 1040,312" rendition="Line" xml:id="facs_51_tr_1_tl_1"/>
+            <zone points="454,528 2221,525 2221,469 454,481" rendition="Line" xml:id="facs_51_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="221,675 2176,670 2194,606 221,626" rendition="Line" xml:id="facs_51_tr_1_tl_3"/>
+            <zone points="223,827 2137,829 2137,768 223,783" rendition="Line" xml:id="facs_51_tr_1_tl_4"/>
+            <zone points="218,974 1752,982 2100,967 2100,910 218,950" rendition="Line" xml:id="facs_51_tr_1_tl_5"/>
+            <zone points="221,1129 2073,1116 2073,1067 221,1087" rendition="Line" xml:id="facs_51_tr_1_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0335.jpg" n="part2_p051.jpg" xml:id="img_0051" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p051.jpg"/>
+            
+            <ab facs="#facs_51_tr_1">
+               <lb facs="#facs_51_tr_1_tl_1" n="N001"/>[330]
+               <lb facs="#facs_51_tr_1_tl_2" n="N002"/>I will ask you to compare this . . . with music, drama, novel, or wherever you are especially
+               <lb facs="#facs_51_tr_1_tl_3" n="N003"/>interested in, and find analogies to it, and after I have shown you the pictures and interpreted a little
+               <lb facs="#facs_51_tr_1_tl_4" n="N004"/>about them, we must have a general discussion, a week from today, in which YOU add something,
+               <lb facs="#facs_51_tr_1_tl_5" n="N005"/>because nobody can be at home, ot [sic.] even at least at home in terms of a hobby, in ALL realms of
+               <lb facs="#facs_51_tr_1_tl_6" n="N006"/>the arts, and I believe some of you here are much better than I am in some other realms of art.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

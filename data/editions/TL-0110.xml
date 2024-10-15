@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p110</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p110</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_110">
+         <graphic url="TL-0110.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XZSFNXFFVVAXULBMNDMMHQRL&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="47,268 47,3478 2349,3478 2349,268" rendition="TextRegion" xml:id="facs_110_tr_1">
+            <zone points="1108,333 1123,333 1131,340 1153,338 1163,348 1183,350 1201,345 1226,348 1236,338 1256,340 1253,295 1231,295 1218,283 1206,283 1191,273 1173,270 1153,290 1106,290" rendition="Line" xml:id="facs_110_tr_1_tl_1"/>
+            <zone points="370,455 2239,490 2236,438 370,408" rendition="Line" xml:id="facs_110_tr_1_tl_2"/>
+            <zone points="370,610 2226,653 2224,580 2186,578 370,570" rendition="Line" xml:id="facs_110_tr_1_tl_3"/>
+            <zone points="363,750 1541,783 1636,780 1636,743 360,720" rendition="Line" xml:id="facs_110_tr_1_tl_4"/>
+            <zone points="635,908 1576,920 1898,983 2264,938 2261,878 2186,900 2126,843 2061,898 633,848" rendition="Line" xml:id="facs_110_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="355,1051 1473,1123 1533,1088 1571,1126 2254,1121 2254,1051 2161,1026 355,1021" rendition="Line" xml:id="facs_110_tr_1_tl_6"/>
+            <zone points="355,1206 1686,1248 1806,1286 1863,1238 2166,1226 2119,1181 1826,1168 355,1153" rendition="Line" xml:id="facs_110_tr_1_tl_8"/>
+            <zone points="353,1358 2294,1391 2344,1388 2344,1328 1588,1343 1313,1291 1256,1338 990,1286 865,1336 350,1298" rendition="Line" xml:id="facs_110_tr_1_tl_9"/>
+            <zone points="345,1503 1096,1518 1148,1571 1328,1566 1401,1628 1603,1533 2281,1538 2281,1481 2069,1501 1976,1463 1898,1498 345,1476" rendition="Line" xml:id="facs_110_tr_1_tl_10"/>
+            <zone points="348,1658 1316,1673 1371,1716 1421,1683 1906,1736 1978,1681 2276,1693 2276,1633 1948,1631 1816,1531 1701,1536 1611,1628 1436,1641 1381,1608 1131,1638 348,1606" rendition="Line" xml:id="facs_110_tr_1_tl_11"/>
+            <zone points="338,1806 2199,1838 2199,1778 1888,1798 1498,1743 1221,1788 338,1768" rendition="Line" xml:id="facs_110_tr_1_tl_12"/>
+            <zone points="335,1956 2286,1988 2284,1926 335,1898" rendition="Line" xml:id="facs_110_tr_1_tl_13"/>
+            <zone points="335,2109 1238,2124 1236,2069 535,2076 503,2054 460,2076 378,2051 335,2076" rendition="Line" xml:id="facs_110_tr_1_tl_14"/>
+            <zone points="605,2269 2296,2294 2294,2236 2066,2249 2006,2209 1763,2244 1606,2209 1521,2239 1483,2201 1358,2239 605,2196" rendition="Line" xml:id="facs_110_tr_1_tl_15" subtype="paragraph"/>
+            <zone points="323,2401 2199,2446 2199,2379 2111,2349 1736,2394 323,2371" rendition="Line" xml:id="facs_110_tr_1_tl_16"/>
+            <zone points="323,2556 2221,2589 2221,2524 323,2501" rendition="Line" xml:id="facs_110_tr_1_tl_17"/>
+            <zone points="325,2714 2271,2741 2269,2696 2114,2674 325,2671" rendition="Line" xml:id="facs_110_tr_1_tl_18"/>
+            <zone points="318,2856 2141,2884 2109,2816 318,2826" rendition="Line" xml:id="facs_110_tr_1_tl_19"/>
+            <zone points="318,3019 2304,3047 2324,2979 315,2954" rendition="Line" xml:id="facs_110_tr_1_tl_20"/>
+            <zone points="310,3167 2306,3194 2304,3134 310,3109" rendition="Line" xml:id="facs_110_tr_1_tl_21"/>
+            <zone points="70,3382 83,3384 110,3412 140,3414 180,3177 108,3164" rendition="Line" xml:id="facs_110_tr_1_tl_22"/>
+            <zone points="183,3427 228,3394 268,3414 448,3407 495,3437 560,3409 638,3434 733,3427 748,3424 743,3347 175,3312" rendition="Line" xml:id="facs_110_tr_1_tl_23"/>
+            <zone points="1211,3464 1238,3474 1261,3474 1271,3464 1281,3474 1293,3474 1306,3462 1326,3462 1326,3234 1258,3239 1238,3224 1211,3224" rendition="Line" xml:id="facs_110_tr_1_tl_24"/>
+            <zone points="1651,3404 1683,3409 1696,3397 1723,3414 1741,3412 1746,3207 1656,3204" rendition="Line" xml:id="facs_110_tr_1_tl_25"/>
+            <zone points="998,3474 1133,3477 1146,3467 1178,3474 1171,3212 1123,3212 1108,3229 990,3224" rendition="Line" xml:id="facs_110_tr_1_tl_26"/>
+            <zone points="1656,3479 1686,3474 1696,3477 1701,3472 1711,3474 1716,3469 1726,3474 1743,3472 1738,3404 1721,3409 1698,3402 1688,3394 1648,3397" rendition="Line" xml:id="facs_110_tr_1_tl_27"/>
+            <zone points="1523,3474 1553,3477 1561,3472 1581,3477 1596,3464 1608,3464 1608,3272 1573,3269 1566,3262 1558,3269 1523,3269" rendition="Line" xml:id="facs_110_tr_1_tl_28"/>
+            <zone points="190,3439 205,3439 213,3447 235,3439 248,3452 278,3449 278,3414 265,3414 245,3397 235,3397 233,3394 188,3399" rendition="Line" xml:id="facs_110_tr_1_tl_29"/>
+            <zone points="33,3474 583,3469 583,3394 495,3439 455,3407 370,3397 245,3447 173,3409 143,3427 95,3394 33,3387" rendition="Line" xml:id="facs_110_tr_1_tl_30"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0110.jpg" n="part1_p110.jpg" xml:id="img_0110" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p110.jpg"/>
+            
+            <ab facs="#facs_110_tr_1">
+               <lb facs="#facs_110_tr_1_tl_1" n="N001"/>[107]
+               <lb facs="#facs_110_tr_1_tl_2" n="N002"/>the most sharp-minded of all medieval theologians and philosophers, <rs type="person" key="Scotus, Duns">Duns Scotus</rs>, tried to show
+               <lb facs="#facs_110_tr_1_tl_3" n="N003"/>the inadequacy of the Thomistic synthesis and tried to put the religious insights to the one side,
+               <lb facs="#facs_110_tr_1_tl_4" n="N004"/>and the insights in the structure of the universe to the other side.
+               <lb facs="#facs_110_tr_1_tl_5" n="N005"/>Out of this criticism, which was carried through by the nominalistic movement, not
+               <lb facs="#facs_110_tr_1_tl_6" n="N006"/>only in the Middle Ages but also later in English empiricism, the intellectual fathers of all of us --
+               <lb facs="#facs_110_tr_1_tl_8" n="N007"/>as I said already, I think, and will repeat: you all are nominalists by birth! [some laughter] --
+               <lb facs="#facs_110_tr_1_tl_9" n="N008"/>these nominalists put the one of the one side, and the other on the other side. But life is not like this!
+               <lb facs="#facs_110_tr_1_tl_10" n="N009"/>And so it always happened that there were realms of conflict. And it developed, at the end of the
+               <lb facs="#facs_110_tr_1_tl_11" n="N010"/>Middle Ages, preparing the Renaissance, the classical doctrine of the double truth, a doctrine which
+               <lb facs="#facs_110_tr_1_tl_12" n="N011"/>says that the same statement -- for instance, about the immortality of the soul -- can be true in
+               <lb facs="#facs_110_tr_1_tl_13" n="N012"/>theology and not true in philosophy, and that the same statement about the validity of natural laws
+               <lb facs="#facs_110_tr_1_tl_14" n="N013"/>can be true in physics but not true in religion.
+               <lb facs="#facs_110_tr_1_tl_15" n="N014"/>Now this doctrine, of course, means a complete schizophrenia, a split of the mind, and
+               <lb facs="#facs_110_tr_1_tl_16" n="N015"/>couldn't be maintained in the long run, it was necessary, in the period of the late Middle Ages,
+               <lb facs="#facs_110_tr_1_tl_17" n="N016"/>in order to survive, if one tried to make empirical studies, because this was the only way in which
+               <lb facs="#facs_110_tr_1_tl_18" n="N017"/>one could escape the at-that-time absolutely tyrannical power of the Church, which always becomes
+               <lb facs="#facs_110_tr_1_tl_19" n="N018"/>tyranical, oppressive, producing the inquisition only in that period, when it feels threatened.
+               <lb facs="#facs_110_tr_1_tl_20" n="N019"/>And it rightly felt threatened at that time, and so its reaction was such that everybody who wanted
+               <lb facs="#facs_110_tr_1_tl_21" n="N020"/>to make scientific inquiries was in real danger, and the doctrine of the double truth was the subterfuge
+               <lb facs="#facs_110_tr_1_tl_22" n="N021"/>
+               <lb facs="#facs_110_tr_1_tl_23" n="N022"/>
+               <lb facs="#facs_110_tr_1_tl_24" n="N023"/>.
+               <lb facs="#facs_110_tr_1_tl_25" n="N024"/>
+               <lb facs="#facs_110_tr_1_tl_26" n="N025"/>
+               <lb facs="#facs_110_tr_1_tl_27" n="N026"/>.
+               <lb facs="#facs_110_tr_1_tl_28" n="N027"/>.
+               <lb facs="#facs_110_tr_1_tl_29" n="N028"/>
+               <lb facs="#facs_110_tr_1_tl_30" n="N029"/>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

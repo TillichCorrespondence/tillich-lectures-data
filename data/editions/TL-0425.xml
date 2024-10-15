@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part3_p033</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p033</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_33">
+         <graphic url="TL-0425.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=BBRVSDTVYYPZGJRIQFTDQQGF&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="38,48 2304,48 2304,1087 38,1087" rendition="TextRegion" xml:id="facs_33_tr_3">
+            <zone points="25,120 77,117 95,102 110,102 115,2 30,0" rendition="Line" xml:id="facs_33_tr_3_tl_1"/>
+            <zone points="1011,242 1038,242 1043,237 1056,244 1073,244 1091,261 1125,261 1128,172 1096,172 1081,177 1063,174 1048,189 1013,189" rendition="Line" xml:id="facs_33_tr_3_tl_2"/>
+            <zone points="503,476 2246,446 2298,383 505,423" rendition="Line" xml:id="facs_33_tr_3_tl_3"/>
+            <zone points="276,635 2184,553 279,568" rendition="Line" xml:id="facs_33_tr_3_tl_4"/>
+            <zone points="232,769 1927,757 2176,740 2179,677 234,740" rendition="Line" xml:id="facs_33_tr_3_tl_5"/>
+            <zone points="279,929 2134,901 2246,894 2248,827 279,874" rendition="Line" xml:id="facs_33_tr_3_tl_6"/>
+            <zone points="284,1088 2121,1046 2149,979 286,1036" rendition="Line" xml:id="facs_33_tr_3_tl_7"/>
+         </zone>
+         <zone points="295,1132 2277,1132 2277,2293 295,2293" rendition="TextRegion" xml:id="facs_33_tr_2">
+            <zone points="281,1245 2034,1205 2089,1130 284,1183" rendition="Line" xml:id="facs_33_tr_2_tl_1"/>
+            <zone points="291,1382 2226,1350 2273,1270 294,1335" rendition="Line" xml:id="facs_33_tr_2_tl_2"/>
+            <zone points="284,1531 2201,1501 2204,1427 284,1474" rendition="Line" xml:id="facs_33_tr_2_tl_3"/>
+            <zone points="286,1683 2159,1646 2248,1636 2248,1576 286,1653" rendition="Line" xml:id="facs_33_tr_2_tl_4"/>
+            <zone points="286,1835 2104,1798 2104,1731 286,1805" rendition="Line" xml:id="facs_33_tr_2_tl_5"/>
+            <zone points="284,1980 2062,1960 2239,1940 2241,1877 284,1950" rendition="Line" xml:id="facs_33_tr_2_tl_6"/>
+            <zone points="286,2126 2191,2102 2191,2034 286,2099" rendition="Line" xml:id="facs_33_tr_2_tl_7"/>
+            <zone points="291,2283 2248,2248 2251,2179 294,2226" rendition="Line" xml:id="facs_33_tr_2_tl_8"/>
+         </zone>
+         <zone points="50,2338 2307,2338 2307,3485 50,3485" rendition="TextRegion" xml:id="facs_33_tr_1">
+            <zone points="296,2435 1985,2413 2079,2398 2079,2343 296,2383" rendition="Line" xml:id="facs_33_tr_1_tl_1"/>
+            <zone points="296,2585 2129,2552 2131,2507 296,2527" rendition="Line" xml:id="facs_33_tr_1_tl_2"/>
+            <zone points="301,2737 1970,2724 2301,2694 2303,2624 304,2707" rendition="Line" xml:id="facs_33_tr_1_tl_3"/>
+            <zone points="299,2886 1850,2861 1870,2794 301,2856" rendition="Line" xml:id="facs_33_tr_1_tl_4"/>
+            <zone points="528,3038 2154,3008 2156,2928 530,2973" rendition="Line" xml:id="facs_33_tr_1_tl_5"/>
+            <zone points="301,3190 2253,3160 2276,3078 304,3130" rendition="Line" xml:id="facs_33_tr_1_tl_6"/>
+            <zone points="1646,3401 1678,3399 1718,3421 1741,3399 1770,3414 1788,3396 1868,3429 1910,3416 1937,3426 1932,3244 1855,3232 1641,3239" rendition="Line" xml:id="facs_33_tr_1_tl_7"/>
+            <zone points="1230,3419 1280,3429 1297,3411 1310,3421 1325,3411 1407,3419 1457,3406 1462,3277 1429,3284 1417,3272 1330,3272 1282,3279 1255,3294 1233,3292" rendition="Line" xml:id="facs_33_tr_1_tl_8"/>
+            <zone points="787,3424 891,3461 911,3446 966,3451 981,3439 1038,3486 1073,3486 1071,3342 971,3339 896,3352 842,3337 784,3347" rendition="Line" xml:id="facs_33_tr_1_tl_9"/>
+            <zone points="1449,3439 1469,3439 1482,3431 1494,3436 1526,3419 1546,3424 1551,3252 1539,3252 1511,3267 1494,3254 1487,3259 1452,3259" rendition="Line" xml:id="facs_33_tr_1_tl_10"/>
+            <zone points="1285,3461 1300,3461 1335,3436 1345,3446 1362,3446 1374,3434 1394,3446 1404,3436 1419,3436 1432,3426 1437,3434 1454,3439 1457,3404 1419,3404 1384,3414 1357,3409 1342,3414 1340,3406 1315,3421 1290,3416" rendition="Line" xml:id="facs_33_tr_1_tl_11"/>
+            <zone points="478,3439 498,3441 510,3431 563,3451 595,3429 627,3444 650,3444 665,3429 742,3434 747,3337 682,3332 563,3347 540,3334 505,3357 483,3357" rendition="Line" xml:id="facs_33_tr_1_tl_12"/>
+            <zone points="1178,3446 1190,3444 1223,3461 1252,3461 1280,3451 1272,3419 1260,3421 1255,3429 1178,3379 1163,3381" rendition="Line" xml:id="facs_33_tr_1_tl_13"/>
+            <zone points="60,3436 137,3459 159,3444 184,3449 199,3436 212,3446 224,3434 281,3444 284,3322 62,3327" rendition="Line" xml:id="facs_33_tr_1_tl_14"/>
+            <zone points="403,3476 428,3476 438,3486 456,3486 461,3481 488,3486 483,3312 458,3314 421,3339 398,3339" rendition="Line" xml:id="facs_33_tr_1_tl_15"/>
+            <zone points="481,3479 520,3464 548,3486 570,3474 637,3488 680,3474 1001,3484 998,3441 924,3454 849,3424 792,3449 752,3409 727,3434 662,3429 647,3446 478,3421" rendition="Line" xml:id="facs_33_tr_1_tl_16"/>
+            <zone points="1290,3471 1307,3469 1310,3466 1315,3471 1320,3471 1327,3479 1340,3474 1347,3479 1350,3476 1360,3479 1360,3476 1370,3474 1362,3444 1342,3446 1337,3441 1327,3441 1325,3444 1315,3436 1305,3449 1297,3446 1285,3451" rendition="Line" xml:id="facs_33_tr_1_tl_17"/>
+            <zone points="1584,3479 1678,3479 1691,3469 1785,3476 1800,3464 1905,3479 1907,3424 1868,3429 1785,3406 1711,3421 1653,3396 1586,3421" rendition="Line" xml:id="facs_33_tr_1_tl_18"/>
+            <zone points="1103,3466 1116,3466 1125,3479 1143,3479 1153,3471 1170,3486 1215,3486 1223,3479 1243,3486 1257,3471 1280,3476 1280,3451 1210,3459 1118,3364 1106,3364" rendition="Line" xml:id="facs_33_tr_1_tl_19"/>
+            <zone points="1419,3464 1447,3464 1459,3476 1472,3476 1482,3466 1501,3476 1534,3461 1561,3479 1591,3476 1591,3396 1576,3396 1544,3424 1521,3416 1496,3436 1457,3439 1419,3429" rendition="Line" xml:id="facs_33_tr_1_tl_20"/>
+            <zone points="37,3479 100,3488 127,3486 139,3476 162,3486 239,3486 251,3479 289,3488 289,3446 281,3444 224,3436 212,3446 197,3439 182,3449 139,3436 120,3449 95,3451 82,3439 37,3431" rendition="Line" xml:id="facs_33_tr_1_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0425.jpg" n="part3_p033.jpg" xml:id="img_0033" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p033.jpg"/>
+            
+            <ab facs="#facs_33_tr_3">
+               <lb facs="#facs_33_tr_3_tl_1" n="N001"/>dans
+               <lb facs="#facs_33_tr_3_tl_2" n="N002"/>-420-
+               <lb facs="#facs_33_tr_3_tl_3" n="N003"/>So there are indications of a similar situation as we found it in the early twenties in Europe.
+               <lb facs="#facs_33_tr_3_tl_4" n="N004"/>But now, where to turn, if you asked the question —and I am asked this question very often.
+               <lb facs="#facs_33_tr_3_tl_5" n="N005"/>“ Which answer can be given? Let me go into two answers, the one which is actually given and the
+               <lb facs="#facs_33_tr_3_tl_6" n="N006"/>other which ShOU Ma be given. The answer which is actually given is given by the masters of public
+               <lb facs="#facs_33_tr_3_tl_7" n="N007"/>Communication, by those who through moving, radio, television, newspapers and other forms of
+            </ab>
+            <ab facs="#facs_33_tr_2">
+               <lb facs="#facs_33_tr_2_tl_1" n="N001"/>public communication, influence [us] day and night—because the air is filled day and might
+               <lb facs="#facs_33_tr_2_tl_2" n="N002"/>with the waves produced by these masters. They influence, if not the conscious life, if some people
+               <lb facs="#facs_33_tr_2_tl_3" n="N003"/>keep away from it (certainly lNdirectly, by language, by ideas, by days, by best sellers and many
+               <lb facs="#facs_33_tr_2_tl_4" n="N004"/>other ways) the climate in which we all are living. So we can say the question "Whereto? To what
+               <lb facs="#facs_33_tr_2_tl_5" n="N005"/>shall we go?" is answered by the Kajustment to a universal ctimate which is produced by the
+               <lb facs="#facs_33_tr_2_tl_6" n="N006"/>anonymous leders of public communication. It is.introduction into something, certainly, but it is
+               <lb facs="#facs_33_tr_2_tl_7" n="N007"/>introduction into a 11mate. Not something infinite, but not something vague either. It is what,
+               <lb facs="#facs_33_tr_2_tl_8" n="N008"/>in my analysis of the situation, I called patternization, and Kajustment to a pattern which of course
+            </ab>
+            <ab facs="#facs_33_tr_1">
+               <lb facs="#facs_33_tr_1_tl_1" n="N001"/>is not absolutely fixed, it changes a little every year, but which generally speaking is given.
+               <lb facs="#facs_33_tr_1_tl_2" n="N002"/>So we can say: the answer to the question of the younger generation, which is similar to the
+               <lb facs="#facs_33_tr_1_tl_3" n="N003"/>question in the early twenties in Europe¬WHERE TO? INTOWHAT?— is given continually,
+               <lb facs="#facs_33_tr_1_tl_4" n="N004"/>day and night, by those who create the universal climate in which we are living.
+               <lb facs="#facs_33_tr_1_tl_5" n="N005"/>But this leads to a state of mind in which those who are aducated are not able any
+               <lb facs="#facs_33_tr_1_tl_6" n="N006"/>longer to say No! to save their spontaneity and their freedom of protest. And if this is taken away,
+               <lb facs="#facs_33_tr_1_tl_7" n="N007"/>cʼest lʼétat
+               <lb facs="#facs_33_tr_1_tl_8" n="N008"/>dʼaprès
+               <lb facs="#facs_33_tr_1_tl_9" n="N009"/>dʼune manière
+               <lb facs="#facs_33_tr_1_tl_10" n="N010"/>dans la
+               <lb facs="#facs_33_tr_1_tl_11" n="N011"/>des trois ouvrages
+               <lb facs="#facs_33_tr_1_tl_12" n="N012"/>dʼune manière vieuse
+               <lb facs="#facs_33_tr_1_tl_13" n="N013"/>dʼavoir lu
+               <lb facs="#facs_33_tr_1_tl_14" n="N014"/>Monsieur Mʼa euillez
+               <lb facs="#facs_33_tr_1_tl_15" n="N015"/>de ses
+               <lb facs="#facs_33_tr_1_tl_16" n="N016"/>dʼavoir lʼautre beaucoup de nouveau
+               <lb facs="#facs_33_tr_1_tl_17" n="N017"/>i..
+               <lb facs="#facs_33_tr_1_tl_18" n="N018"/>dʼune manière beaucoup
+               <lb facs="#facs_33_tr_1_tl_19" n="N019"/>dʼun entretien
+               <lb facs="#facs_33_tr_1_tl_20" n="N020"/>cʼest avec
+               <lb facs="#facs_33_tr_1_tl_21" n="N021"/>dʼune manière beaucoup
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

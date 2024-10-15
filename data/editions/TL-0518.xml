@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part4_p044</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p044</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_44">
+         <graphic url="TL-0518.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PMBRITPUYOMZXSEIPOIFINPS&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="250,293 2245,293 2245,1646 250,1646" rendition="TextRegion" xml:id="facs_44_tr_2">
+            <zone points="1142,346 1155,348 1168,359 1196,354 1229,359 1259,356 1262,285 1241,285 1236,290 1229,285 1221,290 1208,285 1201,290 1193,287 1173,308 1145,308" rendition="Line" xml:id="facs_44_tr_2_tl_1"/>
+            <zone points="259,491 2190,516 2190,445 1351,466 1274,399 1203,466 259,427" rendition="Line" xml:id="facs_44_tr_2_tl_2"/>
+            <zone points="259,651 2139,677 2139,618 1857,603 259,603" rendition="Line" xml:id="facs_44_tr_2_tl_3"/>
+            <zone points="257,796 2205,822 2205,771 1915,755 257,768" rendition="Line" xml:id="facs_44_tr_2_tl_4"/>
+            <zone points="254,951 2160,974 2160,918 1918,906 254,906" rendition="Line" xml:id="facs_44_tr_2_tl_5"/>
+            <zone points="252,1101 2238,1124 2236,1071 2043,1056 249,1061" rendition="Line" xml:id="facs_44_tr_2_tl_6"/>
+            <zone points="247,1252 2170,1269 2132,1208 247,1208" rendition="Line" xml:id="facs_44_tr_2_tl_7"/>
+            <zone points="237,1404 491,1412 524,1430 539,1414 700,1414 700,1363 270,1358 237,1381" rendition="Line" xml:id="facs_44_tr_2_tl_8"/>
+            <zone points="445,1483 1463,1483 1557,1542 2147,1508 2147,1435 445,1424" rendition="Line" xml:id="facs_44_tr_2_tl_9"/>
+            <zone points="242,1641 2142,1646 2032,1582 242,1587" rendition="Line" xml:id="facs_44_tr_2_tl_10"/>
+         </zone>
+         <zone points="226,1726 2266,1726 2266,2852 226,2852" rendition="TextRegion" xml:id="facs_44_tr_1">
+            <zone points="229,1786 2261,1798 2208,1737 229,1755" rendition="Line" xml:id="facs_44_tr_1_tl_1"/>
+            <zone points="234,1926 2160,1949 2160,1900 2040,1880 234,1903" rendition="Line" xml:id="facs_44_tr_1_tl_2"/>
+            <zone points="1575,2071 1625,2038 1664,2050 1687,2032 1712,2053 1814,2053 1839,2043 1877,2053 1875,1943 1781,1949 1760,1938 1572,1956" rendition="Line" xml:id="facs_44_tr_1_tl_3"/>
+            <zone points="224,2076 2142,2099 2142,2048 1394,2025 224,2053" rendition="Line" xml:id="facs_44_tr_1_tl_4"/>
+            <zone points="226,2241 1931,2254 1931,2200 1544,2185 226,2211" rendition="Line" xml:id="facs_44_tr_1_tl_5"/>
+            <zone points="427,2383 2109,2406 2109,2348 427,2343" rendition="Line" xml:id="facs_44_tr_1_tl_6"/>
+            <zone points="224,2539 789,2541 918,2597 1875,2549 2007,2625 2058,2595 2058,2409 1867,2501 224,2490" rendition="Line" xml:id="facs_44_tr_1_tl_7"/>
+            <zone points="216,2694 2035,2707 2223,2701 2223,2648 216,2661" rendition="Line" xml:id="facs_44_tr_1_tl_8"/>
+            <zone points="211,2834 2200,2854 2200,2796 211,2811" rendition="Line" xml:id="facs_44_tr_1_tl_9"/>
+         </zone>
+         <zone points="17,2893 2346,2893 2346,3485 17,3485" rendition="TextRegion" xml:id="facs_44_tr_3">
+            <zone points="1180,2948 1213,2958 1351,2958 1351,2905 1264,2908 1254,2900 1246,2908 1213,2902 1196,2920 1180,2920" rendition="Line" xml:id="facs_44_tr_3_tl_1"/>
+            <zone points="209,2986 221,2984 247,2997 308,2994 305,2935 282,2935 280,2938 249,2935 229,2958 209,2961" rendition="Line" xml:id="facs_44_tr_3_tl_2"/>
+            <zone points="514,2991 745,3012 903,2991 1033,3014 1079,2991 1193,3002 1193,2946 1012,2933 852,2943 819,2966 710,2938 547,2943 514,2963" rendition="Line" xml:id="facs_44_tr_3_tl_3"/>
+            <zone points="1384,2989 1536,3014 1758,2999 1832,3045 2139,3042 2208,3073 2208,2951 2170,2935 1804,2956 1689,2933 1569,2969 1473,2938 1384,2966" rendition="Line" xml:id="facs_44_tr_3_tl_4"/>
+            <zone points="201,3147 2241,3164 2241,3106 1753,3091 201,3103" rendition="Line" xml:id="facs_44_tr_3_tl_5"/>
+            <zone points="1801,3421 1862,3432 1989,3414 2045,3470 2177,3477 2216,3454 2274,3470 2340,3426 2343,3289 1804,3292" rendition="Line" xml:id="facs_44_tr_3_tl_6"/>
+            <zone points="13,3485 46,3477 61,3487 97,3485 137,3437 163,3452 170,3442 196,3449 214,3432 231,3439 249,3434 239,3376 155,3368 114,3348 0,3350" rendition="Line" xml:id="facs_44_tr_3_tl_7"/>
+            <zone points="1157,3416 1203,3393 1236,3421 1391,3411 1437,3432 1463,3411 1511,3416 1514,3297 1249,3294 1239,3284 1160,3292" rendition="Line" xml:id="facs_44_tr_3_tl_8"/>
+            <zone points="270,3449 303,3439 331,3411 371,3437 410,3414 501,3416 544,3429 562,3414 605,3409 603,3322 366,3317 303,3320 267,3335" rendition="Line" xml:id="facs_44_tr_3_tl_9"/>
+            <zone points="990,3411 1010,3409 1025,3421 1045,3411 1063,3421 1079,3414 1099,3426 1112,3414 1165,3406 1165,3320 1079,3322 1068,3330 1035,3320 1012,3330 990,3327" rendition="Line" xml:id="facs_44_tr_3_tl_10"/>
+            <zone points="595,3460 649,3444 684,3477 712,3465 728,3477 755,3470 842,3482 847,3325 745,3322 717,3335 674,3315 623,3348 600,3348" rendition="Line" xml:id="facs_44_tr_3_tl_11"/>
+            <zone points="382,3454 415,3460 438,3447 453,3465 519,3447 532,3462 567,3462 590,3444 603,3444 605,3411 565,3416 521,3404 491,3424 448,3414 432,3421 417,3414 387,3419" rendition="Line" xml:id="facs_44_tr_3_tl_12"/>
+            <zone points="1424,3454 1437,3457 1480,3434 1501,3439 1503,3444 1516,3434 1534,3437 1542,3386 1524,3388 1506,3404 1488,3406 1470,3416 1455,3411 1442,3419 1430,3419" rendition="Line" xml:id="facs_44_tr_3_tl_13"/>
+            <zone points="1157,3470 1183,3470 1193,3480 1226,3475 1246,3480 1272,3470 1300,3477 1333,3470 1343,3477 1363,3475 1358,3421 1341,3421 1328,3411 1315,3416 1297,3409 1285,3419 1267,3414 1236,3424 1193,3396 1175,3411 1155,3414" rendition="Line" xml:id="facs_44_tr_3_tl_14"/>
+            <zone points="1867,3447 1898,3452 1905,3444 1915,3454 1923,3454 1938,3452 1951,3439 1969,3439 1974,3444 1994,3447 1997,3414 1969,3406 1956,3416 1941,3416 1936,3411 1905,3411 1890,3421 1870,3416" rendition="Line" xml:id="facs_44_tr_3_tl_15"/>
+            <zone points="1005,3480 1020,3480 1023,3477 1033,3480 1058,3477 1066,3480 1068,3477 1081,3477 1073,3411 1063,3411 1061,3414 1045,3409 1038,3416 1030,3416 1028,3419 1020,3411 997,3411" rendition="Line" xml:id="facs_44_tr_3_tl_16"/>
+            <zone points="1432,3480 1437,3477 1450,3480 1465,3470 1475,3477 1493,3477 1498,3472 1511,3480 1524,3477 1516,3442 1503,3444 1496,3437 1491,3439 1486,3434 1458,3437 1442,3426 1437,3432 1424,3434" rendition="Line" xml:id="facs_44_tr_3_tl_17"/>
+            <zone points="1758,3475 1786,3477 1796,3467 1865,3467 1880,3480 1910,3467 1984,3480 1999,3470 2038,3472 2032,3421 2017,3421 1984,3447 1954,3437 1921,3452 1887,3447 1844,3421 1829,3429 1783,3396 1755,3396" rendition="Line" xml:id="facs_44_tr_3_tl_18"/>
+            <zone points="120,3482 209,3470 262,3485 282,3467 308,3485 519,3477 516,3449 496,3442 410,3460 338,3414 282,3447 259,3434 219,3432 193,3449 117,3434" rendition="Line" xml:id="facs_44_tr_3_tl_19"/>
+            <zone points="511,3470 555,3470 565,3477 588,3470 605,3482 623,3477 631,3485 644,3485 661,3470 682,3470 684,3424 666,3426 638,3452 633,3447 616,3452 598,3437 572,3444 549,3434 534,3447 514,3447" rendition="Line" xml:id="facs_44_tr_3_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0518.jpg" n="part4_p044.jpg" xml:id="img_0044" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p044.jpg"/>
+            
+            <ab facs="#facs_44_tr_2">
+               <lb facs="#facs_44_tr_2_tl_1" n="N001"/>-St3.
+               <lb facs="#facs_44_tr_2_tl_2" n="N002"/>for that which we have to do here now in class. That's different from the moralbringing which is
+               <lb facs="#facs_44_tr_2_tl_3" n="N003"/>demanding in every moment of our lives in some way, while others is the study of their sources,
+               <lb facs="#facs_44_tr_2_tl_4" n="N004"/>of their structure, or their contents, of their validity. Now I at least intend the words in this sense:
+               <lb facs="#facs_44_tr_2_tl_5" n="N005"/>morals as the reality itself, ethics as the science of morale. In any case, if these words cannot be
+               <lb facs="#facs_44_tr_2_tl_6" n="N006"/>used, we must invent others, but we must distinguish the two things: the esthical act, and the science
+               <lb facs="#facs_44_tr_2_tl_7" n="N007"/>of the enthical act. These are not the same, and there should be different words for it. That is the
+               <lb facs="#facs_44_tr_2_tl_8" n="N008"/>first semantic remark.
+               <lb facs="#facs_44_tr_2_tl_9" n="N009"/>Then the second problem is the kthical imperative. The realm ofldics is the realm of
+               <lb facs="#facs_44_tr_2_tl_10" n="N010"/>OUGHT TO BE. All that we have discussion in all these lectures was RECEIVING reality—in the
+            </ab>
+            <ab facs="#facs_44_tr_1">
+               <lb facs="#facs_44_tr_1_tl_1" n="N001"/>cognitive realms we haveavcussed, in the aesthetic realm[e] we have siscussed—and the communication
+               <lb facs="#facs_44_tr_1_tl_2" n="N002"/>of received reality in education, which we discussion in the last weeks, in their relation to religion.
+               <lb facs="#facs_44_tr_1_tl_3" n="N003"/>gestellende
+               <lb facs="#facs_44_tr_1_tl_4" n="N004"/>Now we come first into the realm not of RECEIVING reality, but ofienping reality. Andldics
+               <lb facs="#facs_44_tr_1_tl_5" n="N005"/>are the science ofienping reality in ourselves and in our relation to our world.
+               <lb facs="#facs_44_tr_1_tl_6" n="N006"/>Theurhoping of reality in ourselves and our world stands under the ethical imperative.
+               <lb facs="#facs_44_tr_1_tl_7" n="N007"/>Here the "is" is replaced by the "ought to be." In all the other realms, weavcussed the "Is"
+               <lb facs="#facs_44_tr_1_tl_8" n="N008"/>and its reception,... its aesthetic reception and interpretation. We discussed symbols, in which
+               <lb facs="#facs_44_tr_1_tl_9" n="N009"/>we discover levels of reality which are otherwise cut off from us. Now we come to the other side of
+            </ab>
+            <ab facs="#facs_44_tr_3">
+               <lb facs="#facs_44_tr_3_tl_1" n="N001"/>cultural
+               <lb facs="#facs_44_tr_3_tl_2" n="N002"/>our
+               <lb facs="#facs_44_tr_3_tl_3" n="N003"/>relationship to our world, of man'
+               <lb facs="#facs_44_tr_3_tl_4" n="N004"/> Ktivity, usually called the practical side
+               <lb facs="#facs_44_tr_3_tl_5" n="N005"/>Trud 4. (v. 2) (one) (A) (c=d) (v) 4, (c) which
+               <lb facs="#facs_44_tr_3_tl_6" n="N006"/>dʼavoir lʼautre sérieuse.
+               <lb facs="#facs_44_tr_3_tl_7" n="N007"/>dʼune manière
+               <lb facs="#facs_44_tr_3_tl_8" n="N008"/>Monsieur le Comte de lʼhonneur
+               <lb facs="#facs_44_tr_3_tl_9" n="N009"/>dʼune manière beaucoup
+               <lb facs="#facs_44_tr_3_tl_10" n="N010"/>sʼil mʼauteur de
+               <lb facs="#facs_44_tr_3_tl_11" n="N011"/>dʼun autre
+               <lb facs="#facs_44_tr_3_tl_12" n="N012"/>de votre beau moi que je
+               <lb facs="#facs_44_tr_3_tl_13" n="N013"/>cʼest avec
+               <lb facs="#facs_44_tr_3_tl_14" n="N014"/>dʼune fois-même
+               <lb facs="#facs_44_tr_3_tl_15" n="N015"/>dʼacquerir
+               <lb facs="#facs_44_tr_3_tl_16" n="N016"/>Vous avez
+               <lb facs="#facs_44_tr_3_tl_17" n="N017"/>mais je
+               <lb facs="#facs_44_tr_3_tl_18" n="N018"/>dʼacquerir que je nʼai
+               <lb facs="#facs_44_tr_3_tl_19" n="N019"/>dans cette teinte vieuse
+               <lb facs="#facs_44_tr_3_tl_20" n="N020"/>dʼune manière aussi
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p249</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p249</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_249">
+         <graphic url="TL-0249.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TYZREGCSDPLLDEUJVTHQETQY&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="244,257 244,3463 2283,3463 2283,257" rendition="TextRegion" xml:id="facs_249_tr_2">
+            <zone points="1097,340 1115,338 1122,345 1158,350 1168,345 1175,350 1191,350 1198,343 1211,343 1211,274 1175,277 1168,269 1158,267 1132,289 1097,289" rendition="Line" xml:id="facs_249_tr_2_tl_1"/>
+            <zone points="447,503 518,551 906,551 980,498 2178,490 2178,437 2082,434 449,462" rendition="Line" xml:id="facs_249_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="241,660 2120,645 2122,592 543,627 358,597 241,630" rendition="Line" xml:id="facs_249_tr_2_tl_3"/>
+            <zone points="249,820 2006,805 2008,749 1754,729 1503,772 251,767" rendition="Line" xml:id="facs_249_tr_2_tl_4"/>
+            <zone points="246,970 2140,949 2140,889 2064,881 246,916" rendition="Line" xml:id="facs_249_tr_2_tl_5"/>
+            <zone points="241,1115 2079,1102 2079,1043 2028,1033 647,1082 538,1082 482,1033 399,1087 241,1087" rendition="Line" xml:id="facs_249_tr_2_tl_6"/>
+            <zone points="239,1267 784,1310 830,1267 2280,1254 2280,1193 2224,1183 239,1239" rendition="Line" xml:id="facs_249_tr_2_tl_7"/>
+            <zone points="241,1429 1912,1406 2061,1447 2193,1406 2193,1351 1995,1343 241,1373" rendition="Line" xml:id="facs_249_tr_2_tl_8"/>
+            <zone points="249,1579 2094,1559 2094,1508 2008,1498 1434,1541 249,1526" rendition="Line" xml:id="facs_249_tr_2_tl_9"/>
+            <zone points="239,1737 2054,1719 2140,1709 2143,1650 241,1676" rendition="Line" xml:id="facs_249_tr_2_tl_10"/>
+            <zone points="246,1899 2046,1876 2046,1813 1919,1810 246,1838" rendition="Line" xml:id="facs_249_tr_2_tl_11"/>
+            <zone points="239,2034 1962,2013 1962,1975 1841,1955 239,2001" rendition="Line" xml:id="facs_249_tr_2_tl_12"/>
+            <zone points="241,2181 2074,2168 2074,2107 1978,2105 241,2153" rendition="Line" xml:id="facs_249_tr_2_tl_13"/>
+            <zone points="231,2336 1577,2325 1577,2270 1368,2267 231,2310" rendition="Line" xml:id="facs_249_tr_2_tl_14"/>
+            <zone points="439,2480 2051,2468 2051,2399 1450,2447 861,2419 520,2455 442,2422" rendition="Line" xml:id="facs_249_tr_2_tl_15" subtype="paragraph"/>
+            <zone points="231,2638 1500,2638 1495,2569 231,2610" rendition="Line" xml:id="facs_249_tr_2_tl_16"/>
+            <zone points="439,2793 500,2823 1856,2788 2112,2772 2115,2729 1292,2714 820,2755 784,2722 503,2760 442,2727" rendition="Line" xml:id="facs_249_tr_2_tl_17" subtype="paragraph"/>
+            <zone points="234,2973 1632,2927 1853,2980 2094,2925 2094,2861 236,2917" rendition="Line" xml:id="facs_249_tr_2_tl_18"/>
+            <zone points="239,3105 685,3156 858,3097 2140,3077 2125,3011 2039,3046 302,3044 239,3077" rendition="Line" xml:id="facs_249_tr_2_tl_19"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0249.jpg" n="part1_p249.jpg" xml:id="img_0249" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p249.jpg"/>
+            
+            <ab facs="#facs_249_tr_2">
+               <lb facs="#facs_249_tr_2_tl_1" n="N001"/>[245]
+               <lb facs="#facs_249_tr_2_tl_2" n="N002"/>If man looks at his world---and we can see this in the earliest beginnings of the scientific
+               <lb facs="#facs_249_tr_2_tl_3" n="N003"/>consciousness, namely in the pre-Socratic analysis of reality---he discovers in his world different
+               <lb facs="#facs_249_tr_2_tl_4" n="N004"/>levels of being and different categories in which he grasps being. In these different levels,
+               <lb facs="#facs_249_tr_2_tl_5" n="N005"/>and their corresponding categories, he tries to find a basic level. In the Ionian philosophy of
+               <lb facs="#facs_249_tr_2_tl_6" n="N006"/>nature, this basic level was matter, and came to its fulfillment in the atomistic analysis of the
+               <lb facs="#facs_249_tr_2_tl_7" n="N007"/>material world in <rs type="person">Leucippus</rs> and <rs type="person">Democritus</rs>---later on, in the <rs type="person">Epicureans.</rs> Or he finds the fundamental
+               <lb facs="#facs_249_tr_2_tl_8" n="N008"/>level in the form, in the mathematical structure of reality. This was first done in the <rs type="keyword" ref="#Pythagorean_School">Pythagoreans</rs>
+               <lb facs="#facs_249_tr_2_tl_9" n="N009"/>when they said that the essence of reality is number. And it has been repeated in modern
+               <lb facs="#facs_249_tr_2_tl_10" n="N010"/>physics, where mathematical equations have replaced the concept of matter. Or there is a third
+               <lb facs="#facs_249_tr_2_tl_11" n="N011"/>possibility: one does not start with either matter or form, but with quality, and structure,
+               <lb facs="#facs_249_tr_2_tl_12" n="N012"/>and believes that the fundamental level of reality is the qualities or essences of things---
+               <lb facs="#facs_249_tr_2_tl_13" n="N013"/>what I called potentialities (in answer to the question) which BECOME actualized, with the
+               <lb facs="#facs_249_tr_2_tl_14" n="N014"/>help of matter and mathematical form. This is the <rs type="person">Platonic </rs>answer.
+               <lb facs="#facs_249_tr_2_tl_15" n="N015"/>There are other possible answers---the <rs type="keyword" ref="#Neoplatonism">Neoplatonic</rs>, in which it is the spiritual life
+               <lb facs="#facs_249_tr_2_tl_16" n="N016"/>as we experience it in ourselves which is the essence of reality.
+               <lb facs="#facs_249_tr_2_tl_17" n="N017"/>Now however this may be, man, in encountering his world, distinguishes these levels
+               <lb facs="#facs_249_tr_2_tl_18" n="N018"/>and their categories. He distinguishes also levels of developed beings: the inorganic level, the
+               <lb facs="#facs_249_tr_2_tl_19" n="N019"/>organic, the psychological, the spiritual, the level of history. All these levels he sees beside each
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

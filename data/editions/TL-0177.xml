@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p177</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p177</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_177">
+         <graphic url="TL-0177.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LLOIKISMDRRSIUBYWHUTMVNI&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="173,118 173,1445 173,3472 2349,3472 2349,118" rendition="TextRegion" xml:id="facs_177_tr_2">
+            <zone points="1144,457 1172,462 1182,472 1198,470 1205,478 1218,478 1226,470 1269,467 1269,383 1231,383 1226,388 1213,386 1200,396 1190,393 1180,403 1144,403" rendition="Line" xml:id="facs_177_tr_2_tl_5"/>
+            <zone points="470,610 1502,615 1568,677 2046,674 2263,628 2263,580 1532,552 802,577 628,539 470,575" rendition="Line" xml:id="facs_177_tr_2_tl_6" subtype="paragraph"/>
+            <zone points="299,771 2237,781 2237,728 2086,707 1382,741 299,710" rendition="Line" xml:id="facs_177_tr_2_tl_7"/>
+            <zone points="294,914 1218,924 1285,968 2342,963 2339,866 294,868" rendition="Line" xml:id="facs_177_tr_2_tl_8"/>
+            <zone points="291,1108 1361,1073 1484,1126 2229,1111 2229,1027 2166,1022 1353,1050 1315,1011 598,1006 559,968 291,999" rendition="Line" xml:id="facs_177_tr_2_tl_9"/>
+            <zone points="291,1218 355,1269 2229,1236 2229,1180 291,1165" rendition="Line" xml:id="facs_177_tr_2_tl_10"/>
+            <zone points="278,1361 2229,1389 2229,1331 278,1338" rendition="Line" xml:id="facs_177_tr_2_tl_11"/>
+            <zone points="281,1525 2160,1545 2160,1489 1961,1468 1910,1504 1874,1468 1803,1504 281,1474" rendition="Line" xml:id="facs_177_tr_2_tl_12"/>
+            <zone points="240,1734 401,1673 2217,1688 2217,1632 240,1596" rendition="Line" xml:id="facs_177_tr_2_tl_13"/>
+            <zone points="268,1816 480,1828 631,1890 1474,1828 2235,1844 2235,1788 1438,1783 1397,1744 521,1737 268,1793" rendition="Line" xml:id="facs_177_tr_2_tl_14"/>
+            <zone points="266,1966 919,2005 2270,1989 2268,1931 266,1941" rendition="Line" xml:id="facs_177_tr_2_tl_15"/>
+            <zone points="266,2125 2247,2140 2247,2089 1737,2071 266,2094" rendition="Line" xml:id="facs_177_tr_2_tl_16"/>
+            <zone points="268,2258 1090,2311 1172,2278 2252,2296 2252,2232 268,2227" rendition="Line" xml:id="facs_177_tr_2_tl_17"/>
+            <zone points="258,2431 2204,2444 2204,2388 1550,2372 258,2401" rendition="Line" xml:id="facs_177_tr_2_tl_18"/>
+            <zone points="248,2574 503,2590 544,2628 2224,2597 2224,2538 1951,2521 1683,2549 516,2510 248,2546" rendition="Line" xml:id="facs_177_tr_2_tl_19"/>
+            <zone points="250,2727 511,2733 623,2789 2273,2743 2273,2689 1451,2692 1405,2646 250,2684" rendition="Line" xml:id="facs_177_tr_2_tl_20"/>
+            <zone points="250,2878 2252,2899 2252,2840 250,2830" rendition="Line" xml:id="facs_177_tr_2_tl_21"/>
+            <zone points="243,3026 524,3034 585,3077 1328,3047 1877,3108 2132,3108 2214,3047 2214,2985 243,2980" rendition="Line" xml:id="facs_177_tr_2_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0177.jpg" n="part1_p177.jpg" xml:id="img_0177" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p177.jpg"/>
+            
+            <ab facs="#facs_177_tr_2">
+               <lb facs="#facs_177_tr_2_tl_5" n="N001"/>[173]
+               <lb facs="#facs_177_tr_2_tl_6" n="N002"/>Now this is the situation, and it cannot be changed. This situation includes that we cannot
+               <lb facs="#facs_177_tr_2_tl_7" n="N003"/>have a definite <rs type="keyword" ref="#Concept">concept of philosophy</rs> which should be accepted by all philosophers and which is a
+               <lb facs="#facs_177_tr_2_tl_8" n="N004"/>meaningful definition. Instead of that, we can have a kind of pre-philosophical description about which
+               <lb facs="#facs_177_tr_2_tl_9" n="N005"/>we can agree---and the popular mind can help us here---namely the idea that philosophy has to deal
+               <lb facs="#facs_177_tr_2_tl_10" n="N006"/>with more universal problems than everything else. Now this is certainly not a definition. This is a
+               <lb facs="#facs_177_tr_2_tl_11" n="N007"/>very poor superficial, popular description and nothing else. But we cannot do more in the present
+               <lb facs="#facs_177_tr_2_tl_12" n="N008"/>moment and can find out perhaps whether this will lead us to a little more...[?]. Philosophy
+               <lb facs="#facs_177_tr_2_tl_13" n="N009"/>is the attempt to answer the general questions about the nature of reality and the nature of human
+               <lb facs="#facs_177_tr_2_tl_14" n="N010"/>existence. Perhaps this non-definition, but description, is a way out, and we NEED such a way out,
+               <lb facs="#facs_177_tr_2_tl_15" n="N011"/>otherwise we could not even [have] specialized departments of philosophy. What is that?---a "depart-
+               <lb facs="#facs_177_tr_2_tl_16" n="N012"/>ment of philosophy". Every university has a "department of philosophy," and if somebody is asked
+               <lb facs="#facs_177_tr_2_tl_17" n="N013"/>"What do they do in these departments?", no one could answer it <hi style="font-style: italic;">[laughter]</hi>, because if you want to
+               <lb facs="#facs_177_tr_2_tl_18" n="N014"/>answer it in a clear defintion [sic.] (as in "department of mathematics"), namely exactly KNOW what is
+               <lb facs="#facs_177_tr_2_tl_19" n="N015"/>done there, then you have to ask each of the philosophers and then you will ask not [for] a depart-
+               <lb facs="#facs_177_tr_2_tl_20" n="N016"/>mental answer, but the answer of individual philosophers. And RIGHTLY so---it cannot be otherwise.
+               <lb facs="#facs_177_tr_2_tl_21" n="N017"/>Nevertheless we have "departments of philosophy" and everyone knows what that means, namely
+               <lb facs="#facs_177_tr_2_tl_22" n="N018"/>it means here some rather general questions are asked, and each of these philosophers answers them
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

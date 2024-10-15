@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p013</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p013</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_13">
+         <graphic url="TL-0297.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LDDHIKRNDMNFGKTWKEJHOWJK&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="194,260 2271,260 2271,1237 194,1237" rendition="TextRegion" xml:id="facs_13_tr_2">
+            <zone points="1045,324 1058,322 1074,332 1097,335 1170,329 1165,249 1139,249 1126,267 1115,267 1105,257 1097,257 1084,270 1045,272" rendition="Line" xml:id="facs_13_tr_2_tl_1"/>
+            <zone points="392,467 2200,482 2158,420 392,405" rendition="Line" xml:id="facs_13_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="358,638 2210,633 2207,581 355,581" rendition="Line" xml:id="facs_13_tr_2_tl_3"/>
+            <zone points="189,783 480,835 568,776 2215,788 2215,731 189,724" rendition="Line" xml:id="facs_13_tr_2_tl_4"/>
+            <zone points="195,934 2202,934 2155,874 195,877" rendition="Line" xml:id="facs_13_tr_2_tl_5"/>
+            <zone points="182,1074 960,1126 2267,1095 2267,1030 182,1025" rendition="Line" xml:id="facs_13_tr_2_tl_6"/>
+            <zone points="179,1222 1149,1237 1149,1183 1110,1180 179,1178" rendition="Line" xml:id="facs_13_tr_2_tl_7"/>
+         </zone>
+         <zone points="185,1320 2277,1320 2277,2144 185,2144" rendition="TextRegion" xml:id="facs_13_tr_3">
+            <zone points="384,1393 2187,1398 2189,1328 386,1328" rendition="Line" xml:id="facs_13_tr_3_tl_1" subtype="paragraph"/>
+            <zone points="182,1543 1712,1541 1678,1478 182,1468" rendition="Line" xml:id="facs_13_tr_3_tl_2"/>
+            <zone points="374,1673 472,1717 2270,1694 2163,1631 374,1626" rendition="Line" xml:id="facs_13_tr_3_tl_3" subtype="paragraph"/>
+            <zone points="174,1834 2192,1847 2223,1782 174,1803" rendition="Line" xml:id="facs_13_tr_3_tl_4"/>
+            <zone points="174,1989 2225,2005 2225,1938 1935,1925 174,1938" rendition="Line" xml:id="facs_13_tr_3_tl_5"/>
+            <zone points="171,2137 1520,2158 1484,2091 1359,2078 869,2075 796,2111 171,2085" rendition="Line" xml:id="facs_13_tr_3_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0297.jpg" n="part2_p013.jpg" xml:id="img_0013" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p013.jpg"/>
+            
+            <ab facs="#facs_13_tr_2">
+               <lb facs="#facs_13_tr_2_tl_1" n="N001"/>[293]
+               <lb facs="#facs_13_tr_2_tl_2" n="N002"/>Then art has a third function, an anticipatory one, in terms of anticipation, solutions of the
+               <lb facs="#facs_13_tr_2_tl_3" n="N003"/>problems of existence which in actual existence are not solved. Out of this function the more
+               <lb facs="#facs_13_tr_2_tl_4" n="N004"/>idealistic forms of art come. Out of the expressive function the more expressive and naturalistic forms
+               <lb facs="#facs_13_tr_2_tl_5" n="N005"/>of art come, and out of the former, the more naturalistic forms of art come. This gives you an insight
+               <lb facs="#facs_13_tr_2_tl_6" n="N006"/>into the immense significance of art, the element of grasping reality which is not the cognitive dimension,
+               <lb facs="#facs_13_tr_2_tl_7" n="N007"/>but which has cognitive elements in it indirectly.
+            </ab>
+            <ab facs="#facs_13_tr_3">
+               <lb facs="#facs_13_tr_3_tl_1" n="N001"/>Secondly the expressive function of art, expressing even the most disrupted state of reality,
+               <lb facs="#facs_13_tr_3_tl_2" n="N002"/>[such] as our present recent art since the beginning of the 20th century does.
+               <lb facs="#facs_13_tr_3_tl_3" n="N003"/>Then the third, the anticipatory, function of art, in which imagination---one of the great powers
+               <lb facs="#facs_13_tr_3_tl_4" n="N004"/>of human freedom---can transcend the given reality. In these three functions we will look at the artistic
+               <lb facs="#facs_13_tr_3_tl_5" n="N005"/>realm not only in terms of the visual arts, although my main examples will come from it, because that is
+               <lb facs="#facs_13_tr_3_tl_6" n="N006"/>my hobby, but I will also refer, as far as I am able, to the other arts.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

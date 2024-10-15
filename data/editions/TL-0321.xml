@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p037</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p037</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_37">
+         <graphic url="TL-0321.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=EYPAKBLUDWATRZOMBUIMJYQO&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="250,332 2266,332 2266,1619 250,1619" rendition="TextRegion" xml:id="facs_37_tr_2">
+            <zone points="1117,385 1130,385 1152,405 1163,405 1173,395 1183,405 1208,400 1215,403 1228,390 1241,390 1241,325 1205,327 1203,322 1183,325 1180,320 1152,345 1117,345" rendition="Line" xml:id="facs_37_tr_2_tl_1"/>
+            <zone points="237,551 2099,544 2187,541 2187,486 237,513" rendition="Line" xml:id="facs_37_tr_2_tl_2"/>
+            <zone points="244,712 2129,702 2131,642 247,662" rendition="Line" xml:id="facs_37_tr_2_tl_3"/>
+            <zone points="244,861 2179,845 2179,783 244,808" rendition="Line" xml:id="facs_37_tr_2_tl_4"/>
+            <zone points="242,1004 2217,1006 2217,936 242,979" rendition="Line" xml:id="facs_37_tr_2_tl_5"/>
+            <zone points="237,1160 2043,1157 2136,1142 2136,1090 237,1137" rendition="Line" xml:id="facs_37_tr_2_tl_6"/>
+            <zone points="244,1311 1915,1308 2260,1293 2260,1228 244,1281" rendition="Line" xml:id="facs_37_tr_2_tl_7"/>
+            <zone points="244,1464 1449,1454 1417,1402 244,1422" rendition="Line" xml:id="facs_37_tr_2_tl_8"/>
+            <zone points="425,1618 2224,1605 2227,1555 428,1553" rendition="Line" xml:id="facs_37_tr_2_tl_9" subtype="paragraph"/>
+         </zone>
+         <zone points="253,1681 2271,1681 2271,2526 253,2526" rendition="TextRegion" xml:id="facs_37_tr_3">
+            <zone points="242,1761 2161,1751 2192,1683 244,1734" rendition="Line" xml:id="facs_37_tr_3_tl_1"/>
+            <zone points="239,1915 2151,1902 2151,1844 242,1870" rendition="Line" xml:id="facs_37_tr_3_tl_2"/>
+            <zone points="244,2071 2094,2053 2094,1998 2033,1995 247,2016" rendition="Line" xml:id="facs_37_tr_3_tl_3"/>
+            <zone points="244,2214 813,2262 934,2209 1872,2252 2081,2199 2051,2139 247,2169" rendition="Line" xml:id="facs_37_tr_3_tl_4"/>
+            <zone points="244,2375 1427,2360 1623,2463 1885,2433 2008,2350 2262,2350 2265,2287 2091,2315 1945,2247 1631,2297 1542,2229 1472,2300 247,2317" rendition="Line" xml:id="facs_37_tr_3_tl_5"/>
+            <zone points="242,2514 1490,2531 2232,2499 2232,2446 242,2486" rendition="Line" xml:id="facs_37_tr_3_tl_6"/>
+         </zone>
+         <zone points="79,2589 2263,2589 2263,3488 79,3488" rendition="TextRegion" xml:id="facs_37_tr_1">
+            <zone points="237,2670 2161,2614 1087,2637 793,2587 237,2645" rendition="Line" xml:id="facs_37_tr_1_tl_1"/>
+            <zone points="239,2821 2187,2821 2189,2738 239,2765" rendition="Line" xml:id="facs_37_tr_1_tl_2"/>
+            <zone points="239,2969 2242,2949 2260,2881 239,2941" rendition="Line" xml:id="facs_37_tr_1_tl_3"/>
+            <zone points="242,3120 2129,3103 2172,3047 242,3095" rendition="Line" xml:id="facs_37_tr_1_tl_4"/>
+            <zone points="249,3279 1932,3269 2149,3254 2149,3201 252,3228" rendition="Line" xml:id="facs_37_tr_1_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0321.jpg" n="part2_p037.jpg" xml:id="img_0037" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p037.jpg"/>
+            
+            <ab facs="#facs_37_tr_2">
+               <lb facs="#facs_37_tr_2_tl_1" n="N001"/>[317]
+               <lb facs="#facs_37_tr_2_tl_2" n="N002"/>mathematical proportions. And since they saw the movement of the heavenly bodies, they derived
+               <lb facs="#facs_37_tr_2_tl_3" n="N003"/>from this the theory that they must produce a sound, and since they are ordered harmoniously,
+               <lb facs="#facs_37_tr_2_tl_4" n="N004"/>a harmonious sound. They called it the music of the spheres which nobody can hear, because
+               <lb facs="#facs_37_tr_2_tl_5" n="N005"/>we always hear it, it is always present, and so we cannot hear it as a special thing, but it is something
+               <lb facs="#facs_37_tr_2_tl_6" n="N006"/>accompanying us, like light or gravitation, or those things which we don't realize any more, but
+               <lb facs="#facs_37_tr_2_tl_7" n="N007"/>which are there. There is a Psalm in the Old Testament which has a very similar idea, that the heavens
+               <lb facs="#facs_37_tr_2_tl_8" n="N008"/>and the earth always sing the praise of God by themselves.
+               <lb facs="#facs_37_tr_2_tl_9" n="N009"/>Now this means---and that is my emphasis here---that MUSIC ALSO reveals a level of reality
+            </ab>
+            <ab facs="#facs_37_tr_3">
+               <lb facs="#facs_37_tr_3_tl_1" n="N001"/>which otherwise would be hidden, and not only a level of our soul. One should not put music into
+               <lb facs="#facs_37_tr_3_tl_2" n="N002"/>the realm of mere subjectivity. The harmonies which are given and which cannot be changed are
+               <lb facs="#facs_37_tr_3_tl_3" n="N003"/>in nature itself, they are characteristics of vibrating, swinging bodies---you cannot change this.
+               <lb facs="#facs_37_tr_3_tl_4" n="N004"/>They express something about the nature of our world. These are symbols, therefore, which
+               <lb facs="#facs_37_tr_3_tl_5" n="N005"/>point to something which also cannot be reached in any other way. Symbols of dance: they combine
+               <lb facs="#facs_37_tr_3_tl_6" n="N006"/>the musical and the visual. This makes them more than and less than the two others. Combined arts
+            </ab>
+            <ab facs="#facs_37_tr_1">
+               <lb facs="#facs_37_tr_1_tl_1" n="N001"/>are always more and less at the same time. They cannot use all the possibilities of exclusive arts.
+               <lb facs="#facs_37_tr_1_tl_2" n="N002"/>But in dance, we have the combination, the expression not of the body, as in sculpture, but of the
+               <lb facs="#facs_37_tr_1_tl_3" n="N003"/>moving body, and moving only in unity with music. Now here you have a confirmation of what I said
+               <lb facs="#facs_37_tr_1_tl_4" n="N004"/>that music expresses something about bodies, about the heavenly bodies and all bodies. The self-
+               <lb facs="#facs_37_tr_1_tl_5" n="N005"/>expression of dance in moving bodies is in itself a symptom for what I said, and is a symbol of a
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

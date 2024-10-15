@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p029</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p029</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_29">
+         <graphic url="TL-0313.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RBPQSQWCIEERRLTPQLKGZOTH&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="23,272 2274,272 2274,1260 23,1260" rendition="TextRegion" xml:id="facs_29_tr_2">
+            <zone points="1136,327 1149,327 1164,340 1201,338 1227,343 1247,333 1263,333 1263,286 1227,288 1211,270 1193,265 1169,288 1136,288" rendition="Line" xml:id="facs_29_tr_2_tl_1"/>
+            <zone points="247,491 2227,489 2227,439 2079,421 1253,447 1169,364 995,439 247,426" rendition="Line" xml:id="facs_29_tr_2_tl_2"/>
+            <zone points="236,639 1884,626 2017,678 2232,663 2269,574 239,590" rendition="Line" xml:id="facs_29_tr_2_tl_3"/>
+            <zone points="239,803 1564,865 2256,790 2256,728 1853,730 1739,663 1357,738 239,764" rendition="Line" xml:id="facs_29_tr_2_tl_4"/>
+            <zone points="229,936 2141,969 2141,884 229,910" rendition="Line" xml:id="facs_29_tr_2_tl_6"/>
+            <zone points="236,1117 2253,1102 2214,1032 239,1047" rendition="Line" xml:id="facs_29_tr_2_tl_7"/>
+            <zone points="164,1315 369,1247 577,1315 2074,1284 2170,1263 2173,1182 166,1180" rendition="Line" xml:id="facs_29_tr_2_tl_9"/>
+         </zone>
+         <zone points="238,1332 2242,1332 2242,2156 238,2156" rendition="TextRegion" xml:id="facs_29_tr_4">
+            <zone points="229,1432 2037,1401 2167,1388 2167,1336 229,1367" rendition="Line" xml:id="facs_29_tr_4_tl_1"/>
+            <zone points="234,1541 2157,1577 2157,1484 234,1512" rendition="Line" xml:id="facs_29_tr_4_tl_2"/>
+            <zone points="223,1694 353,1759 447,1731 1156,1731 1156,1629 1110,1658 1047,1632 1019,1661 975,1629 933,1658 865,1629 826,1658 790,1629 694,1632 665,1661 637,1632 223,1642" rendition="Line" xml:id="facs_29_tr_4_tl_3"/>
+            <zone points="465,1843 2105,1850 2186,1845 2186,1783 465,1788" rendition="Line" xml:id="facs_29_tr_4_tl_4" subtype="paragraph"/>
+            <zone points="226,1998 2230,1998 2230,1931 226,1939" rendition="Line" xml:id="facs_29_tr_4_tl_5"/>
+            <zone points="226,2144 2212,2157 2240,2087 229,2092" rendition="Line" xml:id="facs_29_tr_4_tl_6"/>
+         </zone>
+         <zone points="59,2236 2307,2236 2307,3470 59,3470" rendition="TextRegion" xml:id="facs_29_tr_1">
+            <zone points="216,2313 2123,2302 2126,2235 218,2248" rendition="Line" xml:id="facs_29_tr_1_tl_1"/>
+            <zone points="223,2453 2136,2461 2253,2448 2253,2388 223,2417" rendition="Line" xml:id="facs_29_tr_1_tl_2"/>
+            <zone points="218,2609 1791,2627 2232,2596 2232,2536 218,2573" rendition="Line" xml:id="facs_29_tr_1_tl_3"/>
+            <zone points="216,2674 2274,2672 2274,2617 216,2638" rendition="Line" xml:id="facs_29_tr_1_tl_4"/>
+            <zone points="216,2830 1752,2848 2300,2817 2302,2765 218,2775" rendition="Line" xml:id="facs_29_tr_1_tl_5"/>
+            <zone points="216,2983 1619,3004 2261,2973 2279,2913 216,2926" rendition="Line" xml:id="facs_29_tr_1_tl_6"/>
+            <zone points="210,3129 1785,3142 2170,3124 2173,3067 213,3077" rendition="Line" xml:id="facs_29_tr_1_tl_7"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0313.jpg" n="part2_p029.jpg" xml:id="img_0029" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p029.jpg"/>
+            
+            <ab facs="#facs_29_tr_2">
+               <lb facs="#facs_29_tr_2_tl_1" n="N001"/>[309]
+               <lb facs="#facs_29_tr_2_tl_2" n="N002"/>OUTSIDE of them, but something which is IN them---and THERE was the reason for my hesitation.
+               <lb facs="#facs_29_tr_2_tl_3" n="N003"/>Something which in, with, and under the natural forms of the encountered reality: there we encounter
+               <lb facs="#facs_29_tr_2_tl_4" n="N004"/>something which is not the ordinary encountered reality, but in, with and under the forms and sounds
+               <lb facs="#facs_29_tr_2_tl_6" n="N005"/>and words and imaginations of the encountered reality, something else appears. Now this is the
+               <lb facs="#facs_29_tr_2_tl_7" n="N006"/>pointing-beyond. "Beyond" doesn't mean "to something else which could be grasped in another way,"
+               <lb facs="#facs_29_tr_2_tl_9" n="N007"/>but it means "to another dimension which cannot be grasped in ANY other way than through the
+            </ab>
+            <ab facs="#facs_29_tr_4">
+               <lb facs="#facs_29_tr_4_tl_1" n="N001"/>artistic revelation." Therefore one rightly speaks of the "revelatory" character of great art; if the
+               <lb facs="#facs_29_tr_4_tl_2" n="N002"/>word revelatory here is removed from its genuinely religious sense and simply means opening up a
+               <lb facs="#facs_29_tr_4_tl_3" n="N003"/>dimension of reality which is otherwise closed.
+               <lb facs="#facs_29_tr_4_tl_4" n="N004"/>When I spoke about symbols generally, I said that this is not only the case with respect
+               <lb facs="#facs_29_tr_4_tl_5" n="N005"/>to the encountered reality but also with respect to the encountering soul---if you allow me to use this
+               <lb facs="#facs_29_tr_4_tl_6" n="N006"/>German romantic word "soul," which now must be translated by the word "psychological," although
+            </ab>
+            <ab facs="#facs_29_tr_1">
+               <lb facs="#facs_29_tr_1_tl_1" n="N001"/><hi style="font-style: italic;">psyche</hi> originally meant "soul," but since we now have psychology without soul, the word soul
+               <lb facs="#facs_29_tr_1_tl_2" n="N002"/>cannot be used any more. I KNOW ! I mean the total personality in all its different dimensions, levels
+               <lb facs="#facs_29_tr_1_tl_3" n="N003"/>and functions. And when I mean this---the centered life process, as the word <hi style="font-style: italic;">psyche</hi> originally me8t [sic.]
+               <lb facs="#facs_29_tr_1_tl_4" n="N004"/>meant in Greek---now if I speak about this, then I would say: there are levels or dimensions in our total
+               <lb facs="#facs_29_tr_1_tl_5" n="N005"/>being---in our soul, if you allow me that word---which cannot be opened up in any other way than by art.
+               <lb facs="#facs_29_tr_1_tl_6" n="N006"/>Now everybody would agree with this. Those of you who are musical can easiest agree with me because
+               <lb facs="#facs_29_tr_1_tl_7" n="N007"/>that which you experience in terms of opening up your souls, in listening to a great work of music
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

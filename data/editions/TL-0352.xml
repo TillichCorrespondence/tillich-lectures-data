@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p068</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p068</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_68">
+         <graphic url="TL-0352.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QUIIUGQIUADEZMGKGALWFCXT&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="211,72 2218,72 2218,1126 211,1126" rendition="TextRegion" xml:id="facs_68_tr_1">
+            <zone points="1051,360 1063,360 1079,372 1107,367 1117,375 1153,372 1163,362 1176,362 1176,291 1148,288 1137,298 1114,301 1099,288 1086,301 1051,301" rendition="Line" xml:id="facs_68_tr_1_tl_2"/>
+            <zone points="209,525 2203,510 2165,449 1920,426 334,479 212,436" rendition="Line" xml:id="facs_68_tr_1_tl_3"/>
+            <zone points="196,666 2127,663 2127,602 196,617" rendition="Line" xml:id="facs_68_tr_1_tl_4"/>
+            <zone points="204,826 2185,829 2213,750 204,788" rendition="Line" xml:id="facs_68_tr_1_tl_5"/>
+            <zone points="207,979 1941,969 2132,921 207,926" rendition="Line" xml:id="facs_68_tr_1_tl_6"/>
+            <zone points="209,1122 2134,1117 2173,1051 212,1068" rendition="Line" xml:id="facs_68_tr_1_tl_7"/>
+         </zone>
+         <zone points="206,1200 2245,1200 2245,2332 206,2332" rendition="TextRegion" xml:id="facs_68_tr_2">
+            <zone points="204,1275 2088,1272 2088,1209 204,1244" rendition="Line" xml:id="facs_68_tr_2_tl_1"/>
+            <zone points="204,1425 2043,1428 2043,1367 204,1397" rendition="Line" xml:id="facs_68_tr_2_tl_2"/>
+            <zone points="191,1571 2083,1573 2241,1566 2241,1502 191,1545" rendition="Line" xml:id="facs_68_tr_2_tl_3"/>
+            <zone points="196,1724 1568,1765 1663,1711 2208,1716 2208,1657 196,1680" rendition="Line" xml:id="facs_68_tr_2_tl_4"/>
+            <zone points="199,1879 2147,1869 2173,1813 199,1828" rendition="Line" xml:id="facs_68_tr_2_tl_5"/>
+            <zone points="194,2022 2043,2025 2213,1974 194,1994" rendition="Line" xml:id="facs_68_tr_2_tl_6"/>
+            <zone points="194,2175 2101,2175 2239,2162 2239,2104 194,2122" rendition="Line" xml:id="facs_68_tr_2_tl_7"/>
+            <zone points="196,2328 1005,2336 1137,2326 1137,2272 196,2292" rendition="Line" xml:id="facs_68_tr_2_tl_8"/>
+         </zone>
+         <zone points="123,2407 2158,2407 2158,3473 123,3473" rendition="TextRegion" xml:id="facs_68_tr_3">
+            <zone points="189,2474 1961,2481 1961,2402 189,2445" rendition="Line" xml:id="facs_68_tr_3_tl_1" subtype="paragraph"/>
+            <zone points="194,2621 1984,2629 2086,2611 2086,2553 194,2596" rendition="Line" xml:id="facs_68_tr_3_tl_2"/>
+            <zone points="189,2777 2068,2774 2152,2764 2155,2700 189,2746" rendition="Line" xml:id="facs_68_tr_3_tl_3"/>
+            <zone points="191,2930 1900,2927 2116,2917 2116,2861 191,2907" rendition="Line" xml:id="facs_68_tr_3_tl_4"/>
+            <zone points="398,3083 1466,3088 1489,3027 398,3042" rendition="Line" xml:id="facs_68_tr_3_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0352.jpg" n="part2_p068.jpg" xml:id="img_0068" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p068.jpg"/>
+            
+            <ab facs="#facs_68_tr_1">
+               <lb facs="#facs_68_tr_1_tl_2" n="N001"/>[347]
+               <lb facs="#facs_68_tr_1_tl_3" n="N002"/>Second World War, as an exercise for their military airplanes! The horrors were incredible, the whole
+               <lb facs="#facs_68_tr_1_tl_4" n="N003"/>little town was destroyed, and the expression of this horror is given in the disruptedness [sic.] of all the
+               <lb facs="#facs_68_tr_1_tl_5" n="N004"/>elements of the reality which are shown here—inorganic elements, human forces in horror, animals, etc.
+               <lb facs="#facs_68_tr_1_tl_6" n="N005"/>In one of my utterances, or sometimes in lectures, I have said this is the most Protestant picture--
+               <lb facs="#facs_68_tr_1_tl_7" n="N006"/>which does not mean that exhausts Protestantism—but when I said that, I meant that the Protestant
+            </ab>
+            <ab facs="#facs_68_tr_2">
+               <lb facs="#facs_68_tr_2_tl_1" n="N001"/>attitude, which ALWAYS sees the disruptedness [sic.] and estrangement of reality, is most powerfully
+               <lb facs="#facs_68_tr_2_tl_2" n="N002"/>expressed in this, and that if there Will be, from now on, POSITIVE Protestant expressions,
+               <lb facs="#facs_68_tr_2_tl_3" n="N003"/>they should not [be] beautiful reality any more but should show where they—and I will show you that
+               <lb facs="#facs_68_tr_2_tl_4" n="N004"/>later on, for instance, in Christ pictures, that the disruptedness [sic.] IS REALITY, but is overcome in itself
+               <lb facs="#facs_68_tr_2_tl_5" n="N005"/>not by a beautifying naturalism, but by an understanding of the depth of the problems. And in this
+               <lb facs="#facs_68_tr_2_tl_6" n="N006"/>sense this picture has a very profound meaning for the understanding of man’s situation in the world--
+               <lb facs="#facs_68_tr_2_tl_7" n="N007"/>it is in the Museum of Modern Art in New York and is acknowledged now as one of the most important
+               <lb facs="#facs_68_tr_2_tl_8" n="N008"/>expressions of our world in the modern period.
+            </ab>
+            <ab facs="#facs_68_tr_3">
+               <lb facs="#facs_68_tr_3_tl_1" n="N001"/>5) Rouault, <hi style="font-style: italic;">CIRCUS TRIO</hi>--You remember what I said in the very beginning last hour,
+               <lb facs="#facs_68_tr_3_tl_2" n="N002"/>when we came to the first harlequins in the French opera by Watteau, that the unity of joy and
+               <lb facs="#facs_68_tr_3_tl_3" n="N003"/>tragedy was expressed in them, and that the preference of modern art for Pierrots, harlequins
+               <lb facs="#facs_68_tr_3_tl_4" n="N004"/>and figures like this, is in itself an expression of the tragic feeling especially in those figures which
+               <lb facs="#facs_68_tr_3_tl_5" n="N005"/>are supposed to express the <hi style="font-style: italic;">joie de vivre</hi>, the joy of living.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

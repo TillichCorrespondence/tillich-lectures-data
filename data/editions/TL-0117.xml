@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p117</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p117</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_117">
+         <graphic url="TL-0117.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DIODPIMBGHILVNCCEOTCZSPS&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="280,200 280,3486 2385,3486 2385,200" rendition="TextRegion" xml:id="facs_117_tr_2">
+            <zone points="1078,261 1091,261 1099,269 1109,266 1122,277 1164,277 1172,271 1180,279 1190,279 1198,271 1211,271 1211,219 1174,219 1156,201 1143,214 1078,211" rendition="Line" xml:id="facs_117_tr_2_tl_1"/>
+            <zone points="313,433 1368,425 1477,470 1529,428 2203,438 2177,345 2114,384 1955,339 1840,381 1676,350 1644,381 313,384" rendition="Line" xml:id="facs_117_tr_2_tl_2"/>
+            <zone points="311,566 2252,577 2252,525 2109,519 311,519" rendition="Line" xml:id="facs_117_tr_2_tl_3"/>
+            <zone points="311,723 2258,733 2258,673 2075,647 1882,692 311,689" rendition="Line" xml:id="facs_117_tr_2_tl_4"/>
+            <zone points="298,864 2279,877 2279,820 298,838" rendition="Line" xml:id="facs_117_tr_2_tl_5"/>
+            <zone points="303,1015 684,1039 1088,1028 1088,974 303,968" rendition="Line" xml:id="facs_117_tr_2_tl_6"/>
+            <zone points="496,1138 1177,1135 1373,1190 1616,1188 1678,1141 2310,1148 2310,1075 2190,1107 2156,1075 496,1101" rendition="Line" xml:id="facs_117_tr_2_tl_7" subtype="paragraph"/>
+            <zone points="298,1289 869,1297 937,1349 2297,1305 2297,1242 298,1258" rendition="Line" xml:id="facs_117_tr_2_tl_8"/>
+            <zone points="287,1477 885,1506 958,1446 2294,1462 2294,1399 2088,1394 287,1415" rendition="Line" xml:id="facs_117_tr_2_tl_9"/>
+            <zone points="298,1597 2232,1608 2232,1548 298,1545" rendition="Line" xml:id="facs_117_tr_2_tl_10"/>
+            <zone points="292,1757 2276,1749 2276,1691 292,1699" rendition="Line" xml:id="facs_117_tr_2_tl_11"/>
+            <zone points="284,1890 1579,1929 1929,1897 1989,1944 2271,1955 2378,1911 2378,1848 2339,1845 284,1840" rendition="Line" xml:id="facs_117_tr_2_tl_12"/>
+            <zone points="290,2062 2221,2054 2221,1999 290,1997" rendition="Line" xml:id="facs_117_tr_2_tl_13"/>
+            <zone points="277,2213 462,2258 793,2195 2226,2208 2226,2148 2104,2143 277,2169" rendition="Line" xml:id="facs_117_tr_2_tl_14"/>
+            <zone points="282,2344 2185,2352 2185,2294 282,2292" rendition="Line" xml:id="facs_117_tr_2_tl_15"/>
+            <zone points="282,2493 2258,2500 2258,2446 282,2466" rendition="Line" xml:id="facs_117_tr_2_tl_16"/>
+            <zone points="274,2647 517,2670 556,2644 1047,2657 1047,2602 1007,2592 587,2600 566,2620 438,2589 274,2600" rendition="Line" xml:id="facs_117_tr_2_tl_17"/>
+            <zone points="470,2808 1120,2798 1248,2874 1571,2832 2177,2853 2294,2806 2294,2746 2104,2730 1412,2764 1112,2652 791,2667 470,2764" rendition="Line" xml:id="facs_117_tr_2_tl_18" subtype="paragraph"/>
+            <zone points="266,2949 2122,2981 2122,2887 266,2926" rendition="Line" xml:id="facs_117_tr_2_tl_19"/>
+            <zone points="271,3124 1788,3142 1837,3111 1837,3059 1780,3054 271,3064" rendition="Line" xml:id="facs_117_tr_2_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0117.jpg" n="part1_p117.jpg" xml:id="img_0117" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p117.jpg"/>
+            
+            <ab facs="#facs_117_tr_2">
+               <lb facs="#facs_117_tr_2_tl_1" n="N001"/>[114]
+               <lb facs="#facs_117_tr_2_tl_2" n="N002"/>(as I would call it)--if this is attacked, then indeed a fundamental [affirmation] of Christianity,
+               <lb facs="#facs_117_tr_2_tl_3" n="N003"/>including its whole interpretation of history, is undercut. And the way in which even those in this
+               <lb facs="#facs_117_tr_2_tl_4" n="N004"/>country who are not consciously Christian, or do not stand consciously in the Jewish-Christian
+               <lb facs="#facs_117_tr_2_tl_5" n="N005"/>tradition, even THEY would not be able, if they were consistent, to act as they do, as if it is possible
+               <lb facs="#facs_117_tr_2_tl_6" n="N006"/>to transform reality towards the better.
+               <lb facs="#facs_117_tr_2_tl_7" n="N007"/><rs type="keyword" ref="#Creation"><rs type="keyword" ref="#Darwinism">Now this was BEHIND this fight. But the concrete form in which the fight with Darwinism</rs>
+               <lb break="no" facs="#facs_117_tr_2_tl_8" n="N008"/><rs type="keyword" ref="#Darwinism">was going on was the question whether the divine creativity is eliminated in the moment in which the</rs>
+               <lb break="no" facs="#facs_117_tr_2_tl_9" n="N009"/><rs type="keyword" ref="#Darwinism">theory of evolution prevails</rs>. Here, theology made the tremendous mistake of restricting the meaning
+               <lb break="no" facs="#facs_117_tr_2_tl_10" n="N010"/>of creation to the beginning, in terms of a special divine act in which all different forms have been
+               <lb break="no" facs="#facs_117_tr_2_tl_11" n="N011"/>produced, and after this the world goes on on the basis of this basic creation. But this is not implied
+               <lb break="no" facs="#facs_117_tr_2_tl_12" n="N012"/>in the Christian doctrine of creation at all--on the contrary: classical theology, in people like Augustine,
+               <lb break="no" facs="#facs_117_tr_2_tl_13" n="N013"/>Luther and Calvin, has strongly emphasized that the divine creation cannot be separated from His
+               <lb break="no" facs="#facs_117_tr_2_tl_14" n="N014"/>acts of preservation, that God acts creatively here and now and in every moment, and that the way
+               <lb break="no" facs="#facs_117_tr_2_tl_15" n="N015"/>in which higher forms of life are produced is a matter of scientific hypothesis and does not at all
+               <lb break="no" facs="#facs_117_tr_2_tl_16" n="N016"/>change the dimension of divine creativity, whether the answer is: mechanistically, or organically, or
+               <lb break="no" facs="#facs_117_tr_2_tl_17" n="N017"/>idealistically--or however you want it</rs>.
+               <lb facs="#facs_117_tr_2_tl_18" n="N018"/>Now here you again see one thing: such struggles must be deeply analyzed with respect
+               <lb facs="#facs_117_tr_2_tl_19" n="N019"/>to their theological-philosophical matrix on the one hand, and their scientific-methodological
+               <lb facs="#facs_117_tr_2_tl_20" n="N020"/>procedures on the other. In the moment in which theology interferes with the
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

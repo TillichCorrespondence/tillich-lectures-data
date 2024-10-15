@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p146</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p146</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_146">
+         <graphic url="TL-0146.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WIPAKTVUJMNWTQBOLFRXBZVJ&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,243 298,3285 2349,3285 2349,1570 2349,243" rendition="TextRegion" xml:id="facs_146_tr_2">
+            <zone points="1060,322 1083,324 1096,335 1119,327 1126,335 1142,329 1175,327 1175,260 1149,263 1136,278 1126,278 1111,263 1096,276 1060,276" rendition="Line" xml:id="facs_146_tr_2_tl_1"/>
+            <zone points="312,472 2229,493 2229,434 2183,416 1256,434 1203,388 1157,434 886,437 853,403 820,437 720,406 312,437" rendition="Line" xml:id="facs_146_tr_2_tl_2"/>
+            <zone points="309,626 1177,636 1239,677 1806,641 2104,677 2298,638 2245,569 309,598" rendition="Line" xml:id="facs_146_tr_2_tl_3"/>
+            <zone points="309,779 2291,784 2291,730 2063,710 2000,751 309,751" rendition="Line" xml:id="facs_146_tr_2_tl_4"/>
+            <zone points="317,960 2309,950 2309,884 2178,873 2051,904 1864,871 317,884" rendition="Line" xml:id="facs_146_tr_2_tl_5"/>
+            <zone points="306,1080 838,1085 958,1126 2245,1085 2247,1029 309,1032" rendition="Line" xml:id="facs_146_tr_2_tl_6"/>
+            <zone points="314,1244 1078,1239 1185,1297 1726,1254 2270,1285 2334,1244 2334,1182 314,1185" rendition="Line" xml:id="facs_146_tr_2_tl_7"/>
+            <zone points="309,1389 1338,1389 1425,1443 2242,1412 2242,1328 309,1336" rendition="Line" xml:id="facs_146_tr_2_tl_8"/>
+            <zone points="309,1560 1272,1604 1392,1540 2209,1535 2209,1481 309,1489" rendition="Line" xml:id="facs_146_tr_2_tl_9"/>
+            <zone points="301,1685 1159,1688 1159,1647 1057,1634 511,1640 490,1660 337,1634 301,1655" rendition="Line" xml:id="facs_146_tr_2_tl_12"/>
+            <zone points="296,1836 2280,1839 2280,1780 296,1806" rendition="Line" xml:id="facs_146_tr_2_tl_13"/>
+            <zone points="299,1994 2303,1989 2303,1933 2214,1928 299,1936" rendition="Line" xml:id="facs_146_tr_2_tl_14"/>
+            <zone points="299,2145 1762,2140 1872,2181 1966,2137 2263,2150 2265,2084 299,2094" rendition="Line" xml:id="facs_146_tr_2_tl_15"/>
+            <zone points="291,2291 751,2321 1471,2301 1471,2240 1440,2237 291,2265" rendition="Line" xml:id="facs_146_tr_2_tl_16"/>
+            <zone points="493,2495 751,2500 924,2446 2250,2452 2303,2446 2306,2401 495,2383" rendition="Line" xml:id="facs_146_tr_2_tl_17" subtype="paragraph"/>
+            <zone points="291,2600 641,2661 2160,2597 2160,2531 291,2561" rendition="Line" xml:id="facs_146_tr_2_tl_18"/>
+            <zone points="286,2804 2181,2740 2181,2679 286,2720" rendition="Line" xml:id="facs_146_tr_2_tl_19"/>
+            <zone points="294,2909 1897,2891 2046,2942 2094,2893 2342,2886 2344,2830 294,2842" rendition="Line" xml:id="facs_146_tr_2_tl_20"/>
+            <zone points="283,3052 2140,3054 2286,3042 2288,2980 283,3021" rendition="Line" xml:id="facs_146_tr_2_tl_21"/>
+            <zone points="286,3210 1813,3210 2173,3264 2240,3261 2237,3190 2153,3223 1803,3144 283,3179" rendition="Line" xml:id="facs_146_tr_2_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0146.jpg" n="part1_p146.jpg" xml:id="img_0146" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p146.jpg"/>
+            
+            <ab facs="#facs_146_tr_2">
+               <lb facs="#facs_146_tr_2_tl_1" n="N001"/>[143]
+               <lb facs="#facs_146_tr_2_tl_2" n="N002"/>for instance about <rs type="keyword" ref="#Literalism">biblical literalism</rs>, taking suddenly a biblical word literally, while in the totality
+               <lb facs="#facs_146_tr_2_tl_3" n="N003"/>of his thinking literalism would be excluded---then you have to ask: now what does that mean? This
+               <lb facs="#facs_146_tr_2_tl_4" n="N004"/>cannot be understood in terms of his whole system, so it must be understood in terms of remnants of
+               <lb facs="#facs_146_tr_2_tl_5" n="N005"/>the past, or of a special historical situation in which he was forced into such a thing---e.g., the Marburg
+               <lb facs="#facs_146_tr_2_tl_6" n="N006"/>Confession [discussion?]. But be very cautious in this method; always be prejudiced towards each
+               <lb facs="#facs_146_tr_2_tl_7" n="N007"/>other, and toward any figure in the past, that he knows what he is talking about and that he MEANS it,
+               <lb facs="#facs_146_tr_2_tl_8" n="N008"/>and that it has some place in the whole of his thinking. And refute him in terms of arguments, but
+               <lb facs="#facs_146_tr_2_tl_9" n="N009"/>not in terms of sociological or psychological analysis, except in extreme cases where it is obvious
+               <lb facs="#facs_146_tr_2_tl_12" n="N010"/>that you cannot deal with him in terms of rational discussions. Of course, nothing in the world is
+               <lb facs="#facs_146_tr_2_tl_13" n="N011"/>absolutely obvious, so there is always the possibility that you make a mistake, but in any case, this is
+               <lb facs="#facs_146_tr_2_tl_14" n="N012"/>the practical, the pragmatic criterion which I give you in all such kinds of discussions. For this reason,
+               <lb facs="#facs_146_tr_2_tl_15" n="N013"/>I suppose it is not entirely useless to listen now to the next lecture, even after everybody completely
+               <lb facs="#facs_146_tr_2_tl_16" n="N014"/>analyzed [the situation] sociologically and psychologically.
+               <lb facs="#facs_146_tr_2_tl_17" n="N015"/><truth_historical>Historical truth</truth_historical> has a quite different character from <truth_scientific>scientific truth</truth_scientific>. <rs type="keyword" ref="#History">History</rs> reports unique
+               <lb facs="#facs_146_tr_2_tl_18" n="N016"/>events. Every historical event is once, unique, and never can be repeated. Every physical fact
+               <lb facs="#facs_146_tr_2_tl_19" n="N017"/>can be repeated as often as we can produce the external conditions. You can never produce the
+               <lb facs="#facs_146_tr_2_tl_20" n="N018"/>external conditions for a historical constellation. It has gone forever. Therefore you can [sic.] test historical
+               <lb facs="#facs_146_tr_2_tl_21" n="N019"/>truth by repetition. You can test it certainly by OTHER methods. Scientific processes, you can
+               <lb facs="#facs_146_tr_2_tl_22" n="N020"/>test again and again, and it is one of the great advantages of the sciences that every special scientist
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

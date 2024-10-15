@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p175</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p175</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_175">
+         <graphic url="TL-0175.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YGLBYCAIFQOZQSDGYQFUXYPP&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="32,244 32,3481 2397,3481 2397,244" rendition="TextRegion" xml:id="facs_175_tr_1">
+            <zone points="1122,299 1144,304 1157,317 1168,317 1176,309 1184,317 1194,317 1202,309 1216,317 1240,317 1240,224 1186,229 1160,251 1122,248" rendition="Line" xml:id="facs_175_tr_1_tl_1"/>
+            <zone points="259,467 2176,461 2176,411 1493,413 1448,368 1384,413 259,427" rendition="Line" xml:id="facs_175_tr_1_tl_2"/>
+            <zone points="472,624 2269,613 2269,555 472,557" rendition="Line" xml:id="facs_175_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="256,789 2266,763 2266,696 256,725" rendition="Line" xml:id="facs_175_tr_1_tl_4"/>
+            <zone points="168,933 2221,915 2221,853 611,883 373,864 256,749 168,789" rendition="Line" xml:id="facs_175_tr_1_tl_5"/>
+            <zone points="259,1003 1256,1000 1408,1059 2042,1029 2160,1061 2304,1013 2274,949 259,960" rendition="Line" xml:id="facs_175_tr_1_tl_9"/>
+            <zone points="259,1162 373,1221 997,1224 1602,1186 1672,1146 2197,1154 2178,1096 259,1109" rendition="Line" xml:id="facs_175_tr_1_tl_10"/>
+            <zone points="259,1322 2264,1306 2264,1250 259,1266" rendition="Line" xml:id="facs_175_tr_1_tl_11"/>
+            <zone points="248,1458 2234,1461 2234,1397 248,1410" rendition="Line" xml:id="facs_175_tr_1_tl_12"/>
+            <zone points="248,1605 2218,1608 2218,1541 248,1581" rendition="Line" xml:id="facs_175_tr_1_tl_13"/>
+            <zone points="256,1776 2266,1757 2266,1698 256,1720" rendition="Line" xml:id="facs_175_tr_1_tl_14"/>
+            <zone points="248,1914 1744,1957 1840,1901 2248,1909 2248,1853 248,1869" rendition="Line" xml:id="facs_175_tr_1_tl_15"/>
+            <zone points="251,2069 2216,2069 2216,2013 2032,1997 251,2021" rendition="Line" xml:id="facs_175_tr_1_tl_16"/>
+            <zone points="235,2218 2245,2218 2245,2154 235,2186" rendition="Line" xml:id="facs_175_tr_1_tl_17"/>
+            <zone points="251,2368 2280,2413 2394,2373 2394,2306 2258,2296 251,2320" rendition="Line" xml:id="facs_175_tr_1_tl_19"/>
+            <zone points="245,2509 1256,2517 1256,2469 1218,2456 245,2469" rendition="Line" xml:id="facs_175_tr_1_tl_20"/>
+            <zone points="445,2669 2226,2693 2269,2672 2272,2594 1229,2632 445,2605" rendition="Line" xml:id="facs_175_tr_1_tl_21" subtype="paragraph"/>
+            <zone points="245,2853 405,2885 728,2816 2216,2813 2216,2752 245,2792" rendition="Line" xml:id="facs_175_tr_1_tl_22"/>
+            <zone points="128,3013 168,3032 245,2970 413,3045 757,2992 1011,3026 1232,2965 2226,2968 2189,2898 392,2941 208,2906 128,2938" rendition="Line" xml:id="facs_175_tr_1_tl_23"/>
+            <zone points="251,3128 320,3173 1362,3173 1794,3138 2112,3168 2194,3125 2194,3061 2050,3048 251,3085" rendition="Line" xml:id="facs_175_tr_1_tl_24"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0175.jpg" n="part1_p175.jpg" xml:id="img_0175" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p175.jpg"/>
+            
+            <ab facs="#facs_175_tr_1">
+               <lb facs="#facs_175_tr_1_tl_1" n="N001"/>[171]
+               <lb facs="#facs_175_tr_1_tl_2" n="N002"/>going on certainly in the same way in the <rs type="keyword" ref="#Culture">Indian culture and in the Arabian and Islamic cultures</rs>.
+               <lb facs="#facs_175_tr_1_tl_3" n="N003"/>Now this means that here is another existentially human problem, the problem nobody can
+               <lb facs="#facs_175_tr_1_tl_4" n="N004"/>escape, and therefore a problem everybody wants to escape, because the problems which we CANNOT
+               <lb facs="#facs_175_tr_1_tl_5" n="N005"/>escape are at the same time those problems which are so hard that we would LIKE to escape them.
+               <lb facs="#facs_175_tr_1_tl_9" n="N006"/>One of the ways to escape them is that one shares in the opinion which is very popular, that philosophy
+               <lb facs="#facs_175_tr_1_tl_10" n="N007"/>and <rs type="keyword" ref="#Faith">faith</rs>, philosophy and <rs type="keyword" ref="#RELIGION">religion</rs>, are enemies and destroy each other. The trouble is that such a
+               <lb facs="#facs_175_tr_1_tl_11" n="N008"/>popular escape---which we don’t mind because the popular mind is not predisposed to find a solution
+               <lb facs="#facs_175_tr_1_tl_12" n="N009"/>to such problems: they have to find the solution to OTHER problems, in which these problems are
+               <lb facs="#facs_175_tr_1_tl_13" n="N010"/>IMplicit, but not EXplicit---but if theologians do the SAME thing and do it AFTER they have used
+               <lb facs="#facs_175_tr_1_tl_14" n="N011"/>(in stating such a thing) philosophical concepts, then a kind of passionate anger can arise, not because
+               <lb facs="#facs_175_tr_1_tl_15" n="N012"/>they don’t see the problem, but because they don’t see their self-contradiction. And they SHOULD
+               <lb facs="#facs_175_tr_1_tl_16" n="N013"/>see their self-contradiction. They SHOULD---that's their duty, and therefore anger is in place here,
+               <lb facs="#facs_175_tr_1_tl_17" n="N014"/>not because of another opinion but because of an irresponsible self-contradiction in continuously
+               <lb facs="#facs_175_tr_1_tl_19" n="N015"/><rs type="keyword" ref="#Concept">using concepts</rs> which are produced by philosophy in order to reject philosophy in the theological endeavor.
+               <lb facs="#facs_175_tr_1_tl_20" n="N016"/>That is something which I would call irresponsible.
+               <lb facs="#facs_175_tr_1_tl_21" n="N017"/>Now if someone comes to me and says, "l don’t see that l use <rs type="keyword" ref="#Concept">philosophical concepts</rs>, l use
+               <lb facs="#facs_175_tr_1_tl_22" n="N018"/>only <rs type="keyword" ref="#Concept"><rs type="keyword" ref="#Bible">biblical </rs>concepts,</rs>" then he might be excused insofar as he doesn't know very much about the
+               <lb facs="#facs_175_tr_1_tl_23" n="N019"/><rs type="keyword" ref="#Bible">Bible</rs>---and ignorance always can be excused---but if he reads the Bible with KNOWLEDGE, then he
+               <lb facs="#facs_175_tr_1_tl_24" n="N020"/>will find that even the <rs type="person">Pauline</rs> letters are full of <rs type="keyword" ref="#Stoicism">Stoic ethics, f</rs>ull of <rs type="keyword" ref="#Neoplatonism">Neoplatonic</rs> concepts, and
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

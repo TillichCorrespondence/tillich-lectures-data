@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p044</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p044</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_44">
+         <graphic url="TL-0044.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FGYRUWWWZSDAWTAACSPNYLAN&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="211,253 211,3462 2331,3462 2331,253" rendition="TextRegion" xml:id="facs_44_tr_3">
+            <zone points="1219,305 1246,308 1261,320 1283,315 1291,318 1303,310 1316,310 1313,238 1291,241 1283,233 1264,251 1219,253" rendition="Line" xml:id="facs_44_tr_3_tl_1"/>
+            <zone points="335,474 2110,487 2110,432 335,415" rendition="Line" xml:id="facs_44_tr_3_tl_2"/>
+            <zone points="330,549 1522,573 1817,566 1817,519 328,509" rendition="Line" xml:id="facs_44_tr_3_tl_3"/>
+            <zone points="628,720 946,717 1142,767 2289,740 2289,685 628,658" rendition="Line" xml:id="facs_44_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="333,812 2324,824 2324,775 2125,767 333,760" rendition="Line" xml:id="facs_44_tr_3_tl_5"/>
+            <zone points="323,919 2301,909 2301,856 1949,844 1043,869 668,812 323,842" rendition="Line" xml:id="facs_44_tr_3_tl_6"/>
+            <zone points="325,978 626,1025 1030,995 1274,1028 1388,978 2172,998 2172,951 2063,933 325,936" rendition="Line" xml:id="facs_44_tr_3_tl_7"/>
+            <zone points="323,1055 904,1070 968,1122 1532,1092 1532,1025 1435,1008 323,1028" rendition="Line" xml:id="facs_44_tr_3_tl_8"/>
+            <zone points="618,1226 2207,1241 2207,1187 2123,1169 1979,1202 618,1177" rendition="Line" xml:id="facs_44_tr_3_tl_9" subtype="paragraph"/>
+            <zone points="323,1311 2244,1328 2244,1274 2137,1266 323,1266" rendition="Line" xml:id="facs_44_tr_3_tl_10"/>
+            <zone points="323,1390 578,1445 670,1398 1206,1445 2232,1413 2232,1365 2090,1353 323,1353" rendition="Line" xml:id="facs_44_tr_3_tl_11"/>
+            <zone points="323,1480 2172,1494 2172,1437 2098,1432 323,1442" rendition="Line" xml:id="facs_44_tr_3_tl_12"/>
+            <zone points="320,1554 2237,1581 2237,1529 2185,1522 320,1527" rendition="Line" xml:id="facs_44_tr_3_tl_13"/>
+            <zone points="320,1653 2217,1658 2175,1601 320,1591" rendition="Line" xml:id="facs_44_tr_3_tl_14"/>
+            <zone points="323,1733 2016,1750 2016,1696 1939,1683 323,1686" rendition="Line" xml:id="facs_44_tr_3_tl_15"/>
+            <zone points="727,1822 2083,1830 2083,1775 727,1770" rendition="Line" xml:id="facs_44_tr_3_tl_17"/>
+            <zone points="315,1894 1758,1944 1914,1897 2125,1912 2125,1859 313,1844" rendition="Line" xml:id="facs_44_tr_3_tl_18"/>
+            <zone points="308,1976 2070,2016 2068,1946 1852,1936 308,1949" rendition="Line" xml:id="facs_44_tr_3_tl_19"/>
+            <zone points="315,2070 928,2115 1348,2068 2145,2078 2142,2036 2065,2021 313,2016" rendition="Line" xml:id="facs_44_tr_3_tl_20"/>
+            <zone points="308,2155 767,2145 1308,2199 1492,2152 1554,2195 1884,2195 1936,2152 2145,2195 2142,2120 2065,2103 308,2108" rendition="Line" xml:id="facs_44_tr_3_tl_21"/>
+            <zone points="295,2212 402,2262 670,2267 742,2229 2202,2247 2199,2199 2001,2182 730,2207 295,2167" rendition="Line" xml:id="facs_44_tr_3_tl_22"/>
+            <zone points="308,2321 2142,2368 2142,2286 1629,2289 1437,2242 1085,2294 308,2276" rendition="Line" xml:id="facs_44_tr_3_tl_23"/>
+            <zone points="310,2430 1661,2453 1889,2406 2195,2420 2229,2373 308,2346" rendition="Line" xml:id="facs_44_tr_3_tl_24"/>
+            <zone points="318,2502 2264,2515 2262,2455 315,2443" rendition="Line" xml:id="facs_44_tr_3_tl_25"/>
+            <zone points="308,2569 2199,2587 2199,2537 1827,2520 308,2522" rendition="Line" xml:id="facs_44_tr_3_tl_26"/>
+            <zone points="308,2656 2222,2711 2219,2614 305,2609" rendition="Line" xml:id="facs_44_tr_3_tl_27"/>
+            <zone points="303,2746 2214,2758 2214,2706 2008,2689 303,2703" rendition="Line" xml:id="facs_44_tr_3_tl_28"/>
+            <zone points="303,2823 2180,2842 2180,2793 1857,2808 1507,2756 1025,2803 303,2778" rendition="Line" xml:id="facs_44_tr_3_tl_29"/>
+            <zone points="305,2909 1470,2914 1470,2860 593,2882 305,2852" rendition="Line" xml:id="facs_44_tr_3_tl_30"/>
+            <zone points="596,2989 2140,3044 2155,2954 593,2944" rendition="Line" xml:id="facs_44_tr_3_tl_31" subtype="paragraph"/>
+            <zone points="293,3068 576,3106 760,3071 849,3123 1249,3140 1435,3125 1485,3076 2214,3086 2214,3039 1470,3053 1192,3011 1035,3051 385,3014 293,3046" rendition="Line" xml:id="facs_44_tr_3_tl_32"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0044.jpg" n="part1_p044.jpg" xml:id="img_0044" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p044.jpg"/>
+            
+            <ab facs="#facs_44_tr_3">
+               <lb facs="#facs_44_tr_3_tl_1" n="N001"/>[41]
+               <lb facs="#facs_44_tr_3_tl_2" n="N002"/><rs type="keyword" ref="#Language">spatial concept; then it is used as metaphor. This is only a preliminary introduction
+               <lb break="no" facs="#facs_44_tr_3_tl_3" n="N003"/>into the main problem, in order to get rid of confusing connotations.
+               <lb break="no" facs="#facs_44_tr_3_tl_4" n="N004"/>We come now to the symbolic form of signification, and must remove further
+               <lb break="no" facs="#facs_44_tr_3_tl_5" n="N005"/>confusions. <rs type="keyword" ref="#Signs">The greatest confusion, which almost cannot be removed, is the confusion between</rs>
+               <lb break="no" facs="#facs_44_tr_3_tl_6" n="N006"/><rs type="keyword" ref="#Signs">sign and symbol. Words are signs, they are direct signs grasping something directly which can</rs>
+               <lb break="no" facs="#facs_44_tr_3_tl_7" n="N007"/><rs type="keyword" ref="#Signs">be found in the context of time and space. And even if they are used metaphorically,</rs>
+               <lb break="no" facs="#facs_44_tr_3_tl_8" n="N008"/><rs type="keyword" ref="#Signs">they are still used directly.</rs> <rs type="keyword" ref="#Symbols">But symbols are NOT direct.</rs>
+               <lb break="no" facs="#facs_44_tr_3_tl_9" n="N009"/><rs type="keyword" ref="#Symbols">Now language has done great harm to the understanding of man's spiritual</rs>
+               <lb break="no" facs="#facs_44_tr_3_tl_10" n="N010"/><rs type="keyword" ref="#Symbols">life by not distinguishing signs and symbols clearly enough. We speak of mathematical and</rs>
+               <lb break="no" facs="#facs_44_tr_3_tl_11" n="N011"/><rs type="keyword" ref="#Symbols">logical symbols, but mathematical and logical signs are signs and not symbols! If they are</rs>
+               <lb break="no" facs="#facs_44_tr_3_tl_12" n="N012"/><rs type="keyword" ref="#Symbols">called symbols, then the term symbol is devaluated, it has lost its genuine power.</rs> So</rs> I
+               <lb facs="#facs_44_tr_3_tl_13" n="N013"/><rs type="keyword" ref="#Language">would be happy if I could transform again this linguistic confusion into a pure distinction
+               <lb break="no" facs="#facs_44_tr_3_tl_14" n="N014"/>between the realm of sign and symbol. I am afraid it is impossible. I am afraid that the
+               <lb break="no" facs="#facs_44_tr_3_tl_15" n="N015"/>mathematicians and symbolic logicians will use the word ''symbol'' all the time,
+               <lb break="no" facs="#facs_44_tr_3_tl_17" n="N016"/>happily, ever since it was used the first time, because it sounds much better!
+               <lb break="no" facs="#facs_44_tr_3_tl_18" n="N017"/>But if we cannot change this trend, we must at least make a distinction. There are
+               <lb break="no" facs="#facs_44_tr_3_tl_19" n="N018"/>some attempts to make distinctions. Some people--for instance my friend Professor
+               <lb break="no" facs="#facs_44_tr_3_tl_20" n="N019"/>[John Herman] Randall at Columbia University, with whom I had a few ''distinctions''
+               <lb break="no" facs="#facs_44_tr_3_tl_21" n="N020"/>about this already! [smiling], distinguishes ''reflective'' symbols, which I call ''signs,'' and then
+               <lb break="no" facs="#facs_44_tr_3_tl_22" n="N021"/>''intuitive'' symbols. Now, however we do it, I sometimes call these ''sign-symbols,'' and
+               <lb break="no" facs="#facs_44_tr_3_tl_23" n="N022"/>not in contrast to genuine symbols. <rs type="keyword" ref="#Symbols">Genuine symbols appear in the following realms:</rs>
+               <lb break="no" facs="#facs_44_tr_3_tl_24" n="N023"/><rs type="keyword" ref="#Symbols">in all the arts, in politics, in history (historical intuition), and in religion. There we have</rs>
+               <lb break="no" facs="#facs_44_tr_3_tl_25" n="N024"/><rs type="keyword" ref="#Symbols">genuine symbols, and not only sign-symbols, or reflective symbols.</rs> So I make a compromise
+               <lb break="no" facs="#facs_44_tr_3_tl_26" n="N025"/>because I am not almighty, but I would like to be almighty very often, not in order to
+               <lb break="no" facs="#facs_44_tr_3_tl_27" n="N026"/>change the word itself, but in order to change the linguistic confusions in philosophy and
+               <lb break="no" facs="#facs_44_tr_3_tl_28" n="N027"/>theology--in theology not less than in philosophy. But even this little bit of almightiness
+               <lb break="no" facs="#facs_44_tr_3_tl_29" n="N028"/>is not at my disposal! So I can only try to help clear up the situation. And it is very
+               <lb break="no" facs="#facs_44_tr_3_tl_30" n="N029"/>important to do this with respect to sign and symbol.
+               <lb break="no" facs="#facs_44_tr_3_tl_31" n="N030"/>Let us now try to do this from the point of view of symbols generally,
+               <lb break="no" facs="#facs_44_tr_3_tl_32" n="N031"/>and later on go into the problem of religious symbols. Both signs and symbols have one</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

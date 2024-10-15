@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p053</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p053</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_53">
+         <graphic url="TL-0053.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=OMHNRJGOVJYKYZWOSJRHOTVP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,236 298,2915 2266,2915 2266,236" rendition="TextRegion" xml:id="facs_53_tr_1">
+            <zone points="1205,280 1217,280 1239,292 1300,292 1300,218 1278,223 1269,216 1237,248 1205,248" rendition="Line" xml:id="facs_53_tr_1_tl_1"/>
+            <zone points="317,461 2113,483 2113,400 317,415" rendition="Line" xml:id="facs_53_tr_1_tl_2"/>
+            <zone points="317,557 2039,550 2015,486 317,503" rendition="Line" xml:id="facs_53_tr_1_tl_3"/>
+            <zone points="312,631 1995,628 1995,582 1916,569 312,599" rendition="Line" xml:id="facs_53_tr_1_tl_4"/>
+            <zone points="314,716 2049,721 2049,658 314,667" rendition="Line" xml:id="facs_53_tr_1_tl_5"/>
+            <zone points="309,795 1185,790 1347,837 2098,800 2098,748 2039,741 309,756" rendition="Line" xml:id="facs_53_tr_1_tl_6"/>
+            <zone points="307,886 2071,876 2071,834 2000,822 307,856" rendition="Line" xml:id="facs_53_tr_1_tl_7"/>
+            <zone points="312,974 2093,972 2093,915 2042,905 312,925" rendition="Line" xml:id="facs_53_tr_1_tl_8"/>
+            <zone points="302,1045 2135,1045 2135,999 2081,984 302,1023" rendition="Line" xml:id="facs_53_tr_1_tl_9"/>
+            <zone points="302,1126 2061,1134 2032,1077 302,1104" rendition="Line" xml:id="facs_53_tr_1_tl_10"/>
+            <zone points="307,1220 1178,1222 1178,1173 1089,1161 307,1178" rendition="Line" xml:id="facs_53_tr_1_tl_11"/>
+            <zone points="596,1296 2056,1320 2056,1247 596,1249" rendition="Line" xml:id="facs_53_tr_1_tl_12" subtype="paragraph"/>
+            <zone points="302,1386 2049,1381 2017,1320 302,1342" rendition="Line" xml:id="facs_53_tr_1_tl_13"/>
+            <zone points="307,1475 2137,1470 2137,1418 2046,1411 307,1426" rendition="Line" xml:id="facs_53_tr_1_tl_14"/>
+            <zone points="302,1558 2073,1551 2073,1504 1965,1489 1865,1521 302,1499" rendition="Line" xml:id="facs_53_tr_1_tl_15"/>
+            <zone points="297,1637 2203,1642 2203,1580 2135,1575 297,1597" rendition="Line" xml:id="facs_53_tr_1_tl_16"/>
+            <zone points="297,1718 2088,1718 2051,1649 1718,1688 628,1664 297,1696" rendition="Line" xml:id="facs_53_tr_1_tl_17"/>
+            <zone points="299,1806 1408,1806 1394,1747 299,1767" rendition="Line" xml:id="facs_53_tr_1_tl_18"/>
+            <zone points="604,1924 2122,1887 2122,1833 1597,1855 1342,1843 1296,1804 861,1857 604,1840" rendition="Line" xml:id="facs_53_tr_1_tl_19" subtype="paragraph"/>
+            <zone points="299,1978 2167,1973 2167,1921 2122,1916 299,1931" rendition="Line" xml:id="facs_53_tr_1_tl_20"/>
+            <zone points="299,2066 2149,2083 2149,1997 299,2029" rendition="Line" xml:id="facs_53_tr_1_tl_21"/>
+            <zone points="294,2172 2169,2167 2132,2081 294,2103" rendition="Line" xml:id="facs_53_tr_1_tl_22"/>
+            <zone points="297,2230 982,2277 1431,2218 2110,2221 2110,2164 297,2186" rendition="Line" xml:id="facs_53_tr_1_tl_23"/>
+            <zone points="294,2316 1673,2299 2096,2338 2096,2265 1965,2255 294,2272" rendition="Line" xml:id="facs_53_tr_1_tl_24"/>
+            <zone points="299,2427 1048,2434 1048,2368 955,2353 299,2353" rendition="Line" xml:id="facs_53_tr_1_tl_26"/>
+            <zone points="589,2495 790,2530 2059,2498 2019,2417 589,2439" rendition="Line" xml:id="facs_53_tr_1_tl_27" subtype="paragraph"/>
+            <zone points="290,2569 2257,2594 2260,2513 2191,2503 292,2525" rendition="Line" xml:id="facs_53_tr_1_tl_28"/>
+            <zone points="285,2672 2184,2655 2159,2594 285,2626" rendition="Line" xml:id="facs_53_tr_1_tl_29"/>
+            <zone points="294,2738 1173,2729 1718,2775 1867,2724 2174,2726 2174,2684 2019,2675 294,2684" rendition="Line" xml:id="facs_53_tr_1_tl_30"/>
+            <zone points="285,2812 2140,2812 2140,2756 285,2775" rendition="Line" xml:id="facs_53_tr_1_tl_31"/>
+            <zone points="285,2898 1269,2900 1269,2859 1202,2846 1077,2873 957,2846 285,2861" rendition="Line" xml:id="facs_53_tr_1_tl_32"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0053.jpg" n="part1_p053.jpg" xml:id="img_0053" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p053.jpg"/>
+            
+            <ab facs="#facs_53_tr_1">
+               <lb facs="#facs_53_tr_1_tl_1" n="N001"/>[50]
+               <lb facs="#facs_53_tr_1_tl_2" n="N002"/>statements without evidence), then this wouldn't be true because statements without
+               <lb facs="#facs_53_tr_1_tl_3" n="N003"/>evidence don’t need to be symbolic. <rs type="keyword" ref="#Symbols">But if faith is the state of being ultimately
+               <lb break="no" facs="#facs_53_tr_1_tl_4" n="N004"/>concerned, then of course ONLY symbolic language is possible.</rs> And I want to
+               <lb facs="#facs_53_tr_1_tl_5" n="N005"/>resist what I said last time: ''Never say 'only a symbol,' in a depreciating sense.''
+               <lb facs="#facs_53_tr_1_tl_6" n="N006"/>Instead of ''only a symbol,'' one should say, ''not less than a symbol.'' Every non-
+               <lb facs="#facs_53_tr_1_tl_7" n="N007"/>symbolic speaking about God would be less than a symbol, would be less than a
+               <lb facs="#facs_53_tr_1_tl_8" n="N008"/>symbolic speaking, and not more. Therefore don’t be afraid about losing the reality
+               <lb facs="#facs_53_tr_1_tl_9" n="N009"/>of the divine when you use symbolic language, or when you understand that religion
+               <lb facs="#facs_53_tr_1_tl_10" n="N010"/>necessarily uses symbolic language. Don’t fall down BELOW the level of symbolic
+               <lb facs="#facs_53_tr_1_tl_11" n="N011"/>language: that is what l would say here.
+               <lb facs="#facs_53_tr_1_tl_12" n="N012"/><rs type="keyword" ref="#Meaning_of_God">Of course the fundamental symbol of our ultimate concern is God.
+               <lb break="no" facs="#facs_53_tr_1_tl_13" n="N013"/>And this symbol is always present in ANY act of faith, even if the act of faith
+               <lb break="no" facs="#facs_53_tr_1_tl_14" n="N014"/>includes the denial of the concept of God. Where there is ultimate concern, God can
+               <lb break="no" facs="#facs_53_tr_1_tl_15" n="N015"/>be denied only in the NAME of God! Where there is ultimate concern, God can
+               <lb break="no" facs="#facs_53_tr_1_tl_16" n="N016"/>be denied only in the NAME of God. One God can deny the other one, but [ultimate?]
+               <lb break="no" facs="#facs_53_tr_1_tl_17" n="N017"/>concern canNOT deny its own character as ultimate. Therefore it canNOT deny its
+               <lb break="no" facs="#facs_53_tr_1_tl_18" n="N018"/>affirmation of what is meant with the word ''God.''
+               <lb break="no" facs="#facs_53_tr_1_tl_19" n="N019"/>Therefore: the word ''atheism'', from a mere analysis of the religious
+               <lb break="no" facs="#facs_53_tr_1_tl_20" n="N020"/>language, is a very questionable term. It is very often used by BOTH sides, those who
+               <lb break="no" facs="#facs_53_tr_1_tl_21" n="N021"/>defend it and those who attack it. But it should not be used because it is extremely
+               <lb break="no" facs="#facs_53_tr_1_tl_22" n="N022"/>ambiguous. It can only mean the attempt to remove ANY ultimate concern, to remain
+               <lb break="no" facs="#facs_53_tr_1_tl_23" n="N023"/>UNconcerned, about the meaning of one's existence. This is the ONLY form of real
+               <lb break="no" facs="#facs_53_tr_1_tl_24" n="N024"/>atheism, this is the only way in which atheism can be affirmed at all. Indifference
+               <lb break="no" facs="#facs_53_tr_1_tl_26" n="N025"/>to the ultimate question... is the only imaginable form of atheism.
+               <lb break="no" facs="#facs_53_tr_1_tl_27" n="N026"/>Now whether this is possible is another question. I don't believe it.
+               <lb break="no" facs="#facs_53_tr_1_tl_28" n="N027"/>I believe it is certainly possible to do that consciously, but whether there is an unconscious
+               <lb break="no" facs="#facs_53_tr_1_tl_29" n="N028"/>ultimacy in everybody is another problem, where I would say: you can show everybody,
+               <lb break="no" facs="#facs_53_tr_1_tl_30" n="N029"/>if you go deeply enough into his being, where his ultimate concern lies. But of course
+               <lb break="no" facs="#facs_53_tr_1_tl_31" n="N030"/>it can be so hidden that one doesn’t notice it, and that one can take on an attitude
+               <lb break="no" facs="#facs_53_tr_1_tl_32" n="N031"/>of indifference towards the ultimate question.</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

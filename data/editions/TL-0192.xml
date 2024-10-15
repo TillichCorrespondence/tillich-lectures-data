@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p192</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p192</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_192">
+         <graphic url="TL-0192.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FRWNGSTLVZXTHVBQNCVALIMV&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="32,174 32,3489 2328,3489 2328,174" rendition="TextRegion" xml:id="facs_192_tr_1">
+            <zone points="1121,236 1149,236 1162,247 1175,242 1233,244 1236,188 1223,188 1215,196 1205,188 1187,193 1167,173 1142,198 1124,198" rendition="Line" xml:id="facs_192_tr_1_tl_1"/>
+            <zone points="295,394 2187,397 2187,325 295,333" rendition="Line" xml:id="facs_192_tr_1_tl_2"/>
+            <zone points="300,554 2248,547 2248,491 300,493" rendition="Line" xml:id="facs_192_tr_1_tl_3"/>
+            <zone points="290,684 2230,702 2242,641 287,641" rendition="Line" xml:id="facs_192_tr_1_tl_4"/>
+            <zone points="292,836 2222,844 2222,793 2085,755 2016,796 292,811" rendition="Line" xml:id="facs_192_tr_1_tl_5"/>
+            <zone points="285,984 450,997 511,1058 1480,1025 1953,1060 2227,1022 2227,946 1996,931 285,961" rendition="Line" xml:id="facs_192_tr_1_tl_6"/>
+            <zone points="290,1136 2283,1154 2281,1081 287,1096" rendition="Line" xml:id="facs_192_tr_1_tl_7"/>
+            <zone points="292,1294 2227,1299 2192,1241 292,1261" rendition="Line" xml:id="facs_192_tr_1_tl_8"/>
+            <zone points="287,1444 2250,1452 2250,1391 287,1411" rendition="Line" xml:id="facs_192_tr_1_tl_9"/>
+            <zone points="285,1594 2304,1604 2304,1541 285,1564" rendition="Line" xml:id="facs_192_tr_1_tl_10"/>
+            <zone points="287,1767 1337,1798 1645,1749 2263,1762 2263,1698 2098,1688 287,1716" rendition="Line" xml:id="facs_192_tr_1_tl_12"/>
+            <zone points="285,1892 2265,1902 2265,1853 2128,1838 285,1846" rendition="Line" xml:id="facs_192_tr_1_tl_13"/>
+            <zone points="287,2052 346,2052 356,2062 371,2062 381,2052 529,2054 529,1998 287,1998" rendition="Line" xml:id="facs_192_tr_1_tl_14"/>
+            <zone points="460,2128 2258,2131 2258,2059 2082,2090 2049,2059 1703,2090 1673,2059 1449,2090 460,2059" rendition="Line" xml:id="facs_192_tr_1_tl_15" subtype="paragraph"/>
+            <zone points="285,2273 2253,2276 2253,2222 2085,2215 285,2242" rendition="Line" xml:id="facs_192_tr_1_tl_16"/>
+            <zone points="290,2438 2187,2428 2187,2370 290,2372" rendition="Line" xml:id="facs_192_tr_1_tl_17"/>
+            <zone points="282,2570 1808,2642 2270,2629 2321,2591 2298,2515 282,2525" rendition="Line" xml:id="facs_192_tr_1_tl_18"/>
+            <zone points="282,2720 427,2754 2291,2728 2291,2665 2072,2657 1464,2693 282,2670" rendition="Line" xml:id="facs_192_tr_1_tl_19"/>
+            <zone points="275,2870 2260,2878 2260,2820 275,2822" rendition="Line" xml:id="facs_192_tr_1_tl_20"/>
+            <zone points="272,3028 308,3033 333,3059 371,3059 389,3041 412,3048 450,3036 562,3038 562,3000 549,3000 526,2977 308,2977 285,3000 272,3000" rendition="Line" xml:id="facs_192_tr_1_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0192.jpg" n="part1_p192.jpg" xml:id="img_0192" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p192.jpg"/>
+            
+            <ab facs="#facs_192_tr_1">
+               <lb facs="#facs_192_tr_1_tl_1" n="N001"/>[188]
+               <lb facs="#facs_192_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Philosophical_faith"><truth_philosophical>philosophical truth</truth_philosophical> and the <truth_of_faith>truth of faith</truth_of_faith>. Further, the term seems to indicate that there is ONE
+               <lb break="no" facs="#facs_192_tr_1_tl_3" n="N003"/>philosophical faith---as one has often called it, the <hi style="font-style: italic;">philosophie perennis</hi>, the "perennial philosophy."
+               <lb break="no" facs="#facs_192_tr_1_tl_4" n="N004"/>Now this is a very QUESTIONABLE term, and I would join all the historians who would tell us how
+               <lb break="no" facs="#facs_192_tr_1_tl_5" n="N005"/>much NON-perennial things always happen in the history of philosophy! And I would say, instead
+               <lb break="no" facs="#facs_192_tr_1_tl_6" n="N006"/>of that: only ONE thing is perennial, namely the QUESTION, the QUESTION about <rs type="keyword" ref="#Structure_of_Being">the structure</rs>
+               <lb break="no" facs="#facs_192_tr_1_tl_7" n="N007"/><rs type="keyword" ref="#Structure_of_Being">of being</rs>, about ultimate reality, which is the philosophical question, but the answers are NOT eternal,
+               <lb break="no" facs="#facs_192_tr_1_tl_8" n="N008"/>not even the <rs type="keyword" ref="#Mysticism">mystical answers,</rs> which usually are taken to be the patterns of an eternal philosophy.
+               <lb break="no" facs="#facs_192_tr_1_tl_9" n="N009"/>In this moment I would defend <rs type="keyword" ref="#Nominalism">nominalism</rs>---which means quite a lot, if I do so! <hi style="font-style: italic;">[smiling]</hi>. There is
+               <lb break="no" facs="#facs_192_tr_1_tl_10" n="N010"/>a continuous process of interpenetration of philosophical elements and elements of <rs type="keyword" ref="#Faith">faith.</rs> But there is
+               <lb break="no" facs="#facs_192_tr_1_tl_12" n="N011"/>no philosophical faith, and there is no ONE philosophical faith. Therefore I prefer to drop this term,
+               <lb break="no" facs="#facs_192_tr_1_tl_13" n="N012"/>which makes the mistake of connecting philosophy and religion in a way which makes the difference
+               <lb break="no" facs="#facs_192_tr_1_tl_14" n="N013"/>impossible.</rs>
+               <lb facs="#facs_192_tr_1_tl_15" n="N014"/>Now we had said (and this is the result of these considerations so far) that there is <ultimate_concern>ultimate
+               <lb break="no" facs="#facs_192_tr_1_tl_16" n="N015"/>concern-</ultimate_concern>-and that means <rs type="keyword" ref="#Faith">faith, </rs>or religion---in every creative philosophy, in every philosopher who is
+               <lb facs="#facs_192_tr_1_tl_17" n="N016"/>passionately concerned about being itself and not only a special section of being. But the
+               <lb facs="#facs_192_tr_1_tl_18" n="N017"/>opposite is also true: there is <truth_philosophical>philosophical truth</truth_philosophical> in the <truth_of_faith>truth of faith</truth_of_faith>, although they are never identical.
+               <lb facs="#facs_192_tr_1_tl_19" n="N018"/>We have seen that the <truth_of_faith>truth of faith </truth_of_faith>is expressed in <rs type="keyword" ref="#Symbols">symbols</rs>, while the <truth_philosophical>truth of philosoph</truth_philosophical>y is expressed
+               <lb facs="#facs_192_tr_1_tl_20" n="N019"/>in <rs type="keyword" ref="#Concept">concepts,</rs> and the whole problem now comes down to the problem of the relationship of <rs type="keyword" ref="#Concept"><rs type="keyword" ref="#Symbols">concepts</rs>
+               <lb break="no" facs="#facs_192_tr_1_tl_21" n="N020"/><rs type="keyword" ref="#Symbols">and symbols.</rs></rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

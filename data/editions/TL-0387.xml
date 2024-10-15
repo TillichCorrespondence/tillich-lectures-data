@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p103</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p103</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_103">
+         <graphic url="TL-0387.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RCPCDOYCSHSQUDGFEUCAXTDT&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="295,239 2248,239 2248,1162 295,1162" rendition="TextRegion" xml:id="facs_103_tr_2">
+            <zone points="1129,292 1143,290 1166,308 1185,303 1216,305 1227,311 1253,308 1250,234 1224,232 1195,247 1127,247" rendition="Line" xml:id="facs_103_tr_2_tl_1"/>
+            <zone points="287,445 2235,448 2235,398 287,408" rendition="Line" xml:id="facs_103_tr_2_tl_2"/>
+            <zone points="284,587 2243,595 2243,532 1927,519 284,537" rendition="Line" xml:id="facs_103_tr_2_tl_3"/>
+            <zone points="290,734 1327,734 1327,671 290,679" rendition="Line" xml:id="facs_103_tr_2_tl_4"/>
+            <zone points="540,879 1472,932 1543,866 2235,866 2235,808 540,811" rendition="Line" xml:id="facs_103_tr_2_tl_5" subtype="paragraph"/>
+            <zone points="282,1024 2196,1014 2196,956 282,969" rendition="Line" xml:id="facs_103_tr_2_tl_6"/>
+            <zone points="290,1158 2135,1156 2185,1100 290,1124" rendition="Line" xml:id="facs_103_tr_2_tl_7"/>
+         </zone>
+         <zone points="280,1233 2382,1233 2382,2299 280,2299" rendition="TextRegion" xml:id="facs_103_tr_3">
+            <zone points="284,1303 2143,1298 2143,1243 284,1266" rendition="Line" xml:id="facs_103_tr_3_tl_1"/>
+            <zone points="274,1437 2172,1445 2172,1390 1882,1372 274,1398" rendition="Line" xml:id="facs_103_tr_3_tl_2"/>
+            <zone points="274,1585 1911,1590 2082,1580 2082,1527 274,1556" rendition="Line" xml:id="facs_103_tr_3_tl_3"/>
+            <zone points="271,1722 1387,1761 1943,1714 2016,1759 2159,1745 2193,1666 271,1695" rendition="Line" xml:id="facs_103_tr_3_tl_4"/>
+            <zone points="276,1872 1888,1877 2375,1861 2375,1806 276,1822" rendition="Line" xml:id="facs_103_tr_3_tl_5"/>
+            <zone points="274,2019 2277,2006 2277,1953 2056,1940 276,1961" rendition="Line" xml:id="facs_103_tr_3_tl_6"/>
+            <zone points="271,2153 2243,2159 2246,2098 271,2106" rendition="Line" xml:id="facs_103_tr_3_tl_7"/>
+            <zone points="266,2288 2206,2309 2172,2224 266,2246" rendition="Line" xml:id="facs_103_tr_3_tl_8"/>
+         </zone>
+         <zone points="56,2380 2322,2380 2322,3476 56,3476" rendition="TextRegion" xml:id="facs_103_tr_1">
+            <zone points="271,2448 311,2453 345,2440 371,2448 379,2443 429,2443 432,2388 419,2388 405,2401 400,2396 392,2403 366,2382 347,2388 305,2385 297,2393 274,2393" rendition="Line" xml:id="facs_103_tr_1_tl_1"/>
+            <zone points="516,2504 2038,2511 2172,2501 2172,2438 516,2469" rendition="Line" xml:id="facs_103_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="266,2648 2069,2654 2224,2638 2227,2588 266,2622" rendition="Line" xml:id="facs_103_tr_1_tl_3"/>
+            <zone points="266,2790 998,2785 1103,2851 2151,2783 2172,2730 266,2767" rendition="Line" xml:id="facs_103_tr_1_tl_4"/>
+            <zone points="266,2946 2061,2941 2193,2925 2193,2872 266,2909" rendition="Line" xml:id="facs_103_tr_1_tl_5"/>
+            <zone points="42,3101 2111,3077 2153,3012 42,3019" rendition="Line" xml:id="facs_103_tr_1_tl_6"/>
+            <zone points="263,3227 2140,3220 2317,3204 2319,3146 263,3201" rendition="Line" xml:id="facs_103_tr_1_tl_7"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0387.jpg" n="part2_p103.jpg" xml:id="img_0103" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p103.jpg"/>
+            
+            <ab facs="#facs_103_tr_2">
+               <lb facs="#facs_103_tr_2_tl_1" n="N001"/>[382]
+               <lb facs="#facs_103_tr_2_tl_2" n="N002"/>time, perhaps decades, perhaps centuries, but somehow then the mass has developed. We have now
+               <lb facs="#facs_103_tr_2_tl_3" n="N003"/>two developments in the whole world, which go in the direction of mass society. I gave you many
+               <lb facs="#facs_103_tr_2_tl_4" n="N004"/>examples already; now I come to the overall picture.
+               <lb facs="#facs_103_tr_2_tl_5" n="N005"/>There are two ways of pressures which do this. The one is the predominantly external
+               <lb facs="#facs_103_tr_2_tl_6" n="N006"/>pressure--this is the East, what we usually mean the Communist system of totalitarianism. There
+               <lb facs="#facs_103_tr_2_tl_7" n="N007"/>we have a pressure to mass society by the external means, which I partly described in pointing to
+            </ab>
+            <ab facs="#facs_103_tr_3">
+               <lb facs="#facs_103_tr_3_tl_1" n="N001"/>concentration camps (they are working-camps now), but there are other ways too. In the West,
+               <lb facs="#facs_103_tr_3_tl_2" n="N002"/>in our Western civilization, it is not predominantly external pressure--although this also is given,
+               <lb facs="#facs_103_tr_3_tl_3" n="N003"/>as in the East psychological pressure also is given--but it is a hidden psychological pressure.
+               <lb facs="#facs_103_tr_3_tl_4" n="N004"/>If we describe such things, I must always ask you: don’t make them into either-or’s--life is never
+               <lb facs="#facs_103_tr_3_tl_5" n="N005"/>like this. There is much propagandistic influence of a hidden and often psychological character also in the
+               <lb facs="#facs_103_tr_3_tl_6" n="N006"/>East; merely external pressure never works in the long run. That is what all politicians and statesmen
+               <lb facs="#facs_103_tr_3_tl_7" n="N007"/>know, or should know. On the other hand, in our Western world the influence toward mass society
+               <lb facs="#facs_103_tr_3_tl_8" n="N008"/>is not only psychological one, but it is also supposed by internal power, especially economic
+            </ab>
+            <ab facs="#facs_103_tr_1">
+               <lb facs="#facs_103_tr_1_tl_1" n="N001"/>power.
+               <lb facs="#facs_103_tr_1_tl_2" n="N002"/>Now which are these influences? We will come to them after I finish this general
+               <lb facs="#facs_103_tr_1_tl_3" n="N003"/>survey about the situation, but I must name them now. One of them, the earliest--and emphasized
+               <lb facs="#facs_103_tr_1_tl_4" n="N004"/>mostly in <hi style="font-style: italic;">Brave New World</hi> and <hi style="font-style: italic;">1984</hi>--is the education to adjustment. Whenever you speak with
+               <lb facs="#facs_103_tr_1_tl_5" n="N005"/>educators, you can hear: ''He is a very good educator; all the pupils in his class are well-adjusted.''
+               <lb facs="#facs_103_tr_1_tl_6" n="N006"/>Now I could say, ''They are well-adjusted to what?'' If he then answers, ''They are well-
+               <lb facs="#facs_103_tr_1_tl_7" n="N007"/>adjusted to behave in the class so that we can work together,'' then it is alright; that is good adjustment.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

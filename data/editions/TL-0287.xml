@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p003</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p003</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
+         <graphic url="TL-0287.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AZMLZJSNDBDGZRRXVJBKPAAM&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="167,272 2328,272 2328,3446 167,3446" rendition="TextRegion" xml:id="facs_3_tr_1">
+            <zone points="1066,330 1089,334 1095,340 1138,342 1182,338 1184,281 1161,276 1140,293 1134,293 1124,281 1105,281 1089,297 1068,295" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
+            <zone points="206,509 1728,476 1730,402 206,448" rendition="Line" xml:id="facs_3_tr_1_tl_2"/>
+            <zone points="757,571 953,573 982,557 992,567 1155,565 1157,511 759,522" rendition="Line" xml:id="facs_3_tr_1_tl_3"/>
+            <zone points="757,644 1310,637 1312,577 1116,580 1097,598 1083,582 759,600" rendition="Line" xml:id="facs_3_tr_1_tl_5"/>
+            <zone points="757,709 1574,683 1576,637 757,658" rendition="Line" xml:id="facs_3_tr_1_tl_7"/>
+            <zone points="765,761 2079,732 2104,683 765,718" rendition="Line" xml:id="facs_3_tr_1_tl_9"/>
+            <zone points="763,810 811,837 1569,819 1823,802 1823,749 765,776" rendition="Line" xml:id="facs_3_tr_1_tl_10"/>
+            <zone points="212,934 1702,909 1704,844 214,889" rendition="Line" xml:id="facs_3_tr_1_tl_11"/>
+            <zone points="763,1008 1790,980 1792,928 763,961" rendition="Line" xml:id="facs_3_tr_1_tl_12"/>
+            <zone points="769,1066 1293,1062 1295,1009 1077,1006 1017,1025 996,1011 771,1015" rendition="Line" xml:id="facs_3_tr_1_tl_14"/>
+            <zone points="759,1128 1569,1116 1584,1058 759,1081" rendition="Line" xml:id="facs_3_tr_1_tl_16"/>
+            <zone points="767,1204 1075,1176 1501,1182 1534,1173 1536,1130 769,1143" rendition="Line" xml:id="facs_3_tr_1_tl_17"/>
+            <zone points="759,1260 2265,1219 2293,1167 759,1219" rendition="Line" xml:id="facs_3_tr_1_tl_19"/>
+            <zone points="769,1320 1693,1301 1712,1244 769,1268" rendition="Line" xml:id="facs_3_tr_1_tl_21"/>
+            <zone points="215,1425 406,1444 1225,1413 1240,1369 215,1396" rendition="Line" xml:id="facs_3_tr_1_tl_23"/>
+            <zone points="771,1493 1683,1473 1660,1421 773,1450" rendition="Line" xml:id="facs_3_tr_1_tl_24"/>
+            <zone points="763,1557 1796,1549 2291,1524 2324,1479 765,1510" rendition="Line" xml:id="facs_3_tr_1_tl_26"/>
+            <zone points="815,1623 1347,1621 1537,1603 1539,1557 1320,1578 1171,1559 1070,1586 982,1563 879,1588 815,1576" rendition="Line" xml:id="facs_3_tr_1_tl_28"/>
+            <zone points="771,1679 848,1693 879,1679 1126,1685 1182,1668 1297,1677 1297,1633 1277,1623 773,1638" rendition="Line" xml:id="facs_3_tr_1_tl_29"/>
+            <zone points="782,1755 2186,1724 2201,1662 784,1701" rendition="Line" xml:id="facs_3_tr_1_tl_31"/>
+            <zone points="217,1856 489,1869 604,1848 767,1854 782,1852 782,1811 679,1798 499,1819 412,1805 382,1819 320,1807 303,1825 280,1805 217,1815" rendition="Line" xml:id="facs_3_tr_1_tl_34"/>
+            <zone points="771,1922 1405,1910 1407,1852 773,1877" rendition="Line" xml:id="facs_3_tr_1_tl_35"/>
+            <zone points="806,1988 1990,1957 2003,1906 808,1939" rendition="Line" xml:id="facs_3_tr_1_tl_37"/>
+            <zone points="788,2050 2025,2021 2058,1966 790,2003" rendition="Line" xml:id="facs_3_tr_1_tl_39"/>
+            <zone points="831,2104 872,2118 897,2116 914,2098 934,2116 1015,2104 1190,2108 1219,2102 1221,2046 1136,2060 1075,2048 1052,2062 942,2054 924,2069 910,2058 833,2065" rendition="Line" xml:id="facs_3_tr_1_tl_41"/>
+            <zone points="786,2178 1862,2149 1864,2093 786,2126" rendition="Line" xml:id="facs_3_tr_1_tl_42"/>
+            <zone points="778,2242 1180,2229 1182,2178 1037,2180 1011,2196 1002,2182 780,2194" rendition="Line" xml:id="facs_3_tr_1_tl_44"/>
+            <zone points="790,2308 2056,2267 2056,2219 792,2250" rendition="Line" xml:id="facs_3_tr_1_tl_46"/>
+            <zone points="780,2363 1691,2339 1693,2291 780,2320" rendition="Line" xml:id="facs_3_tr_1_tl_48"/>
+            <zone points="776,2425 1027,2429 1029,2378 957,2374 938,2386 926,2374 835,2380 810,2374 790,2392 776,2392" rendition="Line" xml:id="facs_3_tr_1_tl_50"/>
+            <zone points="219,2528 404,2549 561,2529 780,2541 910,2524 910,2471 221,2498" rendition="Line" xml:id="facs_3_tr_1_tl_52"/>
+            <zone points="784,2584 1516,2574 1623,2562 1625,2506 786,2533" rendition="Line" xml:id="facs_3_tr_1_tl_53"/>
+            <zone points="784,2638 1536,2628 1537,2578 786,2599" rendition="Line" xml:id="facs_3_tr_1_tl_55"/>
+            <zone points="790,2702 1860,2677 1862,2627 790,2660" rendition="Line" xml:id="facs_3_tr_1_tl_57"/>
+            <zone points="792,2764 1708,2741 1708,2693 1633,2683 794,2712" rendition="Line" xml:id="facs_3_tr_1_tl_59"/>
+            <zone points="225,2846 1108,2844 1110,2772 887,2805 227,2809" rendition="Line" xml:id="facs_3_tr_1_tl_61"/>
+            <zone points="790,2900 1064,2900 1209,2881 1287,2892 1328,2885 1330,2838 792,2854" rendition="Line" xml:id="facs_3_tr_1_tl_62"/>
+            <zone points="796,2964 1850,2931 1912,2922 1914,2875 798,2912" rendition="Line" xml:id="facs_3_tr_1_tl_64"/>
+            <zone points="792,3013 2042,2988 2058,2931 792,2972" rendition="Line" xml:id="facs_3_tr_1_tl_66"/>
+            <zone points="794,3085 862,3073 1062,3077 1091,3061 1103,3071 1215,3069 1217,3017 1083,3028 1041,3015 909,3034 796,3026" rendition="Line" xml:id="facs_3_tr_1_tl_68"/>
+            <zone points="233,3143 309,3158 509,3149 522,3135 542,3155 641,3147 664,3141 666,3087 633,3106 532,3090 433,3112 417,3102 371,3110 342,3092 316,3114 283,3096 235,3116" rendition="Line" xml:id="facs_3_tr_1_tl_70"/>
+            <zone points="792,3193 961,3195 1021,3182 1190,3189 1192,3143 1169,3127 1145,3141 1128,3127 1044,3131 1017,3147 998,3131 918,3149 891,3137 872,3153 858,3139 794,3139" rendition="Line" xml:id="facs_3_tr_1_tl_71"/>
+            <zone points="798,3277 1780,3252 1782,3193 800,3226" rendition="Line" xml:id="facs_3_tr_1_tl_73"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0287.jpg" n="part2_p003.jpg" xml:id="img_0003" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p003.jpg"/>
+            
+            <ab facs="#facs_3_tr_1">
+               <lb facs="#facs_3_tr_1_tl_1" n="N001"/>[283]
+               <lb facs="#facs_3_tr_1_tl_2" n="N002"/>17. Family and sex relations. (Historical relativity. The two meanings of sex)
+               <lb facs="#facs_3_tr_1_tl_3" n="N003"/>Russell, G. MEN AND WOMEN
+               <lb facs="#facs_3_tr_1_tl_5" n="N004"/>*Cole, W. CHRISTIANITY AND SEX
+               <lb facs="#facs_3_tr_1_tl_7" n="N005"/>Bailey, D.S. MYSTERY OF LOVE AND MARRIAGE
+               <lb facs="#facs_3_tr_1_tl_9" n="N006"/>HOMOSEXUALITY IN THE WESTERN CHRISTIAN TRADITION
+               <lb facs="#facs_3_tr_1_tl_10" n="N007"/>"Christianity and sex," in Student World, No. 4, 1955
+               <lb facs="#facs_3_tr_1_tl_11" n="N008"/>18. The concept and function of "the economic.” (Economic materialism)
+               <lb facs="#facs_3_tr_1_tl_12" n="N009"/>*Tawney CHRISTIANITY AND THE RISE OF CAPITALISM
+               <lb facs="#facs_3_tr_1_tl_14" n="N010"/>* Heimann, E. FREEDOM AND ORDER
+               <lb facs="#facs_3_tr_1_tl_16" n="N011"/>HISTORY OF ECONOMIC DOCTRINES
+               <lb facs="#facs_3_tr_1_tl_17" n="N012"/>Brunner, E. JUSTICE AND THE SOCIAL ORDER
+               <lb facs="#facs_3_tr_1_tl_19" n="N013"/>*Weber, M. the protest THE PROTESTANT ETHIC AND THE SPIRIT OF CAPITALISM
+               <lb facs="#facs_3_tr_1_tl_21" n="N014"/>*Troeltsch, E. THE SOCIAL TEACHINGS OF THE CHURCH
+               <lb facs="#facs_3_tr_1_tl_23" n="N015"/>19. Religious Socialism. Basic ideas and limitations.
+               <lb facs="#facs_3_tr_1_tl_24" n="N016"/>*Rauschenbusch, W. THE THEOLOGY OF THE SOCIAL GOSPEL
+               <lb facs="#facs_3_tr_1_tl_26" n="N017"/>*HUTCHISON, J. CHRISTIAN FAITH AND SOCIAL ACTION (1953). Symposium with articles
+               <lb facs="#facs_3_tr_1_tl_28" n="N018"/>by P. Tillich, R. Niebuhr, J. Bennett
+               <lb facs="#facs_3_tr_1_tl_29" n="N019"/>*TILLICH, P. THE PROTESTANT ERA
+               <lb facs="#facs_3_tr_1_tl_31" n="N020"/>Kegley/Bretall THE THEOLOGY OF PAUL TILLICH (chapter on Religious Socialism)
+               <lb facs="#facs_3_tr_1_tl_34" n="N021"/>20. Justice, power and love. (The realm of law)
+               <lb facs="#facs_3_tr_1_tl_35" n="N022"/>*Tillich, P. LOVE, POWER AND JUSTICE
+               <lb facs="#facs_3_tr_1_tl_37" n="N023"/>Brunner, E. “Love and Justice,” in JUSTICE AND THE SOCIAL ORDER
+               <lb facs="#facs_3_tr_1_tl_39" n="N024"/>*Nietzsche THE WILL TO POWER, OR AGAINST THE CHRISTIAN IDEA
+               <lb facs="#facs_3_tr_1_tl_41" n="N025"/>OF COMPASSION
+               <lb facs="#facs_3_tr_1_tl_42" n="N026"/>*Tolstoy, L. THE LAW OF LOVE AND THE LAW OF VIOLENCE
+               <lb facs="#facs_3_tr_1_tl_44" n="N027"/>Haroutunian, J. LUST FOR POWER
+               <lb facs="#facs_3_tr_1_tl_46" n="N028"/>Riordan, F. THE CONCEPT OF LOVE IN FRENCH LITERARY REVIVAL
+               <lb facs="#facs_3_tr_1_tl_48" n="N029"/>*Montague, M.F.A. SYMPOSIUM ON THE MEANING OF LOVE
+               <lb facs="#facs_3_tr_1_tl_50" n="N030"/>Barnaby, J. AMOR DEI
+               <lb facs="#facs_3_tr_1_tl_52" n="N031"/>21. Religion and political systems.
+               <lb facs="#facs_3_tr_1_tl_53" n="N032"/>*Niebuhr, R. CHRISTIANITY AND POWER POLITICS
+               <lb facs="#facs_3_tr_1_tl_55" n="N033"/>*Bennett, J. CHRISTIANITY AND COMMUNISM
+               <lb facs="#facs_3_tr_1_tl_57" n="N034"/>Miller, A. THE CHRISTIAN SIGNIFICANCE OF KARL MARX
+               <lb facs="#facs_3_tr_1_tl_59" n="N035"/>HEIMann [sic.], E. COMMUNISM, FASCISM OR DEMOCRACY?
+               <lb facs="#facs_3_tr_1_tl_61" n="N036"/>22. Religious pacifism. (Its right and wrong)
+               <lb facs="#facs_3_tr_1_tl_62" n="N037"/>*Bennett, J. CHRISTIANITY AT WAR
+               <lb facs="#facs_3_tr_1_tl_64" n="N038"/>Niebuhr, R. CHRISTIAN REALISM AND POLITICAL PROBLEMS
+               <lb facs="#facs_3_tr_1_tl_66" n="N039"/>*Fosdick, H. RUFUS JONES SPEAKS TO OUR TIME (Chapter on pacifism)
+               <lb facs="#facs_3_tr_1_tl_68" n="N040"/>Speir / Kahler WAR IN OUR TIME
+               <lb facs="#facs_3_tr_1_tl_70" n="N041"/>23. State and Church
+               <lb facs="#facs_3_tr_1_tl_71" n="N042"/>*Bergraav, E. MAN AND STATE
+               <lb facs="#facs_3_tr_1_tl_73" n="N043"/>Brunner, E. THE MISUNDERSTANDING OF THE CHURCH
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p002</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p002</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
+         <graphic url="TL-0286.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QQEZEKDNHGWVPKFDILCPQNMR&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="188,245 1865,245 1865,783 188,783" rendition="TextRegion" xml:id="facs_2_tr_2">
+            <zone points="989,295 1002,295 1020,308 1035,311 1110,311 1107,254 1071,254 1066,259 1053,254 1038,254 1033,259 1025,254 1012,267 989,267" rendition="Line" xml:id="facs_2_tr_2_tl_1"/>
+            <zone points="175,452 1731,437 1734,357 175,393" rendition="Line" xml:id="facs_2_tr_2_tl_2"/>
+            <zone points="719,516 1385,516 1444,509 1446,455 722,470" rendition="Line" xml:id="facs_2_tr_2_tl_3"/>
+            <zone points="719,578 1734,565 1734,509 722,534" rendition="Line" xml:id="facs_2_tr_2_tl_5"/>
+            <zone points="722,645 1847,629 1865,570 722,599" rendition="Line" xml:id="facs_2_tr_2_tl_7"/>
+            <zone points="724,706 1423,701 1418,645 986,650 963,670 935,652 727,658" rendition="Line" xml:id="facs_2_tr_2_tl_8"/>
+            <zone points="727,776 1593,758 1593,699 1541,696 1449,719 730,724" rendition="Line" xml:id="facs_2_tr_2_tl_10"/>
+         </zone>
+         <zone points="79,782 2391,782 2391,3485 79,3485" rendition="TextRegion" xml:id="facs_2_tr_1">
+            <zone points="175,876 2142,845 2142,791 175,835" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
+            <zone points="277,948 1575,932 1665,914 1665,873 280,904" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+            <zone points="180,1007 930,997 932,956 182,956" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
+            <zone points="185,1079 2248,1038 2248,971 188,1015" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+            <zone points="727,1107 1099,1133 1901,1105 1903,1043 727,1071" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+            <zone points="727,1189 1315,1182 1318,1125 730,1135" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+            <zone points="727,1248 740,1248 745,1254 858,1254 858,1202 843,1202 835,1210 827,1202 812,1202 794,1192 763,1210 727,1210" rendition="Line" xml:id="facs_2_tr_1_tl_10"/>
+            <zone points="732,1315 1742,1300 1772,1243 735,1264" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
+            <zone points="737,1382 1356,1364 1359,1310 1200,1310 1166,1328 1123,1313 1066,1331 1004,1315 737,1325" rendition="Line" xml:id="facs_2_tr_1_tl_13"/>
+            <zone points="735,1433 1621,1421 1623,1369 735,1385" rendition="Line" xml:id="facs_2_tr_1_tl_15"/>
+            <zone points="732,1495 1187,1495 1212,1492 1215,1441 735,1444" rendition="Line" xml:id="facs_2_tr_1_tl_17"/>
+            <zone points="732,1562 994,1564 1089,1546 1102,1559 1230,1559 1233,1505 1002,1503 886,1521 868,1505 735,1510" rendition="Line" xml:id="facs_2_tr_1_tl_19"/>
+            <zone points="745,1621 1436,1621 1436,1557 1346,1554 1325,1575 1264,1557 745,1572" rendition="Line" xml:id="facs_2_tr_1_tl_21"/>
+            <zone points="185,1718 2201,1680 2201,1621 185,1667" rendition="Line" xml:id="facs_2_tr_1_tl_23"/>
+            <zone points="288,1790 321,1790 331,1780 483,1780 493,1790 537,1785 537,1718 521,1718 503,1736 455,1726 424,1739 319,1736 288,1724" rendition="Line" xml:id="facs_2_tr_1_tl_24"/>
+            <zone points="732,1832 1562,1816 1585,1762 732,1780" rendition="Line" xml:id="facs_2_tr_1_tl_25"/>
+            <zone points="1220,1885 1341,1883 1369,1909 1415,1878 1875,1870 1898,1862 1898,1811 1220,1826" rendition="Line" xml:id="facs_2_tr_1_tl_27"/>
+            <zone points="732,1952 1169,1950 1171,1891 1097,1893 1081,1878 1045,1875 1010,1903 735,1898" rendition="Line" xml:id="facs_2_tr_1_tl_29"/>
+            <zone points="730,2019 871,2024 896,2014 902,2022 938,2016 979,2024 1025,2014 1025,1960 989,1960 979,1970 794,1963 778,1978 763,1963 732,1970" rendition="Line" xml:id="facs_2_tr_1_tl_31"/>
+            <zone points="737,2065 2320,2055 2384,2045 2384,1988 737,2032" rendition="Line" xml:id="facs_2_tr_1_tl_33"/>
+            <zone points="776,2147 961,2150 974,2140 1038,2142 1040,2088 986,2083 974,2094 938,2083 917,2099 902,2099 894,2088 873,2106 778,2091" rendition="Line" xml:id="facs_2_tr_1_tl_35"/>
+            <zone points="193,2217 1187,2214 1187,2150 830,2155 799,2181 193,2147" rendition="Line" xml:id="facs_2_tr_1_tl_37"/>
+            <zone points="285,2286 1110,2276 1112,2207 622,2240 539,2219 506,2243 321,2232 285,2253" rendition="Line" xml:id="facs_2_tr_1_tl_38"/>
+            <zone points="750,2340 1418,2320 1418,2263 750,2284" rendition="Line" xml:id="facs_2_tr_1_tl_39"/>
+            <zone points="748,2399 1115,2397 1148,2376 1174,2392 1310,2389 1313,2335 750,2350" rendition="Line" xml:id="facs_2_tr_1_tl_41"/>
+            <zone points="748,2463 1223,2453 1223,2399 748,2404" rendition="Line" xml:id="facs_2_tr_1_tl_43"/>
+            <zone points="745,2523 1557,2507 1559,2451 745,2471" rendition="Line" xml:id="facs_2_tr_1_tl_45"/>
+            <zone points="737,2582 1539,2576 1539,2520 1423,2512 740,2538" rendition="Line" xml:id="facs_2_tr_1_tl_47"/>
+            <zone points="745,2651 1564,2638 1564,2582 745,2594" rendition="Line" xml:id="facs_2_tr_1_tl_49"/>
+            <zone points="290,2702 2040,2695 2129,2687 2129,2636 293,2666" rendition="Line" xml:id="facs_2_tr_1_tl_51"/>
+            <zone points="740,2774 2011,2749 2011,2705 742,2728" rendition="Line" xml:id="facs_2_tr_1_tl_52"/>
+            <zone points="190,2859 1403,2854 1423,2792 190,2805" rendition="Line" xml:id="facs_2_tr_1_tl_53"/>
+            <zone points="742,2916 1372,2908 1372,2849 745,2872" rendition="Line" xml:id="facs_2_tr_1_tl_54"/>
+            <zone points="740,2980 1320,2972 1320,2918 740,2934" rendition="Line" xml:id="facs_2_tr_1_tl_56"/>
+            <zone points="748,3039 1754,3021 1757,2964 748,2990" rendition="Line" xml:id="facs_2_tr_1_tl_58"/>
+            <zone points="750,3108 1325,3095 1328,3041 750,3059" rendition="Line" xml:id="facs_2_tr_1_tl_60"/>
+            <zone points="750,3170 1051,3170 1076,3157 1200,3172 1282,3157 1284,3103 753,3118" rendition="Line" xml:id="facs_2_tr_1_tl_62"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0286.jpg" n="part2_p002.jpg" xml:id="img_0002" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p002.jpg"/>
+            
+            <ab facs="#facs_2_tr_2">
+               <lb facs="#facs_2_tr_2_tl_1" n="N001"/>[282]
+               <lb facs="#facs_2_tr_2_tl_2" n="N002"/>10. Religion and the University. (The possible function of a theological faculty)
+               <lb facs="#facs_2_tr_2_tl_3" n="N003"/>*Moberly, Sir W. THE CRISIS IN THE UNIVERSITY
+               <lb facs="#facs_2_tr_2_tl_5" n="N004"/>Nash, A. THE UNIVERSITY AND THE MODERN WORLD
+               <lb facs="#facs_2_tr_2_tl_7" n="N005"/>RELIGIOUS PERSPECTIVES IN COLLEGE TEACHING
+               <lb facs="#facs_2_tr_2_tl_8" n="N006"/>Jaspers, K. THE IDEA OF THE UNIVERSITY
+               <lb facs="#facs_2_tr_2_tl_10" n="N007"/>*Thomas, G. RELIGION IN AN AGE OF SECULARISM
+            </ab>
+            <ab facs="#facs_2_tr_1">
+               <lb facs="#facs_2_tr_1_tl_1" n="N001"/>11. Religion and Ethics: General (Formal ethics). The source of the moral "ought" and the source
+               <lb facs="#facs_2_tr_1_tl_2" n="N002"/>of the content. The unconditional character and the question of guilt.
+               <lb facs="#facs_2_tr_1_tl_3" n="N003"/>12. Ethical relativism, love and kairos.
+               <lb facs="#facs_2_tr_1_tl_4" n="N004"/>13. Ethics of being and ethics of law (ought to be)- (law, grace and depth psychology, demonic structure)
+               <lb facs="#facs_2_tr_1_tl_5" n="N005"/>*Tillich, P. "Ethics in a Changing World," in THE PROTESTANT ERA
+               <lb facs="#facs_2_tr_1_tl_7" n="N006"/>Ramsey, P. BASIC CHRISTIAN ETHICS
+               <lb facs="#facs_2_tr_1_tl_10" n="N007"/>*Bonhoeffer, D. ethics
+               <lb facs="#facs_2_tr_1_tl_11" n="N008"/>*Niebuhr, R. THE INTERPRETATION OF CHRISTIAN ETHICS
+               <lb facs="#facs_2_tr_1_tl_13" n="N009"/>*Tillich, P. LOVE, POWER AND JUSTICE
+               <lb facs="#facs_2_tr_1_tl_15" n="N010"/>*Kant, I. THE CRITIQUE OF PRACTICAL REASON
+               <lb facs="#facs_2_tr_1_tl_17" n="N011"/>*Nietzsche THE WILL TO POWER
+               <lb facs="#facs_2_tr_1_tl_19" n="N012"/>Menninger, K. LOVE AGAINST HATE
+               <lb facs="#facs_2_tr_1_tl_21" n="N013"/>*Tillich, P. THE COURAGE TO BE [possibly]
+               <lb facs="#facs_2_tr_1_tl_23" n="N014"/>14. The ethical subject: The idea and the ideal of personality. (The autonomous and the theonomous
+               <lb facs="#facs_2_tr_1_tl_24" n="N015"/>personality)
+               <lb facs="#facs_2_tr_1_tl_25" n="N016"/>*Jung, C. G. MODERN MAN IN SEARCH OF A SOUL
+               <lb facs="#facs_2_tr_1_tl_27" n="N017"/>May, R. MAN'S SEARCH FOR HIMSELF
+               <lb facs="#facs_2_tr_1_tl_29" n="N018"/>* Fromm, E. MAN FOR HIMSELF
+               <lb facs="#facs_2_tr_1_tl_31" n="N019"/>*Buber, M. I AND THOU
+               <lb facs="#facs_2_tr_1_tl_33" n="N020"/>Tillich "Psychotherapy and a Christian Interpretation of Human Nature," Rev. of Religion
+               <lb facs="#facs_2_tr_1_tl_35" n="N021"/>March 1943.
+               <lb facs="#facs_2_tr_1_tl_37" n="N022"/>15. Community and collective. We-consciousness, conformity, patternization: The non-personal
+               <lb facs="#facs_2_tr_1_tl_38" n="N023"/>character of the group (non-conformism).
+               <lb facs="#facs_2_tr_1_tl_39" n="N024"/>*Ortega y Gasset THE REVOLT OF THE MASSES
+               <lb facs="#facs_2_tr_1_tl_41" n="N025"/>Mumford, L. THE CULTURE OF CITIES
+               <lb facs="#facs_2_tr_1_tl_43" n="N026"/>*Riesman, D. THE LONELY CROWD
+               <lb facs="#facs_2_tr_1_tl_45" n="N027"/>Eliot, T. S. THE IDEA OF A CHRISTIAN SOCIETY
+               <lb facs="#facs_2_tr_1_tl_47" n="N028"/>Pope, L. RELIGION AND CLASS STRUCTURE
+               <lb facs="#facs_2_tr_1_tl_49" n="N029"/>*Schumpeter, I. IMPERIALISM AND SOCIAL CLASSES
+               <lb facs="#facs_2_tr_1_tl_51" n="N030"/>*World Council of Churches Symposium: MAN'S DISORDER &amp; GOD'S DESIGN -- chap. by
+               <lb facs="#facs_2_tr_1_tl_52" n="N031"/>P. Tillich, "The Disintegration of Society in Christian Countries"
+               <lb facs="#facs_2_tr_1_tl_53" n="N032"/>16. Types of authority and the meaning of religious authority.
+               <lb facs="#facs_2_tr_1_tl_54" n="N033"/>*Schweitzer, A. CIVILIZATION AND ETHICS
+               <lb facs="#facs_2_tr_1_tl_56" n="N034"/>Fromm, E. ESCAPE FROM FREEDOM
+               <lb facs="#facs_2_tr_1_tl_58" n="N035"/>* Barth, K. THE WORD OF GOD AND THE WORD OF MAN
+               <lb facs="#facs_2_tr_1_tl_60" n="N036"/>*Berdyaev, N. FREEDOM AND SLAVERY
+               <lb facs="#facs_2_tr_1_tl_62" n="N037"/>*Loewe, A. THE PRICE OF LIBERTY
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

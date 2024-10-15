@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p228</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p228</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_228">
+         <graphic url="TL-0228.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZDNOIQLPLJQQGEQQDUPDVSXI&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="50,215 50,3483 2340,3483 2340,215" rendition="TextRegion" xml:id="facs_228_tr_1">
+            <zone points="1168,272 1188,275 1197,284 1281,284 1277,214 1214,214 1192,241 1168,238" rendition="Line" xml:id="facs_228_tr_1_tl_1"/>
+            <zone points="400,405 949,458 1139,426 2334,462 2334,414 2206,397 400,371" rendition="Line" xml:id="facs_228_tr_1_tl_2"/>
+            <zone points="395,564 2310,619 2283,556 393,503" rendition="Line" xml:id="facs_228_tr_1_tl_3"/>
+            <zone points="381,706 2115,756 2076,699 381,674" rendition="Line" xml:id="facs_228_tr_1_tl_4"/>
+            <zone points="547,855 2197,906 2163,850 547,812" rendition="Line" xml:id="facs_228_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="371,997 583,1045 638,1012 2185,1062 2182,1000 371,973" rendition="Line" xml:id="facs_228_tr_1_tl_6"/>
+            <zone points="369,1159 2192,1212 2190,1156 1872,1135 369,1130" rendition="Line" xml:id="facs_228_tr_1_tl_7"/>
+            <zone points="364,1310 2209,1366 2170,1303 1286,1306 544,1241 506,1284 364,1281" rendition="Line" xml:id="facs_228_tr_1_tl_8"/>
+            <zone points="537,1469 2161,1525 2245,1518 2245,1457 535,1412" rendition="Line" xml:id="facs_228_tr_1_tl_9" subtype="paragraph"/>
+            <zone points="356,1609 2223,1667 2223,1607 356,1583" rendition="Line" xml:id="facs_228_tr_1_tl_10"/>
+            <zone points="356,1770 2132,1811 2129,1756 356,1713" rendition="Line" xml:id="facs_228_tr_1_tl_11"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0228.jpg" n="part1_p228.jpg" xml:id="img_0228" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p228.jpg"/>
+            
+            <ab facs="#facs_228_tr_1">
+               <lb facs="#facs_228_tr_1_tl_1" n="N001"/>[224]
+               <lb facs="#facs_228_tr_1_tl_2" n="N002"/>competitor of Christianity. But here we are in the inner realm of the discussion about the criterion
+               <lb facs="#facs_228_tr_1_tl_3" n="N003"/>of <rs type="keyword" ref="#Ultimacy">ultimacy-</rs>--and all this has nothing to do either with science or with history (historical research),
+               <lb facs="#facs_228_tr_1_tl_4" n="N004"/>or with philosophy, but it has to do with our immediate expression of <ultimate_concern>ultimate concern.</ultimate_concern>
+               <lb facs="#facs_228_tr_1_tl_5" n="N005"/>Now I want to say that probably next time l will still ask a few questions about this
+               <lb facs="#facs_228_tr_1_tl_6" n="N006"/>whole realm which is so near to your heart: the relationship of religious faith and faith of all
+               <lb facs="#facs_228_tr_1_tl_7" n="N007"/>other disciplines of the university, or most other---and on the other hand l will then go to the
+               <lb facs="#facs_228_tr_1_tl_8" n="N008"/>realm of the arts, the visual arts and other arts, with which we must close this semester's work.
+               <lb facs="#facs_228_tr_1_tl_9" n="N009"/>Now l am terribly sorry it is cold here---we tried to do something about it last time, but
+               <lb facs="#facs_228_tr_1_tl_10" n="N010"/>obviously, as l see you put on your things, l don't see if we succeeded. If not, the real question
+               <lb facs="#facs_228_tr_1_tl_11" n="N011"/>will arise whether we will not have to leave for another room. What do you think about it?
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

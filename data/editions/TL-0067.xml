@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p067</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p067</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_67">
+         <graphic url="TL-0067.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MVXMTFZLLCKHWNGBNVOQKRDD&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="280,270 280,3434 2242,3434 2242,270" rendition="TextRegion" xml:id="facs_67_tr_2">
+            <zone points="1092,316 1106,316 1118,328 1143,326 1148,321 1169,323 1174,318 1186,321 1189,277 1174,275 1169,270 1165,275 1155,277 1138,263 1111,287 1094,287" rendition="Line" xml:id="facs_67_tr_2_tl_1"/>
+            <zone points="284,491 1065,484 1310,537 2239,496 2239,447 2130,425 284,460" rendition="Line" xml:id="facs_67_tr_2_tl_3"/>
+            <zone points="292,613 2130,574 2130,528 1979,513 292,537" rendition="Line" xml:id="facs_67_tr_2_tl_4"/>
+            <zone points="284,654 2203,664 2203,608 1909,596 284,632" rendition="Line" xml:id="facs_67_tr_2_tl_5"/>
+            <zone points="287,756 1556,749 1517,690 287,707" rendition="Line" xml:id="facs_67_tr_2_tl_6"/>
+            <zone points="586,827 2084,829 2050,763 1940,795 586,785" rendition="Line" xml:id="facs_67_tr_2_tl_7" subtype="paragraph"/>
+            <zone points="292,924 2127,907 2086,851 292,868" rendition="Line" xml:id="facs_67_tr_2_tl_8"/>
+            <zone points="287,1004 2186,1002 2186,948 2093,934 287,946" rendition="Line" xml:id="facs_67_tr_2_tl_9"/>
+            <zone points="282,1087 2045,1075 2045,1036 1894,1021 282,1041" rendition="Line" xml:id="facs_67_tr_2_tl_10"/>
+            <zone points="284,1169 2071,1165 2071,1116 1972,1106 284,1126" rendition="Line" xml:id="facs_67_tr_2_tl_11"/>
+            <zone points="284,1252 2147,1259 2147,1186 1772,1218 284,1194" rendition="Line" xml:id="facs_67_tr_2_tl_12"/>
+            <zone points="280,1349 834,1379 2045,1332 2020,1274 1770,1269 282,1303" rendition="Line" xml:id="facs_67_tr_2_tl_13"/>
+            <zone points="280,1415 2161,1413 2161,1362 2057,1352 280,1376" rendition="Line" xml:id="facs_67_tr_2_tl_14"/>
+            <zone points="280,1510 1456,1537 1456,1451 1337,1444 280,1476" rendition="Line" xml:id="facs_67_tr_2_tl_15"/>
+            <zone points="584,1583 2174,1588 2147,1524 584,1539" rendition="Line" xml:id="facs_67_tr_2_tl_16" subtype="paragraph"/>
+            <zone points="282,1685 2229,1668 2229,1617 1753,1607 282,1634" rendition="Line" xml:id="facs_67_tr_2_tl_17"/>
+            <zone points="272,1748 2052,1748 2052,1702 1967,1690 272,1712" rendition="Line" xml:id="facs_67_tr_2_tl_18"/>
+            <zone points="272,1838 2020,1831 2020,1792 1867,1780 272,1799" rendition="Line" xml:id="facs_67_tr_2_tl_19"/>
+            <zone points="275,1938 2088,1918 2050,1857 275,1870" rendition="Line" xml:id="facs_67_tr_2_tl_20"/>
+            <zone points="272,2008 2023,2003 2023,1952 1913,1950 272,1984" rendition="Line" xml:id="facs_67_tr_2_tl_21"/>
+            <zone points="267,2088 294,2103 523,2091 622,2110 654,2086 715,2108 778,2098 778,2050 649,2064 479,2040 452,2067 438,2052 267,2064" rendition="Line" xml:id="facs_67_tr_2_tl_22"/>
+            <zone points="581,2176 2210,2174 2210,2108 581,2118" rendition="Line" xml:id="facs_67_tr_2_tl_23" subtype="paragraph"/>
+            <zone points="275,2263 2062,2261 2035,2198 275,2220" rendition="Line" xml:id="facs_67_tr_2_tl_24"/>
+            <zone points="581,2346 2186,2341 2186,2290 2103,2278 1444,2315 581,2290" rendition="Line" xml:id="facs_67_tr_2_tl_25" subtype="paragraph"/>
+            <zone points="272,2446 1685,2468 1743,2417 2118,2429 2118,2378 272,2380" rendition="Line" xml:id="facs_67_tr_2_tl_26"/>
+            <zone points="272,2519 2203,2516 2174,2453 275,2470" rendition="Line" xml:id="facs_67_tr_2_tl_27"/>
+            <zone points="267,2601 2164,2592 2164,2536 267,2558" rendition="Line" xml:id="facs_67_tr_2_tl_28"/>
+            <zone points="270,2699 2130,2679 2130,2633 1957,2621 270,2635" rendition="Line" xml:id="facs_67_tr_2_tl_29"/>
+            <zone points="267,2803 2113,2767 2098,2708 267,2716" rendition="Line" xml:id="facs_67_tr_2_tl_30"/>
+            <zone points="267,2859 1860,2886 2028,2883 2096,2837 2016,2789 267,2803" rendition="Line" xml:id="facs_67_tr_2_tl_31"/>
+            <zone points="272,2973 900,2981 1092,2925 2178,2937 2132,2866 272,2896" rendition="Line" xml:id="facs_67_tr_2_tl_32"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0067.jpg" n="part1_p067.jpg" xml:id="img_0067" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p067.jpg"/>
+            
+            <ab facs="#facs_67_tr_2">
+               <lb facs="#facs_67_tr_2_tl_1" n="N001"/>[64]
+               <lb facs="#facs_67_tr_2_tl_3" n="N002"/>And this is my first answer to this question: you NEVER can say that God is completely
+               <lb facs="#facs_67_tr_2_tl_4" n="N003"/>unknown if you say ''God'' AT ALL. If you speak of ANYthing in the world, you
+               <lb facs="#facs_67_tr_2_tl_5" n="N004"/>can never say it is completely unknown because you know at least about it enough that
+               <lb facs="#facs_67_tr_2_tl_6" n="N005"/>you can ask this question. And that is already very much.
+               <lb facs="#facs_67_tr_2_tl_7" n="N006"/>Now the further answer is that this is not the position I take at all.
+               <lb facs="#facs_67_tr_2_tl_8" n="N007"/><religious_language>I didn’t speak about God directly here, but I spoke about religious language, i.e., the
+               <lb break="no" facs="#facs_67_tr_2_tl_9" n="N008"/>language of our ultimate concern. This language, I said, is symbolic. Symbolic knowledge
+               <lb break="no" facs="#facs_67_tr_2_tl_10" n="N009"/>is not less, but MORE, than ordinary knowledge!</religious_language> Of course, symbols can be true,
+               <lb facs="#facs_67_tr_2_tl_11" n="N010"/>and they are true if they express the actual relationship in the religious experience
+               <lb facs="#facs_67_tr_2_tl_12" n="N011"/>between man and that which he wants to symbolize in his symbols. Therefore, ''God''
+               <lb facs="#facs_67_tr_2_tl_13" n="N012"/>can be a true symbol, He can be a demonic symbol, He can be a divine symbol.
+               <lb facs="#facs_67_tr_2_tl_14" n="N013"/>In any case, the question of the TRUTH of what is expressed in the symbol is always
+               <lb facs="#facs_67_tr_2_tl_15" n="N014"/>open, and one cannot speak of ''completely unknown.''
+               <lb facs="#facs_67_tr_2_tl_16" n="N015"/>Then the other element of this question, ''the fact of ultimate concern is
+               <lb facs="#facs_67_tr_2_tl_17" n="N016"/>grounded in God.'' This is a complete reversal of my kind of arguing. I never said that,
+               <lb facs="#facs_67_tr_2_tl_18" n="N017"/>but I said there is an ultimate concern about the Ultimate. And this is simply a
+               <lb facs="#facs_67_tr_2_tl_19" n="N018"/>statement of the only thing which is certain, more certain than we ourselves are
+               <lb facs="#facs_67_tr_2_tl_20" n="N019"/>[probably: ''more certain than we are of ourselves''?--Ed.], that the question of the
+               <lb facs="#facs_67_tr_2_tl_21" n="N020"/>meaning of our existence is beyond all our lives and expresses itself as passionate
+               <lb facs="#facs_67_tr_2_tl_22" n="N021"/>concern in many ways.
+               <lb facs="#facs_67_tr_2_tl_23" n="N022"/>Therefore, I cannot turn the argument around and have, first, ''God,'' and
+               <lb facs="#facs_67_tr_2_tl_24" n="N023"/>then say the ultimate concern is grounded in it--this is just what I want to avoid.
+               <lb facs="#facs_67_tr_2_tl_25" n="N024"/>This brings me to a statement which is perhaps illuminating for the whole
+               <lb facs="#facs_67_tr_2_tl_26" n="N025"/>[course of] lecture[s]: <rs type="keyword" ref="#Philosophy_of_Religion">the method of a philosophy of religion--and of course if you
+               <lb break="no" facs="#facs_67_tr_2_tl_27" n="N026"/>speak about religion and culture, you give a philosophy of religion, implicitly, and largely
+               <lb break="no" facs="#facs_67_tr_2_tl_28" n="N027"/>explicitly. It is always wrong if you begin a philosophy of religion with the statement
+               <lb break="no" facs="#facs_67_tr_2_tl_29" n="N028"/>[that] you believe in God and then give arguments for His existence. This can never
+               <lb break="no" facs="#facs_67_tr_2_tl_30" n="N029"/>lead to an understanding of the phenomenon of religion. But you must always start
+               <lb break="no" facs="#facs_67_tr_2_tl_31" n="N030"/>the opposite way: you must start with the human situation in which there is the
+               <lb break="no" facs="#facs_67_tr_2_tl_32" n="N031"/>experience of ultimate concern--or, as one also could call it, the experience of the holy.</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

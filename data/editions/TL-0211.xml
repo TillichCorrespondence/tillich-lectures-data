@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p211</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p211</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_211">
+         <graphic url="TL-0211.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FTDARURAEKZQEHSKHSEXZJKW&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="262,195 262,3463 2322,3463 2322,3344 2322,195" rendition="TextRegion" xml:id="facs_211_tr_2">
+            <zone points="1135,275 1148,275 1165,293 1196,286 1229,288 1242,278 1255,278 1255,235 1234,235 1209,209 1191,217 1186,214 1173,227 1135,227" rendition="Line" xml:id="facs_211_tr_2_tl_1"/>
+            <zone points="247,446 1244,431 1321,500 1415,428 2157,413 2160,365 247,405" rendition="Line" xml:id="facs_211_tr_2_tl_2"/>
+            <zone points="260,604 1431,576 1979,612 2071,566 2058,505 263,551" rendition="Line" xml:id="facs_211_tr_2_tl_3"/>
+            <zone points="258,788 992,806 1344,773 1418,729 2009,727 2073,681 258,724" rendition="Line" xml:id="facs_211_tr_2_tl_4"/>
+            <zone points="260,905 337,964 451,964 1224,933 1499,872 2224,870 2203,803 263,875" rendition="Line" xml:id="facs_211_tr_2_tl_5"/>
+            <zone points="265,1084 441,1125 518,1091 1096,1094 1198,1038 2224,1012 2226,954 2139,954 268,1025" rendition="Line" xml:id="facs_211_tr_2_tl_6"/>
+            <zone points="265,1211 2168,1211 2170,1114 2137,1112 268,1178" rendition="Line" xml:id="facs_211_tr_2_tl_7"/>
+            <zone points="268,1359 765,1413 1211,1339 2300,1329 2320,1255 268,1303" rendition="Line" xml:id="facs_211_tr_2_tl_8"/>
+            <zone points="265,1510 1548,1482 1647,1540 2196,1469 2196,1410 268,1456" rendition="Line" xml:id="facs_211_tr_2_tl_9"/>
+            <zone points="273,1663 416,1693 543,1657 632,1701 1510,1670 1571,1657 1573,1586 273,1635" rendition="Line" xml:id="facs_211_tr_2_tl_10"/>
+            <zone points="467,1808 2007,1788 2083,1775 2086,1734 1183,1726 1130,1762 1076,1708 757,1770 467,1747" rendition="Line" xml:id="facs_211_tr_2_tl_11" subtype="paragraph"/>
+            <zone points="275,1966 1691,1946 1849,1933 1851,1869 275,1912" rendition="Line" xml:id="facs_211_tr_2_tl_12"/>
+            <zone points="275,2122 2014,2086 2096,2078 2099,2014 275,2066" rendition="Line" xml:id="facs_211_tr_2_tl_13"/>
+            <zone points="278,2267 2152,2229 2152,2170 1961,2165 280,2216" rendition="Line" xml:id="facs_211_tr_2_tl_14"/>
+            <zone points="275,2428 1984,2384 1984,2326 1846,2315 278,2372" rendition="Line" xml:id="facs_211_tr_2_tl_15"/>
+            <zone points="280,2555 479,2626 2040,2532 1997,2468 283,2517" rendition="Line" xml:id="facs_211_tr_2_tl_16"/>
+            <zone points="280,2703 688,2734 1946,2693 2073,2639 280,2675" rendition="Line" xml:id="facs_211_tr_2_tl_17"/>
+            <zone points="273,2871 393,2902 1665,2846 1668,2782 505,2841 380,2797 273,2843" rendition="Line" xml:id="facs_211_tr_2_tl_18"/>
+            <zone points="474,3014 2104,2996 2173,2989 2175,2912 474,2984" rendition="Line" xml:id="facs_211_tr_2_tl_19" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0211.jpg" n="part1_p211.jpg" xml:id="img_0211" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p211.jpg"/>
+            
+            <ab facs="#facs_211_tr_2">
+               <lb facs="#facs_211_tr_2_tl_1" n="N001"/>[207]
+               <lb facs="#facs_211_tr_2_tl_2" n="N002"/>forgetting that there is an essential nature of man which is distorted, in our existential structure.
+               <lb facs="#facs_211_tr_2_tl_3" n="N003"/>What kind of statement was this? (It was in a philosophical seminar.) It was a RELIGIOUS
+               <lb facs="#facs_211_tr_2_tl_4" n="N004"/>EXCLAMATION, but not a philosophical argument. And that is the distinction l want you
+               <lb facs="#facs_211_tr_2_tl_5" n="N005"/>to make: where are we in the realm of <ultimate_concern>ultimate concern,</ultimate_concern> in these discussions? [and] where are
+               <lb facs="#facs_211_tr_2_tl_6" n="N006"/>we in the realm of philosophical arguments? You will find many philosophers who may make such
+               <lb facs="#facs_211_tr_2_tl_7" n="N007"/>statements. You may find, also, some who would say: the world is as it is, as <rs type="keyword" ref="#Existentialism">existentialism</rs> has
+               <lb facs="#facs_211_tr_2_tl_8" n="N008"/>described it, a matter of more evil than good. And l know how many young people today feel like this;
+               <lb facs="#facs_211_tr_2_tl_9" n="N009"/>it is understandable, in the countries of the present world situation. But it is a matter of <ultimate_concern>ultimate
+               <lb break="no" facs="#facs_211_tr_2_tl_10" n="N010"/>concern</ultimate_concern> and not a matter of philosophical analysis and argument.
+               <lb facs="#facs_211_tr_2_tl_11" n="N011"/>So we must now finish this second alternative, where l wanted again to show you
+               <lb facs="#facs_211_tr_2_tl_12" n="N012"/>THAT THERE IS AN ARENA of philosophical fights, where from the point of
+               <lb facs="#facs_211_tr_2_tl_13" n="N013"/>religion, we are spectators---epistemology, anthropology. There lS a DIMENSION in which
+               <lb facs="#facs_211_tr_2_tl_14" n="N014"/>we are NOT spectators, because the fighting philosophers have come into our realm themselves
+               <lb facs="#facs_211_tr_2_tl_15" n="N015"/>and say there is no such thing as man's predicament. They say it either as <rs type="keyword" ref="#Naturalism">naturalists:</rs>
+               <lb facs="#facs_211_tr_2_tl_16" n="N016"/>"The world is as it is, and there is no essential goodness in it"---or they say it as <rs type="keyword" ref="#Idealism">idealists:</rs>
+               <lb facs="#facs_211_tr_2_tl_17" n="N017"/>"The world is good, and all distortions are only preliminary and will be overcome by US---
+               <lb facs="#facs_211_tr_2_tl_18" n="N018"/>namely the men of good will"---which is the arrogance of the i<rs type="keyword" ref="#Idealism">dealists.</rs>
+               <lb facs="#facs_211_tr_2_tl_19" n="N019"/>Now there is another alternative, to which l cannot go in this moment, but l ask you,
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

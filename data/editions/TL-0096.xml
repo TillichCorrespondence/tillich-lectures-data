@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p096</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p096</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_96">
+         <graphic url="TL-0096.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TRDPGUPYARMVJGYAJZMBBCGZ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="50,259 50,3479 2269,3479 2269,259" rendition="TextRegion" xml:id="facs_96_tr_1">
+            <zone points="1154,302 1166,302 1186,314 1227,319 1237,317 1244,309 1256,309 1259,263 1215,258 1205,265 1193,261 1157,265" rendition="Line" xml:id="facs_96_tr_1_tl_1"/>
+            <zone points="312,475 2165,485 2165,431 1619,441 1461,380 1388,441 312,431" rendition="Line" xml:id="facs_96_tr_1_tl_2"/>
+            <zone points="314,567 993,565 993,521 889,536 860,509 721,533 314,521" rendition="Line" xml:id="facs_96_tr_1_tl_3"/>
+            <zone points="616,643 706,679 1627,692 1687,645 2211,653 2211,587 1529,616 1434,555 1342,616 616,592" rendition="Line" xml:id="facs_96_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="309,721 2262,733 2262,687 2077,667 309,696" rendition="Line" xml:id="facs_96_tr_1_tl_5"/>
+            <zone points="324,821 2189,823 2189,767 1890,787 1768,743 1388,787 324,760" rendition="Line" xml:id="facs_96_tr_1_tl_6"/>
+            <zone points="309,891 1132,891 1249,933 1761,947 2109,901 2072,823 1953,867 309,857" rendition="Line" xml:id="facs_96_tr_1_tl_7"/>
+            <zone points="317,993 356,986 394,1020 1052,1001 1052,940 981,928 317,940" rendition="Line" xml:id="facs_96_tr_1_tl_8"/>
+            <zone points="614,1076 733,1057 891,1108 2170,1054 2126,1006 614,1011" rendition="Line" xml:id="facs_96_tr_1_tl_9" subtype="paragraph"/>
+            <zone points="324,1159 2179,1147 2179,1084 1943,1118 324,1108" rendition="Line" xml:id="facs_96_tr_1_tl_10"/>
+            <zone points="317,1235 823,1225 918,1276 2155,1239 2121,1186 1948,1176 317,1188" rendition="Line" xml:id="facs_96_tr_1_tl_11"/>
+            <zone points="309,1312 550,1361 879,1351 950,1308 2170,1325 2128,1256 309,1288" rendition="Line" xml:id="facs_96_tr_1_tl_12"/>
+            <zone points="317,1400 504,1444 1444,1412 1907,1444 2043,1395 2189,1407 2189,1354 1975,1342 317,1356" rendition="Line" xml:id="facs_96_tr_1_tl_13"/>
+            <zone points="309,1483 1057,1480 1215,1529 2172,1485 2172,1442 1963,1429 309,1442" rendition="Line" xml:id="facs_96_tr_1_tl_14"/>
+            <zone points="314,1571 2194,1573 2194,1522 2038,1510 1566,1544 314,1522" rendition="Line" xml:id="facs_96_tr_1_tl_15"/>
+            <zone points="317,1656 2116,1663 2116,1595 317,1610" rendition="Line" xml:id="facs_96_tr_1_tl_16"/>
+            <zone points="309,1734 2199,1746 2199,1690 1799,1678 309,1695" rendition="Line" xml:id="facs_96_tr_1_tl_17"/>
+            <zone points="312,1826 2140,1819 2140,1768 1946,1763 312,1782" rendition="Line" xml:id="facs_96_tr_1_tl_18"/>
+            <zone points="312,1909 2148,1909 2148,1860 1967,1848 312,1863" rendition="Line" xml:id="facs_96_tr_1_tl_19"/>
+            <zone points="312,1994 2111,1989 2111,1943 2050,1931 312,1946" rendition="Line" xml:id="facs_96_tr_1_tl_20"/>
+            <zone points="302,2077 2082,2082 2082,2033 1799,2004 302,2036" rendition="Line" xml:id="facs_96_tr_1_tl_21"/>
+            <zone points="312,2165 387,2201 2043,2177 2006,2099 312,2104" rendition="Line" xml:id="facs_96_tr_1_tl_22"/>
+            <zone points="309,2243 353,2277 1395,2233 2245,2252 2223,2182 309,2177" rendition="Line" xml:id="facs_96_tr_1_tl_23"/>
+            <zone points="346,2345 1573,2369 2079,2325 2079,2274 1707,2260 346,2294" rendition="Line" xml:id="facs_96_tr_1_tl_24"/>
+            <zone points="309,2406 2133,2411 2133,2364 2014,2352 309,2367" rendition="Line" xml:id="facs_96_tr_1_tl_26"/>
+            <zone points="309,2496 2133,2493 2133,2428 309,2447" rendition="Line" xml:id="facs_96_tr_1_tl_27"/>
+            <zone points="329,2613 2116,2581 2116,2520 329,2513" rendition="Line" xml:id="facs_96_tr_1_tl_28"/>
+            <zone points="312,2666 2233,2659 2233,2615 2118,2601 312,2620" rendition="Line" xml:id="facs_96_tr_1_tl_29"/>
+            <zone points="312,2747 2167,2749 2167,2698 2094,2683 312,2700" rendition="Line" xml:id="facs_96_tr_1_tl_30"/>
+            <zone points="302,2832 2157,2829 2157,2776 2014,2766 302,2803" rendition="Line" xml:id="facs_96_tr_1_tl_31"/>
+            <zone points="302,2910 2235,2910 2235,2866 2179,2851 302,2866" rendition="Line" xml:id="facs_96_tr_1_tl_32"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0096.jpg" n="part1_p096.jpg" xml:id="img_0096" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p096.jpg"/>
+            
+            <ab facs="#facs_96_tr_1">
+               <lb facs="#facs_96_tr_1_tl_1" n="N001"/>[93]
+               <lb facs="#facs_96_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Economy">tools serve needs and produce economic values--food, clothing, shelter, and other things
+               <lb break="no" facs="#facs_96_tr_1_tl_3" n="N003"/>connected with it--warmth, etc.
+               <lb break="no" facs="#facs_96_tr_1_tl_4" n="N004"/>Now a very interesting dialectical situation arises, namely the situation that
+               <lb break="no" facs="#facs_96_tr_1_tl_5" n="N005"/>these tools which are means for the ends of economy, get a kind of independent existence.
+               <lb break="no" facs="#facs_96_tr_1_tl_6" n="N006"/>And the more they are developed, the more they give MORE possibilities. And if they
+               <lb break="no" facs="#facs_96_tr_1_tl_7" n="N007"/>are FULLY developed, as they are in the Machine Age, they give practically endless
+               <lb break="no" facs="#facs_96_tr_1_tl_8" n="N008"/>possibilities for human production.
+               <lb break="no" facs="#facs_96_tr_1_tl_9" n="N009"/>Now then, two things happen. The one is that the technical production--
+               <lb break="no" facs="#facs_96_tr_1_tl_10" n="N010"/>production of tools and production of values WITH these tools--has another element of
+               <lb break="no" facs="#facs_96_tr_1_tl_11" n="N011"/>what I called last time the principle of rationality, with respect to all technical tools--
+               <lb break="no" facs="#facs_96_tr_1_tl_12" n="N012"/>namely, economic rationality. This has to be added to the other elements of rationality
+               <lb break="no" facs="#facs_96_tr_1_tl_13" n="N013"/>which make it possible that in the technical realm infinite progress is given. But even if
+               <lb break="no" facs="#facs_96_tr_1_tl_14" n="N014"/>the progress is infinite in itself, it is still limited by economic rationality. You cannot
+               <lb break="no" facs="#facs_96_tr_1_tl_15" n="N015"/>build every building which is desirable, at Harvard campus. There are economic limits to
+               <lb break="no" facs="#facs_96_tr_1_tl_16" n="N016"/>this, out of the whole economic situation, even of the richest country in the world,
+               <lb break="no" facs="#facs_96_tr_1_tl_17" n="N017"/>and there are limits of this kind everywhere which make the application of the technical
+               <lb break="no" facs="#facs_96_tr_1_tl_18" n="N018"/>tools depend on another element of rationality which is not an immediate element of
+               <lb break="no" facs="#facs_96_tr_1_tl_19" n="N019"/>rationality in the technical process itself, but on which the technical process is always
+               <lb break="no" facs="#facs_96_tr_1_tl_20" n="N020"/>dependent. </rs>But now it happens that the presence of tools, of means of production
+               <lb facs="#facs_96_tr_1_tl_21" n="N021"/>produced by tools, and especially tools in the larger sense of the word--machines--,
+               <lb facs="#facs_96_tr_1_tl_22" n="N022"/>have possibilities which go far beyond the immediate needs satisfied by economy.
+               <lb facs="#facs_96_tr_1_tl_23" n="N023"/><advertisement>And then a very important process begins, namely the POSSIBILITY of man to PRODUCE,
+               <lb break="no" facs="#facs_96_tr_1_tl_24" n="N024"/>--''produce'' not only means to SATISEY needs, but also produces NEEDS. And
+               <lb break="no" facs="#facs_96_tr_1_tl_26" n="N025"/>this production of needs out of the infinite possibilities of the technical realm is one
+               <lb break="no" facs="#facs_96_tr_1_tl_27" n="N026"/>of the main factors in the present-day economy. The main tool in it is what we call
+               <lb break="no" facs="#facs_96_tr_1_tl_28" n="N027"/>''advertisement,'' which produces these needs and which is, therefore, in the WHOLE
+               <lb break="no" facs="#facs_96_tr_1_tl_29" n="N028"/>relationship of technical possibility and economic production, one of the most conspicuous
+               <lb break="no" facs="#facs_96_tr_1_tl_30" n="N029"/>factors. You will find, in many analysis of our present world situation, especially sharp
+               <lb break="no" facs="#facs_96_tr_1_tl_31" n="N030"/>attacks on the function of advertisement; and if, as I was told, almost ten millions of
+               <lb break="no" facs="#facs_96_tr_1_tl_32" n="N031"/>income go into advertisement, then one may feel that something is wrong in this situation</advertisement>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

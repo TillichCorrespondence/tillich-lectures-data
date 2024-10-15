@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p280</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p280</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_280">
+         <graphic url="TL-0280.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VKKFIOXDBHNOCDCCQZCDKCHF&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="262,247 262,3499 2379,3499 2379,247" rendition="TextRegion" xml:id="facs_280_tr_2">
+            <zone points="1187,321 1210,321 1228,334 1277,334 1279,329 1287,334 1313,334 1310,259 1274,262 1256,247 1243,257 1230,252 1220,262 1184,265" rendition="Line" xml:id="facs_280_tr_2_tl_1"/>
+            <zone points="316,465 2140,496 2137,447 2076,434 316,421" rendition="Line" xml:id="facs_280_tr_2_tl_2"/>
+            <zone points="313,616 2112,645 2112,588 313,557" rendition="Line" xml:id="facs_280_tr_2_tl_3"/>
+            <zone points="311,773 2376,807 2376,742 2068,706 1112,745 311,709" rendition="Line" xml:id="facs_280_tr_2_tl_4"/>
+            <zone points="308,963 853,945 1665,994 2086,961 2230,994 2227,891 2101,868 1903,907 308,868" rendition="Line" xml:id="facs_280_tr_2_tl_5"/>
+            <zone points="306,1087 365,1125 1153,1125 1325,1081 2243,1110 2243,1045 2153,1038 306,1015" rendition="Line" xml:id="facs_280_tr_2_tl_6"/>
+            <zone points="295,1210 426,1223 506,1284 2001,1287 2099,1248 2099,1192 2034,1184 295,1164" rendition="Line" xml:id="facs_280_tr_2_tl_7"/>
+            <zone points="295,1400 1017,1379 1189,1444 1472,1421 1554,1459 1952,1441 2047,1390 2263,1408 2263,1343 2225,1341 295,1313" rendition="Line" xml:id="facs_280_tr_2_tl_8"/>
+            <zone points="321,1534 2260,1552 2260,1498 2109,1487 1621,1513 1487,1477 321,1472" rendition="Line" xml:id="facs_280_tr_2_tl_9"/>
+            <zone points="288,1672 2178,1708 2176,1644 288,1618" rendition="Line" xml:id="facs_280_tr_2_tl_10"/>
+            <zone points="290,1829 2011,1862 2009,1798 288,1772" rendition="Line" xml:id="facs_280_tr_2_tl_11"/>
+            <zone points="275,1970 1462,1996 1747,2060 2137,2006 2135,1947 275,1942" rendition="Line" xml:id="facs_280_tr_2_tl_12"/>
+            <zone points="285,2145 2109,2158 2109,2101 1595,2073 1259,2106 285,2081" rendition="Line" xml:id="facs_280_tr_2_tl_13"/>
+            <zone points="277,2284 573,2289 573,2230 375,2230 357,2214 342,2230 308,2225 275,2245" rendition="Line" xml:id="facs_280_tr_2_tl_14"/>
+            <zone points="439,2425 2176,2474 2176,2402 2081,2386 722,2392 545,2353 439,2386" rendition="Line" xml:id="facs_280_tr_2_tl_15" subtype="paragraph"/>
+            <zone points="272,2574 663,2587 704,2628 2160,2605 2160,2551 2070,2546 272,2525" rendition="Line" xml:id="facs_280_tr_2_tl_16"/>
+            <zone points="270,2725 753,2741 804,2790 2183,2756 2183,2700 270,2677" rendition="Line" xml:id="facs_280_tr_2_tl_17"/>
+            <zone points="259,2885 2137,2905 2135,2849 259,2844" rendition="Line" xml:id="facs_280_tr_2_tl_18"/>
+            <zone points="262,3036 2150,3057 2147,2998 262,2975" rendition="Line" xml:id="facs_280_tr_2_tl_19"/>
+            <zone points="247,3180 1536,3267 1531,3185 1421,3219 1053,3142 609,3162 339,3116 247,3149" rendition="Line" xml:id="facs_280_tr_2_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0280.jpg" n="part1_p280.jpg" xml:id="img_0280" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p280.jpg"/>
+            
+            <ab facs="#facs_280_tr_2">
+               <lb facs="#facs_280_tr_2_tl_1" n="N001"/>[276]
+               <lb facs="#facs_280_tr_2_tl_2" n="N002"/>old boy, and if professors boast, and ministers boast, that they have this superiority, and that
+               <lb facs="#facs_280_tr_2_tl_3" n="N003"/>if they believe that if they do something good to<rs type="person"> Paul the Apostle,</rs> that he knew better than
+               <lb facs="#facs_280_tr_2_tl_4" n="N004"/>Socrates---then they are simply childish. [?] What is really at stake here is ABSOLUTELY DIFFERENT.
+               <lb facs="#facs_280_tr_2_tl_5" n="N005"/>Socrates didn't speak of knowledge in the [sense] of detached knowledge, but he speaks of insight
+               <lb facs="#facs_280_tr_2_tl_6" n="N006"/>in the sense of participation in one's <hi style="font-style: italic;">daemon</hi>, as he called [it], i.e., the <unconscious>unconscious</unconscious> power striving
+               <lb facs="#facs_280_tr_2_tl_7" n="N007"/>in him. And only on the basis of such insight is it possible to understand his statement that
+               <lb facs="#facs_280_tr_2_tl_8" n="N008"/>knowledge produces action. And why? Because this knowledge is already an action, and one of the,
+               <lb facs="#facs_280_tr_2_tl_9" n="N009"/>perhaps the most difficult action, namely obedience to the oracle of Delphi, which called <rs type="person">Socrates</rs>
+               <lb facs="#facs_280_tr_2_tl_10" n="N010"/>the wisest of all men, and on the door which was written <hi style="font-style: italic;">gnōthi seauton</hi>, "Know thyself." But
+               <lb facs="#facs_280_tr_2_tl_11" n="N011"/>knowing oneself doesn't mean "Know the measures of sensitivity to light and darkness,"
+               <lb facs="#facs_280_tr_2_tl_12" n="N012"/>as in some forms of psychology rightly is done, but it means "Know one's predicament." And
+               <lb facs="#facs_280_tr_2_tl_13" n="N013"/>just THAT is what the psychoanalytic movement tries to do and for which it has found some
+               <lb facs="#facs_280_tr_2_tl_14" n="N014"/>new methods.
+               <lb facs="#facs_280_tr_2_tl_15" n="N015"/>A third point is the discovery of nature in man, namely the driving power of what <rs type="person">Freud</rs>
+               <lb facs="#facs_280_tr_2_tl_16" n="N016"/>calls <hi style="font-style: italic;">libido</hi> and what <rs type="person">Nietzsche</rs> called "will to power." These things were always known in their
+               <lb facs="#facs_280_tr_2_tl_17" n="N017"/>manifest expressions, but the existentialist and psychoanalytic rediscovery of the <unconscious>unconscious </unconscious>has
+               <lb facs="#facs_280_tr_2_tl_18" n="N018"/>shown something else: it has shown that they are present not only in their conscious state, but
+               <lb facs="#facs_280_tr_2_tl_19" n="N019"/>that there is something analagous to them in their unconscious state. Of course if one speaks of
+               <lb facs="#facs_280_tr_2_tl_20" n="N020"/>will-to-power, that is a conscious formula and therefore is a very unfortunate concept,
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

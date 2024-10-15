@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p041</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p041</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_41">
+         <graphic url="TL-0041.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=REUNAIMJITORXXZZMFKFNTYQ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="85,270 55,3293 2385,3301 2394,270" rendition="TextRegion" xml:id="facs_41_tr_1">
+            <zone points="1188,309 1201,309 1222,322 1286,325 1286,264 1259,267 1246,253 1236,256 1217,275 1188,275" rendition="Line" xml:id="facs_41_tr_1_tl_1"/>
+            <zone points="290,478 966,494 966,425 879,425 847,449 795,425 768,451 708,451 681,425 594,446 568,420 536,446 510,420 333,422 290,449" rendition="Line" xml:id="facs_41_tr_1_tl_3" subtype="heading"/>
+            <zone points="583,665 2220,676 2220,626 1983,599 1822,634 583,620" rendition="Line" xml:id="facs_41_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="293,766 2191,766 2191,710 293,708" rendition="Line" xml:id="facs_41_tr_1_tl_5"/>
+            <zone points="298,842 2276,847 2276,781 298,792" rendition="Line" xml:id="facs_41_tr_1_tl_6"/>
+            <zone points="293,919 2194,932 2194,884 2091,871 293,887" rendition="Line" xml:id="facs_41_tr_1_tl_7"/>
+            <zone points="288,1014 578,1001 634,1051 2268,1027 2268,966 1323,969 1228,927 288,964" rendition="Line" xml:id="facs_41_tr_1_tl_8"/>
+            <zone points="277,1090 863,1143 2115,1125 2115,1061 2035,1043 277,1053" rendition="Line" xml:id="facs_41_tr_1_tl_9"/>
+            <zone points="277,1183 354,1222 2167,1191 2123,1127 277,1151" rendition="Line" xml:id="facs_41_tr_1_tl_10"/>
+            <zone points="277,1262 1024,1259 1368,1317 2136,1299 2136,1222 2051,1209 277,1220" rendition="Line" xml:id="facs_41_tr_1_tl_11"/>
+            <zone points="272,1346 333,1383 898,1381 935,1357 935,1309 866,1296 449,1320 364,1294 272,1317" rendition="Line" xml:id="facs_41_tr_1_tl_12"/>
+            <zone points="576,1431 1470,1428 1592,1478 2249,1434 2249,1375 576,1381" rendition="Line" xml:id="facs_41_tr_1_tl_13" subtype="paragraph"/>
+            <zone points="272,1510 1080,1568 1291,1507 1766,1510 1830,1560 2212,1534 2212,1463 272,1470" rendition="Line" xml:id="facs_41_tr_1_tl_14"/>
+            <zone points="269,1600 319,1637 787,1637 837,1595 1077,1595 1122,1637 1333,1637 1378,1595 2387,1608 2387,1558 2284,1544 269,1555" rendition="Line" xml:id="facs_41_tr_1_tl_15"/>
+            <zone points="272,1682 1341,1687 1341,1637 1272,1632 272,1650" rendition="Line" xml:id="facs_41_tr_1_tl_16"/>
+            <zone points="576,1764 2204,1798 2178,1719 576,1711" rendition="Line" xml:id="facs_41_tr_1_tl_17" subtype="paragraph"/>
+            <zone points="267,1856 317,1893 1463,1893 1502,1859 1550,1893 2257,1888 2257,1800 2154,1795 267,1819" rendition="Line" xml:id="facs_41_tr_1_tl_18"/>
+            <zone points="275,1940 1212,1932 1336,1983 1806,1927 2220,1940 2220,1893 2109,1882 275,1896" rendition="Line" xml:id="facs_41_tr_1_tl_19"/>
+            <zone points="259,2009 2189,2022 2189,1967 259,1985" rendition="Line" xml:id="facs_41_tr_1_tl_20"/>
+            <zone points="259,2099 2144,2120 2144,2064 1977,2051 259,2059" rendition="Line" xml:id="facs_41_tr_1_tl_21"/>
+            <zone points="259,2178 1352,2189 1352,2146 1278,2130 1106,2160 1045,2130 259,2144" rendition="Line" xml:id="facs_41_tr_1_tl_22"/>
+            <zone points="565,2265 708,2307 2297,2284 2297,2223 1637,2241 1106,2186 565,2220" rendition="Line" xml:id="facs_41_tr_1_tl_23" subtype="paragraph"/>
+            <zone points="562,2355 834,2397 1529,2352 2223,2373 2223,2321 2057,2302 562,2297" rendition="Line" xml:id="facs_41_tr_1_tl_24" subtype="paragraph"/>
+            <zone points="261,2439 438,2471 810,2434 1191,2471 1236,2434 1824,2445 1824,2394 1766,2381 261,2392" rendition="Line" xml:id="facs_41_tr_1_tl_25"/>
+            <zone points="259,2521 2083,2534 2083,2442 1151,2497 259,2474" rendition="Line" xml:id="facs_41_tr_1_tl_26"/>
+            <zone points="261,2627 1423,2627 1402,2542 261,2540" rendition="Line" xml:id="facs_41_tr_1_tl_27"/>
+            <zone points="562,2780 2284,2790 2284,2738 2104,2719 871,2706 710,2740 676,2706 607,2740 562,2709" rendition="Line" xml:id="facs_41_tr_1_tl_28" subtype="paragraph"/>
+            <zone points="251,2856 1692,2859 2117,2907 2117,2820 2025,2809 251,2817" rendition="Line" xml:id="facs_41_tr_1_tl_29"/>
+            <zone points="251,2944 504,2973 1119,2949 1278,2994 1278,2907 1249,2893 689,2917 293,2888 251,2915" rendition="Line" xml:id="facs_41_tr_1_tl_30"/>
+            <zone points="552,3025 2138,3039 2138,2981 552,2978" rendition="Line" xml:id="facs_41_tr_1_tl_31" subtype="paragraph"/>
+            <zone points="248,3113 1468,3107 1534,3171 2112,3134 2112,3068 1972,3054 248,3065" rendition="Line" xml:id="facs_41_tr_1_tl_32"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0041.jpg" n="part1_p041.jpg" xml:id="img_0041" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p041.jpg"/>
+            
+            <ab facs="#facs_41_tr_1">
+               <lb facs="#facs_41_tr_1_tl_1" n="N001"/>[38]
+               <lb facs="#facs_41_tr_1_tl_3" n="N002"/>LECTURE V -- Oct. 13, 1955
+               <lb facs="#facs_41_tr_1_tl_4" n="N003"/>Tuesday we started the discussion of religion and language. I told you that
+               <lb facs="#facs_41_tr_1_tl_5" n="N004"/>there are two main problems in connection with our whole subject, religion and culture.
+               <lb facs="#facs_41_tr_1_tl_6" n="N005"/>The one problem is, ''Which is the ultimate concern expressing itself in language AS SUCH?''
+               <lb facs="#facs_41_tr_1_tl_7" n="N006"/>--and the other is, ''Which is the nature of religious language in contrast to other forms
+               <lb facs="#facs_41_tr_1_tl_8" n="N007"/>of language?'' We discussed the first question. I tried to show that language is an encounter
+               <lb facs="#facs_41_tr_1_tl_9" n="N008"/>between mind and reality, and that this encounter is guided by an ultimate concern,
+               <lb facs="#facs_41_tr_1_tl_10" n="N009"/>and that the different ways in which a language-creating group IS concerned ultimately,
+               <lb facs="#facs_41_tr_1_tl_11" n="N010"/>has consequences for the different forms of language--I gave you some examples from
+               <lb facs="#facs_41_tr_1_tl_12" n="N011"/>ancient and modern languages.
+               <lb facs="#facs_41_tr_1_tl_13" n="N012"/>Finally, I said that in all languages there are two elements, as in all spiritual
+               <lb facs="#facs_41_tr_1_tl_14" n="N013"/>life of man, namely an element of meaning (a word, a sentence, are bearers of meaning),
+               <lb facs="#facs_41_tr_1_tl_15" n="N014"/>and an element of power (they have connotations, which have power over the mind, not only
+               <lb facs="#facs_41_tr_1_tl_16" n="N015"/>through the meaning but also above the meaning.
+               <lb facs="#facs_41_tr_1_tl_17" n="N016"/>This last remark brings me to the next step in our consideration, namely a
+               <lb facs="#facs_41_tr_1_tl_18" n="N017"/>discussion of the special character of religious language. This special character is <rs type="keyword" ref="#Symbols">symbol</rs> and
+               <lb facs="#facs_41_tr_1_tl_19" n="N018"/><rs type="keyword" ref="#Mythological">myth</rs>. <rs type="keyword" ref="#Ultimacy">Expressions of ultimate concern are symbolic and mythological.</rs> We have to devote
+               <lb facs="#facs_41_tr_1_tl_20" n="N019"/>today's lecture, and probably more, to discuss the meaning of these terms generally, and
+               <lb facs="#facs_41_tr_1_tl_21" n="N020"/>in their special religious character--always on the basis (which I like to repeat in every
+               <lb facs="#facs_41_tr_1_tl_22" n="N021"/>lecture) of the duality of the meaning of religion:
+               <lb facs="#facs_41_tr_1_tl_23" n="N022"/>1) the universal, general, large meaning: the state of being ultimately concerned;
+               <lb facs="#facs_41_tr_1_tl_24" n="N023"/>2) the concrete, expressive meaning; religion as expressed in a special group,
+               <lb facs="#facs_41_tr_1_tl_25" n="N024"/>with special symbols and myths, with special ritual and ethical activities.
+               <lb facs="#facs_41_tr_1_tl_26" n="N025"/>Never forget this duality of the meaning, because without this, the WHOLE relation
+               <lb facs="#facs_41_tr_1_tl_27" n="N026"/>[of religion?] and culture becomes un-understandable.
+               <lb facs="#facs_41_tr_1_tl_28" n="N027"/>I said that religious language is symbolic. When we speak of symbolic language,
+               <lb facs="#facs_41_tr_1_tl_29" n="N028"/>then we presuppose implicitly that there is non-symbolic language. Our first task is to
+               <lb facs="#facs_41_tr_1_tl_30" n="N029"/>distinguish symbolic and non-symbolic language.
+               <lb facs="#facs_41_tr_1_tl_31" n="N030"/>The relation of word and content is a profound problem of semantics in
+               <lb facs="#facs_41_tr_1_tl_32" n="N031"/>itself. I cannot go too much into it, but I will a little. Every word has significatory
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

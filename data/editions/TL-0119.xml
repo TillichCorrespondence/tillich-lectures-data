@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p119</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p119</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_119">
+         <graphic url="TL-0119.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UNDHIXPGNBRTRGZSYODGLXFM&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="286,216 286,3466 2349,3466 2349,216" rendition="TextRegion" xml:id="facs_119_tr_1">
+            <zone points="1061,293 1087,293 1097,301 1182,301 1179,234 1141,234 1120,216 1097,239 1061,239" rendition="Line" xml:id="facs_119_tr_1_tl_1"/>
+            <zone points="285,457 2189,444 2189,396 2078,385 285,408" rendition="Line" xml:id="facs_119_tr_1_tl_2"/>
+            <zone points="288,604 2163,599 2163,537 288,552" rendition="Line" xml:id="facs_119_tr_1_tl_3"/>
+            <zone points="277,758 498,755 555,804 1197,807 2235,758 2235,688 2183,683 277,724" rendition="Line" xml:id="facs_119_tr_1_tl_4"/>
+            <zone points="277,907 2181,902 2181,837 1734,827 277,879" rendition="Line" xml:id="facs_119_tr_1_tl_5"/>
+            <zone points="277,1051 2191,1045 2191,981 2070,979 277,1025" rendition="Line" xml:id="facs_119_tr_1_tl_6"/>
+            <zone points="280,1207 2268,1197 2248,1130 280,1151" rendition="Line" xml:id="facs_119_tr_1_tl_7"/>
+            <zone points="280,1356 2196,1343 2196,1290 2114,1282 280,1307" rendition="Line" xml:id="facs_119_tr_1_tl_8"/>
+            <zone points="277,1505 2260,1492 2260,1451 2158,1431 277,1474" rendition="Line" xml:id="facs_119_tr_1_tl_9"/>
+            <zone points="280,1670 2153,1649 2153,1593 2027,1580 280,1611" rendition="Line" xml:id="facs_119_tr_1_tl_10"/>
+            <zone points="280,1811 1102,1808 1382,1860 1492,1803 2345,1798 2348,1731 280,1757" rendition="Line" xml:id="facs_119_tr_1_tl_11"/>
+            <zone points="277,1970 2176,1950 2178,1896 2009,1885 1973,1919 1824,1885 280,1916" rendition="Line" xml:id="facs_119_tr_1_tl_12"/>
+            <zone points="275,2112 1726,2083 1762,2117 2127,2117 2153,2024 275,2065" rendition="Line" xml:id="facs_119_tr_1_tl_13"/>
+            <zone points="272,2240 390,2309 442,2276 2255,2227 2255,2165 272,2212" rendition="Line" xml:id="facs_119_tr_1_tl_14"/>
+            <zone points="275,2435 326,2466 403,2433 953,2435 1012,2399 1015,2348 277,2353" rendition="Line" xml:id="facs_119_tr_1_tl_15"/>
+            <zone points="475,2540 1903,2548 2189,2535 2212,2484 545,2510 478,2471" rendition="Line" xml:id="facs_119_tr_1_tl_16" subtype="paragraph"/>
+            <zone points="272,2705 637,2707 694,2756 2158,2723 2140,2620 272,2666" rendition="Line" xml:id="facs_119_tr_1_tl_17"/>
+            <zone points="275,2882 478,2916 634,2882 678,2916 781,2851 2160,2831 2194,2772 275,2800" rendition="Line" xml:id="facs_119_tr_1_tl_18"/>
+            <zone points="272,3000 1670,2987 1847,3090 1932,3011 2142,2993 2142,2913 1880,2941 1837,2903 1783,2941 275,2975" rendition="Line" xml:id="facs_119_tr_1_tl_19"/>
+            <zone points="272,3160 2227,3144 2232,2980 1888,3103 275,3106" rendition="Line" xml:id="facs_119_tr_1_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0119.jpg" n="part1_p119.jpg" xml:id="img_0119" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p119.jpg"/>
+            
+            <ab facs="#facs_119_tr_1">
+               <lb facs="#facs_119_tr_1_tl_1" n="N001"/>[116]
+               <lb facs="#facs_119_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Creation">and induced the unconscious mythological thinking, to identify the development of the universe
+               <lb break="no" facs="#facs_119_tr_1_tl_3" n="N003"/>with the comparatively known world-history</rs>. Now that of course is again something where one
+               <lb facs="#facs_119_tr_1_tl_4" n="N004"/>must say: this is a matrix of scientific thought which is based on a tremendous confusion. As long
+               <lb facs="#facs_119_tr_1_tl_5" n="N005"/>as there was no problem--because science didn’t know about the billions of years necessary
+               <lb facs="#facs_119_tr_1_tl_6" n="N006"/>to produce a stone--at that time this was alright. <rs type="keyword" ref="#Myth">Mythology and science were not yet separated.
+               <lb break="no" facs="#facs_119_tr_1_tl_7" n="N007"/>In the moment in which science realizes how many thousands, hundred-thousands, and even millions
+               <lb break="no" facs="#facs_119_tr_1_tl_8" n="N008"/>of years are needed to produce the slightest thing that exists on earth today, it was a tremendous
+               <lb break="no" facs="#facs_119_tr_1_tl_9" n="N009"/>mistake of Christianity to resist this enlargement of our knowledge about the universe.</rs> But I was
+               <lb facs="#facs_119_tr_1_tl_10" n="N010"/>almost incredulous, I couldn’t believe it, when I was told that there are large groups still in this
+               <lb facs="#facs_119_tr_1_tl_11" n="N011"/>country, the so-called ''Bible Belt'', where Fundamentalism still resists the scientific hypothesis about the
+               <lb facs="#facs_119_tr_1_tl_12" n="N012"/>development of the universe in the name of the register given in the Book of Genesis, about the
+               <lb facs="#facs_119_tr_1_tl_13" n="N013"/>descendants of Adam up to Abraham and Moses. Now if this is done, then we have a conflict
+               <lb facs="#facs_119_tr_1_tl_14" n="N014"/>which is NOT a conflict of religion and science, but which is a conflict of people who are not able to
+               <lb facs="#facs_119_tr_1_tl_15" n="N015"/>see the difference of the dimensions.
+               <lb facs="#facs_119_tr_1_tl_16" n="N016"/><rs type="keyword" ref="#Creation">The last point of resistance is that even if everything is left to development, in the sense
+               <lb break="no" facs="#facs_119_tr_1_tl_17" n="N017"/>of modern science, one thing cannot be left, namely the rise of man, because in man something
+               <lb break="no" facs="#facs_119_tr_1_tl_18" n="N018"/>absolutely new arises, and this absolutely-new demands a new act of creation, i.e. an interference
+               <lb break="no" facs="#facs_119_tr_1_tl_19" n="N019"/>of God in the world-historical process in order to produce a being which has an immortal soul.</rs>
+               <lb facs="#facs_119_tr_1_tl_20" n="N020"/><rs type="keyword" ref="#Language">Now I told you, long ago, that the fact that man has language, indeed distinguishes him from every</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

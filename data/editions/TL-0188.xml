@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p188</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p188</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_188">
+         <graphic url="TL-0188.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MSGYKEJYHSKVTZQGEUGMLKUZ&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="107,163 107,3484 2397,3484 2397,163" rendition="TextRegion" xml:id="facs_188_tr_2">
+            <zone points="1173,219 1193,217 1214,229 1285,227 1283,148 1252,150 1224,166 1216,163 1201,178 1170,181" rendition="Line" xml:id="facs_188_tr_2_tl_1"/>
+            <zone points="347,370 1043,367 1091,403 1596,421 2320,390 2320,316 1969,344 1734,291 1543,326 347,314" rendition="Line" xml:id="facs_188_tr_2_tl_2"/>
+            <zone points="347,525 2333,541 2333,477 347,462" rendition="Line" xml:id="facs_188_tr_2_tl_3"/>
+            <zone points="334,660 2290,694 2290,625 1229,648 334,609" rendition="Line" xml:id="facs_188_tr_2_tl_4"/>
+            <zone points="342,821 2361,836 2361,773 2272,768 2178,798 342,757" rendition="Line" xml:id="facs_188_tr_2_tl_5"/>
+            <zone points="344,974 951,969 1117,1025 1433,1028 1545,979 2394,987 2394,926 344,905" rendition="Line" xml:id="facs_188_tr_2_tl_6"/>
+            <zone points="347,1122 2257,1148 2257,1076 347,1066" rendition="Line" xml:id="facs_188_tr_2_tl_7"/>
+            <zone points="326,1293 847,1270 1196,1346 1331,1336 1400,1275 2239,1285 2239,1224 1487,1247 1290,1170 1160,1173 1109,1219 326,1237" rendition="Line" xml:id="facs_188_tr_2_tl_8"/>
+            <zone points="334,1420 2290,1438 2290,1377 2252,1374 334,1385" rendition="Line" xml:id="facs_188_tr_2_tl_9"/>
+            <zone points="329,1568 2259,1589 2259,1522 1793,1550 1390,1504 1229,1543 329,1507" rendition="Line" xml:id="facs_188_tr_2_tl_10"/>
+            <zone points="329,1719 569,1765 2277,1747 2277,1680 2188,1673 1418,1698 329,1660" rendition="Line" xml:id="facs_188_tr_2_tl_11"/>
+            <zone points="324,1874 2208,1892 2208,1828 324,1813" rendition="Line" xml:id="facs_188_tr_2_tl_12"/>
+            <zone points="314,2020 2178,2045 2178,1974 2139,1971 806,1994 586,1956 314,1992" rendition="Line" xml:id="facs_188_tr_2_tl_13"/>
+            <zone points="232,2198 337,2170 564,2180 609,2226 701,2178 1201,2198 1283,2188 1283,2129 694,2124 589,2040 411,2055 326,2111 229,2099" rendition="Line" xml:id="facs_188_tr_2_tl_14"/>
+            <zone points="515,2323 2292,2349 2292,2295 2104,2270 515,2267" rendition="Line" xml:id="facs_188_tr_2_tl_15" subtype="paragraph"/>
+            <zone points="314,2514 1051,2530 1206,2481 1334,2484 1446,2547 2318,2532 2349,2425 311,2443" rendition="Line" xml:id="facs_188_tr_2_tl_16"/>
+            <zone points="250,2624 2252,2632 2252,2583 250,2581" rendition="Line" xml:id="facs_188_tr_2_tl_18"/>
+            <zone points="316,2772 2017,2790 2017,2718 316,2741" rendition="Line" xml:id="facs_188_tr_2_tl_19"/>
+            <zone points="309,2927 1976,2940 1976,2871 309,2874" rendition="Line" xml:id="facs_188_tr_2_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0188.jpg" n="part1_p188.jpg" xml:id="img_0188" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p188.jpg"/>
+            
+            <ab facs="#facs_188_tr_2">
+               <lb facs="#facs_188_tr_2_tl_1" n="N001"/>[184]
+               <lb facs="#facs_188_tr_2_tl_2" n="N002"/><rs type="keyword" ref="#Physics">disturbing elements but because of the kind of question which one asks [of] nature. <rs type="keyword" ref="#Pythagorean_School"><rs type="person">Galileo</rs> was not</rs>
+               <lb break="no" facs="#facs_188_tr_2_tl_3" n="N003"/><rs type="keyword" ref="#Physics">a greater physicist than the Pythagoreans and, in the biological realm, <rs type="person">Aristotle</rs>. </rs>But Aristotle and the
+               <lb break="no" facs="#facs_188_tr_2_tl_4" n="N004"/>Pythagoreans asked different questions and got different answers from nature. The questions
+               <lb break="no" facs="#facs_188_tr_2_tl_5" n="N005"/>asked in the period of the Renaissance were always intimately related to technical activity, which is
+               <lb break="no" facs="#facs_188_tr_2_tl_6" n="N006"/>NOT the case in Greece. Now these are presuppositions which make the ideal of pure science impossible.
+               <lb break="no" facs="#facs_188_tr_2_tl_7" n="N007"/>And that's what modern scientists acknowledge---and I think universally acknowledge. It was very
+               <lb break="no" facs="#facs_188_tr_2_tl_8" n="N008"/>interesting to me, when I had a talk with Einstein one day, and he sticked, even against the better
+               <lb break="no" facs="#facs_188_tr_2_tl_9" n="N009"/>evidence of today, to his naturalistic worldview which he had learned in the 19th century and which
+               <lb break="no" facs="#facs_188_tr_2_tl_10" n="N010"/>brought with him a Newtonian deterministic whole of atomic movements. He said: "I know that
+               <lb break="no" facs="#facs_188_tr_2_tl_11" n="N011"/>today, in the light of the theory of quanta, this system, this metaphysical presupposition, is shaken,
+               <lb break="no" facs="#facs_188_tr_2_tl_12" n="N012"/>is not unambiguously valid any more, as it seemed to be in the period of Newton and ever since.
+               <lb break="no" facs="#facs_188_tr_2_tl_13" n="N013"/>But nevertheless, I believe in it, and I am convinced that one day it will prove to be the RIGHT
+               <lb break="no" facs="#facs_188_tr_2_tl_14" n="N014"/>FRAMEWORK of the physical worldview again."
+               <lb break="no" facs="#facs_188_tr_2_tl_15" n="N015"/>Now here you have an example of a man whom you certainly cannot accuse of NOT being
+               <lb break="no" facs="#facs_188_tr_2_tl_16" n="N016"/>a methodologically adequate physicist <hi style="font-style: italic;">[some laughter]</hi> who saw the importance of the presuppositions.</rs>
+               <lb facs="#facs_188_tr_2_tl_18" n="N017"/>Now up to today, his hope has not been justified---I am very doubtful whether it will be. But now
+               <lb facs="#facs_188_tr_2_tl_19" n="N018"/>these younger <rs type="keyword" ref="#Physics">physicists</rs> are ALSO aware of THEIR<rs type="keyword" ref="#Metaphysics"> metaphysical</rs> presuppositions and
+               <lb facs="#facs_188_tr_2_tl_20" n="N019"/>implications, and they confess that, very openly, and I think that is a good situation.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

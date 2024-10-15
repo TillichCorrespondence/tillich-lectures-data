@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p262</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p262</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_262">
+         <graphic url="TL-0262.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QIFQFUAWXHDMAFVRZZVCCYOQ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="328,246 328,3491 2382,3491 2382,246" rendition="TextRegion" xml:id="facs_262_tr_2">
+            <zone points="1197,303 1220,311 1230,321 1254,321 1259,326 1269,326 1277,319 1325,319 1325,262 1295,262 1287,270 1272,272 1248,249 1228,270 1197,267" rendition="Line" xml:id="facs_262_tr_2_tl_1"/>
+            <zone points="360,429 2276,452 2276,396 1480,385 1385,295 1290,388 357,378" rendition="Line" xml:id="facs_262_tr_2_tl_2"/>
+            <zone points="344,568 1924,596 1924,534 1521,552 1336,509 1174,550 344,542" rendition="Line" xml:id="facs_262_tr_2_tl_3"/>
+            <zone points="347,727 2014,740 2081,789 2145,753 2142,683 347,668" rendition="Line" xml:id="facs_262_tr_2_tl_4"/>
+            <zone points="344,879 2165,902 2165,840 2088,835 344,819" rendition="Line" xml:id="facs_262_tr_2_tl_5"/>
+            <zone points="342,1028 2160,1056 2219,1045 2217,984 339,974" rendition="Line" xml:id="facs_262_tr_2_tl_6"/>
+            <zone points="344,1182 2212,1197 2171,1141 344,1125" rendition="Line" xml:id="facs_262_tr_2_tl_7"/>
+            <zone points="331,1323 2173,1356 2173,1290 331,1297" rendition="Line" xml:id="facs_262_tr_2_tl_8"/>
+            <zone points="334,1469 2309,1508 2309,1438 2271,1436 334,1444" rendition="Line" xml:id="facs_262_tr_2_tl_9"/>
+            <zone points="329,1623 2240,1652 2240,1593 2150,1590 329,1593" rendition="Line" xml:id="facs_262_tr_2_tl_10"/>
+            <zone points="331,1778 2199,1798 2165,1736 331,1749" rendition="Line" xml:id="facs_262_tr_2_tl_11"/>
+            <zone points="331,1929 2140,1950 2140,1891 331,1901" rendition="Line" xml:id="facs_262_tr_2_tl_12"/>
+            <zone points="334,2065 2250,2109 2248,2042 2158,2037 447,2047 334,2009" rendition="Line" xml:id="facs_262_tr_2_tl_13"/>
+            <zone points="850,2245 2158,2255 2158,2204 850,2196" rendition="Line" xml:id="facs_262_tr_2_tl_16"/>
+            <zone points="321,2422 2237,2412 2237,2353 321,2356" rendition="Line" xml:id="facs_262_tr_2_tl_17"/>
+            <zone points="321,2540 2296,2566 2260,2502 432,2474 321,2507" rendition="Line" xml:id="facs_262_tr_2_tl_18"/>
+            <zone points="511,2692 2230,2710 2230,2654 511,2666" rendition="Line" xml:id="facs_262_tr_2_tl_19" subtype="paragraph"/>
+            <zone points="313,2838 2379,2862 2379,2800 313,2813" rendition="Line" xml:id="facs_262_tr_2_tl_20"/>
+            <zone points="313,3005 974,3005 974,2954 313,2954" rendition="Line" xml:id="facs_262_tr_2_tl_21"/>
+            <zone points="511,3142 2296,3170 2296,3093 2214,3124 2009,3088 511,3111" rendition="Line" xml:id="facs_262_tr_2_tl_22" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0262.jpg" n="part1_p262.jpg" xml:id="img_0262" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p262.jpg"/>
+            
+            <ab facs="#facs_262_tr_2">
+               <lb facs="#facs_262_tr_2_tl_1" n="N001"/>[258]
+               <lb facs="#facs_262_tr_2_tl_2" n="N002"/>worked with brain-injured people (he is a neurologist) who showed characteristics which gave a key
+               <lb facs="#facs_262_tr_2_tl_3" n="N003"/>to the functioning of an integrated mind. This functioning was reduced, in the
+               <lb facs="#facs_262_tr_2_tl_4" n="N004"/>brain-injured, to very special limits. These limits can be described exactly and scientifically.
+               <lb facs="#facs_262_tr_2_tl_5" n="N005"/>In these descriptions it came out that one function was reduced more than anything else,
+               <lb facs="#facs_262_tr_2_tl_6" n="N006"/>the function of <rs type="keyword" ref="#Abstraction">abstraction</rs>, which is the great function of the human mind on which language is
+               <lb facs="#facs_262_tr_2_tl_7" n="N007"/>based. The brain-injured cannot transcend the limits of his reduced existence. He has no world
+               <lb facs="#facs_262_tr_2_tl_8" n="N008"/>any more, he has given environments. To these given environments, he can adapt himself very
+               <lb facs="#facs_262_tr_2_tl_9" n="N009"/>well, but he can do so only with the help of others who can put him into these limited surroundings;
+               <lb facs="#facs_262_tr_2_tl_10" n="N010"/>he cannot transcend the real for the possible. This, for instance, has one advantage: these people
+               <lb facs="#facs_262_tr_2_tl_11" n="N011"/>cannot lie, they cannot say a lie, and they cannot understand if someone says something that is
+               <lb facs="#facs_262_tr_2_tl_12" n="N012"/>obviously a lie. If one of these people were here and I would ask him to repeat the sentence
+               <lb facs="#facs_262_tr_2_tl_13" n="N013"/>"The sun is shining now," he would not be able to. You WOULD be (although it does not shine);
+               <lb facs="#facs_262_tr_2_tl_16" n="N014"/>you can lie, but they cannot because they are bound to the concrete situation and are not able
+               <lb facs="#facs_262_tr_2_tl_17" n="N015"/>to transcend it. And if you try to FORCE them to say such a sentence, they have what <rs type="person">Goldstein</rs>
+               <lb facs="#facs_262_tr_2_tl_18" n="N016"/>calls a catastrophic reaction; they fall into a tremendous state of anxiety and almost self-destruction.
+               <lb facs="#facs_262_tr_2_tl_19" n="N017"/>Now this shows that man has the possibility of transcending himself. This was another
+               <lb facs="#facs_262_tr_2_tl_20" n="N018"/>element which was added to the <rs type="keyword" ref="#Gestalt">gestalt </rs>psychology, it was the psychology of spontaneity in terms of the
+               <lb facs="#facs_262_tr_2_tl_21" n="N019"/>possibility of self-transcendence.
+               <lb facs="#facs_262_tr_2_tl_22" n="N020"/>Out of this, another insight followed, namely the insight into the nature of the <rs type="keyword" ref="#Spontaneity">spontaneity</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

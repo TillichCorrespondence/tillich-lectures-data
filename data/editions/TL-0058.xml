@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p058</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p058</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_58">
+         <graphic url="TL-0058.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WDFDLIMQKUALCNXYUWLOVNKY&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="322,246 322,3447 2280,3447 2280,246" rendition="TextRegion" xml:id="facs_58_tr_2">
+            <zone points="1255,289 1266,289 1281,303 1350,303 1352,238 1328,236 1307,253 1288,234 1257,236" rendition="Line" xml:id="facs_58_tr_2_tl_1"/>
+            <zone points="358,456 923,446 980,494 1286,446 2049,475 2049,415 1512,386 358,398" rendition="Line" xml:id="facs_58_tr_2_tl_2"/>
+            <zone points="365,539 646,534 789,582 1307,546 1467,596 1584,544 2056,568 2056,513 1867,503 365,489" rendition="Line" xml:id="facs_58_tr_2_tl_3"/>
+            <zone points="351,620 890,625 1176,675 1297,627 2209,646 2209,596 1989,582 351,594" rendition="Line" xml:id="facs_58_tr_2_tl_4"/>
+            <zone points="360,739 739,706 2273,735 2273,682 1982,663 1913,696 360,656" rendition="Line" xml:id="facs_58_tr_2_tl_5"/>
+            <zone points="651,875 2254,902 2254,844 2135,837 651,828" rendition="Line" xml:id="facs_58_tr_2_tl_6" subtype="paragraph"/>
+            <zone points="351,954 2161,978 2161,928 2008,918 351,906" rendition="Line" xml:id="facs_58_tr_2_tl_7"/>
+            <zone points="351,1040 653,1092 1224,1059 1290,1092 2096,1095 2113,1016 348,1011" rendition="Line" xml:id="facs_58_tr_2_tl_8"/>
+            <zone points="348,1157 673,1123 2209,1150 2206,1099 2137,1088 346,1078" rendition="Line" xml:id="facs_58_tr_2_tl_9"/>
+            <zone points="341,1209 2216,1252 2216,1185 2046,1166 1872,1200 830,1154 341,1181" rendition="Line" xml:id="facs_58_tr_2_tl_10"/>
+            <zone points="346,1295 367,1302 382,1297 410,1309 432,1297 482,1300 501,1295 501,1255 463,1255 446,1240 417,1240 408,1250 377,1247 360,1264 346,1264" rendition="Line" xml:id="facs_58_tr_2_tl_11"/>
+            <zone points="651,1379 2199,1405 2199,1345 1934,1328 651,1328" rendition="Line" xml:id="facs_58_tr_2_tl_12" subtype="paragraph"/>
+            <zone points="346,1462 642,1455 720,1507 1035,1510 1233,1462 2163,1510 2163,1429 1941,1448 1829,1410 1782,1448 1057,1400 935,1438 694,1395 346,1426" rendition="Line" xml:id="facs_58_tr_2_tl_13"/>
+            <zone points="341,1572 642,1538 2104,1572 2065,1507 341,1498" rendition="Line" xml:id="facs_58_tr_2_tl_14"/>
+            <zone points="341,1624 2139,1653 2139,1603 2063,1591 341,1581" rendition="Line" xml:id="facs_58_tr_2_tl_15"/>
+            <zone points="348,1710 2139,1741 2170,1686 346,1660" rendition="Line" xml:id="facs_58_tr_2_tl_16"/>
+            <zone points="339,1789 2070,1822 2113,1820 2113,1770 336,1748" rendition="Line" xml:id="facs_58_tr_2_tl_17"/>
+            <zone points="334,1882 2151,1903 2151,1853 1977,1841 334,1834" rendition="Line" xml:id="facs_58_tr_2_tl_18"/>
+            <zone points="346,1972 487,2003 537,1970 1047,1972 1286,2018 1362,1970 2120,1989 2120,1929 1786,1913 1686,1951 346,1906" rendition="Line" xml:id="facs_58_tr_2_tl_19"/>
+            <zone points="327,2044 1018,2049 1281,2099 1429,2056 2101,2070 2101,2022 1994,1991 1932,2025 327,2015" rendition="Line" xml:id="facs_58_tr_2_tl_20"/>
+            <zone points="360,2142 1994,2161 2092,2154 2092,2111 358,2087" rendition="Line" xml:id="facs_58_tr_2_tl_21"/>
+            <zone points="324,2211 1534,2220 1603,2275 2087,2249 2084,2182 1999,2206 1927,2163 1514,2201 1381,2166 1130,2197 1057,2163 322,2166" rendition="Line" xml:id="facs_58_tr_2_tl_22"/>
+            <zone points="327,2299 549,2340 754,2294 2175,2328 2175,2273 327,2256" rendition="Line" xml:id="facs_58_tr_2_tl_23"/>
+            <zone points="324,2383 1197,2430 1338,2387 2006,2414 2003,2352 322,2342" rendition="Line" xml:id="facs_58_tr_2_tl_25"/>
+            <zone points="322,2471 1612,2492 1572,2433 706,2433 627,2399 322,2428" rendition="Line" xml:id="facs_58_tr_2_tl_26"/>
+            <zone points="618,2578 2218,2581 2218,2528 615,2516" rendition="Line" xml:id="facs_58_tr_2_tl_27" subtype="paragraph"/>
+            <zone points="322,2640 537,2676 766,2638 1913,2669 2113,2659 2113,2614 1469,2592 1429,2626 1276,2585 668,2616 436,2578 320,2614" rendition="Line" xml:id="facs_58_tr_2_tl_28"/>
+            <zone points="315,2719 2094,2757 2061,2690 1090,2705 403,2662 315,2693" rendition="Line" xml:id="facs_58_tr_2_tl_29"/>
+            <zone points="317,2807 539,2800 656,2850 1002,2814 2135,2850 2135,2767 1987,2798 317,2767" rendition="Line" xml:id="facs_58_tr_2_tl_30"/>
+            <zone points="315,2886 1169,2895 1207,2934 1421,2895 1629,2948 2046,2948 2113,2922 2113,2864 312,2850" rendition="Line" xml:id="facs_58_tr_2_tl_31"/>
+            <zone points="310,2986 2204,3010 2204,2950 2053,2945 310,2948" rendition="Line" xml:id="facs_58_tr_2_tl_32"/>
+            <zone points="334,3019 1088,3074 2075,3060 2075,3015 2011,3007 334,2998" rendition="Line" xml:id="facs_58_tr_2_tl_33" subtype="footnote"/>
+            <zone points="410,3091 715,3103 742,3084 835,3110 880,3091 911,3122 954,3093 1011,3108 1011,3048 918,3046 878,3072 854,3048 763,3041 732,3058 410,3048" rendition="Line" xml:id="facs_58_tr_2_tl_34" subtype="footnote-continued"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0058.jpg" n="part1_p058.jpg" xml:id="img_0058" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p058.jpg"/>
+            
+            <ab facs="#facs_58_tr_2">
+               <lb facs="#facs_58_tr_2_tl_1" n="N001"/>[55]
+               <lb facs="#facs_58_tr_2_tl_2" n="N002"/>is the transcendent realm: God. Second: divine attributes and divine actions.
+               <lb facs="#facs_58_tr_2_tl_3" n="N003"/>Then, in the immanent realm, there are also three levels: divine manifestations,
+               <lb facs="#facs_58_tr_2_tl_4" n="N004"/>sacramental realities, and sign-symbols (sings which have become symbols). So we have
+               <lb facs="#facs_58_tr_2_tl_5" n="N005"/>six levels, and in these levels you will usually find anything belonging to religious symbols.
+               <lb facs="#facs_58_tr_2_tl_6" n="N006"/>We come now to the way in which these symbols appear in actual religion.
+               <lb facs="#facs_58_tr_2_tl_7" n="N007"/><rs type="keyword" ref="#Myth">They do not appear in isolation. It is not so, that here is a symbol, and there is a
+               <lb break="no" facs="#facs_58_tr_2_tl_8" n="N008"/>symbol, but they appear in combination, and a combination of symbols is called a
+               <lb break="no" facs="#facs_58_tr_2_tl_9" n="N009"/>myth. So we come now to this very important term in religious language, and perhaps
+               <lb break="no" facs="#facs_58_tr_2_tl_10" n="N010"/>also in other forms of language--you can also speak of political myths, and of historical
+               <lb break="no" facs="#facs_58_tr_2_tl_11" n="N011"/>myths.
+               <lb break="no" facs="#facs_58_tr_2_tl_12" n="N012"/>The English word ''myth'' is a translation of the Greek μυθος [<hi style="font-style: italic;">mythos</hi>],
+               <lb break="no" facs="#facs_58_tr_2_tl_13" n="N013"/>which means ''story of the gods,'' in the later [use?] of the term. Myths are stories
+               <lb break="no" facs="#facs_58_tr_2_tl_14" n="N014"/>of the gods. The gods, in all mythology, are individualized figures: Zeus, Apollo,
+               <lb break="no" facs="#facs_58_tr_2_tl_15" n="N015"/>Dionysius, Hera, Aphrodite, etc. They are sexually differentiated, like human beings.
+               <lb break="no" facs="#facs_58_tr_2_tl_16" n="N016"/>They come from each other, and all together form an original chaotic state of things.
+               <lb break="no" facs="#facs_58_tr_2_tl_17" n="N017"/>They are related to each other in love and hate. They produce the earth, and man
+               <lb break="no" facs="#facs_58_tr_2_tl_18" n="N018"/>upon it. They act in time and space against each other, with man, and against man.
+               <lb break="no" facs="#facs_58_tr_2_tl_19" n="N019"/>They participate in human greatness and human misery. They produce creative and
+               <lb break="no" facs="#facs_58_tr_2_tl_20" n="N020"/>destructive works through man. They give to man cultural and religious traditions.
+               <lb break="no" facs="#facs_58_tr_2_tl_21" n="N021"/>They defend the sacred rites. They help and threaten the human race. They are
+               <lb break="no" facs="#facs_58_tr_2_tl_22" n="N022"/>especially interested in some families, tribes or nations. They have epiphanies and
+               <lb break="no" facs="#facs_58_tr_2_tl_23" n="N023"/>incarnations. They establish sacred places, rites and persons. They create a cult. But
+               <lb break="no" facs="#facs_58_tr_2_tl_25" n="N024"/>they themselves are under the command and threat of a fate (fatum, ειμαρμενη)
+               <lb break="no" facs="#facs_58_tr_2_tl_26" n="N025"/>[heimarmene]*, which is beyond everything, even the gods.
+               <lb break="no" facs="#facs_58_tr_2_tl_27" n="N026"/>Now this is mythology. I gave you this according to the pattern of Greek
+               <lb break="no" facs="#facs_58_tr_2_tl_28" n="N027"/>mythology, but you will find very similar things in all mythologies. Many of these
+               <lb break="no" facs="#facs_58_tr_2_tl_29" n="N028"/>characteristics are found everywhere. Usually the mythological gods are not equals,
+               <lb break="no" facs="#facs_58_tr_2_tl_30" n="N029"/>but there is a hierarchy among them, as in aristocratic societies. On the top of this
+               <lb break="no" facs="#facs_58_tr_2_tl_31" n="N030"/>hierarchy is a ruling god, as in Greece: Zeus. Or there is a trinity of ruling gods,
+               <lb break="no" facs="#facs_58_tr_2_tl_32" n="N031"/>as In India. Or a duality, as in Persia. And there are savior-gods who mediate between</rs>
+               <lb facs="#facs_58_tr_2_tl_33" n="N032"/>*cf. Helmut Koester, Introduction to the New Testament, Vol. I, pp. 158f. (Phila.:
+               <lb facs="#facs_58_tr_2_tl_34" n="N033"/>Fortress Press, 1982). (Ed.)
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

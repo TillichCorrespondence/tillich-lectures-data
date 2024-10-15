@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p045</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p045</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_45">
+         <graphic url="TL-0329.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VBSVDOIEKKIMSRRYYINRSNEV&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="179,63 2224,63 2224,986 179,986" rendition="TextRegion" xml:id="facs_45_tr_3">
+            <zone points="1138,364 1189,374 1253,374 1251,295 1202,300 1192,292 1172,310 1135,312" rendition="Line" xml:id="facs_45_tr_3_tl_2"/>
+            <zone points="464,521 1374,521 1462,582 1706,519 2199,516 2199,460 786,489 582,410 464,489" rendition="Line" xml:id="facs_45_tr_3_tl_3" subtype="paragraph"/>
+            <zone points="292,678 1983,678 2190,668 2190,612 292,654" rendition="Line" xml:id="facs_45_tr_3_tl_4"/>
+            <zone points="290,833 2138,823 2140,764 290,786" rendition="Line" xml:id="facs_45_tr_3_tl_5"/>
+            <zone points="290,983 2204,966 2219,909 292,949" rendition="Line" xml:id="facs_45_tr_3_tl_6"/>
+         </zone>
+         <zone points="298,1054 2263,1054 2263,2882 298,2882" rendition="TextRegion" xml:id="facs_45_tr_1">
+            <zone points="290,1126 1922,1126 2143,1116 2143,1064 290,1081" rendition="Line" xml:id="facs_45_tr_1_tl_1"/>
+            <zone points="300,1278 2077,1275 2217,1268 2217,1207 300,1251" rendition="Line" xml:id="facs_45_tr_1_tl_2"/>
+            <zone points="285,1433 297,1433 310,1445 339,1438 351,1450 361,1450 376,1435 420,1438 418,1384 283,1384" rendition="Line" xml:id="facs_45_tr_1_tl_3"/>
+            <zone points="467,1509 2165,1494 2116,1425 467,1438" rendition="Line" xml:id="facs_45_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="290,1659 2182,1647 2229,1588 290,1629" rendition="Line" xml:id="facs_45_tr_1_tl_5"/>
+            <zone points="292,1816 1897,1816 2182,1801 2182,1755 292,1784" rendition="Line" xml:id="facs_45_tr_1_tl_7"/>
+            <zone points="285,1968 2091,1956 2128,1900 285,1939" rendition="Line" xml:id="facs_45_tr_1_tl_8"/>
+            <zone points="285,2118 2182,2116 2256,2111 2256,2050 285,2094" rendition="Line" xml:id="facs_45_tr_1_tl_9"/>
+            <zone points="292,2263 2224,2244 2109,2187 295,2222" rendition="Line" xml:id="facs_45_tr_1_tl_10"/>
+            <zone points="285,2413 2153,2401 2153,2352 2040,2347 288,2369" rendition="Line" xml:id="facs_45_tr_1_tl_11"/>
+            <zone points="285,2571 2118,2566 2190,2499 288,2544" rendition="Line" xml:id="facs_45_tr_1_tl_12"/>
+            <zone points="285,2720 1799,2720 2133,2703 2133,2654 285,2679" rendition="Line" xml:id="facs_45_tr_1_tl_13"/>
+            <zone points="285,2880 2013,2861 2133,2851 2133,2797 285,2826" rendition="Line" xml:id="facs_45_tr_1_tl_14"/>
+         </zone>
+         <zone points="53,2944 2245,2944 2245,3494 53,3494" rendition="TextRegion" xml:id="facs_45_tr_2">
+            <zone points="285,3033 2128,3020 2239,3006 2239,2949 288,2978" rendition="Line" xml:id="facs_45_tr_2_tl_1"/>
+            <zone points="288,3180 1214,3190 1465,3175 1465,3123 288,3136" rendition="Line" xml:id="facs_45_tr_2_tl_2"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0329.jpg" n="part2_p045.jpg" xml:id="img_0045" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p045.jpg"/>
+            
+            <ab facs="#facs_45_tr_3">
+               <lb facs="#facs_45_tr_3_tl_2" n="N001"/>[324]
+               <lb facs="#facs_45_tr_3_tl_3" n="N002"/>3) A third element stands against formalism, namely meaning, which is sometimes called
+               <lb facs="#facs_45_tr_3_tl_4" n="N003"/>content, but the word content is ambiguous because it often stands for subject matter, so instead
+               <lb facs="#facs_45_tr_3_tl_5" n="N004"/>I use the word meaning. The meaning is neither the subject matter nor is it the form, but it is
+               <lb facs="#facs_45_tr_3_tl_6" n="N005"/>something which cannot be expressed in any other way THAN by the artistic symbols: it is that
+            </ab>
+            <ab facs="#facs_45_tr_1">
+               <lb facs="#facs_45_tr_1_tl_1" n="N001"/>which is opened up by them and that which is present in our soul IF it is opened up. But this
+               <lb facs="#facs_45_tr_1_tl_2" n="N002"/>meaning can be read in some way in the form, and if we do this we come to what is usually called
+               <lb facs="#facs_45_tr_1_tl_3" n="N003"/>style.
+               <lb facs="#facs_45_tr_1_tl_4" n="N004"/>Style is a very interesting phenomenon. Of course style expresses itself in both, in the
+               <lb facs="#facs_45_tr_1_tl_5" n="N005"/>choice of subject matter and in the form. It is an overall form, if you want, but it is also an overall
+               <lb facs="#facs_45_tr_1_tl_7" n="N006"/>term towards [i.e. for?] special subject matter. What is style in this sense? Style is the experience of life
+               <lb facs="#facs_45_tr_1_tl_8" n="N007"/>as such, expressed as an overall form, or way of expression, in all realms of life. It is first and
+               <lb facs="#facs_45_tr_1_tl_9" n="N008"/>mostly applied to the realm of arts, but there is not only artistic style, there is also style of thought.
+               <lb facs="#facs_45_tr_1_tl_10" n="N009"/>Logical positivism is not only a method, it is also a style of thought. And it is present in politics---
+               <lb facs="#facs_45_tr_1_tl_11" n="N010"/>19th century balance-of-power politics in Europe was a style of politics expressing an ultimate
+               <lb facs="#facs_45_tr_1_tl_12" n="N011"/>meaning in life. There are styles of social relations, in the relation of the sexes to each other, for
+               <lb facs="#facs_45_tr_1_tl_13" n="N012"/>instance, and every period has a different style, in this relationship. Now I speak here about a
+               <lb facs="#facs_45_tr_1_tl_14" n="N013"/>special realm, the artistic realm, which is dependent on the overall style but which has a most
+            </ab>
+            <ab facs="#facs_45_tr_2">
+               <lb facs="#facs_45_tr_2_tl_1" n="N001"/>impressive function within the overall style, because of what I called last time the expressive power
+               <lb facs="#facs_45_tr_2_tl_2" n="N002"/>of a work of art. It is more expressive than any other style.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

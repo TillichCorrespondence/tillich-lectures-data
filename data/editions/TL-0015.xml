@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p015</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p015</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_15">
+         <graphic url="TL-0015.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AWNQBPMRGEFULKYWEUNQYNNS&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="191,284 191,3434 2427,3434 2427,284" rendition="TextRegion" xml:id="facs_15_tr_1">
+            <zone points="1202,334 1227,331 1239,341 1300,341 1297,276 1274,278 1262,266 1257,266 1229,296 1199,296" rendition="Line" xml:id="facs_15_tr_1_tl_1"/>
+            <zone points="248,494 936,539 1330,497 2205,507 2205,459 248,434" rendition="Line" xml:id="facs_15_tr_1_tl_2"/>
+            <zone points="248,577 1094,635 1277,580 2248,605 2248,552 2047,567 2004,529 1897,562 248,524" rendition="Line" xml:id="facs_15_tr_1_tl_3"/>
+            <zone points="248,662 1199,665 1262,710 2258,735 2255,635 248,615" rendition="Line" xml:id="facs_15_tr_1_tl_4"/>
+            <zone points="243,745 2175,773 2173,718 2092,707 243,700" rendition="Line" xml:id="facs_15_tr_1_tl_5"/>
+            <zone points="243,833 2175,850 2175,805 2070,793 243,793" rendition="Line" xml:id="facs_15_tr_1_tl_6"/>
+            <zone points="238,908 421,926 527,908 559,926 612,918 630,936 682,918 725,926 725,873 635,871 612,888 512,861 469,886 396,868 336,886 286,858 236,871" rendition="Line" xml:id="facs_15_tr_1_tl_7"/>
+            <zone points="489,998 1177,1054 1440,1004 2245,1029 2243,951 2052,933 1929,978 1553,946 1440,976 1284,921 652,966 489,933" rendition="Line" xml:id="facs_15_tr_1_tl_8" subtype="paragraph"/>
+            <zone points="238,1124 733,1124 800,1084 2122,1124 2122,1044 1974,1029 1287,1061 238,1034" rendition="Line" xml:id="facs_15_tr_1_tl_9"/>
+            <zone points="233,1204 464,1199 504,1159 559,1207 1141,1227 1458,1172 2155,1184 2125,1131 1169,1134 1086,1091 1029,1129 233,1124" rendition="Line" xml:id="facs_15_tr_1_tl_10"/>
+            <zone points="228,1242 2115,1272 2112,1222 2002,1209 228,1204" rendition="Line" xml:id="facs_15_tr_1_tl_11"/>
+            <zone points="236,1350 2117,1352 2115,1289 1508,1262 236,1287" rendition="Line" xml:id="facs_15_tr_1_tl_12"/>
+            <zone points="231,1417 1518,1458 1796,1425 2017,1475 2060,1473 2057,1392 228,1385" rendition="Line" xml:id="facs_15_tr_1_tl_13"/>
+            <zone points="236,1535 976,1545 1036,1505 1513,1518 1553,1555 2082,1540 2082,1478 233,1448" rendition="Line" xml:id="facs_15_tr_1_tl_14"/>
+            <zone points="221,1598 610,1636 820,1583 1152,1626 2163,1613 2163,1563 2092,1548 1646,1573 1460,1515 820,1563 221,1543" rendition="Line" xml:id="facs_15_tr_1_tl_15"/>
+            <zone points="223,1673 2168,1693 2168,1638 223,1628" rendition="Line" xml:id="facs_15_tr_1_tl_16"/>
+            <zone points="216,1751 2060,1784 2057,1726 2007,1711 216,1721" rendition="Line" xml:id="facs_15_tr_1_tl_17"/>
+            <zone points="216,1834 2180,1884 2147,1799 216,1809" rendition="Line" xml:id="facs_15_tr_1_tl_18"/>
+            <zone points="218,1932 1503,1957 1475,1882 218,1879" rendition="Line" xml:id="facs_15_tr_1_tl_20"/>
+            <zone points="464,2004 820,2010 878,2052 1086,2052 1129,2012 1498,2015 1553,2055 2105,2017 2052,1974 1628,1959 1568,1992 464,1962" rendition="Line" xml:id="facs_15_tr_1_tl_22" subtype="paragraph"/>
+            <zone points="216,2092 341,2137 2135,2117 2135,2047 1944,2080 216,2047" rendition="Line" xml:id="facs_15_tr_1_tl_23"/>
+            <zone points="206,2173 2203,2198 2175,2140 206,2132" rendition="Line" xml:id="facs_15_tr_1_tl_24"/>
+            <zone points="206,2273 2215,2306 2213,2205 206,2198" rendition="Line" xml:id="facs_15_tr_1_tl_25"/>
+            <zone points="203,2348 286,2356 324,2393 396,2368 835,2371 833,2280 258,2283 201,2308" rendition="Line" xml:id="facs_15_tr_1_tl_26"/>
+            <zone points="449,2504 803,2506 928,2561 1596,2566 1641,2521 2265,2534 2263,2476 1096,2426 447,2461" rendition="Line" xml:id="facs_15_tr_1_tl_27" subtype="paragraph"/>
+            <zone points="201,2592 2047,2622 2107,2614 2105,2564 198,2549" rendition="Line" xml:id="facs_15_tr_1_tl_28"/>
+            <zone points="203,2684 1209,2682 1435,2730 2032,2742 2107,2725 2105,2639 1520,2599 1209,2659 201,2634" rendition="Line" xml:id="facs_15_tr_1_tl_29"/>
+            <zone points="201,2760 1412,2767 1693,2820 1819,2772 2213,2797 2213,2737 201,2712" rendition="Line" xml:id="facs_15_tr_1_tl_30"/>
+            <zone points="193,2845 439,2885 702,2847 2090,2878 2090,2820 1969,2810 193,2802" rendition="Line" xml:id="facs_15_tr_1_tl_32"/>
+            <zone points="193,2930 572,2935 640,2980 926,2980 986,2933 2205,2958 2205,2903 1947,2893 193,2898" rendition="Line" xml:id="facs_15_tr_1_tl_35"/>
+            <zone points="186,3016 2193,3036 2193,2985 2050,2975 1997,3005 186,2970" rendition="Line" xml:id="facs_15_tr_1_tl_37"/>
+            <zone points="183,3093 697,3101 758,3141 2163,3126 2163,3073 2105,3063 183,3071" rendition="Line" xml:id="facs_15_tr_1_tl_38"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0015.jpg" n="part1_p015.jpg" xml:id="img_0015" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p015.jpg"/>
+            
+            <ab facs="#facs_15_tr_1">
+               <lb facs="#facs_15_tr_1_tl_1" n="N001"/>[12]
+               <lb facs="#facs_15_tr_1_tl_2" n="N002"/>application, namely historical knowledge, based on natural human curiosity to hear stories
+               <lb facs="#facs_15_tr_1_tl_3" n="N003"/>how it really has been--without ANY purpose. The people who gathered in public places in
+               <lb facs="#facs_15_tr_1_tl_4" n="N004"/>Greece to hear the ethical stories of Homer didn't want to use them for any special purpose,
+               <lb facs="#facs_15_tr_1_tl_5" n="N005"/>but they had a happy life when they listened to these internal, voices [forces?]. All of
+               <lb facs="#facs_15_tr_1_tl_6" n="N006"/>historical science is based on the same passion, to know how it really has been, to know
+               <lb facs="#facs_15_tr_1_tl_7" n="N007"/>the story of the past.
+               <lb facs="#facs_15_tr_1_tl_8" n="N008"/><rs type="keyword" ref="#Ontology">Finally, the knowledge of philosophy, which includes the question: "How is the
+               <lb break="no" facs="#facs_15_tr_1_tl_9" n="N009"/>structure of being-itself?"--not any special being, not even human being, but being-itself
+               <lb break="no" facs="#facs_15_tr_1_tl_10" n="N010"/>universally</rs>. This is the greatest of all curiosities and it is a curiosity which is so funda-
+               <lb facs="#facs_15_tr_1_tl_11" n="N011"/>mental for the human mind that in every primitive myth, the philosophical question is
+               <lb facs="#facs_15_tr_1_tl_12" n="N012"/>present, expressed in a poetic-intuitive way, united with conceptual elements. Only later
+               <lb facs="#facs_15_tr_1_tl_13" n="N013"/>do the conceptual elements become independent. <rs type="keyword" ref="#Philosophy_of_Philosophy">But again I would say: every true
+               <lb break="no" facs="#facs_15_tr_1_tl_14" n="N014"/>philosopher is driven by the eros, by the love, to know what that being in which he
+               <lb break="no" facs="#facs_15_tr_1_tl_15" n="N015"/>finds himself, really is. He wants to know ultimate reality, and a philosophy which does
+               <lb break="no" facs="#facs_15_tr_1_tl_16" n="N016"/>not have this eros any more, which is self-sufficient in dealing with the logical presupposi-
+               <lb break="no" facs="#facs_15_tr_1_tl_17" n="N017"/>tions of science alone, is not driven by the philosophical eros. It may be driven by
+               <lb break="no" facs="#facs_15_tr_1_tl_18" n="N018"/>special scientific eros--I don’t mind this, and I don’t deny it--but philosophy as philosophy
+               <lb break="no" facs="#facs_15_tr_1_tl_20" n="N019"/>wants to KNOW what the reality is in which we are living.</rs>
+               <lb facs="#facs_15_tr_1_tl_22" n="N020"/>Now this is the third function--again dependent on language, on universals--
+               <lb facs="#facs_15_tr_1_tl_23" n="N021"/>the perceptive or cognitive function of human culture. And as you can imagine, this will
+               <lb facs="#facs_15_tr_1_tl_24" n="N022"/>be a very central problem for our discussion of religion and culture. We have to deal with
+               <lb facs="#facs_15_tr_1_tl_25" n="N023"/>religion and science, with religion and historical research, with religion and depth psychology,
+               <lb facs="#facs_15_tr_1_tl_26" n="N024"/>with religion and philosophy.
+               <lb facs="#facs_15_tr_1_tl_27" n="N025"/><rs type="keyword" ref="#Aesthetic_Intuition">I come now to the fourth function of human culture, based on the encounter with
+               <lb break="no" facs="#facs_15_tr_1_tl_28" n="N026"/>reality, a function which arises as early as the production of tools, and somehow earlier
+               <lb break="no" facs="#facs_15_tr_1_tl_29" n="N027"/>as independent cognition, as the will to know--namely, the aesthetic intuition of reality.
+               <lb break="no" facs="#facs_15_tr_1_tl_30" n="N028"/>This aesthetic intution [sic.] creates the artistic forms--first of all in language, or at the same time,
+               <lb break="no" facs="#facs_15_tr_1_tl_32" n="N029"/>usually, in sounds. The first we call poetry, the second music..., the third visual arts;
+               <lb break="no" facs="#facs_15_tr_1_tl_35" n="N030"/>or in movements (dance or theater). In all these functions, the intuition of reality expresses
+               <lb break="no" facs="#facs_15_tr_1_tl_37" n="N031"/>itself, and therefore in contrast to the transforming and to the perceiving functions of man's
+               <lb break="no" facs="#facs_15_tr_1_tl_38" n="N032"/>cultural life, I call this the expressive function of man’s cultural life: the aesthetic function</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

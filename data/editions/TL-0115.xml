@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p115</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p115</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_115">
+         <graphic url="TL-0115.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SKZSNJGWZTTXRONOORVPGLKJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,205 298,3466 2394,3466 2394,205" rendition="TextRegion" xml:id="facs_115_tr_2">
+            <zone points="1075,282 1099,282 1114,295 1130,290 1135,295 1159,290 1193,292 1195,211 1159,214 1151,206 1138,206 1114,230 1078,232" rendition="Line" xml:id="facs_115_tr_2_tl_1"/>
+            <zone points="298,446 412,485 1597,485 1884,480 1939,438 1939,386 1616,373 298,397" rendition="Line" xml:id="facs_115_tr_2_tl_2"/>
+            <zone points="504,598 1086,645 1138,592 2185,582 2185,525 504,535" rendition="Line" xml:id="facs_115_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="298,760 2247,741 2247,676 2156,673 298,694" rendition="Line" xml:id="facs_115_tr_2_tl_4"/>
+            <zone points="298,890 780,895 825,934 1052,934 1125,890 2252,929 2252,846 2208,825 298,838" rendition="Line" xml:id="facs_115_tr_2_tl_5"/>
+            <zone points="295,1047 488,1096 2305,1073 2307,981 298,1021" rendition="Line" xml:id="facs_115_tr_2_tl_6"/>
+            <zone points="295,1195 444,1240 564,1201 1282,1193 1822,1242 1929,1190 2242,1190 2242,1141 2140,1122 1644,1146 1569,1112 1532,1146 295,1172" rendition="Line" xml:id="facs_115_tr_2_tl_7"/>
+            <zone points="298,1318 2247,1305 2247,1250 298,1268" rendition="Line" xml:id="facs_115_tr_2_tl_8"/>
+            <zone points="295,1467 1814,1456 1937,1490 2305,1454 2305,1396 295,1436" rendition="Line" xml:id="facs_115_tr_2_tl_9"/>
+            <zone points="295,1621 2271,1605 2271,1550 295,1574" rendition="Line" xml:id="facs_115_tr_2_tl_10"/>
+            <zone points="292,1770 2263,1757 2263,1699 292,1725" rendition="Line" xml:id="facs_115_tr_2_tl_11"/>
+            <zone points="284,1916 1848,1908 1848,1850 284,1887" rendition="Line" xml:id="facs_115_tr_2_tl_12"/>
+            <zone points="483,2067 2106,2070 2208,2062 2211,1997 483,2038" rendition="Line" xml:id="facs_115_tr_2_tl_13" subtype="paragraph"/>
+            <zone points="287,2258 2169,2229 2172,2156 290,2190" rendition="Line" xml:id="facs_115_tr_2_tl_14"/>
+            <zone points="284,2367 2252,2359 2252,2302 2205,2299 284,2341" rendition="Line" xml:id="facs_115_tr_2_tl_15"/>
+            <zone points="290,2529 1190,2519 1339,2579 1600,2534 1984,2563 2232,2511 2232,2456 2135,2448 290,2480" rendition="Line" xml:id="facs_115_tr_2_tl_16"/>
+            <zone points="295,2683 2218,2665 2242,2602 298,2623" rendition="Line" xml:id="facs_115_tr_2_tl_17"/>
+            <zone points="287,2827 2286,2811 2286,2748 2153,2746 287,2793" rendition="Line" xml:id="facs_115_tr_2_tl_18"/>
+            <zone points="292,2978 2200,2965 2391,2955 2393,2892 1007,2944 292,2918" rendition="Line" xml:id="facs_115_tr_2_tl_19"/>
+            <zone points="287,3127 2362,3137 2365,3051 2164,3038 1621,3088 290,3082" rendition="Line" xml:id="facs_115_tr_2_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0115.jpg" n="part1_p115.jpg" xml:id="img_0115" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p115.jpg"/>
+            
+            <ab facs="#facs_115_tr_2">
+               <lb facs="#facs_115_tr_2_tl_1" n="N001"/>[112]
+               <lb facs="#facs_115_tr_2_tl_2" n="N002"/>astronomy decentralized the earth and made it a small piece in an infinite universe.
+               <lb facs="#facs_115_tr_2_tl_3" n="N003"/><rs type="keyword" ref="#Creation"><rs type="keyword" ref="#Darwinism">I come to a second example for the same fundamental thesis, namely the excitement</rs>
+               <lb break="no" facs="#facs_115_tr_2_tl_4" n="N004"/><rs type="keyword" ref="#Darwinism">produced by Darwinism in the 19th, and in this context also in the beginning of the 20th, century.</rs>
+               <lb break="no" facs="#facs_115_tr_2_tl_5" n="N005"/><rs type="keyword" ref="#Darwinism">What was the reason for this excitement? It has two reasons. The one reason was that the develop-</rs>
+               <lb break="no" facs="#facs_115_tr_2_tl_6" n="N006"/><rs type="keyword" ref="#Darwinism">mental interpretation of reality and its mechanistic form seemed to contradict the symbol of creation.</rs>
+               <lb break="no" facs="#facs_115_tr_2_tl_7" n="N007"/>Creation, in traditional thinking, was understood as a divine act ''in the beginning,'' and even if the
+               <lb break="no" facs="#facs_115_tr_2_tl_8" n="N008"/>biblical story was not taken literalistically [sic.]--as it, however, very often WAS taken--but even then it
+               <lb break="no" facs="#facs_115_tr_2_tl_9" n="N009"/>was considered as an expression of a divine act with which the world process has started, and in which
+               <lb break="no" facs="#facs_115_tr_2_tl_10" n="N010"/>the divine forms of life have been produced so that they could develop independently and in mutual
+               <lb break="no" facs="#facs_115_tr_2_tl_11" n="N011"/>interdependence on earth. But the idea of a development of one of them, or all of them, out of the
+               <lb break="no" facs="#facs_115_tr_2_tl_12" n="N012"/>other ones was something which seemingly contradicted this myth of creation.
+               <lb break="no" facs="#facs_115_tr_2_tl_13" n="N013"/><rs type="keyword" ref="#Darwinism">Now what do we say to this first part of the problem of Darwinism? We must say that</rs>
+               <lb break="no" facs="#facs_115_tr_2_tl_14" n="N014"/><rs type="keyword" ref="#Darwinism">this is an idea of creation which, even if the story of Genesis is not taken literally, is literalistic.</rs>
+               <lb break="no" facs="#facs_115_tr_2_tl_15" n="N015"/>It takes creation as an event either in time and space--which usually is the imaginary form in which
+               <lb break="no" facs="#facs_115_tr_2_tl_16" n="N016"/>it is taken--or in such a way that it happened once upon a time, and when it happened, time itself
+               <lb break="no" facs="#facs_115_tr_2_tl_17" n="N017"/>started. Now this doctrine of creation is in no way the necessary consequence of the fundamental
+               <lb break="no" facs="#facs_115_tr_2_tl_18" n="N018"/>idea of creation, which is so fundamental for Christianity that it took at least 100 years of a life-and-
+               <lb break="no" facs="#facs_115_tr_2_tl_19" n="N019"/>death struggle, for the early Church, to resist any attempt to dissolve Christianity from the Old Testament
+               <lb break="no" facs="#facs_115_tr_2_tl_20" n="N020"/>and the presupposition of all Old Testament piety, namely the idea of creation. For the idea of creation</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p174</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p174</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_174">
+         <graphic url="TL-0174.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XUSPFQBIIESCHXPSBUKOIXMG&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="32,253 32,3493 2355,3493 2355,253" rendition="TextRegion" xml:id="facs_174_tr_1">
+            <zone points="1211,316 1234,316 1242,324 1283,321 1288,326 1329,319 1329,258 1290,255 1270,240 1247,263 1211,263" rendition="Line" xml:id="facs_174_tr_1_tl_1"/>
+            <zone points="561,456 1334,474 1454,518 2221,500 2221,395 561,418" rendition="Line" xml:id="facs_174_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="360,635 2145,645 2180,643 2178,546 357,566" rendition="Line" xml:id="facs_174_tr_1_tl_3"/>
+            <zone points="357,752 431,796 1808,775 2032,836 2254,819 2282,727 354,696" rendition="Line" xml:id="facs_174_tr_1_tl_4"/>
+            <zone points="362,908 1696,966 1759,928 2213,941 2211,882 2119,844 2081,880 1719,898 360,857" rendition="Line" xml:id="facs_174_tr_1_tl_5"/>
+            <zone points="349,1104 2292,1094 2292,1030 349,1002" rendition="Line" xml:id="facs_174_tr_1_tl_6"/>
+            <zone points="344,1204 2336,1242 2336,1183 344,1155" rendition="Line" xml:id="facs_174_tr_1_tl_7"/>
+            <zone points="347,1357 449,1413 956,1397 1300,1443 1433,1374 2300,1397 2300,1336 344,1311" rendition="Line" xml:id="facs_174_tr_1_tl_8"/>
+            <zone points="344,1543 395,1568 456,1538 765,1538 798,1525 798,1469 342,1459" rendition="Line" xml:id="facs_174_tr_1_tl_9"/>
+            <zone points="538,1589 1102,1596 1186,1655 1250,1604 1308,1655 1678,1668 1810,1612 2303,1635 2300,1545 1836,1573 1731,1482 1645,1548 1275,1566 538,1540" rendition="Line" xml:id="facs_174_tr_1_tl_10" subtype="paragraph"/>
+            <zone points="332,1731 2257,1800 2254,1711 1563,1711 1448,1665 1413,1698 1242,1670 1137,1719 332,1706" rendition="Line" xml:id="facs_174_tr_1_tl_11"/>
+            <zone points="332,1882 2333,1925 2333,1874 2180,1854 332,1831" rendition="Line" xml:id="facs_174_tr_1_tl_12"/>
+            <zone points="332,2043 2259,2071 2257,2017 332,1992" rendition="Line" xml:id="facs_174_tr_1_tl_13"/>
+            <zone points="301,2193 1810,2211 1856,2257 2295,2275 2295,2162 551,2127 301,2157" rendition="Line" xml:id="facs_174_tr_1_tl_14"/>
+            <zone points="326,2341 393,2384 811,2354 857,2387 1657,2405 2326,2374 2326,2318 2122,2305 2045,2336 326,2298" rendition="Line" xml:id="facs_174_tr_1_tl_16"/>
+            <zone points="324,2494 2320,2522 2318,2471 2129,2456 324,2445" rendition="Line" xml:id="facs_174_tr_1_tl_18"/>
+            <zone points="314,2637 342,2652 487,2649 510,2662 556,2649 599,2662 643,2649 752,2655 752,2601 314,2593" rendition="Line" xml:id="facs_174_tr_1_tl_19"/>
+            <zone points="510,2718 2349,2744 2349,2685 2275,2675 2134,2706 2048,2670 1372,2695 1158,2660 1061,2693 553,2657 510,2688" rendition="Line" xml:id="facs_174_tr_1_tl_20" subtype="paragraph"/>
+            <zone points="301,2864 2351,2904 2351,2841 2114,2818 1721,2853 301,2838" rendition="Line" xml:id="facs_174_tr_1_tl_21"/>
+            <zone points="309,3019 418,3075 992,3091 2300,3045 2300,2991 1494,2989 1441,2945 1367,2989 607,2958 571,2996 309,2994" rendition="Line" xml:id="facs_174_tr_1_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0174.jpg" n="part1_p174.jpg" xml:id="img_0174" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p174.jpg"/>
+            
+            <ab facs="#facs_174_tr_1">
+               <lb facs="#facs_174_tr_1_tl_1" n="N001"/>[170]
+               <lb facs="#facs_174_tr_1_tl_2" n="N002"/>Now from this follows (and I repeat this): no scientific or <truth_historical>historical truth</truth_historical> can affirm
+               <lb facs="#facs_174_tr_1_tl_3" n="N003"/>or negate the <truth_of_faith>truth of faith</truth_of_faith>. And the truth of faith can neither affirm nor negate scientific or
+               <lb facs="#facs_174_tr_1_tl_4" n="N004"/>historical truth. This is the presupposition of the existence of <rs type="keyword" ref="#Faith">faith </rs>at all. In the moment in which
+               <lb facs="#facs_174_tr_1_tl_5" n="N005"/>one of these statements is wrong, then we have to give up faith, or we have to give up the
+               <lb facs="#facs_174_tr_1_tl_6" n="N006"/>scientific or historical truth. I am not inclined to give up the one or the other; l believe---and this is
+               <lb facs="#facs_174_tr_1_tl_7" n="N007"/>ITSELF a matter of my faith---that Providence has put man into this situation of different dimensions
+               <lb facs="#facs_174_tr_1_tl_8" n="N008"/>of knowledge, and that he has to STAND this, and not to escape it by one of the wrong alternatives
+               <lb facs="#facs_174_tr_1_tl_9" n="N009"/>which I just described.
+               <lb facs="#facs_174_tr_1_tl_10" n="N010"/>But now the question arises whether <truth_philosophical>philosophical truth</truth_philosophical> has the same relation to the truth
+               <lb facs="#facs_174_tr_1_tl_11" n="N011"/>of faith, or whether the relation is more complex. I don't hesitate to say that it is more complex.
+               <lb facs="#facs_174_tr_1_tl_12" n="N012"/>Even something else follows from this greater complexity of the relation of philosophical and religious
+               <lb facs="#facs_174_tr_1_tl_13" n="N013"/>truth, namely if <truth_philosophical>philosophical truth</truth_philosophical> has a very complex relationship to the truth of faith, then this
+               <lb facs="#facs_174_tr_1_tl_14" n="N014"/>also makes the relation to scientific and<truth_historical> historical truth </truth_historical>more complex because there is <truth_philosophical>philosophical
+               <lb break="no" facs="#facs_174_tr_1_tl_16" n="N015"/>truth</truth_philosophical> in both of them; philosophy is the all-embracing element in all cognitive endeavor, and therefore
+               <lb facs="#facs_174_tr_1_tl_18" n="N016"/>if the problem "<rs type="keyword" ref="#Philosophy_of_Philosophy">philosophy of religion"</rs> is asked, then here ALSO the difficulty (or complexity, let us
+               <lb facs="#facs_174_tr_1_tl_19" n="N017"/>better say) is greater.
+               <lb facs="#facs_174_tr_1_tl_20" n="N018"/>Now this great complexity of the question of the relation between philosophy and religion
+               <lb facs="#facs_174_tr_1_tl_21" n="N019"/>is the reason for the innumerable discussions about the relation of faith and philosophy which are going
+               <lb facs="#facs_174_tr_1_tl_22" n="N020"/>on since the days of <rs type="person">Xenophanes</rs> up to the day in which we are living---without interruption; and they are
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

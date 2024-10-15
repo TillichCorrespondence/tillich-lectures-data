@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p100</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p100</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_100">
+         <graphic url="TL-0100.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=IRGVUKSNMCYKFRYBOZMKAZBC&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="310,252 310,3480 2430,3480 2430,252" rendition="TextRegion" xml:id="facs_100_tr_3">
+            <zone points="1221,301 1234,298 1247,309 1280,311 1295,306 1313,306 1311,242 1290,245 1285,252 1275,252 1267,245 1257,255 1221,258" rendition="Line" xml:id="facs_100_tr_3_tl_1"/>
+            <zone points="326,446 2173,469 2173,408 1803,390 326,403" rendition="Line" xml:id="facs_100_tr_3_tl_2"/>
+            <zone points="334,533 2155,548 2132,484 334,484" rendition="Line" xml:id="facs_100_tr_3_tl_3"/>
+            <zone points="326,597 2188,620 2150,556 326,571" rendition="Line" xml:id="facs_100_tr_3_tl_4"/>
+            <zone points="339,694 2150,706 2150,648 2060,632 339,625" rendition="Line" xml:id="facs_100_tr_3_tl_5"/>
+            <zone points="329,780 2162,803 2162,719 2063,706 329,714" rendition="Line" xml:id="facs_100_tr_3_tl_6"/>
+            <zone points="332,849 1933,852 2145,844 2145,801 329,785" rendition="Line" xml:id="facs_100_tr_3_tl_8"/>
+            <zone points="334,903 1265,923 1265,864 334,862" rendition="Line" xml:id="facs_100_tr_3_tl_9"/>
+            <zone points="541,1051 1482,1058 1553,1094 2208,1068 2208,1017 1979,1002 541,1010" rendition="Line" xml:id="facs_100_tr_3_tl_10" subtype="paragraph"/>
+            <zone points="324,1127 2341,1148 2305,1081 324,1084" rendition="Line" xml:id="facs_100_tr_3_tl_11"/>
+            <zone points="326,1206 2173,1229 2173,1158 849,1176 326,1130" rendition="Line" xml:id="facs_100_tr_3_tl_12"/>
+            <zone points="319,1278 1599,1316 2152,1293 2150,1247 316,1247" rendition="Line" xml:id="facs_100_tr_3_tl_13"/>
+            <zone points="319,1349 1499,1400 1650,1357 2165,1364 2165,1321 2076,1306 319,1308" rendition="Line" xml:id="facs_100_tr_3_tl_14"/>
+            <zone points="314,1415 342,1431 507,1425 681,1446 681,1390 638,1377 604,1390 586,1377 500,1372 449,1390 372,1374 314,1385" rendition="Line" xml:id="facs_100_tr_3_tl_15"/>
+            <zone points="548,1507 2280,1538 2280,1448 2155,1425 1775,1474 548,1431" rendition="Line" xml:id="facs_100_tr_3_tl_16" subtype="paragraph"/>
+            <zone points="324,1581 1979,1599 2349,1591 2349,1543 321,1535" rendition="Line" xml:id="facs_100_tr_3_tl_17"/>
+            <zone points="314,1647 2188,1691 2185,1619 2124,1606 314,1614" rendition="Line" xml:id="facs_100_tr_3_tl_18"/>
+            <zone points="314,1726 375,1762 2198,1742 2198,1683 314,1688" rendition="Line" xml:id="facs_100_tr_3_tl_19"/>
+            <zone points="314,1800 2206,1828 2180,1757 314,1762" rendition="Line" xml:id="facs_100_tr_3_tl_20"/>
+            <zone points="314,1879 640,1918 2198,1910 2198,1836 314,1849" rendition="Line" xml:id="facs_100_tr_3_tl_21"/>
+            <zone points="314,1951 372,1989 635,1992 727,1948 2211,1971 2211,1923 2160,1910 314,1915" rendition="Line" xml:id="facs_100_tr_3_tl_22"/>
+            <zone points="309,2025 2213,2043 2213,1999 2157,1986 309,1974" rendition="Line" xml:id="facs_100_tr_3_tl_23"/>
+            <zone points="309,2094 2170,2119 2170,2063 2055,2053 309,2050" rendition="Line" xml:id="facs_100_tr_3_tl_24"/>
+            <zone points="311,2203 2361,2196 2341,2139 311,2134" rendition="Line" xml:id="facs_100_tr_3_tl_25"/>
+            <zone points="533,2333 895,2374 1002,2338 2196,2341 2196,2277 2060,2303 1849,2262 1716,2300 533,2280" rendition="Line" xml:id="facs_100_tr_3_tl_26" subtype="paragraph"/>
+            <zone points="301,2392 1255,2445 2211,2435 2211,2372 2017,2356 301,2356" rendition="Line" xml:id="facs_100_tr_3_tl_27"/>
+            <zone points="311,2484 2170,2517 2170,2438 311,2417" rendition="Line" xml:id="facs_100_tr_3_tl_29"/>
+            <zone points="311,2578 2196,2565 2196,2522 1920,2502 311,2512" rendition="Line" xml:id="facs_100_tr_3_tl_30"/>
+            <zone points="309,2629 2244,2637 2160,2583 309,2586" rendition="Line" xml:id="facs_100_tr_3_tl_31"/>
+            <zone points="301,2700 2224,2718 2196,2660 301,2662" rendition="Line" xml:id="facs_100_tr_3_tl_32"/>
+            <zone points="301,2785 2173,2790 2173,2744 2094,2734 301,2744" rendition="Line" xml:id="facs_100_tr_3_tl_33"/>
+            <zone points="309,2859 2160,2889 2127,2815 309,2815" rendition="Line" xml:id="facs_100_tr_3_tl_34"/>
+            <zone points="301,2963 2109,2945 2109,2887 301,2887" rendition="Line" xml:id="facs_100_tr_3_tl_35"/>
+            <zone points="301,3014 2292,3047 2292,2963 301,2963" rendition="Line" xml:id="facs_100_tr_3_tl_36"/>
+            <zone points="296,3083 2252,3101 2252,3042 296,3042" rendition="Line" xml:id="facs_100_tr_3_tl_37"/>
+            <zone points="296,3154 959,3208 1119,3203 1160,3162 2262,3177 2262,3129 2122,3114 296,3126" rendition="Line" xml:id="facs_100_tr_3_tl_38"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0100.jpg" n="part1_p100.jpg" xml:id="img_0100" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p100.jpg"/>
+            
+            <ab facs="#facs_100_tr_3">
+               <lb facs="#facs_100_tr_3_tl_1" n="N001"/>[97]
+               <lb facs="#facs_100_tr_3_tl_2" n="N002"/><technology>the point of view of the way we can ECONOMICALLY deal with a radical automation, <rs type="keyword" ref="#Artificial_Intelligence">but we</rs>
+               <lb break="no" facs="#facs_100_tr_3_tl_3" n="N003"/><technology>must FIRST look at the way in which the remaining mechanical functions of the human body</technology>
+               <lb break="no" facs="#facs_100_tr_3_tl_4" n="N004"/><technology>are taken over by the machine. And even mechanical elements of the human brain--this is the</technology>
+               <lb break="no" facs="#facs_100_tr_3_tl_5" n="N005"/><technology>justification of the artificial brains. The artificial brains NEVER are able to produce anything</technology>
+               <lb break="no" facs="#facs_100_tr_3_tl_6" n="N006"/><technology>new. They always can only act as mechanical FULFILLERS of that which is put into them as</technology>
+               <lb break="no" facs="#facs_100_tr_3_tl_8" n="N007"/><technology>potentiality. But they cannot go beyond this. And insofar as they do this, they again liberate</technology>
+               <lb break="no" facs="#facs_100_tr_3_tl_9" n="N008"/><technology>man from a kind of toil which is not necessary.</technology>
+               <lb break="no" facs="#facs_100_tr_3_tl_10" n="N009"/>Another side of the liberating power of technics is the liberation from pain and want,
+               <lb break="no" facs="#facs_100_tr_3_tl_11" n="N010"/>to a great extent. I don’t need to go very much into this. Anesthesia, and all that is connected with it,
+               <lb break="no" facs="#facs_100_tr_3_tl_12" n="N011"/>is a tremendous liberation. Now of course in all these cases, one asks: ISN'T there an element
+               <lb break="no" facs="#facs_100_tr_3_tl_13" n="N012"/>of pain needed in order to keep the body alive? This certainly is the case. But the problem is
+               <lb break="no" facs="#facs_100_tr_3_tl_14" n="N013"/>UNNECESSARY mechanical work, and UNNECESSARY pain, and UNNECESSARY limits in
+               <lb break="no" facs="#facs_100_tr_3_tl_15" n="N014"/>terms of finitude.
+               <lb break="no" facs="#facs_100_tr_3_tl_16" n="N015"/>Then a last point here, in this connection. <_the>The technical progress has DE-demonized</_the>
+               <lb break="no" facs="#facs_100_tr_3_tl_17" n="N016"/><technology>nature. Now this demands a little explanation. In primitive cultus every natural object, and most tech-</technology>
+               <lb break="no" facs="#facs_100_tr_3_tl_18" n="N017"/><technology>nical objects, are filled with magic power. And magic power is always ambiguous. It is creative</technology>
+               <lb break="no" facs="#facs_100_tr_3_tl_19" n="N018"/><technology>and destructive at the same time. It is dangerous to use it; only good rituals can help us to use it</technology>
+               <lb break="no" facs="#facs_100_tr_3_tl_20" n="N019"/><technology>rightly. So a feeling of fear of these powers is widespread in mankind. If an object is completely</technology>
+               <lb break="no" facs="#facs_100_tr_3_tl_21" n="N020"/><technology>rational, subject to the principle of rationality, as we have discussed it, the demonic possibility is</technology>
+               <lb break="no" facs="#facs_100_tr_3_tl_22" n="N021"/><technology>taken away from it. This again is an element of liberation in the technical realm--it is interesting</technology>
+               <lb break="no" facs="#facs_100_tr_3_tl_23" n="N022"/><technology>that if an early progress was made in railway speeds, or for airplanes, and other things earlier than</technology>
+               <lb break="no" facs="#facs_100_tr_3_tl_24" n="N023"/><technology>that, there were always people who were afraid of it as demonic creations which are dangerous.</technology>
+               <lb break="no" facs="#facs_100_tr_3_tl_25" n="N024"/><technology>But finally they became used to it, and now the fear of the demonic in all these realities has disappeared.</technology>
+               <lb break="no" facs="#facs_100_tr_3_tl_26" n="N025"/><technology>Now the ''but'' comes, namely the other side of technology and man. Just the LAST</technology>
+               <lb break="no" facs="#facs_100_tr_3_tl_27" n="N026"/>POINT is so important: as long as there is a demonic power in reality, it also has radiating power</technology>,
+               <lb facs="#facs_100_tr_3_tl_29" n="N027"/><_the><technology>it can attract us, we can unite with it. If it is completely subjected to technical purposes, it has</technology>
+               <lb break="no" facs="#facs_100_tr_3_tl_30" n="N028"/><_the>become empty. </_the>And we can say: the eros-relationship is gone. And that is something which we
+               <lb break="no" facs="#facs_100_tr_3_tl_31" n="N029"/>experience in our world. The emptiness of our lives is not only dependent on the technical realm--
+               <lb break="no" facs="#facs_100_tr_3_tl_32" n="N030"/>much can be said and will be said about this, in these lectures--but one of the important factors in
+               <lb break="no" facs="#facs_100_tr_3_tl_33" n="N031"/>destroying the eros-relationship between man and things is based on the fact that man is able to
+               <lb break="no" facs="#facs_100_tr_3_tl_34" n="N032"/>control completely the technical object; and what you can control completely, there is no eros
+               <lb break="no" facs="#facs_100_tr_3_tl_35" n="N033"/>to it in you left. Even with respect to people, psycho-technics try to do that. And here it is
+               <lb break="no" facs="#facs_100_tr_3_tl_36" n="N034"/>especially clear to see how the eros is destroyed. If you calculate a man completely, somebody whom
+               <lb break="no" facs="#facs_100_tr_3_tl_37" n="N035"/>you love, INASMUCH as you calculate him the right relationship, the eros relationship, is destroyed
+               <lb break="no" facs="#facs_100_tr_3_tl_38" n="N036"/>and replaced by a controlling relationship. That is what happens all the time. The use of diplomacy</_the>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

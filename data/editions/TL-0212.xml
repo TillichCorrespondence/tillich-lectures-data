@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p212</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p212</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_212">
+         <graphic url="TL-0212.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=BLCVXFOULDUKKPBNQTGCNCYN&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="273,232 273,3473 2266,3473 2266,232" rendition="TextRegion" xml:id="facs_212_tr_2">
+            <zone points="1212,284 1224,282 1238,294 1260,291 1291,296 1293,291 1315,291 1310,236 1267,236 1253,226 1231,248 1212,251" rendition="Line" xml:id="facs_212_tr_2_tl_1"/>
+            <zone points="342,419 1161,436 1159,378 342,371" rendition="Line" xml:id="facs_212_tr_2_tl_3"/>
+            <zone points="342,573 2175,629 2240,621 2238,556 340,520" rendition="Line" xml:id="facs_212_tr_2_tl_5"/>
+            <zone points="328,720 1132,742 1185,795 2259,773 2259,708 2105,679 2023,725 328,686" rendition="Line" xml:id="facs_212_tr_2_tl_6"/>
+            <zone points="330,877 2233,918 2231,865 2098,833 821,850 328,812" rendition="Line" xml:id="facs_212_tr_2_tl_7"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0212.jpg" n="part1_p212.jpg" xml:id="img_0212" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p212.jpg"/>
+            
+            <ab facs="#facs_212_tr_2">
+               <lb facs="#facs_212_tr_2_tl_1" n="N001"/>[208]
+               <lb facs="#facs_212_tr_2_tl_3" n="N002"/>more than after any other lecture, NOT TO BE SATISFIED with these examples, but to get
+               <lb facs="#facs_212_tr_2_tl_5" n="N003"/>more of them and, in your work as philosophers or economists or psychologists or anthropologists
+               <lb facs="#facs_212_tr_2_tl_6" n="N004"/>or whatever you study, to try to find out where the dimension of the <ultimate_concern>ultimate</ultimate_concern> appears, makes itself
+               <lb facs="#facs_212_tr_2_tl_7" n="N005"/>felt, and where therefore these realms themselves have entered the dimension of <ultimate_concern>ultimate concern.</ultimate_concern>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

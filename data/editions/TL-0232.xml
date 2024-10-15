@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p232</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p232</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_232">
+         <graphic url="TL-0232.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NTAHBLQSFUDNEZYATAWSXZSN&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="32,268 32,3497 2388,3497 2388,268" rendition="TextRegion" xml:id="facs_232_tr_1">
+            <zone points="1171,344 1189,341 1196,348 1285,348 1283,277 1246,277 1233,267 1223,272 1216,269 1203,282 1169,284" rendition="Line" xml:id="facs_232_tr_1_tl_1"/>
+            <zone points="398,482 2288,516 2286,465 2024,435 398,440" rendition="Line" xml:id="facs_232_tr_1_tl_2"/>
+            <zone points="398,638 1732,652 1937,662 1982,704 2385,707 2385,605 398,603" rendition="Line" xml:id="facs_232_tr_1_tl_3"/>
+            <zone points="400,806 445,838 2083,833 2301,870 2298,759 2261,756 398,731" rendition="Line" xml:id="facs_232_tr_1_tl_5"/>
+            <zone points="386,929 2039,966 2039,909 1965,904 386,904" rendition="Line" xml:id="facs_232_tr_1_tl_7"/>
+            <zone points="390,1090 1861,1100 1752,1053 390,1040" rendition="Line" xml:id="facs_232_tr_1_tl_9"/>
+            <zone points="381,1268 1648,1253 1868,1263 1920,1315 2204,1283 2251,1317 2330,1297 2328,1208 378,1213" rendition="Line" xml:id="facs_232_tr_1_tl_11"/>
+            <zone points="381,1386 2276,1421 2274,1369 1915,1344 381,1342" rendition="Line" xml:id="facs_232_tr_1_tl_12"/>
+            <zone points="381,1552 2313,1572 2313,1512 381,1510" rendition="Line" xml:id="facs_232_tr_1_tl_14"/>
+            <zone points="378,1690 1176,1703 1246,1762 1547,1727 2017,1762 2101,1705 2199,1718 2197,1658 1344,1678 378,1629" rendition="Line" xml:id="facs_232_tr_1_tl_15"/>
+            <zone points="368,1834 2194,1868 2194,1809 1045,1777 368,1809" rendition="Line" xml:id="facs_232_tr_1_tl_16"/>
+            <zone points="373,1992 1199,2004 1196,1937 1161,1957 371,1945" rendition="Line" xml:id="facs_232_tr_1_tl_17"/>
+            <zone points="531,2140 2227,2180 2227,2101 531,2110" rendition="Line" xml:id="facs_232_tr_1_tl_18" subtype="paragraph"/>
+            <zone points="366,2296 2128,2325 2125,2264 366,2244" rendition="Line" xml:id="facs_232_tr_1_tl_19"/>
+            <zone points="366,2456 816,2459 912,2498 1003,2459 2044,2479 2172,2476 2172,2417 363,2392" rendition="Line" xml:id="facs_232_tr_1_tl_20"/>
+            <zone points="358,2647 608,2666 694,2624 1026,2684 1129,2612 2259,2637 2259,2575 2088,2560 1174,2563 1031,2471 880,2558 719,2553 665,2506 358,2548" rendition="Line" xml:id="facs_232_tr_1_tl_21"/>
+            <zone points="353,2741 1270,2755 1372,2822 2012,2820 2120,2765 2229,2773 2187,2718 895,2713 677,2684 633,2639 573,2699 353,2716" rendition="Line" xml:id="facs_232_tr_1_tl_22"/>
+            <zone points="344,2889 2162,2948 2160,2867 344,2864" rendition="Line" xml:id="facs_232_tr_1_tl_23"/>
+            <zone points="344,3052 2239,3074 2239,3020 344,3005" rendition="Line" xml:id="facs_232_tr_1_tl_24"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0232.jpg" n="part1_p232.jpg" xml:id="img_0232" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p232.jpg"/>
+            
+            <ab facs="#facs_232_tr_1">
+               <lb facs="#facs_232_tr_1_tl_1" n="N001"/>[228]
+               <lb facs="#facs_232_tr_1_tl_2" n="N002"/>reality of everything, except some biological or physical facts. If you discuss with him, then you
+               <lb facs="#facs_232_tr_1_tl_3" n="N003"/>can easily notice (if you once have started to notice such things) the two levels: the level of argument
+               <lb facs="#facs_232_tr_1_tl_5" n="N004"/>and the level of conversion. If he is fanatically convinced of his reductionism, he wants to convert you
+               <lb facs="#facs_232_tr_1_tl_7" n="N005"/>to it. And you, if you are passionately convinced about the Christian truth, you will convert him.
+               <lb facs="#facs_232_tr_1_tl_9" n="N006"/>But since you meet in the arena of philosophy, you discuss in terms of arguments.
+               <lb facs="#facs_232_tr_1_tl_11" n="N007"/>And the great difficulty of many such discussions---of small and large groups---is the non-distinction
+               <lb facs="#facs_232_tr_1_tl_12" n="N008"/>of argument and will-to-conversion. You very often can find out exactly in which moment---even
+               <lb facs="#facs_232_tr_1_tl_14" n="N009"/>psychological, in the kind of voice, in the kind of inner movement---which is the REAL meaning of
+               <lb facs="#facs_232_tr_1_tl_15" n="N010"/>the statements of this man with whom I talk, or of myself when I talk with myself: is it
+               <lb facs="#facs_232_tr_1_tl_16" n="N011"/>really argument, or is it desire of one side of my being to convert the other side of my being?
+               <lb facs="#facs_232_tr_1_tl_17" n="N012"/>And that, we must be able to understand.
+               <lb facs="#facs_232_tr_1_tl_18" n="N013"/>From this follows another question, namely if in every philosophy there is an <ultimate_concern>ultimate
+               <lb break="no" facs="#facs_232_tr_1_tl_19" n="N014"/>concern, and this ultimate concern</ultimate_concern> has been expressed in the symbols of classical religions
+               <lb facs="#facs_232_tr_1_tl_20" n="N015"/>(for instance Christianity), then the question can arise, and has arisen and is much discussed:
+               <lb facs="#facs_232_tr_1_tl_21" n="N016"/>can there be a Christian philosophy? Some people say we SHOULD have a <rs type="keyword" ref="#Christian_philosophy">Christian philosophy;</rs>
+               <lb facs="#facs_232_tr_1_tl_22" n="N017"/>others say---and I belong to the second group---there should NOT be Christian philosophy. Now
+               <lb facs="#facs_232_tr_1_tl_23" n="N018"/>what does this word mean? <rs type="keyword" ref="#Christian_philosophy">"Christian philosophy" i</rs>s a term which can have two meanings:
+               <lb facs="#facs_232_tr_1_tl_24" n="N019"/>philosophy arising on the cultural soil which is cultivated for thousands of years by the Christian
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

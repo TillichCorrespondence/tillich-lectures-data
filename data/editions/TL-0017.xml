@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p017</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p017</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_17">
+         <graphic url="TL-0017.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FSZGJXUYLDBPLXRLPRXTSFYJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="29,253 27,3303 2274,3298 2274,253" rendition="TextRegion" xml:id="facs_17_tr_2">
+            <zone points="1219,301 1242,301 1250,309 1271,306 1273,309 1278,304 1283,309 1296,309 1301,304 1314,304 1316,237 1291,237 1283,230 1248,263 1222,263" rendition="Line" xml:id="facs_17_tr_2_tl_1"/>
+            <zone points="268,464 763,467 834,518 2125,492 2123,436 1589,393 268,416" rendition="Line" xml:id="facs_17_tr_2_tl_2"/>
+            <zone points="265,551 2143,571 2143,526 1689,500 265,513" rendition="Line" xml:id="facs_17_tr_2_tl_3"/>
+            <zone points="263,630 939,643 939,594 883,587 755,605 681,579 587,579 554,605 497,577 362,577 337,602 263,589" rendition="Line" xml:id="facs_17_tr_2_tl_4"/>
+            <zone points="510,717 969,717 1026,758 1454,735 1544,773 1786,773 1829,730 2092,755 2049,674 1903,699 1801,645 510,684" rendition="Line" xml:id="facs_17_tr_2_tl_5"/>
+            <zone points="260,801 1393,855 1755,857 1837,809 2135,832 2135,776 1883,753 1842,786 1306,742 944,776 855,740 742,773 260,753" rendition="Line" xml:id="facs_17_tr_2_tl_6"/>
+            <zone points="258,885 1140,890 1436,947 1773,895 2097,916 2097,862 255,837" rendition="Line" xml:id="facs_17_tr_2_tl_7"/>
+            <zone points="250,972 2151,1003 2151,949 2087,931 250,939" rendition="Line" xml:id="facs_17_tr_2_tl_8"/>
+            <zone points="247,1049 1962,1087 2051,1077 2051,1013 1628,1041 334,990 245,1023" rendition="Line" xml:id="facs_17_tr_2_tl_9"/>
+            <zone points="247,1133 2146,1166 2146,1115 2082,1097 247,1107" rendition="Line" xml:id="facs_17_tr_2_tl_10"/>
+            <zone points="250,1222 1072,1225 1212,1276 2097,1245 2097,1199 2008,1171 1760,1212 250,1166" rendition="Line" xml:id="facs_17_tr_2_tl_11"/>
+            <zone points="245,1306 2118,1332 2118,1281 1985,1265 245,1255" rendition="Line" xml:id="facs_17_tr_2_tl_12"/>
+            <zone points="245,1390 459,1406 500,1385 518,1401 569,1383 640,1406 742,1396 742,1345 589,1345 569,1360 526,1342 500,1362 449,1332 431,1345 352,1332 245,1345" rendition="Line" xml:id="facs_17_tr_2_tl_13"/>
+            <zone points="500,1475 1444,1536 1564,1480 2184,1505 2181,1431 1998,1459 500,1408" rendition="Line" xml:id="facs_17_tr_2_tl_14"/>
+            <zone points="235,1554 2250,1610 2248,1533 2140,1515 235,1521" rendition="Line" xml:id="facs_17_tr_2_tl_15"/>
+            <zone points="247,1653 1459,1653 1566,1702 2268,1669 2268,1620 2140,1607 776,1620 247,1579" rendition="Line" xml:id="facs_17_tr_2_tl_16"/>
+            <zone points="230,1722 985,1730 1072,1765 1847,1735 1964,1794 2184,1750 2184,1686 2123,1720 1990,1663 1852,1712 230,1679" rendition="Line" xml:id="facs_17_tr_2_tl_17"/>
+            <zone points="232,1811 2095,1847 2095,1791 1916,1773 232,1750" rendition="Line" xml:id="facs_17_tr_2_tl_18"/>
+            <zone points="225,1921 533,1885 2054,1934 2051,1868 2005,1857 225,1842" rendition="Line" xml:id="facs_17_tr_2_tl_19"/>
+            <zone points="225,1993 2174,2005 2174,1952 1806,1936 225,1926" rendition="Line" xml:id="facs_17_tr_2_tl_20"/>
+            <zone points="225,2067 2179,2102 2133,2023 1730,2051 1373,2015 1342,2046 225,1995" rendition="Line" xml:id="facs_17_tr_2_tl_21"/>
+            <zone points="225,2166 237,2166 245,2174 268,2169 281,2169 286,2174 319,2174 316,2102 265,2102 263,2105 247,2089 222,2089" rendition="Line" xml:id="facs_17_tr_2_tl_22"/>
+            <zone points="467,2235 2097,2253 2054,2192 467,2181" rendition="Line" xml:id="facs_17_tr_2_tl_23"/>
+            <zone points="214,2317 2179,2339 2176,2288 2003,2278 214,2260" rendition="Line" xml:id="facs_17_tr_2_tl_24"/>
+            <zone points="217,2403 2263,2436 2260,2375 214,2347" rendition="Line" xml:id="facs_17_tr_2_tl_25"/>
+            <zone points="212,2482 2166,2508 2166,2459 1944,2444 212,2439" rendition="Line" xml:id="facs_17_tr_2_tl_26"/>
+            <zone points="204,2561 2171,2597 2169,2541 2041,2528 204,2518" rendition="Line" xml:id="facs_17_tr_2_tl_27"/>
+            <zone points="204,2651 758,2661 758,2615 717,2602 607,2602 579,2625 426,2597 372,2623 339,2597 204,2610" rendition="Line" xml:id="facs_17_tr_2_tl_28"/>
+            <zone points="457,2781 2023,2758 2021,2702 1949,2694 454,2674" rendition="Line" xml:id="facs_17_tr_2_tl_29"/>
+            <zone points="204,2819 732,2819 977,2880 1043,2822 2082,2845 2079,2794 1855,2809 1783,2773 1490,2804 204,2771" rendition="Line" xml:id="facs_17_tr_2_tl_30"/>
+            <zone points="207,2903 1513,2914 1697,2977 1852,2919 2174,2929 2174,2875 204,2852" rendition="Line" xml:id="facs_17_tr_2_tl_31"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0017.jpg" n="part1_p017.jpg" xml:id="img_0017" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p017.jpg"/>
+            
+            <ab facs="#facs_17_tr_2">
+               <lb facs="#facs_17_tr_2_tl_1" n="N001"/>[14]
+               <lb facs="#facs_17_tr_2_tl_2" n="N002"/>the psychoanalytic and generally depth-psychological consideration of man confirms the
+               <lb facs="#facs_17_tr_2_tl_3" n="N003"/>perceptions of the great artists, poets and novelists. These functions are what we want
+               <lb facs="#facs_17_tr_2_tl_4" n="N004"/>to deal with this first semester.
+               <lb facs="#facs_17_tr_2_tl_5" n="N005"/>I now come back to language. <rs type="keyword" ref="#Language">Language has two functions. Up to now
+               <lb break="no" facs="#facs_17_tr_2_tl_6" n="N006"/>I only dealt with one function: the designating. It designates universal. But language
+               <lb break="no" facs="#facs_17_tr_2_tl_7" n="N007"/>always has another function at the same time: communication. These two functions
+               <lb break="no" facs="#facs_17_tr_2_tl_8" n="N008"/>are equally fundamental and are interdependent</rs>. The emphasis in techniques, in science,
+               <lb facs="#facs_17_tr_2_tl_9" n="N009"/>and even in art was on the designative function of language. In the other group of
+               <lb facs="#facs_17_tr_2_tl_10" n="N010"/>cultural functions the emphasis is on the communicative function. This leads to the first
+               <lb facs="#facs_17_tr_2_tl_11" n="N011"/>function of the second group, namely the function of social exchange, with which we
+               <lb facs="#facs_17_tr_2_tl_12" n="N012"/>must start next semester's lectures--of course always under the point of view of their
+               <lb facs="#facs_17_tr_2_tl_13" n="N013"/>relationship to religion.
+               <lb facs="#facs_17_tr_2_tl_14" n="N014"/>The function of social exchange has many forms: economic exchange (usually
+               <lb facs="#facs_17_tr_2_tl_15" n="N015"/>called trading); intellectual exchange (teaching, discussing, receiving); the transforming exchange
+               <lb facs="#facs_17_tr_2_tl_16" n="N016"/>(using technical elements, as in medicine and education); the spiritual exchange (communication
+               <lb facs="#facs_17_tr_2_tl_17" n="N017"/>of meanings); and most important, the personal exchange (what we usually call love, in all
+               <lb facs="#facs_17_tr_2_tl_18" n="N018"/>its different forms). Now all this belongs to what I call social exchange. <rs type="keyword" ref="#RELIGION">And religion
+               <lb break="no" facs="#facs_17_tr_2_tl_19" n="N019"/>in relation to social exchange (or social community, if you prefer this phrase) is the
+               <lb break="no" facs="#facs_17_tr_2_tl_20" n="N020"/>fifth cultural function, the first in the second large group. But social exchange presupposes
+               <lb break="no" facs="#facs_17_tr_2_tl_21" n="N021"/>the existence of a society of persons. This leads to the next function, the function of the
+               <lb break="no" facs="#facs_17_tr_2_tl_22" n="N022"/>law.
+               <lb break="no" facs="#facs_17_tr_2_tl_23" n="N023"/>Social exchange goes on under the law, under a legal structure of all social
+               <lb break="no" facs="#facs_17_tr_2_tl_24" n="N024"/>relations.</rs> The importance of this doesn’t need to be emphasized in Harvard University and
+               <lb facs="#facs_17_tr_2_tl_25" n="N025"/>its famous Law School. But sometimes it is good that the Law School is related to philosophy
+               <lb facs="#facs_17_tr_2_tl_26" n="N026"/>and theology, and that the function of the law (besides its organization of social exchange
+               <lb facs="#facs_17_tr_2_tl_27" n="N027"/>for man’s WHOLE culture, and for his ultimate concern, namely religion) is discussed. And
+               <lb facs="#facs_17_tr_2_tl_28" n="N028"/>that is what we shall do.
+               <lb facs="#facs_17_tr_2_tl_29" n="N029"/><rs type="keyword" ref="#Law">The law is also as genuine as language, and is also older than developed
+               <lb break="no" facs="#facs_17_tr_2_tl_30" n="N030"/>science. When I use the word "law" I want to remind you of the fact that this word
+               <lb break="no" facs="#facs_17_tr_2_tl_31" n="N031"/>is used today in two very different ways: on the one hand, the social law, which organize</rs>s
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

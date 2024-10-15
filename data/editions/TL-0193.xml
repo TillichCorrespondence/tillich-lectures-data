@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p193</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p193</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_193">
+         <graphic url="TL-0193.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=JZPZCQJJXNAVOBJGHUJHXIOP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="17,188 17,3484 2349,3484 2349,188" rendition="TextRegion" xml:id="facs_193_tr_1">
+            <zone points="1099,249 1123,252 1136,262 1198,262 1208,255 1221,255 1224,198 1143,200 1136,195 1102,195" rendition="Line" xml:id="facs_193_tr_1_tl_1"/>
+            <zone points="450,377 572,382 631,442 704,379 2292,398 2292,343 2082,327 450,330" rendition="Line" xml:id="facs_193_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="268,530 606,606 842,522 2225,582 2266,569 2264,478 265,491" rendition="Line" xml:id="facs_193_tr_1_tl_3"/>
+            <zone points="257,670 2341,704 2341,639 2277,634 257,644" rendition="Line" xml:id="facs_193_tr_1_tl_4"/>
+            <zone points="260,824 2264,845 2264,790 1679,774 260,798" rendition="Line" xml:id="facs_193_tr_1_tl_5"/>
+            <zone points="260,977 2219,1006 2219,936 260,946" rendition="Line" xml:id="facs_193_tr_1_tl_6"/>
+            <zone points="257,1128 2193,1146 2193,1089 257,1097" rendition="Line" xml:id="facs_193_tr_1_tl_7"/>
+            <zone points="247,1276 333,1284 346,1294 369,1294 379,1284 520,1289 520,1234 463,1234 447,1219 431,1234 390,1234 377,1221 361,1234 247,1232" rendition="Line" xml:id="facs_193_tr_1_tl_8"/>
+            <zone points="429,1362 2253,1367 2253,1297 2209,1331 1941,1299 1845,1331 1811,1297 1676,1331 1271,1276 1185,1315 429,1294" rendition="Line" xml:id="facs_193_tr_1_tl_9" subtype="paragraph"/>
+            <zone points="242,1497 2102,1525 2069,1468 1949,1448 242,1473" rendition="Line" xml:id="facs_193_tr_1_tl_10"/>
+            <zone points="244,1650 1827,1679 1788,1609 244,1609" rendition="Line" xml:id="facs_193_tr_1_tl_11"/>
+            <zone points="236,1822 286,1858 1055,1874 1367,1835 1409,1876 2199,1830 2199,1767 236,1778" rendition="Line" xml:id="facs_193_tr_1_tl_12"/>
+            <zone points="234,1978 288,2017 1149,2019 1245,1962 2232,1975 2232,1923 2100,1918 234,1913" rendition="Line" xml:id="facs_193_tr_1_tl_13"/>
+            <zone points="239,2113 873,2113 928,2147 2225,2123 2225,2061 239,2063" rendition="Line" xml:id="facs_193_tr_1_tl_14"/>
+            <zone points="234,2261 741,2271 741,2238 704,2217 234,2217" rendition="Line" xml:id="facs_193_tr_1_tl_15"/>
+            <zone points="403,2336 826,2373 2136,2349 2136,2287 403,2302" rendition="Line" xml:id="facs_193_tr_1_tl_16" subtype="paragraph"/>
+            <zone points="229,2484 2050,2508 2050,2453 1887,2443 229,2458" rendition="Line" xml:id="facs_193_tr_1_tl_17"/>
+            <zone points="226,2646 616,2648 673,2692 930,2692 977,2646 2284,2661 2284,2607 2222,2599 226,2612" rendition="Line" xml:id="facs_193_tr_1_tl_18"/>
+            <zone points="221,2794 2128,2814 2128,2752 221,2739" rendition="Line" xml:id="facs_193_tr_1_tl_19"/>
+            <zone points="221,2944 2097,2952 2097,2900 2058,2898 221,2892" rendition="Line" xml:id="facs_193_tr_1_tl_20"/>
+            <zone points="210,3093 1136,3155 2035,3121 2035,3059 1733,3043 210,3069" rendition="Line" xml:id="facs_193_tr_1_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0193.jpg" n="part1_p193.jpg" xml:id="img_0193" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p193.jpg"/>
+            
+            <ab facs="#facs_193_tr_1">
+               <lb facs="#facs_193_tr_1_tl_1" n="N001"/>[189]
+               <lb facs="#facs_193_tr_1_tl_2" n="N002"/>One thing we can see immediately. Most p<rs type="keyword" ref="#Concept">hilosophical concepts</rs> have <rs type="keyword" ref="#Mythological">mythological ancestors,</rs>
+               <lb facs="#facs_193_tr_1_tl_3" n="N003"/>and here philosophy (which we have compared with the mother, for science and history) is seen itself
+               <lb facs="#facs_193_tr_1_tl_4" n="N004"/>as being the daughter of a much earlier mother, namely the<rs type="keyword" ref="#Mythological"> mythological worldview. I</rs>t is very interesting
+               <lb facs="#facs_193_tr_1_tl_5" n="N005"/>to see how, in early Greek philosophy, the fundamental <rs type="keyword" ref="#Concept">concepts </rs>[such] as matter and form are born
+               <lb facs="#facs_193_tr_1_tl_6" n="N006"/>out of <rs type="keyword" ref="#Mythological">mythological </rs>and cosmological concepts, and how these <rs type="keyword" ref="#Concept">concepts</rs>, through the whole history
+               <lb facs="#facs_193_tr_1_tl_7" n="N007"/>of philosophy, still have something which reminds of their birthplace, namely man's <rs type="keyword" ref="#Mythological">mythological</rs>
+               <lb facs="#facs_193_tr_1_tl_8" n="N008"/>imagination.
+               <lb facs="#facs_193_tr_1_tl_9" n="N009"/>In the moment in which man's philosophical consciousness appears, the <rs type="keyword" ref="#Concept">conceptual</rs> elements
+               <lb facs="#facs_193_tr_1_tl_10" n="N010"/>which are present in all <rs type="keyword" ref="#Mythological">mythological </rs>visions are developed---and that's what philosophy does.
+               <lb facs="#facs_193_tr_1_tl_11" n="N011"/>This of course presupposes a high valuation of the <rs type="keyword" ref="#Myth">myth.</rs> There is not a chaotic,
+               <lb facs="#facs_193_tr_1_tl_12" n="N012"/>meaningless imagination which is the creator of the <rs type="keyword" ref="#Myth">myth,</rs> but an encounter with reality expressing
+               <lb facs="#facs_193_tr_1_tl_13" n="N013"/>itself in bunches of<rs type="keyword" ref="#Symbols"> symbols </rs>which we call <rs type="keyword" ref="#Myth">myths</rs>. Therefore these <rs type="keyword" ref="#Myth">myths</rs> have altogether an element
+               <lb facs="#facs_193_tr_1_tl_14" n="N014"/>within themselves which can be developed philosophically in the moment in which the philosophical
+               <lb facs="#facs_193_tr_1_tl_15" n="N015"/>consciousness has arisen.
+               <lb facs="#facs_193_tr_1_tl_16" n="N016"/>Now for instance, in the idea of gods, or God, a lot of conceptual elements are present
+               <lb facs="#facs_193_tr_1_tl_17" n="N017"/>which have been developed, step by step, by Greek and modern philosophers. For instance,
+               <lb facs="#facs_193_tr_1_tl_18" n="N018"/>and first of all, the <rs type="keyword" ref="#Concept">concept of being. </rs>If you say that the gods have a higher being, more power-of-being,
+               <lb facs="#facs_193_tr_1_tl_19" n="N019"/>more meaning of being, have relation to time and space different from that which we have to it,
+               <lb facs="#facs_193_tr_1_tl_20" n="N020"/>causality and substance, etc. ----if this is said about the god in the <rs type="keyword" ref="#Mythological">mythological language </rs>of the
+               <lb facs="#facs_193_tr_1_tl_21" n="N021"/>most primitive child, then this language includes a large amount of philosophical problems,
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

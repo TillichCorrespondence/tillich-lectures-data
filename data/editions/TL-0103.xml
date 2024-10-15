@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p103</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p103</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_103">
+         <graphic url="TL-0103.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DSPEFTSAXRWTHMOFGQNHSRRB&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="241,154 241,3455 2409,3455 2409,154" rendition="TextRegion" xml:id="facs_103_tr_1">
+            <zone points="1155,206 1171,206 1192,225 1201,219 1222,225 1241,219 1246,225 1286,222 1286,139 1270,139 1246,160 1222,160 1209,147 1192,160 1155,160" rendition="Line" xml:id="facs_103_tr_1_tl_1"/>
+            <zone points="262,324 465,332 487,356 553,324 861,332 861,246 666,251 553,136 436,251 262,251" rendition="Line" xml:id="facs_103_tr_1_tl_2" subtype="heading"/>
+            <zone points="275,460 1850,444 1850,398 1783,377 275,377" rendition="Line" xml:id="facs_103_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="364,505 2249,503 2249,455 2112,441 364,460" rendition="Line" xml:id="facs_103_tr_1_tl_4"/>
+            <zone points="366,559 2315,561 2315,503 366,519" rendition="Line" xml:id="facs_103_tr_1_tl_5"/>
+            <zone points="361,618 1192,631 1192,567 1166,564 361,578" rendition="Line" xml:id="facs_103_tr_1_tl_6"/>
+            <zone points="257,735 2286,730 2286,676 257,682" rendition="Line" xml:id="facs_103_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="259,858 2350,853 2350,794 1933,781 1727,818 1652,783 259,821" rendition="Line" xml:id="facs_103_tr_1_tl_8"/>
+            <zone points="257,973 2358,965 2358,917 2305,901 2187,936 1952,917 1912,877 1866,917 257,920" rendition="Line" xml:id="facs_103_tr_1_tl_9"/>
+            <zone points="254,1088 417,1088 455,1110 492,1094 652,1091 652,1032 567,1032 545,1053 521,1032 495,1032 452,1053 430,1032 356,1032 337,1051 302,1051 281,1029 254,1029" rendition="Line" xml:id="facs_103_tr_1_tl_10"/>
+            <zone points="257,1227 2401,1227 2332,1155 2160,1190 2128,1158 805,1195 257,1166" rendition="Line" xml:id="facs_103_tr_1_tl_11" subtype="paragraph"/>
+            <zone points="353,1348 1727,1342 1727,1286 1364,1275 353,1318" rendition="Line" xml:id="facs_103_tr_1_tl_13"/>
+            <zone points="350,1457 2179,1463 2179,1404 350,1430" rendition="Line" xml:id="facs_103_tr_1_tl_14"/>
+            <zone points="353,1580 2160,1578 2160,1529 2104,1513 353,1532" rendition="Line" xml:id="facs_103_tr_1_tl_15"/>
+            <zone points="353,1701 422,1701 457,1719 479,1703 537,1703 551,1717 599,1703 599,1650 586,1650 570,1666 532,1666 519,1652 484,1652 476,1644 447,1655 414,1652 401,1639 390,1650 353,1650" rendition="Line" xml:id="facs_103_tr_1_tl_16"/>
+            <zone points="246,1818 2337,1813 2337,1767 2155,1741 658,1775 246,1741" rendition="Line" xml:id="facs_103_tr_1_tl_17" subtype="paragraph"/>
+            <zone points="243,1928 2334,1922 2334,1866 2225,1861 243,1885" rendition="Line" xml:id="facs_103_tr_1_tl_18"/>
+            <zone points="241,2043 2337,2045 2337,1992 2257,1973 2099,2011 904,1981 241,2019" rendition="Line" xml:id="facs_103_tr_1_tl_19"/>
+            <zone points="241,2158 1369,2160 1500,2195 1591,2160 2364,2160 2364,2104 2200,2096 2126,2128 1823,2094 241,2131" rendition="Line" xml:id="facs_103_tr_1_tl_20"/>
+            <zone points="235,2278 2257,2278 2257,2230 2048,2214 235,2251" rendition="Line" xml:id="facs_103_tr_1_tl_21"/>
+            <zone points="241,2396 2350,2406 2353,2345 243,2350" rendition="Line" xml:id="facs_103_tr_1_tl_22"/>
+            <zone points="235,2519 2259,2513 2259,2460 2192,2441 235,2484" rendition="Line" xml:id="facs_103_tr_1_tl_23"/>
+            <zone points="235,2634 1556,2634 1556,2583 1278,2569 235,2607" rendition="Line" xml:id="facs_103_tr_1_tl_24"/>
+            <zone points="326,2807 556,2802 610,2749 1201,2802 1476,2746 2209,2789 2209,2687 326,2725" rendition="Line" xml:id="facs_103_tr_1_tl_25" subtype="paragraph"/>
+            <zone points="230,2869 291,2917 778,2872 1735,2866 1821,2917 2313,2890 2313,2807 2072,2799 1444,2840 230,2821" rendition="Line" xml:id="facs_103_tr_1_tl_26"/>
+            <zone points="227,3000 321,3032 610,2987 1848,2989 1848,2938 1783,2922 1377,2957 1313,2925 227,2941" rendition="Line" xml:id="facs_103_tr_1_tl_27"/>
+            <zone points="326,3104 634,3107 880,3174 963,3107 1409,3171 1559,3099 2107,3131 2088,3045 326,3075" rendition="Line" xml:id="facs_103_tr_1_tl_28" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0103.jpg" n="part1_p103.jpg" xml:id="img_0103" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p103.jpg"/>
+            
+            <ab facs="#facs_103_tr_1">
+               <lb facs="#facs_103_tr_1_tl_1" n="N001"/>[100]
+               <lb facs="#facs_103_tr_1_tl_2" n="N002"/>LECTURE XI--Nov. 3, 1955
+               <lb facs="#facs_103_tr_1_tl_3" n="N003"/>[Prof. Leibrecht announcing a 3-hour exam after Reading Period. Bibliography:
+               <lb facs="#facs_103_tr_1_tl_4" n="N004"/>H. Richard Niebuhr, CHRIST &amp; CULTURE; Schleiermacher, SPEECHES ON RELIGION...;
+               <lb facs="#facs_103_tr_1_tl_5" n="N005"/>W. M. Urban, LANGUAGE &amp; REALITY; J.H. Randall, THE MAKING OF THE MODERN MIND;
+               <lb facs="#facs_103_tr_1_tl_6" n="N006"/>Reinhold Niebuhr, FAITH &amp; HISTORY.]
+               <lb facs="#facs_103_tr_1_tl_7" n="N007"/>PT: Now these five books I gave you as something you should read under all circumstances during the
+               <lb facs="#facs_103_tr_1_tl_8" n="N008"/>course. The others will be important for examination and things like that, so don’t think that this is ALL.
+               <lb facs="#facs_103_tr_1_tl_9" n="N009"/>But I have been asked by many of you to indicate which books you should read in the meantime, and that
+               <lb facs="#facs_103_tr_1_tl_10" n="N010"/>is what I gave now.
+               <lb facs="#facs_103_tr_1_tl_11" n="N011"/>QN: Prof. Tillich, please comment about the influence of technological, industrial society upon our religious
+               <lb facs="#facs_103_tr_1_tl_13" n="N012"/>sensitivity. For example: our verbal symbols of religion, like ''God,'' ''Jesus,'' ''Christ,'' are used
+               <lb facs="#facs_103_tr_1_tl_14" n="N013"/>very casually, in swearing or other unconscious practice. What kind of harm is there in this?
+               <lb facs="#facs_103_tr_1_tl_15" n="N014"/>What can one do when some friend or stranger uses these names without reverence? Is this
+               <lb facs="#facs_103_tr_1_tl_16" n="N015"/>blasphemy?
+               <lb facs="#facs_103_tr_1_tl_17" n="N016"/>PT: This question asks about the irreverent use of words like God, Jesus, Christ, etc., in the technological
+               <lb facs="#facs_103_tr_1_tl_18" n="N017"/>society. I don’t believe that this irreverence with respect to these words has anything to do with technical
+               <lb facs="#facs_103_tr_1_tl_19" n="N018"/>society. The blasphemous use of sacred words was perhaps much more ordinary in periods in which faith
+               <lb facs="#facs_103_tr_1_tl_20" n="N019"/>was not shaken at all because it was nearer the mouth to the tongue of everybody at that time, and we find
+               <lb facs="#facs_103_tr_1_tl_21" n="N020"/>a lot of indications that the ministers of that time had to fight, in sermons, against this kind of abuse.
+               <lb facs="#facs_103_tr_1_tl_22" n="N021"/>The only thing one perhaps could say is that if they are used today, they are not even used in the swearing
+               <lb facs="#facs_103_tr_1_tl_23" n="N022"/>sense at all, but simply as words without meaning. I wouldn't call that blasphemy, but I would call it
+               <lb facs="#facs_103_tr_1_tl_24" n="N023"/>one of the innumerable symptoms of the sickness of our language.
+               <lb facs="#facs_103_tr_1_tl_25" n="N024"/>LECTURE: Now I come today to a new chapter. After discussing last time Religion and the
+               <lb facs="#facs_103_tr_1_tl_26" n="N025"/>Technical Realm, we must now discuss Religion and Science, or let us call it: Religion and the Cognitive
+               <lb facs="#facs_103_tr_1_tl_27" n="N026"/>Realm, generally. Then, at the end, we come to Religion and the Artistic Realm.
+               <lb facs="#facs_103_tr_1_tl_28" n="N027"/>Religion and the cognitive realm, the realm of knowledge, can be discussed in three steps:
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p092</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p092</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_92">
+         <graphic url="TL-0376.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DGLXPTBZLFNDHOTLQYPLWNFY&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="250,305 2319,305 2319,1732 250,1732" rendition="TextRegion" xml:id="facs_92_tr_1">
+            <zone points="1050,359 1063,359 1076,371 1101,374 1176,366 1176,300 1140,302 1124,292 1112,292 1086,318 1050,318" rendition="Line" xml:id="facs_92_tr_1_tl_1"/>
+            <zone points="254,517 2128,517 2128,474 254,482" rendition="Line" xml:id="facs_92_tr_1_tl_2"/>
+            <zone points="254,671 2239,671 2239,617 254,640" rendition="Line" xml:id="facs_92_tr_1_tl_3"/>
+            <zone points="256,825 2251,830 2315,776 256,779" rendition="Line" xml:id="facs_92_tr_1_tl_4"/>
+            <zone points="248,968 2141,973 2141,922 2036,909 248,927" rendition="Line" xml:id="facs_92_tr_1_tl_5"/>
+            <zone points="451,1122 2236,1124 2282,1065 451,1081" rendition="Line" xml:id="facs_92_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="236,1265 2000,1286 2274,1278 2274,1224 236,1242" rendition="Line" xml:id="facs_92_tr_1_tl_7"/>
+            <zone points="251,1432 2131,1429 2131,1373 251,1396" rendition="Line" xml:id="facs_92_tr_1_tl_8"/>
+            <zone points="246,1580 2064,1583 2144,1578 2144,1524 246,1537" rendition="Line" xml:id="facs_92_tr_1_tl_9"/>
+            <zone points="241,1724 2105,1737 2239,1724 2239,1675 241,1698" rendition="Line" xml:id="facs_92_tr_1_tl_10"/>
+         </zone>
+         <zone points="244,1818 2331,1818 2331,2792 244,2792" rendition="TextRegion" xml:id="facs_92_tr_3">
+            <zone points="248,1880 1450,1880 1450,1821 248,1824" rendition="Line" xml:id="facs_92_tr_3_tl_1"/>
+            <zone points="443,2026 2326,2029 2326,1972 443,1980" rendition="Line" xml:id="facs_92_tr_3_tl_2" subtype="paragraph"/>
+            <zone points="648,2175 2136,2190 2223,2182 2223,2128 648,2151" rendition="Line" xml:id="facs_92_tr_3_tl_3"/>
+            <zone points="231,2323 2213,2331 2213,2277 2016,2269 231,2282" rendition="Line" xml:id="facs_92_tr_3_tl_5"/>
+            <zone points="233,2492 2185,2484 2185,2428 233,2438" rendition="Line" xml:id="facs_92_tr_3_tl_6"/>
+            <zone points="246,2653 1578,2661 2157,2628 2157,2577 246,2597" rendition="Line" xml:id="facs_92_tr_3_tl_7"/>
+            <zone points="231,2789 2187,2789 2187,2730 231,2741" rendition="Line" xml:id="facs_92_tr_3_tl_8"/>
+         </zone>
+         <zone points="41,2869 2236,2869 2236,3470 41,3470" rendition="TextRegion" xml:id="facs_92_tr_2">
+            <zone points="223,2933 2185,2933 2185,2879 223,2910" rendition="Line" xml:id="facs_92_tr_2_tl_1"/>
+            <zone points="223,3079 1729,3102 2231,3084 2231,3033 223,3056" rendition="Line" xml:id="facs_92_tr_2_tl_2"/>
+            <zone points="231,3237 528,3286 2064,3268 2064,3199 553,3237 231,3184" rendition="Line" xml:id="facs_92_tr_2_tl_3"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0376.jpg" n="part2_p092.jpg" xml:id="img_0092" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p092.jpg"/>
+            
+            <ab facs="#facs_92_tr_1">
+               <lb facs="#facs_92_tr_1_tl_1" n="N001"/>[371]
+               <lb facs="#facs_92_tr_1_tl_2" n="N002"/>the whole Middle Ages comes from above and is GIVEN to man, now comes from below and is
+               <lb facs="#facs_92_tr_1_tl_3" n="N003"/>aspired [toward], and is fought for, with the distortion of the bodily existence as it was rediscovered
+               <lb facs="#facs_92_tr_1_tl_4" n="N004"/>by the Renaissance. Therefore these long figures, these winding bodies, as we have them in the Baroque.
+               <lb facs="#facs_92_tr_1_tl_5" n="N005"/>It is an ecstasy from below, in contrast to the Middle Ages where the ecstasy comes from above.
+               <lb facs="#facs_92_tr_1_tl_6" n="N006"/>In the Protestant form of the reaction, we pointed to Rembrandt because here the individual
+               <lb facs="#facs_92_tr_1_tl_7" n="N007"/>relation of the individual to God is the decisive thing, not in terms of special acts of piety, but in terms
+               <lb facs="#facs_92_tr_1_tl_8" n="N008"/>of a biography painted in the faces of these old men and women, in which destiny and freedom
+               <lb facs="#facs_92_tr_1_tl_9" n="N009"/>in the light of the ultimate is visible, and is visible as a fight between destructive and creative
+               <lb facs="#facs_92_tr_1_tl_10" n="N010"/>elements. And in some of the late self-portraits of Rembrandt, the destructive is predominant, but it
+            </ab>
+            <ab facs="#facs_92_tr_3">
+               <lb facs="#facs_92_tr_3_tl_1" n="N001"/>always remains religious, in the Protestant sense of the word.
+               <lb facs="#facs_92_tr_3_tl_2" n="N002"/>With this we come to the end of this small and short period of reaction against the Renaissance.
+               <lb facs="#facs_92_tr_3_tl_3" n="N003"/>After 1650--again as a symbolic number--we have the great gap of religious art of 250 years
+               <lb facs="#facs_92_tr_3_tl_5" n="N004"/>in which I would say NO picture religiously worthwhile has been produced. Those which have been
+               <lb facs="#facs_92_tr_3_tl_6" n="N005"/>produced had certainly religious content, religious subject matter, but without a style in which the
+               <lb facs="#facs_92_tr_3_tl_7" n="N006"/>ground of reality broke through. And this is natural--that couldn’t be avoided--because in these
+               <lb facs="#facs_92_tr_3_tl_8" n="N007"/>250 years we see the development of industrial society, prepared under absolutism, fighting
+            </ab>
+            <ab facs="#facs_92_tr_2">
+               <lb facs="#facs_92_tr_2_tl_1" n="N001"/>against absolutism, victorious in the 19th century, attacked at the same time by movements which
+               <lb facs="#facs_92_tr_2_tl_2" n="N002"/>were partly victorious in the 20th century. This history is the history of our period. This was
+               <lb facs="#facs_92_tr_2_tl_3" n="N003"/>what was going on in the 250 years, and for this reason no religiouspicture [sic.] worth mentioning
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

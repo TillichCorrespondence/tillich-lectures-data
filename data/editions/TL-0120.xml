@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p120</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p120</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_120">
+         <graphic url="TL-0120.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TSKGTNYMRVMIIABTSGRHGGWE&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="38,248 38,3503 2337,3503 2337,248" rendition="TextRegion" xml:id="facs_120_tr_2">
+            <zone points="1130,318 1167,326 1175,333 1207,333 1212,328 1232,333 1240,326 1258,326 1258,245 1230,250 1215,245 1192,266 1130,263" rendition="Line" xml:id="facs_120_tr_2_tl_1"/>
+            <zone points="371,468 2227,498 2224,443 1726,443 1656,381 1536,441 371,423" rendition="Line" xml:id="facs_120_tr_2_tl_2"/>
+            <zone points="363,616 1095,634 1092,576 453,566 363,589" rendition="Line" xml:id="facs_120_tr_2_tl_3"/>
+            <zone points="356,769 1047,779 1175,839 2265,837 2285,736 2117,736 2067,689 1207,724 1165,686 1125,724 353,739" rendition="Line" xml:id="facs_120_tr_2_tl_5"/>
+            <zone points="356,957 2172,949 2172,892 1936,912 1879,877 1613,907 356,872" rendition="Line" xml:id="facs_120_tr_2_tl_6"/>
+            <zone points="343,1067 1884,1102 1859,1037 343,1022" rendition="Line" xml:id="facs_120_tr_2_tl_7"/>
+            <zone points="541,1220 1385,1235 1518,1335 1708,1303 1786,1242 2194,1247 2194,1187 1831,1185 1754,1107 1613,1107 1480,1182 541,1170" rendition="Line" xml:id="facs_120_tr_2_tl_8" subtype="paragraph"/>
+            <zone points="341,1365 2207,1398 2207,1333 341,1338" rendition="Line" xml:id="facs_120_tr_2_tl_9"/>
+            <zone points="343,1518 804,1556 2257,1548 2254,1488 341,1468" rendition="Line" xml:id="facs_120_tr_2_tl_10"/>
+            <zone points="336,1671 2147,1713 2262,1698 2262,1651 333,1616" rendition="Line" xml:id="facs_120_tr_2_tl_11"/>
+            <zone points="336,1821 2149,1851 2149,1794 2062,1789 336,1791" rendition="Line" xml:id="facs_120_tr_2_tl_12"/>
+            <zone points="336,1981 421,2022 1130,1984 1245,2037 2182,1996 2179,1941 2042,1936 336,1944" rendition="Line" xml:id="facs_120_tr_2_tl_13"/>
+            <zone points="328,2119 1025,2177 1090,2127 1180,2162 2292,2172 2292,2092 1926,2067 328,2092" rendition="Line" xml:id="facs_120_tr_2_tl_14"/>
+            <zone points="336,2280 2159,2317 2157,2247 2119,2244 336,2229" rendition="Line" xml:id="facs_120_tr_2_tl_15"/>
+            <zone points="268,2472 338,2425 446,2528 561,2533 709,2462 777,2530 944,2533 1117,2465 1245,2533 1488,2452 1573,2533 1723,2533 1821,2530 1931,2445 2017,2530 2177,2508 2177,2335 1991,2395 1909,2395 1809,2310 1598,2392 1385,2322 1175,2385 1050,2302 904,2317 837,2382 711,2340 621,2382 268,2357" rendition="Line" xml:id="facs_120_tr_2_tl_16"/>
+            <zone points="328,2583 391,2630 1500,2598 2194,2628 2194,2548 2147,2533 328,2528" rendition="Line" xml:id="facs_120_tr_2_tl_17"/>
+            <zone points="321,2758 391,2788 972,2735 2330,2756 2327,2695 2265,2690 318,2675" rendition="Line" xml:id="facs_120_tr_2_tl_18"/>
+            <zone points="311,2876 2212,2901 2212,2841 311,2846" rendition="Line" xml:id="facs_120_tr_2_tl_19"/>
+            <zone points="318,3076 839,3109 1135,3039 2257,3054 2257,2993 318,2978" rendition="Line" xml:id="facs_120_tr_2_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0120.jpg" n="part1_p120.jpg" xml:id="img_0120" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p120.jpg"/>
+            
+            <ab facs="#facs_120_tr_2">
+               <lb facs="#facs_120_tr_2_tl_1" n="N001"/>[117]
+               <lb facs="#facs_120_tr_2_tl_2" n="N002"/><rs type="keyword" ref="#Language">other being, a<rs type="keyword" ref="#Darwinism">nd that some adherents of Darwinism are in great distress about the fact that they</rs>
+               <lb break="no" facs="#facs_120_tr_2_tl_3" n="N003"/><rs type="keyword" ref="#Language">cannot make the young chimpanzees, even after many more months than a human being</rs>
+               <lb break="no" facs="#facs_120_tr_2_tl_5" n="N004"/><rs type="keyword" ref="#Language">needs, in order to learn his first words</rs></rs>. So there is indeed a jump, a qualitative difference, between
+               <lb facs="#facs_120_tr_2_tl_6" n="N005"/>man as we know him today, and any other living being on earth. <rs type="keyword" ref="#Meaning_of_God">To explain this, theologians
+               <lb break="no" facs="#facs_120_tr_2_tl_7" n="N006"/>have emphasized a special interfering act of creation by a highest divine Being.</rs>
+               <lb facs="#facs_120_tr_2_tl_8" n="N007"/>Now I would say, here again, the situation is one of confusion and even of demonic
+               <lb facs="#facs_120_tr_2_tl_9" n="N008"/>interference from both sides. <rs type="keyword" ref="#Language">The way in which the historical man whom we know--who has
+               <lb break="no" facs="#facs_120_tr_2_tl_10" n="N009"/>language, communicative language--has arisen, does not make any difference for the quality of his
+               <lb break="no" facs="#facs_120_tr_2_tl_11" n="N010"/>being</rs>. The development towards man is--as [is] every development--slow, and goes in many slow
+               <lb facs="#facs_120_tr_2_tl_12" n="N011"/>transitory steps. On the other hand, there is suddenly a speed in the development of nature,
+               <lb facs="#facs_120_tr_2_tl_13" n="N012"/>something new appears, something which is qualitatively different from all other beings which
+               <lb facs="#facs_120_tr_2_tl_14" n="N013"/>existed before. This is so in the gene development of life on earth, and it is so in those mutations
+               <lb facs="#facs_120_tr_2_tl_15" n="N014"/>which finally produce this being which we call our self, historical man, man who has <rs type="keyword" ref="#History">history</rs>,
+               <lb facs="#facs_120_tr_2_tl_16" n="N015"/>who has <rs type="keyword" ref="#Language">language</rs>, who has universals, who has <rs type="keyword" ref="#Freedom">freedom</rs>, who has responsibility, who has guilt,
+               <lb facs="#facs_120_tr_2_tl_17" n="N016"/>who knows about the temporal as well as about the eternal. We are not able to say in scientific
+               <lb facs="#facs_120_tr_2_tl_18" n="N017"/>terms when this man appears. We don't know how much we must attribute to slow steps of transition,
+               <lb facs="#facs_120_tr_2_tl_19" n="N018"/>and how much to speeded-up jumps of new appearances. This doesn’t matter. On the contrary:
+               <lb facs="#facs_120_tr_2_tl_20" n="N019"/>man is not separated from nature. Man's state can be seen in <rs type="keyword" ref="#Creation">creation</rs>, <rs type="keyword" ref="#The_Fall">fall</rs>, and <rs type="keyword" ref="#Salvation">salvation</rs>--the three
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

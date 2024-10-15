@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part3_p025</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p025</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_25">
+         <graphic url="TL-0417.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SIXYRNMKKTBEEFNPDFTJEAYE&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="295,293 2334,293 2334,1425 295,1425" rendition="TextRegion" xml:id="facs_25_tr_1">
+            <zone points="1130,355 1153,355 1163,366 1241,361 1236,287 1201,289 1193,292 1188,302 1127,302" rendition="Line" xml:id="facs_25_tr_1_tl_1"/>
+            <zone points="289,493 2331,526 2331,439 1528,470 1460,404 1361,470 289,460" rendition="Line" xml:id="facs_25_tr_1_tl_2"/>
+            <zone points="292,642 2221,678 2221,619 1490,614 1432,556 1343,614 292,619" rendition="Line" xml:id="facs_25_tr_1_tl_3"/>
+            <zone points="292,802 2270,838 2270,772 2193,767 292,749" rendition="Line" xml:id="facs_25_tr_1_tl_4"/>
+            <zone points="284,947 315,960 734,962 734,909 688,894 673,906 320,904 284,922" rendition="Line" xml:id="facs_25_tr_1_tl_5"/>
+            <zone points="437,1018 2206,1043 2204,982 434,990" rendition="Line" xml:id="facs_25_tr_1_tl_6"/>
+            <zone points="282,1175 2247,1203 2247,1142 2183,1140 282,1148" rendition="Line" xml:id="facs_25_tr_1_tl_7"/>
+            <zone points="282,1328 465,1330 477,1340 510,1330 635,1335 635,1274 503,1272 475,1295 452,1272 317,1272 282,1295" rendition="Line" xml:id="facs_25_tr_1_tl_8"/>
+            <zone points="434,1404 2247,1422 2247,1356 434,1340" rendition="Line" xml:id="facs_25_tr_1_tl_9"/>
+         </zone>
+         <zone points="274,1499 2277,1499 2277,2479 274,2479" rendition="TextRegion" xml:id="facs_25_tr_3">
+            <zone points="272,1551 2239,1574 2239,1523 2067,1516 272,1528" rendition="Line" xml:id="facs_25_tr_3_tl_1"/>
+            <zone points="272,1701 2150,1731 2084,1670 272,1658" rendition="Line" xml:id="facs_25_tr_3_tl_2"/>
+            <zone points="267,1853 2193,1876 2193,1820 267,1805" rendition="Line" xml:id="facs_25_tr_3_tl_3"/>
+            <zone points="264,2006 2181,2028 2143,1965 264,1960" rendition="Line" xml:id="facs_25_tr_3_tl_4"/>
+            <zone points="267,2166 2272,2178 2270,2125 1879,2110 267,2107" rendition="Line" xml:id="facs_25_tr_3_tl_5"/>
+            <zone points="259,2300 1551,2325 1551,2272 1490,2265 259,2277" rendition="Line" xml:id="facs_25_tr_3_tl_6"/>
+            <zone points="404,2531 2008,2501 2262,2475 2262,2419 401,2407" rendition="Line" xml:id="facs_25_tr_3_tl_7"/>
+         </zone>
+         <zone points="26,2550 2179,2550 2179,3491 26,3491" rendition="TextRegion" xml:id="facs_25_tr_2">
+            <zone points="246,2602 2143,2625 2143,2574 246,2559" rendition="Line" xml:id="facs_25_tr_2_tl_1"/>
+            <zone points="241,2749 2173,2772 2127,2714 241,2727" rendition="Line" xml:id="facs_25_tr_2_tl_2"/>
+            <zone points="236,2904 2054,2932 2001,2856 236,2879" rendition="Line" xml:id="facs_25_tr_2_tl_3"/>
+            <zone points="236,3062 2089,3087 2163,3024 236,3039" rendition="Line" xml:id="facs_25_tr_2_tl_4"/>
+            <zone points="234,3219 1043,3288 2036,3285 2034,3212 1214,3247 234,3194" rendition="Line" xml:id="facs_25_tr_2_tl_5"/>
+            <zone points="20,3493 63,3496 76,3486 94,3496 135,3491 122,3328 91,3331 84,3341 30,3328 8,3331" rendition="Line" xml:id="facs_25_tr_2_tl_6"/>
+            <zone points="211,3486 239,3493 272,3460 330,3455 373,3493 520,3478 538,3493 627,3496 630,3382 358,3369 284,3374 239,3399 213,3387" rendition="Line" xml:id="facs_25_tr_2_tl_7"/>
+            <zone points="1173,3443 1219,3425 1236,3432 1247,3422 1280,3422 1292,3435 1325,3437 1340,3453 1358,3437 1389,3430 1445,3450 1447,3384 1249,3379 1198,3394 1175,3382" rendition="Line" xml:id="facs_25_tr_2_tl_8"/>
+            <zone points="843,3443 861,3437 881,3443 899,3430 916,3448 927,3450 949,3430 967,3440 985,3430 995,3435 1018,3420 1038,3420 1041,3382 916,3379 891,3384 868,3402 845,3402" rendition="Line" xml:id="facs_25_tr_2_tl_9"/>
+            <zone points="1498,3420 1528,3432 1538,3430 1544,3435 1564,3437 1589,3420 1597,3425 1615,3425 1617,3374 1579,3371 1577,3374 1551,3371 1536,3377 1500,3374" rendition="Line" xml:id="facs_25_tr_2_tl_10"/>
+            <zone points="673,3493 731,3496 757,3486 774,3493 792,3488 797,3478 838,3496 861,3483 845,3374 772,3374 744,3402 708,3389 660,3394" rendition="Line" xml:id="facs_25_tr_2_tl_11"/>
+            <zone points="856,3486 883,3493 899,3486 919,3493 927,3486 975,3488 1005,3481 1028,3488 1038,3420 1018,3417 995,3435 982,3432 972,3440 937,3422 911,3422 889,3440 863,3440" rendition="Line" xml:id="facs_25_tr_2_tl_12"/>
+            <zone points="1173,3468 1229,3450 1274,3453 1290,3468 1313,3458 1351,3478 1427,3463 1450,3486 1472,3486 1495,3463 1521,3470 1521,3407 1462,3415 1442,3435 1363,3440 1348,3430 1333,3443 1277,3420 1229,3432 1188,3407 1173,3410" rendition="Line" xml:id="facs_25_tr_2_tl_13"/>
+            <zone points="1513,3453 1526,3453 1531,3458 1538,3455 1544,3460 1554,3453 1569,3460 1579,3453 1592,3463 1615,3450 1627,3450 1630,3420 1592,3422 1584,3415 1564,3432 1546,3435 1536,3427 1533,3430 1528,3425 1516,3425" rendition="Line" xml:id="facs_25_tr_2_tl_14"/>
+            <zone points="1518,3488 1538,3483 1556,3488 1571,3476 1584,3486 1589,3483 1617,3486 1610,3448 1597,3450 1592,3445 1584,3445 1574,3458 1566,3458 1559,3453 1546,3455 1538,3448 1533,3455 1513,3455" rendition="Line" xml:id="facs_25_tr_2_tl_15"/>
+            <zone points="261,3483 274,3483 279,3491 289,3496 300,3488 305,3493 340,3493 353,3422 335,3417 322,3420 320,3417 310,3427 300,3430 272,3427" rendition="Line" xml:id="facs_25_tr_2_tl_16"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0417.jpg" n="part3_p025.jpg" xml:id="img_0025" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p025.jpg"/>
+            
+            <ab facs="#facs_25_tr_1">
+               <lb facs="#facs_25_tr_1_tl_1" n="N001"/>412.
+               <lb facs="#facs_25_tr_1_tl_2" n="N002"/>and an ability to look on THES basis into the humanistic values with a new eye. And weffenreamt
+               <lb facs="#facs_25_tr_1_tl_3" n="N003"/>this, to a certain extent—it was possible to understand what happens in Greece or in Rome MüCH
+               <lb facs="#facs_25_tr_1_tl_4" n="N004"/>better in the light of the conflicts of the social situation in the twenties and, before that, in Germany
+               <lb facs="#facs_25_tr_1_tl_5" n="N005"/>and Europe generally.
+               <lb facs="#facs_25_tr_1_tl_6" n="N006"/>Mevertheless the shortcoming remained, namely the limitation to upper classes. And how
+               <lb facs="#facs_25_tr_1_tl_7" n="N007"/>strong this limitation was, I only learned when I came to this country, where the opposite difficulty
+               <lb facs="#facs_25_tr_1_tl_8" n="N008"/>seems to prevail.
+               <lb facs="#facs_25_tr_1_tl_9" n="N009"/>The second, [education] for skills, has a danger that it becomes an education of Kjustment.
+            </ab>
+            <ab facs="#facs_25_tr_3">
+               <lb facs="#facs_25_tr_3_tl_1" n="N001"/>And it is not by chance that it was invented by the absolute state— The absolute state which wanted
+               <lb facs="#facs_25_tr_3_tl_2" n="N002"/>to have skillful soldiers and skillfui industrial population. Absolutism introduced, from above,
+               <lb facs="#facs_25_tr_3_tl_3" n="N003"/>industrial activities into the respective lountries, and of course it needed people who were able to
+               <lb facs="#facs_25_tr_3_tl_4" n="N004"/>be taught the activities they had to perform in the context both of the military and the industrial
+               <lb facs="#facs_25_tr_3_tl_5" n="N005"/> Kntivities, and in the higher form also of some low lorministK estivities. The higher administration
+               <lb facs="#facs_25_tr_3_tl_6" n="N006"/>was still in the hands of those who wereilucated humanistically.
+               <lb facs="#facs_25_tr_3_tl_7" n="N007"/>I say the danger of this education is that it becomes an education to Kjustment. Adjustment
+            </ab>
+            <ab facs="#facs_25_tr_2">
+               <lb facs="#facs_25_tr_2_tl_1" n="N001"/>has two meanings: to overcome a-social tendencies which are simply negative, in a pupil; and to
+               <lb facs="#facs_25_tr_2_tl_2" n="N002"/>introduce the pupil into the norms and conventions of a given society. The danger is that while
+               <lb facs="#facs_25_tr_2_tl_3" n="N003"/>the teachers, especially in this country, try to adjust the children into the necessities of life,
+               <lb facs="#facs_25_tr_2_tl_4" n="N004"/>the conconditional necessities—not to become an outlaw, etc., which is right—THEY ALSO adjust
+               <lb facs="#facs_25_tr_2_tl_5" n="N005"/>to the conventions and take away from them the possibility to say No to ANY convention,
+               <lb facs="#facs_25_tr_2_tl_6" n="N006"/>ne se
+               <lb facs="#facs_25_tr_2_tl_7" n="N007"/>dʼune manière beaucoup dʼautres
+               <lb facs="#facs_25_tr_2_tl_8" n="N008"/>dʼun autre vie de ses
+               <lb facs="#facs_25_tr_2_tl_9" n="N009"/>dʼune manière vieuse
+               <lb facs="#facs_25_tr_2_tl_10" n="N010"/>Monsieur Mounard
+               <lb facs="#facs_25_tr_2_tl_11" n="N011"/>est toujours
+               <lb facs="#facs_25_tr_2_tl_12" n="N012"/>dans le Comte de
+               <lb facs="#facs_25_tr_2_tl_13" n="N013"/>décrire, sont aussi les
+               <lb facs="#facs_25_tr_2_tl_14" n="N014"/>vous avez luisé
+               <lb facs="#facs_25_tr_2_tl_15" n="N015"/>cʼest à lire
+               <lb facs="#facs_25_tr_2_tl_16" n="N016"/>Monsieur
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

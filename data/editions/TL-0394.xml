@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part3_p002</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p002</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
+         <graphic url="TL-0394.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FDHVQWJAOREWTSWXFEHPBXGA&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,347 2254,347 2254,1702 298,1702" rendition="TextRegion" xml:id="facs_2_tr_2">
+            <zone points="1114,403 1139,413 1171,415 1213,415 1221,408 1236,408 1238,348 1203,351 1196,343 1174,343 1151,363 1116,361" rendition="Line" xml:id="facs_2_tr_2_tl_1"/>
+            <zone points="291,549 654,574 975,554 975,495 868,495 845,517 825,500 806,520 781,497 756,522 711,495 567,485 532,517 497,482 291,497" rendition="Line" xml:id="facs_2_tr_2_tl_2" subtype="heading"/>
+            <zone points="293,699 1770,738 1770,659 1720,632 293,641" rendition="Line" xml:id="facs_2_tr_2_tl_3"/>
+            <zone points="283,833 2083,838 2083,781 283,786" rendition="Line" xml:id="facs_2_tr_2_tl_4"/>
+            <zone points="291,987 2121,992 2230,980 2230,925 291,930" rendition="Line" xml:id="facs_2_tr_2_tl_5"/>
+            <zone points="288,1124 2190,1126 2243,1069 288,1079" rendition="Line" xml:id="facs_2_tr_2_tl_6"/>
+            <zone points="288,1266 1919,1275 2205,1258 2205,1211 291,1236" rendition="Line" xml:id="facs_2_tr_2_tl_7"/>
+            <zone points="288,1417 2213,1415 2213,1353 288,1365" rendition="Line" xml:id="facs_2_tr_2_tl_8"/>
+            <zone points="288,1549 2250,1556 2250,1497 288,1502" rendition="Line" xml:id="facs_2_tr_2_tl_9"/>
+            <zone points="283,1698 2223,1693 2223,1633 283,1646" rendition="Line" xml:id="facs_2_tr_2_tl_10"/>
+         </zone>
+         <zone points="50,1774 2289,1774 2289,3491 50,3491" rendition="TextRegion" xml:id="facs_2_tr_1">
+            <zone points="288,1842 2282,1837 2282,1780 288,1790" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
+            <zone points="283,1987 2019,1991 2128,1982 2131,1927 283,1952" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+            <zone points="281,2118 2133,2133 2151,2066 281,2096" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+            <zone points="278,2258 2074,2270 2203,2258 2205,2205 281,2233" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+            <zone points="273,2404 2161,2414 2248,2404 2248,2345 273,2374" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+            <zone points="273,2556 2185,2558 2235,2494 273,2509" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+            <zone points="276,2685 2106,2693 2238,2685 2238,2628 276,2660" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+            <zone points="276,2832 2024,2844 2170,2822 2170,2765 276,2807" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+            <zone points="276,2979 1733,2991 2108,2966 2111,2916 278,2931" rendition="Line" xml:id="facs_2_tr_1_tl_10"/>
+            <zone points="266,3113 2031,3125 2121,3110 2121,3056 266,3085" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
+            <zone points="276,3264 2071,3264 2071,3212 276,3215" rendition="Line" xml:id="facs_2_tr_1_tl_12"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0394.jpg" n="part3_p002.jpg" xml:id="img_0002" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p002.jpg"/>
+            
+            <ab facs="#facs_2_tr_2">
+               <lb facs="#facs_2_tr_2_tl_1" n="N001"/>[389]
+               <lb facs="#facs_2_tr_2_tl_2" n="N002"/>LECTURE XXXI, March 1, 1956
+               <lb facs="#facs_2_tr_2_tl_3" n="N003"/>QN: Please differentiate between great art and art that is religious in style.
+               <lb facs="#facs_2_tr_2_tl_4" n="N004"/>PT: This is a question returning to the former period of our lecture[s] on religion and art.
+               <lb facs="#facs_2_tr_2_tl_5" n="N005"/>Now the question was: How would one differentiate between great art and art which is religious
+               <lb facs="#facs_2_tr_2_tl_6" n="N006"/>art? The word ''GREAT art'' should be used only for ''highly qualified'' art. What makes a work
+               <lb facs="#facs_2_tr_2_tl_7" n="N007"/>of art a good work of art, or even a great work of art, belongs to the aesthetic analysis and to the
+               <lb facs="#facs_2_tr_2_tl_8" n="N008"/>principles which are developed there. It is of course a union of artistic expressive power, of form,
+               <lb facs="#facs_2_tr_2_tl_9" n="N009"/>of content, which has one moment of indescribable character, but where we at least can approach,
+               <lb facs="#facs_2_tr_2_tl_10" n="N010"/>in a kind of immediacy, works of art. It is an interesting thing that if, under the sands of the Near
+            </ab>
+            <ab facs="#facs_2_tr_1">
+               <lb facs="#facs_2_tr_1_tl_1" n="N001"/>East, or in the caves of China or of India, we find very old parts of very old creations, those who have
+               <lb facs="#facs_2_tr_1_tl_2" n="N002"/>an artistic ability at all would immediately say ''This is quality,'' and they find something else
+               <lb facs="#facs_2_tr_1_tl_4" n="N003"/>and would say ''This is not quality, this is average, or even lower than that.'' Now the mystery
+               <lb facs="#facs_2_tr_1_tl_5" n="N004"/>of this belongs to another realm than that which we have to discuss. Religious art with respect to
+               <lb facs="#facs_2_tr_1_tl_6" n="N005"/>style was characterized as an expressionistic art. Expressionistic art can be poor, average, good, and
+               <lb facs="#facs_2_tr_1_tl_7" n="N006"/>great. Here we have exactly the same thing. There was a moment, perhaps ten or fifteen years ago,
+               <lb facs="#facs_2_tr_1_tl_8" n="N007"/>when modern art came first into the field of attention of larger groups of people; before that, it was
+               <lb facs="#facs_2_tr_1_tl_9" n="N008"/>rather kept in smaller circles of esoteric character. In this moment in which it became open and
+               <lb facs="#facs_2_tr_1_tl_10" n="N009"/>exoteric, the danger developed that everything which has a modern style (is either abstract or
+               <lb facs="#facs_2_tr_1_tl_11" n="N010"/>expressionistic or surrealistic) was admired. And the criteria of poor, average, good, and great
+               <lb facs="#facs_2_tr_1_tl_12" n="N011"/>were not applied any more. And this is always hard, there is always a large margin of error,
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p100</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p100</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_100">
+         <graphic url="TL-0384.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XZDVKGCTBUBPXMEUXMGOUOQC&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="71,24 2218,24 2218,1729 71,1729" rendition="TextRegion" xml:id="facs_100_tr_1">
+            <zone points="1039,347 1061,350 1074,360 1111,355 1156,360 1163,285 1136,285 1099,305 1076,300 1061,312 1044,310" rendition="Line" xml:id="facs_100_tr_1_tl_2"/>
+            <zone points="414,506 1996,501 2091,494 2091,449 1476,419 1428,461 570,474 469,434 414,474" rendition="Line" xml:id="facs_100_tr_1_tl_3"/>
+            <zone points="156,702 2133,645 2133,580 412,635 159,575" rendition="Line" xml:id="facs_100_tr_1_tl_4"/>
+            <zone points="218,823 2145,796 2118,739 221,769" rendition="Line" xml:id="facs_100_tr_1_tl_5"/>
+            <zone points="221,970 2039,957 2210,945 2212,888 223,918" rendition="Line" xml:id="facs_100_tr_1_tl_6"/>
+            <zone points="218,1123 2063,1101 2083,1044 221,1076" rendition="Line" xml:id="facs_100_tr_1_tl_7"/>
+            <zone points="223,1285 2058,1257 2058,1200 1942,1188 226,1225" rendition="Line" xml:id="facs_100_tr_1_tl_8"/>
+            <zone points="216,1426 350,1488 548,1443 957,1476 2014,1406 2098,1396 2098,1342 216,1396" rendition="Line" xml:id="facs_100_tr_1_tl_9"/>
+            <zone points="221,1580 1875,1565 2168,1548 2168,1493 223,1528" rendition="Line" xml:id="facs_100_tr_1_tl_10"/>
+            <zone points="218,1729 1649,1743 2101,1704 2118,1647 218,1679" rendition="Line" xml:id="facs_100_tr_1_tl_11"/>
+         </zone>
+         <zone points="226,1789 2254,1789 2254,2938 226,2938" rendition="TextRegion" xml:id="facs_100_tr_3">
+            <zone points="213,1870 325,1924 925,1922 2091,1853 2115,1796 216,1845" rendition="Line" xml:id="facs_100_tr_3_tl_1"/>
+            <zone points="218,2019 1959,2016 2153,2006 2155,1947 218,1974" rendition="Line" xml:id="facs_100_tr_3_tl_2"/>
+            <zone points="221,2175 2056,2158 2058,2096 221,2130" rendition="Line" xml:id="facs_100_tr_3_tl_3"/>
+            <zone points="221,2324 2006,2316 2029,2257 221,2299" rendition="Line" xml:id="facs_100_tr_3_tl_4"/>
+            <zone points="218,2475 1962,2470 2175,2450 2175,2391 218,2450" rendition="Line" xml:id="facs_100_tr_3_tl_5"/>
+            <zone points="221,2629 2118,2606 2145,2547 223,2584" rendition="Line" xml:id="facs_100_tr_3_tl_6"/>
+            <zone points="491,2785 2118,2760 2244,2748 2247,2688 491,2726" rendition="Line" xml:id="facs_100_tr_3_tl_7"/>
+            <zone points="231,2939 2073,2916 2153,2902 2155,2845 231,2879" rendition="Line" xml:id="facs_100_tr_3_tl_9"/>
+         </zone>
+         <zone points="78,2992 2191,2992 2191,3476 78,3476" rendition="TextRegion" xml:id="facs_100_tr_2">
+            <zone points="221,3088 2083,3060 2083,2993 223,3038" rendition="Line" xml:id="facs_100_tr_2_tl_1"/>
+            <zone points="223,3246 2185,3274 2185,3209 223,3199" rendition="Line" xml:id="facs_100_tr_2_tl_2"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0384.jpg" n="part2_p100.jpg" xml:id="img_0100" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p100.jpg"/>
+            
+            <ab facs="#facs_100_tr_1">
+               <lb facs="#facs_100_tr_1_tl_2" n="N001"/>[379]
+               <lb facs="#facs_100_tr_1_tl_3" n="N002"/>This leads me to a more fundamental anthropological problem that belongs here, the
+               <lb facs="#facs_100_tr_1_tl_4" n="N003"/>problem of conditioned reflexes. You know that this is the most beloved Russian theory because
+               <lb facs="#facs_100_tr_1_tl_5" n="N004"/>it was a Russian who invented it, Pavlov, and today the Russian philosophers--if we call them like
+               <lb facs="#facs_100_tr_1_tl_6" n="N005"/>that (at least the interpreters of the system)--are determined by this idea. But unfortunately there is
+               <lb facs="#facs_100_tr_1_tl_7" n="N006"/>so much truth in this idea that many people in the Western world also have accepted this truth
+               <lb facs="#facs_100_tr_1_tl_8" n="N007"/>and have now generalized it into a doctrine of man: man is a bearer of conditioned reflexes,
+               <lb facs="#facs_100_tr_1_tl_9" n="N008"/>so if you condition him, then the outcome will be as you want it to be. And we are here in the
+               <lb facs="#facs_100_tr_1_tl_10" n="N009"/>sphere of two books which have carried through this caricature to the most radical point. The one
+               <lb facs="#facs_100_tr_1_tl_11" n="N010"/>is Huxley’s <hi style="font-style: italic;">Brave New World</hi>, and the other is the year, <hi style="font-style: italic;">1984</hi>, by Orwell. These two books are
+            </ab>
+            <ab facs="#facs_100_tr_3">
+               <lb facs="#facs_100_tr_3_tl_1" n="N001"/>completely dependent on the theory of conditioned reflexes and use this theory to the extreme.
+               <lb facs="#facs_100_tr_3_tl_2" n="N002"/>The dictators also did it in the concentration camps and in many other ways--marching, working
+               <lb facs="#facs_100_tr_3_tl_3" n="N003"/>in gangs, etc. And they had a very good result, especially in the concentration camps where
+               <lb facs="#facs_100_tr_3_tl_4" n="N004"/>they wanted to transform human beings completely into objects determined exclusively by
+               <lb facs="#facs_100_tr_3_tl_5" n="N005"/>conditioned reflexes. That was the meaning of these institutions, which had no meaning otherwise
+               <lb facs="#facs_100_tr_3_tl_6" n="N006"/>because when they were in full swing, there were no enemies any more. But the intention was to
+               <lb facs="#facs_100_tr_3_tl_7" n="N007"/>point within a whole nation, places where the whole nation is subjected to radical conditioned
+               <lb facs="#facs_100_tr_3_tl_9" n="N008"/>reflexes. Not everybody was in the concentration camp; but the fear of being in it was enough to
+            </ab>
+            <ab facs="#facs_100_tr_2">
+               <lb facs="#facs_100_tr_2_tl_1" n="N001"/>produce, even in the others, as much conditioned reflexes as the dictators wanted--BUT NOT
+               <lb facs="#facs_100_tr_2_tl_2" n="N002"/>QUITE AS MUCH--and this is the important thing to learn from these experiments in which theory
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

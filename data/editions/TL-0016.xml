@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p016</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p016</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_16">
+         <graphic url="TL-0016.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=THFZYYNNMYKWMTTGBRVBRPME&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="131,277 167,3247 2441,3244 2433,277" rendition="TextRegion" xml:id="facs_16_tr_1">
+            <zone points="1201,323 1220,323 1251,331 1283,331 1283,260 1270,260 1259,265 1254,262 1235,281 1201,281" rendition="Line" xml:id="facs_16_tr_1_tl_1"/>
+            <zone points="262,514 2248,504 2248,437 2134,419 578,451 488,398 395,456 262,419" rendition="Line" xml:id="facs_16_tr_1_tl_2"/>
+            <zone points="260,581 1209,615 2100,575 2100,522 2047,514 260,525" rendition="Line" xml:id="facs_16_tr_1_tl_3"/>
+            <zone points="260,689 2264,673 2264,610 2216,597 260,615" rendition="Line" xml:id="facs_16_tr_1_tl_4"/>
+            <zone points="262,761 2248,742 2222,684 2092,700 2034,658 1938,697 262,708" rendition="Line" xml:id="facs_16_tr_1_tl_5"/>
+            <zone points="260,835 2238,830 2238,764 2174,753 2018,790 1644,756 262,785" rendition="Line" xml:id="facs_16_tr_1_tl_6"/>
+            <zone points="262,933 2116,917 2116,856 1864,835 1657,870 262,870" rendition="Line" xml:id="facs_16_tr_1_tl_7"/>
+            <zone points="262,1013 737,1045 1355,994 1771,1029 1827,994 2288,997 2288,949 2158,931 1737,946 1633,912 1440,954 262,949" rendition="Line" xml:id="facs_16_tr_1_tl_8"/>
+            <zone points="257,1106 2232,1076 2232,1026 1988,1007 1532,1007 1461,1050 1418,1018 257,1034" rendition="Line" xml:id="facs_16_tr_1_tl_9"/>
+            <zone points="257,1172 1053,1169 1241,1206 2277,1161 2277,1098 2198,1095 257,1137" rendition="Line" xml:id="facs_16_tr_1_tl_10"/>
+            <zone points="262,1283 2102,1273 2102,1188 679,1209 467,1172 262,1206" rendition="Line" xml:id="facs_16_tr_1_tl_11"/>
+            <zone points="262,1381 1201,1365 1201,1289 1034,1270 262,1294" rendition="Line" xml:id="facs_16_tr_1_tl_12"/>
+            <zone points="504,1426 2065,1410 2065,1363 1912,1342 504,1363" rendition="Line" xml:id="facs_16_tr_1_tl_13" subtype="paragraph"/>
+            <zone points="260,1517 2224,1501 2224,1448 1914,1429 1164,1426 970,1466 262,1413" rendition="Line" xml:id="facs_16_tr_1_tl_14"/>
+            <zone points="262,1620 2161,1583 2161,1524 2100,1519 262,1530" rendition="Line" xml:id="facs_16_tr_1_tl_15"/>
+            <zone points="260,1678 1326,1668 1387,1702 1485,1665 2140,1662 2140,1607 1912,1588 819,1625 533,1591 260,1636" rendition="Line" xml:id="facs_16_tr_1_tl_16"/>
+            <zone points="262,1792 594,1750 1429,1795 1763,1739 1925,1779 2169,1750 2169,1689 1882,1668 1501,1707 1291,1668 973,1715 883,1678 716,1715 262,1684" rendition="Line" xml:id="facs_16_tr_1_tl_17"/>
+            <zone points="262,1861 2150,1829 2150,1784 1845,1760 262,1795" rendition="Line" xml:id="facs_16_tr_1_tl_18"/>
+            <zone points="262,1957 750,1920 1405,1962 1726,1920 1824,1959 2235,1920 2235,1864 2028,1872 1962,1824 1811,1864 1471,1843 1424,1882 1108,1843 994,1880 262,1864" rendition="Line" xml:id="facs_16_tr_1_tl_20"/>
+            <zone points="260,2049 2140,2002 2140,1951 2079,1938 260,1957" rendition="Line" xml:id="facs_16_tr_1_tl_21"/>
+            <zone points="262,2116 1713,2126 2126,2081 2394,2118 2394,2026 2222,2004 2163,2036 1509,2007 1458,2041 262,2047" rendition="Line" xml:id="facs_16_tr_1_tl_23"/>
+            <zone points="504,2179 620,2214 2105,2193 2087,2097 1970,2132 1572,2100 504,2145" rendition="Line" xml:id="facs_16_tr_1_tl_24" subtype="paragraph"/>
+            <zone points="260,2275 2171,2272 2171,2203 2118,2190 260,2208" rendition="Line" xml:id="facs_16_tr_1_tl_25"/>
+            <zone points="260,2370 2206,2354 2206,2267 260,2283" rendition="Line" xml:id="facs_16_tr_1_tl_26"/>
+            <zone points="260,2447 2187,2418 2187,2365 1999,2352 262,2370" rendition="Line" xml:id="facs_16_tr_1_tl_27"/>
+            <zone points="260,2548 2169,2503 2169,2452 2004,2418 1790,2458 1702,2418 1442,2463 260,2458" rendition="Line" xml:id="facs_16_tr_1_tl_28"/>
+            <zone points="268,2625 2174,2609 2174,2524 1896,2513 268,2548" rendition="Line" xml:id="facs_16_tr_1_tl_29"/>
+            <zone points="262,2675 371,2720 684,2723 2211,2670 2166,2609 1718,2596 262,2625" rendition="Line" xml:id="facs_16_tr_1_tl_30"/>
+            <zone points="514,2760 2224,2768 2224,2694 1829,2678 514,2710" rendition="Line" xml:id="facs_16_tr_1_tl_31" subtype="paragraph"/>
+            <zone points="255,2853 337,2887 1365,2885 1906,2834 2254,2866 2254,2771 2169,2757 1864,2797 255,2802" rendition="Line" xml:id="facs_16_tr_1_tl_32"/>
+            <zone points="265,2964 2211,2924 2211,2866 2137,2853 437,2900 265,2871" rendition="Line" xml:id="facs_16_tr_1_tl_33"/>
+            <zone points="257,3033 2190,3012 2193,2946 1540,2930 1262,2980 1084,2943 260,2969" rendition="Line" xml:id="facs_16_tr_1_tl_34"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0016.jpg" n="part1_p016.jpg" xml:id="img_0016" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p016.jpg"/>
+            
+            <ab facs="#facs_16_tr_1">
+               <lb facs="#facs_16_tr_1_tl_1" n="N001"/>[13]
+               <lb facs="#facs_16_tr_1_tl_2" n="N002"/>is the expressive function. It expresses the two sides of the encounter of subject and object,
+               <lb facs="#facs_16_tr_1_tl_3" n="N003"/>of the cultural creativity. For example a painting: it expresses the life power of the
+               <lb facs="#facs_16_tr_1_tl_4" n="N004"/>encountered reality. For instance, if a tree is painted, the inner life power of this astonishing
+               <lb facs="#facs_16_tr_1_tl_5" n="N005"/>reality which we call a tree; not astonishing for our daily life, but astonishing for the artistic
+               <lb facs="#facs_16_tr_1_tl_6" n="N006"/>view, which not only the artist but every human being has sometimes, when he looks at the
+               <lb facs="#facs_16_tr_1_tl_7" n="N007"/>greatness and the miraculous character of a tree. This is expressed in a great painting.
+               <lb facs="#facs_16_tr_1_tl_8" n="N008"/>It is different from the cognitive perception, which describes scientifically the relations this tree
+               <lb facs="#facs_16_tr_1_tl_9" n="N009"/>has to its own causes, to its surroundings, to its effects, etc. It sees something else, it sees
+               <lb facs="#facs_16_tr_1_tl_10" n="N010"/>the power-of-being in a tree, and therefore it doesn’t need to be naturalistic or photographical:
+               <lb facs="#facs_16_tr_1_tl_11" n="N011"/>it EXPRESSES. And therefore in some way all great art is ''expressionistic," although
+               <lb facs="#facs_16_tr_1_tl_12" n="N012"/>this word has been used for a special style.
+               <lb facs="#facs_16_tr_1_tl_13" n="N013"/>On the other hand the other side of expression is the way in which the
+               <lb facs="#facs_16_tr_1_tl_14" n="N014"/>artistic mind RECEIVES this life power. And not everybody receives this in the same way.
+               <lb facs="#facs_16_tr_1_tl_15" n="N015"/>Nobody does. And all the great artistic styles and their individual representatives express
+               <lb facs="#facs_16_tr_1_tl_16" n="N016"/>their reception of the life power of reality in a different way, according to their special
+               <lb facs="#facs_16_tr_1_tl_17" n="N017"/>style. We can make this duality of expression (expressing the object--its life power; and
+               <lb facs="#facs_16_tr_1_tl_18" n="N018"/>expressing the subject--its receptive power) in dividing the arts. Perhaps of all the arts
+               <lb facs="#facs_16_tr_1_tl_20" n="N019"/>the visual arts express most adequately the life power of things, while music expresses ALSO
+               <lb facs="#facs_16_tr_1_tl_21" n="N020"/>life power, but more predominantly the subjective element. But there is no alternative--
+               <lb facs="#facs_16_tr_1_tl_23" n="N021"/>either subjective or objective--both are always present, but the emphasis is always different.
+               <lb facs="#facs_16_tr_1_tl_24" n="N022"/>Artistic, <rs type="keyword" ref="#Aesthetic_Intuition">aesthetic elements</rs>--elements of expressive power--are present in all
+               <lb facs="#facs_16_tr_1_tl_25" n="N023"/>other functions, IN all language. Therefore the early language is often at least as poetic,
+               <lb facs="#facs_16_tr_1_tl_26" n="N024"/>as scientific, and as technical. It has all three elements in itself. And even the creation of
+               <lb facs="#facs_16_tr_1_tl_27" n="N025"/>GOOD tools is an artistic creation besides being a technical one. So these three functions
+               <lb facs="#facs_16_tr_1_tl_28" n="N026"/>permeate each other. And this is especially true of the historical vision of reality and the
+               <lb facs="#facs_16_tr_1_tl_29" n="N027"/>philosophical perception of it. Every historian is in some way an artist, and a philosopher
+               <lb facs="#facs_16_tr_1_tl_30" n="N028"/>without artistic intuition is not a philosopher--a craftsman perhaps, but not more than this.
+               <lb facs="#facs_16_tr_1_tl_31" n="N029"/>On the other hand--and this is an important statement which is much discussed--,
+               <lb facs="#facs_16_tr_1_tl_32" n="N030"/>there are cognitive elements in every artistic creation. Artistic creations reveal levels of reality.
+               <lb facs="#facs_16_tr_1_tl_33" n="N031"/>Take a novel: the classical novels, e.g., Dostoievsky, have revealed more of the psychological
+               <lb facs="#facs_16_tr_1_tl_34" n="N032"/>nature than perhaps any academic psychologist ever did. It is interesting to see how today
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p056</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p056</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_56">
+         <graphic url="TL-0340.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RCCZOMTEIXDKVTHHBTBGUAIS&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="268,290 2271,290 2303,2060 246,2082" rendition="TextRegion" xml:id="facs_56_tr_1">
+            <zone points="1101,347 1159,357 1206,357 1211,352 1224,355 1226,295 1191,295 1176,282 1164,292 1151,292 1139,305 1104,305" rendition="Line" xml:id="facs_56_tr_1_tl_1"/>
+            <zone points="262,547 2060,507 1993,452 265,475" rendition="Line" xml:id="facs_56_tr_1_tl_2"/>
+            <zone points="255,692 2110,672 2175,669 2175,612 255,634" rendition="Line" xml:id="facs_56_tr_1_tl_3"/>
+            <zone points="267,852 2080,824 2080,764 267,814" rendition="Line" xml:id="facs_56_tr_1_tl_4"/>
+            <zone points="257,997 2033,982 2088,909 257,962" rendition="Line" xml:id="facs_56_tr_1_tl_5"/>
+            <zone points="257,1149 2090,1119 2143,1051 260,1089" rendition="Line" xml:id="facs_56_tr_1_tl_6"/>
+            <zone points="267,1304 722,1301 722,1244 504,1249 485,1269 465,1249 300,1249 267,1269" rendition="Line" xml:id="facs_56_tr_1_tl_7"/>
+            <zone points="262,1454 2185,1429 2188,1376 627,1361 262,1414" rendition="Line" xml:id="facs_56_tr_1_tl_8" subtype="paragraph"/>
+            <zone points="260,1596 2120,1581 2270,1528 260,1543" rendition="Line" xml:id="facs_56_tr_1_tl_9"/>
+            <zone points="260,1743 2005,1728 2238,1718 2238,1663 260,1698" rendition="Line" xml:id="facs_56_tr_1_tl_10"/>
+            <zone points="260,1893 2105,1878 2238,1866 2238,1818 262,1866" rendition="Line" xml:id="facs_56_tr_1_tl_11"/>
+            <zone points="260,2045 624,2060 952,2035 1026,2055 1056,2045 1056,1996 400,1991 260,2023" rendition="Line" xml:id="facs_56_tr_1_tl_12"/>
+         </zone>
+         <zone points="248,2084 2301,2058 2309,3257 234,3248" rendition="TextRegion" xml:id="facs_56_tr_2">
+            <zone points="272,2205 1826,2190 2108,2173 2108,2110 272,2168" rendition="Line" xml:id="facs_56_tr_2_tl_1" subtype="paragraph"/>
+            <zone points="275,2350 2113,2328 2115,2260 275,2318" rendition="Line" xml:id="facs_56_tr_2_tl_2"/>
+            <zone points="262,2505 1858,2500 2235,2428 265,2475" rendition="Line" xml:id="facs_56_tr_2_tl_3"/>
+            <zone points="267,2657 2033,2630 2125,2622 2128,2565 267,2627" rendition="Line" xml:id="facs_56_tr_2_tl_4"/>
+            <zone points="272,2810 2050,2782 2133,2772 2135,2710 272,2775" rendition="Line" xml:id="facs_56_tr_2_tl_5"/>
+            <zone points="270,2960 2148,2932 2185,2855 270,2925" rendition="Line" xml:id="facs_56_tr_2_tl_6"/>
+            <zone points="275,3109 2203,3079 2205,3009 275,3052" rendition="Line" xml:id="facs_56_tr_2_tl_7"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0340.jpg" n="part2_p056.jpg" xml:id="img_0056" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p056.jpg"/>
+            
+            <ab facs="#facs_56_tr_1">
+               <lb facs="#facs_56_tr_1_tl_1" n="N001"/>[335]
+               <lb facs="#facs_56_tr_1_tl_2" n="N002"/>7) Carpaccio: <hi style="font-style: italic;">EXORCISM OF A DEMON</hi>--Yes, now, this sounds religious--<hi style="font-style: italic;">[laughter]</hi>--
+               <lb facs="#facs_56_tr_1_tl_3" n="N003"/>I didn't choose it for that purpose, but it was one of the few pictures available about the behavior
+               <lb facs="#facs_56_tr_1_tl_4" n="N004"/>of Renaissance society. This is a very secular society, and the subject matter doesn't make it
+               <lb facs="#facs_56_tr_1_tl_5" n="N005"/>religious at all. So we can take it actually as a picture which has not only a naturalistic style,
+               <lb facs="#facs_56_tr_1_tl_6" n="N006"/>but also a secular subject matter. Now look at it, and I go on and will then speak about another
+               <lb facs="#facs_56_tr_1_tl_7" n="N007"/>one in the same realm.
+               <lb facs="#facs_56_tr_1_tl_8" n="N008"/>8) Ostade: <hi style="font-style: italic;">TAVERN</hi>--This is one of these very not only naturalistic but also realistic pictures,
+               <lb facs="#facs_56_tr_1_tl_9" n="N009"/>by one of the great Dutch naturalists. While the first also has most of the Italian Renaissance painters
+               <lb facs="#facs_56_tr_1_tl_10" n="N010"/>in the idealistic shadow or idealistic color, let us say, of naturalism, this is more in the realistic form.
+               <lb facs="#facs_56_tr_1_tl_11" n="N011"/>Both are naturalism, the one more idealistic (idealizing beauty), this more realistic, making a picture
+               <lb facs="#facs_56_tr_1_tl_12" n="N012"/>out of something which in itself is ugly.
+            </ab>
+            <ab facs="#facs_56_tr_2">
+               <lb facs="#facs_56_tr_2_tl_1" n="N001"/>9) Jan Steen: <hi style="font-style: italic;">LOOSE LIVING</hi>--About Steen, I must tell you a personal story. When I first
+               <lb facs="#facs_56_tr_2_tl_2" n="N002"/>was asked to give a lecture on religion and art in the National Gallery in Washington, I walked
+               <lb facs="#facs_56_tr_2_tl_3" n="N003"/>through the Gallery there, which is one of the first galleries of the world--''first'' in the value sense--
+               <lb facs="#facs_56_tr_2_tl_4" n="N004"/>and thought, ''Now, what will I see?'' I simply let myself go--not my mind, but my foot, was
+               <lb facs="#facs_56_tr_2_tl_5" n="N005"/>driving, and I was driven to a familiar picture like this--it itself was not available--but they are
+               <lb facs="#facs_56_tr_2_tl_6" n="N006"/>all very similar. And I asked myself. ''Now what about the religious character of such a picture?
+               <lb facs="#facs_56_tr_2_tl_7" n="N007"/>It is on the extreme side of the non-religious, in SOME way.'' And then I was ashamed of myself,
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

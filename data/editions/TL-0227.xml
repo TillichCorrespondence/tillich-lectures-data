@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p227</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p227</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_227">
+         <graphic url="TL-0227.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AEDCHQDFDAOMWZLBAGPHMGMW&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="277,201 277,3441 2337,3441 2337,201" rendition="TextRegion" xml:id="facs_227_tr_2">
+            <zone points="1038,274 1051,274 1069,294 1089,289 1113,294 1120,286 1164,286 1166,225 1136,225 1128,233 1107,235 1089,215 1072,228 1041,228" rendition="Line" xml:id="facs_227_tr_2_tl_1"/>
+            <zone points="263,450 1378,432 1355,381 266,412" rendition="Line" xml:id="facs_227_tr_2_tl_2"/>
+            <zone points="435,606 524,644 2046,611 2146,565 2148,512 1916,491 1867,529 1793,499 1522,537 1440,506 1399,540 1345,506 1207,547 1077,514 1005,552 795,522 744,558 683,524 621,563 501,527 435,565" rendition="Line" xml:id="facs_227_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="276,770 512,803 1378,726 2010,726 2107,716 2110,652 279,696" rendition="Line" xml:id="facs_227_tr_2_tl_4"/>
+            <zone points="269,913 478,964 550,931 1471,946 2153,898 2153,824 2100,806 271,854" rendition="Line" xml:id="facs_227_tr_2_tl_5"/>
+            <zone points="269,1051 696,1049 744,1092 2128,1061 2161,954 269,1005" rendition="Line" xml:id="facs_227_tr_2_tl_6"/>
+            <zone points="271,1205 1217,1182 1304,1253 2248,1166 2248,1105 2199,1105 271,1179" rendition="Line" xml:id="facs_227_tr_2_tl_7"/>
+            <zone points="281,1358 1918,1335 2166,1317 2169,1266 281,1309" rendition="Line" xml:id="facs_227_tr_2_tl_8"/>
+            <zone points="279,1517 2105,1478 2182,1471 2184,1412 279,1481" rendition="Line" xml:id="facs_227_tr_2_tl_9"/>
+            <zone points="279,1657 2276,1621 2279,1552 880,1619 279,1604" rendition="Line" xml:id="facs_227_tr_2_tl_10"/>
+            <zone points="281,1818 2110,1780 2084,1719 284,1765" rendition="Line" xml:id="facs_227_tr_2_tl_11"/>
+            <zone points="276,1956 2115,1926 2115,1885 2031,1857 276,1928" rendition="Line" xml:id="facs_227_tr_2_tl_12"/>
+            <zone points="279,2110 2330,2074 2330,2008 2192,2005 279,2079" rendition="Line" xml:id="facs_227_tr_2_tl_13"/>
+            <zone points="279,2258 1606,2248 1951,2230 1997,2189 279,2212" rendition="Line" xml:id="facs_227_tr_2_tl_14"/>
+            <zone points="281,2409 1829,2391 1849,2330 281,2384" rendition="Line" xml:id="facs_227_tr_2_tl_15"/>
+            <zone points="284,2563 504,2583 647,2560 749,2578 862,2565 864,2514 340,2522 325,2506 284,2522" rendition="Line" xml:id="facs_227_tr_2_tl_16"/>
+            <zone points="468,2639 2130,2606 2176,2555 468,2578" rendition="Line" xml:id="facs_227_tr_2_tl_17" subtype="paragraph"/>
+            <zone points="294,2803 2118,2765 2115,2698 297,2744" rendition="Line" xml:id="facs_227_tr_2_tl_18"/>
+            <zone points="294,2946 2118,2918 2118,2849 2064,2846 297,2898" rendition="Line" xml:id="facs_227_tr_2_tl_19"/>
+            <zone points="289,3095 2008,3064 2008,3005 1826,3003 289,3069" rendition="Line" xml:id="facs_227_tr_2_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0227.jpg" n="part1_p227.jpg" xml:id="img_0227" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p227.jpg"/>
+            
+            <ab facs="#facs_227_tr_2">
+               <lb facs="#facs_227_tr_2_tl_1" n="N001"/>[223]
+               <lb facs="#facs_227_tr_2_tl_2" n="N002"/>I can express myself sharper, after all the other lectures.
+               <lb facs="#facs_227_tr_2_tl_3" n="N003"/>I didn't speak of personal <rs type="keyword" ref="#Sacrifice">sacrifice </rs>as an ethical act of a person sacrificing himself, but
+               <lb facs="#facs_227_tr_2_tl_4" n="N004"/>I spoke of the content of his finite message which, with all the finite elements in his religious
+               <lb facs="#facs_227_tr_2_tl_5" n="N005"/>life, are negated by him in the moment in which the Disciples wanted to make them absolute---
+               <lb facs="#facs_227_tr_2_tl_6" n="N006"/>THAT was the idea. And this idea means that the Jesus of the Gospels is the greatest enemy of
+               <lb facs="#facs_227_tr_2_tl_7" n="N007"/>theological "Jesu-ology"---a theology of Jesus---THAT's what He denied radically, in His fights with
+               <lb facs="#facs_227_tr_2_tl_8" n="N008"/>His disciples and in the rejection of their attempt to make Him, without the Cross (without the
+               <lb facs="#facs_227_tr_2_tl_9" n="N009"/><rs type="keyword" ref="#Sacrifice">sacrifice</rs> of His individual existence) the Messiah, the bringer of the New Reality. He knew that
+               <lb facs="#facs_227_tr_2_tl_10" n="N010"/>this was the great temptation, and I think TO KNOW THIS WAS THE GREATEST in Him---to know
+               <lb facs="#facs_227_tr_2_tl_11" n="N011"/>that every finite truth, even the truth of His own being, if it is directly elevated to <rs type="keyword" ref="#Ultimacy">ultimacy,</rs>
+               <lb facs="#facs_227_tr_2_tl_12" n="N012"/>misses the really ultimate. This is the ultimate criterion, and THEREFORE H<rs type="keyword" ref="#Sacrifice">e sacrificed it.</rs>
+               <lb facs="#facs_227_tr_2_tl_13" n="N013"/>And <rs type="person">Paul</rs>, as always, gives the formulation for it: we don't know Him any more according to the flesh,
+               <lb facs="#facs_227_tr_2_tl_14" n="N014"/>but the Lord is Spirit. And as Spirit---although it is the Spirit of Jesus-as-the-Christ---
+               <lb facs="#facs_227_tr_2_tl_15" n="N015"/>is also the Spirit which liberates from a Jesu-logical subjection to that which is
+               <lb facs="#facs_227_tr_2_tl_16" n="N016"/>finite IN Jesus-as-the-Christ.
+               <lb facs="#facs_227_tr_2_tl_17" n="N017"/>Now this is the criterion which l would apply, and wherever this criterion is reached---
+               <lb facs="#facs_227_tr_2_tl_18" n="N018"/>more, or less---we are in the realm of highest religion. There is something of it in <rs type="keyword" ref="#Buddhism">Buddhism,</rs>
+               <lb facs="#facs_227_tr_2_tl_19" n="N019"/>and therefore Buddhism is one of the great competitors of Christianity. There is something
+               <lb facs="#facs_227_tr_2_tl_20" n="N020"/>of it in <rs type="keyword" ref="#Stoicism">Stoicism</rs>, even modern stoicism, in our present world---therefore this is a great
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

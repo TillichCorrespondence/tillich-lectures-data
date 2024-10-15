@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p031</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p031</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_31">
+         <graphic url="TL-0315.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NEYNKUVPHQKGSSHRMXKCHVCB&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="83,21 2221,21 2221,1514 83,1514" rendition="TextRegion" xml:id="facs_31_tr_2">
+            <zone points="1130,362 1168,372 1181,367 1186,372 1206,372 1211,367 1216,372 1247,375 1250,298 1219,298 1206,303 1196,314 1132,314" rendition="Line" xml:id="facs_31_tr_2_tl_2"/>
+            <zone points="255,523 296,538 844,525 844,477 745,479 727,462 255,472" rendition="Line" xml:id="facs_31_tr_2_tl_3"/>
+            <zone points="433,597 2025,592 2101,581 2101,515 433,536" rendition="Line" xml:id="facs_31_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="255,750 2145,742 2145,681 255,719" rendition="Line" xml:id="facs_31_tr_2_tl_5"/>
+            <zone points="255,900 2198,887 2201,829 258,852" rendition="Line" xml:id="facs_31_tr_2_tl_6"/>
+            <zone points="255,1058 1344,1046 1346,989 258,1010" rendition="Line" xml:id="facs_31_tr_2_tl_8"/>
+            <zone points="252,1201 2134,1183 2134,1130 255,1153" rendition="Line" xml:id="facs_31_tr_2_tl_9"/>
+            <zone points="426,1346 1912,1349 2185,1336 2185,1280 426,1321" rendition="Line" xml:id="facs_31_tr_2_tl_10" subtype="paragraph"/>
+            <zone points="260,1517 2058,1499 2213,1487 2213,1433 260,1476" rendition="Line" xml:id="facs_31_tr_2_tl_11"/>
+         </zone>
+         <zone points="262,1574 2304,1574 2304,2568 262,2568" rendition="TextRegion" xml:id="facs_31_tr_3">
+            <zone points="255,1655 2086,1647 2234,1635 2234,1584 255,1612" rendition="Line" xml:id="facs_31_tr_3_tl_1"/>
+            <zone points="255,1805 1918,1810 2206,1788 2206,1737 255,1762" rendition="Line" xml:id="facs_31_tr_3_tl_2"/>
+            <zone points="250,1953 2221,1953 2300,1879 250,1910" rendition="Line" xml:id="facs_31_tr_3_tl_3"/>
+            <zone points="255,2106 2086,2096 2193,2035 258,2058" rendition="Line" xml:id="facs_31_tr_3_tl_4"/>
+            <zone points="263,2272 2134,2254 2185,2185 263,2216" rendition="Line" xml:id="facs_31_tr_3_tl_5"/>
+            <zone points="255,2410 2226,2389 2226,2333 258,2361" rendition="Line" xml:id="facs_31_tr_3_tl_6"/>
+            <zone points="247,2555 2226,2542 2229,2484 247,2532" rendition="Line" xml:id="facs_31_tr_3_tl_7"/>
+         </zone>
+         <zone points="38,2628 2322,2628 2322,3485 38,3485" rendition="TextRegion" xml:id="facs_31_tr_1">
+            <zone points="258,2713 1813,2726 2196,2690 2196,2639 260,2665" rendition="Line" xml:id="facs_31_tr_1_tl_1"/>
+            <zone points="255,2866 1558,2861 1823,2820 1165,2790 258,2836" rendition="Line" xml:id="facs_31_tr_1_tl_3"/>
+            <zone points="222,3017 2104,3006 2267,2991 2267,2938 222,2984" rendition="Line" xml:id="facs_31_tr_1_tl_4"/>
+            <zone points="258,3172 2270,3157 2270,3091 258,3119" rendition="Line" xml:id="facs_31_tr_1_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0315.jpg" n="part2_p031.jpg" xml:id="img_0031" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p031.jpg"/>
+            
+            <ab facs="#facs_31_tr_2">
+               <lb facs="#facs_31_tr_2_tl_2" n="N001"/>[311]
+               <lb facs="#facs_31_tr_2_tl_3" n="N002"/>symbols in the different arts.
+               <lb facs="#facs_31_tr_2_tl_4" n="N003"/>I start again with the visual arts. I gave you already one symbol, namely landscapes.
+               <lb facs="#facs_31_tr_2_tl_5" n="N004"/>Another are faces, the art of the portrait---if it is art and not photography. If it is photography,
+               <lb facs="#facs_31_tr_2_tl_6" n="N005"/>it falls under other laws, which become more and more difficult, because the artistically inclined
+               <lb facs="#facs_31_tr_2_tl_8" n="N006"/>photographers try to bring as much artistic elements as possible into the photography.
+               <lb facs="#facs_31_tr_2_tl_9" n="N007"/>Nevertheless the essential difference is . . . [?] . But the portrait is a symbol. In which sense?
+               <lb facs="#facs_31_tr_2_tl_10" n="N008"/>If we look at a portrait, which is a work of art, then it might be very far removed from a
+               <lb facs="#facs_31_tr_2_tl_11" n="N009"/>photographic or mirror picture of the personality. Nevertheless it can be the symbol for a personal
+            </ab>
+            <ab facs="#facs_31_tr_3">
+               <lb facs="#facs_31_tr_3_tl_1" n="N001"/>life process which the artist gets out of the totality of the life of this person and the meaning of this
+               <lb facs="#facs_31_tr_3_tl_2" n="N002"/>life for the person himself and for others, and if it is (now I say) a "great" portrait, for the universe.
+               <lb facs="#facs_31_tr_3_tl_3" n="N003"/>When we look at a portrait of an old man or woman by Rembrandt, then you have not a photograph of
+               <lb facs="#facs_31_tr_3_tl_4" n="N004"/>this old man---the greatest of himself in his self-portraits---but you have something quite different:
+               <lb facs="#facs_31_tr_3_tl_5" n="N005"/>you have the spiritual biography of a human being expressed in his face; and again this not simply
+               <lb facs="#facs_31_tr_3_tl_6" n="N006"/>in terms of what this biography means for this individual person, but in terms as a representative of
+               <lb facs="#facs_31_tr_3_tl_7" n="N007"/>a microcosmic embodiment of the universe---in the good Renaissance tradition. In the Renaissance
+            </ab>
+            <ab facs="#facs_31_tr_1">
+               <lb facs="#facs_31_tr_1_tl_1" n="N001"/>the individual is the microcosm (which means, in English, the "small cosmos") which mirrors the
+               <lb facs="#facs_31_tr_1_tl_3" n="N002"/>macrocosm (the universe, the "large cosmos"). In this way these pictures become representative
+               <lb facs="#facs_31_tr_1_tl_4" n="N003"/>of the universe as such. Now here you have the face of a human being which has its photographic side
+               <lb facs="#facs_31_tr_1_tl_5" n="N004"/>and which can be photographed and which we encounter in everyday life, always a little bit different,
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

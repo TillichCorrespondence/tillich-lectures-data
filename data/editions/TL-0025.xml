@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p025</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p025</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_25">
+         <graphic url="TL-0025.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=JBWYNGDJXEVPXERPAKMCOBBY&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="226,260 229,3075 2299,3059 2289,260" rendition="TextRegion" xml:id="facs_25_tr_3">
+            <zone points="1179,304 1205,309 1212,317 1279,317 1276,248 1261,248 1248,256 1238,253 1228,256 1222,251 1210,266 1176,266" rendition="Line" xml:id="facs_25_tr_3_tl_1"/>
+            <zone points="243,504 657,468 2248,476 2248,414 243,425" rendition="Line" xml:id="facs_25_tr_3_tl_2"/>
+            <zone points="238,583 2159,588 2123,504 238,517" rendition="Line" xml:id="facs_25_tr_3_tl_3"/>
+            <zone points="481,724 928,729 990,772 1312,724 2179,734 2179,675 481,680" rendition="Line" xml:id="facs_25_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="246,831 714,808 913,859 1504,811 1593,859 1923,803 2199,816 2156,754 246,775" rendition="Line" xml:id="facs_25_tr_3_tl_5"/>
+            <zone points="238,908 2107,900 2107,852 1847,836 238,864" rendition="Line" xml:id="facs_25_tr_3_tl_6"/>
+            <zone points="235,992 2235,982 2187,921 235,941" rendition="Line" xml:id="facs_25_tr_3_tl_7"/>
+            <zone points="238,1077 719,1120 2077,1089 2077,1023 2033,1008 238,1031" rendition="Line" xml:id="facs_25_tr_3_tl_8"/>
+            <zone points="238,1184 2136,1182 2136,1092 238,1115" rendition="Line" xml:id="facs_25_tr_3_tl_9"/>
+            <zone points="230,1240 486,1284 1471,1271 1588,1228 2095,1269 2095,1189 1977,1179 230,1202" rendition="Line" xml:id="facs_25_tr_3_tl_10"/>
+            <zone points="228,1330 1197,1317 1570,1373 1696,1320 2179,1317 2179,1274 2118,1258 1905,1292 1565,1248 967,1297 230,1284" rendition="Line" xml:id="facs_25_tr_3_tl_11"/>
+            <zone points="228,1412 2105,1432 2066,1348 228,1371" rendition="Line" xml:id="facs_25_tr_3_tl_12"/>
+            <zone points="228,1494 2143,1529 2143,1445 2100,1435 228,1453" rendition="Line" xml:id="facs_25_tr_3_tl_13"/>
+            <zone points="233,1588 2199,1581 2202,1532 235,1534" rendition="Line" xml:id="facs_25_tr_3_tl_14"/>
+            <zone points="233,1660 2176,1657 2176,1598 233,1616" rendition="Line" xml:id="facs_25_tr_3_tl_15"/>
+            <zone points="225,1752 2210,1765 2233,1680 225,1703" rendition="Line" xml:id="facs_25_tr_3_tl_16"/>
+            <zone points="230,1852 2286,1831 2286,1780 2199,1767 230,1788" rendition="Line" xml:id="facs_25_tr_3_tl_17"/>
+            <zone points="225,1910 2146,1918 2146,1864 2069,1852 225,1870" rendition="Line" xml:id="facs_25_tr_3_tl_18"/>
+            <zone points="228,2005 2194,2005 2194,1949 2148,1933 228,1956" rendition="Line" xml:id="facs_25_tr_3_tl_19"/>
+            <zone points="225,2074 2238,2074 2238,2031 2089,2015 225,2036" rendition="Line" xml:id="facs_25_tr_3_tl_20"/>
+            <zone points="217,2166 512,2197 555,2161 2230,2169 2230,2115 1941,2105 217,2138" rendition="Line" xml:id="facs_25_tr_3_tl_21"/>
+            <zone points="217,2245 882,2294 2161,2245 2161,2189 217,2210" rendition="Line" xml:id="facs_25_tr_3_tl_22"/>
+            <zone points="225,2332 2217,2338 2217,2289 2130,2274 225,2281" rendition="Line" xml:id="facs_25_tr_3_tl_23"/>
+            <zone points="220,2422 1900,2407 2013,2465 2112,2437 2159,2468 2161,2368 220,2389" rendition="Line" xml:id="facs_25_tr_3_tl_24"/>
+            <zone points="220,2524 256,2547 343,2542 381,2560 412,2532 527,2529 527,2463 486,2463 471,2448 450,2463 414,2463 402,2450 389,2463 373,2450 345,2465 307,2453 292,2465 220,2463" rendition="Line" xml:id="facs_25_tr_3_tl_25"/>
+            <zone points="465,2581 616,2629 1113,2629 1246,2578 2215,2581 2169,2511 1995,2547 465,2532" rendition="Line" xml:id="facs_25_tr_3_tl_26" subtype="paragraph"/>
+            <zone points="215,2665 2146,2667 2146,2624 1885,2611 215,2629" rendition="Line" xml:id="facs_25_tr_3_tl_27"/>
+            <zone points="212,2752 2005,2757 2005,2708 1926,2693 212,2714" rendition="Line" xml:id="facs_25_tr_3_tl_28"/>
+            <zone points="220,2844 2128,2836 2128,2788 2072,2775 220,2795" rendition="Line" xml:id="facs_25_tr_3_tl_29"/>
+            <zone points="212,2928 1601,2916 1696,2969 2182,2936 2182,2875 2138,2862 212,2885" rendition="Line" xml:id="facs_25_tr_3_tl_30"/>
+            <zone points="212,3015 1412,3013 1373,2951 212,2972" rendition="Line" xml:id="facs_25_tr_3_tl_31"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0025.jpg" n="part1_p025.jpg" xml:id="img_0025" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p025.jpg"/>
+            
+            <ab facs="#facs_25_tr_3">
+               <lb facs="#facs_25_tr_3_tl_1" n="N001"/>[22]
+               <lb facs="#facs_25_tr_3_tl_2" n="N002"/>faith, namely faith embracing itself and the doubt about itself--faith embracing itself and the
+               <lb facs="#facs_25_tr_3_tl_3" n="N003"/>doubt about itself. There is an element of doubt, of ''in spite of,'' in every living faith.
+               <lb facs="#facs_25_tr_3_tl_4" n="N004"/>Now I come to the traditional forms, what somebody believes--in terms of his
+               <lb facs="#facs_25_tr_3_tl_5" n="N005"/>God, in terms of the revelation of his God, in terms of a special doctrine, in terms of the
+               <lb facs="#facs_25_tr_3_tl_6" n="N006"/>doctrines either of his church or of the Bible or of the Koran or the traditions of the
+               <lb facs="#facs_25_tr_3_tl_7" n="N007"/>seers of old, in India, or who have the authority, maybe--or of modern science (this is also
+               <lb facs="#facs_25_tr_3_tl_8" n="N008"/>a possibility). All these forms are what I would call risks. <rs type="keyword" ref="#Faith">Every act of faith must be
+               <lb break="no" facs="#facs_25_tr_3_tl_9" n="N009"/>concrete, but in being concrete, in having a finite conditional content, every act of faith
+               <lb break="no" facs="#facs_25_tr_3_tl_10" n="N010"/>is a risk.</rs> And nobody can take this risk away from you. Now there are special forms
+               <lb facs="#facs_25_tr_3_tl_11" n="N011"/>in which this risk is taken. When you speak with Roman Catholics, then you often believe
+               <lb facs="#facs_25_tr_3_tl_12" n="N012"/>they have no such risk, they have subjected themselves to the authority of the church,
+               <lb facs="#facs_25_tr_3_tl_13" n="N013"/>the church takes away the risk for them, and so they can live in quiet and in certainty.
+               <lb facs="#facs_25_tr_3_tl_14" n="N014"/>But it is not as easy as that. The Catholic theology, and even the Roman Catholic layman,
+               <lb facs="#facs_25_tr_3_tl_15" n="N015"/>would say: There is ALSO an act of risk, which of course we believe is not a WRONG
+               <lb facs="#facs_25_tr_3_tl_16" n="N016"/>risk; you don't risk anything--but you MUST risk! And this is the subjection to the church
+               <lb facs="#facs_25_tr_3_tl_17" n="N017"/>itself. And many Catholics who live in a culture such as ours, in contrast to the Middle Ages,
+               <lb facs="#facs_25_tr_3_tl_18" n="N018"/>where there was no alternative, there are now many alternatives (Protestantism, humanism,
+               <lb facs="#facs_25_tr_3_tl_19" n="N019"/>naturalism, Indian mysticism)--there are many alternatives. If the Catholic Christian of today
+               <lb facs="#facs_25_tr_3_tl_20" n="N020"/>who is aware of this situation, who does not live any more in the Middle Ages (as of course
+               <lb facs="#facs_25_tr_3_tl_21" n="N021"/>many levels of society still do), if this man realizes his situation, he also must become aware
+               <lb facs="#facs_25_tr_3_tl_22" n="N022"/>that his subjection to the Roman Catholic authorities has in itself an element of risk. But
+               <lb facs="#facs_25_tr_3_tl_23" n="N023"/>THEN, after he has done this, the risk comes to an end, he does not have to risk anything
+               <lb facs="#facs_25_tr_3_tl_24" n="N024"/>after this with respect to the content of his faith, everything is given to him by tradition
+               <lb facs="#facs_25_tr_3_tl_25" n="N025"/>and authority.
+               <lb facs="#facs_25_tr_3_tl_26" n="N026"/><rs type="keyword" ref="#Fundamentalism">The Protestant Fundamentalist is in the same situation with respect to the Bible.
+               <lb break="no" facs="#facs_25_tr_3_tl_27" n="N027"/>There, the risk is even greater, because he has to make not only the one risk--to subject
+               <lb break="no" facs="#facs_25_tr_3_tl_28" n="N028"/>himself to the authority of the Bible--but he has to repeat this risk, always, when
+               <lb break="no" facs="#facs_25_tr_3_tl_29" n="N029"/>historical research shows him the innumerable problems of the Biblical literature, and he
+               <lb break="no" facs="#facs_25_tr_3_tl_30" n="N030"/>has to deal with them, either by denying their existence (which is a dangerous risk), or by
+               <lb break="no" facs="#facs_25_tr_3_tl_31" n="N031"/>going into it and then every special step is a new risk.</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

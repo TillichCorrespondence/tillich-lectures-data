@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p125</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p125</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_125">
+         <graphic url="TL-0125.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CLXFVKRZCHQKLJQIRJCLVKCA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="176,204 176,3478 2400,3478 2400,204" rendition="TextRegion" xml:id="facs_125_tr_2">
+            <zone points="1168,274 1196,276 1204,284 1217,287 1287,284 1287,220 1258,220 1245,233 1235,230 1217,212 1204,222 1168,220" rendition="Line" xml:id="facs_125_tr_2_tl_1"/>
+            <zone points="313,457 1377,486 1574,475 1620,429 2194,439 2256,431 2258,382 532,388 450,305 315,388" rendition="Line" xml:id="facs_125_tr_2_tl_2"/>
+            <zone points="220,620 326,584 434,636 700,610 736,646 1196,628 1263,581 2297,589 2297,545 2194,519 362,548 307,501 220,535" rendition="Line" xml:id="facs_125_tr_2_tl_3"/>
+            <zone points="313,734 341,742 504,742 512,734 589,742 602,734 625,742 628,680 359,682 341,700 315,700" rendition="Line" xml:id="facs_125_tr_2_tl_4"/>
+            <zone points="566,811 780,814 884,868 1150,866 1248,814 2393,829 2393,760 2271,744 881,749 850,780 566,744" rendition="Line" xml:id="facs_125_tr_2_tl_5" subtype="paragraph"/>
+            <zone points="307,966 525,1046 711,1000 801,1028 860,969 2207,964 2207,909 307,935" rendition="Line" xml:id="facs_125_tr_2_tl_6"/>
+            <zone points="305,1116 2279,1121 2279,1065 305,1088" rendition="Line" xml:id="facs_125_tr_2_tl_7"/>
+            <zone points="305,1269 1114,1263 1165,1300 1710,1269 1840,1318 2005,1284 2325,1313 2325,1214 305,1238" rendition="Line" xml:id="facs_125_tr_2_tl_8"/>
+            <zone points="305,1439 354,1478 917,1475 974,1426 1116,1418 2294,1418 2294,1367 2134,1364 305,1390" rendition="Line" xml:id="facs_125_tr_2_tl_9"/>
+            <zone points="302,1574 2341,1574 2341,1517 302,1542" rendition="Line" xml:id="facs_125_tr_2_tl_10"/>
+            <zone points="295,1718 1429,1723 1486,1765 2142,1765 2219,1726 2176,1659 295,1692" rendition="Line" xml:id="facs_125_tr_2_tl_11"/>
+            <zone points="300,1871 2067,1868 2119,1907 2289,1868 2289,1811 300,1819" rendition="Line" xml:id="facs_125_tr_2_tl_12"/>
+            <zone points="295,2020 2274,2028 2274,1966 295,1977" rendition="Line" xml:id="facs_125_tr_2_tl_13"/>
+            <zone points="163,2212 225,2230 305,2176 1090,2214 1214,2170 2207,2173 2207,2114 163,2132" rendition="Line" xml:id="facs_125_tr_2_tl_14"/>
+            <zone points="289,2323 2163,2325 2163,2269 2062,2266 289,2297" rendition="Line" xml:id="facs_125_tr_2_tl_15"/>
+            <zone points="289,2480 351,2529 514,2532 543,2529 574,2498 669,2501 687,2483 734,2478 734,2426 289,2426" rendition="Line" xml:id="facs_125_tr_2_tl_16"/>
+            <zone points="543,2555 2225,2550 2183,2480 543,2519" rendition="Line" xml:id="facs_125_tr_2_tl_17" subtype="paragraph"/>
+            <zone points="289,2741 700,2765 1028,2759 1189,2703 2269,2705 2258,2635 292,2672" rendition="Line" xml:id="facs_125_tr_2_tl_18"/>
+            <zone points="292,2858 2349,2852 2349,2790 292,2801" rendition="Line" xml:id="facs_125_tr_2_tl_19"/>
+            <zone points="284,3005 2235,3005 2235,2935 284,2951" rendition="Line" xml:id="facs_125_tr_2_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0125.jpg" n="part1_p125.jpg" xml:id="img_0125" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p125.jpg"/>
+            
+            <ab facs="#facs_125_tr_2">
+               <lb facs="#facs_125_tr_2_tl_1" n="N001"/>[122]
+               <lb facs="#facs_125_tr_2_tl_2" n="N002"/>in the realm of finite interrelationships with which science deals. If you try to do it, you are open
+               <lb facs="#facs_125_tr_2_tl_3" n="N003"/>to every catastrophe of such derivations which, with great probability, will follow once upon a time,
+               <lb facs="#facs_125_tr_2_tl_4" n="N004"/>earlier or later.
+               <lb facs="#facs_125_tr_2_tl_5" n="N005"/>Therefore we must NOT be afraid if science GOES BEYOND the principle of indeterminacy,
+               <lb facs="#facs_125_tr_2_tl_6" n="N006"/>and we must not rejoice if science DISCOVERS the principle of indeterminacy. And l will give
+               <lb facs="#facs_125_tr_2_tl_7" n="N007"/>an almost scientific, or perhaps REALLY scientific, argument against the rejoicing: all this is going
+               <lb facs="#facs_125_tr_2_tl_8" n="N008"/>on in subatomic, microcosmic inquiries. EVERY scientist will tell you that the infinite probability for
+               <lb facs="#facs_125_tr_2_tl_9" n="N009"/>the macrocosmic consideration is that in spite of the incalculability of the movement of the ions and
+               <lb facs="#facs_125_tr_2_tl_10" n="N010"/>electrons, in the large consideration things will be quite much the same as they were before: when you
+               <lb facs="#facs_125_tr_2_tl_11" n="N011"/>turn your key, your car will run. And this simply means: in the macrocosmic consideration, the
+               <lb facs="#facs_125_tr_2_tl_12" n="N012"/>indeterminacy principle has little or no application. But this itself is a scientific argument, and there
+               <lb facs="#facs_125_tr_2_tl_13" n="N013"/>may be a counter-argument, and I will not go into this from a theological point of view. I use it only
+               <lb facs="#facs_125_tr_2_tl_14" n="N014"/>in order to warn theologians about rejoicing if something might have happened in physics which
+               <lb facs="#facs_125_tr_2_tl_15" n="N015"/>allays some of our fears--the fears must be overcome in the OTHER dimension, but not in the
+               <lb facs="#facs_125_tr_2_tl_16" n="N016"/>dimension of science.
+               <lb facs="#facs_125_tr_2_tl_17" n="N017"/>ANOTHER consideration, to which we must look, are the astronomical calculations
+               <lb facs="#facs_125_tr_2_tl_18" n="N018"/>of today and the principle of entropy, which as you know means that the water runs down the river
+               <lb facs="#facs_125_tr_2_tl_19" n="N019"/>and not up again, i.e., warmth, if it has been used, cannot be used any more but dissipates, so that there
+               <lb facs="#facs_125_tr_2_tl_20" n="N020"/>is a continuous waste of power which cannot be replaced in terms of physical necessity. Now this
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

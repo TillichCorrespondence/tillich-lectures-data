@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part3_p070</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p070</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_70">
+         <graphic url="TL-0462.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ENYNQYWZLZSHIONPAQGOVNJY&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="116,323 2361,323 2361,995 116,995" rendition="TextRegion" xml:id="facs_70_tr_3">
+            <zone points="1087,379 1113,379 1121,386 1141,389 1190,389 1198,381 1213,381 1213,307 1188,307 1172,322 1162,319 1149,332 1087,332" rendition="Line" xml:id="facs_70_tr_3_tl_1"/>
+            <zone points="283,526 425,538 518,595 1517,577 1517,495 1432,461 1311,495 1242,464 1116,497 1079,461 1041,495 773,495 742,464 623,495 587,459 533,495 283,492" rendition="Line" xml:id="facs_70_tr_3_tl_2"/>
+            <zone points="513,680 657,742 904,742 989,690 2164,693 2164,629 513,654" rendition="Line" xml:id="facs_70_tr_3_tl_3"/>
+            <zone points="103,739 116,739 131,750 167,750 175,742 191,742 198,636 175,636 165,631 147,647 131,631 111,631" rendition="Line" xml:id="facs_70_tr_3_tl_4"/>
+            <zone points="286,832 2100,855 2357,848 2357,781 286,804" rendition="Line" xml:id="facs_70_tr_3_tl_5"/>
+            <zone points="291,992 2169,997 2169,935 2074,920 291,935" rendition="Line" xml:id="facs_70_tr_3_tl_6"/>
+         </zone>
+         <zone points="283,1081 2316,1081 2316,2204 283,2204" rendition="TextRegion" xml:id="facs_70_tr_2">
+            <zone points="286,1141 1566,1157 2143,1139 2143,1090 286,1095" rendition="Line" xml:id="facs_70_tr_2_tl_1"/>
+            <zone points="278,1283 2239,1296 2200,1234 278,1234" rendition="Line" xml:id="facs_70_tr_2_tl_2"/>
+            <zone points="278,1438 2169,1445 2169,1386 2043,1378 278,1389" rendition="Line" xml:id="facs_70_tr_2_tl_3"/>
+            <zone points="281,1592 2133,1605 2133,1541 2015,1523 281,1543" rendition="Line" xml:id="facs_70_tr_2_tl_4"/>
+            <zone points="276,1744 1819,1760 2149,1742 2149,1687 276,1695" rendition="Line" xml:id="facs_70_tr_2_tl_5"/>
+            <zone points="273,1891 2221,1901 2221,1837 273,1842" rendition="Line" xml:id="facs_70_tr_2_tl_6"/>
+            <zone points="276,2046 2257,2051 2308,1986 276,2015" rendition="Line" xml:id="facs_70_tr_2_tl_7"/>
+            <zone points="268,2192 1306,2231 2241,2205 2241,2143 268,2164" rendition="Line" xml:id="facs_70_tr_2_tl_8"/>
+         </zone>
+         <zone points="50,2284 2292,2284 2292,3488 50,3488" rendition="TextRegion" xml:id="facs_70_tr_1">
+            <zone points="273,2347 2123,2357 2285,2347 2285,2290 273,2295" rendition="Line" xml:id="facs_70_tr_1_tl_1"/>
+            <zone points="260,2496 1819,2507 1984,2502 1984,2445 260,2468" rendition="Line" xml:id="facs_70_tr_1_tl_2"/>
+            <zone points="492,2648 2002,2661 2167,2654 2167,2592 492,2620" rendition="Line" xml:id="facs_70_tr_1_tl_3"/>
+            <zone points="263,2795 2275,2803 2275,2736 263,2741" rendition="Line" xml:id="facs_70_tr_1_tl_4"/>
+            <zone points="255,2950 2154,2952 2154,2893 255,2919" rendition="Line" xml:id="facs_70_tr_1_tl_5"/>
+            <zone points="258,3102 2192,3102 2195,3043 260,3071" rendition="Line" xml:id="facs_70_tr_1_tl_6"/>
+            <zone points="258,3259 1103,3331 2174,3303 2174,3233 773,3264 258,3205" rendition="Line" xml:id="facs_70_tr_1_tl_7"/>
+            <zone points="2022,3478 2040,3478 2064,3455 2084,3475 2097,3475 2107,3465 2136,3468 2138,3380 2061,3375 2025,3380" rendition="Line" xml:id="facs_70_tr_1_tl_8"/>
+            <zone points="922,3488 1118,3493 1213,3470 1229,3488 1430,3486 1432,3403 925,3411" rendition="Line" xml:id="facs_70_tr_1_tl_9"/>
+            <zone points="180,3462 268,3460 301,3493 933,3486 933,3408 180,3406" rendition="Line" xml:id="facs_70_tr_1_tl_10"/>
+            <zone points="39,3465 72,3468 95,3486 116,3483 124,3491 175,3493 162,3354 95,3354 80,3362 62,3354 28,3357" rendition="Line" xml:id="facs_70_tr_1_tl_11"/>
+            <zone points="185,3491 196,3491 198,3488 211,3493 214,3488 222,3491 229,3486 247,3486 258,3491 260,3488 281,3486 278,3457 258,3462 250,3460 227,3444 224,3447 211,3447 193,3460 180,3460" rendition="Line" xml:id="facs_70_tr_1_tl_12"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0462.jpg" n="part3_p070.jpg" xml:id="img_0070" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p070.jpg"/>
+            
+            <ab facs="#facs_70_tr_3">
+               <lb facs="#facs_70_tr_3_tl_1" n="N001"/>-or¬
+               <lb facs="#facs_70_tr_3_tl_2" n="N002"/>of both Christian and Protestant sexldhics, and family cthics.
+               <lb facs="#facs_70_tr_3_tl_3" n="N003"/>First family cthics: The authoritarian family is a bourgeois invention, which in this
+               <lb facs="#facs_70_tr_3_tl_4" n="N004"/>&amp;
+               <lb facs="#facs_70_tr_3_tl_5" n="N005"/>way was not valid in formerFenturies. There we had the feudal authority, which completely transcended
+               <lb facs="#facs_70_tr_3_tl_6" n="N006"/>the family authority. In the bourgeois realm, the authority of the family developed, and all the
+            </ab>
+            <ab facs="#facs_70_tr_2">
+               <lb facs="#facs_70_tr_2_tl_1" n="N001"/>consequences to which I referred. This is not the answer although it always remains the most
+               <lb facs="#facs_70_tr_2_tl_2" n="N002"/>important part of human relations because of the situation between parents and children. It is not
+               <lb facs="#facs_70_tr_2_tl_3" n="N003"/>in the form in which we have it today, the answer. Which the answer is, is the problem' of the
+               <lb facs="#facs_70_tr_2_tl_4" n="N004"/>vavelopment in which we are. But one thing is clear: MERE –PERMISSIVENESS doesn’t help
+               <lb facs="#facs_70_tr_2_tl_5" n="N005"/>to Hvercome the impact of the parents because permissiueness often produces an even stronger
+               <lb facs="#facs_70_tr_2_tl_6" n="N006"/>bondage and takes away one good thing which authoritarian attitudes bring, namely the possibility
+               <lb facs="#facs_70_tr_2_tl_7" n="N007"/>of revolt. The tremendous permissioeness—1 spoke about that already in educational context-towards
+               <lb facs="#facs_70_tr_2_tl_8" n="N008"/>the children doesn’t liberate them but brings them very soon into the bondage of social convention,
+            </ab>
+            <ab facs="#facs_70_tr_1">
+               <lb facs="#facs_70_tr_1_tl_1" n="N001"/>where they have not the power any more to revolt because the pressure was not great enough, and the
+               <lb facs="#facs_70_tr_1_tl_2" n="N002"/>low way of subjection is perhaps more dangerous for conformism than a real pressure.
+               <lb facs="#facs_70_tr_1_tl_3" n="N003"/>And also the sex ethics must be revised, and are in the process of being raised,
+               <lb facs="#facs_70_tr_1_tl_4" n="N004"/>in view of this situation. The first and decision thing is that sex must be affirmd as created goodness,
+               <lb facs="#facs_70_tr_1_tl_5" n="N005"/>asöating and thinking and woulding and enjoying nature and adjoying friendship. It is as natural
+               <lb facs="#facs_70_tr_1_tl_6" n="N006"/>and as divine as all these other things. And the veil of anciety connected with it should be TOPN
+               <lb facs="#facs_70_tr_1_tl_7" n="N007"/>TO PIECES. It should be NOT a matter ofque, but a marter of glory. This is one thing,
+               <lb facs="#facs_70_tr_1_tl_8" n="N008"/>de mon père.
+               <lb facs="#facs_70_tr_1_tl_9" n="N009"/>lʼhonneur dʼune manière sérieuse est de vérité de vos
+               <lb facs="#facs_70_tr_1_tl_10" n="N010"/>Monsieur le Comte de lʼhonneur dʼaprès
+               <lb facs="#facs_70_tr_1_tl_11" n="N011"/>ne sont pas
+               <lb facs="#facs_70_tr_1_tl_12" n="N012"/>dʼun autre
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

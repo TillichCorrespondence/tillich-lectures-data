@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p011</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p011</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_11">
+         <graphic url="TL-0295.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZDOBVBEHGNVMKBAQGLPBNZWL&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="191,248 2277,248 2277,1001 191,1001" rendition="TextRegion" xml:id="facs_11_tr_3">
+            <zone points="1033,302 1046,302 1061,317 1080,312 1095,320 1100,315 1134,317 1147,307 1160,307 1163,247 1147,247 1121,263 1108,263 1090,242 1064,265 1033,265" rendition="Line" xml:id="facs_11_tr_3_tl_1"/>
+            <zone points="190,468 2203,460 2271,408 190,427" rendition="Line" xml:id="facs_11_tr_3_tl_2"/>
+            <zone points="182,622 741,676 812,619 2214,601 2247,541 182,590" rendition="Line" xml:id="facs_11_tr_3_tl_3"/>
+            <zone points="177,762 1316,788 2268,747 2271,695 177,739" rendition="Line" xml:id="facs_11_tr_3_tl_4"/>
+            <zone points="179,921 205,934 281,923 393,923 411,934 471,921 554,926 557,866 284,874 273,861 179,895" rendition="Line" xml:id="facs_11_tr_3_tl_5"/>
+            <zone points="395,1007 2188,981 2133,908 395,923" rendition="Line" xml:id="facs_11_tr_3_tl_6" subtype="paragraph"/>
+         </zone>
+         <zone points="191,1069 2328,1069 2328,2284 191,2284" rendition="TextRegion" xml:id="facs_11_tr_2">
+            <zone points="182,1150 2078,1142 2078,1074 182,1119" rendition="Line" xml:id="facs_11_tr_2_tl_1"/>
+            <zone points="179,1306 762,1347 887,1293 2208,1280 2156,1220 182,1249" rendition="Line" xml:id="facs_11_tr_2_tl_2"/>
+            <zone points="177,1449 211,1465 606,1446 770,1462 793,1454 793,1399 580,1392 554,1407 536,1392 510,1407 494,1389 476,1407 346,1394 177,1410" rendition="Line" xml:id="facs_11_tr_2_tl_3"/>
+            <zone points="398,1519 2024,1517 2320,1504 2323,1449 401,1459" rendition="Line" xml:id="facs_11_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="179,1678 1509,1699 2185,1654 2185,1602 179,1649" rendition="Line" xml:id="facs_11_tr_2_tl_5"/>
+            <zone points="182,1831 336,1831 367,1852 442,1826 934,1823 934,1792 900,1769 182,1784" rendition="Line" xml:id="facs_11_tr_2_tl_6"/>
+            <zone points="388,1972 2193,1967 2195,1912 390,1909" rendition="Line" xml:id="facs_11_tr_2_tl_7" subtype="paragraph"/>
+            <zone points="179,2125 2159,2117 2185,2050 182,2099" rendition="Line" xml:id="facs_11_tr_2_tl_8"/>
+            <zone points="185,2273 2034,2307 2216,2258 2216,2206 185,2229" rendition="Line" xml:id="facs_11_tr_2_tl_9"/>
+         </zone>
+         <zone points="23,2344 2215,2344 2215,3449 23,3449" rendition="TextRegion" xml:id="facs_11_tr_1">
+            <zone points="385,2427 2154,2414 2156,2354 385,2378" rendition="Line" xml:id="facs_11_tr_1_tl_1" subtype="paragraph"/>
+            <zone points="177,2578 216,2588 271,2632 554,2596 554,2554 538,2554 512,2528 224,2531 203,2552 177,2552" rendition="Line" xml:id="facs_11_tr_1_tl_2"/>
+            <zone points="393,2658 2115,2635 2071,2565 395,2612" rendition="Line" xml:id="facs_11_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="198,2820 1998,2802 2208,2783 2208,2726 200,2757" rendition="Line" xml:id="facs_11_tr_1_tl_4"/>
+            <zone points="177,2955 330,2976 432,2960 713,2965 713,2898 687,2911 320,2919 302,2903 281,2919 265,2900 250,2916 177,2913" rendition="Line" xml:id="facs_11_tr_1_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0295.jpg" n="part2_p011.jpg" xml:id="img_0011" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p011.jpg"/>
+            
+            <ab facs="#facs_11_tr_3">
+               <lb facs="#facs_11_tr_3_tl_1" n="N001"/>[291]
+               <lb facs="#facs_11_tr_3_tl_2" n="N002"/>which also is so important in a world which has lost older types of authority and is looking for new types,
+               <lb facs="#facs_11_tr_3_tl_3" n="N003"/>the question of authority generally, the different types of it---here again psychology, theology and ethics
+               <lb facs="#facs_11_tr_3_tl_4" n="N004"/>work together and often against each other. Then very special problems of social ethics: family relations
+               <lb facs="#facs_11_tr_3_tl_5" n="N005"/>and sex relations.
+               <lb facs="#facs_11_tr_3_tl_6" n="N006"/>After ethics we come to economics, the meaning of economy in, for instance, a term like
+            </ab>
+            <ab facs="#facs_11_tr_2">
+               <lb facs="#facs_11_tr_2_tl_1" n="N001"/>economic materialism. This leads immediately to the problems of religion and the social gospel,
+               <lb facs="#facs_11_tr_2_tl_2" n="N002"/>religion and religious socialism; the basic ideas which have developed in many periods of history---their
+               <lb facs="#facs_11_tr_2_tl_3" n="N003"/>limitations and their meaning.
+               <lb facs="#facs_11_tr_2_tl_4" n="N004"/>We then come to the political realm, but first in a more fundamental way, and I repeat the title of
+               <lb facs="#facs_11_tr_2_tl_5" n="N005"/>a book of mine, only in the opposite order: Justice, Power and Love---the question of the law-school
+               <lb facs="#facs_11_tr_2_tl_6" n="N006"/>problems in relationship to theology.
+               <lb facs="#facs_11_tr_2_tl_7" n="N007"/>Then come the last lectures, religion and the political systems: democracy, totalitarianism,
+               <lb facs="#facs_11_tr_2_tl_8" n="N008"/>conservatism, feudalism, aristocracy, and many others. Then the great problems---which 20 years ago
+               <lb facs="#facs_11_tr_2_tl_9" n="N009"/>was almost the only problem in theology---namely religious pacifism, the question of peace, in religion.
+            </ab>
+            <ab facs="#facs_11_tr_1">
+               <lb facs="#facs_11_tr_1_tl_1" n="N001"/>Finally, if we are able to do it, I want to conclude the whole problem with the relation of
+               <lb facs="#facs_11_tr_1_tl_2" n="N002"/>state and church.
+               <lb facs="#facs_11_tr_1_tl_3" n="N003"/>This is the outline, and of course I am willing to enlarge or shorten any of these realms.
+               <lb facs="#facs_11_tr_1_tl_4" n="N004"/>This depends largely on the intensity of your questioning or the interruptions of other newly-invented
+               <lb facs="#facs_11_tr_1_tl_5" n="N005"/>holidays! <hi style="font-style: italic;">[some laughter]</hi>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

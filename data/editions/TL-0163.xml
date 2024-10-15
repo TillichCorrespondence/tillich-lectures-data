@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p163</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p163</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_163">
+         <graphic url="TL-0163.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HGOGYMCAUERVYVARNDMDRMDE&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="122,276 122,3480 2355,3480 2355,276" rendition="TextRegion" xml:id="facs_163_tr_2">
+            <zone points="1135,341 1158,338 1169,349 1249,349 1247,260 1223,265 1208,281 1132,284" rendition="Line" xml:id="facs_163_tr_2_tl_1"/>
+            <zone points="284,494 2194,494 2147,422 2030,448 1996,414 1962,448 671,453 638,422 492,453 419,396 284,461" rendition="Line" xml:id="facs_163_tr_2_tl_2"/>
+            <zone points="278,645 757,656 783,643 783,591 422,599 401,573 278,619" rendition="Line" xml:id="facs_163_tr_2_tl_3"/>
+            <zone points="481,799 2241,796 2241,752 2090,726 481,755" rendition="Line" xml:id="facs_163_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="281,947 2199,950 2199,893 2150,887 281,898" rendition="Line" xml:id="facs_163_tr_2_tl_5"/>
+            <zone points="276,1096 1366,1098 1366,1046 1325,1044 276,1049" rendition="Line" xml:id="facs_163_tr_2_tl_6"/>
+            <zone points="479,1257 2249,1247 2249,1182 900,1218 479,1187" rendition="Line" xml:id="facs_163_tr_2_tl_7" subtype="paragraph"/>
+            <zone points="276,1408 2241,1398 2243,1343 278,1353" rendition="Line" xml:id="facs_163_tr_2_tl_8"/>
+            <zone points="265,1551 2256,1548 2256,1489 265,1525" rendition="Line" xml:id="facs_163_tr_2_tl_9"/>
+            <zone points="271,1705 2233,1699 2233,1647 271,1650" rendition="Line" xml:id="facs_163_tr_2_tl_10"/>
+            <zone points="268,1858 2173,1853 2173,1796 271,1827" rendition="Line" xml:id="facs_163_tr_2_tl_11"/>
+            <zone points="271,2012 2241,2004 2199,1934 271,1978" rendition="Line" xml:id="facs_163_tr_2_tl_12"/>
+            <zone points="260,2152 2347,2147 2347,2092 260,2126" rendition="Line" xml:id="facs_163_tr_2_tl_13"/>
+            <zone points="263,2306 1377,2342 1556,2301 2230,2311 2230,2241 263,2256" rendition="Line" xml:id="facs_163_tr_2_tl_14"/>
+            <zone points="260,2459 2241,2462 2241,2394 260,2428" rendition="Line" xml:id="facs_163_tr_2_tl_15"/>
+            <zone points="265,2616 2215,2613 2215,2548 2113,2545 265,2563" rendition="Line" xml:id="facs_163_tr_2_tl_16"/>
+            <zone points="263,2769 2259,2756 2259,2694 263,2712" rendition="Line" xml:id="facs_163_tr_2_tl_17"/>
+            <zone points="315,2795 541,2798 588,2837 848,2829 848,2761 791,2753 643,2772 315,2766" rendition="Line" xml:id="facs_163_tr_2_tl_20"/>
+            <zone points="276,2863 2173,2855 2173,2800 2095,2792 276,2808" rendition="Line" xml:id="facs_163_tr_2_tl_21" subtype="footnote"/>
+            <zone points="260,2943 2191,2936 2236,2933 2238,2884 260,2899" rendition="Line" xml:id="facs_163_tr_2_tl_22" subtype="footnote-continued"/>
+            <zone points="302,3045 874,3050 968,3001 1070,3045 2334,3003 2293,2933 302,2962" rendition="Line" xml:id="facs_163_tr_2_tl_23" subtype="footnote-continued"/>
+            <zone points="258,3081 367,3126 2342,3107 2342,3024 2288,3014 258,3048" rendition="Line" xml:id="facs_163_tr_2_tl_24" subtype="footnote-continued"/>
+            <zone points="263,3196 539,3206 557,3191 606,3204 653,3157 755,3165 755,3113 684,3113 661,3136 627,3136 601,3107 468,3128 442,3115 263,3128" rendition="Line" xml:id="facs_163_tr_2_tl_25" subtype="footnote-continued"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0163.jpg" n="part1_p163.jpg" xml:id="img_0163" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p163.jpg"/>
+            
+            <ab facs="#facs_163_tr_2">
+               <lb facs="#facs_163_tr_2_tl_1" n="N001"/>[160]
+               <lb facs="#facs_163_tr_2_tl_2" n="N002"/>He is not in the files; there are birth registers of ALL of them who lived then, but he didn’t exist
+               <lb facs="#facs_163_tr_2_tl_3" n="N003"/>there. Now what then?*
+               <lb facs="#facs_163_tr_2_tl_4" n="N004"/>Now in this concreteness, you must sometimes be able to imagine the question. You can
+               <lb facs="#facs_163_tr_2_tl_5" n="N005"/>also do it in a more modern American way, without police, namely imagine that there was a time
+               <lb facs="#facs_163_tr_2_tl_6" n="N006"/>Time [Magazine] reporter, and he couldn’t discover it!
+               <lb facs="#facs_163_tr_2_tl_7" n="N007"/>Now if you ask such questions, you see what I mean with "historical research." We must
+               <lb facs="#facs_163_tr_2_tl_8" n="N008"/>STAND such possibilities, even if they are infinitely small in comparison with all probabilities, even
+               <lb facs="#facs_163_tr_2_tl_9" n="N009"/>from the point of view of historical research. But if we never face the extreme possibilities, we never
+               <lb facs="#facs_163_tr_2_tl_10" n="N010"/>face what is NOT extreme, in its true character. Boundary situations have the great advantage that
+               <lb facs="#facs_163_tr_2_tl_11" n="N011"/>they reveal what is WITHIN the boundaries. But if you never GO to the boundaries and ask the
+               <lb facs="#facs_163_tr_2_tl_12" n="N012"/>question, you will never be able to find out what is within the boundaries, what its real character is,
+               <lb facs="#facs_163_tr_2_tl_13" n="N013"/>because you can find that out ONLY if you trespass the boundary line. I don’t know whether I said that
+               <lb facs="#facs_163_tr_2_tl_14" n="N014"/>in this or the other class, but I will repeat it: Heidegger has made one very great statement, namely
+               <lb facs="#facs_163_tr_2_tl_15" n="N015"/>that if man were not able to run ahead to his death and to trespass, in his imagination, the boundary
+               <lb facs="#facs_163_tr_2_tl_16" n="N016"/>line of his life, he wouldn’t know what his life is all about, he wouldn’t be what HE IS, a centered,
+               <lb facs="#facs_163_tr_2_tl_17" n="N017"/>united person which looks ahead in the future and back into the past. In the same sense, I have tried
+               <lb facs="#facs_163_tr_2_tl_20" n="N018"/>---------------------------------------
+               <lb facs="#facs_163_tr_2_tl_21" n="N019"/><hi style="font-style: italic;">*In the discussion period after a lecture at the Philosophy Club of Boston University, Dr. Tillich</hi>
+               <lb facs="#facs_163_tr_2_tl_22" n="N020"/><hi style="font-style: italic;">replied to a similar question, concerning the absence of the name of Jesus in archaeological records:</hi>
+               <lb facs="#facs_163_tr_2_tl_23" n="N021"/><hi style="font-style: italic;">"Then the Man had another name!" —implying that there MUST have been a flesh-and-blood personality</hi>
+               <lb facs="#facs_163_tr_2_tl_24" n="N022"/><hi style="font-style: italic;">behind the Christian movement, but whether or not "Jesus" was His name does not validate or invalidate</hi>
+               <lb facs="#facs_163_tr_2_tl_25" n="N023"/><hi style="font-style: italic;">the truth of faith. - Ed.</hi>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

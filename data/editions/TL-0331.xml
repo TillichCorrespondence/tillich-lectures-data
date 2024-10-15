@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p047</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p047</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_47">
+         <graphic url="TL-0331.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WWPDPNNLAPBPPDUSGURUXQIG&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="194,278 2301,278 2301,1869 194,1869" rendition="TextRegion" xml:id="facs_47_tr_2">
+            <zone points="1100,340 1115,340 1125,350 1148,350 1153,345 1159,350 1189,350 1194,345 1217,343 1215,286 1176,286 1169,279 1161,286 1097,286" rendition="Line" xml:id="facs_47_tr_2_tl_1"/>
+            <zone points="251,496 2169,537 2169,440 2051,412 609,455 512,396 453,455 251,458" rendition="Line" xml:id="facs_47_tr_2_tl_2"/>
+            <zone points="179,696 486,644 2174,644 2230,573 182,606" rendition="Line" xml:id="facs_47_tr_2_tl_3"/>
+            <zone points="243,795 2294,780 2235,726 243,747" rendition="Line" xml:id="facs_47_tr_2_tl_4"/>
+            <zone points="243,944 2008,949 2197,939 2197,887 243,900" rendition="Line" xml:id="facs_47_tr_2_tl_5"/>
+            <zone points="243,1097 2013,1110 2120,1102 2120,1046 243,1056" rendition="Line" xml:id="facs_47_tr_2_tl_6"/>
+            <zone points="243,1258 2153,1253 2176,1189 243,1210" rendition="Line" xml:id="facs_47_tr_2_tl_7"/>
+            <zone points="246,1409 606,1465 2015,1414 2118,1404 2118,1350 246,1368" rendition="Line" xml:id="facs_47_tr_2_tl_8"/>
+            <zone points="473,1563 2087,1558 2141,1550 2141,1494 473,1509" rendition="Line" xml:id="facs_47_tr_2_tl_9" subtype="paragraph"/>
+            <zone points="238,1708 2187,1708 2187,1642 238,1683" rendition="Line" xml:id="facs_47_tr_2_tl_10"/>
+            <zone points="235,1854 2115,1862 2202,1852 2202,1795 235,1806" rendition="Line" xml:id="facs_47_tr_2_tl_11"/>
+         </zone>
+         <zone points="59,1941 2239,1941 2239,3482 59,3482" rendition="TextRegion" xml:id="facs_47_tr_1">
+            <zone points="235,2010 2166,2005 2166,1949 238,1967" rendition="Line" xml:id="facs_47_tr_1_tl_1"/>
+            <zone points="235,2164 2092,2166 2092,2100 235,2115" rendition="Line" xml:id="facs_47_tr_1_tl_2"/>
+            <zone points="235,2312 2043,2309 2179,2299 2182,2243 235,2284" rendition="Line" xml:id="facs_47_tr_1_tl_3"/>
+            <zone points="739,2460 1821,2471 2169,2453 2169,2404 739,2417" rendition="Line" xml:id="facs_47_tr_1_tl_4"/>
+            <zone points="238,2624 2095,2614 2220,2606 2222,2542 240,2565" rendition="Line" xml:id="facs_47_tr_1_tl_6"/>
+            <zone points="230,2770 2125,2757 2125,2690 230,2714" rendition="Line" xml:id="facs_47_tr_1_tl_7"/>
+            <zone points="233,2926 2179,2910 2220,2864 235,2893" rendition="Line" xml:id="facs_47_tr_1_tl_8"/>
+            <zone points="228,3074 2179,3064 2217,2995 230,3046" rendition="Line" xml:id="facs_47_tr_1_tl_9"/>
+            <zone points="233,3225 2148,3215 2230,3205 2233,3146 235,3171" rendition="Line" xml:id="facs_47_tr_1_tl_10"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0331.jpg" n="part2_p047.jpg" xml:id="img_0047" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p047.jpg"/>
+            
+            <ab facs="#facs_47_tr_2">
+               <lb facs="#facs_47_tr_2_tl_1" n="N001"/>[326]
+               <lb facs="#facs_47_tr_2_tl_2" n="N002"/>functions of history, and these styles give you an answer to the question, "What about the ultimate
+               <lb facs="#facs_47_tr_2_tl_3" n="N003"/>concern of this period?" That was of course my task. My task was not a textbook knowledge---which
+               <lb facs="#facs_47_tr_2_tl_4" n="N004"/>I don't have, and if I had it I wouldn't communicate it because I think it is superfluous, and dangerous---
+               <lb facs="#facs_47_tr_2_tl_5" n="N005"/>but I wanted to give an interpretation of the religious self-understanding of the different periods as
+               <lb facs="#facs_47_tr_2_tl_6" n="N006"/>expressed in the styles of these periods. And of course my personal realm was philosophy and
+               <lb facs="#facs_47_tr_2_tl_7" n="N007"/>theology, which also includes philosophy of religion---I didn't neglect it---but it was not the center
+               <lb facs="#facs_47_tr_2_tl_8" n="N008"/>of the interest; the center of the interest was the style and what this style does and did express.
+               <lb facs="#facs_47_tr_2_tl_9" n="N009"/>Now this brings me to two fundamentally different styles which we find in all realms
+               <lb facs="#facs_47_tr_2_tl_10" n="N010"/>of life and which are decisive for the relationship of religion and art. The first and rarest in history
+               <lb facs="#facs_47_tr_2_tl_11" n="N011"/>is the naturalistic style. I say "the rarest" because in the history of mankind, naturalism in art, and
+            </ab>
+            <ab facs="#facs_47_tr_1">
+               <lb facs="#facs_47_tr_1_tl_1" n="N001"/>in philosophy, is a rare event. NON-naturalistic expression is by far the predominant event in the
+               <lb facs="#facs_47_tr_1_tl_2" n="N002"/>history of art and in the history of all cultural expressions. But let us stick now to the history
+               <lb facs="#facs_47_tr_1_tl_3" n="N003"/>of art. If I speak of naturalism, I mean not the photographic reproduction of nature---this I would
+               <lb facs="#facs_47_tr_1_tl_4" n="N004"/>exclude from art, although modern photographers have ways of bringing artistic elements
+               <lb facs="#facs_47_tr_1_tl_6" n="N005"/>in the way in which they organize the photographic situation; but that's an applied art. The genuine
+               <lb facs="#facs_47_tr_1_tl_7" n="N006"/>art is never naturalistic in the sense of photographic. Nevertheless there is naturalistic art. This
+               <lb facs="#facs_47_tr_1_tl_8" n="N007"/>naturalistic art uses the immediately encountered world in a non-disrupted way in order to use it for
+               <lb facs="#facs_47_tr_1_tl_9" n="N008"/>artistic symbols. I would count under this form of naturalistic art not only what we usually call
+               <lb facs="#facs_47_tr_1_tl_10" n="N009"/>naturalistic in the narrower sense, but I would call also everything, every idealistic art, which is based
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

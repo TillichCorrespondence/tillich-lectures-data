@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p213</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p213</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_213">
+         <graphic url="TL-0213.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LTDDOTEQWPGMNBSNAWHGWGHW&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="26,216 26,3479 2355,3479 2355,216" rendition="TextRegion" xml:id="facs_213_tr_1">
+            <zone points="1099,279 1112,279 1131,293 1199,293 1207,285 1223,285 1223,219 1184,219 1176,211 1160,208 1139,224 1099,224" rendition="Line" xml:id="facs_213_tr_1_tl_1"/>
+            <zone points="206,488 258,456 366,446 883,448 886,385 662,398 638,374 366,377 301,361 261,322 208,322" rendition="Line" xml:id="facs_213_tr_1_tl_2" subtype="heading"/>
+            <zone points="427,591 2178,577 2180,519 2141,517 1587,535 1545,501 1492,540 886,551 767,519 730,554 659,517 617,556 430,519" rendition="Line" xml:id="facs_213_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="224,749 490,749 577,807 1168,738 2228,722 2191,662 227,691" rendition="Line" xml:id="facs_213_tr_1_tl_4"/>
+            <zone points="227,899 2257,886 2257,833 2199,815 229,865" rendition="Line" xml:id="facs_213_tr_1_tl_5"/>
+            <zone points="224,1049 2199,1031 2180,965 224,994" rendition="Line" xml:id="facs_213_tr_1_tl_6"/>
+            <zone points="227,1215 598,1197 688,1252 1099,1252 2267,1176 2267,1126 2209,1112 227,1157" rendition="Line" xml:id="facs_213_tr_1_tl_7"/>
+            <zone points="227,1358 2270,1337 2246,1268 229,1302" rendition="Line" xml:id="facs_213_tr_1_tl_8"/>
+            <zone points="224,1505 1911,1487 1911,1431 1835,1429 224,1453" rendition="Line" xml:id="facs_213_tr_1_tl_9"/>
+            <zone points="422,1653 2114,1645 2114,1574 422,1598" rendition="Line" xml:id="facs_213_tr_1_tl_10" subtype="paragraph"/>
+            <zone points="227,1808 1297,1793 1537,1832 1624,1785 2188,1790 2188,1719 227,1756" rendition="Line" xml:id="facs_213_tr_1_tl_11"/>
+            <zone points="224,1959 2307,1930 2262,1861 224,1924" rendition="Line" xml:id="facs_213_tr_1_tl_12"/>
+            <zone points="224,2109 1988,2083 2172,2125 2175,2025 224,2080" rendition="Line" xml:id="facs_213_tr_1_tl_13"/>
+            <zone points="224,2257 2214,2230 2212,2170 227,2183" rendition="Line" xml:id="facs_213_tr_1_tl_14"/>
+            <zone points="232,2420 1431,2394 1553,2439 1611,2388 2193,2388 2193,2333 2083,2323 232,2362" rendition="Line" xml:id="facs_213_tr_1_tl_15"/>
+            <zone points="224,2560 2033,2544 2254,2533 2257,2468 224,2531" rendition="Line" xml:id="facs_213_tr_1_tl_16"/>
+            <zone points="229,2718 643,2742 733,2705 2193,2684 2193,2628 2114,2607 1927,2652 232,2663" rendition="Line" xml:id="facs_213_tr_1_tl_17"/>
+            <zone points="232,2863 2352,2845 2354,2773 232,2831" rendition="Line" xml:id="facs_213_tr_1_tl_18"/>
+            <zone points="227,3019 2230,2987 2204,2926 229,2987" rendition="Line" xml:id="facs_213_tr_1_tl_19"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0213.jpg" n="part1_p213.jpg" xml:id="img_0213" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p213.jpg"/>
+            
+            <ab facs="#facs_213_tr_1">
+               <lb facs="#facs_213_tr_1_tl_1" n="N001"/>[209]
+               <lb facs="#facs_213_tr_1_tl_2" n="N002"/>LECTURE XVIII, Dec. 6, 1955
+               <lb facs="#facs_213_tr_1_tl_3" n="N003"/>The discussion last time tried to show that there is no philosopher without an existential
+               <lb facs="#facs_213_tr_1_tl_4" n="N004"/>foundation, without an <ultimate_concern>ultimate concern.</ultimate_concern> On the other hand, l said that in the arena of philosophical
+               <lb facs="#facs_213_tr_1_tl_5" n="N005"/>discussion this <ultimate_concern>ultimate concern </ultimate_concern>is not supposed to enter, but that this discussion has to go its own way
+               <lb facs="#facs_213_tr_1_tl_6" n="N006"/>in terms of philosophical arguments. I tried to show this in connection with different philosophical
+               <lb facs="#facs_213_tr_1_tl_7" n="N007"/>groups, especially the difference of <rs type="keyword" ref="#Naturalism">naturalism</rs> and <rs type="keyword" ref="#Idealism">idealism</rs>, and <rs type="keyword" ref="#Nominalism">nominalism</rs> and <rs type="keyword" ref="#Realism">realism</rs>. In both cases
+               <lb facs="#facs_213_tr_1_tl_8" n="N008"/>it was obvious that there is an element of <ultimate_concern>ultimate concern </ultimate_concern>IN WHAT PEOPLE SEE, in what they ASK,
+               <lb facs="#facs_213_tr_1_tl_9" n="N009"/>in the whole existential situation out of which their philosophical problems are born.
+               <lb facs="#facs_213_tr_1_tl_10" n="N010"/>Now I don't want to continue this now. Of course it could be shown in almost every
+               <lb facs="#facs_213_tr_1_tl_11" n="N011"/>individual philosopher. I only need to refer to people like <rs type="person">Plotinus,</rs> in whom the Egyptian mystery
+               <lb facs="#facs_213_tr_1_tl_12" n="N012"/>religions determine the questions and partly answers, although he is on the other hand one of the
+               <lb facs="#facs_213_tr_1_tl_13" n="N013"/>most rational and logically-minded of the Greek philosophers. I could refer to a man like <rs type="person">Spinoza</rs>
+               <lb facs="#facs_213_tr_1_tl_14" n="N014"/>in whom the fundamental Jewish monotheism is united with a concept of nature as it has developed
+               <lb facs="#facs_213_tr_1_tl_15" n="N015"/>since the Renaissance. I could even refer to a man like<rs type="person"> David Hume,</rs> in whom the<rs type="keyword" ref="#Nominalism"> nominalistic</rs> (or,
+               <lb facs="#facs_213_tr_1_tl_16" n="N016"/>better, Calvinistic) attitude towards reality---the distance-from-the-ultimate of the surface of existence
+               <lb facs="#facs_213_tr_1_tl_17" n="N017"/>in which we are moving----produces his form of positivism. That doesn’t take away in any way the
+               <lb facs="#facs_213_tr_1_tl_18" n="N018"/>weight of the positivistic argument---certainly not---but it takes away the belief that in a skeptic like <rs type="person">Hume,</rs>
+               <lb facs="#facs_213_tr_1_tl_19" n="N019"/>or in a positivist like <rs type="person">Hume,</rs> the <ultimate_concern>ultimate concern is</ultimate_concern> absent. It is in no way absent, and it shows itself
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

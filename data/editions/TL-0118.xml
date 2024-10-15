@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p118</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p118</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_118">
+         <graphic url="TL-0118.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GPMUVVDIOZZBQQQREDHRVYVB&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="118,251 118,3497 2352,3497 2352,251" rendition="TextRegion" xml:id="facs_118_tr_2">
+            <zone points="1141,314 1172,314 1182,325 1203,322 1208,327 1239,327 1255,317 1268,317 1265,255 1229,255 1195,242 1175,260 1139,263" rendition="Line" xml:id="facs_118_tr_2_tl_1"/>
+            <zone points="368,453 446,515 827,515 948,474 2210,497 2169,433 368,415" rendition="Line" xml:id="facs_118_tr_2_tl_2"/>
+            <zone points="379,613 1304,631 1342,626 1340,575 376,564" rendition="Line" xml:id="facs_118_tr_2_tl_3"/>
+            <zone points="564,760 2249,806 2249,727 564,732" rendition="Line" xml:id="facs_118_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="361,904 2203,979 2200,886 361,879" rendition="Line" xml:id="facs_118_tr_2_tl_5"/>
+            <zone points="371,1092 428,1123 608,1090 2131,1116 2128,1041 2058,1028 371,1015" rendition="Line" xml:id="facs_118_tr_2_tl_6"/>
+            <zone points="361,1206 2283,1247 2332,1244 2332,1185 358,1177" rendition="Line" xml:id="facs_118_tr_2_tl_7"/>
+            <zone points="356,1358 430,1365 446,1378 459,1378 471,1365 510,1368 518,1376 538,1365 580,1373 580,1314 492,1311 469,1332 448,1311 386,1311 371,1329 356,1329" rendition="Line" xml:id="facs_118_tr_2_tl_8"/>
+            <zone points="554,1440 2228,1468 2226,1420 2110,1404 554,1373" rendition="Line" xml:id="facs_118_tr_2_tl_9" subtype="paragraph"/>
+            <zone points="358,1587 698,1590 799,1636 1471,1605 2110,1667 2319,1620 2319,1553 2161,1582 358,1533" rendition="Line" xml:id="facs_118_tr_2_tl_10"/>
+            <zone points="350,1736 876,1749 927,1796 1229,1762 1502,1796 1543,1752 2283,1772 2280,1711 350,1682" rendition="Line" xml:id="facs_118_tr_2_tl_11"/>
+            <zone points="356,1894 1839,1917 1839,1857 356,1857" rendition="Line" xml:id="facs_118_tr_2_tl_13"/>
+            <zone points="348,2038 2316,2076 2316,2012 345,1989" rendition="Line" xml:id="facs_118_tr_2_tl_15"/>
+            <zone points="278,2187 2035,2244 2344,2221 2342,2110 1574,2161 276,2161" rendition="Line" xml:id="facs_118_tr_2_tl_16"/>
+            <zone points="343,2342 2226,2365 2226,2313 1961,2290 1646,2326 1608,2293 343,2308" rendition="Line" xml:id="facs_118_tr_2_tl_17"/>
+            <zone points="335,2484 2301,2520 2303,2460 332,2458" rendition="Line" xml:id="facs_118_tr_2_tl_18"/>
+            <zone points="332,2636 2203,2669 2203,2610 1953,2599 332,2612" rendition="Line" xml:id="facs_118_tr_2_tl_19"/>
+            <zone points="330,2790 2210,2821 2210,2759 330,2762" rendition="Line" xml:id="facs_118_tr_2_tl_20"/>
+            <zone points="335,2947 2239,2978 2236,2914 332,2891" rendition="Line" xml:id="facs_118_tr_2_tl_21"/>
+            <zone points="319,3094 732,3107 848,3153 1043,3117 1085,3156 2169,3156 2167,3068 1999,3050 319,3068" rendition="Line" xml:id="facs_118_tr_2_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0118.jpg" n="part1_p118.jpg" xml:id="img_0118" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p118.jpg"/>
+            
+            <ab facs="#facs_118_tr_2">
+               <lb facs="#facs_118_tr_2_tl_1" n="N001"/>[115]
+               <lb facs="#facs_118_tr_2_tl_2" n="N002"/><_the>methodological procedures, it becomes demonic, it destroys the autonomous service to truth,
+               <lb break="no" facs="#facs_118_tr_2_tl_3" n="N003"/>it destroys the honest mind of scientific research.
+               <lb break="no" facs="#facs_118_tr_2_tl_4" n="N004"/>In the moment in which SCIENCE derives (which is its justified right and its necessary
+               <lb break="no" facs="#facs_118_tr_2_tl_5" n="N005"/>service)--but in the moment in which it derives from this a criticism of the theological matrix,
+               <lb break="no" facs="#facs_118_tr_2_tl_6" n="N006"/>not realizing that ITS OWN matrix is ALSO theological, then science becomes destructive.</_the>
+               <lb facs="#facs_118_tr_2_tl_7" n="N007"/>And this is what we have to do whenever, in the future, new discussions between religion and science
+               <lb facs="#facs_118_tr_2_tl_8" n="N008"/>may arise.
+               <lb facs="#facs_118_tr_2_tl_9" n="N009"/><rs type="keyword" ref="#Darwinism">But Darwinism was not only in conflict with Christianity because of the confusion of
+               <lb break="no" facs="#facs_118_tr_2_tl_10" n="N010"/>these two levels--the dimension of ultimate concern and the dimension of scientific research--it was
+               <lb break="no" facs="#facs_118_tr_2_tl_11" n="N011"/>in conflict with Christianity because of the doctrine of man. The decisive moment in which divine
+               <lb break="no" facs="#facs_118_tr_2_tl_13" n="N012"/>creativity was important, for theological thinking, was the moment in which man-as-man was created.
+               <lb break="no" facs="#facs_118_tr_2_tl_15" n="N013"/>Now in the evolutionary theory there is a slow transition from animal forms to man as we know him,
+               <lb break="no" facs="#facs_118_tr_2_tl_16" n="N014"/>in the period which we call world-history. It is a very small period, in terms of the development of the
+               <lb break="no" facs="#facs_118_tr_2_tl_17" n="N015"/>universe. But it is characteristic that in the myth of most nations, and certainly also of Judaism
+               <lb break="no" facs="#facs_118_tr_2_tl_18" n="N016"/>and Christianity, this very small period was considered to be the ONLY period in which there WAS a
+               <lb break="no" facs="#facs_118_tr_2_tl_19" n="N017"/>creation. And therefore the Orthodox Jews, even today, calculate the duration of the world in
+               <lb break="no" facs="#facs_118_tr_2_tl_20" n="N018"/>something like five thousand years. Others give a little more margin for God's creativity and for
+               <lb break="no" facs="#facs_118_tr_2_tl_21" n="N019"/>world-history, but in any case, the fact that they CONSIDER that the only really important thing
+               <lb break="no" facs="#facs_118_tr_2_tl_22" n="N020"/>in the universe is the history of man, of which [history] Christ is the center, INDUCED them</rs>,
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

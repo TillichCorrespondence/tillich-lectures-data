@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p032</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p032</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_32">
+         <graphic url="TL-0032.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HXPXFONVUHKFUDIMLTIJDOZE&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="295,246 309,3293 2312,3296 2304,246" rendition="TextRegion" xml:id="facs_32_tr_2">
+            <zone points="1243,291 1256,291 1275,308 1293,303 1300,308 1323,308 1328,303 1340,303 1343,236 1330,236 1323,241 1318,236 1310,241 1303,236 1266,266 1243,264" rendition="Line" xml:id="facs_32_tr_2_tl_1"/>
+            <zone points="298,460 977,492 1333,460 1554,517 1733,485 1733,408 1596,328 1497,408 298,408" rendition="Line" xml:id="facs_32_tr_2_tl_2"/>
+            <zone points="557,632 2046,634 2046,569 2009,567 557,569" rendition="Line" xml:id="facs_32_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="306,736 2185,721 2185,656 2059,651 1860,686 1313,636 537,684 306,654" rendition="Line" xml:id="facs_32_tr_2_tl_4"/>
+            <zone points="296,806 1251,838 1328,796 1405,840 2233,811 2233,746 296,758" rendition="Line" xml:id="facs_32_tr_2_tl_5"/>
+            <zone points="296,875 1492,932 1835,922 1899,875 2220,888 2180,828 808,843 761,803 296,855" rendition="Line" xml:id="facs_32_tr_2_tl_6"/>
+            <zone points="303,975 885,975 927,1014 2297,972 2297,927 2170,912 303,915" rendition="Line" xml:id="facs_32_tr_2_tl_7"/>
+            <zone points="296,1052 2260,1067 2260,1017 2138,994 296,1012" rendition="Line" xml:id="facs_32_tr_2_tl_8"/>
+            <zone points="298,1136 2188,1141 2188,1091 2101,1079 298,1094" rendition="Line" xml:id="facs_32_tr_2_tl_9"/>
+            <zone points="296,1216 2228,1223 2228,1166 1984,1161 296,1191" rendition="Line" xml:id="facs_32_tr_2_tl_10"/>
+            <zone points="296,1300 2175,1310 2175,1258 2061,1248 1293,1278 1104,1241 746,1273 699,1236 296,1273" rendition="Line" xml:id="facs_32_tr_2_tl_11"/>
+            <zone points="296,1387 428,1442 505,1390 2136,1397 2136,1343 1947,1330 788,1360 457,1355 408,1310 296,1343" rendition="Line" xml:id="facs_32_tr_2_tl_12"/>
+            <zone points="298,1469 2113,1477 2079,1415 298,1432" rendition="Line" xml:id="facs_32_tr_2_tl_13"/>
+            <zone points="298,1559 863,1604 912,1556 2193,1556 2193,1504 2108,1502 298,1517" rendition="Line" xml:id="facs_32_tr_2_tl_14"/>
+            <zone points="298,1641 2188,1668 2188,1591 2136,1584 298,1599" rendition="Line" xml:id="facs_32_tr_2_tl_15"/>
+            <zone points="303,1748 2158,1738 2158,1678 2079,1666 303,1678" rendition="Line" xml:id="facs_32_tr_2_tl_16"/>
+            <zone points="298,1812 2213,1812 2213,1763 2143,1750 298,1765" rendition="Line" xml:id="facs_32_tr_2_tl_17"/>
+            <zone points="291,1887 2091,1895 2091,1847 1942,1832 291,1850" rendition="Line" xml:id="facs_32_tr_2_tl_18"/>
+            <zone points="298,1982 614,1972 689,2021 1196,2021 1524,1969 2185,1984 2185,1934 2096,1919 298,1929" rendition="Line" xml:id="facs_32_tr_2_tl_19"/>
+            <zone points="296,2061 1052,2113 2250,2083 2250,2004 2213,2001 296,2001" rendition="Line" xml:id="facs_32_tr_2_tl_20"/>
+            <zone points="298,2178 781,2180 781,2096 768,2093 448,2081 298,2098" rendition="Line" xml:id="facs_32_tr_2_tl_21"/>
+            <zone points="542,2228 2262,2230 2262,2170 542,2180" rendition="Line" xml:id="facs_32_tr_2_tl_22" subtype="paragraph"/>
+            <zone points="293,2315 2168,2317 2168,2270 1919,2235 1725,2270 293,2270" rendition="Line" xml:id="facs_32_tr_2_tl_23"/>
+            <zone points="291,2394 2285,2437 2285,2340 291,2357" rendition="Line" xml:id="facs_32_tr_2_tl_24"/>
+            <zone points="291,2481 405,2533 796,2481 1298,2514 1298,2437 1233,2424 291,2437" rendition="Line" xml:id="facs_32_tr_2_tl_25"/>
+            <zone points="535,2556 801,2613 870,2561 967,2596 2210,2596 2210,2516 2103,2504 1949,2536 1367,2501 955,2536 798,2484 535,2516" rendition="Line" xml:id="facs_32_tr_2_tl_27" subtype="paragraph"/>
+            <zone points="288,2643 313,2653 368,2645 375,2653 420,2653 430,2663 460,2650 490,2660 552,2653 552,2586 482,2596 467,2583 457,2596 430,2598 375,2588 361,2603 343,2593 331,2603 288,2601" rendition="Line" xml:id="facs_32_tr_2_tl_28"/>
+            <zone points="544,2732 2203,2735 2203,2695 2103,2670 1305,2670 1270,2703 544,2670" rendition="Line" xml:id="facs_32_tr_2_tl_29" subtype="paragraph"/>
+            <zone points="288,2814 2200,2822 2200,2770 1914,2772 1875,2732 1795,2775 1459,2787 288,2772" rendition="Line" xml:id="facs_32_tr_2_tl_30"/>
+            <zone points="288,2916 356,2949 684,2914 1308,2949 2205,2904 2205,2854 2088,2874 1904,2814 1850,2862 288,2859" rendition="Line" xml:id="facs_32_tr_2_tl_31"/>
+            <zone points="281,2984 1024,3041 2275,2991 2275,2941 2066,2929 281,2956" rendition="Line" xml:id="facs_32_tr_2_tl_32"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0032.jpg" n="part1_p032.jpg" xml:id="img_0032" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p032.jpg"/>
+            
+            <ab facs="#facs_32_tr_2">
+               <lb facs="#facs_32_tr_2_tl_1" n="N001"/>[29]
+               <lb facs="#facs_32_tr_2_tl_2" n="N002"/>functions, those which receive reality and those which transform it.
+               <lb facs="#facs_32_tr_2_tl_3" n="N003"/>This fundamental substance of language leads me now to start with a
+               <lb facs="#facs_32_tr_2_tl_4" n="N004"/>discussion of the relationship of religion to language.<rs type="keyword" ref="#RELIGION"> Whenever I use the term ''religion,''
+               <lb break="no" facs="#facs_32_tr_2_tl_5" n="N005"/>please don't forget the fundamental definition: a state of being ultimately concerned, and,
+               <lb break="no" facs="#facs_32_tr_2_tl_6" n="N006"/>on the other hand, the acceptance of concrete expressions of this concern. The one is the
+               <lb break="no" facs="#facs_32_tr_2_tl_7" n="N007"/>larger concept of religion, the other the traditional concept.</rs> We must deal with both of them
+               <lb facs="#facs_32_tr_2_tl_8" n="N008"/>but we cannot understand the relation of religion and culture without continuously referring
+               <lb facs="#facs_32_tr_2_tl_9" n="N009"/>to both of these concepts. I believe that many of the misunderstandings, some of which
+               <lb facs="#facs_32_tr_2_tl_10" n="N010"/>also came out in the questions I just read to you--Karl Barth, and other people--are based
+               <lb facs="#facs_32_tr_2_tl_11" n="N011"/>on the fact that the two meanings of religion are not clearly distinguished. When I gave
+               <lb facs="#facs_32_tr_2_tl_12" n="N012"/>these first four lectures and discussed the meaning of religion, I tried to avoid religious
+               <lb facs="#facs_32_tr_2_tl_13" n="N013"/>language, while pointing to the meaning of religion. This was not completely possible
+               <lb facs="#facs_32_tr_2_tl_14" n="N014"/>because the word ''faith'' IS a genuinely religious concept, but when using it I translated
+               <lb facs="#facs_32_tr_2_tl_15" n="N015"/>it into concepts which are taken from another language, which we may call philosophical
+               <lb facs="#facs_32_tr_2_tl_16" n="N016"/>language, or ordinary or simply descriptive language--however you want to call it. Many
+               <lb facs="#facs_32_tr_2_tl_17" n="N017"/>difficulties, especially those found in theology, are rooted in this situation. That is a little
+               <lb facs="#facs_32_tr_2_tl_18" n="N018"/>of my answer to the first question I read about philosophy and theology. When we
+               <lb facs="#facs_32_tr_2_tl_19" n="N019"/>SPEAK about the meaning of the religious symbols, then we cannot simply repeat them,
+               <lb facs="#facs_32_tr_2_tl_20" n="N020"/>but we must interpret them. And interpretive concepts are, in the larger sense of the word,
+               <lb facs="#facs_32_tr_2_tl_21" n="N021"/>philosophical concepts.
+               <lb facs="#facs_32_tr_2_tl_22" n="N022"/>According to the double meaning of ''religion,'' we have to discuss two different
+               <lb facs="#facs_32_tr_2_tl_23" n="N023"/>questions, when speaking about the relation of religion and language. <rs type="keyword" ref="#Language">First, the presence
+               <lb break="no" facs="#facs_32_tr_2_tl_24" n="N024"/>of ultimate concern IN LANGUAGE AS LANGUAGE, the presence of an ultimate concern in
+               <lb break="no" facs="#facs_32_tr_2_tl_25" n="N025"/>language as language. This is the first question.
+               <lb break="no" facs="#facs_32_tr_2_tl_27" n="N026"/>The second is: the nature of the religious language in contrast to other forms
+               <lb break="no" facs="#facs_32_tr_2_tl_28" n="N027"/>of language.</rs>
+               <lb facs="#facs_32_tr_2_tl_29" n="N028"/>These are the two considerations, and they already indicate what we must do
+               <lb facs="#facs_32_tr_2_tl_30" n="N029"/>in all our lectures in considering any of the functions of human culture. We must always
+               <lb facs="#facs_32_tr_2_tl_31" n="N030"/>ask the question of the hidden ultimate concern behind a cultural function, and we must
+               <lb facs="#facs_32_tr_2_tl_32" n="N031"/>also ask [about] the importance of religion to this function, in their mutual interdependence.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p059</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p059</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_59">
+         <graphic url="TL-0059.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MLJMHBIBOPLHGUWNXOOEFKXW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="274,257 274,3444 2191,3444 2191,257" rendition="TextRegion" xml:id="facs_59_tr_3">
+            <zone points="1186,295 1198,295 1225,317 1244,314 1279,317 1279,250 1267,250 1253,264 1234,264 1227,257 1220,262 1186,262" rendition="Line" xml:id="facs_59_tr_3_tl_1"/>
+            <zone points="291,462 2185,465 2185,407 291,410" rendition="Line" xml:id="facs_59_tr_3_tl_2"/>
+            <zone points="293,553 2125,560 2125,507 2006,493 293,510" rendition="Line" xml:id="facs_59_tr_3_tl_3"/>
+            <zone points="291,629 2028,629 2028,586 1916,572 291,598" rendition="Line" xml:id="facs_59_tr_3_tl_4"/>
+            <zone points="291,717 2092,712 2092,658 291,679" rendition="Line" xml:id="facs_59_tr_3_tl_5"/>
+            <zone points="288,796 1539,803 1513,748 288,762" rendition="Line" xml:id="facs_59_tr_3_tl_6"/>
+            <zone points="586,967 2089,994 2089,912 2020,905 586,920" rendition="Line" xml:id="facs_59_tr_3_tl_7" subtype="paragraph"/>
+            <zone points="288,1060 381,1094 608,1094 729,1063 841,1091 1103,1091 1103,1008 288,1008" rendition="Line" xml:id="facs_59_tr_3_tl_8"/>
+            <zone points="581,1225 1022,1256 2056,1220 2056,1163 581,1172" rendition="Line" xml:id="facs_59_tr_3_tl_9" subtype="paragraph"/>
+            <zone points="279,1296 2170,1301 2123,1244 279,1260" rendition="Line" xml:id="facs_59_tr_3_tl_10"/>
+            <zone points="279,1387 2099,1399 2075,1332 279,1346" rendition="Line" xml:id="facs_59_tr_3_tl_11"/>
+            <zone points="279,1472 357,1508 2175,1475 2175,1410 279,1444" rendition="Line" xml:id="facs_59_tr_3_tl_12"/>
+            <zone points="281,1553 2137,1556 2137,1508 2001,1499 281,1513" rendition="Line" xml:id="facs_59_tr_3_tl_13"/>
+            <zone points="279,1634 2116,1639 2082,1587 1856,1575 1632,1613 279,1596" rendition="Line" xml:id="facs_59_tr_3_tl_14"/>
+            <zone points="276,1727 2075,1727 2075,1677 2004,1665 276,1684" rendition="Line" xml:id="facs_59_tr_3_tl_15"/>
+            <zone points="281,1808 2008,1808 2008,1765 1920,1754 281,1768" rendition="Line" xml:id="facs_59_tr_3_tl_16"/>
+            <zone points="274,1896 2185,1892 2185,1849 2058,1835 274,1851" rendition="Line" xml:id="facs_59_tr_3_tl_17"/>
+            <zone points="276,1975 2161,1987 2161,1932 2087,1918 276,1937" rendition="Line" xml:id="facs_59_tr_3_tl_18"/>
+            <zone points="272,2061 2011,2066 2092,2063 2094,2018 274,2011" rendition="Line" xml:id="facs_59_tr_3_tl_19"/>
+            <zone points="276,2147 2016,2144 2016,2099 1930,2087 276,2101" rendition="Line" xml:id="facs_59_tr_3_tl_20"/>
+            <zone points="276,2232 2092,2228 2092,2185 1994,2170 276,2190" rendition="Line" xml:id="facs_59_tr_3_tl_21"/>
+            <zone points="274,2316 2144,2337 2147,2266 2023,2254 276,2273" rendition="Line" xml:id="facs_59_tr_3_tl_22"/>
+            <zone points="274,2399 2047,2425 2047,2344 274,2359" rendition="Line" xml:id="facs_59_tr_3_tl_23"/>
+            <zone points="267,2511 796,2518 862,2473 2089,2487 2051,2425 267,2454" rendition="Line" xml:id="facs_59_tr_3_tl_24"/>
+            <zone points="276,2597 2089,2566 2089,2511 603,2540 276,2509" rendition="Line" xml:id="facs_59_tr_3_tl_25"/>
+            <zone points="274,2652 2070,2683 2042,2590 274,2611" rendition="Line" xml:id="facs_59_tr_3_tl_26"/>
+            <zone points="269,2771 548,2778 603,2728 872,2776 2104,2768 2104,2690 2023,2668 269,2697" rendition="Line" xml:id="facs_59_tr_3_tl_27"/>
+            <zone points="276,2852 515,2869 574,2816 648,2854 2159,2833 2149,2759 276,2771" rendition="Line" xml:id="facs_59_tr_3_tl_28"/>
+            <zone points="262,2900 496,2921 1017,2904 1017,2864 951,2852 345,2852 262,2873" rendition="Line" xml:id="facs_59_tr_3_tl_29"/>
+            <zone points="558,2981 955,3014 2116,2983 2116,2930 1980,2923 1115,2957 974,2904 558,2914" rendition="Line" xml:id="facs_59_tr_3_tl_30" subtype="paragraph"/>
+            <zone points="264,3066 810,3119 2051,3100 2051,3028 2004,3014 264,3031" rendition="Line" xml:id="facs_59_tr_3_tl_31"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0059.jpg" n="part1_p059.jpg" xml:id="img_0059" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p059.jpg"/>
+            
+            <ab facs="#facs_59_tr_3">
+               <lb facs="#facs_59_tr_3_tl_1" n="N001"/>[56]
+               <lb facs="#facs_59_tr_3_tl_2" n="N002"/><rs type="keyword" ref="#Myth">the highest gods and man, sometimes sharing man's death and suffering (as [did] Apollo
+               <lb break="no" facs="#facs_59_tr_3_tl_3" n="N003"/>Adelphi [?], in spite of their essential immortality. This is the world of the myths,
+               <lb break="no" facs="#facs_59_tr_3_tl_4" n="N004"/>the mythological realm of mankind. It is a great and strange world. It is always
+               <lb break="no" facs="#facs_59_tr_3_tl_5" n="N005"/>changing, even in the same culture, but it is fundamentally the same, namely man's
+               <lb break="no" facs="#facs_59_tr_3_tl_6" n="N006"/>ultimate concerns symbolized in divine figures and actions.
+               <lb break="no" facs="#facs_59_tr_3_tl_7" n="N007"/>Therefore we now can say: myths are symbols of faith combined in
+               <lb break="no" facs="#facs_59_tr_3_tl_8" n="N008"/>stories about divine-human encounters.
+               <lb break="no" facs="#facs_59_tr_3_tl_9" n="N009"/>From this follows that myths are ALWAYS present, in every act of
+               <lb break="no" facs="#facs_59_tr_3_tl_10" n="N010"/>faith, because the language of faith is the symbol. But--and this is interesting in order
+               <lb break="no" facs="#facs_59_tr_3_tl_11" n="N011"/>to understand the history of ALL religions--these myths are also attacked, criticized,
+               <lb break="no" facs="#facs_59_tr_3_tl_12" n="N012"/>and surpassed in each of the great religions of mankind. The reason for this criticism is
+               <lb break="no" facs="#facs_59_tr_3_tl_13" n="N013"/>the very nature of the myth: it uses material from our ordinary experience. It puts
+               <lb break="no" facs="#facs_59_tr_3_tl_14" n="N014"/>the stories of the gods into the framework of time and space, although it belongs to
+               <lb break="no" facs="#facs_59_tr_3_tl_15" n="N015"/>the nature of the ultimate to be beyond time and space. But above all, it divides
+               <lb break="no" facs="#facs_59_tr_3_tl_16" n="N016"/>the divine into several divine figures, and in doing so, it removes ultimacy from
+               <lb break="no" facs="#facs_59_tr_3_tl_17" n="N017"/>each of them. But although it removes ultimacy from each of them, it does not remove
+               <lb break="no" facs="#facs_59_tr_3_tl_18" n="N018"/>the claim to ultimacy which is immediately given, with the name of God. If something
+               <lb break="no" facs="#facs_59_tr_3_tl_19" n="N019"/>is called ''God,'' it CLAIMS ultimacy, and must claim it, because it is an expression
+               <lb break="no" facs="#facs_59_tr_3_tl_20" n="N020"/>of ultimate concern. If there are many claiming this, there is a conflict of these
+               <lb break="no" facs="#facs_59_tr_3_tl_21" n="N021"/>claims, and this conflict of ultimate claims is the ultimate criterion against all forms
+               <lb break="no" facs="#facs_59_tr_3_tl_22" n="N022"/>of polytheism and idolatry, modern and present. It is the claim of different ultimates
+               <lb break="no" facs="#facs_59_tr_3_tl_23" n="N023"/>which disrupts the individual soul as much as it disrupts society. All imperialistic
+               <lb break="no" facs="#facs_59_tr_3_tl_24" n="N024"/>wars are ultimate claims of one or more of the nations, of the empires. And in the
+               <lb break="no" facs="#facs_59_tr_3_tl_25" n="N025"/>individual soul, the ultimate claims which fight in ourselves, with each other are the
+               <lb break="no" facs="#facs_59_tr_3_tl_26" n="N026"/>reason for all the disruptedness [sic.] of our personality, they are the reason for neurosis
+               <lb break="no" facs="#facs_59_tr_3_tl_27" n="N027"/>and psychosis. Most of our psychological sickness is based in the hidden polytheism
+               <lb break="no" facs="#facs_59_tr_3_tl_28" n="N028"/>of our soul. It is based in the idolatrous elements of our personality which fight with
+               <lb break="no" facs="#facs_59_tr_3_tl_29" n="N029"/>each other and produce disruption.
+               <lb break="no" facs="#facs_59_tr_3_tl_30" n="N030"/>Now the criticism of the myth, wherever it appears, rejects the division
+               <lb break="no" facs="#facs_59_tr_3_tl_31" n="N031"/>of the divine. And there is a tremendous endeavor going on in all great religions</rs>,
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p050</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p050</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_50">
+         <graphic url="TL-0050.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HRDUZWKOSQRCSBHXGZSGYQTX&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="47,221 47,3487 2295,3487 2295,221" rendition="TextRegion" xml:id="facs_50_tr_1">
+            <zone points="1235,262 1250,262 1257,269 1269,269 1277,276 1289,274 1301,279 1311,279 1318,271 1330,271 1325,211 1313,211 1303,225 1279,223 1267,225 1267,228 1252,223 1231,225" rendition="Line" xml:id="facs_50_tr_1_tl_1"/>
+            <zone points="654,434 1681,436 1824,484 2149,482 2125,392 654,380" rendition="Line" xml:id="facs_50_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="354,526 826,572 954,523 1037,564 1383,521 2108,531 2108,484 1991,465 1848,497 354,470" rendition="Line" xml:id="facs_50_tr_1_tl_3"/>
+            <zone points="354,603 1698,603 1793,647 2221,613 2221,567 2134,555 354,545" rendition="Line" xml:id="facs_50_tr_1_tl_4"/>
+            <zone points="344,681 2270,700 2270,656 2173,637 344,656" rendition="Line" xml:id="facs_50_tr_1_tl_5"/>
+            <zone points="344,763 2292,790 2292,741 2079,727 344,736" rendition="Line" xml:id="facs_50_tr_1_tl_6"/>
+            <zone points="637,930 2137,959 2120,891 637,891" rendition="Line" xml:id="facs_50_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="344,1020 2221,1061 2221,964 1676,1000 1599,967 1563,1000 344,957" rendition="Line" xml:id="facs_50_tr_1_tl_8"/>
+            <zone points="349,1105 1243,1107 1378,1156 1800,1107 1856,1156 2188,1153 2188,1080 2134,1063 349,1047" rendition="Line" xml:id="facs_50_tr_1_tl_9"/>
+            <zone points="342,1216 2204,1235 2178,1153 342,1141" rendition="Line" xml:id="facs_50_tr_1_tl_10"/>
+            <zone points="342,1315 921,1315 998,1267 1172,1301 2139,1286 2139,1238 1877,1226 342,1219" rendition="Line" xml:id="facs_50_tr_1_tl_11"/>
+            <zone points="339,1354 2190,1374 2149,1311 339,1315" rendition="Line" xml:id="facs_50_tr_1_tl_12"/>
+            <zone points="342,1449 2110,1456 2066,1398 342,1400" rendition="Line" xml:id="facs_50_tr_1_tl_13"/>
+            <zone points="344,1526 2197,1570 2197,1497 2141,1480 344,1466" rendition="Line" xml:id="facs_50_tr_1_tl_14"/>
+            <zone points="337,1616 2260,1635 2260,1582 2069,1560 337,1570" rendition="Line" xml:id="facs_50_tr_1_tl_15"/>
+            <zone points="339,1688 2263,1708 2263,1662 2132,1647 339,1642" rendition="Line" xml:id="facs_50_tr_1_tl_16"/>
+            <zone points="339,1781 1332,1829 1572,1778 2202,1793 2202,1744 2137,1732 339,1727" rendition="Line" xml:id="facs_50_tr_1_tl_17"/>
+            <zone points="337,1858 2134,1914 2110,1822 337,1810" rendition="Line" xml:id="facs_50_tr_1_tl_18"/>
+            <zone points="337,1989 1618,1955 1618,1914 1475,1897 337,1902" rendition="Line" xml:id="facs_50_tr_1_tl_19"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0050.jpg" n="part1_p050.jpg" xml:id="img_0050" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p050.jpg"/>
+            
+            <ab facs="#facs_50_tr_1">
+               <lb facs="#facs_50_tr_1_tl_1" n="N001"/>[47]
+               <lb facs="#facs_50_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Symbols">I now come back for a moment to what I said about language having
+               <lb break="no" facs="#facs_50_tr_1_tl_3" n="N003"/>both meaning and power. The power element is stronger in the realm of symbolic
+               <lb break="no" facs="#facs_50_tr_1_tl_4" n="N004"/>language; the meaning element is stronger where we use signs. In mathematics we have
+               <lb break="no" facs="#facs_50_tr_1_tl_5" n="N005"/>definite meanings expressed in signs. In art also we have meaning, but a meaning which is
+               <lb break="no" facs="#facs_50_tr_1_tl_6" n="N006"/>united with power in such a way that the power element, the opening element, is stronger.
+               <lb break="no" facs="#facs_50_tr_1_tl_7" n="N007"/>Now let me give here something which we have forgotten. If symbols
+               <lb break="no" facs="#facs_50_tr_1_tl_8" n="N008"/>have the power of opening up reality and the soul, then they must have healing power.
+               <lb break="no" facs="#facs_50_tr_1_tl_9" n="N009"/>That is what they actually have. I believe that the mental disorders which are growing
+               <lb break="no" facs="#facs_50_tr_1_tl_10" n="N010"/>so tremendously in our culture are partly due to the fact that there are no sufficiently
+               <lb break="no" facs="#facs_50_tr_1_tl_11" n="N011"/>healing symbols any more. Of course symbols have healing power ONLY if they are
+               <lb break="no" facs="#facs_50_tr_1_tl_12" n="N012"/>acknowledged as symbols, if they really express what they are supposed to express, for
+               <lb break="no" facs="#facs_50_tr_1_tl_13" n="N013"/>people. But IF they do so, then the vision of a symbol, the hearing of music, the
+               <lb break="no" facs="#facs_50_tr_1_tl_14" n="N014"/>looking at a picture--not to speak about religious symbolism--have in themselves healing
+               <lb break="no" facs="#facs_50_tr_1_tl_15" n="N015"/>power because they open up things which are shut off, which are repressed, which belong
+               <lb break="no" facs="#facs_50_tr_1_tl_16" n="N016"/>to the totality of our being, but are not allowed, because there are other elements in our
+               <lb break="no" facs="#facs_50_tr_1_tl_17" n="N017"/>being [which are] more strong--technical, intellectual, etc.--and they are shut off. Now
+               <lb break="no" facs="#facs_50_tr_1_tl_18" n="N018"/>they are opened; and if they are opened, then healing power PROVES that symbols
+               <lb break="no" facs="#facs_50_tr_1_tl_19" n="N019"/>are not only bearers of meaning, but also bearers of power.</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

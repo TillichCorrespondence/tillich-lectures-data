@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p169</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p169</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_169">
+         <graphic url="TL-0169.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TWBENBGBAEGNDNYRFSSKBFWT&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="271,256 271,3445 2322,3445 2322,256" rendition="TextRegion" xml:id="facs_169_tr_1">
+            <zone points="1131,329 1162,332 1170,340 1187,342 1249,342 1251,273 1216,271 1200,276 1182,258 1165,273 1134,273" rendition="Line" xml:id="facs_169_tr_1_tl_1"/>
+            <zone points="286,490 1039,493 1039,416 953,419 904,370 812,449 764,421 735,449 452,429 424,401 383,401 337,447 286,444" rendition="Line" xml:id="facs_169_tr_1_tl_2" subtype="heading"/>
+            <zone points="283,641 2242,638 2242,582 2166,564 2056,600 1747,567 914,603 838,569 804,603 659,572 381,608 283,575" rendition="Line" xml:id="facs_169_tr_1_tl_3"/>
+            <zone points="373,712 610,733 886,725 886,672 697,682 600,661 554,682 516,667 498,682 373,682" rendition="Line" xml:id="facs_169_tr_1_tl_4"/>
+            <zone points="276,863 2214,891 2214,804 276,835" rendition="Line" xml:id="facs_169_tr_1_tl_5"/>
+            <zone points="278,1027 511,1093 1405,1060 1458,1011 2258,1019 2258,963 2219,960 278,965" rendition="Line" xml:id="facs_169_tr_1_tl_6"/>
+            <zone points="276,1167 2245,1165 2245,1098 2115,1134 1811,1101 276,1124" rendition="Line" xml:id="facs_169_tr_1_tl_7"/>
+            <zone points="276,1323 2209,1315 2209,1259 276,1267" rendition="Line" xml:id="facs_169_tr_1_tl_8"/>
+            <zone points="283,1476 2252,1468 2252,1405 283,1415" rendition="Line" xml:id="facs_169_tr_1_tl_9"/>
+            <zone points="266,1619 2178,1622 2178,1563 2140,1560 266,1573" rendition="Line" xml:id="facs_169_tr_1_tl_10"/>
+            <zone points="276,1790 2163,1767 2163,1719 276,1731" rendition="Line" xml:id="facs_169_tr_1_tl_11"/>
+            <zone points="266,1928 2196,1920 2196,1864 2132,1859 266,1874" rendition="Line" xml:id="facs_169_tr_1_tl_12"/>
+            <zone points="266,2069 2191,2071 2191,2020 2094,2007 266,2046" rendition="Line" xml:id="facs_169_tr_1_tl_13"/>
+            <zone points="258,2222 2286,2227 2286,2166 258,2173" rendition="Line" xml:id="facs_169_tr_1_tl_14"/>
+            <zone points="260,2378 2206,2372 2209,2319 986,2349 654,2314 260,2352" rendition="Line" xml:id="facs_169_tr_1_tl_15"/>
+            <zone points="263,2526 2265,2518 2265,2464 2183,2459 263,2475" rendition="Line" xml:id="facs_169_tr_1_tl_16"/>
+            <zone points="266,2679 2319,2666 2311,2607 266,2628" rendition="Line" xml:id="facs_169_tr_1_tl_17"/>
+            <zone points="263,2835 2000,2830 2163,2822 2166,2771 263,2804" rendition="Line" xml:id="facs_169_tr_1_tl_18"/>
+            <zone points="260,2983 1650,2980 1606,2919 260,2955" rendition="Line" xml:id="facs_169_tr_1_tl_19"/>
+            <zone points="260,3136 465,3172 878,3136 2051,3179 2051,3064 260,3080" rendition="Line" xml:id="facs_169_tr_1_tl_20"/>
+            <zone points="345,3228 472,3261 1668,3190 1670,3141 478,3215 347,3185" rendition="Line" xml:id="facs_169_tr_1_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0169.jpg" n="part1_p169.jpg" xml:id="img_0169" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p169.jpg"/>
+            
+            <ab facs="#facs_169_tr_1">
+               <lb facs="#facs_169_tr_1_tl_1" n="N001"/>[166]
+               <lb facs="#facs_169_tr_1_tl_2" n="N002"/>LECTURE XV, Tues., Nov. 22, 1955
+               <lb facs="#facs_169_tr_1_tl_3" n="N003"/>QN: Once <rs type="keyword" ref="#Historical_research">historical probability </rs>is established, what relation can that which has been so established
+               <lb facs="#facs_169_tr_1_tl_4" n="N004"/>have to religion or <rs type="keyword" ref="#Faith">faith</rs>?
+               <lb facs="#facs_169_tr_1_tl_5" n="N005"/>PT: Yes, now this leads into a very large and difficult discussion about the indirect importance of
+               <lb facs="#facs_169_tr_1_tl_6" n="N006"/><rs type="keyword" ref="#Historical_research">historical research </rs>for our whole understanding of religion. There is indeed an INDIRECT influence,
+               <lb facs="#facs_169_tr_1_tl_7" n="N007"/>indirect insofar as the whole cultural climate is determined by our understanding of our past, and if,
+               <lb facs="#facs_169_tr_1_tl_8" n="N008"/>for instance, we know something about the way in whcih [sic.] <rs type="keyword" ref="#Dogma">dogma</rs> has come into existence by those
+               <lb facs="#facs_169_tr_1_tl_9" n="N009"/>who have given us insight into the history of the Christian doctrine, then this does not have DIRECT
+               <lb facs="#facs_169_tr_1_tl_10" n="N010"/>influence on <rs type="keyword" ref="#Faith">faith, i</rs>t is not the BASIS of faith, but it has indirect influence insofar as we see the
+               <lb facs="#facs_169_tr_1_tl_11" n="N011"/>problem of the past, the influences of politics, of economics, of religious personalities and their
+               <lb facs="#facs_169_tr_1_tl_12" n="N012"/>special psychological types on the development of a<rs type="keyword" ref="#Dogma"> dogma,</rs> or of the development of the biblical
+               <lb facs="#facs_169_tr_1_tl_13" n="N013"/>writings. Now all this is of great importance from the point of view of our general picture of the
+               <lb facs="#facs_169_tr_1_tl_14" n="N014"/>history of the world, as for instance the scientific result are indirectly important for the understanding
+               <lb facs="#facs_169_tr_1_tl_15" n="N015"/>of our picture of the natural reality. But neither the one nor the other can become an immediate
+               <lb facs="#facs_169_tr_1_tl_16" n="N016"/>foundation of <rs type="keyword" ref="#Faith">faith</rs>, nor is even SUPPOSED to become. So h<rs type="keyword" ref="#Historical_research">istorical probability, like ALL historical</rs>
+               <lb facs="#facs_169_tr_1_tl_17" n="N017"/>work, has, like all SCIENTIFIC work, an indirect influence on our relationship to reality. But we never
+               <lb facs="#facs_169_tr_1_tl_18" n="N018"/>can say it is the foundation of faith, so that if science or history made these statements, <rs type="keyword" ref="#Faith">faith</rs> is
+               <lb facs="#facs_169_tr_1_tl_19" n="N019"/>either threatened or concerned---this is the thesis I want to state here.
+               <lb facs="#facs_169_tr_1_tl_20" n="N020"/>QN: Is not the concept of Jesus as the final revelation based upon the <rs type="keyword" ref="#Historical_research">historicity</rs> of Jesus?
+               <lb facs="#facs_169_tr_1_tl_21" n="N021"/>If so, does not this make theology dependent on <rs type="keyword" ref="#Historical_research">historical validity?</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

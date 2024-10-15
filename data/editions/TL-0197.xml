@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p197</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p197</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_197">
+         <graphic url="TL-0197.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FZKPNPAMGSSDJFVZXNYACESK&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="229,225 229,3474 2304,3474 2304,225" rendition="TextRegion" xml:id="facs_197_tr_3">
+            <zone points="1072,285 1103,285 1111,293 1181,293 1186,288 1199,288 1199,218 1173,221 1160,234 1137,234 1124,221 1108,234 1072,234" rendition="Line" xml:id="facs_197_tr_3_tl_1"/>
+            <zone points="236,444 1591,446 1523,368 1432,405 1155,368 1118,405 877,374 843,407 236,410" rendition="Line" xml:id="facs_197_tr_3_tl_2"/>
+            <zone points="418,644 698,680 838,641 2141,644 2141,535 1731,542 1500,480 1430,524 1360,483 1116,477 1012,545 875,545 742,446 618,462 532,548 418,548" rendition="Line" xml:id="facs_197_tr_3_tl_3" subtype="paragraph"/>
+            <zone points="272,753 607,784 690,750 2094,740 2094,677 272,706" rendition="Line" xml:id="facs_197_tr_3_tl_4"/>
+            <zone points="236,898 2133,893 2133,849 2060,815 1988,849 236,872" rendition="Line" xml:id="facs_197_tr_3_tl_5"/>
+            <zone points="234,1048 2193,1046 2193,991 1959,981 234,1022" rendition="Line" xml:id="facs_197_tr_3_tl_6"/>
+            <zone points="223,1285 742,1246 1798,1285 2224,1251 2224,1160 223,1194" rendition="Line" xml:id="facs_197_tr_3_tl_7"/>
+            <zone points="223,1425 1806,1414 1871,1365 2130,1368 2130,1308 223,1342" rendition="Line" xml:id="facs_197_tr_3_tl_8"/>
+            <zone points="226,1526 1443,1531 1443,1474 1381,1458 226,1482" rendition="Line" xml:id="facs_197_tr_3_tl_9"/>
+            <zone points="402,1669 807,1666 906,1733 2112,1700 2112,1622 1972,1606 402,1619" rendition="Line" xml:id="facs_197_tr_3_tl_10" subtype="paragraph"/>
+            <zone points="223,1819 1796,1819 2208,1858 2247,1762 223,1796" rendition="Line" xml:id="facs_197_tr_3_tl_11"/>
+            <zone points="226,1998 260,2022 1201,2022 1201,1928 1126,1918 226,1931" rendition="Line" xml:id="facs_197_tr_3_tl_12"/>
+            <zone points="400,2128 2128,2120 2081,2060 400,2073" rendition="Line" xml:id="facs_197_tr_3_tl_13" subtype="paragraph"/>
+            <zone points="215,2281 2297,2278 2289,2211 215,2255" rendition="Line" xml:id="facs_197_tr_3_tl_14"/>
+            <zone points="226,2434 2169,2421 2169,2369 226,2387" rendition="Line" xml:id="facs_197_tr_3_tl_15"/>
+            <zone points="218,2626 1310,2649 1593,2579 2084,2572 2084,2520 1534,2499 1124,2541 218,2535" rendition="Line" xml:id="facs_197_tr_3_tl_16"/>
+            <zone points="213,2733 2003,2725 2003,2670 215,2688" rendition="Line" xml:id="facs_197_tr_3_tl_17"/>
+            <zone points="215,2883 2193,2870 2193,2808 2092,2795 215,2849" rendition="Line" xml:id="facs_197_tr_3_tl_18"/>
+            <zone points="223,3034 449,3078 1809,3072 1913,3039 1915,2982 1829,2961 226,2987" rendition="Line" xml:id="facs_197_tr_3_tl_19"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0197.jpg" n="part1_p197.jpg" xml:id="img_0197" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p197.jpg"/>
+            
+            <ab facs="#facs_197_tr_3">
+               <lb facs="#facs_197_tr_3_tl_1" n="N001"/>[193]
+               <lb facs="#facs_197_tr_3_tl_2" n="N002"/>but they are much more than this: they are hidden <rs type="keyword" ref="#Metaphysics">metaphysicians.</rs>
+               <lb facs="#facs_197_tr_3_tl_3" n="N003"/>So I think TODAY we are able to use a philosophical movement, which we usually call
+               <lb facs="#facs_197_tr_3_tl_4" n="N004"/>"<rs type="keyword" ref="#Existentialism">existentialism</rs>" (and which is the other pole, so to speak, of <rs type="keyword" ref="#Logical_Positivism">logical positivism</rs>) which goes so
+               <lb facs="#facs_197_tr_3_tl_5" n="N005"/>concretely into the real human situation that some philosophers of the <rs type="keyword" ref="#Naturalism">naturalistic tradition</rs> are
+               <lb facs="#facs_197_tr_3_tl_6" n="N006"/>worried about this existentialist development as much as they are worried about<rs type="keyword" ref="#Logical_Positivism"> logical positivism</rs>:
+               <lb facs="#facs_197_tr_3_tl_7" n="N007"/>they have the feeling that the one does not go into the matter, it remains in tool-sharpening; and the
+               <lb facs="#facs_197_tr_3_tl_8" n="N008"/>other goes so much into the matter that it becomes poetry, and bad psychology; and that is the
+               <lb facs="#facs_197_tr_3_tl_9" n="N009"/>situation in which many philosophers see the problem today.
+               <lb facs="#facs_197_tr_3_tl_10" n="N010"/>I see it differently. I believe that <rs type="keyword" ref="#Existentialism">existentialism</rs> today is a way of expressing, in a very
+               <lb facs="#facs_197_tr_3_tl_11" n="N011"/>different form (which didn't exist before as a philosophical movement) the problems which are
+               <lb facs="#facs_197_tr_3_tl_12" n="N012"/>implied in<rs type="keyword" ref="#Myth"> myth,</rs> to which I have referred today.
+               <lb facs="#facs_197_tr_3_tl_13" n="N013"/>Now this is the situation in more general terms. This leads to different, more concrete
+               <lb facs="#facs_197_tr_3_tl_14" n="N014"/>problems with which I will deal next time. One of them is the problem whether philosophy BY ITSELF
+               <lb facs="#facs_197_tr_3_tl_15" n="N015"/>can produce answers to the problem of human existence, to the problem of our <ultimate_concern>ultimate concern.</ultimate_concern>
+               <lb facs="#facs_197_tr_3_tl_16" n="N016"/>It is the famous question of natural theology. "Natural theology" means that there are some
+               <lb facs="#facs_197_tr_3_tl_17" n="N017"/>realms of our knowledge of the ultimate---of <truth_of_faith>truth of faith</truth_of_faith>---within which it is possible to
+               <lb facs="#facs_197_tr_3_tl_18" n="N018"/>reach contents by a mere philosophical procedure. Now how this is possible is one of the problems
+               <lb facs="#facs_197_tr_3_tl_19" n="N019"/>which are especially discussed today between Roman Catholicism and Protestantism,
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

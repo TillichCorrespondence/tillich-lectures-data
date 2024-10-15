@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p283</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p283</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_283">
+         <graphic url="TL-0283.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=OMGCHYOJYSTVYFTMRIQWGKVG&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="146,237 146,3432 2346,3432 2346,237" rendition="TextRegion" xml:id="facs_283_tr_2">
+            <zone points="1134,301 1195,312 1253,309 1256,241 1219,243 1211,238 1203,246 1184,246 1174,254 1137,254" rendition="Line" xml:id="facs_283_tr_2_tl_1"/>
+            <zone points="259,463 746,465 798,518 1034,521 1153,460 2152,468 2152,412 1909,394 259,418" rendition="Line" xml:id="facs_283_tr_2_tl_2"/>
+            <zone points="256,611 2160,605 2160,547 256,582" rendition="Line" xml:id="facs_283_tr_2_tl_3"/>
+            <zone points="249,761 516,806 1092,804 1198,761 1377,804 1856,775 2171,806 2171,698 1874,724 1343,674 1110,730 249,732" rendition="Line" xml:id="facs_283_tr_2_tl_4"/>
+            <zone points="243,909 2255,909 2255,846 243,883" rendition="Line" xml:id="facs_283_tr_2_tl_5"/>
+            <zone points="243,1060 270,1073 611,1071 611,1015 243,1015" rendition="Line" xml:id="facs_283_tr_2_tl_6"/>
+            <zone points="447,1142 2176,1134 2176,1095 2009,1065 1851,1100 1811,1068 1737,1100 1687,1068 986,1105 447,1079" rendition="Line" xml:id="facs_283_tr_2_tl_7" subtype="paragraph"/>
+            <zone points="132,1330 254,1288 320,1348 1108,1311 1507,1311 1568,1348 2112,1295 2112,1224 656,1261 132,1227" rendition="Line" xml:id="facs_283_tr_2_tl_8"/>
+            <zone points="235,1459 320,1496 637,1441 2202,1443 2202,1372 235,1409" rendition="Line" xml:id="facs_283_tr_2_tl_10"/>
+            <zone points="243,1594 849,1636 1417,1584 2255,1589 2255,1531 2186,1523 243,1560" rendition="Line" xml:id="facs_283_tr_2_tl_11"/>
+            <zone points="442,1745 2118,1740 2118,1681 442,1695" rendition="Line" xml:id="facs_283_tr_2_tl_12" subtype="paragraph"/>
+            <zone points="235,1890 328,1956 587,1941 656,1898 1213,1938 1282,1890 2202,1888 2205,1824 238,1861" rendition="Line" xml:id="facs_283_tr_2_tl_13"/>
+            <zone points="241,2054 1761,2086 1832,2044 2266,2038 2266,1980 241,2015" rendition="Line" xml:id="facs_283_tr_2_tl_14"/>
+            <zone points="238,2200 423,2237 672,2194 1999,2221 2134,2189 2134,2141 1991,2128 238,2152" rendition="Line" xml:id="facs_283_tr_2_tl_15"/>
+            <zone points="227,2390 1325,2387 1367,2345 1412,2385 1832,2374 2012,2342 2015,2284 227,2316" rendition="Line" xml:id="facs_283_tr_2_tl_16"/>
+            <zone points="233,2504 1533,2488 1824,2525 1787,2443 1602,2435 233,2469" rendition="Line" xml:id="facs_283_tr_2_tl_18"/>
+            <zone points="230,2609 2223,2620 2223,2557 2157,2538 230,2580" rendition="Line" xml:id="facs_283_tr_2_tl_19"/>
+            <zone points="233,2771 2215,2757 2215,2702 1866,2697 233,2739" rendition="Line" xml:id="facs_283_tr_2_tl_20"/>
+            <zone points="227,2913 2062,2908 2057,2847 227,2882" rendition="Line" xml:id="facs_283_tr_2_tl_21"/>
+            <zone points="217,3059 386,3093 682,3059 2178,3069 2342,3061 2345,2998 217,3032" rendition="Line" xml:id="facs_283_tr_2_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0283.jpg" n="part1_p283.jpg" xml:id="img_0283" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p283.jpg"/>
+            
+            <ab facs="#facs_283_tr_2">
+               <lb facs="#facs_283_tr_2_tl_1" n="N001"/>[279]
+               <lb facs="#facs_283_tr_2_tl_2" n="N002"/>East European nations, as <rs type="person">Margaret Mead</rs> has discussed; or the basic anxiety of the Red Indians,
+               <lb facs="#facs_283_tr_2_tl_3" n="N003"/>or whatever. This is not basic; this is historically determined. But there is something below this,
+               <lb facs="#facs_283_tr_2_tl_4" n="N004"/>namely the POSSIBILITY of <rs type="keyword" ref="#Anxiety">anxiety</rs>, and this is the REALLY basic anxiety, which is given
+               <lb facs="#facs_283_tr_2_tl_5" n="N005"/>with man's predicament and which also has been rediscovered in connection with the problems of the
+               <lb facs="#facs_283_tr_2_tl_6" n="N006"/>human situation.
+               <lb facs="#facs_283_tr_2_tl_7" n="N007"/>Let me say a few words about this<rs type="keyword" ref="#Anxiety"> anxiety. </rs>Every living being has this anxiety because
+               <lb facs="#facs_283_tr_2_tl_8" n="N008"/>every living being is continuously threatened by nonbeing, and comes from nonbeing and goes
+               <lb facs="#facs_283_tr_2_tl_10" n="N009"/>to nonbeing. Man has advantages and disadvantages in comparison with other living beings. Man has the
+               <lb facs="#facs_283_tr_2_tl_11" n="N010"/>advantage that he can transform anxiety into fear and then fight courageously with the object of fear.
+               <lb facs="#facs_283_tr_2_tl_12" n="N011"/>Now let me explain that. Decisive for this whole analysis is the distinction between
+               <lb facs="#facs_283_tr_2_tl_13" n="N012"/><rs type="keyword" ref="#Anxiety">anxiety</rs> and fear, which is older than <rs type="person">Kierkegaard</rs> and much older than <rs type="person">Freud</rs> and modern analysis
+               <lb facs="#facs_283_tr_2_tl_14" n="N013"/>and <rs type="keyword" ref="#Existentialism">existentialism</rs>, who ALL use this distinction. Anxiety is without a content, or as the existentialist
+               <lb facs="#facs_283_tr_2_tl_15" n="N014"/><rs type="person">Heidegger</rs> has said, it is without an object, it is related to nonbeing itself. Or as <rs type="person">Goldstein</rs> says:
+               <lb facs="#facs_283_tr_2_tl_16" n="N015"/>it is the state of not being able to handle life as a whole, without a special reason. Fear is
+               <lb facs="#facs_283_tr_2_tl_18" n="N016"/>always motivated by an object, by something which we can face---a sickness, an examination, a battle,
+               <lb facs="#facs_283_tr_2_tl_19" n="N017"/>and what not. This difference between fear and anxiety is absolutely decisive for the understanding
+               <lb facs="#facs_283_tr_2_tl_20" n="N018"/>of man. You can observe this in your dealing with children: if they are in a dark room and are in
+               <lb facs="#facs_283_tr_2_tl_21" n="N019"/>anxiety, there is no special object. If you are able to ask them and bring them to an answer
+               <lb facs="#facs_283_tr_2_tl_22" n="N020"/>to the question "Now what are you afraid of?", then they may laugh. And you can do that with yourself.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p216</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p216</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_216">
+         <graphic url="TL-0216.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UDVVODCKFUURXMYTVBYYCLFW&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="50,256 50,3482 2361,3482 2361,256" rendition="TextRegion" xml:id="facs_216_tr_1">
+            <zone points="1181,319 1202,316 1210,324 1242,321 1252,327 1268,321 1304,324 1302,248 1262,246 1244,235 1218,261 1179,264" rendition="Line" xml:id="facs_216_tr_1_tl_1"/>
+            <zone points="335,478 795,518 1367,518 1438,484 1472,518 2057,549 2146,494 2292,502 2292,450 894,416 829,369 787,410 332,400" rendition="Line" xml:id="facs_216_tr_1_tl_2"/>
+            <zone points="329,599 1702,627 2107,680 2271,674 2295,588 327,559" rendition="Line" xml:id="facs_216_tr_1_tl_3"/>
+            <zone points="319,758 468,808 1150,768 2300,813 2258,740 2154,732 319,714" rendition="Line" xml:id="facs_216_tr_1_tl_4"/>
+            <zone points="332,902 2313,957 2311,912 2167,883 332,863" rendition="Line" xml:id="facs_216_tr_1_tl_5"/>
+            <zone points="314,1048 1205,1074 1343,1124 2039,1121 2143,1187 2277,1171 2271,1012 2206,978 2120,975 2031,1056 585,993 314,1017" rendition="Line" xml:id="facs_216_tr_1_tl_6"/>
+            <zone points="311,1197 384,1249 2133,1286 2130,1184 311,1140" rendition="Line" xml:id="facs_216_tr_1_tl_7"/>
+            <zone points="478,1380 941,1448 1082,1406 1937,1409 2039,1445 2227,1401 2227,1341 1142,1323 970,1260 844,1262 795,1309 476,1302" rendition="Line" xml:id="facs_216_tr_1_tl_8" subtype="paragraph"/>
+            <zone points="306,1500 849,1547 1848,1539 1903,1587 2081,1571 2138,1607 2209,1550 2292,1558 2290,1487 303,1445" rendition="Line" xml:id="facs_216_tr_1_tl_9"/>
+            <zone points="295,1649 1194,1738 1367,1678 2245,1704 2243,1644 2060,1634 295,1613" rendition="Line" xml:id="facs_216_tr_1_tl_10"/>
+            <zone points="290,1803 2172,1851 2169,1785 290,1770" rendition="Line" xml:id="facs_216_tr_1_tl_11"/>
+            <zone points="288,1960 2086,2015 2264,2002 2264,1937 285,1918" rendition="Line" xml:id="facs_216_tr_1_tl_12"/>
+            <zone points="285,2104 1979,2159 2203,2151 2203,2112 1788,2109 1720,2070 282,2075" rendition="Line" xml:id="facs_216_tr_1_tl_13"/>
+            <zone points="277,2253 2243,2311 2240,2240 277,2224" rendition="Line" xml:id="facs_216_tr_1_tl_14"/>
+            <zone points="274,2410 2117,2454 2115,2392 274,2379" rendition="Line" xml:id="facs_216_tr_1_tl_15"/>
+            <zone points="269,2564 2075,2606 2130,2603 2130,2538 946,2543 447,2507 389,2452 267,2527" rendition="Line" xml:id="facs_216_tr_1_tl_16"/>
+            <zone points="269,2713 2193,2752 2190,2687 269,2676" rendition="Line" xml:id="facs_216_tr_1_tl_17"/>
+            <zone points="254,2854 2214,2899 2214,2836 254,2825" rendition="Line" xml:id="facs_216_tr_1_tl_18"/>
+            <zone points="256,3011 2360,3053 2358,2995 2250,2988 1498,3006 256,2954" rendition="Line" xml:id="facs_216_tr_1_tl_19"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0216.jpg" n="part1_p216.jpg" xml:id="img_0216" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p216.jpg"/>
+            
+            <ab facs="#facs_216_tr_1">
+               <lb facs="#facs_216_tr_1_tl_1" n="N001"/>[212]
+               <lb facs="#facs_216_tr_1_tl_2" n="N002"/>A the same time, <hi style="font-style: italic;">SUBSTANTIA</hi> is a logical category which already appears in <rs type="person">Aristotle</rs> <hi style="font-style: italic;">(hypostasis)</hi>
+               <lb facs="#facs_216_tr_1_tl_3" n="N003"/>and has a long history of interpretation in epistemological, logical and ontological terms. Now this is
+               <lb facs="#facs_216_tr_1_tl_4" n="N004"/>the ambiguity of such an analysis, that in the same central concept [such] as "substance" in <rs type="person">Spinoza,</rs>
+               <lb facs="#facs_216_tr_1_tl_5" n="N005"/>we have a tradition of Jewish monotheism on the one hand, and of the development of an Aristotelian
+               <lb facs="#facs_216_tr_1_tl_6" n="N006"/>category on the other. Here we see the difficulty, and for this reason I say it cannot be done clearly.
+               <lb facs="#facs_216_tr_1_tl_7" n="N007"/>But if I DISCUSS <rs type="person">Spinoza,</rs> l wouldn't do it as it was done by contemporary theologians, who
+               <lb facs="#facs_216_tr_1_tl_8" n="N008"/>threw him out as a heretic, but as it has been done also by many later theologians---and if
+               <lb facs="#facs_216_tr_1_tl_9" n="N009"/>I use the word "<rs type="person">Spinoza</rs>," by a conditioned reflex, in every theologian the word "pantheism" appears
+               <lb facs="#facs_216_tr_1_tl_10" n="N010"/>in his mind! Now this word is never really defined, or very rarely, and in which sense it can be used
+               <lb facs="#facs_216_tr_1_tl_11" n="N011"/>at all is another question. In any case, in discussing <rs type="person">Spinoza</rs> l wouldn't discuss him (in terms of
+               <lb facs="#facs_216_tr_1_tl_12" n="N012"/>theological attack) as a pantheist. On the other hand, if l had to discuss him philosophically, l would
+               <lb facs="#facs_216_tr_1_tl_13" n="N013"/>not do so in terms of <rs type="person">Schleiermacher</rs>'s hymn [to] the saintliness of <rs type="person">Spinoza</rs>. Both are justified----
+               <lb facs="#facs_216_tr_1_tl_14" n="N014"/>this is SO in him, and this is a theological discussion. But there is another discussion: the discussion
+               <lb facs="#facs_216_tr_1_tl_15" n="N015"/>of the logical meaning of universal substance, and the relationship to the accidents. And there
+               <lb facs="#facs_216_tr_1_tl_16" n="N016"/>a man like <rs type="person">Schelling</rs>, for instance, has contributed much, merely PHILOSOPHICALLY, to the
+               <lb facs="#facs_216_tr_1_tl_17" n="N017"/>criticism of <rs type="person">Spinoza</rs> by showing that the accidents cannot be understood in terms of a geometrical
+               <lb facs="#facs_216_tr_1_tl_18" n="N018"/>necessity following from the substance, as <rs type="person">Spinoza</rs> wanted, but that the accidents---namely you and
+               <lb facs="#facs_216_tr_1_tl_19" n="N019"/>l and the chairs and the desks and the sun and the moon---they all are <hi style="font-style: italic;">modi</hi> of the substance, as he calls it---
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

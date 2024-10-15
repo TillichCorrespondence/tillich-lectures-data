@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p070</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p070</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_70">
+         <graphic url="TL-0354.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DQBWVXAOWGJDVZUOZMNXMUNF&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="223,302 2203,302 2203,986 223,986" rendition="TextRegion" xml:id="facs_70_tr_2">
+            <zone points="1047,354 1060,354 1077,371 1090,376 1104,374 1112,366 1134,374 1154,366 1174,366 1176,295 1164,295 1139,317 1114,317 1099,302 1085,314 1050,314" rendition="Line" xml:id="facs_70_tr_2_tl_1"/>
+            <zone points="210,535 2023,525 2196,510 2196,463 210,490" rendition="Line" xml:id="facs_70_tr_2_tl_2"/>
+            <zone points="210,681 2139,676 2142,612 213,634" rendition="Line" xml:id="facs_70_tr_2_tl_3"/>
+            <zone points="210,830 1998,832 2177,812 2177,760 210,778" rendition="Line" xml:id="facs_70_tr_2_tl_4"/>
+            <zone points="210,983 2122,966 2122,916 210,938" rendition="Line" xml:id="facs_70_tr_2_tl_5"/>
+         </zone>
+         <zone points="214,1057 2200,1057 2200,2496 214,2496" rendition="TextRegion" xml:id="facs_70_tr_1">
+            <zone points="203,1129 1793,1134 1991,1114 1993,1062 206,1082" rendition="Line" xml:id="facs_70_tr_1_tl_1"/>
+            <zone points="210,1290 1634,1288 1793,1268 1793,1216 210,1236" rendition="Line" xml:id="facs_70_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="206,1441 2040,1429 2085,1355 206,1382" rendition="Line" xml:id="facs_70_tr_1_tl_5"/>
+            <zone points="213,1590 2110,1575 2110,1506 213,1528" rendition="Line" xml:id="facs_70_tr_1_tl_6"/>
+            <zone points="201,1731 2120,1716 2120,1657 203,1701" rendition="Line" xml:id="facs_70_tr_1_tl_7"/>
+            <zone points="201,1882 2135,1872 2172,1827 201,1830" rendition="Line" xml:id="facs_70_tr_1_tl_8"/>
+            <zone points="203,2031 2065,2016 2065,1966 1758,1961 206,1986" rendition="Line" xml:id="facs_70_tr_1_tl_9"/>
+            <zone points="201,2194 2028,2179 2080,2110 201,2135" rendition="Line" xml:id="facs_70_tr_1_tl_10"/>
+            <zone points="203,2335 2112,2325 2112,2258 203,2286" rendition="Line" xml:id="facs_70_tr_1_tl_11"/>
+            <zone points="201,2484 1676,2484 1706,2429 201,2461" rendition="Line" xml:id="facs_70_tr_1_tl_12"/>
+         </zone>
+         <zone points="107,2645 2098,2645 2098,3479 107,3479" rendition="TextRegion" xml:id="facs_70_tr_3">
+            <zone points="203,2721 1555,2709 1555,2645 203,2662" rendition="Line" xml:id="facs_70_tr_3_tl_1" subtype="heading"/>
+            <zone points="201,2860 2092,2870 2092,2781 201,2833" rendition="Line" xml:id="facs_70_tr_3_tl_2" subtype="paragraph"/>
+            <zone points="201,3014 2070,3004 2070,2944 1959,2934 203,2972" rendition="Line" xml:id="facs_70_tr_3_tl_3"/>
+            <zone points="193,3162 1996,3157 2011,3095 193,3137" rendition="Line" xml:id="facs_70_tr_3_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0354.jpg" n="part2_p070.jpg" xml:id="img_0070" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p070.jpg"/>
+            
+            <ab facs="#facs_70_tr_2">
+               <lb facs="#facs_70_tr_2_tl_1" n="N001"/>[349]
+               <lb facs="#facs_70_tr_2_tl_2" n="N002"/>given and therefore should not be a matter of expressionistic art at all but should always be preserved
+               <lb facs="#facs_70_tr_2_tl_3" n="N003"/>in terms of its natural form which is given by God. Now I would say: this is not a real argument,
+               <lb facs="#facs_70_tr_2_tl_4" n="N004"/>because it is given by God but it EXPRESSES something--that is its greatness, not its always-similar
+               <lb facs="#facs_70_tr_2_tl_5" n="N005"/>natural forms. And this expression can be intensive to such a degree that the similarity with the
+            </ab>
+            <ab facs="#facs_70_tr_1">
+               <lb facs="#facs_70_tr_1_tl_1" n="N001"/>individual almost disappears. But I leave this open as a problem to your thinking about it.
+               <lb facs="#facs_70_tr_1_tl_4" n="N002"/>9) Henry Moore: <hi style="font-style: italic;">FAMILY GROUP</hi>--He has done with the human body what I showed you in the
+               <lb facs="#facs_70_tr_1_tl_5" n="N003"/>picture before: he has taken away for sculptural expression all the naturalistic elements which
+               <lb facs="#facs_70_tr_1_tl_6" n="N004"/>characterize the surface of the human body, as we see it, and has so to speak banished the bodily
+               <lb facs="#facs_70_tr_1_tl_7" n="N005"/>existence of man for the sake of structure in which the empty spaces (e.g. Moore's <hi style="font-style: italic;">RECLINING</hi>
+               <lb facs="#facs_70_tr_1_tl_8" n="N006"/><hi style="font-style: italic;">FIGURE</hi>) produce a special feeling of disruptedness [sic.] on the one side, but of fundamental structures
+               <lb facs="#facs_70_tr_1_tl_9" n="N007"/>of being on the other side. And the fact that Henry Moore is considered, even in conservative
+               <lb facs="#facs_70_tr_1_tl_10" n="N008"/>England, as one of the greatest, or practically the greatest, sculptor of today shows that people
+               <lb facs="#facs_70_tr_1_tl_11" n="N009"/>feel that simply a copy of the human body in terms of scriptural means, is not the answer to the
+               <lb facs="#facs_70_tr_1_tl_12" n="N010"/>questions of our time--we must penetrate in[to] deeper structure elements.
+            </ab>
+            <ab facs="#facs_70_tr_3">
+               <lb facs="#facs_70_tr_3_tl_1" n="N001"/>III: NATURALISTIC STYLE &amp; RELIGIOUS SUBJECT MATTER:
+               <lb facs="#facs_70_tr_3_tl_2" n="N002"/>10) Giotto, <hi style="font-style: italic;">SAINT FRANCIS AND THE BIRDS</hi>--This is certainly not yet naturalistic style.
+               <lb facs="#facs_70_tr_3_tl_3" n="N003"/>Here I want to say something about transitions. Sometimes the transitory moments in history
+               <lb facs="#facs_70_tr_3_tl_4" n="N004"/>are the most important ones. Here the expressionistic power of being is seen in everything,
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

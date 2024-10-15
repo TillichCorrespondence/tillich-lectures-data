@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part4_p026</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p026</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_26">
+         <graphic url="TL-0500.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HACWCGIIXQDHVCOGMNWBFNJF&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="238,266 2239,266 2239,1311 238,1311" rendition="TextRegion" xml:id="facs_26_tr_1">
+            <zone points="1102,329 1133,329 1151,342 1174,337 1189,342 1200,334 1223,334 1220,275 1182,275 1151,265 1133,280 1099,280" rendition="Line" xml:id="facs_26_tr_1_tl_1"/>
+            <zone points="247,478 2109,511 2073,378 2027,429 247,437" rendition="Line" xml:id="facs_26_tr_1_tl_2"/>
+            <zone points="285,555 2119,565 2099,511 285,524" rendition="Line" xml:id="facs_26_tr_1_tl_3"/>
+            <zone points="288,629 2109,645 2109,596 1909,581 288,591" rendition="Line" xml:id="facs_26_tr_1_tl_4"/>
+            <zone points="288,709 2124,717 2081,660 288,663" rendition="Line" xml:id="facs_26_tr_1_tl_5"/>
+            <zone points="277,778 1028,778 1028,745 961,735 277,735" rendition="Line" xml:id="facs_26_tr_1_tl_6"/>
+            <zone points="236,848 262,861 339,861 347,853 401,866 447,848 462,863 532,866 532,809 457,809 434,825 403,804 270,801 236,822" rendition="Line" xml:id="facs_26_tr_1_tl_7"/>
+            <zone points="1323,889 1598,891 1598,830 1469,825 1451,840 1323,832" rendition="Line" xml:id="facs_26_tr_1_tl_8"/>
+            <zone points="244,935 1333,940 1333,881 1307,879 244,879" rendition="Line" xml:id="facs_26_tr_1_tl_9"/>
+            <zone points="1521,958 2063,935 2232,956 2232,904 2153,904 2127,879 2078,902 2009,879 1983,904 1896,884 1837,904 1811,879 1521,891" rendition="Line" xml:id="facs_26_tr_1_tl_10"/>
+            <zone points="275,999 2225,1020 2225,971 1981,958 275,974" rendition="Line" xml:id="facs_26_tr_1_tl_11"/>
+            <zone points="272,1061 313,1061 326,1051 372,1061 385,1053 455,1053 480,1061 480,1012 455,1015 444,1007 437,1015 403,1020 393,1012 334,1007 313,1015 290,999 272,999" rendition="Line" xml:id="facs_26_tr_1_tl_12"/>
+            <zone points="483,1089 2127,1094 2127,1030 483,1040" rendition="Line" xml:id="facs_26_tr_1_tl_13"/>
+            <zone points="272,1161 1605,1171 1605,1123 1536,1110 272,1117" rendition="Line" xml:id="facs_26_tr_1_tl_14"/>
+            <zone points="223,1290 2219,1310 2132,1248 223,1261" rendition="Line" xml:id="facs_26_tr_1_tl_15"/>
+         </zone>
+         <zone points="226,1394 2286,1394 2286,2520 226,2520" rendition="TextRegion" xml:id="facs_26_tr_3">
+            <zone points="226,1451 765,1508 1074,1454 1359,1508 2209,1490 2209,1395 226,1403" rendition="Line" xml:id="facs_26_tr_3_tl_1"/>
+            <zone points="223,1600 2207,1613 2207,1549 223,1567" rendition="Line" xml:id="facs_26_tr_3_tl_2"/>
+            <zone points="221,1747 2276,1765 2276,1708 2099,1701 221,1695" rendition="Line" xml:id="facs_26_tr_3_tl_3"/>
+            <zone points="218,1903 1456,1950 2278,1916 2278,1850 218,1865" rendition="Line" xml:id="facs_26_tr_3_tl_4"/>
+            <zone points="218,2060 2217,2076 2271,1998 218,2019" rendition="Line" xml:id="facs_26_tr_3_tl_5"/>
+            <zone points="211,2199 2163,2212 2104,2145 211,2171" rendition="Line" xml:id="facs_26_tr_3_tl_6"/>
+            <zone points="216,2356 2129,2376 2127,2309 213,2304" rendition="Line" xml:id="facs_26_tr_3_tl_7"/>
+            <zone points="211,2515 2091,2525 2091,2469 1978,2456 211,2461" rendition="Line" xml:id="facs_26_tr_3_tl_8"/>
+         </zone>
+         <zone points="50,2604 2203,2604 2203,3485 50,3485" rendition="TextRegion" xml:id="facs_26_tr_2">
+            <zone points="206,2659 1901,2669 1901,2610 206,2610" rendition="Line" xml:id="facs_26_tr_2_tl_1"/>
+            <zone points="2034,2654 2047,2654 2063,2669 2112,2664 2127,2669 2132,2664 2155,2669 2163,2677 2199,2674 2199,2607 2117,2610 2109,2618 2094,2618 2078,2607 2034,2612" rendition="Line" xml:id="facs_26_tr_2_tl_2"/>
+            <zone points="200,2803 2145,2813 2083,2746 200,2754" rendition="Line" xml:id="facs_26_tr_2_tl_3"/>
+            <zone points="203,2959 1998,2962 1829,2895 203,2916" rendition="Line" xml:id="facs_26_tr_2_tl_4"/>
+            <zone points="200,3108 2137,3129 2058,3047 200,3059" rendition="Line" xml:id="facs_26_tr_2_tl_5"/>
+            <zone points="884,3422 938,3404 1058,3447 1143,3393 1246,3422 1300,3396 1374,3427 1428,3398 1703,3411 1703,3311 1048,3298 884,3319" rendition="Line" xml:id="facs_26_tr_2_tl_6"/>
+            <zone points="108,3411 131,3404 149,3411 170,3393 213,3406 231,3391 272,3396 272,3298 236,3301 206,3291 170,3291 144,3298 131,3314 108,3314" rendition="Line" xml:id="facs_26_tr_2_tl_7"/>
+            <zone points="1950,3409 1978,3411 1991,3404 1998,3411 2032,3409 2027,3257 1993,3260 1986,3267 1945,3262" rendition="Line" xml:id="facs_26_tr_2_tl_8"/>
+            <zone points="686,3406 701,3404 722,3419 735,3419 748,3416 768,3398 843,3401 845,3324 801,3327 789,3334 763,3329 740,3334 732,3329 712,3345 688,3345" rendition="Line" xml:id="facs_26_tr_2_tl_9"/>
+            <zone points="696,3447 712,3442 740,3442 755,3452 758,3445 789,3460 804,3455 786,3398 776,3404 768,3398 748,3409 696,3388 694,3393 681,3396" rendition="Line" xml:id="facs_26_tr_2_tl_10"/>
+            <zone points="108,3445 136,3442 144,3434 159,3450 180,3458 203,3440 234,3442 234,3406 203,3404 198,3398 175,3393 167,3393 154,3406 123,3396 105,3396" rendition="Line" xml:id="facs_26_tr_2_tl_11"/>
+            <zone points="1369,3445 1431,3437 1451,3447 1474,3429 1492,3445 1516,3432 1552,3450 1567,3434 1600,3445 1616,3432 1649,3452 1649,3398 1613,3406 1595,3396 1559,3411 1539,3401 1503,3409 1487,3398 1469,3411 1426,3401 1413,3414 1369,3419" rendition="Line" xml:id="facs_26_tr_2_tl_12"/>
+            <zone points="894,3460 935,3460 945,3447 956,3445 958,3437 974,3437 971,3406 956,3406 950,3411 930,3404 920,3396 914,3401 886,3398" rendition="Line" xml:id="facs_26_tr_2_tl_13"/>
+            <zone points="1197,3481 1228,3481 1228,3478 1243,3481 1246,3478 1279,3476 1274,3411 1261,3411 1261,3414 1243,3422 1228,3411 1218,3414 1205,3404 1192,3404" rendition="Line" xml:id="facs_26_tr_2_tl_14"/>
+            <zone points="786,3470 799,3470 812,3486 848,3488 855,3481 889,3486 914,3476 940,3488 948,3481 976,3486 979,3445 961,3440 948,3450 938,3445 907,3450 891,3442 879,3450 871,3445 832,3452 809,3437 789,3437" rendition="Line" xml:id="facs_26_tr_2_tl_15"/>
+            <zone points="452,3486 470,3488 488,3483 498,3473 514,3486 539,3483 532,3370 519,3370 516,3375 496,3360 488,3360 480,3368 444,3370" rendition="Line" xml:id="facs_26_tr_2_tl_16"/>
+            <zone points="1325,3481 1354,3481 1367,3470 1400,3486 1472,3486 1485,3473 1498,3483 1523,3476 1554,3486 1564,3476 1598,3486 1644,3470 1644,3445 1623,3440 1570,3440 1541,3452 1523,3434 1492,3445 1472,3429 1446,3445 1382,3434 1356,3411 1325,3414" rendition="Line" xml:id="facs_26_tr_2_tl_17"/>
+            <zone points="560,3483 601,3478 632,3486 730,3486 755,3476 791,3486 794,3437 760,3447 750,3434 732,3445 706,3434 673,3450 627,3406 601,3422 586,3411 563,3411" rendition="Line" xml:id="facs_26_tr_2_tl_18"/>
+            <zone points="36,3483 162,3486 172,3476 182,3486 239,3483 241,3442 206,3440 175,3458 146,3434 118,3450 108,3442 90,3442 59,3458 36,3458" rendition="Line" xml:id="facs_26_tr_2_tl_19"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0500.jpg" n="part4_p026.jpg" xml:id="img_0026" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p026.jpg"/>
+            
+            <ab facs="#facs_26_tr_1">
+               <lb facs="#facs_26_tr_1_tl_1" n="N001"/>-495.
+               <lb facs="#facs_26_tr_1_tl_2" n="N002"/>QN: My question is this: In your last lecture you distinguished three type of truths, or truth¬
+               <lb facs="#facs_26_tr_1_tl_3" n="N003"/>on three different levels, such as truth in the realm of subject-object experience, and truth in
+               <lb facs="#facs_26_tr_1_tl_4" n="N004"/>the realm of good and beautiful, and also existentalist truth. Now you said that these three
+               <lb facs="#facs_26_tr_1_tl_5" n="N005"/>types or levels of truths are interpenetrate, but they shouldn’t interfere in each other's realm
+               <lb facs="#facs_26_tr_1_tl_6" n="N006"/>because then eternal conflict results—
+               <lb facs="#facs_26_tr_1_tl_7" n="N007"/>PT: Yes. Yes.
+               <lb facs="#facs_26_tr_1_tl_8" n="N008"/>existentalist
+               <lb facs="#facs_26_tr_1_tl_9" n="N009"/>QN: But I think that if the third type of truth which is
+               <lb facs="#facs_26_tr_1_tl_10" n="N010"/>truth and claims to be the ultimate
+               <lb facs="#facs_26_tr_1_tl_11" n="N011"/>truth, I think that it should take into consideration the other type of truths and should bring under
+               <lb facs="#facs_26_tr_1_tl_12" n="N012"/>judgment,
+               <lb facs="#facs_26_tr_1_tl_13" n="N013"/>if it is, the UITIMATE truth, as a criterion for the other type of truth. So I think
+               <lb facs="#facs_26_tr_1_tl_14" n="N014"/>that the third type of truth should interfere in the other realms.
+               <lb facs="#facs_26_tr_1_tl_15" n="N015"/>PT: Yes, now, "correlate" and "interfere" are two very different things. If you say "intrefere," you
+            </ab>
+            <ab facs="#facs_26_tr_3">
+               <lb facs="#facs_26_tr_3_tl_1" n="N001"/>mean that the so-called UITIMATE truth—I would say with about the ultimate, which is a little bit
+               <lb facs="#facs_26_tr_3_tl_2" n="N002"/>different in meaning—if the existential truth or the truth about our ultimate concern interferes with
+               <lb facs="#facs_26_tr_3_tl_3" n="N003"/>the first two levels, the experimental and the experiential truth, then you make, in the [name?] of your
+               <lb facs="#facs_26_tr_3_tl_4" n="N004"/>existental relationship to the ultimate meaning of your life, or the ground of being, or to God (however
+               <lb facs="#facs_26_tr_3_tl_5" n="N005"/>you want to express it, in this moment), a judgment about the fact whether there was snow in the night
+               <lb facs="#facs_26_tr_3_tl_6" n="N006"/>or not! Now this cannot be done! — this simply cannot be donel No " photographic" facts can be
+               <lb facs="#facs_26_tr_3_tl_7" n="N007"/>determined in the name of UITIMATE truth. If this were the case, then the level were not only
+               <lb facs="#facs_26_tr_3_tl_8" n="N008"/>mixed, and there [was] (mutual defensive, but then the ultimate wouldn’t really be ultimate,
+            </ab>
+            <ab facs="#facs_26_tr_2">
+               <lb facs="#facs_26_tr_2_tl_1" n="N001"/>because then you could say it is an information about facts—of having snowed or not
+               <lb facs="#facs_26_tr_2_tl_2" n="N002"/>having
+               <lb facs="#facs_26_tr_2_tl_3" n="N003"/>snowed, or about the relationship of H2O, the chemical elements in the ocean, which are a matter
+               <lb facs="#facs_26_tr_2_tl_4" n="N004"/>of experiment and nothing else. And if, in the name of the third level of truth, you make
+               <lb facs="#facs_26_tr_2_tl_5" n="N005"/>a judgment about the first level (let us stick to the first, for the moment), then you do something
+               <lb facs="#facs_26_tr_2_tl_6" n="N006"/>souhaitez lʼhonneur dʼautre sérieusement beaucoup
+               <lb facs="#facs_26_tr_2_tl_7" n="N007"/>sʼil est en a
+               <lb facs="#facs_26_tr_2_tl_8" n="N008"/>by the
+               <lb facs="#facs_26_tr_2_tl_9" n="N009"/>dʼune manière
+               <lb facs="#facs_26_tr_2_tl_10" n="N010"/>dans le
+               <lb facs="#facs_26_tr_2_tl_11" n="N011"/>dʼune manière
+               <lb facs="#facs_26_tr_2_tl_12" n="N012"/>dʼune manière beaucoup de lʼadresse
+               <lb facs="#facs_26_tr_2_tl_13" n="N013"/>Vous avez
+               <lb facs="#facs_26_tr_2_tl_14" n="N014"/>des
+               <lb facs="#facs_26_tr_2_tl_15" n="N015"/>dʼune manière beaucoup
+               <lb facs="#facs_26_tr_2_tl_16" n="N016"/>Votre
+               <lb facs="#facs_26_tr_2_tl_17" n="N017"/>dans cette teinte vieuse,
+               <lb facs="#facs_26_tr_2_tl_18" n="N018"/>dʼune manière de
+               <lb facs="#facs_26_tr_2_tl_19" n="N019"/>dʼun autre vie de ses
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

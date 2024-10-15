@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p009</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p009</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_9">
+         <graphic url="TL-0293.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PWQOPROCCSJMAJWMHXMTUDVM&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="173,278 2286,278 2286,2159 173,2159" rendition="TextRegion" xml:id="facs_9_tr_1">
+            <zone points="1028,337 1041,340 1052,351 1111,351 1132,340 1145,340 1148,284 1116,281 1108,289 1100,289 1084,273 1068,289 1030,286" rendition="Line" xml:id="facs_9_tr_1_tl_1"/>
+            <zone points="383,490 2162,490 2162,444 1999,412 942,455 383,412" rendition="Line" xml:id="facs_9_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="179,642 1095,642 1207,699 2237,642 2256,589 179,594" rendition="Line" xml:id="facs_9_tr_1_tl_3"/>
+            <zone points="174,789 273,851 2144,835 2259,739 174,747" rendition="Line" xml:id="facs_9_tr_1_tl_4"/>
+            <zone points="179,945 2042,945 2146,942 2146,889 179,897" rendition="Line" xml:id="facs_9_tr_1_tl_5"/>
+            <zone points="174,1103 1515,1156 1839,1089 2211,1153 2211,1038 174,1052" rendition="Line" xml:id="facs_9_tr_1_tl_6"/>
+            <zone points="171,1250 2237,1285 2221,1191 171,1199" rendition="Line" xml:id="facs_9_tr_1_tl_7"/>
+            <zone points="171,1402 897,1442 945,1397 2130,1397 2162,1343 171,1368" rendition="Line" xml:id="facs_9_tr_1_tl_8"/>
+            <zone points="169,1558 2213,1550 2213,1496 169,1504" rendition="Line" xml:id="facs_9_tr_1_tl_9"/>
+            <zone points="171,1715 2010,1710 2224,1702 2224,1649 171,1657" rendition="Line" xml:id="facs_9_tr_1_tl_10"/>
+            <zone points="161,1855 2280,1889 2280,1798 2066,1785 161,1806" rendition="Line" xml:id="facs_9_tr_1_tl_11"/>
+            <zone points="171,2042 2189,1999 2189,1946 2071,1932 171,1935" rendition="Line" xml:id="facs_9_tr_1_tl_12"/>
+            <zone points="158,2149 533,2213 1212,2152 1311,2211 2189,2192 2189,2096 2018,2082 158,2101" rendition="Line" xml:id="facs_9_tr_1_tl_13"/>
+         </zone>
+         <zone points="47,2239 2388,2239 2388,3485 47,3485" rendition="TextRegion" xml:id="facs_9_tr_2">
+            <zone points="158,2299 2128,2342 2192,2251 158,2272" rendition="Line" xml:id="facs_9_tr_2_tl_1"/>
+            <zone points="158,2451 225,2502 500,2451 1054,2500 1199,2449 2063,2462 2063,2398 158,2422" rendition="Line" xml:id="facs_9_tr_2_tl_2"/>
+            <zone points="155,2607 2050,2628 2122,2545 155,2556" rendition="Line" xml:id="facs_9_tr_2_tl_3"/>
+            <zone points="158,2762 1282,2757 1298,2700 158,2724" rendition="Line" xml:id="facs_9_tr_2_tl_4"/>
+            <zone points="353,2917 2385,2901 2387,2831 356,2850" rendition="Line" xml:id="facs_9_tr_2_tl_5" subtype="paragraph"/>
+            <zone points="139,3059 2219,3067 2291,3000 139,3035" rendition="Line" xml:id="facs_9_tr_2_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0293.jpg" n="part2_p009.jpg" xml:id="img_0009" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p009.jpg"/>
+            
+            <ab facs="#facs_9_tr_1">
+               <lb facs="#facs_9_tr_1_tl_1" n="N001"/>[289]
+               <lb facs="#facs_9_tr_1_tl_2" n="N002"/>This prevented us from going over another bridge from the theoretical to the practical, the
+               <lb facs="#facs_9_tr_1_tl_3" n="N003"/>bridge which we now want to go [over], namely the aesthetic realm, the realm of man's artistic creation.
+               <lb facs="#facs_9_tr_1_tl_4" n="N004"/>But before saying something about the position of man's artistic creation, I will give you an outline of the
+               <lb facs="#facs_9_tr_1_tl_5" n="N005"/>whole semester in terms of hours. Unfortunately, there will be one hour missing because of another
+               <lb facs="#facs_9_tr_1_tl_6" n="N006"/>mystical holiday! -- but there will remain 22 or 23 hours. Next Tuesday I will speak on the problem of
+               <lb facs="#facs_9_tr_1_tl_7" n="N007"/>the relation between artistic and religious symbols. In the third hour I will speak about the four levels of
+               <lb facs="#facs_9_tr_1_tl_8" n="N008"/>the relationship of art and religion. In the fourth, I will give examples in the visual arts for those four
+               <lb facs="#facs_9_tr_1_tl_9" n="N009"/>levels, from the slides taken from the Fogg Museum. In the fifth hour I will discuss this whole realm of
+               <lb facs="#facs_9_tr_1_tl_10" n="N010"/>problems and begin something which could have been done at the beginning of last semester, but which
+               <lb facs="#facs_9_tr_1_tl_11" n="N011"/>I postponed to the beginning of this one, namely the analysis of our present cultural situation as seen
+               <lb facs="#facs_9_tr_1_tl_12" n="N012"/>in the light of the analysis of the artistic creation in our 20th century. Then I will continue this in the
+               <lb facs="#facs_9_tr_1_tl_13" n="N013"/>6th hour, the analysis of the present situation, but now in the light of the preceding periods of Western
+            </ab>
+            <ab facs="#facs_9_tr_2">
+               <lb facs="#facs_9_tr_2_tl_1" n="N001"/>civilization. Then a continuation of this analysis of our PRESENT-day industrial society and the place
+               <lb facs="#facs_9_tr_2_tl_2" n="N002"/>of religion in it. This will be a third transition, so to speak, from the theoretical to the practical,
+               <lb facs="#facs_9_tr_2_tl_3" n="N003"/>and another way of orienting ourselves about the present situation in which we discuss the problem
+               <lb facs="#facs_9_tr_2_tl_4" n="N004"/>of religion and culture. Then I go to the different realms.
+               <lb facs="#facs_9_tr_2_tl_5" n="N005"/>As the first one, I take religion and education---the meaning of education, FROM what one is educated
+               <lb facs="#facs_9_tr_2_tl_6" n="N006"/>and we always forget the problem "INTO what?" Then the problem of religious education, where we again
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

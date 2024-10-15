@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p088</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p088</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_88">
+         <graphic url="TL-0088.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WWMJCXKVTAHXRGZHSAXBYRHM&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="352,219 352,3436 2269,3436 2269,219" rendition="TextRegion" xml:id="facs_88_tr_2">
+            <zone points="1141,269 1156,269 1163,276 1182,278 1213,278 1223,271 1235,271 1237,230 1225,230 1211,213 1199,206 1177,225 1172,223 1165,230 1144,230" rendition="Line" xml:id="facs_88_tr_2_tl_1"/>
+            <zone points="650,436 2184,444 2184,374 650,374" rendition="Line" xml:id="facs_88_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="348,530 1345,515 1427,571 2167,532 2167,475 1968,458 348,484" rendition="Line" xml:id="facs_88_tr_2_tl_3"/>
+            <zone points="345,607 2093,604 2093,549 345,568" rendition="Line" xml:id="facs_88_tr_2_tl_4"/>
+            <zone points="350,707 2064,693 2038,635 350,638" rendition="Line" xml:id="facs_88_tr_2_tl_5"/>
+            <zone points="355,779 2129,779 2129,717 1424,748 355,719" rendition="Line" xml:id="facs_88_tr_2_tl_6"/>
+            <zone points="355,877 1793,849 2110,885 2155,851 2155,798 355,822" rendition="Line" xml:id="facs_88_tr_2_tl_7"/>
+            <zone points="345,947 2122,940 2074,880 345,901" rendition="Line" xml:id="facs_88_tr_2_tl_8"/>
+            <zone points="345,1036 2237,1036 2237,983 2139,973 345,981" rendition="Line" xml:id="facs_88_tr_2_tl_9"/>
+            <zone points="350,1120 2249,1110 2249,1048 350,1079" rendition="Line" xml:id="facs_88_tr_2_tl_10"/>
+            <zone points="348,1206 2218,1196 2218,1141 2158,1136 348,1160" rendition="Line" xml:id="facs_88_tr_2_tl_11"/>
+            <zone points="350,1295 1587,1275 1784,1316 1853,1266 2208,1283 2170,1225 350,1232" rendition="Line" xml:id="facs_88_tr_2_tl_12"/>
+            <zone points="345,1374 1813,1359 1858,1405 2225,1412 2244,1314 1400,1323 1297,1285 1148,1338 345,1323" rendition="Line" xml:id="facs_88_tr_2_tl_13"/>
+            <zone points="338,1448 434,1479 856,1441 2184,1446 2184,1395 2035,1388 338,1422" rendition="Line" xml:id="facs_88_tr_2_tl_14"/>
+            <zone points="343,1539 2222,1518 2134,1474 343,1491" rendition="Line" xml:id="facs_88_tr_2_tl_15"/>
+            <zone points="345,1616 2160,1614 2129,1558 1014,1592 345,1561" rendition="Line" xml:id="facs_88_tr_2_tl_16"/>
+            <zone points="345,1707 1081,1695 1120,1733 1424,1731 1424,1657 345,1657" rendition="Line" xml:id="facs_88_tr_2_tl_17"/>
+            <zone points="645,1781 2012,1824 2117,1786 2119,1733 762,1757 645,1721" rendition="Line" xml:id="facs_88_tr_2_tl_18" subtype="paragraph"/>
+            <zone points="345,1920 993,1860 2093,1870 2069,1810 345,1824" rendition="Line" xml:id="facs_88_tr_2_tl_19"/>
+            <zone points="338,1952 2153,1968 2153,1906 2076,1892 338,1925" rendition="Line" xml:id="facs_88_tr_2_tl_20"/>
+            <zone points="343,2045 2234,2038 2234,1992 2050,1985 343,2000" rendition="Line" xml:id="facs_88_tr_2_tl_21"/>
+            <zone points="345,2124 1616,2131 1616,2079 1566,2064 345,2081" rendition="Line" xml:id="facs_88_tr_2_tl_22"/>
+            <zone points="640,2206 2160,2206 2160,2153 640,2158" rendition="Line" xml:id="facs_88_tr_2_tl_23" subtype="paragraph"/>
+            <zone points="348,2299 2172,2287 2172,2239 1894,2230 348,2249" rendition="Line" xml:id="facs_88_tr_2_tl_24"/>
+            <zone points="343,2381 2215,2374 2215,2328 2055,2311 343,2335" rendition="Line" xml:id="facs_88_tr_2_tl_25"/>
+            <zone points="348,2469 731,2498 784,2465 2182,2457 2184,2412 2127,2398 350,2424" rendition="Line" xml:id="facs_88_tr_2_tl_26"/>
+            <zone points="338,2544 2266,2541 2266,2481 2043,2510 1978,2467 338,2517" rendition="Line" xml:id="facs_88_tr_2_tl_27"/>
+            <zone points="343,2637 2218,2628 2218,2577 2160,2568 343,2589" rendition="Line" xml:id="facs_88_tr_2_tl_28"/>
+            <zone points="343,2716 2215,2707 2215,2661 2158,2652 343,2664" rendition="Line" xml:id="facs_88_tr_2_tl_29"/>
+            <zone points="343,2803 1527,2795 1527,2752 1412,2740 343,2755" rendition="Line" xml:id="facs_88_tr_2_tl_30"/>
+            <zone points="638,2879 2189,2877 2189,2827 2019,2819 638,2836" rendition="Line" xml:id="facs_88_tr_2_tl_31" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0088.jpg" n="part1_p088.jpg" xml:id="img_0088" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p088.jpg"/>
+            
+            <ab facs="#facs_88_tr_2">
+               <lb facs="#facs_88_tr_2_tl_1" n="N001"/>[85]
+               <lb facs="#facs_88_tr_2_tl_2" n="N002"/><technology>This gives to the machine a relative independence from the human body.
+               <lb break="no" facs="#facs_88_tr_2_tl_3" n="N003"/>And this independence produces what I would call a new technical <hi style="font-style: italic;">Gestalt</hi> (according
+               <lb break="no" facs="#facs_88_tr_2_tl_4" n="N004"/>to the <hi style="font-style: italic;">Gestalt</hi>-psychological terminology)--or, if you don’t want this German word,
+               <lb break="no" facs="#facs_88_tr_2_tl_5" n="N005"/>then) ''independent structure,'' or ''entity,'' as someone has suggested calling it.
+               <lb break="no" facs="#facs_88_tr_2_tl_6" n="N006"/>The machine becomes a partly independent entity. And I have experiences in which
+               <lb break="no" facs="#facs_88_tr_2_tl_7" n="N007"/>people who SERVE a complicated machine, [say] ''Look at 'her'''! --and I say ''her''
+               <lb break="no" facs="#facs_88_tr_2_tl_8" n="N008"/>intentionally, as a kind of personfied [sic.] reality, which has irrational forms of behavior
+               <lb break="no" facs="#facs_88_tr_2_tl_9" n="N009"/>(as those whom we call ''her'' sometimes have!) <hi style="font-style: italic;">[laughter]</hi>: admirable in their greatness,
+               <lb break="no" facs="#facs_88_tr_2_tl_10" n="N010"/>and often uncanny <hi style="font-style: italic;">[smiling]</hi> and to be feared, [lest] sometimes they may break out and
+               <lb break="no" facs="#facs_88_tr_2_tl_11" n="N011"/>destroy everything around them. <hi style="font-style: italic;">[smiling; laughter]</hi> I spoke now about the MACHINE!
+               <lb break="no" facs="#facs_88_tr_2_tl_12" n="N012"/><hi style="font-style: italic;">[laughter]</hi>. The consequence of this independence of the machine, of vital movements,
+               <lb break="no" facs="#facs_88_tr_2_tl_13" n="N013"/>is that the machine embodies infinite possibilities of infinite progress--infinite in the sense
+               <lb break="no" facs="#facs_88_tr_2_tl_14" n="N014"/>of not definable. And this is not the case with the tool we have in our hands: it is
+               <lb break="no" facs="#facs_88_tr_2_tl_15" n="N015"/>limited by our bodily possibilities. But that which is an independent tool--the machine--
+               <lb break="no" facs="#facs_88_tr_2_tl_16" n="N016"/>is the principle of all progress, and has produced this fundamental human feeling in
+               <lb break="no" facs="#facs_88_tr_2_tl_17" n="N017"/>the last few hundred years, about human progress.
+               <lb break="no" facs="#facs_88_tr_2_tl_18" n="N018"/>Now what I gave you up to now is the logical nature of technology,
+               <lb break="no" facs="#facs_88_tr_2_tl_19" n="N019"/>its creative possibilities in the whole of our existence. But now let us look to its
+               <lb break="no" facs="#facs_88_tr_2_tl_20" n="N020"/>relationship to other creative acts of mankind. The first is the relation of technology
+               <lb break="no" facs="#facs_88_tr_2_tl_21" n="N021"/>and science, discussed only from the side of technology--the next lecture will then come
+               <lb break="no" facs="#facs_88_tr_2_tl_22" n="N022"/>to religion and science and go deeper into this relationship.
+               <lb break="no" facs="#facs_88_tr_2_tl_23" n="N023"/>One can say already that the technical creation is the great, ever-active
+               <lb break="no" facs="#facs_88_tr_2_tl_24" n="N024"/>verifying confirmation of scientific assumptions. The absolute certainty which we have
+               <lb break="no" facs="#facs_88_tr_2_tl_25" n="N025"/>about the fundamental scientific assumptions about our world, is based on the fact that
+               <lb break="no" facs="#facs_88_tr_2_tl_26" n="N026"/>they are technical verified, in every moment. The fact that we have light here in this
+               <lb break="no" facs="#facs_88_tr_2_tl_27" n="N027"/>room, artificial light, and that this works, is a verification for innumerable laws discovered
+               <lb break="no" facs="#facs_88_tr_2_tl_28" n="N028"/>by scientists and verified in every moment of our life by technical forms. On the other
+               <lb break="no" facs="#facs_88_tr_2_tl_29" n="N029"/>hand, the technique gives a continuous impulse for research for science. So the relation-
+               <lb break="no" facs="#facs_88_tr_2_tl_30" n="N030"/>ship is double-sided: it confirms and it drives sciences.
+               <lb break="no" facs="#facs_88_tr_2_tl_31" n="N031"/>But all this is done in a limited realm of abstraction. And this leads us</technology>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

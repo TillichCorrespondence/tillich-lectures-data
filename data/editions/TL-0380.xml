@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p096</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p096</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_96">
+         <graphic url="TL-0380.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GRZZZLTSBCRRQONKFBBOVUWM&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="220,224 2277,224 2277,1135 220,1135" rendition="TextRegion" xml:id="facs_96_tr_3">
+            <zone points="1074,284 1092,284 1106,294 1148,292 1167,302 1206,302 1201,209 1167,207 1135,239 1071,239" rendition="Line" xml:id="facs_96_tr_3_tl_1"/>
+            <zone points="212,459 766,451 835,485 872,475 862,371 215,384" rendition="Line" xml:id="facs_96_tr_3_tl_2" subtype="heading"/>
+            <zone points="432,589 1888,599 2206,544 1866,506 432,557" rendition="Line" xml:id="facs_96_tr_3_tl_3" subtype="paragraph"/>
+            <zone points="215,753 2216,734 2248,673 215,695" rendition="Line" xml:id="facs_96_tr_3_tl_4"/>
+            <zone points="204,899 1840,904 2269,886 2272,825 207,851" rendition="Line" xml:id="facs_96_tr_3_tl_5"/>
+            <zone points="215,1060 236,1068 294,1063 315,1068 337,1060 432,1063 432,1026 414,1026 387,1002 257,1005 233,1029 215,1029" rendition="Line" xml:id="facs_96_tr_3_tl_6"/>
+            <zone points="453,1129 1819,1127 2179,1106 2179,1047 453,1055" rendition="Line" xml:id="facs_96_tr_3_tl_7" subtype="paragraph"/>
+         </zone>
+         <zone points="214,1197 2349,1197 2349,2622 214,2622" rendition="TextRegion" xml:id="facs_96_tr_2">
+            <zone points="209,1286 2171,1278 2251,1270 2251,1201 1570,1209 1490,1159 1416,1217 209,1230" rendition="Line" xml:id="facs_96_tr_2_tl_1"/>
+            <zone points="212,1471 2206,1416 2240,1357 212,1389" rendition="Line" xml:id="facs_96_tr_2_tl_2"/>
+            <zone points="435,1583 949,1583 1026,1636 1628,1607 2071,1567 2071,1495 2004,1535 437,1538" rendition="Line" xml:id="facs_96_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="215,1739 2285,1718 2344,1641 215,1707" rendition="Line" xml:id="facs_96_tr_2_tl_4"/>
+            <zone points="215,1906 1564,1925 1638,1874 2269,1874 2269,1808 217,1845" rendition="Line" xml:id="facs_96_tr_2_tl_5"/>
+            <zone points="209,2041 1323,2060 2177,2020 2177,1965 212,2010" rendition="Line" xml:id="facs_96_tr_2_tl_6"/>
+            <zone points="212,2214 1347,2243 2169,2182 2214,2110 212,2116" rendition="Line" xml:id="facs_96_tr_2_tl_7"/>
+            <zone points="212,2344 2179,2330 2182,2269 215,2296" rendition="Line" xml:id="facs_96_tr_2_tl_8"/>
+            <zone points="215,2500 2187,2471 2187,2386 215,2466" rendition="Line" xml:id="facs_96_tr_2_tl_9"/>
+            <zone points="199,2614 525,2675 1053,2601 2161,2593 2187,2524 199,2588" rendition="Line" xml:id="facs_96_tr_2_tl_10"/>
+         </zone>
+         <zone points="61,2672 2331,2672 2331,3476 61,3476" rendition="TextRegion" xml:id="facs_96_tr_1">
+            <zone points="212,2765 1535,2763 2161,2696 212,2739" rendition="Line" xml:id="facs_96_tr_1_tl_1"/>
+            <zone points="212,2914 2081,2895 2105,2834 212,2869" rendition="Line" xml:id="facs_96_tr_1_tl_2"/>
+            <zone points="215,3075 305,3142 652,3070 2063,3057 2105,2983 217,3041" rendition="Line" xml:id="facs_96_tr_1_tl_3"/>
+            <zone points="212,3219 1715,3237 2325,3197 2325,3142 750,3227 212,3189" rendition="Line" xml:id="facs_96_tr_1_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0380.jpg" n="part2_p096.jpg" xml:id="img_0096" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p096.jpg"/>
+            
+            <ab facs="#facs_96_tr_3">
+               <lb facs="#facs_96_tr_3_tl_1" n="N001"/>[375]
+               <lb facs="#facs_96_tr_3_tl_2" n="N002"/>LECTURE XXX, Feb. 28, 1956
+               <lb facs="#facs_96_tr_3_tl_3" n="N003"/>We started to give an analysis of our present situation with respect to religion and culture.
+               <lb facs="#facs_96_tr_3_tl_4" n="N004"/>The reason was that art is excessive in its style for a special situation. What I wanted to communicate
+               <lb facs="#facs_96_tr_3_tl_5" n="N005"/>is the expressive power of the visual arts which we have seen for the understanding of our present world
+               <lb facs="#facs_96_tr_3_tl_6" n="N006"/>situation.
+               <lb facs="#facs_96_tr_3_tl_7" n="N007"/>The first point was the question of man becoming an object. The way in which this has
+            </ab>
+            <ab facs="#facs_96_tr_2">
+               <lb facs="#facs_96_tr_2_tl_1" n="N001"/>happened in industrial society was described by man becoming, by that which he makes himself, namely
+               <lb facs="#facs_96_tr_2_tl_2" n="N002"/>the tool, and in a fuller and more refined sense, the comparatively independent reality of the machine.
+               <lb facs="#facs_96_tr_2_tl_3" n="N003"/>It is very frequent today, in our literature of cultural criticism, to give all guilt, all
+               <lb facs="#facs_96_tr_2_tl_4" n="N004"/>responsibility, to the machine as such, and to attack our age as ''Machine Age.'' To prevent this unambi-
+               <lb facs="#facs_96_tr_2_tl_5" n="N005"/>guous negation of the machine, I gave a kind of praise of automation, which is produced by the building
+               <lb facs="#facs_96_tr_2_tl_6" n="N006"/>of machines, namely taking away all those functions of man as man which can be mechanized.
+               <lb facs="#facs_96_tr_2_tl_7" n="N007"/>Nothing which is creative in man can ever be taken over by a machine, but that which can be brought
+               <lb facs="#facs_96_tr_2_tl_8" n="N008"/>into mathematical equations and can be brought into a mechanically calculated and managed process,
+               <lb facs="#facs_96_tr_2_tl_9" n="N009"/>can be taken over in principle by the machine. This is a point of view for our valuation of what has
+               <lb facs="#facs_96_tr_2_tl_10" n="N010"/>been called the artificial brain--you know these calculating machines which can do in a few seconds
+            </ab>
+            <ab facs="#facs_96_tr_1">
+               <lb facs="#facs_96_tr_1_tl_1" n="N001"/>what hundreds of men could do in a year, if you put the right thing into them. And this of course
+               <lb facs="#facs_96_tr_1_tl_2" n="N002"/>is always the fundamental difference: man can make the artificial brain, but the artificial brain
+               <lb facs="#facs_96_tr_1_tl_3" n="N003"/>cannot make man, because in man are united all levels of reality, but they are united in a center
+               <lb facs="#facs_96_tr_1_tl_4" n="N004"/>which decides and creates. This makes all the difference! I know that many people are very much worried
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

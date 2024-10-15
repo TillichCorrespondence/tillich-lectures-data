@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p256</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p256</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_256">
+         <graphic url="TL-0256.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MUWXXRXVMDGMKZRDSQSDFNQG&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="310,286 310,3476 2337,3476 2337,286" rendition="TextRegion" xml:id="facs_256_tr_2">
+            <zone points="1168,341 1183,341 1201,351 1236,344 1249,351 1281,346 1279,283 1254,283 1236,296 1221,281 1216,283 1211,278 1183,301 1165,301" rendition="Line" xml:id="facs_256_tr_2_tl_1"/>
+            <zone points="321,490 923,548 1099,516 1405,548 1456,498 1921,546 2143,513 2143,445 321,445" rendition="Line" xml:id="facs_256_tr_2_tl_2"/>
+            <zone points="311,642 801,690 897,642 2128,647 2128,596 311,589" rendition="Line" xml:id="facs_256_tr_2_tl_3"/>
+            <zone points="303,786 2141,806 2141,736 2035,733 303,756" rendition="Line" xml:id="facs_256_tr_2_tl_4"/>
+            <zone points="313,955 2133,958 2133,902 313,892" rendition="Line" xml:id="facs_256_tr_2_tl_5"/>
+            <zone points="306,1092 2151,1122 2151,1054 306,1046" rendition="Line" xml:id="facs_256_tr_2_tl_6"/>
+            <zone points="303,1249 2330,1271 2330,1216 2267,1211 303,1188" rendition="Line" xml:id="facs_256_tr_2_tl_7"/>
+            <zone points="296,1400 1825,1420 1825,1365 604,1337 566,1372 437,1335 296,1367" rendition="Line" xml:id="facs_256_tr_2_tl_8"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0256.jpg" n="part1_p256.jpg" xml:id="img_0256" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p256.jpg"/>
+            
+            <ab facs="#facs_256_tr_2">
+               <lb facs="#facs_256_tr_2_tl_1" n="N001"/>[252]
+               <lb facs="#facs_256_tr_2_tl_2" n="N002"/>restricting himself, with becoming intolerant and narrow. And this was the actual situation of
+               <lb facs="#facs_256_tr_2_tl_3" n="N003"/>religion in the modern time: it was not able to resist man's losing himself in the realm of the
+               <lb facs="#facs_256_tr_2_tl_4" n="N004"/>objects which were created by man himself in terms of abstraction. And religion COULD not
+               <lb facs="#facs_256_tr_2_tl_5" n="N005"/>perform this function because man did---with the <rs type="keyword" ref="#Symbols">symbols </rs>of religion---what he had done with
+               <lb facs="#facs_256_tr_2_tl_6" n="N006"/>himself, namely [to] make himself and these symbols into objects of a world of abstract levels
+               <lb facs="#facs_256_tr_2_tl_7" n="N007"/>the GREATNESS of which are that they opened up the world for the process of cognition and control.
+               <lb facs="#facs_256_tr_2_tl_8" n="N008"/>But this was the price man had to pay for his Iliadic going-away from himself.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

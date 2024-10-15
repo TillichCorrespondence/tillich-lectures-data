@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part4_p081</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p081</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_81">
+         <graphic url="TL-0555.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KDXYBBJLOLZSAQPRNYXAHOVA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="125,15 2301,15 2301,1893 125,1893" rendition="TextRegion" xml:id="facs_81_tr_2">
+            <zone points="2133,82 2153,77 2160,84 2225,87 2249,84 2264,74 2274,82 2294,82 2292,0 2130,0" rendition="Line" xml:id="facs_81_tr_2_tl_1"/>
+            <zone points="112,84 159,84 166,77 174,84 191,84 191,0 112,0" rendition="Line" xml:id="facs_81_tr_2_tl_2"/>
+            <zone points="1109,342 1121,342 1136,360 1171,355 1215,357 1223,350 1235,350 1238,293 1218,293 1198,310 1193,300 1178,308 1168,295 1161,300 1151,298 1136,310 1109,308" rendition="Line" xml:id="facs_81_tr_2_tl_3"/>
+            <zone points="308,491 1967,526 1924,449 771,466 684,409 590,464 308,464" rendition="Line" xml:id="facs_81_tr_2_tl_4"/>
+            <zone points="312,645 2225,680 2225,618 312,598" rendition="Line" xml:id="facs_81_tr_2_tl_5"/>
+            <zone points="303,799 2267,821 2267,769 1954,756 303,746" rendition="Line" xml:id="facs_81_tr_2_tl_6"/>
+            <zone points="305,950 2130,965 2056,903 305,903" rendition="Line" xml:id="facs_81_tr_2_tl_7"/>
+            <zone points="293,1091 2081,1114 2081,1064 1833,1049 583,1027 293,1069" rendition="Line" xml:id="facs_81_tr_2_tl_8"/>
+            <zone points="300,1252 2215,1277 2190,1215 300,1200" rendition="Line" xml:id="facs_81_tr_2_tl_9"/>
+            <zone points="290,1401 2118,1419 2034,1337 290,1354" rendition="Line" xml:id="facs_81_tr_2_tl_10"/>
+            <zone points="288,1548 2021,1580 2021,1518 1840,1505 288,1503" rendition="Line" xml:id="facs_81_tr_2_tl_11"/>
+            <zone points="280,1719 1853,1734 1813,1669 280,1689" rendition="Line" xml:id="facs_81_tr_2_tl_12"/>
+            <zone points="280,1867 2163,1902 2113,1833 280,1823" rendition="Line" xml:id="facs_81_tr_2_tl_13"/>
+         </zone>
+         <zone points="23,1965 2280,1965 2280,3470 23,3470" rendition="TextRegion" xml:id="facs_81_tr_1">
+            <zone points="278,2021 2123,2036 2123,1989 1969,1974 278,1996" rendition="Line" xml:id="facs_81_tr_1_tl_1"/>
+            <zone points="275,2172 2138,2190 2073,2128 275,2125" rendition="Line" xml:id="facs_81_tr_1_tl_2"/>
+            <zone points="280,2316 2053,2341 1999,2282 280,2254" rendition="Line" xml:id="facs_81_tr_1_tl_3"/>
+            <zone points="265,2470 702,2515 2128,2492 2128,2440 1791,2423 265,2445" rendition="Line" xml:id="facs_81_tr_1_tl_4"/>
+            <zone points="263,2619 1810,2639 1810,2587 263,2574" rendition="Line" xml:id="facs_81_tr_1_tl_5"/>
+            <zone points="464,2780 1662,2822 2056,2783 2056,2730 464,2728" rendition="Line" xml:id="facs_81_tr_1_tl_6"/>
+            <zone points="263,2941 1054,2941 1054,2882 263,2879" rendition="Line" xml:id="facs_81_tr_1_tl_7"/>
+            <zone points="456,3006 1027,3013 1215,3075 2143,3016 2143,2964 1967,2954 456,2956" rendition="Line" xml:id="facs_81_tr_1_tl_8"/>
+            <zone points="248,3150 2242,3182 2242,3120 248,3127" rendition="Line" xml:id="facs_81_tr_1_tl_9"/>
+            <zone points="250,3288 2215,3286 2215,3231 250,3246" rendition="Line" xml:id="facs_81_tr_1_tl_10"/>
+            <zone points="2150,3467 2195,3472 2215,3465 2234,3470 2247,3460 2264,3465 2277,3355 2210,3355 2185,3375 2163,3373" rendition="Line" xml:id="facs_81_tr_1_tl_11"/>
+            <zone points="1233,3442 1262,3440 1275,3447 1312,3412 1324,3410 1344,3427 1369,3415 1384,3422 1396,3440 1421,3422 1436,3422 1436,3373 1307,3363 1235,3388" rendition="Line" xml:id="facs_81_tr_1_tl_12"/>
+            <zone points="17,3447 35,3445 52,3432 69,3440 84,3427 109,3435 119,3427 134,3425 119,3346 69,3343 62,3348 20,3343 0,3348" rendition="Line" xml:id="facs_81_tr_1_tl_13"/>
+            <zone points="724,3437 776,3447 804,3427 875,3410 895,3427 982,3408 1052,3437 1121,3427 1121,3378 925,3370 751,3385 727,3373" rendition="Line" xml:id="facs_81_tr_1_tl_14"/>
+            <zone points="141,3437 154,3440 164,3435 174,3445 191,3440 201,3450 216,3442 218,3447 233,3447 246,3365 231,3363 226,3368 218,3365 213,3370 203,3370 179,3388 174,3388 161,3373 151,3373" rendition="Line" xml:id="facs_81_tr_1_tl_15"/>
+            <zone points="1114,3470 1141,3470 1143,3467 1200,3470 1203,3383 1188,3383 1180,3378 1171,3383 1163,3380 1146,3388 1128,3370 1116,3370" rendition="Line" xml:id="facs_81_tr_1_tl_16"/>
+            <zone points="632,3442 645,3442 670,3427 689,3440 699,3435 704,3440 712,3437 719,3445 732,3445 737,3385 719,3383 712,3388 712,3385 687,3388 662,3358 637,3358" rendition="Line" xml:id="facs_81_tr_1_tl_17"/>
+            <zone points="456,3440 469,3440 476,3432 501,3447 516,3432 526,3440 533,3432 546,3432 543,3390 518,3385 518,3388 454,3393" rendition="Line" xml:id="facs_81_tr_1_tl_18"/>
+            <zone points="900,3462 913,3462 920,3472 992,3472 1059,3457 1071,3472 1086,3465 1121,3470 1123,3420 1076,3437 1052,3437 1024,3427 1007,3410 965,3415 950,3408 925,3417 903,3410" rendition="Line" xml:id="facs_81_tr_1_tl_19"/>
+            <zone points="12,3465 45,3472 62,3462 69,3470 87,3470 102,3460 107,3470 124,3472 134,3430 117,3425 97,3432 97,3427 92,3427 79,3430 72,3437 62,3435 57,3427 50,3435 17,3435" rendition="Line" xml:id="facs_81_tr_1_tl_20"/>
+            <zone points="451,3467 489,3472 506,3465 511,3470 531,3472 546,3430 531,3427 518,3435 513,3432 503,3437 498,3435 494,3440 491,3435 486,3437 464,3430" rendition="Line" xml:id="facs_81_tr_1_tl_21"/>
+            <zone points="151,3472 188,3472 203,3467 211,3472 213,3467 218,3470 250,3467 236,3410 228,3410 218,3417 211,3412 203,3417 186,3415 171,3427 154,3417 139,3420" rendition="Line" xml:id="facs_81_tr_1_tl_22"/>
+            <zone points="1193,3472 1329,3470 1342,3457 1401,3470 1421,3455 1436,3470 1518,3474 1557,3457 1639,3472 1664,3465 1662,3360 1617,3363 1565,3415 1523,3427 1419,3420 1399,3437 1366,3415 1357,3427 1327,3412 1235,3420 1190,3403" rendition="Line" xml:id="facs_81_tr_1_tl_23"/>
+            <zone points="727,3467 831,3470 856,3460 861,3470 908,3470 913,3430 900,3430 880,3410 866,3420 848,3412 823,3427 796,3435 789,3430 759,3442 744,3425 732,3425" rendition="Line" xml:id="facs_81_tr_1_tl_24"/>
+            <zone points="632,3470 650,3467 652,3470 717,3472 722,3467 737,3467 734,3435 719,3435 719,3440 712,3437 709,3440 702,3435 689,3440 670,3425 662,3430 655,3425 630,3427" rendition="Line" xml:id="facs_81_tr_1_tl_25"/>
+            <zone points="1716,3452 1729,3452 1736,3460 1743,3460 1758,3447 1773,3462 1786,3465 1800,3462 1803,3375 1791,3375 1778,3385 1763,3378 1736,3348 1721,3348" rendition="Line" xml:id="facs_81_tr_1_tl_26"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0555.jpg" n="part4_p081.jpg" xml:id="img_0081" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p081.jpg"/>
+            
+            <ab facs="#facs_81_tr_2">
+               <lb facs="#facs_81_tr_2_tl_1" n="N001"/>Monsieur
+               <lb facs="#facs_81_tr_2_tl_2" n="N002"/>dans un
+               <lb facs="#facs_81_tr_2_tl_3" n="N003"/>-550-
+               <lb facs="#facs_81_tr_2_tl_4" n="N004"/>the authority in principle and the authority in fact. Let's use these two distinctions,
+               <lb facs="#facs_81_tr_2_tl_5" n="N005"/>which can both be used—the word "rational" has connotations which make it very difficult today
+               <lb facs="#facs_81_tr_2_tl_6" n="N006"/>to use it. In Williams College, two days ago, I had a discussion with theiiudents and someone asked
+               <lb facs="#facs_81_tr_2_tl_7" n="N007"/>me about the relation of reason and faith, and I asked back with the words, "Whenever I hear
+               <lb facs="#facs_81_tr_2_tl_8" n="N008"/>somebody ask such a question, I ask back, "What do you mean with "reason"?" And he
+               <lb facs="#facs_81_tr_2_tl_9" n="N009"/>reacted almost immediately, he was not should, because he knew exactly what reason is, namely
+               <lb facs="#facs_81_tr_2_tl_10" n="N010"/>intellectual endeavor: that was his definition of reason. Now of course, if this is reason, then
+               <lb facs="#facs_81_tr_2_tl_11" n="N011"/>it doesn’t cover what Fromm means at all, and it never covers what I mean with reason,
+               <lb facs="#facs_81_tr_2_tl_12" n="N012"/>and it doesn't cover what the history of philosophy meant with reason. Treason
+               <lb facs="#facs_81_tr_2_tl_13" n="N013"/>meant the structure of mind and reality. But this immediate leaction of a younger boy to my
+            </ab>
+            <ab facs="#facs_81_tr_1">
+               <lb facs="#facs_81_tr_1_tl_1" n="N001"/>question which tried to trap him /smiling', was very revealed to me. It revealed the fact that
+               <lb facs="#facs_81_tr_1_tl_2" n="N002"/>it’s almost beyond salvation to try to bring back the original meaning of the word reason: it is
+               <lb facs="#facs_81_tr_1_tl_3" n="N003"/>"intellectual endeavor," and this is what it is, and if you speak of morale or aesthetics
+               <lb facs="#facs_81_tr_1_tl_4" n="N004"/>or politics or the universe and its structure, then you shouldn't use that word any more. I am
+               <lb facs="#facs_81_tr_1_tl_5" n="N005"/>very sorry, but I am afraid I have to resign! -- this boy revealed that to me.
+               <lb facs="#facs_81_tr_1_tl_6" n="N006"/>In any case, this is why l hesitate a little to use Fromm’s distinction, although it
+               <lb facs="#facs_81_tr_1_tl_7" n="N007"/>points very much to the same direction.
+               <lb facs="#facs_81_tr_1_tl_8" n="N008"/>Now let's use my own, namely authority in principle and authority in fact. The first
+               <lb facs="#facs_81_tr_1_tl_9" n="N009"/>thing is authority in fact. None of you would be in this room, in this moment, if I were not for you,
+               <lb facs="#facs_81_tr_1_tl_10" n="N010"/>in a limited realm, an authority in fact. But 1 HOPE nabody is in this room who considers me to be
+               <lb facs="#facs_81_tr_1_tl_11" n="N011"/>de votre beau
+               <lb facs="#facs_81_tr_1_tl_12" n="N012"/>dʼune manière beaucoup
+               <lb facs="#facs_81_tr_1_tl_13" n="N013"/>dʼun autre
+               <lb facs="#facs_81_tr_1_tl_14" n="N014"/>dʼavoir lʼautre beaucoup de nouveau
+               <lb facs="#facs_81_tr_1_tl_15" n="N015"/>de mon ami
+               <lb facs="#facs_81_tr_1_tl_16" n="N016"/>le prêter
+               <lb facs="#facs_81_tr_1_tl_17" n="N017"/>toutes les
+               <lb facs="#facs_81_tr_1_tl_18" n="N018"/>Monsieur,
+               <lb facs="#facs_81_tr_1_tl_19" n="N019"/>dʼune manière beaucoup
+               <lb facs="#facs_81_tr_1_tl_20" n="N020"/>dans mon frere, et
+               <lb facs="#facs_81_tr_1_tl_21" n="N021"/>dʼadresse
+               <lb facs="#facs_81_tr_1_tl_22" n="N022"/>dʼun autre
+               <lb facs="#facs_81_tr_1_tl_23" n="N023"/>dʼune manière est devenu avec
+               <lb facs="#facs_81_tr_1_tl_24" n="N024"/>dʼune manière
+               <lb facs="#facs_81_tr_1_tl_25" n="N025"/>de votre beau;
+               <lb facs="#facs_81_tr_1_tl_26" n="N026"/>de notre
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

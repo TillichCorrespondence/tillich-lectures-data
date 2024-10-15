@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p034</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p034</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_34">
+         <graphic url="TL-0318.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=BHEBTGBNIARFNBRPUZIKMAOP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="50,15 2349,15 2349,1571 50,1571" rendition="TextRegion" xml:id="facs_34_tr_2">
+            <zone points="1182,347 1195,347 1215,364 1234,364 1242,357 1289,357 1294,352 1306,352 1306,297 1272,297 1257,285 1244,288 1237,283 1217,302 1182,302" rendition="Line" xml:id="facs_34_tr_2_tl_3"/>
+            <zone points="483,503 2137,508 2137,446 2055,436 483,431" rendition="Line" xml:id="facs_34_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="307,649 2164,669 2164,602 307,600" rendition="Line" xml:id="facs_34_tr_2_tl_5"/>
+            <zone points="305,803 2181,813 2181,758 305,758" rendition="Line" xml:id="facs_34_tr_2_tl_6"/>
+            <zone points="302,962 2179,964 2179,910 302,912" rendition="Line" xml:id="facs_34_tr_2_tl_7"/>
+            <zone points="297,1110 2085,1120 2085,1058 297,1081" rendition="Line" xml:id="facs_34_tr_2_tl_8"/>
+            <zone points="297,1262 2174,1267 2174,1210 297,1212" rendition="Line" xml:id="facs_34_tr_2_tl_9"/>
+            <zone points="297,1415 1343,1420 1309,1361 297,1383" rendition="Line" xml:id="facs_34_tr_2_tl_10"/>
+            <zone points="478,1567 2174,1562 2057,1505 478,1502" rendition="Line" xml:id="facs_34_tr_2_tl_11" subtype="paragraph"/>
+         </zone>
+         <zone points="298,1654 2289,1654 2289,2476 298,2476" rendition="TextRegion" xml:id="facs_34_tr_3">
+            <zone points="297,1730 2052,1728 2283,1718 2283,1661 297,1668" rendition="Line" xml:id="facs_34_tr_3_tl_1"/>
+            <zone points="292,1862 2067,1879 2285,1871 2285,1812 292,1834" rendition="Line" xml:id="facs_34_tr_3_tl_2"/>
+            <zone points="285,2008 2100,2028 2129,1963 285,1983" rendition="Line" xml:id="facs_34_tr_3_tl_3"/>
+            <zone points="302,2169 2057,2181 2090,2112 302,2117" rendition="Line" xml:id="facs_34_tr_3_tl_4"/>
+            <zone points="288,2318 2233,2320 2233,2261 288,2263" rendition="Line" xml:id="facs_34_tr_3_tl_5"/>
+            <zone points="285,2464 1601,2486 1881,2471 1881,2417 285,2439" rendition="Line" xml:id="facs_34_tr_3_tl_6"/>
+         </zone>
+         <zone points="23,2559 2209,2559 2209,3485 23,3485" rendition="TextRegion" xml:id="facs_34_tr_1">
+            <zone points="459,2618 2174,2623 2204,2561 459,2566" rendition="Line" xml:id="facs_34_tr_1_tl_1" subtype="paragraph"/>
+            <zone points="285,2769 1718,2786 2092,2774 2092,2712 285,2719" rendition="Line" xml:id="facs_34_tr_1_tl_2"/>
+            <zone points="273,2917 2124,2925 2127,2865 273,2893" rendition="Line" xml:id="facs_34_tr_1_tl_3"/>
+            <zone points="273,3071 1998,3079 2075,3076 2075,3022 273,3049" rendition="Line" xml:id="facs_34_tr_1_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0318.jpg" n="part2_p034.jpg" xml:id="img_0034" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p034.jpg"/>
+            
+            <ab facs="#facs_34_tr_2">
+               <lb facs="#facs_34_tr_2_tl_3" n="N001"/>[314]
+               <lb facs="#facs_34_tr_2_tl_4" n="N002"/>Now in poetry the situation is such that the DECISIVE things are the connotations.
+               <lb facs="#facs_34_tr_2_tl_5" n="N003"/>The meaning of the words of course is, so to speak, eternal. . . but if a word is used in a poem,
+               <lb facs="#facs_34_tr_2_tl_6" n="N004"/>all the traditional and emotional connotations which we have in ourselves come into the words,
+               <lb facs="#facs_34_tr_2_tl_7" n="N005"/>and there they produce the meaning which otherwise cannot be expressed at all. But of course
+               <lb facs="#facs_34_tr_2_tl_8" n="N006"/>a poem is not a matter of individual words and their connotations. They are connotations
+               <lb facs="#facs_34_tr_2_tl_9" n="N007"/>mediated also through the SOUND of the words. There is a musical element in all poetry, and
+               <lb facs="#facs_34_tr_2_tl_10" n="N008"/>therefore poetry originally was sung and not spoken.
+               <lb facs="#facs_34_tr_2_tl_11" n="N009"/>There are rhythms, and rhythm is a fundamental revelation of reality. Reality, in our
+            </ab>
+            <ab facs="#facs_34_tr_3">
+               <lb facs="#facs_34_tr_3_tl_1" n="N001"/>perceiving of it and in its structure, always has a rhythmical character. Without rhythm, we cannot
+               <lb facs="#facs_34_tr_3_tl_2" n="N002"/>understand anything. It is an interesting observation that if we go in a railway train and go from one
+               <lb facs="#facs_34_tr_3_tl_3" n="N003"/>track to the other, all the time, it is always the same, but our ear cannot perceive it as always
+               <lb facs="#facs_34_tr_3_tl_4" n="N004"/>the same---it makes hexameters or pentameters, but that is not true. The reality is always
+               <lb facs="#facs_34_tr_3_tl_5" n="N005"/>buh! buh! buh! buh! -- but the rhythm which only our ear is able to perceive, makes a rhythm out
+               <lb facs="#facs_34_tr_3_tl_6" n="N006"/>of it. So in rhythm there is a revelatory character about the reality of the world.
+            </ab>
+            <ab facs="#facs_34_tr_1">
+               <lb facs="#facs_34_tr_1_tl_1" n="N001"/>Now if all this is combined in a poem which is a work of art, then we have an encounter
+               <lb facs="#facs_34_tr_1_tl_2" n="N002"/>with reality in which something is revealed in these three forms (which I discussed last time:
+               <lb facs="#facs_34_tr_1_tl_3" n="N003"/>the cognitive element, the anticipatory element, and the expressive element) which otherwise
+               <lb facs="#facs_34_tr_1_tl_4" n="N004"/>cannot be produced at all. In this way the words and sentences, and the connotations and
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

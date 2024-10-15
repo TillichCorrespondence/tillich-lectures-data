@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p136</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p136</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_136">
+         <graphic url="TL-0136.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FXWDLOXJYJKQJIGNNFGQIKQT&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="38,156 38,3473 2412,3473 2412,156" rendition="TextRegion" xml:id="facs_136_tr_1">
+            <zone points="1115,232 1207,240 1222,229 1235,229 1238,177 1199,177 1178,162 1155,185 1118,185" rendition="Line" xml:id="facs_136_tr_1_tl_1"/>
+            <zone points="347,435 2249,477 2249,422 344,383" rendition="Line" xml:id="facs_136_tr_1_tl_2"/>
+            <zone points="349,589 1616,607 1660,644 2343,623 2249,555 349,545" rendition="Line" xml:id="facs_136_tr_1_tl_3"/>
+            <zone points="344,774 2108,805 2262,798 2314,732 341,683" rendition="Line" xml:id="facs_136_tr_1_tl_4"/>
+            <zone points="339,904 396,949 732,904 779,949 1569,964 1694,930 1983,977 2304,946 2304,860 339,857" rendition="Line" xml:id="facs_136_tr_1_tl_5"/>
+            <zone points="339,1050 453,1087 633,1045 2239,1076 2236,1011 336,1016" rendition="Line" xml:id="facs_136_tr_1_tl_6"/>
+            <zone points="331,1188 1290,1238 1350,1204 2075,1209 2150,1254 2335,1248 2291,1157 331,1160" rendition="Line" xml:id="facs_136_tr_1_tl_7"/>
+            <zone points="328,1345 396,1394 1066,1392 1173,1347 2239,1384 2267,1314 326,1290" rendition="Line" xml:id="facs_136_tr_1_tl_8"/>
+            <zone points="339,1488 1809,1509 1882,1561 2257,1564 2257,1467 2171,1462 339,1462" rendition="Line" xml:id="facs_136_tr_1_tl_9"/>
+            <zone points="334,1665 427,1699 2330,1686 2327,1637 2236,1608 334,1587" rendition="Line" xml:id="facs_136_tr_1_tl_10"/>
+            <zone points="321,1793 2307,1822 2307,1759 321,1767" rendition="Line" xml:id="facs_136_tr_1_tl_11"/>
+            <zone points="321,1944 2280,1981 2280,1910 321,1890" rendition="Line" xml:id="facs_136_tr_1_tl_12"/>
+            <zone points="313,2093 383,2148 1084,2116 1144,2163 1566,2179 2327,2161 2408,2132 2408,2062 310,2067" rendition="Line" xml:id="facs_136_tr_1_tl_13"/>
+            <zone points="318,2288 2236,2265 2236,2210 2163,2202 318,2194" rendition="Line" xml:id="facs_136_tr_1_tl_14"/>
+            <zone points="318,2419 349,2437 435,2421 800,2437 844,2406 844,2348 396,2346 378,2327 360,2346 318,2346" rendition="Line" xml:id="facs_136_tr_1_tl_15"/>
+            <zone points="412,2523 607,2473 928,2531 1209,2476 2369,2518 2366,2424 409,2426" rendition="Line" xml:id="facs_136_tr_1_tl_16" subtype="paragraph"/>
+            <zone points="310,2614 2330,2653 2330,2588 2239,2580 310,2588" rendition="Line" xml:id="facs_136_tr_1_tl_17"/>
+            <zone points="302,2765 448,2807 2372,2786 2372,2729 302,2739" rendition="Line" xml:id="facs_136_tr_1_tl_18"/>
+            <zone points="302,2914 2288,2940 2288,2883 302,2864" rendition="Line" xml:id="facs_136_tr_1_tl_19"/>
+            <zone points="295,3065 2372,3091 2372,3034 2228,3028 295,3039" rendition="Line" xml:id="facs_136_tr_1_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0136.jpg" n="part1_p136.jpg" xml:id="img_0136" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p136.jpg"/>
+            
+            <ab facs="#facs_136_tr_1">
+               <lb facs="#facs_136_tr_1_tl_1" n="N001"/>[133]
+               <lb facs="#facs_136_tr_1_tl_2" n="N002"/>which does exist is the doctrine of man, because <rs type="keyword" ref="#Gestalt">the psychological movements are not something
+               <lb break="no" facs="#facs_136_tr_1_tl_3" n="N003"/>which can be separated from the totality of man. He is definitively a <hi style="font-style: italic;">Gestalt</hi> philosopher, and believes
+               <lb break="no" facs="#facs_136_tr_1_tl_4" n="N004"/>that man is a living <hi style="font-style: italic;">Gestalt</hi>, a unity, a living structure, of a monistic character, and not a composition
+               <lb break="no" facs="#facs_136_tr_1_tl_5" n="N005"/>of body and soul.</rs> But here again philosophical, metaphysical, and even religious elements come into
+               <lb facs="#facs_136_tr_1_tl_6" n="N006"/>the picture. I agree with him very definitely and believe that is the most adequate way of dealing
+               <lb facs="#facs_136_tr_1_tl_7" n="N007"/>with man as a totality, but even this is not decisive. And even here we must be cautious (I speak very
+               <lb facs="#facs_136_tr_1_tl_8" n="N008"/>much against myself in this lecture today!--<hi style="font-style: italic;">sotto voce</hi>) because l am glad if I can find something
+               <lb facs="#facs_136_tr_1_tl_9" n="N009"/>which SEEMS to help theology and which is useful as apologetic weapons. But l know that these
+               <lb facs="#facs_136_tr_1_tl_10" n="N010"/>weapons, after a certain time, turn always against the theologian who uses them. For this very reason,
+               <lb facs="#facs_136_tr_1_tl_11" n="N011"/>and after a long life of this experience, l ask you not to use them at all, insofar as you are [a] theologian.
+               <lb facs="#facs_136_tr_1_tl_12" n="N012"/>But don't give them to the others either! <hi style="font-style: italic;">(laughter)</hi>. They will turn against them ALSO. We don't
+               <lb facs="#facs_136_tr_1_tl_13" n="N013"/>need these apologetic weapons at all. What we need is something quite different, namely an understanding
+               <lb facs="#facs_136_tr_1_tl_14" n="N014"/>of the dimension in which religion moves. And if we have THIS, then we can have, let us say, four
+               <lb facs="#facs_136_tr_1_tl_15" n="N015"/>different theories of man:
+               <lb facs="#facs_136_tr_1_tl_16" n="N016"/>One: the so-called materialistic theory. It is very interesting that a Church father such as Tertullian
+               <lb facs="#facs_136_tr_1_tl_17" n="N017"/>was a Stoic materialist and never had any doubts that this is completely compatible with a very radical
+               <lb facs="#facs_136_tr_1_tl_18" n="N018"/>and even in his later years fanatical, affirmation of Christianity. He was not worried about a materialistic
+               <lb facs="#facs_136_tr_1_tl_19" n="N019"/>interpretation of man, about the understanding of the soul as a refined substance, if only this soul is
+               <lb facs="#facs_136_tr_1_tl_20" n="N020"/>able to have what we experience in ourselves as having, namely the possibility of deciding, of deliberation,
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

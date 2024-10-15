@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p089</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p089</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_89">
+         <graphic url="TL-0089.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=EZFITHQPRBLXOFEDQCHBEEEO&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="280,256 280,3107 2251,3107 2251,256" rendition="TextRegion" xml:id="facs_89_tr_1">
+            <zone points="1124,308 1141,308 1153,318 1168,313 1189,318 1202,308 1214,310 1216,261 1194,261 1177,247 1158,266 1126,269" rendition="Line" xml:id="facs_89_tr_1_tl_1"/>
+            <zone points="315,469 1876,474 1920,518 2162,513 2162,427 2054,420 315,427" rendition="Line" xml:id="facs_89_tr_1_tl_2"/>
+            <zone points="318,562 415,603 728,559 765,596 1695,608 2176,564 2176,520 2071,513 318,513" rendition="Line" xml:id="facs_89_tr_1_tl_3"/>
+            <zone points="308,677 755,679 904,637 1197,642 1280,684 1387,637 2166,650 2166,591 1492,620 308,584" rendition="Line" xml:id="facs_89_tr_1_tl_4"/>
+            <zone points="308,730 418,733 432,721 449,733 508,733 508,686 449,684 437,699 427,699 413,684 379,684 369,677 349,684 332,674 318,689 308,689" rendition="Line" xml:id="facs_89_tr_1_tl_5"/>
+            <zone points="606,811 811,794 896,852 1375,870 1661,850 1798,789 2137,821 2137,757 606,750" rendition="Line" xml:id="facs_89_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="305,896 1219,892 1522,938 2013,894 1983,838 305,848" rendition="Line" xml:id="facs_89_tr_1_tl_7"/>
+            <zone points="308,979 747,975 979,1028 1023,994 1187,1028 1275,972 1566,1016 1707,972 2127,992 2127,938 2020,923 308,935" rendition="Line" xml:id="facs_89_tr_1_tl_8"/>
+            <zone points="303,1053 1360,1058 1512,1102 1715,1058 2213,1077 2145,1009 303,1011" rendition="Line" xml:id="facs_89_tr_1_tl_9"/>
+            <zone points="300,1143 2098,1158 2098,1111 1993,1097 300,1099" rendition="Line" xml:id="facs_89_tr_1_tl_10"/>
+            <zone points="296,1226 2157,1246 2157,1194 1981,1172 1937,1207 1829,1175 1798,1207 1749,1175 1717,1207 1641,1175 1480,1207 296,1185" rendition="Line" xml:id="facs_89_tr_1_tl_11"/>
+            <zone points="296,1312 2152,1334 2152,1280 2098,1265 296,1260" rendition="Line" xml:id="facs_89_tr_1_tl_12"/>
+            <zone points="296,1392 2115,1404 2115,1360 1888,1341 1807,1373 296,1353" rendition="Line" xml:id="facs_89_tr_1_tl_13"/>
+            <zone points="293,1480 1903,1492 1903,1441 1683,1426 293,1451" rendition="Line" xml:id="facs_89_tr_1_tl_14"/>
+            <zone points="598,1656 2061,1663 2061,1600 598,1597" rendition="Line" xml:id="facs_89_tr_1_tl_15" subtype="paragraph"/>
+            <zone points="293,1739 2086,1756 2086,1702 2025,1690 293,1688" rendition="Line" xml:id="facs_89_tr_1_tl_16"/>
+            <zone points="291,1812 1146,1829 1146,1783 1104,1768 945,1793 889,1763 667,1763 630,1793 340,1761 291,1790" rendition="Line" xml:id="facs_89_tr_1_tl_17"/>
+            <zone points="596,1903 2208,1920 2208,1851 596,1844" rendition="Line" xml:id="facs_89_tr_1_tl_18" subtype="paragraph"/>
+            <zone points="293,2000 2159,1996 2159,1947 1788,1932 1629,1964 1553,1932 293,1947" rendition="Line" xml:id="facs_89_tr_1_tl_19"/>
+            <zone points="286,2066 716,2069 786,2115 1087,2064 1263,2071 1312,2115 2140,2098 2115,2025 286,2025" rendition="Line" xml:id="facs_89_tr_1_tl_20"/>
+            <zone points="286,2145 2245,2164 2245,2120 2105,2113 286,2108" rendition="Line" xml:id="facs_89_tr_1_tl_21"/>
+            <zone points="286,2257 2142,2252 2142,2196 286,2193" rendition="Line" xml:id="facs_89_tr_1_tl_22"/>
+            <zone points="278,2315 2169,2335 2115,2269 1981,2301 278,2276" rendition="Line" xml:id="facs_89_tr_1_tl_23"/>
+            <zone points="278,2403 2108,2421 2108,2362 278,2364" rendition="Line" xml:id="facs_89_tr_1_tl_24"/>
+            <zone points="278,2496 371,2548 686,2496 2091,2501 2054,2447 276,2455" rendition="Line" xml:id="facs_89_tr_1_tl_25"/>
+            <zone points="572,2665 2037,2684 2037,2621 572,2616" rendition="Line" xml:id="facs_89_tr_1_tl_26" subtype="paragraph"/>
+            <zone points="276,2753 2086,2755 2042,2697 2003,2728 1829,2694 276,2699" rendition="Line" xml:id="facs_89_tr_1_tl_27"/>
+            <zone points="276,2838 2081,2853 2108,2794 274,2792" rendition="Line" xml:id="facs_89_tr_1_tl_28"/>
+            <zone points="266,2914 2113,2933 2113,2877 2054,2863 1915,2897 957,2860 266,2887" rendition="Line" xml:id="facs_89_tr_1_tl_29"/>
+            <zone points="274,3004 1986,3019 1986,2968 1908,2955 274,2958" rendition="Line" xml:id="facs_89_tr_1_tl_30"/>
+            <zone points="266,3085 2022,3095 2022,3048 1842,3034 266,3046" rendition="Line" xml:id="facs_89_tr_1_tl_31"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0089.jpg" n="part1_p089.jpg" xml:id="img_0089" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p089.jpg"/>
+            
+            <ab facs="#facs_89_tr_1">
+               <lb facs="#facs_89_tr_1_tl_1" n="N001"/>[86]
+               <lb facs="#facs_89_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Science">immediately--but I don't follow this immediacy now in this moment--to the limits of
+               <lb break="no" facs="#facs_89_tr_1_tl_3" n="N003"/>scientific analysis. Scientific analysis is analysis by that kind of abstraction which can
+               <lb break="no" facs="#facs_89_tr_1_tl_4" n="N004"/>be verified technically. But it never goes beyond this. And about this we must think
+               <lb break="no" facs="#facs_89_tr_1_tl_5" n="N005"/>later on.
+               <lb break="no" facs="#facs_89_tr_1_tl_6" n="N006"/>Second: The relationship of technology and the arts. The first point
+               <lb break="no" facs="#facs_89_tr_1_tl_7" n="N007"/>I want to make here is the intrinsic duty of the perfect machine. ''Intrinsic''--
+               <lb break="no" facs="#facs_89_tr_1_tl_8" n="N008"/>Aristotle called this εντελεχεια, ''entelechy,'' the inner aim. <rs type="keyword" ref="#Beauty">And Kant has used this</rs>
+               <lb break="no" facs="#facs_89_tr_1_tl_9" n="N009"/><technology>idea of the inner aim--I would prefer the Greek word τελος, the inner <hi style="font-style: italic;">telos</hi> of a thing--</technology>
+               <lb break="no" facs="#facs_89_tr_1_tl_10" n="N010"/><technology>in order to compare organic structures, aesthetic structures, and machine structures.</technology>
+               <lb break="no" facs="#facs_89_tr_1_tl_11" n="N011"/><technology>In all of them there is an inner form which is at the same time the form of beauty.</technology>
+               <lb break="no" facs="#facs_89_tr_1_tl_12" n="N012"/><technology>Beauty, in this sense, is the adequacy of the special part to the inner life of a thing.</technology>
+               <lb break="no" facs="#facs_89_tr_1_tl_13" n="N013"/><technology>In this sense we can say: the perfect machine doesn't only serve its end--that, she</technology>
+               <lb break="no" facs="#facs_89_tr_1_tl_14" n="N014"/><technology>also does--but it also shows the beauty of the inner purposefulness it has.</technology>
+               <lb break="no" facs="#facs_89_tr_1_tl_15" n="N015"/><technology>Therefore a machine shouldn’t be trimmed with assumedly beautiful</technology>
+               <lb break="no" facs="#facs_89_tr_1_tl_16" n="N016"/><technology>additions--this makes it ugly, because it prevents us from seeing the inner meaning</technology>
+               <lb break="no" facs="#facs_89_tr_1_tl_17" n="N017"/><technology>of its structure. This is the one side.</technology>
+               <lb break="no" facs="#facs_89_tr_1_tl_18" n="N018"/>The other side is the unity of art and tool. Now this is a very interesting
+               <lb break="no" facs="#facs_89_tr_1_tl_19" n="N019"/>philosophical problem and has, for instance, religious speaking, immediate consequences
+               <lb break="no" facs="#facs_89_tr_1_tl_20" n="N020"/>for the problem of church buildings. In the primitive magic relationship to the tool,
+               <lb break="no" facs="#facs_89_tr_1_tl_21" n="N021"/>we have a kind of identity between the religious and the technical. The tool can become
+               <lb break="no" facs="#facs_89_tr_1_tl_22" n="N022"/>a fetish. It can be laden with magic power, and therefore formed in such a way that
+               <lb break="no" facs="#facs_89_tr_1_tl_23" n="N023"/>the magic power is expressed in the form it gets. This is possible because the primitive
+               <lb break="no" facs="#facs_89_tr_1_tl_24" n="N024"/>tool is in a vital relationship to man. But this identity of the religious, the artistic
+               <lb break="no" facs="#facs_89_tr_1_tl_25" n="N025"/>and the technical, disappeared because of the machine-production of tools and ends.
+               <lb break="no" facs="#facs_89_tr_1_tl_26" n="N026"/>But there are two realms to which I want to draw your attention,
+               <lb break="no" facs="#facs_89_tr_1_tl_27" n="N027"/>from a religious point of view, in which there is still a fight going on between the
+               <lb break="no" facs="#facs_89_tr_1_tl_28" n="N028"/>possibility of their becoming in the image of a machine, or in the image of a magic
+               <lb break="no" facs="#facs_89_tr_1_tl_29" n="N029"/>tool. These two are ''clothing'' and ''home.'' Both are in a great analogy. Clothing
+               <lb break="no" facs="#facs_89_tr_1_tl_30" n="N030"/>and home adapt the human body to the realities of the external world--clothes,
+               <lb break="no" facs="#facs_89_tr_1_tl_31" n="N031"/>more directly and intimately; the house, farther away, but also so that it creates</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

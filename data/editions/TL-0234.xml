@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p234</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p234</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_234">
+         <graphic url="TL-0234.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AOTVSWIKXUYVIAMZDXRGKPFU&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="244,233 244,3497 2343,3497 2343,233" rendition="TextRegion" xml:id="facs_234_tr_2">
+            <zone points="1102,301 1117,301 1125,308 1201,308 1208,301 1221,301 1221,233 1183,235 1175,230 1168,238 1153,238 1140,250 1102,250" rendition="Line" xml:id="facs_234_tr_2_tl_1"/>
+            <zone points="329,447 912,447 1006,488 1506,452 1552,498 1726,516 2199,463 2199,420 1941,417 1906,382 1870,415 1693,379 1087,415 329,377" rendition="Line" xml:id="facs_234_tr_2_tl_2"/>
+            <zone points="324,591 2103,617 2217,612 2214,561 321,551" rendition="Line" xml:id="facs_234_tr_2_tl_4"/>
+            <zone points="324,763 852,758 852,703 324,705" rendition="Line" xml:id="facs_234_tr_2_tl_5"/>
+            <zone points="498,824 935,826 1067,885 2252,837 2196,771 1029,799 498,763" rendition="Line" xml:id="facs_234_tr_2_tl_6" subtype="paragraph"/>
+            <zone points="316,1003 574,1039 1198,993 2267,1029 2267,938 316,928" rendition="Line" xml:id="facs_234_tr_2_tl_7"/>
+            <zone points="313,1158 614,1188 1276,1130 2217,1142 2217,1079 311,1094" rendition="Line" xml:id="facs_234_tr_2_tl_8"/>
+            <zone points="313,1324 2209,1286 2209,1233 2019,1226 313,1241" rendition="Line" xml:id="facs_234_tr_2_tl_9"/>
+            <zone points="316,1418 2292,1438 2292,1385 316,1390" rendition="Line" xml:id="facs_234_tr_2_tl_10"/>
+            <zone points="308,1567 2340,1587 2340,1537 2265,1527 2121,1557 308,1524" rendition="Line" xml:id="facs_234_tr_2_tl_11"/>
+            <zone points="308,1721 2229,1741 2229,1683 308,1676" rendition="Line" xml:id="facs_234_tr_2_tl_12"/>
+            <zone points="303,1875 2126,1891 2126,1840 2065,1837 303,1830" rendition="Line" xml:id="facs_234_tr_2_tl_13"/>
+            <zone points="303,2027 2201,2052 2199,1994 2110,1989 303,1982" rendition="Line" xml:id="facs_234_tr_2_tl_14"/>
+            <zone points="296,2181 2121,2196 2121,2143 1893,2131 296,2151" rendition="Line" xml:id="facs_234_tr_2_tl_15"/>
+            <zone points="306,2340 2186,2343 2186,2292 1911,2275 306,2292" rendition="Line" xml:id="facs_234_tr_2_tl_16"/>
+            <zone points="298,2474 2249,2495 2249,2444 2095,2424 523,2416 298,2452" rendition="Line" xml:id="facs_234_tr_2_tl_17"/>
+            <zone points="296,2629 1289,2636 1352,2677 1398,2641 2196,2646 2196,2593 1868,2578 296,2586" rendition="Line" xml:id="facs_234_tr_2_tl_18"/>
+            <zone points="308,2783 2270,2806 2270,2745 2027,2730 308,2747" rendition="Line" xml:id="facs_234_tr_2_tl_19"/>
+            <zone points="298,2934 2019,2957 2067,2950 2067,2894 296,2886" rendition="Line" xml:id="facs_234_tr_2_tl_20"/>
+            <zone points="293,3094 2085,3109 2057,3038 293,3041" rendition="Line" xml:id="facs_234_tr_2_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0234.jpg" n="part1_p234.jpg" xml:id="img_0234" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p234.jpg"/>
+            
+            <ab facs="#facs_234_tr_2">
+               <lb facs="#facs_234_tr_2_tl_1" n="N001"/>[230]
+               <lb facs="#facs_234_tr_2_tl_2" n="N002"/><rs type="keyword" ref="#Communism">Communism</rs>---or let us better say Marxism, as a philosophy---is a CHRISTIAN philosophy, but a
+               <lb facs="#facs_234_tr_2_tl_4" n="N003"/>CHRISTIAN---which could never have occurred and been produced on any other soil but the soil
+               <lb facs="#facs_234_tr_2_tl_5" n="N004"/>prepared by the Prophets.
+               <lb facs="#facs_234_tr_2_tl_6" n="N005"/>So to sum up I would say: if <rs type="keyword" ref="#Christian_philosophy">Christian philosophy</rs> is understood in the simply descriptive
+               <lb facs="#facs_234_tr_2_tl_7" n="N006"/>fact that since the victory of Christianity in the Western culture, all philosophy is Christian in the
+               <lb facs="#facs_234_tr_2_tl_8" n="N007"/>sense that it cannot escape Christian substance, even if it is anti-Christian---then this is alright and
+               <lb facs="#facs_234_tr_2_tl_9" n="N008"/>simply a fact and doesn't stand under any value-judgment. It is important to realize this because
+               <lb facs="#facs_234_tr_2_tl_10" n="N009"/>we have exactly the same thing in Greece: Greek philosophy is determined by two gods, <rs type="person">Apollo</rs> and
+               <lb facs="#facs_234_tr_2_tl_11" n="N010"/><rs type="person">Dionysius.</rs> The inner tension between them is always the driving force in Greek philosophy. Therefore
+               <lb facs="#facs_234_tr_2_tl_12" n="N011"/>the attempt of the <rs type="keyword" ref="#Renaissance">Renaissance</rs> to restate Greek philosophy was equally impossible: it was turned
+               <lb facs="#facs_234_tr_2_tl_13" n="N012"/>around in a sense which was dependent on the Christian tradition in the Western world. In a
+               <lb facs="#facs_234_tr_2_tl_14" n="N013"/>lecture [course] on the Renaissance I very often gave in former years, I showed, point by point,
+               <lb facs="#facs_234_tr_2_tl_15" n="N014"/>philosophy by philosophy, how the GREEK attitude was turned around by the Renaissance
+               <lb facs="#facs_234_tr_2_tl_16" n="N015"/>philosophers who called themselves Platonists or Aristotelians or Neo-Stoics in a way which was
+               <lb facs="#facs_234_tr_2_tl_17" n="N016"/>determined by the fundamental Christian idea of creation---which made the fundamental difference
+               <lb facs="#facs_234_tr_2_tl_18" n="N017"/>between the feeling toward the world on Greek soil, on the soil formed by <rs type="person">Apollo</rs> and <rs type="person">Dionysius</rs>
+               <lb facs="#facs_234_tr_2_tl_19" n="N018"/>--and on the Christian soil. The presupposition for this is that I take <rs type="person">Apollo </rs>and <rs type="person">Dionysius </rs>seriously,
+               <lb facs="#facs_234_tr_2_tl_20" n="N019"/>that I believe they are gods, and they are STILL gods--they are, as the Bible describes it, in
+               <lb facs="#facs_234_tr_2_tl_21" n="N020"/>mythological symbolism, SUBJECT TO CHRIST. But they are not NON-being; they ARE;
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

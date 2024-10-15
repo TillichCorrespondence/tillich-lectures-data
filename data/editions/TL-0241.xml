@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p241</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p241</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_241">
+         <graphic url="TL-0241.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZOQOODYABTELATXKKZLTUILN&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="238,287 238,3451 2277,3451 2277,287" rendition="TextRegion" xml:id="facs_241_tr_1">
+            <zone points="966,332 978,332 983,342 990,342 1000,352 1035,352 1070,342 1087,344 1092,285 1077,282 1057,287 1052,282 1028,282 1015,285 995,300 966,300" rendition="Line" xml:id="facs_241_tr_1_tl_1"/>
+            <zone points="225,518 834,510 837,443 228,461" rendition="Line" xml:id="facs_241_tr_1_tl_2" subtype="heading"/>
+            <zone points="396,664 1164,651 1216,708 1689,656 2073,676 2075,567 396,609" rendition="Line" xml:id="facs_241_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="225,852 2164,790 2167,718 2033,716 228,795" rendition="Line" xml:id="facs_241_tr_1_tl_5"/>
+            <zone points="230,976 285,1013 418,976 1367,961 1369,901 726,934 379,921 307,879 233,921" rendition="Line" xml:id="facs_241_tr_1_tl_6"/>
+            <zone points="240,1147 2226,1085 2204,1028 240,1092" rendition="Line" xml:id="facs_241_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="404,1213 2137,1174 2125,1119 406,1166" rendition="Line" xml:id="facs_241_tr_1_tl_8"/>
+            <zone points="414,1293 2164,1253 2164,1203 1959,1191 414,1251" rendition="Line" xml:id="facs_241_tr_1_tl_9"/>
+            <zone points="414,1372 2112,1325 2112,1280 2028,1270 416,1320" rendition="Line" xml:id="facs_241_tr_1_tl_10"/>
+            <zone points="416,1454 1988,1414 2157,1399 2159,1352 418,1374" rendition="Line" xml:id="facs_241_tr_1_tl_11"/>
+            <zone points="416,1523 2125,1476 2125,1421 2028,1416 418,1473" rendition="Line" xml:id="facs_241_tr_1_tl_12"/>
+            <zone points="416,1602 2068,1565 2070,1513 416,1540" rendition="Line" xml:id="facs_241_tr_1_tl_13"/>
+            <zone points="409,1664 2167,1637 2139,1572 409,1622" rendition="Line" xml:id="facs_241_tr_1_tl_14"/>
+            <zone points="406,1746 2031,1711 2122,1701 2125,1659 409,1701" rendition="Line" xml:id="facs_241_tr_1_tl_15"/>
+            <zone points="416,1815 2021,1790 2087,1778 2090,1721 416,1763" rendition="Line" xml:id="facs_241_tr_1_tl_16"/>
+            <zone points="418,1902 2139,1852 2095,1795 418,1852" rendition="Line" xml:id="facs_241_tr_1_tl_17"/>
+            <zone points="418,1974 2097,1931 2097,1882 1931,1875 418,1914" rendition="Line" xml:id="facs_241_tr_1_tl_18"/>
+            <zone points="418,2050 572,2055 599,2045 622,2053 691,2043 693,1993 654,2003 570,1996 560,2006 542,1996 527,2008 418,2001" rendition="Line" xml:id="facs_241_tr_1_tl_19"/>
+            <zone points="233,2422 2120,2392 2120,2333 2053,2330 235,2370" rendition="Line" xml:id="facs_241_tr_1_tl_20" subtype="paragraph"/>
+            <zone points="282,2580 661,2580 703,2627 797,2627 956,2570 2199,2541 2201,2476 282,2528" rendition="Line" xml:id="facs_241_tr_1_tl_21"/>
+            <zone points="240,2731 2142,2694 2110,2627 243,2699" rendition="Line" xml:id="facs_241_tr_1_tl_22"/>
+            <zone points="250,2890 2090,2840 2092,2781 253,2830" rendition="Line" xml:id="facs_241_tr_1_tl_23"/>
+            <zone points="245,3063 2085,3011 2087,2944 1956,2934 248,2994" rendition="Line" xml:id="facs_241_tr_1_tl_24"/>
+            <zone points="290,3064 2179,3002 2187,3007 2199,2989 2185,2981 289,3042" rendition="Line" xml:id="facs_241_l"/>
+            <zone points="248,3098 1223,3140 1288,3090 2092,3061 2070,3009 248,3073" rendition="Line" xml:id="facs_241_tr_1_tl_25" subtype="footnote"/>
+            <zone points="245,3249 1201,3274 2236,3232 2236,3172 245,3224" rendition="Line" xml:id="facs_241_tr_1_tl_26" subtype="footnote-continued"/>
+            <zone points="260,3328 1996,3303 2120,3296 2122,3241 260,3274" rendition="Line" xml:id="facs_241_tr_1_tl_27" subtype="footnote-continued"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0241.jpg" n="part1_p241.jpg" xml:id="img_0241" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p241.jpg"/>
+            
+            <ab facs="#facs_241_tr_1">
+               <lb facs="#facs_241_tr_1_tl_1" n="N001"/>[237]
+               <lb facs="#facs_241_tr_1_tl_2" n="N002"/>LECTURE XX, Dec. 13, 1955
+               <lb facs="#facs_241_tr_1_tl_4" n="N003"/>We decided last Thursday to discuss, in these remaining three lecture hours, problems of the
+               <lb facs="#facs_241_tr_1_tl_5" n="N004"/>doctrine of man, including psychoanalytic psychology and the problem of healing, the relationship
+               <lb facs="#facs_241_tr_1_tl_6" n="N005"/>of the religious and medical element in the process of healing.
+               <lb facs="#facs_241_tr_1_tl_7" n="N006"/>QN: Your use of ontological language seems to me to be a <rs type="keyword" ref="#Poetry">poetic </rs>revision of traditional supernatural-
+               <lb facs="#facs_241_tr_1_tl_8" n="N007"/>ism and <rs type="keyword" ref="#Metaphysics">metaphysics.</rs> [PT: Now - - <hi style="font-style: italic;">[laughter]</hi> - -  that's good!] How do you escape this
+               <lb facs="#facs_241_tr_1_tl_9" n="N008"/>charge [PT: It's really a charge!] if you attempt to give a rational case for the relation
+               <lb facs="#facs_241_tr_1_tl_10" n="N009"/>between possibles and the actual states of affairs, intending to give knowledge of those
+               <lb facs="#facs_241_tr_1_tl_11" n="N010"/>general principles which undergird this major breach? You seem to say that the possibles
+               <lb facs="#facs_241_tr_1_tl_12" n="N011"/>and the reals are embraced by "Being" itself. Although there is identity in the order of
+               <lb facs="#facs_241_tr_1_tl_13" n="N012"/>possibility, it is not sufficient warrant for an attempt to account for this identity by
+               <lb facs="#facs_241_tr_1_tl_14" n="N013"/>recourse to an underlying ontological structure. The practice of epistemological modesty
+               <lb facs="#facs_241_tr_1_tl_15" n="N014"/>would rather lead one to say that one knows only that the possibles are thus thinkable.
+               <lb facs="#facs_241_tr_1_tl_16" n="N015"/>The rules that give an account of this phenomenon are found within another body of
+               <lb facs="#facs_241_tr_1_tl_17" n="N016"/>discourse called logic. All that one needs to relate possibles significantly one to another
+               <lb facs="#facs_241_tr_1_tl_18" n="N017"/>is a logical theory that makes clear the patterns by which one can think and discourse
+               <lb facs="#facs_241_tr_1_tl_19" n="N018"/>about them.*
+               <lb facs="#facs_241_tr_1_tl_20" n="N019"/>PT: Now there are a lot of problems <hi style="font-style: italic;">[laughter]</hi>, and l don't know where to start. Let me see.
+               <lb facs="#facs_241_tr_1_tl_21" n="N020"/>The one is the word "possibles." It is very interesting that the question does not use the classical
+               <lb facs="#facs_241_tr_1_tl_22" n="N021"/>term "potentials," which l always have used. "Possibles" indeed are thinkable; "potentials" are
+               <lb facs="#facs_241_tr_1_tl_23" n="N022"/>MORE than---logically speaking---thinkable: they are logically sufficient [?], in order to talk
+               <lb facs="#facs_241_tr_1_tl_24" n="N023"/>about them. But they have a standing, and I would call it an ontological standing, beside that
+               <lb facs="#facs_241_l" n="N024"/>------------------------
+               <lb facs="#facs_241_tr_1_tl_25" n="N025"/>Question of <rs type="person">Paul Lee,</rs> later Prof. Tillich's assistant, who has taught philosophy at M.I.T. and
+               <lb facs="#facs_241_tr_1_tl_26" n="N026"/>the Univ. of California, Santa Cruz. After class, Dr. Lee expressed regret about mistaking "possibles"
+               <lb facs="#facs_241_tr_1_tl_27" n="N027"/>for "potentials," especially after hearing Tillich and <rs type="person">Hartshorne</rs> on the subject for two hours!
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

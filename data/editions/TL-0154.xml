@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p154</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p154</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_154">
+         <graphic url="TL-0154.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SDTTDPTGJMNUFLJJPUNZKJMP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="47,247 47,3478 2364,3478 2364,247" rendition="TextRegion" xml:id="facs_154_tr_1">
+            <zone points="1234,302 1247,302 1269,317 1348,317 1348,258 1311,258 1286,245 1269,263 1234,263" rendition="Line" xml:id="facs_154_tr_1_tl_1"/>
+            <zone points="369,414 1651,436 1651,389 1557,367 369,374" rendition="Line" xml:id="facs_154_tr_1_tl_2"/>
+            <zone points="597,538 2206,558 2204,503 2137,496 595,473" rendition="Line" xml:id="facs_154_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="369,647 1207,709 2057,709 2357,692 2357,622 367,587" rendition="Line" xml:id="facs_154_tr_1_tl_4"/>
+            <zone points="362,773 2223,816 2345,796 2342,741 359,719" rendition="Line" xml:id="facs_154_tr_1_tl_5"/>
+            <zone points="369,885 2194,910 2194,860 2067,843 369,830" rendition="Line" xml:id="facs_154_tr_1_tl_6"/>
+            <zone points="362,1001 758,1061 2137,1036 2137,979 2013,969 362,967" rendition="Line" xml:id="facs_154_tr_1_tl_7"/>
+            <zone points="354,1120 2275,1150 2273,1088 354,1063" rendition="Line" xml:id="facs_154_tr_1_tl_8"/>
+            <zone points="350,1229 2248,1262 2211,1205 350,1205" rendition="Line" xml:id="facs_154_tr_1_tl_9"/>
+            <zone points="350,1343 1244,1410 2211,1413 2211,1321 350,1319" rendition="Line" xml:id="facs_154_tr_1_tl_11"/>
+            <zone points="357,1477 1720,1487 2199,1542 2233,1539 2231,1445 354,1420" rendition="Line" xml:id="facs_154_tr_1_tl_12"/>
+            <zone points="347,1609 1663,1636 1708,1601 1757,1636 2231,1646 2228,1562 2070,1549 345,1542" rendition="Line" xml:id="facs_154_tr_1_tl_13"/>
+            <zone points="345,1740 558,1782 902,1740 1341,1765 1606,1718 2166,1733 2166,1673 1894,1663 868,1683 806,1633 535,1666 486,1619 345,1673" rendition="Line" xml:id="facs_154_tr_1_tl_14"/>
+            <zone points="340,1814 2271,1847 2231,1780 340,1792" rendition="Line" xml:id="facs_154_tr_1_tl_16"/>
+            <zone points="340,1936 1249,1990 1502,1948 2132,1976 2253,1966 2253,1911 337,1889" rendition="Line" xml:id="facs_154_tr_1_tl_17"/>
+            <zone points="340,2050 2191,2085 2248,2082 2246,1993 2095,2028 337,2008" rendition="Line" xml:id="facs_154_tr_1_tl_18"/>
+            <zone points="335,2211 2253,2196 2253,2124 335,2124" rendition="Line" xml:id="facs_154_tr_1_tl_19"/>
+            <zone points="335,2290 2315,2325 2315,2268 332,2246" rendition="Line" xml:id="facs_154_tr_1_tl_20"/>
+            <zone points="335,2407 672,2429 1071,2414 1071,2372 1041,2355 335,2365" rendition="Line" xml:id="facs_154_tr_1_tl_21"/>
+            <zone points="553,2528 625,2578 1762,2558 2191,2595 2191,2484 553,2466" rendition="Line" xml:id="facs_154_tr_1_tl_22" subtype="paragraph"/>
+            <zone points="332,2677 2201,2667 2199,2610 2104,2603 330,2593" rendition="Line" xml:id="facs_154_tr_1_tl_23"/>
+            <zone points="327,2761 729,2774 838,2759 838,2737 771,2737 746,2712 374,2714 357,2697 327,2714" rendition="Line" xml:id="facs_154_tr_1_tl_24"/>
+            <zone points="322,2870 2077,2905 2273,2900 2273,2843 320,2826" rendition="Line" xml:id="facs_154_tr_1_tl_26"/>
+            <zone points="322,2989 2176,3029 2174,2970 2065,2952 322,2947" rendition="Line" xml:id="facs_154_tr_1_tl_27"/>
+            <zone points="320,3106 1056,3155 1192,3118 1678,3155 2241,3131 2241,3079 320,3064" rendition="Line" xml:id="facs_154_tr_1_tl_28"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0154.jpg" n="part1_p154.jpg" xml:id="img_0154" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p154.jpg"/>
+            
+            <ab facs="#facs_154_tr_1">
+               <lb facs="#facs_154_tr_1_tl_1" n="N001"/>[151]
+               <lb facs="#facs_154_tr_1_tl_2" n="N002"/>any secular text, to any picture, and it can do it to religious texts.
+               <lb facs="#facs_154_tr_1_tl_3" n="N003"/>This gives me an occasion to make a differentiation here, not in personal terms but
+               <lb facs="#facs_154_tr_1_tl_4" n="N004"/>in terms of reality itself. Every historical situation can be interpreted in cultural forms---philosophical,
+               <lb facs="#facs_154_tr_1_tl_5" n="N005"/>political, educational, humanistic, whatever you want to call it---you can understand it, as for instance
+               <lb facs="#facs_154_tr_1_tl_6" n="N006"/>I gave you the example of Greek culture, which has been understood differently in all periods.
+               <lb facs="#facs_154_tr_1_tl_7" n="N007"/>And this is also true of all biblical literature, of all religious literature: you can understand,
+               <lb facs="#facs_154_tr_1_tl_8" n="N008"/>in this way, the literature of the Old and the New Testament. It is Jewish cultural history, and the
+               <lb facs="#facs_154_tr_1_tl_9" n="N009"/>cultural history of an early sect whom the emperor, Augustus, called <hi style="font-style: italic;">Christiani</hi>---you can do that.
+               <lb facs="#facs_154_tr_1_tl_11" n="N010"/>But there is another dimension, the dimension of <rs type="keyword" ref="#Ultimacy">ultimacy</rs>, and THIS dimension can be applied
+               <lb facs="#facs_154_tr_1_tl_12" n="N011"/>ALSO to ALL [the] past, not only to the religious sources and to the churches and their history,
+               <lb facs="#facs_154_tr_1_tl_13" n="N012"/>but also to the secular sources and to the nations and their histories. You can try to find what is
+               <lb facs="#facs_154_tr_1_tl_14" n="N013"/>the ultimate meaning of such a thing as Greek culture, as you can find what is the national
+               <lb facs="#facs_154_tr_1_tl_16" n="N014"/>meaning of such a thing as Old Testament culture. And if you do so, if you ask the question of the
+               <lb facs="#facs_154_tr_1_tl_17" n="N015"/>ultimate meaning, you make a theological analysis, you try to find out the religious meaning in its
+               <lb facs="#facs_154_tr_1_tl_18" n="N016"/>ultimacy. And this is substantially in all culture---you remember my basic statement that <rs type="keyword" ref="#RELIGION">religion</rs>
+               <lb facs="#facs_154_tr_1_tl_19" n="N017"/>is the substance of culture and culture the form of religion. Therefore all religious texts are ALSO
+               <lb facs="#facs_154_tr_1_tl_20" n="N018"/>culture (they have cultural form), and all cultural creations are also religious (they explain, indirectly,
+               <lb facs="#facs_154_tr_1_tl_21" n="N019"/>ultimate meaning, ultimate concern).
+               <lb facs="#facs_154_tr_1_tl_22" n="N020"/>Now what is historical truth, if you apply the religious dimension, the dimension of
+               <lb facs="#facs_154_tr_1_tl_23" n="N021"/>ultimate concern? It is not factual truth. In the name of faith, you cannot guarantee facts.
+               <lb facs="#facs_154_tr_1_tl_24" n="N022"/>Facts are a matter of detached experimentation with documents, and can never be reached
+               <lb facs="#facs_154_tr_1_tl_26" n="N023"/>beyond a high, and in most cases a low, degree of probability. Faith cannot guarantee explanations.
+               <lb facs="#facs_154_tr_1_tl_27" n="N024"/>WHY Judas betrayed Jesus is not a matter of faith, but a matter of many different hypotheses,
+               <lb facs="#facs_154_tr_1_tl_28" n="N025"/>whereby even the fact of the betrayal, what WAS betrayed, is a very difficult problem. This is not
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

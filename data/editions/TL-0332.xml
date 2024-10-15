@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p048</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p048</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_48">
+         <graphic url="TL-0332.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VIOBOVUPDPAMZUTZTUOIJZSP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="277,245 2295,245 2295,1828 277,1828" rendition="TextRegion" xml:id="facs_48_tr_2">
+            <zone points="1117,307 1141,309 1149,317 1167,317 1172,312 1180,320 1214,317 1221,309 1234,309 1234,234 1198,236 1182,226 1154,249 1117,249" rendition="Line" xml:id="facs_48_tr_2_tl_1"/>
+            <zone points="275,468 2063,455 2136,405 1060,416 1006,374 520,421 452,377 275,424" rendition="Line" xml:id="facs_48_tr_2_tl_2"/>
+            <zone points="281,613 2292,611 2292,543 281,561" rendition="Line" xml:id="facs_48_tr_2_tl_3"/>
+            <zone points="260,764 1006,774 1068,761 1071,728 1034,707 756,709 738,728 717,709 457,709 262,733" rendition="Line" xml:id="facs_48_tr_2_tl_4"/>
+            <zone points="496,904 2261,910 2261,829 496,839" rendition="Line" xml:id="facs_48_tr_2_tl_5" subtype="paragraph"/>
+            <zone points="268,1060 2053,1063 2282,1052 2282,990 270,1029" rendition="Line" xml:id="facs_48_tr_2_tl_6"/>
+            <zone points="265,1214 2162,1208 2178,1149 265,1190" rendition="Line" xml:id="facs_48_tr_2_tl_7"/>
+            <zone points="265,1364 2022,1383 2113,1354 2115,1284 265,1338" rendition="Line" xml:id="facs_48_tr_2_tl_8"/>
+            <zone points="268,1520 2121,1510 2136,1448 268,1492" rendition="Line" xml:id="facs_48_tr_2_tl_9"/>
+            <zone points="265,1671 2001,1671 2115,1658 2115,1609 265,1627" rendition="Line" xml:id="facs_48_tr_2_tl_10"/>
+            <zone points="262,1817 2105,1817 2105,1759 262,1775" rendition="Line" xml:id="facs_48_tr_2_tl_11"/>
+         </zone>
+         <zone points="274,1896 2182,1896 2182,2810 274,2810" rendition="TextRegion" xml:id="facs_48_tr_3">
+            <zone points="265,1975 2157,1954 2157,1897 268,1918" rendition="Line" xml:id="facs_48_tr_3_tl_1"/>
+            <zone points="262,2123 1972,2126 2139,2108 2139,2050 262,2071" rendition="Line" xml:id="facs_48_tr_3_tl_2"/>
+            <zone points="262,2274 533,2279 535,2219 429,2219 408,2240 385,2222 301,2225 281,2245 262,2245" rendition="Line" xml:id="facs_48_tr_3_tl_3"/>
+            <zone points="496,2349 2123,2339 2162,2292 499,2277" rendition="Line" xml:id="facs_48_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="260,2503 1840,2518 2110,2487 2110,2430 260,2451" rendition="Line" xml:id="facs_48_tr_3_tl_5"/>
+            <zone points="262,2651 1796,2653 2144,2638 2147,2573 265,2617" rendition="Line" xml:id="facs_48_tr_3_tl_6"/>
+            <zone points="260,2801 2141,2791 2178,2726 260,2765" rendition="Line" xml:id="facs_48_tr_3_tl_7"/>
+         </zone>
+         <zone points="20,2872 2361,2872 2361,3467 20,3467" rendition="TextRegion" xml:id="facs_48_tr_1">
+            <zone points="268,2970 2352,2944 2354,2874 270,2905" rendition="Line" xml:id="facs_48_tr_1_tl_1"/>
+            <zone points="255,3108 2121,3093 2152,3033 255,3056" rendition="Line" xml:id="facs_48_tr_1_tl_2"/>
+            <zone points="260,3248 2279,3196 2323,3142 260,3220" rendition="Line" xml:id="facs_48_tr_1_tl_3"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0332.jpg" n="part2_p048.jpg" xml:id="img_0048" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p048.jpg"/>
+            
+            <ab facs="#facs_48_tr_2">
+               <lb facs="#facs_48_tr_2_tl_1" n="N001"/>[327]
+               <lb facs="#facs_48_tr_2_tl_2" n="N002"/>on the anticipatory function of which I spoke, where nature is idealized, but it remains nature.
+               <lb facs="#facs_48_tr_2_tl_3" n="N003"/>This is unfortunately the predominant way in which parochial newspapers still believe that Christianity
+               <lb facs="#facs_48_tr_2_tl_4" n="N004"/>should be presented to the poor people.
+               <lb facs="#facs_48_tr_2_tl_5" n="N005"/>Then I would also call impressionism naturalistic art, but it is naturalism of a special kind,
+               <lb facs="#facs_48_tr_2_tl_6" n="N006"/>of the third type, namely in contrast to the ordinary naturalism which is objective, the impressionistic
+               <lb facs="#facs_48_tr_2_tl_7" n="N007"/>naturalism is subjective. Zola, when he fought for the French impressionists, has said: a work of
+               <lb facs="#facs_48_tr_2_tl_8" n="N008"/>art is nature seen through a temperament. This means: through the subjectivity of the artist's
+               <lb facs="#facs_48_tr_2_tl_9" n="N009"/>seeing and receiving. This certainly is an excellent description of impressionism and shows that
+               <lb facs="#facs_48_tr_2_tl_10" n="N010"/>here objective and subjective nature, man's optical and psychological structure, work together
+               <lb facs="#facs_48_tr_2_tl_11" n="N011"/>to produce these pictures which, when they first occurred---and idealistic naturalism was still
+            </ab>
+            <ab facs="#facs_48_tr_3">
+               <lb facs="#facs_48_tr_3_tl_1" n="N001"/>most powerful---were attacked and thrown out of the exhibitions. Today they are classics, even
+               <lb facs="#facs_48_tr_3_tl_2" n="N002"/>for the most conservative critics of art. But all of them belong to naturalism in the larger sense
+               <lb facs="#facs_48_tr_3_tl_3" n="N003"/>of the word.
+               <lb facs="#facs_48_tr_3_tl_4" n="N004"/>The opposite is NON-naturalistic. Most of primitive art is non-naturalistic. Here the
+               <lb facs="#facs_48_tr_3_tl_5" n="N005"/>semantic problem has induced me to use that negative term "non-naturalistic." I would call it
+               <lb facs="#facs_48_tr_3_tl_6" n="N006"/>expressionistic, but unfortunately that word has been used by the German expressionists in the
+               <lb facs="#facs_48_tr_3_tl_7" n="N007"/>first decades of the 20th century. So it must be liberated from this extreme limited use. And if
+            </ab>
+            <ab facs="#facs_48_tr_1">
+               <lb facs="#facs_48_tr_1_tl_1" n="N001"/>you sometimes hear, instead of using the clumsy word "non-naturalistic" the quick word "expressionistic,"
+               <lb facs="#facs_48_tr_1_tl_2" n="N002"/>I mean it in the sense of non-naturalistic generally, and include all non- naturalistic art from the
+               <lb facs="#facs_48_tr_1_tl_3" n="N003"/>very primitive to the present-day abstract, under this term. But let us perhaps not complicate the matter
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

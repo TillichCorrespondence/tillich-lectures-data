@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p132</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p132</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_132">
+         <graphic url="TL-0132.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CGLIWGEJXRQDOMHZOYLQEMVA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="29,188 29,3479 2310,3447 2316,188" rendition="TextRegion" xml:id="facs_132_tr_1">
+            <zone points="1147,244 1174,247 1181,254 1196,254 1201,259 1213,259 1221,252 1248,254 1255,247 1268,247 1268,183 1208,187 1201,180 1179,202 1147,202" rendition="Line" xml:id="facs_132_tr_1_tl_1"/>
+            <zone points="353,469 1630,464 1697,513 2008,518 2229,476 2229,419 1724,397 353,422" rendition="Line" xml:id="facs_132_tr_1_tl_2"/>
+            <zone points="348,617 2254,639 2271,577 345,562" rendition="Line" xml:id="facs_132_tr_1_tl_3"/>
+            <zone points="348,762 2311,782 2311,723 348,715" rendition="Line" xml:id="facs_132_tr_1_tl_4"/>
+            <zone points="340,908 2294,940 2294,880 2232,876 340,863" rendition="Line" xml:id="facs_132_tr_1_tl_5"/>
+            <zone points="338,1058 2247,1085 2247,1031 2030,1009 562,999 338,1036" rendition="Line" xml:id="facs_132_tr_1_tl_6"/>
+            <zone points="340,1250 429,1282 686,1233 767,1285 1460,1228 1507,1268 2257,1278 2257,1176 2153,1167 340,1171" rendition="Line" xml:id="facs_132_tr_1_tl_7"/>
+            <zone points="338,1369 592,1413 2227,1381 2227,1329 1771,1315 338,1337" rendition="Line" xml:id="facs_132_tr_1_tl_9"/>
+            <zone points="333,1514 927,1519 1176,1606 2010,1569 2008,1443 1638,1477 1406,1460 1334,1406 994,1495 333,1490" rendition="Line" xml:id="facs_132_tr_1_tl_10"/>
+            <zone points="434,1665 2188,1692 2188,1633 2121,1618 434,1618" rendition="Line" xml:id="facs_132_tr_1_tl_11" subtype="paragraph"/>
+            <zone points="326,1810 1640,1827 1689,1869 1803,1827 2212,1845 2212,1778 326,1786" rendition="Line" xml:id="facs_132_tr_1_tl_12"/>
+            <zone points="323,1968 1176,1978 1310,2022 2225,1990 2225,1931 1909,1916 323,1943" rendition="Line" xml:id="facs_132_tr_1_tl_15"/>
+            <zone points="333,2141 446,2178 1726,2126 2254,2180 2254,2082 2067,2064 333,2072" rendition="Line" xml:id="facs_132_tr_1_tl_16"/>
+            <zone points="333,2284 360,2284 387,2269 454,2279 543,2276 543,2229 520,2229 503,2212 486,2229 461,2227 449,2215 434,2227 422,2220 414,2227 333,2229" rendition="Line" xml:id="facs_132_tr_1_tl_17"/>
+            <zone points="422,2348 1366,2358 1485,2405 1536,2373 1687,2402 1746,2355 2212,2365 2212,2296 422,2313" rendition="Line" xml:id="facs_132_tr_1_tl_18" subtype="paragraph"/>
+            <zone points="321,2503 2210,2508 2210,2454 2111,2451 496,2454 454,2422 321,2471" rendition="Line" xml:id="facs_132_tr_1_tl_19"/>
+            <zone points="318,2646 1850,2661 1850,2607 318,2604" rendition="Line" xml:id="facs_132_tr_1_tl_20"/>
+            <zone points="419,2799 1255,2804 1312,2851 2210,2814 2210,2755 2173,2752 419,2745" rendition="Line" xml:id="facs_132_tr_1_tl_21" subtype="paragraph"/>
+            <zone points="254,2962 316,2932 429,2996 1159,3004 2232,2955 2232,2898 345,2913 254,2853" rendition="Line" xml:id="facs_132_tr_1_tl_22"/>
+            <zone points="311,3100 1504,3162 2045,3154 2116,3110 2079,3046 311,3061" rendition="Line" xml:id="facs_132_tr_1_tl_23"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0132.jpg" n="part1_p132.jpg" xml:id="img_0132" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p132.jpg"/>
+            
+            <ab facs="#facs_132_tr_1">
+               <lb facs="#facs_132_tr_1_tl_1" n="N001"/>[129]
+               <lb facs="#facs_132_tr_1_tl_2" n="N002"/>possible to refute Augustine on the same basis. So here you have another example for the need
+               <lb facs="#facs_132_tr_1_tl_3" n="N003"/>to be cautious about these things. There are tendencies in physical time which confirm Augustine;
+               <lb facs="#facs_132_tr_1_tl_4" n="N004"/>there are others which confirm Aristotle. <ultimate_concern>Even if today, under the tremendous impression which the
+               <lb break="no" facs="#facs_132_tr_1_tl_5" n="N005"/>law of entropy has made on all of us, we are more inclined to accept the Augustinian interpretation,
+               <lb break="no" facs="#facs_132_tr_1_tl_6" n="N006"/>we must nevertheless be clear-minded and cautious enough to say that WE DON'T KNOW, on the
+               <lb break="no" facs="#facs_132_tr_1_tl_7" n="N007"/>basis of PHYSICS, which interpretation is ultimately true. We can say it only in terms of ultimate
+               <lb break="no" facs="#facs_132_tr_1_tl_9" n="N008"/>concern, and this doesn’t give an answer to any physical question, this only answers the question
+               <lb break="no" facs="#facs_132_tr_1_tl_10" n="N009"/>of the meaning of history for us</ultimate_concern>. It is an existential question, and not a physical one.
+               <lb facs="#facs_132_tr_1_tl_11" n="N010"/>Now I hope that this additional consideration, where the temptation is very great today,
+               <lb facs="#facs_132_tr_1_tl_12" n="N011"/>makes it even clearer to you what I mean. <biology>But now we come to another consideration where my
+               <lb break="no" facs="#facs_132_tr_1_tl_15" n="N012"/>position seems to be almost hopeless, namely the position of non-interference of the dimensions,
+               <lb break="no" facs="#facs_132_tr_1_tl_16" n="N013"/>the biological and anthropological problems. Now let us first say a few things about the biological
+               <lb break="no" facs="#facs_132_tr_1_tl_17" n="N014"/>problems.
+               <lb break="no" facs="#facs_132_tr_1_tl_18" n="N015"/>Has religion to say something which biology, the doctrine of life, has to accept on the basis
+               <lb break="no" facs="#facs_132_tr_1_tl_19" n="N016"/>of religious authority? If this were the case, then the conflict between the two realms would be
+               <lb break="no" facs="#facs_132_tr_1_tl_20" n="N017"/>hopeless. But I don’t see any such necessity, and I will try to prove this now.
+               <lb break="no" facs="#facs_132_tr_1_tl_21" n="N018"/>In biological consideration, as long as there is a philosophy of biology, there is a fight going
+               <lb break="no" facs="#facs_132_tr_1_tl_22" n="N019"/>on between mechanistic and organicistic [sic.] interpretations of life.</biology> These two considerations seem to
+               <lb facs="#facs_132_tr_1_tl_23" n="N020"/>lead to opposite results; in the one case, all life is a casual, contingent result of mechanistic
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

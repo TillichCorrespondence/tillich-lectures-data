@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p178</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p178</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_178">
+         <graphic url="TL-0178.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TWRXCEAUIWFMDHGAEBTJMXZU&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="23,235 23,3487 2361,3487 2361,235" rendition="TextRegion" xml:id="facs_178_tr_1">
+            <zone points="1180,310 1199,313 1210,307 1218,315 1234,318 1256,318 1261,313 1275,318 1304,315 1304,229 1277,229 1261,237 1234,229 1218,245 1205,240 1180,243" rendition="Line" xml:id="facs_178_tr_1_tl_1"/>
+            <zone points="334,579 2272,582 2272,485 334,488" rendition="Line" xml:id="facs_178_tr_1_tl_2"/>
+            <zone points="340,738 1245,741 1388,709 1372,641 340,620" rendition="Line" xml:id="facs_178_tr_1_tl_3"/>
+            <zone points="504,830 2296,854 2296,784 504,773" rendition="Line" xml:id="facs_178_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="334,984 2312,1005 2355,959 331,932" rendition="Line" xml:id="facs_178_tr_1_tl_6"/>
+            <zone points="334,1135 844,1143 844,1086 367,1081 334,1102" rendition="Line" xml:id="facs_178_tr_1_tl_7"/>
+            <zone points="507,1315 569,1350 865,1315 1598,1348 1741,1288 2256,1302 2256,1215 2164,1253 1967,1218 1922,1259 1485,1197 1054,1210 1016,1248 976,1210 507,1202" rendition="Line" xml:id="facs_178_tr_1_tl_8" subtype="paragraph"/>
+            <zone points="323,1431 1019,1504 2221,1490 2221,1391 323,1404" rendition="Line" xml:id="facs_178_tr_1_tl_9"/>
+            <zone points="326,1604 2151,1606 2151,1544 326,1539" rendition="Line" xml:id="facs_178_tr_1_tl_10"/>
+            <zone points="323,1754 2256,1757 2256,1692 323,1711" rendition="Line" xml:id="facs_178_tr_1_tl_11"/>
+            <zone points="318,1897 2234,1903 2234,1846 784,1862 614,1827 318,1868" rendition="Line" xml:id="facs_178_tr_1_tl_12"/>
+            <zone points="323,2051 973,2051 1215,2099 2213,2083 2213,1997 323,1967" rendition="Line" xml:id="facs_178_tr_1_tl_13"/>
+            <zone points="323,2194 846,2196 908,2245 2213,2202 2213,2143 323,2161" rendition="Line" xml:id="facs_178_tr_1_tl_15"/>
+            <zone points="313,2339 2293,2358 2293,2299 2240,2293 313,2312" rendition="Line" xml:id="facs_178_tr_1_tl_16"/>
+            <zone points="310,2514 404,2496 671,2514 981,2501 981,2442 566,2439 536,2420 410,2461 375,2434 310,2442" rendition="Line" xml:id="facs_178_tr_1_tl_17"/>
+            <zone points="307,2660 361,2692 1760,2673 2175,2711 2277,2644 2342,2657 2342,2552 2196,2598 307,2614" rendition="Line" xml:id="facs_178_tr_1_tl_19"/>
+            <zone points="156,2819 302,2805 350,2854 1542,2854 1622,2803 2318,2814 2318,2749 717,2765 358,2744 321,2706 156,2730" rendition="Line" xml:id="facs_178_tr_1_tl_21"/>
+            <zone points="307,2940 1056,2981 1110,2948 1213,2981 2231,2964 2231,2900 307,2892" rendition="Line" xml:id="facs_178_tr_1_tl_22"/>
+            <zone points="305,3102 1730,3099 1989,3156 2323,3129 2323,3051 305,3053" rendition="Line" xml:id="facs_178_tr_1_tl_23"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0178.jpg" n="part1_p178.jpg" xml:id="img_0178" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p178.jpg"/>
+            
+            <ab facs="#facs_178_tr_1">
+               <lb facs="#facs_178_tr_1_tl_1" n="N001"/>[174]
+               <lb facs="#facs_178_tr_1_tl_2" n="N002"/>in his way and, on the basis of his answer, calls philosophy something different from the other one.
+               <lb facs="#facs_178_tr_1_tl_3" n="N003"/>In any case, the most general questions are answered.
+               <lb facs="#facs_178_tr_1_tl_5" n="N004"/>Now perhaps this can help us to go one little step farther, but if you don't want [to], don’t
+               <lb facs="#facs_178_tr_1_tl_6" n="N005"/>do it. But l want to do it because it is a little bit more helpful than this departmental DESCRIPTION---
+
+               <lb facs="#facs_178_tr_1_tl_7" n="N006"/>which is not a definition.
+               <lb facs="#facs_178_tr_1_tl_8" n="N007"/>Which are the most general questions somebody can ask? Now of course the negative side
+               <lb facs="#facs_178_tr_1_tl_9" n="N008"/>is easy to answer. There are questions which do not deal with the nature of a special SPHERE of
+               <lb facs="#facs_178_tr_1_tl_10" n="N009"/>reality, for instance the special sphere of mathematical structure, of space and time, or of the
+               <lb facs="#facs_178_tr_1_tl_11" n="N010"/>physical structure of matter, or the historical structure of becoming. But they ask something more
+               <lb facs="#facs_178_tr_1_tl_12" n="N011"/>general, and then they may go back to all this, but first they both go to something more universal.
+               <lb facs="#facs_178_tr_1_tl_13" n="N012"/>And perhaps it is meaningful to say they ask about the nature of reality, which is present in ALL
+               <lb facs="#facs_178_tr_1_tl_15" n="N013"/>these realms. Now that is also very simple and is not a clear definition, but it is a more adequate
+               <lb facs="#facs_178_tr_1_tl_16" n="N014"/>description than our very first was. This more adequate description says that <rs type="keyword" ref="#Philosophy">philosophy</rs> tries to find
+               <lb facs="#facs_178_tr_1_tl_17" n="N015"/>the <rs type="keyword" ref="#Universal_category">universal categories</rs> in which everything that is, is experienced. Philosophy deals with the
+               <lb facs="#facs_178_tr_1_tl_19" n="N016"/><rs type="keyword" ref="#Structure_of_Being">structure of being </rs>universally. I don't know whether everybody would accept this definition, but for me
+               <lb facs="#facs_178_tr_1_tl_21" n="N017"/>this seems to be the only possible way of dealing with philosophy, which is a reality, and of describing
+               <lb facs="#facs_178_tr_1_tl_22" n="N018"/>it in such a way that almost every philosopher, at least in the past, can be shown as participating
+               <lb facs="#facs_178_tr_1_tl_23" n="N019"/>in this endeavor to say something about the nature of being universally. If such a notion of philosophy
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

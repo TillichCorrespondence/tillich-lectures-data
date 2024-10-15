@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p161</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p161</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_161">
+         <graphic url="TL-0161.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=JPHINLHCDPPBSUQHIUIBZEBE&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="26,229 26,3470 2328,3470 2328,229" rendition="TextRegion" xml:id="facs_161_tr_1">
+            <zone points="1224,310 1257,310 1262,315 1295,312 1323,320 1343,315 1340,254 1318,256 1292,244 1287,246 1280,239 1267,239 1249,251 1219,251" rendition="Line" xml:id="facs_161_tr_1_tl_1"/>
+            <zone points="289,457 1620,470 1620,348 1528,416 1224,421 1191,388 1158,421 744,421 703,383 665,421 289,421" rendition="Line" xml:id="facs_161_tr_1_tl_2"/>
+            <zone points="495,640 703,675 1340,612 2270,614 2270,548 1663,576 1582,508 1450,579 1130,548 495,581" rendition="Line" xml:id="facs_161_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="289,764 1945,762 2006,805 2254,805 2252,701 289,708" rendition="Line" xml:id="facs_161_tr_1_tl_4"/>
+            <zone points="289,911 2110,924 2199,916 2201,856 289,883" rendition="Line" xml:id="facs_161_tr_1_tl_5"/>
+            <zone points="287,1069 2282,1064 2282,1000 1523,1036 287,1010" rendition="Line" xml:id="facs_161_tr_1_tl_6"/>
+            <zone points="279,1252 523,1285 828,1214 2257,1216 2257,1160 279,1188" rendition="Line" xml:id="facs_161_tr_1_tl_7"/>
+            <zone points="287,1371 2315,1368 2315,1310 287,1338" rendition="Line" xml:id="facs_161_tr_1_tl_8"/>
+            <zone points="284,1531 2320,1518 2320,1462 284,1470" rendition="Line" xml:id="facs_161_tr_1_tl_9"/>
+            <zone points="282,1731 835,1696 960,1734 1082,1670 2224,1673 2224,1617 282,1627" rendition="Line" xml:id="facs_161_tr_1_tl_10"/>
+            <zone points="272,1820 2224,1820 2224,1764 272,1795" rendition="Line" xml:id="facs_161_tr_1_tl_11"/>
+            <zone points="282,1975 2259,1978 2259,1917 2221,1914 282,1919" rendition="Line" xml:id="facs_161_tr_1_tl_12"/>
+            <zone points="272,2125 2267,2135 2247,2059 272,2094" rendition="Line" xml:id="facs_161_tr_1_tl_13"/>
+            <zone points="277,2310 361,2341 614,2270 2287,2272 2280,2214 279,2244" rendition="Line" xml:id="facs_161_tr_1_tl_14"/>
+            <zone points="274,2427 2196,2455 2196,2366 274,2397" rendition="Line" xml:id="facs_161_tr_1_tl_15"/>
+            <zone points="267,2584 447,2628 556,2579 2193,2574 2193,2513 2072,2511 267,2549" rendition="Line" xml:id="facs_161_tr_1_tl_16"/>
+            <zone points="267,2724 2181,2716 2181,2663 2125,2658 267,2681" rendition="Line" xml:id="facs_161_tr_1_tl_17"/>
+            <zone points="272,2879 416,2947 599,2912 1013,2947 1566,2917 1627,2874 1594,2821 1427,2815 272,2828" rendition="Line" xml:id="facs_161_tr_1_tl_18"/>
+            <zone points="462,3039 515,3077 942,3077 993,3039 1221,3077 1333,3026 2270,3029 2270,2955 462,3001" rendition="Line" xml:id="facs_161_tr_1_tl_20" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0161.jpg" n="part1_p161.jpg" xml:id="img_0161" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p161.jpg"/>
+            
+            <ab facs="#facs_161_tr_1">
+               <lb facs="#facs_161_tr_1_tl_1" n="N001"/>[158]
+               <lb facs="#facs_161_tr_1_tl_2" n="N002"/>of the adherents of Mohammedanism. But this doesn’t PROVE it!
+               <lb facs="#facs_161_tr_1_tl_3" n="N003"/>It isn’t a matter of faith to decide whether large parts of the Pentateuch, the five books of
+               <lb facs="#facs_161_tr_1_tl_4" n="N004"/>Moses, as they are called, are Priestly wisdom of the period after the Babylonian exile. And it isn't
+               <lb facs="#facs_161_tr_1_tl_5" n="N005"/>a matter of faith to decide whether the book of Genesis contains more myths and sacred legend
+               <lb facs="#facs_161_tr_1_tl_6" n="N006"/>than actual history, even if there are some historical elements. And I can go on in this way. It is not
+               <lb facs="#facs_161_tr_1_tl_7" n="N007"/>a matter of faith to decide whether the expectation of the final catastrophe of the universe---as it is
+               <lb facs="#facs_161_tr_1_tl_8" n="N008"/>envisaged in Jewish apocalyptics and in the last book of the New Testament---whether this is a heritage
+               <lb facs="#facs_161_tr_1_tl_9" n="N009"/>from the Persian religion (which, with greatest probability, it is). But that is not a problem of faith.
+               <lb facs="#facs_161_tr_1_tl_10" n="N010"/>It is not a matter of faith to decide how much legendary, how much mythological, and how much
+               <lb facs="#facs_161_tr_1_tl_11" n="N011"/>historical material is amalgamated in the stories about the birth and the resurrection of the Christ.
+               <lb facs="#facs_161_tr_1_tl_12" n="N012"/>We only can say, with high probability, that all these elements, and beyond this, great poetic power,
+               <lb facs="#facs_161_tr_1_tl_13" n="N013"/>are united in the writing of these stories. But that is not a matter of faith. It is not a matter of faith
+               <lb facs="#facs_161_tr_1_tl_14" n="N014"/>to decide which version of the reports about the early days of the church has the greatest probability.
+               <lb facs="#facs_161_tr_1_tl_15" n="N015"/>All these questions --- And they go through the whole [of] church history, ideas like apostolic
+               <lb facs="#facs_161_tr_1_tl_16" n="N016"/>succession, the institution of the Pope in Rome, and all this---all these questions must be decided
+               <lb facs="#facs_161_tr_1_tl_17" n="N017"/>in terms of more or less probability by historical research. They cannot be decided in any other
+               <lb facs="#facs_161_tr_1_tl_18" n="N018"/>way, they are questions of historical truth, not of the truth of faith.
+               <lb facs="#facs_161_tr_1_tl_20" n="N019"/>Now what can faith do? If a religion (such as those I enumerated in the beginning, namely
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

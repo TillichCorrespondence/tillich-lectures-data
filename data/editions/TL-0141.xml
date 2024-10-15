@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p141</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p141</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_141">
+         <graphic url="TL-0141.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YKKJRHPWORBCUOJTZNOGZBVA&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="14,168 14,2849 14,3456 2409,3456 2409,168" rendition="TextRegion" xml:id="facs_141_tr_1">
+            <zone points="1104,236 1123,244 1150,242 1160,247 1176,242 1197,247 1208,236 1221,236 1224,191 1203,189 1195,194 1179,183 1171,191 1155,196 1131,173 1110,170" rendition="Line" xml:id="facs_141_tr_1_tl_1"/>
+            <zone points="319,462 1718,470 1792,518 1896,475 2379,486 2379,414 319,398" rendition="Line" xml:id="facs_141_tr_1_tl_2"/>
+            <zone points="316,608 2358,640 2358,576 316,573" rendition="Line" xml:id="facs_141_tr_1_tl_3"/>
+            <zone points="313,759 1176,807 2291,789 2291,727 2105,717 313,714" rendition="Line" xml:id="facs_141_tr_1_tl_4"/>
+            <zone points="316,943 2238,953 2238,879 2058,871 316,868" rendition="Line" xml:id="facs_141_tr_1_tl_5"/>
+            <zone points="228,1112 361,1067 799,1062 1104,1110 1426,1110 1484,1073 2286,1094 2286,1030 2050,1020 425,1004 228,1049" rendition="Line" xml:id="facs_141_tr_1_tl_6"/>
+            <zone points="311,1147 2286,1176 2286,1110 2217,1097 1537,1091 1489,1123 401,1067 311,1099" rendition="Line" xml:id="facs_141_tr_1_tl_7"/>
+            <zone points="305,1343 632,1349 852,1293 2313,1309 2313,1253 2039,1232 1978,1272 1864,1237 305,1245" rendition="Line" xml:id="facs_141_tr_1_tl_8"/>
+            <zone points="297,1439 358,1487 656,1442 2273,1452 2273,1402 2052,1386 297,1391" rendition="Line" xml:id="facs_141_tr_1_tl_9"/>
+            <zone points="303,1598 1463,1638 2334,1606 2334,1553 303,1540" rendition="Line" xml:id="facs_141_tr_1_tl_10"/>
+            <zone points="350,1739 2315,1758 2315,1705 350,1694" rendition="Line" xml:id="facs_141_tr_1_tl_11" subtype="paragraph"/>
+            <zone points="292,1906 2307,1906 2307,1848 292,1848" rendition="Line" xml:id="facs_141_tr_1_tl_12"/>
+            <zone points="281,2039 2259,2050 2222,2005 1951,1989 281,1997" rendition="Line" xml:id="facs_141_tr_1_tl_13"/>
+            <zone points="284,2193 446,2243 1747,2259 2220,2214 2220,2159 2103,2156 284,2169" rendition="Line" xml:id="facs_141_tr_1_tl_14"/>
+            <zone points="287,2366 2283,2366 2283,2310 2028,2299 287,2307" rendition="Line" xml:id="facs_141_tr_1_tl_15"/>
+            <zone points="276,2496 2283,2509 2283,2453 276,2466" rendition="Line" xml:id="facs_141_tr_1_tl_16"/>
+            <zone points="271,2660 2405,2666 2405,2607 271,2602" rendition="Line" xml:id="facs_141_tr_1_tl_17"/>
+            <zone points="335,2785 374,2793 401,2788 412,2796 465,2790 465,2647 443,2652 435,2647 427,2655 417,2647 412,2652 393,2647 366,2663 353,2650 335,2650" rendition="Line" xml:id="facs_141_tr_1_tl_18"/>
+            <zone points="289,2798 889,2814 935,2854 2318,2817 2318,2767 2243,2761 289,2753" rendition="Line" xml:id="facs_141_tr_1_tl_20"/>
+            <zone points="281,2894 2283,2891 2283,2833 281,2833" rendition="Line" xml:id="facs_141_tr_1_tl_21"/>
+            <zone points="276,2968 2307,2974 2307,2918 2068,2910 276,2913" rendition="Line" xml:id="facs_141_tr_1_tl_23"/>
+            <zone points="276,3045 449,3077 2318,3045 2318,2987 595,3000 329,2966 276,2997" rendition="Line" xml:id="facs_141_tr_1_tl_25"/>
+            <zone points="271,3120 1245,3125 1245,3093 1075,3069 271,3074" rendition="Line" xml:id="facs_141_tr_1_tl_26"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0141.jpg" n="part1_p141.jpg" xml:id="img_0141" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p141.jpg"/>
+            
+            <ab facs="#facs_141_tr_1">
+               <lb facs="#facs_141_tr_1_tl_1" n="N001"/>[138]
+               <lb facs="#facs_141_tr_1_tl_2" n="N002"/>screen,* and the screen in this case IS that which I call the experience of <ultimate_concern>ultimate concern</ultimate_concern>. If vou have
+               <lb facs="#facs_141_tr_1_tl_3" n="N003"/>this experience, then you can do what the projector does, namely can have a little picture of the father,
+               <lb facs="#facs_141_tr_1_tl_4" n="N004"/>then you put it on the screen, but this screen is the ultimate, is the experience of the infinite, of the
+               <lb facs="#facs_141_tr_1_tl_5" n="N005"/>eternal, of the unconditional. And this IS NOT the father, but the father is only the little picture
+               <lb facs="#facs_141_tr_1_tl_6" n="N006"/>which is put on it. Now this simple technical consideration is devastating for all <rs type="keyword" ref="#Projection_theories">projection theories</rs>,
+               <lb facs="#facs_141_tr_1_tl_7" n="N007"/>and you will hear and read, in the psychoanalytic literature, a lot of these projection theories. They
+               <lb facs="#facs_141_tr_1_tl_8" n="N008"/>all are NONSENSE, if they don’t do what the older and wiser projection theories did, for instance
+               <lb facs="#facs_141_tr_1_tl_9" n="N009"/><rs type="person" key="Feuerbach, Ludwig">Feuerbach</rs>, more than 100 years ago, when he said that <rs type="keyword" ref="#RELIGION">religion</rs> is a projection of our infinite desire
+               <lb facs="#facs_141_tr_1_tl_10" n="N010"/>and infinite love. Now if THIS is the case, then infinity is the screen and then this theory makes sense.
+               <lb facs="#facs_141_tr_1_tl_11" n="N011"/>But if we HAVE that screen, namely ultimate concern, then we can say, "All right, now come with
+               <lb facs="#facs_141_tr_1_tl_12" n="N012"/>your <rs type="keyword" ref="#Psychology">psychology</rs>. You are probably right. And I know what it means to interpret the Calvinistic God
+               <lb facs="#facs_141_tr_1_tl_13" n="N013"/>in terms of father-image-- or in this country, a little bit more of mother-image <hi style="font-style: italic;">[smiling; laughter]--</hi>
+               <lb facs="#facs_141_tr_1_tl_14" n="N014"/>to see how the concrete traits are formed by the actual experiences our unconscious has with our
+               <lb facs="#facs_141_tr_1_tl_15" n="N015"/>parents, with our early friends, with persons who have impressed us very early, even with experiences
+               <lb facs="#facs_141_tr_1_tl_16" n="N016"/>with nature, with dreams, and what not -- everything! I give you all the apparatuses in the world for
+               <lb facs="#facs_141_tr_1_tl_17" n="N017"/>projection purposes -- psychology, in that case. And I give you one more, namely "<rs type="keyword" ref="#Collective_unconscious">collective unconscious</rs>,
+               <lb facs="#facs_141_tr_1_tl_18" n="N018"/>—————————————-
+               <lb facs="#facs_141_tr_1_tl_20" n="N019"/><hi style="font-style: italic;">[Remarks after the lecture] :</hi> The screen is the area of uncondtional [sic.] concern. The father- or mother-
+               <lb facs="#facs_141_tr_1_tl_21" n="N020"/>image can be projected onto the screen, thus deifying it into a god or goddess. <hi style="font-style: italic;">[Question about <rs type="person" key="Fromm, Erich">Erich</rs></hi>
+               <lb facs="#facs_141_tr_1_tl_23" n="N021"/><hi style="font-style: italic;"><rs type="person" key="Fromm, Erich">Fromm</rs>, who says that when we become mature, we should get rid of the authoritarian father-image of</hi>
+               <lb facs="#facs_141_tr_1_tl_25" n="N022"/><hi style="font-style: italic;">God):</hi> But <rs type="keyword" ref="#Love">love</rs> then becomes the symbol for the unconditional, for Fromm. We had a whole evening's
+               <lb facs="#facs_141_tr_1_tl_26" n="N023"/>discussion with him on the ultimacy of love. ...
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

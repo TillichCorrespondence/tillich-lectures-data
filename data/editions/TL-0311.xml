@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p027</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p027</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_27">
+         <graphic url="TL-0311.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RDTNCRYZTWABITDFAOZXKWFL&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="226,224 2179,224 2179,1810 226,1810" rendition="TextRegion" xml:id="facs_27_tr_1">
+            <zone points="1069,277 1086,279 1104,294 1151,294 1156,289 1168,294 1178,284 1193,284 1196,214 1151,219 1131,214 1106,239 1071,239" rendition="Line" xml:id="facs_27_tr_1_tl_1"/>
+            <zone points="219,438 2013,438 2103,428 2103,379 219,401" rendition="Line" xml:id="facs_27_tr_1_tl_2"/>
+            <zone points="222,593 1295,590 1315,536 543,566 371,541 222,570" rendition="Line" xml:id="facs_27_tr_1_tl_3"/>
+            <zone points="404,737 2098,735 2135,690 406,683" rendition="Line" xml:id="facs_27_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="232,897 2175,879 2175,822 234,850" rendition="Line" xml:id="facs_27_tr_1_tl_5"/>
+            <zone points="214,1046 1948,1049 2155,1031 2155,979 214,1024" rendition="Line" xml:id="facs_27_tr_1_tl_6"/>
+            <zone points="212,1196 1726,1203 2058,1186 2058,1136 212,1173" rendition="Line" xml:id="facs_27_tr_1_tl_7"/>
+            <zone points="219,1350 1941,1350 2085,1333 2085,1283 219,1328" rendition="Line" xml:id="facs_27_tr_1_tl_8"/>
+            <zone points="224,1510 2140,1500 2140,1435 224,1477" rendition="Line" xml:id="facs_27_tr_1_tl_9"/>
+            <zone points="222,1652 1849,1664 2128,1639 2128,1584 222,1607" rendition="Line" xml:id="facs_27_tr_1_tl_10"/>
+            <zone points="224,1804 319,1861 635,1861 2113,1791 2133,1736 224,1756" rendition="Line" xml:id="facs_27_tr_1_tl_11"/>
+         </zone>
+         <zone points="229,1878 2221,1878 2221,3031 229,3031" rendition="TextRegion" xml:id="facs_27_tr_3">
+            <zone points="219,1958 2033,1943 2053,1886 219,1908" rendition="Line" xml:id="facs_27_tr_3_tl_1"/>
+            <zone points="219,2115 2083,2100 2137,2035 219,2058" rendition="Line" xml:id="facs_27_tr_3_tl_2"/>
+            <zone points="222,2257 1403,2277 2075,2245 2075,2190 222,2212" rendition="Line" xml:id="facs_27_tr_3_tl_3"/>
+            <zone points="214,2414 1034,2436 2020,2404 2020,2362 214,2382" rendition="Line" xml:id="facs_27_tr_3_tl_4"/>
+            <zone points="234,2566 381,2628 1507,2554 1702,2621 1791,2546 2108,2546 2108,2489 1682,2466 1607,2519 237,2499" rendition="Line" xml:id="facs_27_tr_3_tl_5"/>
+            <zone points="214,2725 934,2815 1129,2715 2172,2740 2220,2638 1221,2658 1146,2578 1011,2573 747,2663 214,2688" rendition="Line" xml:id="facs_27_tr_3_tl_6"/>
+            <zone points="214,2867 1408,2857 1789,2947 2137,2882 2140,2745 214,2840" rendition="Line" xml:id="facs_27_tr_3_tl_7"/>
+            <zone points="214,3027 2080,3007 2205,2997 2207,2945 214,2994" rendition="Line" xml:id="facs_27_tr_3_tl_8"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0311.jpg" n="part2_p027.jpg" xml:id="img_0027" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p027.jpg"/>
+            
+            <ab facs="#facs_27_tr_1">
+               <lb facs="#facs_27_tr_1_tl_1" n="N001"/>[307]
+               <lb facs="#facs_27_tr_1_tl_2" n="N002"/>itself--not at all visible. You are in it, but you don't go beyond it. And if you go beyond it to
+               <lb facs="#facs_27_tr_1_tl_3" n="N003"/>something else, as in symbolistic art, then it is bad art.
+               <lb facs="#facs_27_tr_1_tl_4" n="N004"/>This was the second reason. But both reasons fell down in the course of more intensive
+               <lb facs="#facs_27_tr_1_tl_5" n="N005"/>reflection and of discussions in mutual seminars at Columbia University which I had together with
+               <lb facs="#facs_27_tr_1_tl_6" n="N006"/>my friend and philosophical critic Jack Randall [John H. Randall, Jr.] whom some of you know.
+               <lb facs="#facs_27_tr_1_tl_7" n="N007"/>In these discussions, which lasted for several semesters, I finally was convinced that the
+               <lb facs="#facs_27_tr_1_tl_8" n="N008"/>definition of symbol as I gave it to you last Tuesday (the pointing-beyond-itself, the figurative
+               <lb facs="#facs_27_tr_1_tl_9" n="N009"/>character, the participation in the power of that which IS symbolized, the opening up of a reality
+               <lb facs="#facs_27_tr_1_tl_10" n="N010"/>which otherwise is not opened up but closed, the opening up of levels of the soul)---that all these
+               <lb facs="#facs_27_tr_1_tl_11" n="N011"/>characteristics also fit the artistic realm, so that my hesitation could be overcome. Now the first
+            </ab>
+            <ab facs="#facs_27_tr_3">
+               <lb facs="#facs_27_tr_3_tl_1" n="N001"/>argument against it was easily dismissed simply by saying that if every artistic expression has
+               <lb facs="#facs_27_tr_3_tl_2" n="N002"/>symbolic character, it is INDEED bad art to invent special symbols which immediately bring you
+               <lb facs="#facs_27_tr_3_tl_3" n="N003"/>OUT of the real realm of reality which is the material for every symbolism. So that argument
+               <lb facs="#facs_27_tr_3_tl_4" n="N004"/>didn't stand. The other argument didn't stand either: if we define sharply what it means,
+               <lb facs="#facs_27_tr_3_tl_5" n="N005"/>"pointing beyond," "going beyond"---and this analysis I will now give you I will start with that
+               <lb facs="#facs_27_tr_3_tl_6" n="N006"/>art which is more my hobby, the visual arts, and especially painting. I know certainly that this is not
+               <lb facs="#facs_27_tr_3_tl_7" n="N007"/>the hobby of Americans, especially Protestant Americans, where especially music and poetry are
+               <lb facs="#facs_27_tr_3_tl_8" n="N008"/>predominant. Nevertheless, just for this reason it is good that I try to use the visual arts as my main
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

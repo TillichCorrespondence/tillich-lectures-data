@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p060</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p060</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_60">
+         <graphic url="TL-0060.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PWWHDGIGOXBNIBAFFATFNSDD&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="99,140 89,3495 2251,3495 2264,140" rendition="TextRegion" xml:id="facs_60_tr_2">
+            <zone points="1200,300 1344,305 1345,275 1201,270" rendition="Line" xml:id="facs_60_l"/>
+            <zone points="303,497 852,463 929,497 1731,507 1849,449 2140,466 2140,413 802,418 730,379 687,415 303,360" rendition="Line" xml:id="facs_60_tr_2_tl_1"/>
+            <zone points="327,555 2113,547 2113,499 2024,495 327,504" rendition="Line" xml:id="facs_60_tr_2_tl_2"/>
+            <zone points="322,620 1520,636 1520,591 1407,576 322,581" rendition="Line" xml:id="facs_60_tr_2_tl_3"/>
+            <zone points="624,708 2245,732 2245,675 2144,656 624,663" rendition="Line" xml:id="facs_60_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="324,790 756,788 910,836 2209,814 2176,747 324,749" rendition="Line" xml:id="facs_60_tr_2_tl_5"/>
+            <zone points="322,879 2024,879 2087,915 2063,833 322,838" rendition="Line" xml:id="facs_60_tr_2_tl_6"/>
+            <zone points="317,963 620,965 617,920 466,920 449,910 439,920 315,922" rendition="Line" xml:id="facs_60_tr_2_tl_7"/>
+            <zone points="612,1129 680,1172 891,1177 1967,1143 1967,1069 612,1066" rendition="Line" xml:id="facs_60_tr_2_tl_8" subtype="paragraph"/>
+            <zone points="317,1205 881,1203 936,1241 2248,1220 2248,1167 2152,1141 891,1186 317,1155" rendition="Line" xml:id="facs_60_tr_2_tl_9"/>
+            <zone points="310,1316 365,1350 1796,1316 1767,1234 310,1265" rendition="Line" xml:id="facs_60_tr_2_tl_10"/>
+            <zone points="615,1462 2176,1474 2176,1422 2113,1414 711,1426 615,1393" rendition="Line" xml:id="facs_60_tr_2_tl_11" subtype="paragraph"/>
+            <zone points="310,1546 831,1566 869,1542 1090,1549 1090,1506 1018,1494 872,1520 843,1491 504,1491 459,1515 310,1498" rendition="Line" xml:id="facs_60_tr_2_tl_12"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0060.jpg" n="part1_p060.jpg" xml:id="img_0060" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p060.jpg"/>
+            
+            <ab facs="#facs_60_tr_2">
+               <lb facs="#facs_60_l" n="N001"/>[57]
+               <lb facs="#facs_60_tr_2_tl_1" n="N002"/>as in all great individuals, to overcome these splits of ultimate concern. One wants to
+               <lb facs="#facs_60_tr_2_tl_2" n="N003"/>go beyond the different claims, to one ultimate claim. One wants to go beyond the
+               <lb facs="#facs_60_tr_2_tl_3" n="N004"/>conflicting idols to the ultimate which is really ultimate.
+               <lb facs="#facs_60_tr_2_tl_4" n="N005"/>When we have time to speak about the different types of faith and religion,
+               <lb facs="#facs_60_tr_2_tl_5" n="N006"/>we would find that here is the root of the different types of the great religions, namely
+               <lb facs="#facs_60_tr_2_tl_6" n="N007"/>the different ways in which these religions try to overcome the destructive split of
+               <lb facs="#facs_60_tr_2_tl_7" n="N008"/>consciousness.
+               <lb facs="#facs_60_tr_2_tl_8" n="N009"/>Now in this way, history leads in the direction of monotheism.
+               <lb facs="#facs_60_tr_2_tl_9" n="N010"/>But let me state frankly: MONOTHEISM IS NOT NECESSARILY A SOLUTION, because
+               <lb facs="#facs_60_tr_2_tl_10" n="N011"/>even the monotheistic God can become a god of idolatrous character!
+               <lb facs="#facs_60_tr_2_tl_11" n="N012"/>This is the point from which I will start and finish this whole discussion
+               <lb facs="#facs_60_tr_2_tl_12" n="N013"/>about religious [symbols] next time.
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

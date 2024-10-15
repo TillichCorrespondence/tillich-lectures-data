@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p078</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p078</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_78">
+         <graphic url="TL-0362.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=EYEFXNTTEQHOKYEQFJQUJCKY&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="280,317 2316,317 2316,1765 280,1765" rendition="TextRegion" xml:id="facs_78_tr_1">
+            <zone points="1127,381 1150,383 1155,388 1201,388 1214,399 1229,394 1239,381 1252,381 1249,300 1229,302 1211,322 1188,320 1175,307 1155,322 1125,322" rendition="Line" xml:id="facs_78_tr_1_tl_1"/>
+            <zone points="287,531 906,541 906,487 795,487 777,470 287,477" rendition="Line" xml:id="facs_78_tr_1_tl_2"/>
+            <zone points="284,625 2155,635 2155,569 2092,564 284,564" rendition="Line" xml:id="facs_78_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="274,769 2150,790 2150,724 2087,721 274,744" rendition="Line" xml:id="facs_78_tr_1_tl_4"/>
+            <zone points="272,924 361,942 1036,934 1036,878 713,878 693,899 665,878 307,878 272,899" rendition="Line" xml:id="facs_78_tr_1_tl_5"/>
+            <zone points="272,1155 2257,1165 2257,1076 272,1117" rendition="Line" xml:id="facs_78_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="272,1302 1914,1320 2313,1307 2313,1254 272,1277" rendition="Line" xml:id="facs_78_tr_1_tl_7"/>
+            <zone points="274,1472 2254,1462 2292,1406 274,1412" rendition="Line" xml:id="facs_78_tr_1_tl_8"/>
+            <zone points="267,1607 2265,1612 2265,1556 267,1559" rendition="Line" xml:id="facs_78_tr_1_tl_9"/>
+            <zone points="267,1762 2143,1772 2270,1759 2270,1701 267,1724" rendition="Line" xml:id="facs_78_tr_1_tl_10"/>
+         </zone>
+         <zone points="268,1848 2292,1848 2292,2673 268,2673" rendition="TextRegion" xml:id="facs_78_tr_3">
+            <zone points="269,1904 2133,1919 2133,1853 269,1856" rendition="Line" xml:id="facs_78_tr_3_tl_1"/>
+            <zone points="267,2059 2226,2069 2188,2006 267,2011" rendition="Line" xml:id="facs_78_tr_3_tl_2"/>
+            <zone points="259,2201 2168,2216 2193,2155 259,2176" rendition="Line" xml:id="facs_78_tr_3_tl_3"/>
+            <zone points="267,2364 2239,2366 2239,2308 267,2310" rendition="Line" xml:id="facs_78_tr_3_tl_4"/>
+            <zone points="254,2506 2056,2526 2143,2516 2143,2455 254,2480" rendition="Line" xml:id="facs_78_tr_3_tl_5"/>
+            <zone points="256,2661 2001,2678 2285,2661 2285,2605 256,2630" rendition="Line" xml:id="facs_78_tr_3_tl_6"/>
+         </zone>
+         <zone points="140,2759 2224,2759 2224,3485 140,3485" rendition="TextRegion" xml:id="facs_78_tr_2">
+            <zone points="251,2818 1264,2821 1264,2765 251,2785" rendition="Line" xml:id="facs_78_tr_2_tl_1"/>
+            <zone points="249,2965 1681,2980 2201,2965 2204,2920 251,2899" rendition="Line" xml:id="facs_78_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="249,3115 2188,3118 2221,3054 251,3064" rendition="Line" xml:id="facs_78_tr_2_tl_3"/>
+            <zone points="249,3272 2173,3272 2173,3201 614,3265 251,3219" rendition="Line" xml:id="facs_78_tr_2_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0362.jpg" n="part2_p078.jpg" xml:id="img_0078" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p078.jpg"/>
+            
+            <ab facs="#facs_78_tr_1">
+               <lb facs="#facs_78_tr_1_tl_1" n="N001"/>[357]
+               <lb facs="#facs_78_tr_1_tl_2" n="N002"/>--not a visible triumph as such.
+               <lb facs="#facs_78_tr_1_tl_3" n="N003"/>31) REMBRANDT, <hi style="font-style: italic;">DESCENT FROM THE CROSS</hi>--Now here I only ask you to look at it,
+               <lb facs="#facs_78_tr_1_tl_4" n="N004"/>to compare it with this beautifying naturalism which we have seen, and the infinite superiority,
+               <lb facs="#facs_78_tr_1_tl_5" n="N005"/>religiously speaking, of such a picture.
+               <lb facs="#facs_78_tr_1_tl_6" n="N006"/>32) GRÜNEWALD--I go a little bit back now to the picture which many people, including myself,
+               <lb facs="#facs_78_tr_1_tl_7" n="N007"/>consider to be the greatest picture ever painted in Germany. It was in the beginning of the Reformation
+               <lb facs="#facs_78_tr_1_tl_8" n="N008"/>period, beginning of the 16th century, earlier than Rembrandt. And you keep this picture of the Cross
+               <lb facs="#facs_78_tr_1_tl_9" n="N009"/>in your mind because I show you at the end a modern picture which is very similar. Now here, in the
+               <lb facs="#facs_78_tr_1_tl_10" n="N010"/>extreme ugliness of it, I also would ask, would your congregations, most of them, accept this picture
+            </ab>
+            <ab facs="#facs_78_tr_3">
+               <lb facs="#facs_78_tr_3_tl_1" n="N001"/>in the church? Or would you say this is blasphemy of the Son of God, this His body is really
+               <lb facs="#facs_78_tr_3_tl_2" n="N002"/>as it is described in Isaiah 53, full of green spots, expressions the decay of the body, and the swelling
+               <lb facs="#facs_78_tr_3_tl_3" n="N003"/>of the feet and of the other things. That is expressionism, if you want, but expressionism in terms
+               <lb facs="#facs_78_tr_3_tl_4" n="N004"/>of something which is at the same time concrete. It is again a transitory moment here, and therefore
+               <lb facs="#facs_78_tr_3_tl_5" n="N005"/>one of the greatest. He and Giotto and Rembrandt are the great transitories [sic.] in whom the spirit
+               <lb facs="#facs_78_tr_3_tl_6" n="N006"/>of what I called expressionism is united with understanding of the natural forms in a way which cannot
+            </ab>
+            <ab facs="#facs_78_tr_2">
+               <lb facs="#facs_78_tr_2_tl_1" n="N001"/>artificially be produced and certainly not imitated.
+               <lb facs="#facs_78_tr_2_tl_2" n="N002"/>33) GRÜNEWALD, <hi style="font-style: italic;">RESURRECTION</hi>--It is on the same [Isenheim] altarpiece--and I want to
+               <lb facs="#facs_78_tr_2_tl_3" n="N003"/>say this is almost the ONLY picture of resurrection which I personally can accept because it doesn't
+               <lb facs="#facs_78_tr_2_tl_4" n="N004"/>make the resurrection into a physical event of special events of a special body, but it puts the body
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

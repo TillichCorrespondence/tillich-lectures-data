@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p069</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p069</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_69">
+         <graphic url="TL-0353.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=IQJNSSVROFTHUMXUKDOJHFZQ&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="208,308 2277,308 2277,2496 208,2496" rendition="TextRegion" xml:id="facs_69_tr_1">
+            <zone points="1070,373 1088,370 1098,381 1121,378 1126,370 1142,381 1159,378 1170,383 1175,378 1190,378 1187,291 1149,294 1142,289 1116,294 1106,304 1067,306" rendition="Line" xml:id="facs_69_tr_1_tl_1"/>
+            <zone points="217,521 2125,534 2058,467 217,485" rendition="Line" xml:id="facs_69_tr_1_tl_2"/>
+            <zone points="217,674 2155,684 2155,626 217,626" rendition="Line" xml:id="facs_69_tr_1_tl_3"/>
+            <zone points="222,835 2012,825 1908,776 222,776" rendition="Line" xml:id="facs_69_tr_1_tl_4"/>
+            <zone points="222,978 2270,986 2270,932 2117,927 222,930" rendition="Line" xml:id="facs_69_tr_1_tl_6"/>
+            <zone points="209,1124 1949,1142 2130,1134 2130,1078 209,1098" rendition="Line" xml:id="facs_69_tr_1_tl_7"/>
+            <zone points="212,1279 1083,1282 1083,1228 924,1228 904,1249 884,1228 299,1226 268,1246 212,1226" rendition="Line" xml:id="facs_69_tr_1_tl_8"/>
+            <zone points="209,1428 2143,1448 2107,1366 209,1369" rendition="Line" xml:id="facs_69_tr_1_tl_9" subtype="paragraph"/>
+            <zone points="209,1583 2143,1588 2143,1530 2079,1527 209,1527" rendition="Line" xml:id="facs_69_tr_1_tl_10"/>
+            <zone points="209,1734 1701,1742 1701,1678 209,1680" rendition="Line" xml:id="facs_69_tr_1_tl_12"/>
+            <zone points="209,1885 2112,1895 2076,1831 209,1851" rendition="Line" xml:id="facs_69_tr_1_tl_13"/>
+            <zone points="207,2033 2140,2038 2140,1982 1772,1969 207,1984" rendition="Line" xml:id="facs_69_tr_1_tl_14"/>
+            <zone points="199,2181 1959,2196 2125,2189 2125,2135 199,2155" rendition="Line" xml:id="facs_69_tr_1_tl_15" subtype="paragraph"/>
+            <zone points="207,2339 1974,2352 2191,2339 2191,2283 207,2306" rendition="Line" xml:id="facs_69_tr_1_tl_16"/>
+            <zone points="194,2482 2074,2500 2209,2485 2209,2431 194,2457" rendition="Line" xml:id="facs_69_tr_1_tl_17"/>
+         </zone>
+         <zone points="56,2577 2164,2577 2164,3476 56,3476" rendition="TextRegion" xml:id="facs_69_tr_2">
+            <zone points="197,2643 2074,2646 2074,2584 197,2592" rendition="Line" xml:id="facs_69_tr_2_tl_1"/>
+            <zone points="194,2789 2048,2789 2109,2784 2109,2725 194,2758" rendition="Line" xml:id="facs_69_tr_2_tl_2"/>
+            <zone points="189,2939 1951,2942 2046,2937 2046,2878 192,2909" rendition="Line" xml:id="facs_69_tr_2_tl_3"/>
+            <zone points="189,3090 2066,3093 2089,3031 189,3059" rendition="Line" xml:id="facs_69_tr_2_tl_4"/>
+            <zone points="192,3243 2158,3253 2158,3185 192,3195" rendition="Line" xml:id="facs_69_tr_2_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0353.jpg" n="part2_p069.jpg" xml:id="img_0069" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p069.jpg"/>
+            
+            <ab facs="#facs_69_tr_1">
+               <lb facs="#facs_69_tr_1_tl_1" n="N001"/>[348]
+               <lb facs="#facs_69_tr_1_tl_2" n="N002"/>6) Chirico: <hi style="font-style: italic;">MELANCHOLY AND MYSTERY OF A STREET</hi>--This is surrealism. Surrealism
+               <lb facs="#facs_69_tr_1_tl_3" n="N003"/>has the character that the elements of it are almost photographic, as for instance this building, but
+               <lb facs="#facs_69_tr_1_tl_4" n="N004"/>that the composition of these elements is an expression of the unconscious elements in ourselves
+               <lb facs="#facs_69_tr_1_tl_6" n="N005"/>which are in us and in which we receive the world. A way quite different from our conscious encounter.
+               <lb facs="#facs_69_tr_1_tl_7" n="N006"/>And these unconscious elements show an abyss below the world of conscious encounter, which is
+               <lb facs="#facs_69_tr_1_tl_8" n="N007"/>revealed in this kind of surrealistic pictures.
+               <lb facs="#facs_69_tr_1_tl_9" n="N008"/>7) Tanguy: <hi style="font-style: italic;">HEREDITY OF ACQUIRED CHARACTERISTICS</hi>--Here you have the same thing,
+               <lb facs="#facs_69_tr_1_tl_10" n="N009"/>but perhaps something else added to it. If you ask me, I cannot answer, and I will not answer, but
+               <lb facs="#facs_69_tr_1_tl_12" n="N010"/>I will answer with something else, what this picture means for me: it means possibilities
+               <lb facs="#facs_69_tr_1_tl_13" n="N011"/>of things in time and space which do not appear there, but are results of the continuing creativity
+               <lb facs="#facs_69_tr_1_tl_14" n="N012"/>of man. We will come to back to [sic.] this in one of our great sculptures, in one of the next pictures.
+               <lb facs="#facs_69_tr_1_tl_15" n="N013"/>8) Chirico, <hi style="font-style: italic;">THE CONSOLER</hi>--Now here the problem, why I used this, was the disappearance
+               <lb facs="#facs_69_tr_1_tl_16" n="N014"/>of the human face. There we have a great problem in modern art. I spoke very intensively about the
+               <lb facs="#facs_69_tr_1_tl_17" n="N015"/>question of portrait, the last time. And I said that the portrait expresses the incomparable uniqueness
+            </ab>
+            <ab facs="#facs_69_tr_2">
+               <lb facs="#facs_69_tr_2_tl_1" n="N001"/>of the individual person in the eternal dimension. Now here this face is gone, and the difficulty
+               <lb facs="#facs_69_tr_2_tl_2" n="N002"/>of ALL expressionistic art is that the portrait is supposed to be similar--i.e., naturalism--and that
+               <lb facs="#facs_69_tr_2_tl_3" n="N003"/>at the same time, as a work of art, it is supposed to express, whereby the naturalistic surface is
+               <lb facs="#facs_69_tr_2_tl_4" n="N004"/>disrupted or, as here, completely disappears. These of you who have read a little about it know
+               <lb facs="#facs_69_tr_2_tl_5" n="N005"/>that there is a controversy--some Catholic authorities take the point that the human face is divinely
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

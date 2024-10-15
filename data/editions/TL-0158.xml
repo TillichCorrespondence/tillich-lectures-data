@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p158</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p158</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_158">
+         <graphic url="TL-0158.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QMCTBSECSJEHIFQDYPMBWGHO&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="170,260 170,3500 2379,3500 2379,260" rendition="TextRegion" xml:id="facs_158_tr_1">
+            <zone points="1218,318 1231,318 1259,334 1322,334 1329,326 1342,326 1342,270 1281,270 1271,260 1251,281 1218,281" rendition="Line" xml:id="facs_158_tr_1_tl_1"/>
+            <zone points="344,437 460,498 801,485 854,445 925,485 1314,483 1357,452 1357,404 1266,387 452,404 394,369 344,404" rendition="Line" xml:id="facs_158_tr_1_tl_2"/>
+            <zone points="574,551 2252,566 2252,506 574,526" rendition="Line" xml:id="facs_158_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="351,682 2270,687 2270,627 351,642" rendition="Line" xml:id="facs_158_tr_1_tl_4"/>
+            <zone points="344,789 2227,796 2227,748 2113,733 344,763" rendition="Line" xml:id="facs_158_tr_1_tl_5"/>
+            <zone points="346,902 2303,925 2303,857 2232,854 346,862" rendition="Line" xml:id="facs_158_tr_1_tl_6"/>
+            <zone points="344,1021 667,1062 2141,1041 2141,978 1969,963 503,963 344,998" rendition="Line" xml:id="facs_158_tr_1_tl_7"/>
+            <zone points="344,1165 2161,1185 2161,1102 2062,1087 344,1097" rendition="Line" xml:id="facs_158_tr_1_tl_8"/>
+            <zone points="576,1256 1729,1266 1812,1317 2184,1269 2184,1213 576,1211" rendition="Line" xml:id="facs_158_tr_1_tl_9" subtype="paragraph"/>
+            <zone points="351,1372 533,1395 629,1377 943,1390 943,1327 917,1324 655,1324 632,1347 607,1324 518,1324 490,1347 468,1324 402,1322 351,1342" rendition="Line" xml:id="facs_158_tr_1_tl_10"/>
+            <zone points="344,1501 2376,1501 2376,1436 344,1463" rendition="Line" xml:id="facs_158_tr_1_tl_12"/>
+            <zone points="344,1625 478,1668 607,1613 2270,1620 2270,1570 2158,1557 344,1572" rendition="Line" xml:id="facs_158_tr_1_tl_13"/>
+            <zone points="589,1739 2242,1747 2217,1678 589,1688" rendition="Line" xml:id="facs_158_tr_1_tl_15"/>
+            <zone points="346,1855 2280,1860 2280,1805 1898,1792 346,1802" rendition="Line" xml:id="facs_158_tr_1_tl_16"/>
+            <zone points="346,1974 485,2004 596,1969 1557,1977 1557,1916 1516,1944 1312,1893 1256,1928 594,1939 346,1906" rendition="Line" xml:id="facs_158_tr_1_tl_17"/>
+            <zone points="339,2090 2315,2098 2315,2040 2088,2030 339,2040" rendition="Line" xml:id="facs_158_tr_1_tl_19"/>
+            <zone points="344,2196 2244,2222 2244,2148 2138,2123 1719,2176 1463,2141 344,2174" rendition="Line" xml:id="facs_158_tr_1_tl_20"/>
+            <zone points="341,2320 2272,2333 2272,2275 1977,2262 341,2262" rendition="Line" xml:id="facs_158_tr_1_tl_21"/>
+            <zone points="339,2439 2338,2439 2338,2383 2164,2376 2067,2409 1949,2373 339,2391" rendition="Line" xml:id="facs_158_tr_1_tl_22"/>
+            <zone points="336,2550 455,2565 743,2550 824,2573 978,2555 978,2505 336,2507" rendition="Line" xml:id="facs_158_tr_1_tl_23"/>
+            <zone points="559,2669 680,2672 736,2725 1117,2715 1165,2669 2143,2677 2143,2606 559,2608" rendition="Line" xml:id="facs_158_tr_1_tl_24" subtype="paragraph"/>
+            <zone points="331,2783 751,2821 2262,2790 2262,2735 2133,2732 331,2758" rendition="Line" xml:id="facs_158_tr_1_tl_25"/>
+            <zone points="331,2904 2265,2912 2265,2851 2070,2836 331,2876" rendition="Line" xml:id="facs_158_tr_1_tl_26"/>
+            <zone points="329,3023 864,3023 1079,3078 1779,3046 1779,2972 1726,2957 329,2998" rendition="Line" xml:id="facs_158_tr_1_tl_27"/>
+            <zone points="554,3142 1347,3172 2249,3139 2249,3084 554,3094" rendition="Line" xml:id="facs_158_tr_1_tl_28" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0158.jpg" n="part1_p158.jpg" xml:id="img_0158" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p158.jpg"/>
+            
+            <ab facs="#facs_158_tr_1">
+               <lb facs="#facs_158_tr_1_tl_1" n="N001"/>[155]
+               <lb facs="#facs_158_tr_1_tl_2" n="N002"/>2) Legendary stories. 3) Mythological expressions.
+               <lb facs="#facs_158_tr_1_tl_3" n="N003"/>In many cases it is impossible to separate these elements from each other. It is almost
+               <lb facs="#facs_158_tr_1_tl_4" n="N004"/>impossible to separate, let us say in the Genesis story, the legendary from the mythological, and to
+               <lb facs="#facs_158_tr_1_tl_5" n="N005"/>discover in the stories of the Patriarchs some elements of what we usually call historical. In the
+               <lb facs="#facs_158_tr_1_tl_6" n="N006"/>New Testament there are anecdotal stories (as one should call them, as the stylistic characterization)
+               <lb facs="#facs_158_tr_1_tl_7" n="N007"/>about Jesus. In most cases it is very difficult and even impossible to state definitely what is
+               <lb facs="#facs_158_tr_1_tl_8" n="N008"/>historical, what is legendary. But it is possible to find mythological elements in many places.
+               <lb facs="#facs_158_tr_1_tl_9" n="N009"/>The three elements can be distinguished in the following way. Historical are those
+               <lb facs="#facs_158_tr_1_tl_10" n="N010"/>which can be made probable, highly or lowly probable, by historical research,
+               <lb facs="#facs_158_tr_1_tl_12" n="N011"/>as events which couldn’t have been (ideally speaking) photographed, phonographed and psychographed.
+               <lb facs="#facs_158_tr_1_tl_13" n="N012"/><rs type="keyword" ref="#Legendary">Legendary ---where the meaning, the understanding of the meaning, of an event produces a kind of
+               <lb break="no" facs="#facs_158_tr_1_tl_15" n="N013"/>story which transcends, goes beyond, that which can be photographed and phonographed,
+               <lb break="no" facs="#facs_158_tr_1_tl_16" n="N014"/>where elements are involved which still remain in the realm of the temporal and the spatial, and the
+               <lb break="no" facs="#facs_158_tr_1_tl_17" n="N015"/>human, but which transcend the empirical historical reality.</rs> I talked a few months ago with
+               <lb facs="#facs_158_tr_1_tl_19" n="N016"/>someone who made inquiries into the figure of Washington and told me how, in all schools, legendary
+               <lb facs="#facs_158_tr_1_tl_20" n="N017"/>elements (of which the real historians know) are still told and taught. And I added, "Rightly so,"
+               <lb facs="#facs_158_tr_1_tl_21" n="N018"/>because Washington is a symbolic figure as well as an empirically historical figure. And sometimes,
+               <lb facs="#facs_158_tr_1_tl_22" n="N019"/>not so much with national heroes but almost always in connection with religious figures, mythological
+               <lb facs="#facs_158_tr_1_tl_23" n="N020"/>elements come into the picture.
+               <lb facs="#facs_158_tr_1_tl_24" n="N021"/><rs type="keyword" ref="#Mythological">Now mythological elements are elements in which that which is ultimate, divine,
+               <lb break="no" facs="#facs_158_tr_1_tl_25" n="N022"/>unconditional appears and acts in forms which are temporal, spatial, causal and determined by the
+               <lb break="no" facs="#facs_158_tr_1_tl_26" n="N023"/>categories of substance, quantity, quality, etc. Such mythological elements are stories of the gods,
+               <lb break="no" facs="#facs_158_tr_1_tl_27" n="N024"/>as the word <hi style="font-style: italic;">mythos</hi> says. And such elements are in all religious thought</rs>.
+               <lb facs="#facs_158_tr_1_tl_28" n="N025"/>Now historical research has made it obvious that there is no way of getting, with more
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

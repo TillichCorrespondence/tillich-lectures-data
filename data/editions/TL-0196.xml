@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p196</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p196</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_196">
+         <graphic url="TL-0196.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DFVCTJTYSSRNHDWKLJAUVCRR&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="29,178 29,3488 2391,3488 2391,178" rendition="TextRegion" xml:id="facs_196_tr_1">
+            <zone points="1162,240 1177,240 1195,252 1211,255 1219,250 1234,250 1239,255 1280,252 1278,178 1255,180 1242,175 1237,183 1226,183 1206,173 1195,185 1159,188" rendition="Line" xml:id="facs_196_tr_1_tl_1"/>
+            <zone points="335,371 1072,394 1162,451 1790,484 2182,451 2180,376 940,345 881,301 842,340 335,330" rendition="Line" xml:id="facs_196_tr_1_tl_2"/>
+            <zone points="335,526 2241,582 2241,526 2069,513 335,489" rendition="Line" xml:id="facs_196_tr_1_tl_3"/>
+            <zone points="330,678 2265,732 2262,667 327,611" rendition="Line" xml:id="facs_196_tr_1_tl_4"/>
+            <zone points="317,822 1425,853 1533,902 2198,897 2301,933 2386,891 2383,822 492,763 314,793" rendition="Line" xml:id="facs_196_tr_1_tl_5"/>
+            <zone points="314,982 348,989 379,979 520,979 629,989 629,930 502,922 314,930" rendition="Line" xml:id="facs_196_tr_1_tl_6"/>
+            <zone points="471,1123 2185,1180 2182,1131 2131,1126 469,1087" rendition="Line" xml:id="facs_196_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="301,1268 2192,1332 2190,1288 2061,1262 301,1239" rendition="Line" xml:id="facs_196_tr_1_tl_8"/>
+            <zone points="296,1422 1814,1468 2190,1525 2254,1520 2252,1420 294,1391" rendition="Line" xml:id="facs_196_tr_1_tl_9"/>
+            <zone points="301,1620 696,1638 920,1595 1700,1618 1775,1669 2262,1654 2259,1577 721,1561 299,1517" rendition="Line" xml:id="facs_196_tr_1_tl_10"/>
+            <zone points="281,1721 623,1739 768,1798 1116,1798 1231,1749 1373,1765 1373,1708 278,1695" rendition="Line" xml:id="facs_196_tr_1_tl_11"/>
+            <zone points="456,1888 510,1924 1092,1955 1450,1958 1512,1914 2174,1948 2172,1868 1633,1883 1533,1850 1502,1881 1409,1845 1304,1873 1226,1837 1118,1868 456,1821" rendition="Line" xml:id="facs_196_tr_1_tl_13" subtype="paragraph"/>
+            <zone points="276,2035 2053,2094 2182,2084 2182,2022 273,1979" rendition="Line" xml:id="facs_196_tr_1_tl_14"/>
+            <zone points="265,2172 2043,2246 2154,2236 2151,2172 263,2146" rendition="Line" xml:id="facs_196_tr_1_tl_15"/>
+            <zone points="268,2339 2228,2422 2226,2324 268,2275" rendition="Line" xml:id="facs_196_tr_1_tl_16"/>
+            <zone points="268,2522 773,2496 2182,2566 2200,2478 732,2465 263,2411" rendition="Line" xml:id="facs_196_tr_1_tl_18"/>
+            <zone points="247,2625 2244,2684 2241,2623 247,2599" rendition="Line" xml:id="facs_196_tr_1_tl_19"/>
+            <zone points="245,2780 757,2800 897,2854 1293,2854 1345,2811 2125,2852 2125,2769 245,2751" rendition="Line" xml:id="facs_196_tr_1_tl_20"/>
+            <zone points="242,2937 2239,2994 2210,2924 242,2898" rendition="Line" xml:id="facs_196_tr_1_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0196.jpg" n="part1_p196.jpg" xml:id="img_0196" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p196.jpg"/>
+            
+            <ab facs="#facs_196_tr_1">
+               <lb facs="#facs_196_tr_1_tl_1" n="N001"/>[192]
+               <lb facs="#facs_196_tr_1_tl_2" n="N002"/>they call themselves, do the same thing, and sometimes the knives are so sharp that they don't
+               <lb facs="#facs_196_tr_1_tl_3" n="N003"/>cut any more but break. In any case, the purpose of doing this is finally undercut, namely, to cut
+               <lb facs="#facs_196_tr_1_tl_4" n="N004"/>into reality, and to get out of reality its true essence, its true structure. This development will take
+               <lb facs="#facs_196_tr_1_tl_5" n="N005"/>place now in the same way in which it took place at the end of the 19th century, with the epistemological
+               <lb facs="#facs_196_tr_1_tl_6" n="N006"/>predominance.
+               <lb facs="#facs_196_tr_1_tl_7" n="N007"/>But however this may be, these tools are needed, and their sharpening is necessary; but
+               <lb facs="#facs_196_tr_1_tl_8" n="N008"/>they do not prejudice, in the name of faith, any special philosophy. And it is GOOD that in the
+               <lb facs="#facs_196_tr_1_tl_9" n="N009"/>creative periods of the Roman Catholic Church, before the Counter-Reformation, not only <rs type="person">Platonic</rs>
+               <lb facs="#facs_196_tr_1_tl_10" n="N010"/>but also <rs type="person">Aristotelian,</rs> and later on not only aristotelian [sic.] but also Platonic, philosophy were admitted,
+               <lb facs="#facs_196_tr_1_tl_11" n="N011"/>and, beyond this, <rs type="person">Augustinian</rs> voluntarism, and others.
+               <lb facs="#facs_196_tr_1_tl_13" n="N012"/><rs type="person">Kantianism</rs> was often combined with Protestantism. I remember when I was still a very
+               <lb facs="#facs_196_tr_1_tl_14" n="N013"/>young high school boy, I heard a lecture from a famous professor of theology of that time, at the
+               <lb facs="#facs_196_tr_1_tl_15" n="N014"/><rs type="place">Berlin</rs> University, who said that as <rs type="person">Plato</rs> is the philosopher of the Greek Orthodox and Anglican
+               <lb facs="#facs_196_tr_1_tl_16" n="N015"/>Church, as <rs type="person">Aristotle</rs> is the philosopher of the Roman Catholic Chuch, so <rs type="person">Kant </rs>is the philosopher of
+               <lb facs="#facs_196_tr_1_tl_18" n="N016"/>the Protestant Church. I was deeply impressed, but not convinced! And I am today less than ever!
+               <lb facs="#facs_196_tr_1_tl_19" n="N017"/>But this is not adequate to say. There are philosophical possibilities open to interpret the conceptual
+               <lb facs="#facs_196_tr_1_tl_20" n="N018"/>elements of ALL kinds, and even <rs type="person">Locke</rs> and <rs type="person">Hume</rs> are not excluded if you take them as hidden
+               <lb facs="#facs_196_tr_1_tl_21" n="N019"/><rs type="keyword" ref="#Metaphysics">metaphysicians.</rs> If you take them simply as epistemologists, then they wouldn't help you very much,
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

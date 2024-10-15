@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p095</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p095</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_95">
+         <graphic url="TL-0095.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HUPQJIRHNWHKOXNQCGFBFZIS&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="208,254 208,3104 2328,3104 2328,254" rendition="TextRegion" xml:id="facs_95_tr_1">
+            <zone points="1175,308 1196,308 1211,318 1218,318 1226,311 1233,316 1244,313 1269,316 1266,245 1254,245 1241,260 1228,263 1211,260 1206,268 1175,265" rendition="Line" xml:id="facs_95_tr_1_tl_1"/>
+            <zone points="329,473 2146,485 2146,432 2007,420 329,430" rendition="Line" xml:id="facs_95_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="324,561 2184,579 2184,521 1896,498 1837,531 1645,498 1582,531 324,526" rendition="Line" xml:id="facs_95_tr_1_tl_3"/>
+            <zone points="326,645 2080,652 2080,594 2012,591 326,586" rendition="Line" xml:id="facs_95_tr_1_tl_4"/>
+            <zone points="324,730 2161,736 2161,685 2055,670 324,677" rendition="Line" xml:id="facs_95_tr_1_tl_5"/>
+            <zone points="321,804 2103,821 2103,773 2014,758 321,766" rendition="Line" xml:id="facs_95_tr_1_tl_6"/>
+            <zone points="324,912 2032,905 2032,854 1971,842 324,849" rendition="Line" xml:id="facs_95_tr_1_tl_7"/>
+            <zone points="321,968 2151,988 2131,930 321,917" rendition="Line" xml:id="facs_95_tr_1_tl_8"/>
+            <zone points="316,1064 2113,1077 2113,1021 1928,1011 316,1016" rendition="Line" xml:id="facs_95_tr_1_tl_9"/>
+            <zone points="316,1142 2148,1155 2148,1107 1954,1094 316,1099" rendition="Line" xml:id="facs_95_tr_1_tl_10"/>
+            <zone points="308,1223 2164,1246 2161,1190 1906,1180 306,1185" rendition="Line" xml:id="facs_95_tr_1_tl_11"/>
+            <zone points="311,1317 1468,1312 1537,1365 1590,1324 2131,1324 2103,1269 1779,1292 1557,1231 1466,1292 311,1276" rendition="Line" xml:id="facs_95_tr_1_tl_12"/>
+            <zone points="311,1400 1918,1426 2136,1413 2136,1362 308,1342" rendition="Line" xml:id="facs_95_tr_1_tl_13"/>
+            <zone points="306,1481 2191,1491 2191,1443 2116,1433 306,1438" rendition="Line" xml:id="facs_95_tr_1_tl_14"/>
+            <zone points="306,1567 2057,1590 2153,1580 2151,1537 303,1524" rendition="Line" xml:id="facs_95_tr_1_tl_15"/>
+            <zone points="303,1653 2121,1661 2088,1602 303,1595" rendition="Line" xml:id="facs_95_tr_1_tl_16"/>
+            <zone points="303,1734 1269,1741 1266,1696 1127,1678 662,1706 301,1688" rendition="Line" xml:id="facs_95_tr_1_tl_17"/>
+            <zone points="591,1893 675,1951 887,1896 2164,1923 2164,1797 2095,1767 1883,1764 1787,1853 591,1850" rendition="Line" xml:id="facs_95_tr_1_tl_18" subtype="paragraph"/>
+            <zone points="296,2004 422,2037 847,1979 2209,1994 2209,1934 672,1951 551,1868 296,1939" rendition="Line" xml:id="facs_95_tr_1_tl_19"/>
+            <zone points="293,2075 2325,2093 2325,2035 2257,2032 887,2032 781,1989 293,2022" rendition="Line" xml:id="facs_95_tr_1_tl_20"/>
+            <zone points="291,2153 2237,2166 2189,2103 291,2108" rendition="Line" xml:id="facs_95_tr_1_tl_21"/>
+            <zone points="298,2252 412,2229 1049,2244 1049,2199 1014,2186 693,2186 604,2209 463,2181 420,2209 298,2194" rendition="Line" xml:id="facs_95_tr_1_tl_22"/>
+            <zone points="589,2323 2136,2371 2136,2272 589,2290" rendition="Line" xml:id="facs_95_tr_1_tl_23" subtype="paragraph"/>
+            <zone points="288,2414 589,2411 650,2454 2199,2421 2199,2366 288,2358" rendition="Line" xml:id="facs_95_tr_1_tl_24"/>
+            <zone points="278,2482 442,2533 844,2485 912,2517 2166,2502 2166,2454 2108,2442 278,2447" rendition="Line" xml:id="facs_95_tr_1_tl_25"/>
+            <zone points="586,2576 2201,2588 2201,2540 2146,2530 586,2535" rendition="Line" xml:id="facs_95_tr_1_tl_26" subtype="paragraph"/>
+            <zone points="278,2656 2171,2667 2171,2606 278,2629" rendition="Line" xml:id="facs_95_tr_1_tl_27"/>
+            <zone points="195,2765 2093,2760 2093,2702 1979,2697 397,2704 260,2656 195,2702" rendition="Line" xml:id="facs_95_tr_1_tl_28"/>
+            <zone points="273,2831 417,2876 885,2874 1115,2828 2191,2843 2153,2780 273,2790" rendition="Line" xml:id="facs_95_tr_1_tl_29"/>
+            <zone points="273,2912 2153,2922 2153,2879 2085,2869 273,2884" rendition="Line" xml:id="facs_95_tr_1_tl_30"/>
+            <zone points="273,2995 682,2995 809,3043 1673,3008 2227,3043 2224,2962 2019,2947 273,2955" rendition="Line" xml:id="facs_95_tr_1_tl_31"/>
+            <zone points="275,3109 1289,3142 1559,3104 1693,3139 1817,3081 2136,3091 2136,3046 1691,3063 1456,3025 1190,3061 275,3043" rendition="Line" xml:id="facs_95_tr_1_tl_32"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0095.jpg" n="part1_p095.jpg" xml:id="img_0095" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p095.jpg"/>
+            
+            <ab facs="#facs_95_tr_1">
+               <lb facs="#facs_95_tr_1_tl_1" n="N001"/>[92]
+               <lb facs="#facs_95_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Honesty">But what I AM fighting against--and now, after many years, in agreement with most
+               <lb break="no" facs="#facs_95_tr_1_tl_3" n="N003"/>all important architects--is to take a trimming of the past which once HAD a meaning
+               <lb break="no" facs="#facs_95_tr_1_tl_4" n="N004"/>(for instance, little Gothic towers, or very expensive  Gothic windows in a school of
+               <lb break="no" facs="#facs_95_tr_1_tl_5" n="N005"/>today)--all these kinds of things are dishonest. And here I would be strict, and if you
+               <lb break="no" facs="#facs_95_tr_1_tl_6" n="N006"/>call it ''puritan,'' I would, for this exceptional case, accept this criticism of being a
+               <lb break="no" facs="#facs_95_tr_1_tl_7" n="N007"/>puritan! <hi style="font-style: italic;">[smiling]</hi>. I would give you an example: Rockefeller Center, in New
+               <lb break="no" facs="#facs_95_tr_1_tl_8" n="N008"/>York, which I hope you all know. For me, this belongs to what the ancient people
+               <lb break="no" facs="#facs_95_tr_1_tl_9" n="N009"/>called the Seven Miracles [i.e. Wonders--ed.] of the world. I know many Europeans
+               <lb break="no" facs="#facs_95_tr_1_tl_10" n="N010"/>who came here and said to see this alone is worth the whole trip, from Europe to
+               <lb break="no" facs="#facs_95_tr_1_tl_11" n="N011"/>New York. And I agree with them. It is an expression of almost completely honest
+               <lb break="no" facs="#facs_95_tr_1_tl_12" n="N012"/>character, and only an exaggerated criticism points to the few trimmings, which couldn't
+               <lb break="no" facs="#facs_95_tr_1_tl_13" n="N013"/>be avoided by the unhappy architect because he had to do what he was told to do.
+               <lb break="no" facs="#facs_95_tr_1_tl_14" n="N014"/>But beside that, it's something which is indeed a whole city in itself, and a city which
+               <lb break="no" facs="#facs_95_tr_1_tl_15" n="N015"/>reminds me of some of the best of the old city of Tuscania [i.e., Tuscany--ed.], San
+               <lb break="no" facs="#facs_95_tr_1_tl_16" n="N016"/>Giuliano [?sp], and other places, where you have a similar architecture on the basis
+               <lb break="no" facs="#facs_95_tr_1_tl_17" n="N017"/>of the necessity and honesty of THAT time.
+               <lb break="no" facs="#facs_95_tr_1_tl_18" n="N018"/>Now I come to another overlapping reality which must be distinguished,
+               <lb break="no" facs="#facs_95_tr_1_tl_19" n="N019"/>but cannot be separated, from the technical realm, namely the economic realm. We shall
+               <lb break="no" facs="#facs_95_tr_1_tl_20" n="N020"/>have, ANYHOW, a discussion about religion and economics, probably not before next semester,
+               <lb break="no" facs="#facs_95_tr_1_tl_21" n="N021"/>but what I have to do here is simply to relate these two realities to each other from the
+               <lb break="no" facs="#facs_95_tr_1_tl_22" n="N022"/>point of view of the technical side.
+               <lb break="no" facs="#facs_95_tr_1_tl_23" n="N023"/>All technical action serves that production of man by which he satisfied
+               <lb break="no" facs="#facs_95_tr_1_tl_24" n="N024"/>his needs. <rs type="keyword" ref="#Economy"/></rs><rs type="keyword" ref="#Economy">This production is called ''economy''--interesting, that the word itself is derived
+               <lb break="no" facs="#facs_95_tr_1_tl_25" n="N025"/>from <hi style="font-style: italic;">oikos</hi>, which means ''house'' in Greek: building the house in which man can live.
+               <lb break="no" facs="#facs_95_tr_1_tl_26" n="N026"/>But this house which ''economy'' builds has not only the function to give
+               <lb break="no" facs="#facs_95_tr_1_tl_27" n="N027"/>shelter, it also gives food and clothing and all the other needs which must be satisfied.
+               <lb break="no" facs="#facs_95_tr_1_tl_28" n="N028"/>Man is that being which is ESSENTIALLY DISSATISFIED, and every economic act
+               <lb break="no" facs="#facs_95_tr_1_tl_29" n="N029"/>has the intention of giving satisfaction beyond what is immediately at hand. And this is,
+               <lb break="no" facs="#facs_95_tr_1_tl_30" n="N030"/>as we know, very, very little in comparison to the infinite possibilities which are given
+               <lb break="no" facs="#facs_95_tr_1_tl_31" n="N031"/>to man in nature. Now these infinite possibilities are produced and taken out of the state
+               <lb break="no" facs="#facs_95_tr_1_tl_32" n="N032"/>of mere potentiality into that of actuality, by technical activities. The most primitive</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

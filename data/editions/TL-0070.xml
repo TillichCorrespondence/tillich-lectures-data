@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p070</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p070</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_70">
+         <graphic url="TL-0070.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UEOBKXYFXVSRMDAEGAPVOWCN&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="346,254 346,3424 2301,3424 2301,254" rendition="TextRegion" xml:id="facs_70_tr_2">
+            <zone points="1127,299 1139,299 1146,307 1161,309 1168,316 1200,316 1217,307 1229,307 1231,239 1193,241 1163,265 1127,265" rendition="Line" xml:id="facs_70_tr_2_tl_1"/>
+            <zone points="341,482 2074,475 2074,416 1514,389 1390,426 341,428" rendition="Line" xml:id="facs_70_tr_2_tl_2"/>
+            <zone points="336,557 2198,550 2108,492 2049,526 1774,492 1696,526 336,535" rendition="Line" xml:id="facs_70_tr_2_tl_3"/>
+            <zone points="338,643 2008,655 2008,596 1913,582 338,606" rendition="Line" xml:id="facs_70_tr_2_tl_4"/>
+            <zone points="341,733 2115,725 2115,672 1881,667 341,701" rendition="Line" xml:id="facs_70_tr_2_tl_5"/>
+            <zone points="348,820 2088,818 2088,754 2015,752 348,771" rendition="Line" xml:id="facs_70_tr_2_tl_6"/>
+            <zone points="333,888 1302,891 1360,925 1482,891 1536,932 1823,935 2186,893 2186,830 2071,820 1984,862 333,849" rendition="Line" xml:id="facs_70_tr_2_tl_7"/>
+            <zone points="346,988 2176,981 2176,920 346,944" rendition="Line" xml:id="facs_70_tr_2_tl_8"/>
+            <zone points="346,1071 871,1064 1168,1110 1536,1061 2217,1059 2217,1000 864,1037 346,1008" rendition="Line" xml:id="facs_70_tr_2_tl_9"/>
+            <zone points="336,1144 2283,1144 2283,1100 2022,1112 1752,1059 937,1122 336,1105" rendition="Line" xml:id="facs_70_tr_2_tl_10"/>
+            <zone points="341,1236 625,1227 718,1266 918,1224 2127,1229 2127,1185 2054,1173 341,1195" rendition="Line" xml:id="facs_70_tr_2_tl_11"/>
+            <zone points="346,1324 2132,1324 2132,1261 346,1273" rendition="Line" xml:id="facs_70_tr_2_tl_12"/>
+            <zone points="336,1399 2093,1397 2093,1341 1879,1334 336,1373" rendition="Line" xml:id="facs_70_tr_2_tl_13"/>
+            <zone points="346,1492 2186,1480 2137,1429 1925,1416 1713,1451 346,1438" rendition="Line" xml:id="facs_70_tr_2_tl_14"/>
+            <zone points="341,1580 2212,1565 2212,1516 2130,1502 341,1528" rendition="Line" xml:id="facs_70_tr_2_tl_15"/>
+            <zone points="346,1662 1631,1689 1716,1650 2256,1653 2256,1594 346,1609" rendition="Line" xml:id="facs_70_tr_2_tl_16"/>
+            <zone points="338,1743 830,1735 881,1784 1307,1728 2164,1733 2164,1674 2095,1672 338,1696" rendition="Line" xml:id="facs_70_tr_2_tl_17"/>
+            <zone points="341,1825 1176,1862 1378,1813 2297,1823 2276,1764 2098,1755 341,1779" rendition="Line" xml:id="facs_70_tr_2_tl_18"/>
+            <zone points="338,1918 2149,1908 2120,1840 338,1874" rendition="Line" xml:id="facs_70_tr_2_tl_19"/>
+            <zone points="338,2003 392,2042 436,2020 1095,2013 1098,1945 969,1930 937,1949 698,1937 621,1962 579,1935 341,1937" rendition="Line" xml:id="facs_70_tr_2_tl_20"/>
+            <zone points="645,2071 2151,2069 2151,2015 1760,1996 1601,2037 1477,2005 1446,2037 1407,1996 1234,2037 645,2018" rendition="Line" xml:id="facs_70_tr_2_tl_21" subtype="paragraph"/>
+            <zone points="333,2154 494,2166 533,2149 550,2166 638,2173 662,2151 679,2166 784,2166 786,2088 565,2098 523,2122 501,2100 406,2100 389,2086 333,2122" rendition="Line" xml:id="facs_70_tr_2_tl_22"/>
+            <zone points="645,2241 2188,2237 2188,2168 983,2207 801,2176 767,2210 645,2176" rendition="Line" xml:id="facs_70_tr_2_tl_23" subtype="paragraph"/>
+            <zone points="336,2324 2222,2319 2222,2266 2015,2288 1966,2254 1930,2288 1261,2256 336,2297" rendition="Line" xml:id="facs_70_tr_2_tl_24"/>
+            <zone points="333,2405 2266,2407 2266,2351 2151,2344 1509,2375 1059,2332 920,2380 669,2349 333,2383" rendition="Line" xml:id="facs_70_tr_2_tl_25"/>
+            <zone points="341,2499 2261,2487 2261,2431 341,2453" rendition="Line" xml:id="facs_70_tr_2_tl_26"/>
+            <zone points="341,2582 905,2568 952,2616 1154,2621 2176,2594 2176,2516 341,2531" rendition="Line" xml:id="facs_70_tr_2_tl_27"/>
+            <zone points="341,2667 1331,2692 1416,2653 2244,2655 2244,2609 2115,2597 341,2607" rendition="Line" xml:id="facs_70_tr_2_tl_28"/>
+            <zone points="346,2757 2249,2743 2171,2684 346,2709" rendition="Line" xml:id="facs_70_tr_2_tl_29"/>
+            <zone points="333,2826 2210,2838 2210,2777 2005,2765 333,2789" rendition="Line" xml:id="facs_70_tr_2_tl_30"/>
+            <zone points="336,2918 842,2950 949,2906 2134,2908 2105,2850 336,2874" rendition="Line" xml:id="facs_70_tr_2_tl_31"/>
+            <zone points="341,3011 1068,3006 1068,2950 1042,2940 871,2964 667,2950 630,2974 577,2947 341,2952" rendition="Line" xml:id="facs_70_tr_2_tl_32"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0070.jpg" n="part1_p070.jpg" xml:id="img_0070" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p070.jpg"/>
+            
+            <ab facs="#facs_70_tr_2">
+               <lb facs="#facs_70_tr_2_tl_1" n="N001"/>[67]
+               <lb facs="#facs_70_tr_2_tl_2" n="N002"/><rs type="keyword" ref="#Symbols">what I mean by the two-edged character of genuine symbols. They symbolize the
+               <lb break="no" facs="#facs_70_tr_2_tl_3" n="N003"/>ultimate--ground of being, the object of our ultimate concern, or however you call it--
+               <lb break="no" facs="#facs_70_tr_2_tl_4" n="N004"/>that is one edge of the sword. The other is that they take their symbolizing
+               <lb break="no" facs="#facs_70_tr_2_tl_5" n="N005"/>material out of the realm of our daily experience--for instance out of the realm of
+               <lb break="no" facs="#facs_70_tr_2_tl_6" n="N006"/>medicine. Now this has a consequence that the highest religious concept, salvation,
+               <lb break="no" facs="#facs_70_tr_2_tl_7" n="N007"/>is taken out of the realm of healing--<hi style="font-style: italic;">salvus</hi>=healing, salvation means healing. And it is
+               <lb break="no" facs="#facs_70_tr_2_tl_8" n="N008"/>a very profound thing that we all shall remember, that salvation does not mean moral
+               <lb break="no" facs="#facs_70_tr_2_tl_9" n="N009"/>betterment, but healing, namely reestablishing the unity, MAKING-WHOLE, as the Greek
+               <lb break="no" facs="#facs_70_tr_2_tl_10" n="N010"/>term for healing is, which still appears in the New Testament. THIS has the consequence
+               <lb break="no" facs="#facs_70_tr_2_tl_11" n="N011"/>of the other edge, namely that the medical realm itself gets consecration from these
+               <lb break="no" facs="#facs_70_tr_2_tl_12" n="N012"/>symbols. The state of things in which, for instance, the medical realm is completely
+               <lb break="no" facs="#facs_70_tr_2_tl_13" n="N013"/>separated from the realm of the holy, the UNconsecrated existence of the cultural
+               <lb break="no" facs="#facs_70_tr_2_tl_14" n="N014"/>realms (amongst them for instance, the medical realm) is due to the fact that we have
+               <lb break="no" facs="#facs_70_tr_2_tl_15" n="N015"/>lost the understanding for the symbolic material which underlies our traditional religious
+               <lb break="no" facs="#facs_70_tr_2_tl_16" n="N016"/>symbols (for instance, that of salvation). Salvation is healing, and, as the New Testament
+               <lb break="no" facs="#facs_70_tr_2_tl_17" n="N017"/>stories show, it is also bodily healing--and it is certainly, very much so, psychological
+               <lb break="no" facs="#facs_70_tr_2_tl_18" n="N018"/>healing: the throwing-out of the demons, these ever-repeated stories in the New Testament,
+               <lb break="no" facs="#facs_70_tr_2_tl_19" n="N019"/>point to what today has become the great emergency of the American mind, namely
+               <lb break="no" facs="#facs_70_tr_2_tl_20" n="N020"/>the neurotic and psychotic diseases.
+               <lb break="no" facs="#facs_70_tr_2_tl_21" n="N021"/>Finally, it is healing in the CENTER of the personality and creates an
+               <lb break="no" facs="#facs_70_tr_2_tl_22" n="N022"/>ultimate unity in it.
+               <lb break="no" facs="#facs_70_tr_2_tl_23" n="N023"/>Now all this is expressed in a symbol which is understood. And we can
+               <lb break="no" facs="#facs_70_tr_2_tl_24" n="N024"/>carry this through also to the political realm, to the social realm, even to the economic
+               <lb break="no" facs="#facs_70_tr_2_tl_25" n="N025"/>realm, and I will do some of this in all these lectures. But here, from the point of view
+               <lb break="no" facs="#facs_70_tr_2_tl_26" n="N026"/>of religious language in which we still are, the decisive thing is to know the double-edged
+               <lb break="no" facs="#facs_70_tr_2_tl_27" n="N027"/>character of all symbols: they are taken from the ordinary material in which we are
+               <lb break="no" facs="#facs_70_tr_2_tl_28" n="N028"/>living our daily life, to which healing belongs, for instance; they apply it to our ultimate
+               <lb break="no" facs="#facs_70_tr_2_tl_29" n="N029"/>concern, and in doing so they give consecration to the realm from which they are taken.
+               <lb break="no" facs="#facs_70_tr_2_tl_30" n="N030"/>So if you keep in mind this double-edged character of symbols, then you will probably
+               <lb break="no" facs="#facs_70_tr_2_tl_31" n="N031"/>feel, much profounder than ordinarily, the necessity for the realms of our daily life
+               <lb break="no" facs="#facs_70_tr_2_tl_32" n="N032"/>(for instance, eating and drinking).</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

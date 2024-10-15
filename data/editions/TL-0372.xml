@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part2_p088</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830293</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part2_p088</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_88">
+         <graphic url="TL-0372.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MQYMUYZISKMCETFQXIMVMDZI&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="256,299 2242,299 2242,1278 256,1278" rendition="TextRegion" xml:id="facs_88_tr_2">
+            <zone points="1037,347 1050,347 1070,365 1147,365 1152,360 1165,360 1165,286 1142,289 1126,304 1037,304" rendition="Line" xml:id="facs_88_tr_2_tl_1"/>
+            <zone points="248,518 2204,518 2204,462 524,472 465,424 248,478" rendition="Line" xml:id="facs_88_tr_2_tl_2"/>
+            <zone points="243,664 2023,664 2117,651 2117,600 508,631 444,580 243,638" rendition="Line" xml:id="facs_88_tr_2_tl_3"/>
+            <zone points="250,830 2163,815 2235,812 2235,753 250,787" rendition="Line" xml:id="facs_88_tr_2_tl_4"/>
+            <zone points="444,963 2109,968 2112,907 447,917" rendition="Line" xml:id="facs_88_tr_2_tl_5" subtype="paragraph"/>
+            <zone points="245,1119 894,1129 919,1124 919,1062 299,1070 245,1088" rendition="Line" xml:id="facs_88_tr_2_tl_7"/>
+            <zone points="248,1272 1617,1285 2217,1259 2217,1200 248,1218" rendition="Line" xml:id="facs_88_tr_2_tl_8"/>
+         </zone>
+         <zone points="91,1341 2301,1341 2301,3482 91,3482" rendition="TextRegion" xml:id="facs_88_tr_1">
+            <zone points="245,1422 2097,1422 2298,1407 2298,1351 245,1394" rendition="Line" xml:id="facs_88_tr_1_tl_1"/>
+            <zone points="475,1586 1673,1565 1675,1502 475,1525" rendition="Line" xml:id="facs_88_tr_1_tl_3"/>
+            <zone points="439,1742 2155,1711 2155,1650 439,1691" rendition="Line" xml:id="facs_88_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="235,1867 2063,1869 2176,1862 2176,1800 235,1818" rendition="Line" xml:id="facs_88_tr_1_tl_6"/>
+            <zone points="240,2023 2104,2020 2107,1964 240,1977" rendition="Line" xml:id="facs_88_tr_1_tl_7"/>
+            <zone points="227,2102 406,2112 462,2148 927,2127 927,2056 866,2043 227,2066" rendition="Line" xml:id="facs_88_tr_1_tl_8"/>
+            <zone points="769,2173 2171,2166 2171,2104 769,2132" rendition="Line" xml:id="facs_88_tr_1_tl_9" subtype="paragraph"/>
+            <zone points="240,2324 2229,2372 2229,2260 2171,2250 240,2275" rendition="Line" xml:id="facs_88_tr_1_tl_10"/>
+            <zone points="235,2487 309,2533 544,2498 1085,2531 1182,2472 1821,2436 1479,2403 235,2446" rendition="Line" xml:id="facs_88_tr_1_tl_12"/>
+            <zone points="235,2625 2178,2612 2204,2554 235,2577" rendition="Line" xml:id="facs_88_tr_1_tl_13"/>
+            <zone points="240,2781 2125,2773 2242,2758 2245,2699 240,2733" rendition="Line" xml:id="facs_88_tr_1_tl_14"/>
+            <zone points="240,2937 1971,2929 2268,2909 2270,2847 240,2878" rendition="Line" xml:id="facs_88_tr_1_tl_15"/>
+            <zone points="243,3080 1920,3067 1890,3016 1698,3006 243,3036" rendition="Line" xml:id="facs_88_tr_1_tl_16"/>
+            <zone points="434,3241 784,3287 2130,3243 2130,3190 963,3241 434,3192" rendition="Line" xml:id="facs_88_tr_1_tl_17" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0372.jpg" n="part2_p088.jpg" xml:id="img_0088" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p088.jpg"/>
+            
+            <ab facs="#facs_88_tr_2">
+               <lb facs="#facs_88_tr_2_tl_1" n="N001"/>[367]
+               <lb facs="#facs_88_tr_2_tl_2" n="N002"/>In all these men there was not the tendency to deny what is always present in expressionistic styles,
+               <lb facs="#facs_88_tr_2_tl_3" n="N003"/>namely the ultimate breaking into the surface of reality. But they believed that the surface of
+               <lb facs="#facs_88_tr_2_tl_4" n="N004"/>reality in its anticipatory form--as beauty, as perfection--is able to take into itself the ultimate itself.
+               <lb facs="#facs_88_tr_2_tl_5" n="N005"/>Now I leave, for a certain time, the artistic realm and come to the sociological reality
+               <lb facs="#facs_88_tr_2_tl_7" n="N006"/>which is expressed IN the artistic creativity. The naturalism that starts with the early
+               <lb facs="#facs_88_tr_2_tl_8" n="N007"/>Renaissance is an expression of the general attitude of industrial society. The naturalism of modern
+            </ab>
+            <ab facs="#facs_88_tr_1">
+               <lb facs="#facs_88_tr_1_tl_1" n="N001"/>art, starting with the Renaissance and interrupted only briefly in the Baroque period, is an expression of
+               <lb facs="#facs_88_tr_1_tl_3" n="N002"/>the ultimate self-interpretation of industrial society in the Western world.
+               <lb facs="#facs_88_tr_1_tl_5" n="N003"/>From here I want to characterize now this Western world in which we are living. First
+               <lb facs="#facs_88_tr_1_tl_6" n="N004"/>in a very general way, and then going down to many concrete elements which confirm this general
+               <lb facs="#facs_88_tr_1_tl_7" n="N005"/>statement. Now the general statement is: MAN CONTROLLING NATURE AND SOCIETY,
+               <lb facs="#facs_88_tr_1_tl_8" n="N006"/>IN THE POWER OF THE LOGOS.
+               <lb facs="#facs_88_tr_1_tl_9" n="N007"/>I avoid the word ''reason,'' which I could use, if that deteriorization [sic.] of
+               <lb facs="#facs_88_tr_1_tl_10" n="N008"/>the word had not occurred, so that if I say ''reason'' today, you immediately think of the calculating
+               <lb facs="#facs_88_tr_1_tl_12" n="N009"/>businessman or the analytic philosopher. But I don't mean either of them--although they
+               <lb facs="#facs_88_tr_1_tl_13" n="N010"/>belong to it of course, and I will show this as clearly as I can--but I mean also critical reason of the
+               <lb facs="#facs_88_tr_1_tl_14" n="N011"/>revolutionary bourgeoisie of the 18th century, and I mean constructive reason in the romantic period
+               <lb facs="#facs_88_tr_1_tl_15" n="N012"/>of victorious bourgeoisie, etc. So reason is a much larger concept than it is usually used, and therefore
+               <lb facs="#facs_88_tr_1_tl_16" n="N013"/>I speak here of logos: man controlling nature and society in the power of the logos.
+               <lb facs="#facs_88_tr_1_tl_17" n="N014"/>This started around 1450 and went on till at least 1850 or 1900. Such periodizations
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

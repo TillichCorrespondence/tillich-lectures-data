@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. part1_p049</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830271</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part1_p049</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_49">
+         <graphic url="TL-0049.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TBEJWQGTWTLVJMHLTDEKGIJA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="232,241 232,3487 2257,3487 2257,241" rendition="TextRegion" xml:id="facs_49_tr_1">
+            <zone points="1187,292 1216,292 1224,299 1239,302 1263,302 1271,294 1283,292 1281,240 1261,242 1256,247 1234,247 1226,240 1212,250 1184,250" rendition="Line" xml:id="facs_49_tr_1_tl_1"/>
+            <zone points="294,482 2116,470 2119,403 297,420" rendition="Line" xml:id="facs_49_tr_1_tl_2"/>
+            <zone points="289,551 2144,549 2146,502 2027,492 292,507" rendition="Line" xml:id="facs_49_tr_1_tl_3"/>
+            <zone points="284,635 2161,645 2161,591 1577,601 1466,561 1125,608 284,606" rendition="Line" xml:id="facs_49_tr_1_tl_4"/>
+            <zone points="274,712 1449,712 1790,759 1832,717 2181,707 2114,658 274,692" rendition="Line" xml:id="facs_49_tr_1_tl_5"/>
+            <zone points="287,836 2176,821 2176,757 1889,759 1844,722 1793,759 1548,764 1501,724 1429,764 1110,776 287,752" rendition="Line" xml:id="facs_49_tr_1_tl_6"/>
+            <zone points="284,888 398,932 1659,932 1990,875 2099,910 2102,833 284,851" rendition="Line" xml:id="facs_49_tr_1_tl_7"/>
+            <zone points="282,974 1068,1011 1147,962 2201,972 2201,925 2052,912 282,930" rendition="Line" xml:id="facs_49_tr_1_tl_8"/>
+            <zone points="282,1090 734,1093 838,1048 2102,1058 2104,1004 284,1006" rendition="Line" xml:id="facs_49_tr_1_tl_9"/>
+            <zone points="274,1142 2151,1137 2151,1088 2057,1078 274,1100" rendition="Line" xml:id="facs_49_tr_1_tl_10"/>
+            <zone points="279,1224 2119,1224 2121,1184 1953,1167 282,1184" rendition="Line" xml:id="facs_49_tr_1_tl_11"/>
+            <zone points="274,1348 719,1348 838,1303 2082,1313 2082,1259 1958,1251 274,1266" rendition="Line" xml:id="facs_49_tr_1_tl_12"/>
+            <zone points="274,1394 2116,1394 2116,1345 1815,1333 274,1348" rendition="Line" xml:id="facs_49_tr_1_tl_13"/>
+            <zone points="272,1476 579,1523 2205,1506 2205,1427 2045,1414 272,1446" rendition="Line" xml:id="facs_49_tr_1_tl_14"/>
+            <zone points="270,1563 359,1605 1108,1607 1266,1555 2092,1565 2092,1516 2042,1506 270,1523" rendition="Line" xml:id="facs_49_tr_1_tl_15"/>
+            <zone points="267,1652 499,1654 544,1699 660,1666 1718,1652 1770,1701 2089,1669 2089,1597 2005,1587 267,1610" rendition="Line" xml:id="facs_49_tr_1_tl_16"/>
+            <zone points="272,1733 480,1736 480,1694 465,1694 450,1679 415,1679 401,1694 383,1679 368,1694 354,1686 346,1694 329,1691 312,1676 297,1691 272,1691" rendition="Line" xml:id="facs_49_tr_1_tl_17"/>
+            <zone points="574,1815 2166,1810 2166,1753 574,1760" rendition="Line" xml:id="facs_49_tr_1_tl_18" subtype="paragraph"/>
+            <zone points="274,1931 2188,1921 2188,1847 2074,1840 274,1854" rendition="Line" xml:id="facs_49_tr_1_tl_19"/>
+            <zone points="260,1973 336,2023 554,1985 588,2020 2057,2005 2057,1924 260,1953" rendition="Line" xml:id="facs_49_tr_1_tl_20"/>
+            <zone points="267,2062 2250,2065 2250,2008 267,2030" rendition="Line" xml:id="facs_49_tr_1_tl_21"/>
+            <zone points="267,2149 2181,2149 2181,2094 267,2112" rendition="Line" xml:id="facs_49_tr_1_tl_22"/>
+            <zone points="260,2233 2149,2230 2149,2186 2035,2173 260,2191" rendition="Line" xml:id="facs_49_tr_1_tl_23"/>
+            <zone points="260,2324 2151,2317 2151,2270 2025,2255 260,2282" rendition="Line" xml:id="facs_49_tr_1_tl_24"/>
+            <zone points="274,2421 2171,2401 2171,2354 2065,2344 274,2364" rendition="Line" xml:id="facs_49_tr_1_tl_25"/>
+            <zone points="260,2480 336,2500 443,2482 504,2502 707,2492 707,2435 658,2450 603,2450 584,2435 556,2448 260,2445" rendition="Line" xml:id="facs_49_tr_1_tl_26"/>
+            <zone points="561,2569 2087,2594 2087,2529 2040,2512 561,2515" rendition="Line" xml:id="facs_49_tr_1_tl_27" subtype="paragraph"/>
+            <zone points="255,2653 2074,2690 2074,2601 1985,2594 255,2618" rendition="Line" xml:id="facs_49_tr_1_tl_28"/>
+            <zone points="257,2769 289,2789 1026,2784 1026,2700 257,2700" rendition="Line" xml:id="facs_49_tr_1_tl_29"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0049.jpg" n="part1_p049.jpg" xml:id="img_0049" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p049.jpg"/>
+            
+            <ab facs="#facs_49_tr_1">
+               <lb facs="#facs_49_tr_1_tl_1" n="N001"/>[46]
+               <lb facs="#facs_49_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Symbols">poem, can never be opened up in any other way than by a poem. The same is true
+               <lb break="no" facs="#facs_49_tr_1_tl_3" n="N003"/>with those levels of reality opened up by music, for instance. Music is not only an
+               <lb break="no" facs="#facs_49_tr_1_tl_4" n="N004"/>expression of an emotion, but through the sound something which is hidden in reality,
+               <lb break="no" facs="#facs_49_tr_1_tl_5" n="N005"/>comes to us. Then it does something which the other symbols also do--all symbols do--
+               <lb break="no" facs="#facs_49_tr_1_tl_6" n="N006"/>it opens up a level in our own being. All symbols have a subject-object character. They
+               <lb break="no" facs="#facs_49_tr_1_tl_7" n="N007"/>open up a level in the encountered reality which otherwise is never attainable. And
+               <lb break="no" facs="#facs_49_tr_1_tl_8" n="N008"/>they open up a level in our mind--or I would like to use the word ''soul'' here--because
+               <lb break="no" facs="#facs_49_tr_1_tl_9" n="N009"/>unconscious elements also belong to it. This dimension of our soul never comes into
+               <lb break="no" facs="#facs_49_tr_1_tl_10" n="N010"/>action except through the symbols which open it. So symbols have a double side of
+               <lb break="no" facs="#facs_49_tr_1_tl_11" n="N011"/>opening-up: they open up reality, and they open up the soul. And in the encounter
+               <lb break="no" facs="#facs_49_tr_1_tl_12" n="N012"/>of reality and mind, both experience something which cannot be experienced in any
+               <lb break="no" facs="#facs_49_tr_1_tl_13" n="N013"/>other way than through these symbols. And I think this is the most important part
+               <lb break="no" facs="#facs_49_tr_1_tl_14" n="N014"/>of it. Genuine symbols have revelatory character. And ALL revelation is correlate between
+               <lb break="no" facs="#facs_49_tr_1_tl_15" n="N015"/>an objective structure and [a] subjective one. And so also, therefore, is all genuine
+               <lb break="no" facs="#facs_49_tr_1_tl_16" n="N016"/>symbolism: it is always objective and subjective at the same time. It has ''encounter''
+               <lb break="no" facs="#facs_49_tr_1_tl_17" n="N017"/>character.
+               <lb break="no" facs="#facs_49_tr_1_tl_18" n="N018"/>Now I return to what I said before: culture is based on man's encounter
+               <lb break="no" facs="#facs_49_tr_1_tl_19" n="N019"/>with reality; all languages are based on such an encounter. This encounter also produces
+               <lb break="no" facs="#facs_49_tr_1_tl_20" n="N020"/>symbols, and if a symbol is produced, reality has revealed a dimension of it which
+               <lb break="no" facs="#facs_49_tr_1_tl_21" n="N021"/>otherwise remains unrevealed. And the soul or mind is opened in a special respect in which
+               <lb break="no" facs="#facs_49_tr_1_tl_22" n="N022"/>otherwise it would not be opened. Therefore we enter the realms in which symbols are
+               <lb break="no" facs="#facs_49_tr_1_tl_23" n="N023"/>used, expecting them to give us something they otherwise would not have. Why do we
+               <lb break="no" facs="#facs_49_tr_1_tl_24" n="N024"/>go into a museum and look at pictures? (I speak now of artistic symbols). Why is the
+               <lb break="no" facs="#facs_49_tr_1_tl_25" n="N025"/>political system full of symbols? Because otherwise the reality which is meant can in no
+               <lb break="no" facs="#facs_49_tr_1_tl_26" n="N026"/>way be experienced.
+               <lb break="no" facs="#facs_49_tr_1_tl_27" n="N027"/>Now we have, therefore, the most important characteristic of symbols:
+               <lb break="no" facs="#facs_49_tr_1_tl_28" n="N028"/>they disclose (if you prefer that word) something which is otherwise cut off, which
+               <lb break="no" facs="#facs_49_tr_1_tl_29" n="N029"/>we cannot reach in any other way.</rs>
+            </ab>
+            
+        </div>
+      </body>
+    </text>
+</TEI>
