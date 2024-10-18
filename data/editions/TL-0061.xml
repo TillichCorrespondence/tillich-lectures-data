@@ -3,10 +3,10 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Lecture Vii 1955-10-20, semester I, Nr. 0061</title>
+            <title type="main" subtype="first_page">Lecture VII (Nr. 0061)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
             </principal>
             <funder>
                <name>FWF - Der Wissenschaftsfonds</name>
@@ -35,7 +35,7 @@
             </p>
          </publicationStmt>
          <sourceDesc>
-            <msDesc type="invetory">
+            <msDesc>
                <msIdentifier>
                   <institution>changme</institution>
                   <repository>changme</repository>
@@ -47,12 +47,21 @@
                      <p/>
                   </msItem>
                </msContents>
-               <history>
-                  <origin notBefore="1955-10-20" notAfter="1955-10-20">1955-10-20</origin>
-               </history>
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1955-10-20">1955-10-20</date>
+                <date type="term">Semester I</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
    </teiHeader>
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_61">
