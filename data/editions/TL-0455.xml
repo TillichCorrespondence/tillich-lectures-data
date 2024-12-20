@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXV (Nr. 0455)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p063</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-12">1956-03-12</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_63">
+         <graphic url="TL-0455.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AREKQGJWTGVFNVVFENKYHNKA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,281 2295,281 2295,1407 298,1407" rendition="TextRegion" xml:id="facs_63_tr_1">
+            <zone points="1151,340 1186,340 1207,350 1278,350 1275,261 1250,261 1237,274 1148,279" rendition="Line" xml:id="facs_63_tr_1_tl_1"/>
+            <zone points="309,494 2289,492 2058,413 309,451" rendition="Line" xml:id="facs_63_tr_1_tl_2"/>
+            <zone points="297,639 750,692 2233,659 2233,601 2081,596 297,613" rendition="Line" xml:id="facs_63_tr_1_tl_3"/>
+            <zone points="304,788 383,837 1313,854 1460,796 2233,814 2233,755 2117,743 304,743" rendition="Line" xml:id="facs_63_tr_1_tl_4"/>
+            <zone points="299,948 2190,966 2190,905 2056,892 299,895" rendition="Line" xml:id="facs_63_tr_1_tl_5"/>
+            <zone points="284,1090 2137,1113 2137,1055 1906,1042 284,1065" rendition="Line" xml:id="facs_63_tr_1_tl_6"/>
+            <zone points="289,1247 2208,1262 2183,1199 289,1212" rendition="Line" xml:id="facs_63_tr_1_tl_7"/>
+            <zone points="289,1399 2178,1394 2142,1349 1582,1338 289,1366" rendition="Line" xml:id="facs_63_tr_1_tl_8"/>
+         </zone>
+         <zone points="280,1490 2239,1490 2239,2613 280,2613" rendition="TextRegion" xml:id="facs_63_tr_3">
+            <zone points="286,1556 1676,1602 1774,1549 2223,1556 2223,1498 286,1521" rendition="Line" xml:id="facs_63_tr_3_tl_1"/>
+            <zone points="286,1706 608,1767 1240,1729 1298,1780 2172,1709 2172,1653 2015,1638 286,1653" rendition="Line" xml:id="facs_63_tr_3_tl_2"/>
+            <zone points="286,1853 2140,1871 2104,1797 1982,1790 286,1800" rendition="Line" xml:id="facs_63_tr_3_tl_3"/>
+            <zone points="281,2000 717,2086 1516,1998 2104,2008 2053,1947 1011,1954 758,1866 598,1952 281,1952" rendition="Line" xml:id="facs_63_tr_3_tl_4"/>
+            <zone points="281,2152 2233,2155 2233,2107 2086,2091 281,2104" rendition="Line" xml:id="facs_63_tr_3_tl_5"/>
+            <zone points="271,2297 2152,2309 2152,2256 271,2254" rendition="Line" xml:id="facs_63_tr_3_tl_6"/>
+            <zone points="266,2449 1790,2461 1787,2408 266,2426" rendition="Line" xml:id="facs_63_tr_3_tl_7"/>
+            <zone points="489,2601 2185,2621 2185,2555 489,2576" rendition="Line" xml:id="facs_63_tr_3_tl_8"/>
+         </zone>
+         <zone points="206,2696 2301,2696 2301,3488 206,3488" rendition="TextRegion" xml:id="facs_63_tr_2">
+            <zone points="261,2750 2294,2771 2294,2702 261,2705" rendition="Line" xml:id="facs_63_tr_2_tl_1"/>
+            <zone points="264,2905 279,2905 284,2910 294,2908 307,2913 314,2920 330,2918 335,2910 345,2908 337,2867 324,2870 294,2852 289,2859 274,2857 254,2862" rendition="Line" xml:id="facs_63_tr_2_tl_2"/>
+            <zone points="484,2913 2086,2910 2109,2852 487,2859" rendition="Line" xml:id="facs_63_tr_2_tl_3"/>
+            <zone points="261,3052 284,3062 368,3060 403,3072 418,3062 563,3062 563,3024 512,3024 484,2996 472,2996 444,3024 383,3019 373,3027 345,2999 261,2996" rendition="Line" xml:id="facs_63_tr_2_tl_4"/>
+            <zone points="497,3179 2051,3143 2183,3133 2183,3067 497,3072" rendition="Line" xml:id="facs_63_tr_2_tl_5"/>
+            <zone points="254,3290 702,3334 2096,3308 2096,3250 563,3283 254,3240" rendition="Line" xml:id="facs_63_tr_2_tl_6"/>
+            <zone points="702,3445 733,3460 750,3448 771,3465 809,3465 839,3488 902,3486 933,3460 989,3486 1037,3478 1037,3412 804,3420 702,3407" rendition="Line" xml:id="facs_63_tr_2_tl_7"/>
+            <zone points="449,3475 461,3473 474,3486 492,3486 499,3475 522,3478 542,3496 563,3493 581,3470 608,3488 669,3486 705,3473 697,3410 651,3405 636,3425 619,3417 558,3425 525,3415 441,3422" rendition="Line" xml:id="facs_63_tr_2_tl_8"/>
+            <zone points="1174,3463 1240,3453 1285,3463 1313,3448 1344,3475 1364,3470 1374,3481 1394,3481 1427,3458 1425,3410 1204,3407 1171,3415" rendition="Line" xml:id="facs_63_tr_2_tl_9"/>
+            <zone points="271,3470 284,3470 302,3458 347,3460 383,3488 401,3486 411,3475 418,3483 454,3475 456,3407 327,3412 322,3407 297,3422 274,3422" rendition="Line" xml:id="facs_63_tr_2_tl_10"/>
+            <zone points="193,3493 208,3493 215,3486 231,3486 238,3493 279,3486 276,3366 261,3366 251,3377 241,3379 233,3374 226,3382 190,3382" rendition="Line" xml:id="facs_63_tr_2_tl_11"/>
+            <zone points="274,3493 286,3493 292,3486 302,3493 324,3488 342,3493 373,3491 368,3448 355,3450 347,3460 322,3460 304,3450 284,3432 266,3430" rendition="Line" xml:id="facs_63_tr_2_tl_12"/>
+            <zone points="707,3486 720,3486 722,3483 730,3486 758,3486 760,3483 793,3486 796,3450 783,3450 778,3455 771,3450 758,3450 755,3453 753,3450 733,3460 722,3450 710,3450" rendition="Line" xml:id="facs_63_tr_2_tl_13"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0455.jpg" n="part3_p063.jpg" xml:id="img_0063" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p063.jpg"/>
+            
+            <p facs="#facs_63_tr_1">
+               <lb facs="#facs_63_tr_1_tl_1" n="N001"/>450
+               <lb facs="#facs_63_tr_1_tl_2" n="N002"/>although, as Karl Barth says, we all are romantics by nature (he means, by history) (some daughter) —
+               <lb facs="#facs_63_tr_1_tl_3" n="N003"/>it is regrettable that the TRUE meaning of romanticism, namely its0 heritage from the Renaissance
+               <lb facs="#facs_63_tr_1_tl_4" n="N004"/>vision of reality as the self-manifestation of the Divine, has been lost so much and, instead of that,
+               <lb facs="#facs_63_tr_1_tl_5" n="N005"/>this theistic or rationalistic dualism which suppresses the natural and makes it exclusively
+               <lb facs="#facs_63_tr_1_tl_6" n="N006"/>a means for human ends. Are we still able, and if so, to what degree, to &amp;contemplate quietly,
+               <lb facs="#facs_63_tr_1_tl_7" n="N007"/>natural realities-not only taking a car and running through it [i.e. nature] and havingbringing
+               <lb facs="#facs_63_tr_1_tl_8" n="N008"/>and other exercises, if we don’t prefer to read the New York Time, sitting in a beautiful place
+            </p>
+            <p facs="#facs_63_tr_3">
+               <lb facs="#facs_63_tr_3_tl_1" n="N001"/>are we able toécontemplate the power of being in naturalidenomena? Or is the dynamics of the
+               <lb facs="#facs_63_tr_3_tl_2" n="N002"/>gadgets, of the means-for-ends which again are the means for other ends, etc., so powerful upon
+               <lb facs="#facs_63_tr_3_tl_3" n="N003"/>our lives (now I speak here against myself) that we are not able any more to have this intuitive
+               <lb facs="#facs_63_tr_3_tl_4" n="N004"/>relationship to the divine depth which we also find in nature? And it is interesting that the
+               <lb facs="#facs_63_tr_3_tl_5" n="N005"/>creators of modern science, and today again some of the great scientists, try to make us understand
+               <lb facs="#facs_63_tr_3_tl_6" n="N006"/>that their work is—just as Kepler said when he discovered the ways of the planets—that this is a
+               <lb facs="#facs_63_tr_3_tl_7" n="N007"/>description of the divine Glory, and that for this reason he wants to give this.
+               <lb facs="#facs_63_tr_3_tl_8" n="N008"/>Now, is the ideal of personality not.a.way of.utting us off from the nature beside us,
+            </p>
+            <p facs="#facs_63_tr_2">
+               <lb facs="#facs_63_tr_2_tl_1" n="N001"/>as a manifestation of the ultimate which SPEAKS to us, and in which we are enriched in an encounter,
+               <lb facs="#facs_63_tr_2_tl_2" n="N002"/>by
+               <lb facs="#facs_63_tr_2_tl_3" n="N003"/>power of being,oupressing the ground of being in itself and for us? — That is the
+               <lb facs="#facs_63_tr_2_tl_4" n="N004"/>first question.
+               <lb facs="#facs_63_tr_2_tl_5" n="N005"/>The second is with respect to other brings. No, let me introduce another thing which
+               <lb facs="#facs_63_tr_2_tl_6" n="N006"/>has to do with nature, before I come to the human—namely the exchnical forming of nature.
+               <lb facs="#facs_63_tr_2_tl_7" n="N007"/>Votre très obéissant serviteur,
+               <lb facs="#facs_63_tr_2_tl_8" n="N008"/>dʼune manière beaucoup
+               <lb facs="#facs_63_tr_2_tl_9" n="N009"/>dʼavoir lʼautre vieuse,
+               <lb facs="#facs_63_tr_2_tl_10" n="N010"/>Monsieur M.
+               <lb facs="#facs_63_tr_2_tl_11" n="N011"/>Monsieur
+               <lb facs="#facs_63_tr_2_tl_12" n="N012"/>de mon ami
+               <lb facs="#facs_63_tr_2_tl_13" n="N013"/>de Votre
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

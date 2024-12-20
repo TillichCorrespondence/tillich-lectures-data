@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLI (Nr. 0548)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p074</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-29">1956-03-29</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_74">
+         <graphic url="TL-0548.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CAMMIWBSDLPWDSVHBKGWWGZR&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="304,296 2218,296 2218,1577 304,1577" rendition="TextRegion" xml:id="facs_74_tr_2">
+            <zone points="1044,349 1057,349 1079,364 1091,366 1104,361 1109,366 1146,366 1158,354 1171,354 1171,317 1158,317 1131,287 1106,307 1096,309 1087,304 1069,317 1044,317" rendition="Line" xml:id="facs_74_tr_2_tl_1"/>
+            <zone points="299,522 2116,510 2116,446 1027,475 901,384 780,475 299,450" rendition="Line" xml:id="facs_74_tr_2_tl_2"/>
+            <zone points="297,671 2091,668 2176,661 2176,606 297,639" rendition="Line" xml:id="facs_74_tr_2_tl_3"/>
+            <zone points="295,814 1849,824 2161,814 2161,757 295,792" rendition="Line" xml:id="facs_74_tr_2_tl_4"/>
+            <zone points="290,965 2168,968 2168,911 290,943" rendition="Line" xml:id="facs_74_tr_2_tl_5"/>
+            <zone points="295,1121 2205,1116 2205,1057 295,1077" rendition="Line" xml:id="facs_74_tr_2_tl_6"/>
+            <zone points="295,1267 1921,1270 2141,1255 2141,1205 295,1228" rendition="Line" xml:id="facs_74_tr_2_tl_7"/>
+            <zone points="290,1416 2166,1413 2213,1354 290,1393" rendition="Line" xml:id="facs_74_tr_2_tl_8"/>
+            <zone points="299,1579 1775,1574 2084,1554 2084,1507 299,1525" rendition="Line" xml:id="facs_74_tr_2_tl_9"/>
+         </zone>
+         <zone points="298,1645 2280,1645 2280,2482 298,2482" rendition="TextRegion" xml:id="facs_74_tr_3">
+            <zone points="292,1728 2128,1708 2128,1656 2047,1646 295,1676" rendition="Line" xml:id="facs_74_tr_3_tl_1"/>
+            <zone points="295,1871 1846,1871 2002,1859 2005,1814 295,1844" rendition="Line" xml:id="facs_74_tr_3_tl_2"/>
+            <zone points="544,2022 2156,2022 2156,1963 2000,1948 547,1980" rendition="Line" xml:id="facs_74_tr_3_tl_3" subtype="paragraph"/>
+            <zone points="297,2176 2005,2176 2218,2166 2218,2109 297,2128" rendition="Line" xml:id="facs_74_tr_3_tl_4"/>
+            <zone points="285,2324 2225,2324 2228,2260 287,2297" rendition="Line" xml:id="facs_74_tr_3_tl_5"/>
+            <zone points="287,2470 2277,2460 2277,2413 287,2448" rendition="Line" xml:id="facs_74_tr_3_tl_6"/>
+         </zone>
+         <zone points="32,2544 2269,2544 2269,3479 32,3479" rendition="TextRegion" xml:id="facs_74_tr_1">
+            <zone points="295,2633 2195,2614 2225,2557 295,2584" rendition="Line" xml:id="facs_74_tr_1_tl_1"/>
+            <zone points="287,2770 1626,2787 2176,2760 2208,2705 287,2747" rendition="Line" xml:id="facs_74_tr_1_tl_2"/>
+            <zone points="290,2923 302,2923 327,2940 351,2940 359,2933 371,2938 421,2930 438,2933 438,2869 408,2869 391,2851 374,2869 337,2869 309,2896 290,2896" rendition="Line" xml:id="facs_74_tr_1_tl_3"/>
+            <zone points="544,3000 2153,2990 2153,2928 547,2955" rendition="Line" xml:id="facs_74_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="295,3153 2262,3148 2262,3091 295,3109" rendition="Line" xml:id="facs_74_tr_1_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0548.jpg" n="part4_p074.jpg" xml:id="img_0074" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p074.jpg"/>
+            
+            <p facs="#facs_74_tr_2">
+               <lb facs="#facs_74_tr_2_tl_1" n="N001"/>[543]
+               <lb facs="#facs_74_tr_2_tl_2" n="N002"/> history of Christianity-there are many others). But you can also find here that wisdom and
+               <lb facs="#facs_74_tr_2_tl_3" n="N003"/>experience,bringing defined, has produced forms in which fundamental issues, namely the
+               <lb facs="#facs_74_tr_2_tl_4" n="N004"/>valuation of the other person as person, HOUEVER THAT HAS BEEN DONE, with her or his
+               <lb facs="#facs_74_tr_2_tl_5" n="N005"/>special reghts, ishnintained in valid forms so that the relativism is balance, if you look Iharply
+               <lb facs="#facs_74_tr_2_tl_6" n="N006"/>into the situation, by a structurel uniformity—which is not absolute, of course (I would never say
+               <lb facs="#facs_74_tr_2_tl_7" n="N007"/>this), but which is not so superficially to be covered, as it is in this kind of speaking about the
+               <lb facs="#facs_74_tr_2_tl_8" n="N008"/>moral laws in different culture and forms. So, in order to be AREFUL here: the main thing in
+               <lb facs="#facs_74_tr_2_tl_9" n="N009"/>such scientific serious discussion is to be Wreful and not to use former ‘slogans taken from
+            </p>
+            <p facs="#facs_74_tr_3">
+               <lb facs="#facs_74_tr_3_tl_1" n="N001"/>religion or absolutistic morale, and not to use modern slogans either, taken from a superfical
+               <lb facs="#facs_74_tr_3_tl_2" n="N002"/>ethnological or enthropological description of different nations and their comparison.
+               <lb facs="#facs_74_tr_3_tl_3" n="N003"/>Now I think this may end these very difficult problems, and very Cxistential ones,
+               <lb facs="#facs_74_tr_3_tl_4" n="N004"/>for all of us, because EACH of us is always in the three levelis: we are always inthe very concrete
+               <lb facs="#facs_74_tr_3_tl_5" n="N005"/>situation, where we MUST make decisions and can only HOPE AND RISK that we make the right
+               <lb facs="#facs_74_tr_3_tl_6" n="N006"/>ones—but we may not! We are always in the second realm; we will depend on our chitural tradition
+            </p>
+            <p facs="#facs_74_tr_1">
+               <lb facs="#facs_74_tr_1_tl_1" n="N001"/>and feel them (confirmed) or doubted in our conscience. And we all ShOU Ma relate BOTH realms
+               <lb facs="#facs_74_tr_1_tl_2" n="N002"/>to the ULLIMATE realm and ask ourselves whether, in a special situation, it is really a matter of
+               <lb facs="#facs_74_tr_1_tl_3" n="N003"/>agape.
+               <lb facs="#facs_74_tr_1_tl_4" n="N004"/>Now I come to the third realm of problem s about religion and others, namely the
+               <lb facs="#facs_74_tr_1_tl_5" n="N005"/>question: out of which source does the possibility come to ACT according to the exhical principles,
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

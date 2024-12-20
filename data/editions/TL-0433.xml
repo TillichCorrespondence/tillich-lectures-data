@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXIII (Nr. 0433)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p041</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-08">1956-03-08</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_41">
+         <graphic url="TL-0433.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WQMIQDGUFWCILAIAVQUNGMVI&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="268,233 2155,233 2155,1920 268,1920" rendition="TextRegion" xml:id="facs_41_tr_1">
+            <zone points="1024,281 1036,281 1051,293 1063,293 1070,300 1086,300 1091,295 1122,300 1129,293 1148,291 1148,238 1113,238 1101,229 1084,245 1024,245" rendition="Line" xml:id="facs_41_tr_1_tl_1"/>
+            <zone points="255,491 2066,465 2149,412 257,419" rendition="Line" xml:id="facs_41_tr_1_tl_2"/>
+            <zone points="262,653 1880,612 2111,598 2111,546 264,593" rendition="Line" xml:id="facs_41_tr_1_tl_3"/>
+            <zone points="255,779 2128,750 2128,689 257,729" rendition="Line" xml:id="facs_41_tr_1_tl_4"/>
+            <zone points="257,924 1870,901 2128,884 2128,829 257,893" rendition="Line" xml:id="facs_41_tr_1_tl_5"/>
+            <zone points="262,1075 2118,1029 2120,979 262,1020" rendition="Line" xml:id="facs_41_tr_1_tl_6"/>
+            <zone points="264,1208 1856,1182 2139,1165 2142,1108 267,1156" rendition="Line" xml:id="facs_41_tr_1_tl_7"/>
+            <zone points="262,1363 1939,1325 2144,1308 2147,1251 264,1308" rendition="Line" xml:id="facs_41_tr_1_tl_8"/>
+            <zone points="267,1494 2004,1460 2111,1453 2113,1396 267,1441" rendition="Line" xml:id="facs_41_tr_1_tl_9"/>
+            <zone points="264,1627 1768,1613 2099,1594 2101,1541 264,1603" rendition="Line" xml:id="facs_41_tr_1_tl_10"/>
+            <zone points="264,1773 1784,1749 1839,1744 1839,1692 264,1746" rendition="Line" xml:id="facs_41_tr_1_tl_11"/>
+            <zone points="491,1916 1777,1901 2056,1880 2058,1825 493,1865" rendition="Line" xml:id="facs_41_tr_1_tl_12" subtype="paragraph"/>
+         </zone>
+         <zone points="277,1962 2125,1962 2125,2780 277,2780" rendition="TextRegion" xml:id="facs_41_tr_3">
+            <zone points="272,2061 1937,2037 2070,2023 2073,1968 274,2011" rendition="Line" xml:id="facs_41_tr_3_tl_1"/>
+            <zone points="264,2201 2120,2182 2123,2113 264,2156" rendition="Line" xml:id="facs_41_tr_3_tl_2"/>
+            <zone points="274,2352 1377,2342 1468,2328 1468,2275 276,2306" rendition="Line" xml:id="facs_41_tr_3_tl_3"/>
+            <zone points="500,2487 2004,2461 2006,2392 500,2435" rendition="Line" xml:id="facs_41_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="276,2633 2111,2599 2113,2530 276,2602" rendition="Line" xml:id="facs_41_tr_3_tl_5"/>
+            <zone points="279,2771 1994,2740 1994,2683 279,2745" rendition="Line" xml:id="facs_41_tr_3_tl_6"/>
+         </zone>
+         <zone points="81,2807 2245,2807 2243,3324 88,3384" rendition="TextRegion" xml:id="facs_41_tr_2">
+            <zone points="281,2919 2187,2878 2190,2811 284,2864" rendition="Line" xml:id="facs_41_tr_2_tl_1"/>
+            <zone points="281,3059 1475,3059 1606,3026 1606,2981 281,3033" rendition="Line" xml:id="facs_41_tr_2_tl_3"/>
+            <zone points="276,3197 2185,3159 2187,3095 276,3173" rendition="Line" xml:id="facs_41_tr_2_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0433.jpg" n="part3_p041.jpg" xml:id="img_0041" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p041.jpg"/>
+            
+            <p facs="#facs_41_tr_1">
+               <lb facs="#facs_41_tr_1_tl_1" n="N001"/>[428]
+               <lb facs="#facs_41_tr_1_tl_2" n="N002"/>This means the humanistic element is lacking in both. This alliance of non-religious and religious
+               <lb facs="#facs_41_tr_1_tl_3" n="N003"/>positivism characterizes much of our religious education and of education generally. And here
+               <lb facs="#facs_41_tr_1_tl_4" n="N004"/>we must come to a solution. Both positivistic forms cannot educate to say No! And since they
+               <lb facs="#facs_41_tr_1_tl_5" n="N005"/>cannot educate to the PROTEST AGAINST the positive contents which are given, they cannot
+               <lb facs="#facs_41_tr_1_tl_6" n="N006"/>develop full humanity. It is a mutilated humanity which we find in the faces of all totalitarian
+               <lb facs="#facs_41_tr_1_tl_7" n="N007"/>followers, if they are convinced followers. We find a mutilated humanity in many RELIGIOUS
+               <lb facs="#facs_41_tr_1_tl_8" n="N008"/>groups, in whom the possibility of saying No is taken away. This mutilated humanity expresses
+               <lb facs="#facs_41_tr_1_tl_9" n="N009"/>itself often in fanaticism because these people feel their mutilation and react passionately and
+               <lb facs="#facs_41_tr_1_tl_10" n="N010"/>violently, if what they don’t have is shown them from outside--then they repress elements in
+               <lb facs="#facs_41_tr_1_tl_11" n="N011"/>them, wake up, and may destroy their safety repression--which they have done.
+               <lb facs="#facs_41_tr_1_tl_12" n="N012"/>Now this is the danger in which we are. This danger is not less by the fact that
+            </p>
+            <p facs="#facs_41_tr_3">
+               <lb facs="#facs_41_tr_3_tl_1" n="N001"/>we are NOT in a totalitarian system and only partly in a Fundamentalistic form of spiritual
+               <lb facs="#facs_41_tr_3_tl_2" n="N002"/>totalitarianism or authoritarianism. But what I said about the public communications, [they]
+               <lb facs="#facs_41_tr_3_tl_3" n="N003"/>may be the American way of killing the power of saying No!
+               <lb facs="#facs_41_tr_3_tl_4" n="N004"/>Now I said introduction into the Protestant churches is in itself not the way
+               <lb facs="#facs_41_tr_3_tl_5" n="N005"/>out because they can go the same way into totalitarianism, or in terms of official authorities,
+               <lb facs="#facs_41_tr_3_tl_6" n="N006"/>or, which is much more dangerous, it is in terms of conventional attitudes, in suburbia,
+            </p>
+            <p facs="#facs_41_tr_2">
+               <lb facs="#facs_41_tr_2_tl_1" n="N001"/>which have the power [just like] the strictest papal authorities on the individuals who live there,
+               <lb facs="#facs_41_tr_2_tl_3" n="N002"/>especially if they live as business executives in the competitive life in which they have
+               <lb facs="#facs_41_tr_2_tl_4" n="N003"/>to adapt themselves TO the forms of competition, to which religion in SOME way, a diminished
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

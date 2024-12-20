@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVIII (Nr. 0510)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p036</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-20">1956-03-20</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_36">
+         <graphic url="TL-0510.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PDEDETCNRONSLBZTDZGTBRAY&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="247,275 2245,275 2245,1786 247,1786" rendition="TextRegion" xml:id="facs_36_tr_1">
+            <zone points="1088,332 1101,332 1119,350 1134,350 1139,345 1159,350 1167,342 1203,342 1208,268 1185,271 1180,266 1159,283 1142,273 1106,306 1088,304" rendition="Line" xml:id="facs_36_tr_1_tl_1"/>
+            <zone points="243,503 2081,495 2132,447 1874,449 1714,378 1622,455 243,472" rendition="Line" xml:id="facs_36_tr_1_tl_2"/>
+            <zone points="266,577 1290,590 1430,580 1430,531 266,544" rendition="Line" xml:id="facs_36_tr_1_tl_3"/>
+            <zone points="235,730 2135,725 2135,656 235,695" rendition="Line" xml:id="facs_36_tr_1_tl_4"/>
+            <zone points="240,881 1254,904 2143,871 2158,815 240,835" rendition="Line" xml:id="facs_36_tr_1_tl_5"/>
+            <zone points="235,1032 1729,1047 2217,1022 2240,960 235,988" rendition="Line" xml:id="facs_36_tr_1_tl_6"/>
+            <zone points="235,1185 2007,1175 2053,1116 235,1154" rendition="Line" xml:id="facs_36_tr_1_tl_7"/>
+            <zone points="243,1325 1969,1325 2132,1308 2132,1256 243,1300" rendition="Line" xml:id="facs_36_tr_1_tl_8"/>
+            <zone points="232,1476 2023,1476 2183,1463 2183,1410 232,1433" rendition="Line" xml:id="facs_36_tr_1_tl_9"/>
+            <zone points="235,1627 1897,1629 2155,1614 2155,1563 235,1581" rendition="Line" xml:id="facs_36_tr_1_tl_10"/>
+            <zone points="243,1795 2089,1775 2189,1762 2189,1711 243,1737" rendition="Line" xml:id="facs_36_tr_1_tl_11"/>
+         </zone>
+         <zone points="244,1851 2295,1851 2295,2914 244,2914" rendition="TextRegion" xml:id="facs_36_tr_2">
+            <zone points="240,1933 2137,1918 2120,1862 243,1885" rendition="Line" xml:id="facs_36_tr_2_tl_1"/>
+            <zone points="235,2084 2240,2063 2242,2012 235,2048" rendition="Line" xml:id="facs_36_tr_2_tl_2"/>
+            <zone points="232,2229 2155,2212 2155,2160 1890,2155 235,2178" rendition="Line" xml:id="facs_36_tr_2_tl_3"/>
+            <zone points="230,2380 1864,2380 2227,2365 2229,2309 230,2352" rendition="Line" xml:id="facs_36_tr_2_tl_4"/>
+            <zone points="230,2528 2040,2518 2005,2462 230,2482" rendition="Line" xml:id="facs_36_tr_2_tl_5"/>
+            <zone points="240,2684 2040,2674 2288,2661 2288,2602 240,2633" rendition="Line" xml:id="facs_36_tr_2_tl_6"/>
+            <zone points="283,2763 1359,2748 1359,2697 286,2722" rendition="Line" xml:id="facs_36_tr_2_tl_7"/>
+            <zone points="235,2832 1571,2830 1629,2822 1629,2776 235,2778" rendition="Line" xml:id="facs_36_tr_2_tl_8"/>
+            <zone points="243,2911 2102,2896 2122,2842 245,2855" rendition="Line" xml:id="facs_36_tr_2_tl_9"/>
+         </zone>
+         <zone points="23,2920 2289,2920 2289,3483 23,3483" rendition="TextRegion" xml:id="facs_36_tr_3">
+            <zone points="268,2980 585,2998 1022,2983 1022,2939 327,2937 268,2960" rendition="Line" xml:id="facs_36_tr_3_tl_1"/>
+            <zone points="243,3067 324,3070 342,3052 414,3077 444,3064 633,3070 661,3064 661,3001 633,3016 600,3016 585,3001 549,3016 403,3016 360,3001 345,3016 243,3019" rendition="Line" xml:id="facs_36_tr_3_tl_2"/>
+            <zone points="240,3141 2033,3133 2286,3077 240,3085" rendition="Line" xml:id="facs_36_tr_3_tl_3"/>
+            <zone points="232,3213 2181,3200 2209,3149 232,3162" rendition="Line" xml:id="facs_36_tr_3_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0510.jpg" n="part4_p036.jpg" xml:id="img_0036" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p036.jpg"/>
+            
+            <p facs="#facs_36_tr_1">
+               <lb facs="#facs_36_tr_1_tl_1" n="N001"/>[505]
+               <lb facs="#facs_36_tr_1_tl_2" n="N002"/>QN: Are the Christian symbols by nature superior to any other religious symbols? You seem to
+               <lb facs="#facs_36_tr_1_tl_3" n="N003"/>deal with them even though they are used only as symbols.
+               <lb facs="#facs_36_tr_1_tl_4" n="N004"/>PT: "Only as symbols"; I FORBID you--- don't use that. <hi style="font-style: italic;">[laughter]</hi>. The first question is very
+               <lb facs="#facs_36_tr_1_tl_5" n="N005"/>important. In order to answer this question, why <hi style="text-decoration: underline;">I</hi> am grasped by the CONCRETE power of the
+               <lb facs="#facs_36_tr_1_tl_6" n="N006"/>symbol of Jesus-as-the-Christ (whereby "Christ" is the symbol and "Jesus" is the event which remains
+               <lb facs="#facs_36_tr_1_tl_7" n="N007"/>a historical probability)---if I say this, then I can give you reasons for it, and these reasons are
+               <lb facs="#facs_36_tr_1_tl_8" n="N008"/>. . . [??] by conversations [?] which at the same time tries to understand the other religions and
+               <lb facs="#facs_36_tr_1_tl_9" n="N009"/>to show that there is something lacking in them---for instance, in the great Asiatic religions, there is
+               <lb facs="#facs_36_tr_1_tl_10" n="N010"/>lacking the positive affirmation and valuation of personality, and in the Semitic religions (I mean
+               <lb facs="#facs_36_tr_1_tl_11" n="N011"/>Judaism and Islam), there the LAW point of view is so predominant over against the GRACE point
+            </p>
+            <p facs="#facs_36_tr_2">
+               <lb facs="#facs_36_tr_2_tl_1" n="N001"/>of view that I would say, here Christianity is superior. But you don't need to accept that---these
+               <lb facs="#facs_36_tr_2_tl_2" n="N002"/>arguments are arguments <hi style="font-style: italic;">ad hominem</hi>, they are not arguments from a point of view above them. But
+               <lb facs="#facs_36_tr_2_tl_3" n="N003"/>they are given as arguments in the circle of Christian experience, and try to make this experience
+               <lb facs="#facs_36_tr_2_tl_4" n="N004"/>universal---we cannot go beyond this. That is what the early Church did when it said Jesus the Christ
+               <lb facs="#facs_36_tr_2_tl_5" n="N005"/>is the Logos, i.e., He has universal meaning in His concreteness. Beyond this we cannot go.
+               <lb facs="#facs_36_tr_2_tl_6" n="N006"/>QN: How much is your point of view about an ultimate concern underlying ALL concerns, tied in with
+               <lb facs="#facs_36_tr_2_tl_7" n="N007"/>your theory of a naturalism which is self-transcended?
+               <lb facs="#facs_36_tr_2_tl_8" n="N008"/>PT: I don't know whether I understood that combination of concepts.
+               <lb facs="#facs_36_tr_2_tl_9" n="N009"/>QN: I wonder if a supernaturalist, for example, would be cut off from holding that all concerns
+            </p>
+            <p facs="#facs_36_tr_3">
+               <lb facs="#facs_36_tr_3_tl_1" n="N001"/>are underlaid by an ultimate concern.
+               <lb facs="#facs_36_tr_3_tl_2" n="N002"/>PT: Why would he?
+               <lb facs="#facs_36_tr_3_tl_3" n="N003"/>QN: He would have to infer God---rather than knowing God somehow directly, by being a part of God---
+               <lb facs="#facs_36_tr_3_tl_4" n="N004"/>PT: Don't say such a word as "part of God"---that is very bad theology. Now I don't know whether
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

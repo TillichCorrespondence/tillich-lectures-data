@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLII (Nr. 0566)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p092</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-17">1956-04-17</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_92">
+         <graphic url="TL-0566.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XZGBMFABIIAKKNAOSWIKLKWJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="304,239 2242,239 2242,1974 304,1974" rendition="TextRegion" xml:id="facs_92_tr_1">
+            <zone points="1135,296 1152,296 1164,305 1186,308 1241,308 1248,298 1265,298 1263,257 1205,257 1188,240 1169,260 1133,260" rendition="Line" xml:id="facs_92_tr_1_tl_1"/>
+            <zone points="320,452 2090,459 2090,418 1888,387 320,392" rendition="Line" xml:id="facs_92_tr_1_tl_2"/>
+            <zone points="317,604 1337,628 2167,604 2167,558 317,560" rendition="Line" xml:id="facs_92_tr_1_tl_3"/>
+            <zone points="313,748 2186,758 2186,707 2015,697 313,709" rendition="Line" xml:id="facs_92_tr_1_tl_4"/>
+            <zone points="308,904 2237,909 2191,844 308,854" rendition="Line" xml:id="facs_92_tr_1_tl_5"/>
+            <zone points="296,1049 2169,1065 2148,1003 1763,993 296,1027" rendition="Line" xml:id="facs_92_tr_1_tl_6"/>
+            <zone points="305,1207 1679,1222 2155,1205 2155,1154 305,1159" rendition="Line" xml:id="facs_92_tr_1_tl_7"/>
+            <zone points="303,1359 2092,1364 2232,1354 2232,1291 303,1328" rendition="Line" xml:id="facs_92_tr_1_tl_8"/>
+            <zone points="303,1542 1532,1520 1474,1465 305,1472" rendition="Line" xml:id="facs_92_tr_1_tl_9"/>
+            <zone points="529,1667 2191,1674 2191,1616 529,1619" rendition="Line" xml:id="facs_92_tr_1_tl_10" subtype="paragraph"/>
+            <zone points="291,1811 2177,1821 2104,1753 291,1772" rendition="Line" xml:id="facs_92_tr_1_tl_11"/>
+            <zone points="293,1962 375,1989 1421,1972 1421,1938 1337,1919 293,1919" rendition="Line" xml:id="facs_92_tr_1_tl_12"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0566.jpg" n="part4_p092.jpg" xml:id="img_0092" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p092.jpg"/>
+            
+            <p facs="#facs_92_tr_1">
+               <lb facs="#facs_92_tr_1_tl_1" n="N001"/>-ut.
+               <lb facs="#facs_92_tr_1_tl_2" n="N002"/>which he puts against other elements in order to break down a fixed authoritarian system.
+               <lb facs="#facs_92_tr_1_tl_3" n="N003"/>On the other hand, the kraditionalist who is willing to maintain all the tradition's doesn’t know
+               <lb facs="#facs_92_tr_1_tl_4" n="N004"/>that his act of ;maintaining them is already an act of transforming them, namely of taking them
+               <lb facs="#facs_92_tr_1_tl_5" n="N005"/>into theoregory of the situation out of which he wants to reerstablish them. So we have here the
+               <lb facs="#facs_92_tr_1_tl_6" n="N006"/>situation that, since there cannot be authority in principle but there must beiauth.-rity in fact,
+               <lb facs="#facs_92_tr_1_tl_7" n="N007"/>so there cannot be a tradition which is immovable, but there must be tradition even for those
+               <lb facs="#facs_92_tr_1_tl_8" n="N008"/>who rebell against a fixed tradition. They can rebel against it only in the power of elements which
+               <lb facs="#facs_92_tr_1_tl_9" n="N009"/>are present IN the tradition. This, I hope, gives some answers.
+               <lb facs="#facs_92_tr_1_tl_10" n="N010"/>Now I will then come next Tuesday to the sociological-political realm more directly
+               <lb facs="#facs_92_tr_1_tl_11" n="N011"/>because Thursday is an lnknown hollday /i.e. Patriot's Day-smiling - daughterl, but we still
+               <lb facs="#facs_92_tr_1_tl_12" n="N012"/>have three hours, which will give us ample possibility...
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLII (Nr. 0559)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p085</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-17">1956-04-17</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_85">
+         <graphic url="TL-0559.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WUINBYCKVXAMXDNEIVVXIKUK&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,21 2209,21 2209,1269 298,1269" rendition="TextRegion" xml:id="facs_85_tr_3">
+            <zone points="1088,352 1100,349 1117,364 1147,364 1164,357 1191,364 1199,357 1211,357 1208,288 1191,286 1174,305 1149,308 1132,303 1122,310 1088,313" rendition="Line" xml:id="facs_85_tr_3_tl_2"/>
+            <zone points="293,505 1327,519 1489,509 1489,468 1322,436 1240,470 682,475 598,443 546,477 500,443 465,475 293,475" rendition="Line" xml:id="facs_85_tr_3_tl_3"/>
+            <zone points="497,662 2205,650 2168,601 497,613" rendition="Line" xml:id="facs_85_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="293,812 2058,812 2087,758 293,770" rendition="Line" xml:id="facs_85_tr_3_tl_5"/>
+            <zone points="286,960 2095,957 2097,901 286,921" rendition="Line" xml:id="facs_85_tr_3_tl_6"/>
+            <zone points="293,1112 1834,1110 1853,1056 468,1048 293,1085" rendition="Line" xml:id="facs_85_tr_3_tl_7"/>
+            <zone points="288,1260 1693,1270 2058,1253 2058,1201 288,1216" rendition="Line" xml:id="facs_85_tr_3_tl_8"/>
+         </zone>
+         <zone points="292,1341 2269,1341 2269,2702 292,2702" rendition="TextRegion" xml:id="facs_85_tr_2">
+            <zone points="288,1413 2173,1405 2173,1351 288,1371" rendition="Line" xml:id="facs_85_tr_2_tl_1"/>
+            <zone points="286,1580 2213,1558 2213,1501 288,1533" rendition="Line" xml:id="facs_85_tr_2_tl_2"/>
+            <zone points="286,1713 2259,1708 2259,1654 286,1691" rendition="Line" xml:id="facs_85_tr_2_tl_3"/>
+            <zone points="288,1878 2262,1868 2264,1809 290,1826" rendition="Line" xml:id="facs_85_tr_2_tl_4"/>
+            <zone points="288,2021 1932,2021 2232,2003 2232,1957 288,1976" rendition="Line" xml:id="facs_85_tr_2_tl_5"/>
+            <zone points="288,2171 1201,2198 2188,2159 2188,2107 288,2129" rendition="Line" xml:id="facs_85_tr_2_tl_6"/>
+            <zone points="281,2318 962,2355 2156,2311 2156,2259 281,2277" rendition="Line" xml:id="facs_85_tr_2_tl_7"/>
+            <zone points="288,2471 1999,2469 2144,2461 2144,2407 288,2444" rendition="Line" xml:id="facs_85_tr_2_tl_8"/>
+            <zone points="278,2619 413,2626 426,2638 490,2626 512,2643 554,2626 699,2621 699,2577 667,2562 647,2577 357,2579 337,2565 322,2579 278,2579" rendition="Line" xml:id="facs_85_tr_2_tl_9"/>
+            <zone points="475,2693 2048,2685 2065,2616 475,2636" rendition="Line" xml:id="facs_85_tr_2_tl_10" subtype="paragraph"/>
+         </zone>
+         <zone points="26,2768 2206,2768 2206,3470 26,3470" rendition="TextRegion" xml:id="facs_85_tr_1">
+            <zone points="281,2848 1819,2853 2200,2828 2203,2776 283,2798" rendition="Line" xml:id="facs_85_tr_1_tl_1"/>
+            <zone points="278,2995 2023,2998 2102,2976 2102,2917 281,2956" rendition="Line" xml:id="facs_85_tr_1_tl_2"/>
+            <zone points="864,3150 2112,3128 2077,3086 1971,3077 1868,3106 1637,3077 866,3101" rendition="Line" xml:id="facs_85_tr_1_tl_3"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0559.jpg" n="part4_p085.jpg" xml:id="img_0085" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p085.jpg"/>
+            
+            <p facs="#facs_85_tr_3">
+               <lb facs="#facs_85_tr_3_tl_2" n="N001"/>[554]
+               <lb facs="#facs_85_tr_3_tl_3" n="N002"/>over against all other nations, in theory as well as in practice.
+               <lb facs="#facs_85_tr_3_tl_4" n="N003"/>Now the biblical authority. The biblical authority is based on the identification of the
+               <lb facs="#facs_85_tr_3_tl_5" n="N004"/>biblical text with the presence of the Divine Spirit, in the Old and New Testament writings.
+               <lb facs="#facs_85_tr_3_tl_6" n="N005"/>In this way every word of this book is a place of infallible ultimate authority and cannot be
+               <lb facs="#facs_85_tr_3_tl_7" n="N006"/>criticized from any point of view. The history : has here also judged this idea
+               <lb facs="#facs_85_tr_3_tl_8" n="N007"/>by the very fact of Protestantism being related to secularism, and taking the secular world
+            </p>
+            <p facs="#facs_85_tr_2">
+               <lb facs="#facs_85_tr_2_tl_1" n="N001"/>seriously because God is not identical with the sacred realm; God is related to the secular realm
+               <lb facs="#facs_85_tr_2_tl_2" n="N002"/>as much as to the sacred realm. If this is the case, then the realm of scientific research has its own
+               <lb facs="#facs_85_tr_2_tl_3" n="N003"/> ligious divnity, by its own rules, by it's own honesty, bu its own service to the truth. Now if this is
+               <lb facs="#facs_85_tr_2_tl_4" n="N004"/>admitted, then the historical work done with the biblical books cannot be rejected by Protestantism,
+               <lb facs="#facs_85_tr_2_tl_5" n="N005"/>and if it is accepted, it is obvious that the doctrine which is usually called verbal hispiration cannot
+               <lb facs="#facs_85_tr_2_tl_6" n="N006"/>be accepted, neither from a historical nor from religious point of view: it is a demonstration of the
+               <lb facs="#facs_85_tr_2_tl_7" n="N007"/>belief (which is a Christian belief) that the Bible CONTAINS the genuine documents about the
+               <lb facs="#facs_85_tr_2_tl_8" n="N008"/>event on which Christianity is based, namely the appearance of the Christ and the reception of
+               <lb facs="#facs_85_tr_2_tl_9" n="N009"/>Him by the Church.
+               <lb facs="#facs_85_tr_2_tl_10" n="N010"/>But if this is transformed into a place where everyword and every sentence
+            </p>
+            <p facs="#facs_85_tr_1">
+               <lb facs="#facs_85_tr_1_tl_1" n="N001"/>has conconditional authority about everything in the world, history as well as physics, then we are
+               <lb facs="#facs_85_tr_1_tl_2" n="N002"/>in a demonstration which is always identical with authority in principle. And the history of
+               <lb facs="#facs_85_tr_1_tl_3" n="N003"/>Protestantism has destroyed this demonstration for most Protestants—not for all—
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVII (Nr. 0486)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p012</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-15">1956-03-15</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_12">
+         <graphic url="TL-0486.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=OSTULZZSRXTWGPBMVRTPQQOK&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="328,311 2277,311 2277,1756 328,1756" rendition="TextRegion" xml:id="facs_12_tr_1">
+            <zone points="1137,370 1236,372 1246,365 1258,365 1258,312 1224,312 1210,297 1195,312 1180,312 1171,321 1137,321" rendition="Line" xml:id="facs_12_tr_1_tl_1"/>
+            <zone points="319,538 1928,523 1952,470 321,494" rendition="Line" xml:id="facs_12_tr_1_tl_2"/>
+            <zone points="543,681 1818,679 2042,662 2042,601 545,633" rendition="Line" xml:id="facs_12_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="319,835 2039,815 2071,750 319,784" rendition="Line" xml:id="facs_12_tr_1_tl_4"/>
+            <zone points="314,986 1638,988 2083,966 2086,903 314,956" rendition="Line" xml:id="facs_12_tr_1_tl_5"/>
+            <zone points="319,1149 2086,1127 2112,1064 321,1095" rendition="Line" xml:id="facs_12_tr_1_tl_6"/>
+            <zone points="545,1295 2271,1278 2271,1205 545,1239" rendition="Line" xml:id="facs_12_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="314,1446 2166,1429 2168,1360 314,1419" rendition="Line" xml:id="facs_12_tr_1_tl_8"/>
+            <zone points="321,1599 1869,1592 2100,1572 2103,1521 321,1553" rendition="Line" xml:id="facs_12_tr_1_tl_9"/>
+            <zone points="319,1747 2271,1728 2273,1660 319,1721" rendition="Line" xml:id="facs_12_tr_1_tl_10"/>
+         </zone>
+         <zone points="334,1815 2218,1815 2218,3117 334,3117" rendition="TextRegion" xml:id="facs_12_tr_2">
+            <zone points="329,1906 2181,1886 2183,1825 329,1857" rendition="Line" xml:id="facs_12_tr_2_tl_1"/>
+            <zone points="321,2054 2083,2030 2110,1964 324,2003" rendition="Line" xml:id="facs_12_tr_2_tl_2"/>
+            <zone points="329,2212 1886,2195 2142,2173 2142,2120 331,2156" rendition="Line" xml:id="facs_12_tr_2_tl_3"/>
+            <zone points="324,2353 2052,2334 2076,2273 324,2319" rendition="Line" xml:id="facs_12_tr_2_tl_4"/>
+            <zone points="329,2502 2144,2478 2212,2468 2212,2412 329,2451" rendition="Line" xml:id="facs_12_tr_2_tl_5"/>
+            <zone points="329,2653 1998,2638 2159,2621 2161,2570 329,2609" rendition="Line" xml:id="facs_12_tr_2_tl_6"/>
+            <zone points="336,2821 2161,2772 2190,2709 338,2762" rendition="Line" xml:id="facs_12_tr_2_tl_7"/>
+            <zone points="329,2959 2183,2925 2186,2860 329,2908" rendition="Line" xml:id="facs_12_tr_2_tl_8"/>
+            <zone points="329,3101 1881,3093 2178,3074 2178,3023 331,3076" rendition="Line" xml:id="facs_12_tr_2_tl_9"/>
+         </zone>
+         <zone points="20,3180 2227,3180 2227,3488 20,3488" rendition="TextRegion" xml:id="facs_12_tr_3">
+            <zone points="329,3269 1631,3283 2224,3244 2227,3186 329,3217" rendition="Line" xml:id="facs_12_tr_3_tl_1"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0486.jpg" n="part4_p012.jpg" xml:id="img_0012" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p012.jpg"/>
+            
+            <p facs="#facs_12_tr_1">
+               <lb facs="#facs_12_tr_1_tl_1" n="N001"/>[481]
+               <lb facs="#facs_12_tr_1_tl_2" n="N002"/><rs type="place">Germany</rs>–the teaching elementstrongly [sic.]–but the research element predominantly.
+               <lb facs="#facs_12_tr_1_tl_3" n="N003"/>Now this gives you already a difference, a very typical difference, connected
+               <lb facs="#facs_12_tr_1_tl_4" n="N004"/>with the whole situation in these countries. Therefore the influence of the <rs type="keyword" ref="#University">universites </rs>[sic.] on
+               <lb facs="#facs_12_tr_1_tl_5" n="N005"/>the cultural life of <rs type="place">Germany </rs>was only indirect, but very little direct, in terms of education.
+               <lb facs="#facs_12_tr_1_tl_6" n="N006"/>It was great on the English upper class, and it was fundamental on the French bureaucracy.
+               <lb facs="#facs_12_tr_1_tl_7" n="N007"/>Now let us look at these three functions in their historical setting, and their relationship
+               <lb facs="#facs_12_tr_1_tl_8" n="N008"/>to the problem of religion. First the <rs type="keyword" ref="#Teaching">teaching function</rs> of the <rs type="keyword" ref="#University">university</rs>. From earliest times,
+               <lb facs="#facs_12_tr_1_tl_9" n="N009"/>two different emphases were at the university, namely the humanities and the professions.
+               <lb facs="#facs_12_tr_1_tl_10" n="N010"/>In the Middle Ages they were the <hi style="font-style: italic;">artes liberales</hi>, the liberal arts–today called "the humanities,"
+            </p>
+            <p facs="#facs_12_tr_2">
+               <lb facs="#facs_12_tr_2_tl_1" n="N001"/>in this country, through which everybody had to go, in which one learned physics, astronomy,
+               <lb facs="#facs_12_tr_2_tl_2" n="N002"/>logic, mathematics, and, in which it was necessary, rhetoric (which to a great extent means
+               <lb facs="#facs_12_tr_2_tl_3" n="N003"/>philology), which gave the humanistic pre-condition for the other faculties. Then the other
+               <lb facs="#facs_12_tr_2_tl_4" n="N004"/>faculties were: the first one, the "queen," as it was called in the Middle Ages: theology.
+               <lb facs="#facs_12_tr_2_tl_5" n="N005"/>Then the law faculty, and then the medical faculty. These three were the professional faculties.
+               <lb facs="#facs_12_tr_2_tl_6" n="N006"/>Here we have, from the very beginning, a lot of problems, even besides the religious problem
+               <lb facs="#facs_12_tr_2_tl_7" n="N007"/>(to which I come instantly), namely the question of the relationship of the professional to the
+               <lb facs="#facs_12_tr_2_tl_8" n="N008"/>humanities teaching. Has the university–this was the problem–a function which is connected
+               <lb facs="#facs_12_tr_2_tl_9" n="N009"/>with the practice even in the humanities, even besides the professional training? Here we had
+            </p>
+            <p facs="#facs_12_tr_3">
+               <lb facs="#facs_12_tr_3_tl_1" n="N001"/>a lot of difficulties with the humanities side of teaching. This side could be understood as mere
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

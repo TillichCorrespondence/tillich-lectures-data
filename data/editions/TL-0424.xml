@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXIII (Nr. 0424)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p032</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-08">1956-03-08</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_32">
+         <graphic url="TL-0424.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MPCRJSCKAUZDUCSGAUJOZFAK&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="277,185 2236,185 2236,1266 277,1266" rendition="TextRegion" xml:id="facs_32_tr_2">
+            <zone points="1084,253 1094,253 1116,276 1126,276 1164,253 1214,248 1214,193 1179,191 1162,176 1146,191 1131,188 1121,196 1086,193" rendition="Line" xml:id="facs_32_tr_2_tl_1"/>
+            <zone points="263,514 861,492 1001,534 1982,477 1999,421 1011,409 263,469" rendition="Line" xml:id="facs_32_tr_2_tl_2"/>
+            <zone points="266,665 2160,632 2185,554 266,620" rendition="Line" xml:id="facs_32_tr_2_tl_3"/>
+            <zone points="276,810 2125,773 2125,715 278,758" rendition="Line" xml:id="facs_32_tr_2_tl_4"/>
+            <zone points="263,956 2190,946 2233,858 263,928" rendition="Line" xml:id="facs_32_tr_2_tl_5"/>
+            <zone points="266,1109 2037,1079 2223,1069 2225,1011 268,1056" rendition="Line" xml:id="facs_32_tr_2_tl_6"/>
+            <zone points="266,1257 386,1277 1114,1254 1192,1247 1192,1197 266,1214" rendition="Line" xml:id="facs_32_tr_2_tl_7"/>
+         </zone>
+         <zone points="289,1311 2221,1311 2221,2392 289,2392" rendition="TextRegion" xml:id="facs_32_tr_3">
+            <zone points="494,1407 2020,1397 2075,1382 2077,1320 494,1372" rendition="Line" xml:id="facs_32_tr_3_tl_1" subtype="paragraph"/>
+            <zone points="276,1570 2045,1575 2100,1553 2100,1463 278,1528" rendition="Line" xml:id="facs_32_tr_3_tl_2"/>
+            <zone points="276,1711 961,1703 1086,1756 1357,1691 2097,1698 2158,1613 276,1683" rendition="Line" xml:id="facs_32_tr_3_tl_3"/>
+            <zone points="281,1869 2107,1829 2107,1769 283,1814" rendition="Line" xml:id="facs_32_tr_3_tl_4"/>
+            <zone points="278,2012 331,2052 517,2050 610,2012 828,2012 830,1957 539,1962 522,1944 504,1962 281,1967" rendition="Line" xml:id="facs_32_tr_3_tl_5"/>
+            <zone points="502,2082 1573,2067 1661,2115 2137,2085 2165,1979 502,2037" rendition="Line" xml:id="facs_32_tr_3_tl_6" subtype="paragraph"/>
+            <zone points="281,2238 1581,2230 2092,2203 2112,2150 281,2190" rendition="Line" xml:id="facs_32_tr_3_tl_7"/>
+            <zone points="482,2383 2198,2358 2215,2290 482,2356" rendition="Line" xml:id="facs_32_tr_3_tl_8"/>
+         </zone>
+         <zone points="98,2439 2307,2439 2307,3482 98,3482" rendition="TextRegion" xml:id="facs_32_tr_1">
+            <zone points="281,2589 2275,2504 2296,2433 281,2511" rendition="Line" xml:id="facs_32_tr_1_tl_1"/>
+            <zone points="286,2689 2238,2662 2238,2597 289,2639" rendition="Line" xml:id="facs_32_tr_1_tl_2"/>
+            <zone points="294,2850 2158,2805 2238,2797 2240,2735 296,2810" rendition="Line" xml:id="facs_32_tr_1_tl_3"/>
+            <zone points="286,2993 2168,2960 2245,2948 2248,2883 289,2935" rendition="Line" xml:id="facs_32_tr_1_tl_4"/>
+            <zone points="294,3151 2301,3103 2301,3036 294,3113" rendition="Line" xml:id="facs_32_tr_1_tl_5"/>
+            <zone points="283,3219 863,3221 973,3211 973,3171 351,3164 283,3196" rendition="Line" xml:id="facs_32_tr_1_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0424.jpg" n="part3_p032.jpg" xml:id="img_0032" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p032.jpg"/>
+            
+            <p facs="#facs_32_tr_2">
+               <lb facs="#facs_32_tr_2_tl_1" n="N001"/>[419]
+               <lb facs="#facs_32_tr_2_tl_2" n="N002"/>a matter of ultimate concern. And those movements which fulfill this demand were the
+               <lb facs="#facs_32_tr_2_tl_3" n="N003"/>totalitarian movements, both Nazism and Communism. These movements realized this very early.
+               <lb facs="#facs_32_tr_2_tl_4" n="N004"/>Their main power of strength was just this, that they felt the younger generation wants to have
+               <lb facs="#facs_32_tr_2_tl_5" n="N005"/>something of unconditional character, and they GAVE it to them, with great strictness and severity,
+               <lb facs="#facs_32_tr_2_tl_6" n="N006"/>and the younger generation, many of them, [submitted] to it. And they became later on the storm
+               <lb facs="#facs_32_tr_2_tl_7" n="N007"/>troopers of Fascism, Nazism and Communism.
+            </p>
+            <p facs="#facs_32_tr_3">
+               <lb facs="#facs_32_tr_3_tl_1" n="N001"/>At the same time, and especially after the breakdown of these movements (or of
+               <lb facs="#facs_32_tr_3_tl_2" n="N002"/>two of them) in Western Europe, many people turned to another sphere of ultimate concern,
+               <lb facs="#facs_32_tr_3_tl_3" n="N003"/>of complete commitment, namely the Roman Church. And we had a wave of conversions from
+               <lb facs="#facs_32_tr_3_tl_4" n="N004"/>humanism and Protestantism to the Roman Church for the same reason, because there was a
+               <lb facs="#facs_32_tr_3_tl_5" n="N005"/>''Whereto?'' that answered.
+               <lb facs="#facs_32_tr_3_tl_6" n="N006"/>Now let me see how the situation is here, in this country. Perhaps everything comes
+               <lb facs="#facs_32_tr_3_tl_7" n="N007"/>here (according to historical destiny) a little bit later than in Europe, in terms of the decisive
+               <lb facs="#facs_32_tr_3_tl_8" n="N008"/>spiritual movements. There still was the acceptance of a religious, political and cultural
+            </p>
+            <p facs="#facs_32_tr_1">
+               <lb facs="#facs_32_tr_1_tl_1" n="N001"/>conformism, when I came to this country 20 years ago. But it was already shaken on some points.
+               <lb facs="#facs_32_tr_1_tl_2" n="N002"/>It was shaken by the great crisis in the thirties. It was shaken by the results of the First World War,
+               <lb facs="#facs_32_tr_1_tl_3" n="N003"/>which surely and almost visibly led to the Second World War. It was shaken by the outcome of the
+               <lb facs="#facs_32_tr_1_tl_4" n="N004"/>Second World War, which produced a third so-called ''Cold War.'' And it was shaken by the inner
+               <lb facs="#facs_32_tr_1_tl_5" n="N005"/>emptiness of the beliefs of the twenties into the identity of technical progress with a program towards
+               <lb facs="#facs_32_tr_1_tl_6" n="N006"/>a fulfillment of human existence.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

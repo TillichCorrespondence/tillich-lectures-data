@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLI (Nr. 0550)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p076</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-29">1956-03-29</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_76">
+         <graphic url="TL-0550.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VBEJRDAANLHWDVWMSKFHHWTA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="71,290 2218,290 2218,1986 71,1986" rendition="TextRegion" xml:id="facs_76_tr_1">
+            <zone points="1035,343 1053,348 1068,364 1078,366 1089,366 1096,359 1124,356 1135,361 1147,353 1160,353 1163,295 1132,300 1122,295 1109,307 1096,302 1083,312 1037,307" rendition="Line" xml:id="facs_76_tr_1_tl_1"/>
+            <zone points="289,505 1852,510 2139,499 2139,453 1214,425 848,471 771,392 612,474 289,474" rendition="Line" xml:id="facs_76_tr_1_tl_2"/>
+            <zone points="297,658 2177,656 2180,597 871,628 745,581 297,630" rendition="Line" xml:id="facs_76_tr_1_tl_3"/>
+            <zone points="297,825 2169,804 2167,745 2003,740 300,766" rendition="Line" xml:id="facs_76_tr_1_tl_4"/>
+            <zone points="297,963 2100,958 2100,904 297,922" rendition="Line" xml:id="facs_76_tr_1_tl_5"/>
+            <zone points="302,1124 2018,1099 2018,1045 1752,1037 305,1068" rendition="Line" xml:id="facs_76_tr_1_tl_6"/>
+            <zone points="289,1222 2105,1219 2108,1158 292,1178" rendition="Line" xml:id="facs_76_tr_1_tl_7"/>
+            <zone points="56,1450 300,1378 991,1373 1178,1434 2113,1398 2064,1301 1032,1342 271,1283 59,1345" rendition="Line" xml:id="facs_76_tr_1_tl_8"/>
+            <zone points="289,1524 2008,1521 2159,1511 2159,1450 292,1501" rendition="Line" xml:id="facs_76_tr_1_tl_9"/>
+            <zone points="292,1678 2182,1662 2213,1606 292,1629" rendition="Line" xml:id="facs_76_tr_1_tl_10"/>
+            <zone points="295,1831 2177,1818 2177,1757 1806,1749 297,1778" rendition="Line" xml:id="facs_76_tr_1_tl_11"/>
+            <zone points="292,1985 2149,1964 2164,1903 292,1929" rendition="Line" xml:id="facs_76_tr_1_tl_12"/>
+         </zone>
+         <zone points="94,2051 2289,2051 2289,3485 94,3485" rendition="TextRegion" xml:id="facs_76_tr_2">
+            <zone points="289,2128 2128,2118 2100,2059 292,2085" rendition="Line" xml:id="facs_76_tr_2_tl_1"/>
+            <zone points="302,2297 973,2280 973,2226 302,2239" rendition="Line" xml:id="facs_76_tr_2_tl_2"/>
+            <zone points="540,2428 2221,2413 2205,2344 543,2367" rendition="Line" xml:id="facs_76_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="295,2584 2244,2566 2282,2505 297,2533" rendition="Line" xml:id="facs_76_tr_2_tl_4"/>
+            <zone points="287,2730 1624,2733 1962,2717 1964,2659 287,2702" rendition="Line" xml:id="facs_76_tr_2_tl_5"/>
+            <zone points="302,2892 2085,2871 2110,2810 305,2835" rendition="Line" xml:id="facs_76_tr_2_tl_6"/>
+            <zone points="292,3035 2146,3022 2208,2958 295,2989" rendition="Line" xml:id="facs_76_tr_2_tl_8"/>
+            <zone points="289,3168 2169,3158 2223,3086 292,3114" rendition="Line" xml:id="facs_76_tr_2_tl_9"/>
+            <zone points="289,3296 1567,3294 2044,3268 2044,3212 292,3250" rendition="Line" xml:id="facs_76_tr_2_tl_10"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0550.jpg" n="part4_p076.jpg" xml:id="img_0076" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p076.jpg"/>
+            
+            <p facs="#facs_76_tr_1">
+               <lb facs="#facs_76_tr_1_tl_1" n="N001"/>[545]
+               <lb facs="#facs_76_tr_1_tl_2" n="N002"/>to be obedient to it, and in this way to be BEYOND the law. Here again a religious dimension
+               <lb facs="#facs_76_tr_1_tl_3" n="N003"/>comes into all ethics. If you ask the automomous moralist or ethicist what is the strength or the
+               <lb facs="#facs_76_tr_1_tl_4" n="N004"/>power out of which a man is able to fullill the law, then he perhaps can answer: the strength of
+               <lb facs="#facs_76_tr_1_tl_5" n="N005"/>his good will, the obedience to the law, the freedom to act as he OUGHT to act—ultimately,
+               <lb facs="#facs_76_tr_1_tl_6" n="N006"/>in the Kantian formula: "You ought, therefore you can," or "You can, for you ought.
+               <lb facs="#facs_76_tr_1_tl_7" n="N007"/>Now this contradicts even many elements in Kant's own thinking, and it contradicts the real
+               <lb facs="#facs_76_tr_1_tl_8" n="N008"/>of experience of mankind in all periods. "YOU OUGHT, BUT MaU CANNOT!" is the reality.
+               <lb facs="#facs_76_tr_1_tl_9" n="N009"/>And why the "You cannot"?—because in the moment in which there is a law, we are separated
+               <lb facs="#facs_76_tr_1_tl_10" n="N010"/>from what we essentialy are. If we were not SEPARATED from it, there WOULON'T be a law¬
+               <lb facs="#facs_76_tr_1_tl_11" n="N011"/>we would be identical with this. There is no law to those who are actually what they essentially
+               <lb facs="#facs_76_tr_1_tl_12" n="N012"/>are.„nothing is commanded to them, because they do it anyhow—they act in love because love
+            </p>
+            <p facs="#facs_76_tr_2">
+               <lb facs="#facs_76_tr_2_tl_1" n="N001"/>is their reality. But we are SEPARATED from love, and therefore love becomes the ultimate
+               <lb facs="#facs_76_tr_2_tl_2" n="N002"/>principle of the moral imperative.
+               <lb facs="#facs_76_tr_2_tl_3" n="N003"/>Now if this is the case, then obviously the question is: how can love become united
+               <lb facs="#facs_76_tr_2_tl_4" n="N004"/>with our actual being in such a way that we are able to Iulfill the law, although we are SEPARATED
+               <lb facs="#facs_76_tr_2_tl_5" n="N005"/>from our essential being, and that means SEPARATED FROM the principle of love?
+               <lb facs="#facs_76_tr_2_tl_6" n="N006"/>Here the religious answer comes in, and it is that answer to which I already pointed, namely
+               <lb facs="#facs_76_tr_2_tl_8" n="N007"/>the answer of the Spirit. Spirit means is within mankind a power of réunion, of munion of the
+               <lb facs="#facs_76_tr_2_tl_9" n="N008"/>separated, and which means a power of love which is the source of all strength to act according to
+               <lb facs="#facs_76_tr_2_tl_10" n="N009"/>the.imperative. MITHOUT these powers—which are called grace, in another terminology
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

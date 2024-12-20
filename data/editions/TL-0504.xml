@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVIII (Nr. 0504)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p030</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-20">1956-03-20</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_30">
+         <graphic url="TL-0504.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=BZYQSIVWLYAEQPGXUPJNGKUG&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="250,6 2236,6 2236,1084 250,1084" rendition="TextRegion" xml:id="facs_30_tr_2">
+            <zone points="1159,318 1193,315 1203,326 1234,326 1239,321 1247,326 1265,326 1272,318 1288,318 1285,267 1249,267 1234,251 1218,264 1157,264" rendition="Line" xml:id="facs_30_tr_2_tl_2"/>
+            <zone points="239,475 2229,475 2229,426 239,439" rendition="Line" xml:id="facs_30_tr_2_tl_3"/>
+            <zone points="236,618 990,628 990,569 852,572 831,593 775,569 287,575 236,595" rendition="Line" xml:id="facs_30_tr_2_tl_5"/>
+            <zone points="239,780 2116,782 2116,718 239,752" rendition="Line" xml:id="facs_30_tr_2_tl_6"/>
+            <zone points="236,926 2114,921 2114,864 236,882" rendition="Line" xml:id="facs_30_tr_2_tl_7"/>
+            <zone points="236,1080 1870,1090 2119,1070 2121,1018 236,1049" rendition="Line" xml:id="facs_30_tr_2_tl_8"/>
+         </zone>
+         <zone points="53,1165 2289,1165 2289,3482 53,3482" rendition="TextRegion" xml:id="facs_30_tr_1">
+            <zone points="233,1231 1837,1254 1837,1175 1742,1154 233,1188" rendition="Line" xml:id="facs_30_tr_1_tl_1"/>
+            <zone points="226,1377 2047,1398 2244,1375 2244,1321 226,1336" rendition="Line" xml:id="facs_30_tr_1_tl_2"/>
+            <zone points="231,1534 2170,1526 2170,1470 231,1506" rendition="Line" xml:id="facs_30_tr_1_tl_3"/>
+            <zone points="426,1675 2085,1688 2244,1683 2244,1621 426,1634" rendition="Line" xml:id="facs_30_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="223,1829 2221,1831 2257,1772 226,1785" rendition="Line" xml:id="facs_30_tr_1_tl_5"/>
+            <zone points="221,1978 2237,1962 1908,1913 221,1937" rendition="Line" xml:id="facs_30_tr_1_tl_6"/>
+            <zone points="223,2129 1388,2160 2185,2134 2285,2073 223,2106" rendition="Line" xml:id="facs_30_tr_1_tl_8"/>
+            <zone points="231,2291 2211,2285 2242,2221 231,2237" rendition="Line" xml:id="facs_30_tr_1_tl_9"/>
+            <zone points="223,2434 2044,2437 2132,2434 2132,2378 223,2391" rendition="Line" xml:id="facs_30_tr_1_tl_10"/>
+            <zone points="231,2588 2093,2580 2165,2575 2165,2521 231,2539" rendition="Line" xml:id="facs_30_tr_1_tl_11"/>
+            <zone points="231,2752 2132,2727 2155,2670 231,2698" rendition="Line" xml:id="facs_30_tr_1_tl_12"/>
+            <zone points="226,2888 2129,2888 2255,2875 2255,2819 226,2847" rendition="Line" xml:id="facs_30_tr_1_tl_14"/>
+            <zone points="223,3047 2167,3034 2116,2978 226,3004" rendition="Line" xml:id="facs_30_tr_1_tl_15"/>
+            <zone points="267,3127 2139,3124 2170,3060 267,3081" rendition="Line" xml:id="facs_30_tr_1_tl_16"/>
+            <zone points="259,3196 2201,3191 2270,3132 259,3163" rendition="Line" xml:id="facs_30_tr_1_tl_17"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0504.jpg" n="part4_p030.jpg" xml:id="img_0030" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p030.jpg"/>
+            
+            <p facs="#facs_30_tr_2">
+               <lb facs="#facs_30_tr_2_tl_2" n="N001"/>[499]
+               <lb facs="#facs_30_tr_2_tl_3" n="N002"/>the abuse of the word "educators," which are always people who come from the teaching profession,
+               <lb facs="#facs_30_tr_2_tl_5" n="N003"/>or at least teaching institutes, and are "educators" because they administrate teaching --
+               <lb facs="#facs_30_tr_2_tl_6" n="N004"/>. . . [it] has very little to do with education; neither is administration, education, nor is teaching
+               <lb facs="#facs_30_tr_2_tl_7" n="N005"/>IN ITSELF education. Now it can be. Both can be, by the way---even administration can have
+               <lb facs="#facs_30_tr_2_tl_8" n="N006"/>educational influence. But what is education? I think I made it quite clear: introducig into a
+            </p>
+            <p facs="#facs_30_tr_1">
+               <lb facs="#facs_30_tr_1_tl_1" n="N001"/>reality in which a community lives, expresses itself, in rules and symbols; and the educational process
+               <lb facs="#facs_30_tr_1_tl_2" n="N002"/>is to introduce individuals into these realms, and at the same time, [it] gives them, through some special
+               <lb facs="#facs_30_tr_1_tl_3" n="N003"/>symbols expressing this, the freedom to protest against this introduction. That was my education.
+               <lb facs="#facs_30_tr_1_tl_4" n="N004"/>Now all this CAN be performed, let us say, in ten percent of the whole educational process,
+               <lb facs="#facs_30_tr_1_tl_5" n="N005"/>by teaching. But the other 90%---I think 50 at least---are being done by the home, by the surroundings,
+               <lb facs="#facs_30_tr_1_tl_6" n="N006"/>by the walls of the house, by the situation of the dining room in relation to the studio of the father---
+               <lb facs="#facs_30_tr_1_tl_8" n="N007"/>these are the realities of the life which are decisive for the balance [of one's] whole life, and innumerable other things like
+               <lb facs="#facs_30_tr_1_tl_9" n="N008"/>that. Then the friends in childhood with whom you play---and playingwith [sic.] other children, not always
+               <lb facs="#facs_30_tr_1_tl_10" n="N009"/>under the supervision of nurses in a nursery school, but on the street where they are free to play
+               <lb facs="#facs_30_tr_1_tl_11" n="N010"/>with each other, is again more educational than most teaching. And so I could go on. Then I told
+               <lb facs="#facs_30_tr_1_tl_12" n="N011"/>you, I think, about my own experience, that the real educators were the other students who were
+               <lb facs="#facs_30_tr_1_tl_14" n="N012"/>one or two years older than you and who were higher authorities than the most famous professors altogether!
+               <lb facs="#facs_30_tr_1_tl_15" n="N013"/>QN [Earl Scott]: Two of the other questions that have been asked today seem to raise a problem
+               <lb facs="#facs_30_tr_1_tl_16" n="N014"/>that is very difficult: 1) the categories or dimensions of truth; 2) the faculties in the university.
+               <lb facs="#facs_30_tr_1_tl_17" n="N015"/>Does the answer to that mean then that, for example, the concrete symbol of ultimate concern which
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVII (Nr. 0492)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p018</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-15">1956-03-15</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_18">
+         <graphic url="TL-0492.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WBAVVEFHJGHESEURNGTOLITK&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="32,42 2254,42 2254,1711 32,1711" rendition="TextRegion" xml:id="facs_18_tr_1">
+            <zone points="1115,328 1177,343 1216,340 1223,333 1237,333 1237,273 1204,276 1192,264 1184,264 1156,292 1115,292" rendition="Line" xml:id="facs_18_tr_1_tl_2"/>
+            <zone points="333,499 2035,487 2119,441 336,436" rendition="Line" xml:id="facs_18_tr_1_tl_3"/>
+            <zone points="326,652 2095,643 2160,597 326,602" rendition="Line" xml:id="facs_18_tr_1_tl_4"/>
+            <zone points="324,791 1474,796 1491,738 1103,724 933,767 324,746" rendition="Line" xml:id="facs_18_tr_1_tl_5"/>
+            <zone points="544,945 2139,949 2141,885 547,904" rendition="Line" xml:id="facs_18_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="319,1156 760,1120 1422,1127 1422,1043 319,1072" rendition="Line" xml:id="facs_18_tr_1_tl_7"/>
+            <zone points="547,1247 1889,1254 2069,1230 2069,1182 547,1201" rendition="Line" xml:id="facs_18_tr_1_tl_8" subtype="paragraph"/>
+            <zone points="321,1398 837,1443 2177,1405 2179,1333 324,1371" rendition="Line" xml:id="facs_18_tr_1_tl_9"/>
+            <zone points="324,1551 1959,1573 2191,1534 2191,1486 324,1510" rendition="Line" xml:id="facs_18_tr_1_tl_10"/>
+            <zone points="324,1705 2112,1702 2251,1683 2251,1633 324,1678" rendition="Line" xml:id="facs_18_tr_1_tl_12"/>
+         </zone>
+         <zone points="328,1774 2236,1774 2236,2917 328,2917" rendition="TextRegion" xml:id="facs_18_tr_3">
+            <zone points="319,1853 1990,1851 2213,1836 2215,1786 321,1808" rendition="Line" xml:id="facs_18_tr_3_tl_1"/>
+            <zone points="321,2009 1086,2052 1204,1997 2045,1992 2045,1942 321,1980" rendition="Line" xml:id="facs_18_tr_3_tl_2"/>
+            <zone points="415,2163 1961,2158 2143,2141 2143,2088 415,2110" rendition="Line" xml:id="facs_18_tr_3_tl_3"/>
+            <zone points="319,2304 1896,2309 2105,2299 2105,2244 321,2278" rendition="Line" xml:id="facs_18_tr_3_tl_4"/>
+            <zone points="324,2455 2064,2455 2119,2395 324,2431" rendition="Line" xml:id="facs_18_tr_3_tl_5"/>
+            <zone points="321,2659 2213,2589 2227,2537 324,2565" rendition="Line" xml:id="facs_18_tr_3_tl_6"/>
+            <zone points="314,2757 2067,2750 2201,2740 2201,2685 314,2716" rendition="Line" xml:id="facs_18_tr_3_tl_7"/>
+            <zone points="319,2908 2086,2894 2230,2887 2232,2834 319,2884" rendition="Line" xml:id="facs_18_tr_3_tl_8"/>
+         </zone>
+         <zone points="56,2980 2197,2980 2197,3485 56,3485" rendition="TextRegion" xml:id="facs_18_tr_2">
+            <zone points="324,3064 2091,3054 2194,3038 2194,2978 326,3018" rendition="Line" xml:id="facs_18_tr_2_tl_1"/>
+            <zone points="324,3210 1995,3213 2026,3150 324,3165" rendition="Line" xml:id="facs_18_tr_2_tl_2"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0492.jpg" n="part4_p018.jpg" xml:id="img_0018" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p018.jpg"/>
+            
+            <p facs="#facs_18_tr_1">
+               <lb facs="#facs_18_tr_1_tl_2" n="N001"/>[487]
+               <lb facs="#facs_18_tr_1_tl_3" n="N002"/>ANY professor had. I remember that my REAL education was done by students who were
+               <lb facs="#facs_18_tr_1_tl_4" n="N003"/>perhaps one or two years older than I, who were, in my valuation, higher above ANY professor
+               <lb facs="#facs_18_tr_1_tl_5" n="N004"/>in educational power, wisdom, and spiritual representation.
+               <lb facs="#facs_18_tr_1_tl_6" n="N005"/>Now this shows that the <rs type="keyword" ref="#University">university </rs>AS SUCH has completely lost the community
+               <lb facs="#facs_18_tr_1_tl_7" n="N006"/>element, to which I referred in my historical statement.
+               <lb facs="#facs_18_tr_1_tl_8" n="N007"/>Then the third, namely <rs type="keyword" ref="#Research">research</rs>. In <rs type="place">Germany</rs> there was very little spoken of
+               <lb facs="#facs_18_tr_1_tl_9" n="N008"/>the educational side, but the problem always was [the] combining ]of] teaching and research.
+               <lb facs="#facs_18_tr_1_tl_10" n="N009"/>This combination indeed is something which I consider to be absolutely necessary. This is said
+               <lb facs="#facs_18_tr_1_tl_12" n="N010"/>against the professors more than against the students. A professor–especially in everything which
+            </p>
+            <p facs="#facs_18_tr_3">
+               <lb facs="#facs_18_tr_3_tl_1" n="N001"/>is near to the humanities–who is not able to teach, is not able to create. Only in very few cases–
+               <lb facs="#facs_18_tr_3_tl_2" n="N002"/>men like <rs type="person" ref="#tillich_person_id__1737">Schopenhauer</rs> and <rs type="person" ref="#tillich_person_id__1394">Nietzsche</rs> in the 19th century, and a few others---were able
+               <lb facs="#facs_18_tr_3_tl_3" n="N003"/>(after they had left the university---they started there, too) to create great things in their
+               <lb facs="#facs_18_tr_3_tl_4" n="N004"/>realm without teaching. But these great things had also their limits, which they probably
+               <lb facs="#facs_18_tr_3_tl_5" n="N005"/>wouldn't have [had] if research HAD been combined with teaching. And the main thing is
+               <lb facs="#facs_18_tr_3_tl_6" n="N006"/>that teaching means seeing oneself in a mirror. And this is the decisive thing about this combina-
+               <lb facs="#facs_18_tr_3_tl_7" n="N007"/>tion, that giving one's own limited wisdom to others who have, in this point, perhaps even
+               <lb facs="#facs_18_tr_3_tl_8" n="N008"/>a more limited wisdom, forces you [in] to things which the private scholar would never be forced
+            </p>
+            <p facs="#facs_18_tr_2">
+               <lb facs="#facs_18_tr_2_tl_1" n="N001"/>into, namely to see, in connection with community, the content of what you are teaching, and
+               <lb facs="#facs_18_tr_2_tl_2" n="N002"/>every teaching relationship should be (more than it is) a relationship of community.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

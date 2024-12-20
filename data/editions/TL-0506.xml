@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVIII (Nr. 0506)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p032</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-20">1956-03-20</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_32">
+         <graphic url="TL-0506.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YPAFAEWPVGIZYYORNRDTOEBO&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="38,6 2289,6 2289,947 38,947" rendition="TextRegion" xml:id="facs_32_tr_3">
+            <zone points="1109,323 1130,325 1137,333 1153,338 1181,338 1188,330 1224,333 1224,254 1201,254 1173,279 1163,274 1153,279 1147,274 1132,289 1109,289" rendition="Line" xml:id="facs_32_tr_3_tl_2"/>
+            <zone points="248,484 2141,517 2095,407 1923,435 1839,369 1737,435 248,453" rendition="Line" xml:id="facs_32_tr_3_tl_3"/>
+            <zone points="254,635 653,679 2136,638 2139,581 1806,543 254,612" rendition="Line" xml:id="facs_32_tr_3_tl_4"/>
+            <zone points="256,791 2029,786 2190,779 2190,730 256,745" rendition="Line" xml:id="facs_32_tr_3_tl_6"/>
+            <zone points="256,948 2069,943 2282,932 2282,879 256,912" rendition="Line" xml:id="facs_32_tr_3_tl_7"/>
+         </zone>
+         <zone points="259,1021 2307,1021 2307,2682 259,2682" rendition="TextRegion" xml:id="facs_32_tr_1">
+            <zone points="256,1099 2080,1096 2200,1086 2200,1032 256,1050" rendition="Line" xml:id="facs_32_tr_1_tl_1"/>
+            <zone points="251,1240 2011,1247 2223,1196 254,1199" rendition="Line" xml:id="facs_32_tr_1_tl_2"/>
+            <zone points="254,1398 1941,1398 2274,1381 2274,1327 254,1345" rendition="Line" xml:id="facs_32_tr_1_tl_3"/>
+            <zone points="248,1542 1614,1557 2131,1534 2131,1478 248,1519" rendition="Line" xml:id="facs_32_tr_1_tl_4"/>
+            <zone points="248,1696 2062,1696 2198,1685 2198,1624 248,1647" rendition="Line" xml:id="facs_32_tr_1_tl_5"/>
+            <zone points="248,1847 1747,1859 2205,1831 2205,1780 248,1801" rendition="Line" xml:id="facs_32_tr_1_tl_6"/>
+            <zone points="251,1993 482,2013 553,1993 948,1998 948,1944 251,1944" rendition="Line" xml:id="facs_32_tr_1_tl_7"/>
+            <zone points="254,2146 2213,2134 2213,2067 2121,2064 256,2090" rendition="Line" xml:id="facs_32_tr_1_tl_8"/>
+            <zone points="289,2223 1557,2231 1785,2215 1785,2151 289,2195" rendition="Line" xml:id="facs_32_tr_1_tl_9"/>
+            <zone points="254,2382 2167,2374 2185,2305 254,2323" rendition="Line" xml:id="facs_32_tr_1_tl_10"/>
+            <zone points="251,2531 2246,2564 2264,2443 254,2479" rendition="Line" xml:id="facs_32_tr_1_tl_11"/>
+            <zone points="246,2674 735,2723 2300,2661 2300,2605 246,2633" rendition="Line" xml:id="facs_32_tr_1_tl_12"/>
+         </zone>
+         <zone points="23,2744 2269,2744 2269,3479 23,3479" rendition="TextRegion" xml:id="facs_32_tr_2">
+            <zone points="246,2825 2215,2820 2218,2753 246,2799" rendition="Line" xml:id="facs_32_tr_2_tl_1"/>
+            <zone points="251,2979 2075,2966 2139,2907 254,2933" rendition="Line" xml:id="facs_32_tr_2_tl_2"/>
+            <zone points="256,3130 2105,3120 2259,3109 2262,3056 259,3076" rendition="Line" xml:id="facs_32_tr_2_tl_3"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0506.jpg" n="part4_p032.jpg" xml:id="img_0032" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p032.jpg"/>
+            
+            <p facs="#facs_32_tr_3">
+               <lb facs="#facs_32_tr_3_tl_2" n="N001"/>[501]
+               <lb facs="#facs_32_tr_3_tl_3" n="N002"/>in Harvard, but it did exist. And this interrelation is in my opinion absolutely necessary for the
+               <lb facs="#facs_32_tr_3_tl_4" n="N003"/>education of theologians---that is the first function; for the simple PROFESSIONAL education,
+               <lb facs="#facs_32_tr_3_tl_6" n="N004"/>it is absolutely necessary. Then it is necessary for the openness of the theologians---professors and
+               <lb facs="#facs_32_tr_3_tl_7" n="N005"/>students---for the other activities of so-called higher education, or high teaching, or university---however
+            </p>
+            <p facs="#facs_32_tr_1">
+               <lb facs="#facs_32_tr_1_tl_1" n="N001"/>you call it. Then the third, namely the relationship of these other faculties TO what is going on in
+               <lb facs="#facs_32_tr_1_tl_2" n="N002"/>the theological faculty. And the very fact that . . . you were in Union Seminary for many years . . .
+               <lb facs="#facs_32_tr_1_tl_3" n="N003"/>the other side, namely the looking of the university to what is going on in the divinity School was not
+               <lb facs="#facs_32_tr_1_tl_4" n="N004"/>as fully developed as it is here, and I think this is a great mistake. Now if you have the isolated
+               <lb facs="#facs_32_tr_1_tl_5" n="N005"/>seminaries, which are under church rule, then I would say they are very dangerous for the spiritual
+               <lb facs="#facs_32_tr_1_tl_6" n="N006"/>life of the country because they keep the ecclesiastical groups in isolation from what is going on in
+               <lb facs="#facs_32_tr_1_tl_7" n="N007"/>the totality of the educational life.
+               <lb facs="#facs_32_tr_1_tl_8" n="N008"/>QN: I still cannot understand how you distinguish these different ultimate concerns in these levels
+               <lb facs="#facs_32_tr_1_tl_9" n="N009"/>of the faculties. Are they the same ultimate concern, or are they different?
+               <lb facs="#facs_32_tr_1_tl_10" n="N010"/>PT: This is very simple. Ultimate concern <hi style="font-style: italic;">qua</hi> ultimate concern are always the same, simply
+               <lb facs="#facs_32_tr_1_tl_11" n="N011"/>because it has this name "ultimate concern." It is ULTIMATE, and in this sense it is always identical.
+               <lb facs="#facs_32_tr_1_tl_12" n="N012"/>But the CONTENT is always different. The way in which it appears THROUGH the concrete elements.
+            </p>
+            <p facs="#facs_32_tr_2">
+               <lb facs="#facs_32_tr_2_tl_1" n="N001"/>And this is different in the great religions, it is different in the daily-life work of everybody in every
+               <lb facs="#facs_32_tr_2_tl_2" n="N002"/>country and in every religion. Take the same Protestant group, take a very narrow one---I don't
+               <lb facs="#facs_32_tr_2_tl_3" n="N003"/>want to name any---<hi style="font-style: italic;">[laughter</hi>---in them, even the people who are shoemakers and who are businessmen
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

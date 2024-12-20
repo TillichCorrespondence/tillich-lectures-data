@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVIII (Nr. 0501)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p027</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-20">1956-03-20</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_27">
+         <graphic url="TL-0501.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QWMOYYLLUNZEGMMOQQCROIWN&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="244,15 2307,15 2307,1299 244,1299" rendition="TextRegion" xml:id="facs_27_tr_2">
+            <zone points="1174,341 1195,338 1210,351 1244,344 1254,351 1273,349 1283,341 1296,341 1293,291 1257,291 1239,278 1228,284 1221,278 1197,302 1171,302" rendition="Line" xml:id="facs_27_tr_2_tl_2"/>
+            <zone points="245,500 1991,515 2233,481 2233,416 245,461" rendition="Line" xml:id="facs_27_tr_2_tl_3"/>
+            <zone points="247,653 2189,640 2264,578 247,617" rendition="Line" xml:id="facs_27_tr_2_tl_4"/>
+            <zone points="242,802 1767,789 1767,726 242,742" rendition="Line" xml:id="facs_27_tr_2_tl_5"/>
+            <zone points="245,908 2113,900 2131,843 245,864" rendition="Line" xml:id="facs_27_tr_2_tl_6"/>
+            <zone points="265,989 1970,981 1988,924 265,940" rendition="Line" xml:id="facs_27_tr_2_tl_7"/>
+            <zone points="281,1072 2163,1062 2301,999 281,1023" rendition="Line" xml:id="facs_27_tr_2_tl_8"/>
+            <zone points="278,1140 1400,1142 1533,1135 1535,1075 278,1098" rendition="Line" xml:id="facs_27_tr_2_tl_9"/>
+            <zone points="229,1283 1936,1293 2118,1280 2118,1218 229,1257" rendition="Line" xml:id="facs_27_tr_2_tl_10"/>
+         </zone>
+         <zone points="250,1368 2334,1368 2334,2353 250,2353" rendition="TextRegion" xml:id="facs_27_tr_3">
+            <zone points="245,1442 2275,1439 2275,1369 245,1398" rendition="Line" xml:id="facs_27_tr_3_tl_1"/>
+            <zone points="237,1595 1676,1598 1861,1590 1861,1525 237,1564" rendition="Line" xml:id="facs_27_tr_3_tl_2"/>
+            <zone points="242,1746 1681,1751 2134,1731 2134,1673 242,1694" rendition="Line" xml:id="facs_27_tr_3_tl_3"/>
+            <zone points="278,1822 502,1840 697,1819 869,1832 872,1770 820,1759 755,1793 721,1759 697,1783 640,1783 622,1764 583,1783 562,1764 541,1785 440,1772 281,1796" rendition="Line" xml:id="facs_27_tr_3_tl_4"/>
+            <zone points="239,1897 2327,1887 2264,1822 239,1843" rendition="Line" xml:id="facs_27_tr_3_tl_5"/>
+            <zone points="237,2040 2046,2046 2095,1973 237,2014" rendition="Line" xml:id="facs_27_tr_3_tl_6"/>
+            <zone points="239,2191 1918,2199 2204,2181 2207,2121 239,2144" rendition="Line" xml:id="facs_27_tr_3_tl_7"/>
+            <zone points="239,2355 1843,2350 2288,2293 239,2319" rendition="Line" xml:id="facs_27_tr_3_tl_8"/>
+         </zone>
+         <zone points="92,2425 2206,2425 2206,3488 92,3488" rendition="TextRegion" xml:id="facs_27_tr_1">
+            <zone points="239,2498 1746,2501 2150,2485 2150,2428 239,2449" rendition="Line" xml:id="facs_27_tr_1_tl_1"/>
+            <zone points="239,2660 2165,2639 2202,2574 239,2602" rendition="Line" xml:id="facs_27_tr_1_tl_2"/>
+            <zone points="234,2800 2043,2798 2181,2782 2181,2727 237,2764" rendition="Line" xml:id="facs_27_tr_1_tl_3"/>
+            <zone points="245,2954 2111,2943 2142,2897 245,2902" rendition="Line" xml:id="facs_27_tr_1_tl_4"/>
+            <zone points="237,3110 1822,3094 1824,3037 237,3074" rendition="Line" xml:id="facs_27_tr_1_tl_6"/>
+            <zone points="239,3258 263,3269 328,3261 375,3279 614,3274 612,3217 515,3211 468,3224 349,3224 312,3209 237,3209" rendition="Line" xml:id="facs_27_tr_1_tl_7"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0501.jpg" n="part4_p027.jpg" xml:id="img_0027" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p027.jpg"/>
+            
+            <p facs="#facs_27_tr_2">
+               <lb facs="#facs_27_tr_2_tl_2" n="N001"/>[496]
+               <lb facs="#facs_27_tr_2_tl_3" n="N002"/>which would also have OPPOSITE consequences, namely that science has to resist such interferences
+               <lb facs="#facs_27_tr_2_tl_4" n="N003"/>and that therefore we are in the sphere of conflicts between existential truth and empirical truth. And
+               <lb facs="#facs_27_tr_2_tl_5" n="N004"/>that is just what I want to avoid IN THE WHOLE YEAR of these lectures.
+               <lb facs="#facs_27_tr_2_tl_6" n="N005"/>QN: I wonder if you could expand a little on the second two functions of a<rs type="keyword" ref="#Theological_faculty"> theological faculty</rs>
+               <lb facs="#facs_27_tr_2_tl_7" n="N006"/>in the university. You said the first was that of the professional school, and the second
+               <lb facs="#facs_27_tr_2_tl_8" n="N007"/>represented ultimate concern, in certain concrete symbols, and the third represented something under-
+               <lb facs="#facs_27_tr_2_tl_9" n="N008"/>lying the whole universe. Could you expand on the latter two?
+               <lb facs="#facs_27_tr_2_tl_10" n="N009"/>PT: The first, we don't need to discuss now because that is the professional side of it, which is
+            </p>
+            <p facs="#facs_27_tr_3">
+               <lb facs="#facs_27_tr_3_tl_1" n="N001"/>very similar to the medical and the law school. There, professional rules are prevailing and people who
+               <lb facs="#facs_27_tr_3_tl_2" n="N002"/>want to go into this profession have to know these rules and their application.
+               <lb facs="#facs_27_tr_3_tl_3" n="N003"/>QN: You said, like the medical and legal faculties, it represents ultimate concern. in [sic.] certain
+               <lb facs="#facs_27_tr_3_tl_4" n="N004"/>concrete symbols and . . . [?]
+               <lb facs="#facs_27_tr_3_tl_5" n="N005"/>PT: Let me see if I made an unclear formulation. . . . The first point was: the professional point remains,
+               <lb facs="#facs_27_tr_3_tl_6" n="N006"/>as in all the professional schools. Then what has a theological faculty to do in the university?
+               <lb facs="#facs_27_tr_3_tl_7" n="N007"/>There I said that there is an underlying element of ultimate concern in all human life, and therefore
+               <lb facs="#facs_27_tr_3_tl_8" n="N008"/>also in all studies of anything. That underlying element is expressed in many ways, and is, for instance---
+            </p>
+            <p facs="#facs_27_tr_1">
+               <lb facs="#facs_27_tr_1_tl_1" n="N001"/>I come to this later on today, or Thursday---in the ETHICS of the different professions and their
+               <lb facs="#facs_27_tr_1_tl_2" n="N002"/>unconditional claims. It is expressed in the way in which many of the representatives of these
+               <lb facs="#facs_27_tr_1_tl_3" n="N003"/>functions give consecration to what they are doing. It is expressed in some very concrete symbols
+               <lb facs="#facs_27_tr_1_tl_4" n="N004"/>which appear in art and literature, for the relationship of man to nature, for his scientific mind---
+               <lb facs="#facs_27_tr_1_tl_6" n="N005"/>there is always a permeating ultimacy in the presuppositions of all these realms. Now this is
+               <lb facs="#facs_27_tr_1_tl_7" n="N006"/>the one side of it.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

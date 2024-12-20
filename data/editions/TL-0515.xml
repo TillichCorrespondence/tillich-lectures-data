@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" subtype="first_page">Lecture XXXIX (Nr. 0515)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p041</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-22">1956-03-22</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_41">
+         <graphic url="TL-0515.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NEIVGWSCLBGSVTGBIMNXQLNZ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="274,254 2242,254 2242,1254 274,1254" rendition="TextRegion" xml:id="facs_41_tr_2">
+            <zone points="1135,317 1159,317 1180,328 1234,325 1245,317 1261,317 1264,247 1221,253 1207,266 1137,266" rendition="Line" xml:id="facs_41_tr_2_tl_1"/>
+            <zone points="263,471 1006,479 1006,419 874,422 855,401 782,430 718,406 688,430 648,406 266,409" rendition="Line" xml:id="facs_41_tr_2_tl_2" subtype="heading"/>
+            <zone points="266,624 2092,629 2113,549 266,559" rendition="Line" xml:id="facs_41_tr_2_tl_3"/>
+            <zone points="298,721 2234,726 2234,664 298,688" rendition="Line" xml:id="facs_41_tr_2_tl_4"/>
+            <zone points="298,793 2078,807 2111,734 298,769" rendition="Line" xml:id="facs_41_tr_2_tl_5"/>
+            <zone points="296,868 2138,868 2138,807 298,825" rendition="Line" xml:id="facs_41_tr_2_tl_6"/>
+            <zone points="258,1024 1390,1024 1390,955 1188,984 1084,957 1054,987 1027,960 979,987 258,960" rendition="Line" xml:id="facs_41_tr_2_tl_7"/>
+            <zone points="258,1097 2127,1092 2127,1032 258,1046" rendition="Line" xml:id="facs_41_tr_2_tl_8"/>
+            <zone points="516,1172 2175,1180 2178,1124 519,1135" rendition="Line" xml:id="facs_41_tr_2_tl_9"/>
+            <zone points="290,1250 1855,1261 1882,1196 290,1218" rendition="Line" xml:id="facs_41_tr_2_tl_10"/>
+         </zone>
+         <zone points="23,1335 2400,1335 2400,3484 23,3484" rendition="TextRegion" xml:id="facs_41_tr_1">
+            <zone points="250,1404 2186,1398 2186,1331 250,1339" rendition="Line" xml:id="facs_41_tr_1_tl_1"/>
+            <zone points="247,1551 1635,1559 1844,1549 1847,1484 247,1519" rendition="Line" xml:id="facs_41_tr_1_tl_2"/>
+            <zone points="253,1707 2073,1702 2073,1637 253,1646" rendition="Line" xml:id="facs_41_tr_1_tl_3"/>
+            <zone points="293,1793 2046,1780 2151,1732 293,1729" rendition="Line" xml:id="facs_41_tr_1_tl_4"/>
+            <zone points="242,1922 2167,1933 2315,1928 2315,1858 242,1869" rendition="Line" xml:id="facs_41_tr_1_tl_5"/>
+            <zone points="242,2076 1995,2086 2218,2078 2218,2011 242,2022" rendition="Line" xml:id="facs_41_tr_1_tl_6"/>
+            <zone points="234,2226 2202,2229 2261,2159 234,2199" rendition="Line" xml:id="facs_41_tr_1_tl_7"/>
+            <zone points="250,2393 2202,2382 2202,2315 250,2323" rendition="Line" xml:id="facs_41_tr_1_tl_8"/>
+            <zone points="245,2535 2288,2525 2291,2460 245,2506" rendition="Line" xml:id="facs_41_tr_1_tl_9"/>
+            <zone points="242,2681 444,2702 998,2683 998,2651 952,2619 586,2622 554,2654 519,2622 471,2622 438,2654 406,2622 355,2651 285,2616 242,2646" rendition="Line" xml:id="facs_41_tr_1_tl_11"/>
+            <zone points="242,2842 1194,2829 1137,2767 1000,2767 963,2802 858,2769 737,2769 704,2802 643,2772 586,2802 540,2769 242,2772" rendition="Line" xml:id="facs_41_tr_1_tl_13"/>
+            <zone points="272,2920 1629,2925 1823,2917 1823,2861 272,2890" rendition="Line" xml:id="facs_41_tr_1_tl_14"/>
+            <zone points="234,3068 2320,3071 2396,3060 2396,2993 234,3014" rendition="Line" xml:id="facs_41_tr_1_tl_15"/>
+            <zone points="229,3218 823,3278 2345,3261 2345,3151 1955,3205 229,3183" rendition="Line" xml:id="facs_41_tr_1_tl_16"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0515.jpg" n="part4_p041.jpg" xml:id="img_0041" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p041.jpg"/>
+            
+            <p facs="#facs_41_tr_2">
+               <lb facs="#facs_41_tr_2_tl_1" n="N001"/>[510]
+               <lb facs="#facs_41_tr_2_tl_2" n="N002"/>LECTURE XXXIX, March 22, 1956
+               <lb facs="#facs_41_tr_2_tl_3" n="N003"/>QN: Since a child's feelings are more important than actions or abstractions in his personality
+               <lb facs="#facs_41_tr_2_tl_4" n="N004"/>development, should we not be extremely careful in replacing meaningful symbols with something
+               <lb facs="#facs_41_tr_2_tl_5" n="N005"/>which are ONLY signs, such as attempting to distinguish between literalism and mythology?
+               <lb facs="#facs_41_tr_2_tl_6" n="N006"/>Would not the first step to . . . . the child, in accepting and appreciating his feelings of doubt?
+               <lb facs="#facs_41_tr_2_tl_7" n="N007"/>PT: Can you explain the last word, "feelings of doubt"?
+               <lb facs="#facs_41_tr_2_tl_8" n="N008"/>QN: Whether he expresses the doubt or asks the question, actually whether it is an intellectual
+               <lb facs="#facs_41_tr_2_tl_9" n="N009"/>abstraction, includes FEELINGS of doubt rather than an intellectual doubt---feeling
+               <lb facs="#facs_41_tr_2_tl_10" n="N010"/>of doubt in authority, or what he has been instructed in, or his sense of security.
+            </p>
+            <p facs="#facs_41_tr_1">
+               <lb facs="#facs_41_tr_1_tl_1" n="N001"/>PT: The word "feelings of doubt"---doubt in itself is an intellectual act. But you meant it now in
+               <lb facs="#facs_41_tr_1_tl_2" n="N002"/>terms of doubt about the trustworthiness of the parents, or something like that?
+               <lb facs="#facs_41_tr_1_tl_3" n="N003"/>QN: The symbol of God in Christ---whether doubts are always to be accepted as intellectual
+               <lb facs="#facs_41_tr_1_tl_4" n="N004"/>(PT: Oh, no.) abstractions, or whether it may be expressions of feelings, insecurity, or---
+               <lb facs="#facs_41_tr_1_tl_5" n="N005"/>PT: Yes, but the content is always a CONTENT, and that means logical content, which means expressing
+               <lb facs="#facs_41_tr_1_tl_6" n="N006"/>itself in SOME way conceptually. You can feel doubt about a theological---or let us say about the
+               <lb facs="#facs_41_tr_1_tl_7" n="N007"/>bodily resurrection of Christ (let us make it as cleear [sic.] as possible). What does that mean? You are not
+               <lb facs="#facs_41_tr_1_tl_8" n="N008"/>certain that this fact has ever happened in the way in which it is reported. That's doubt. Now this
+               <lb facs="#facs_41_tr_1_tl_9" n="N009"/>can be connected with great anxieties, and usually is, if somebody is educated in an orthodox tradition.
+               <lb facs="#facs_41_tr_1_tl_11" n="N010"/>You accept that also as a description. Well, then, if this is the case, what is the question?
+               <lb facs="#facs_41_tr_1_tl_13" n="N011"/>QN: The question is: could not we aid him in accepting and appreciating feelings of doubt instead
+               <lb facs="#facs_41_tr_1_tl_14" n="N012"/>of immediately starting in to tear apart or do away with literal interpretation?
+               <lb facs="#facs_41_tr_1_tl_15" n="N013"/>PT: First of all, the word "cautious" comes from me, and you repeat it, so that is not the question, and you
+               <lb facs="#facs_41_tr_1_tl_16" n="N014"/>agree with me anyhow. And the other question is "immediately"; nothing shall be done IMMEDIATELY,
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

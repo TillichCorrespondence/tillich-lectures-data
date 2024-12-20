@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLII (Nr. 0553)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p079</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-17">1956-04-17</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_79">
+         <graphic url="TL-0553.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TFOWOPOXLGHOMVOXXAZZDLBQ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="35,-8 2313,-8 2313,1246 35,1246" rendition="TextRegion" xml:id="facs_79_tr_2">
+            <zone points="1120,333 1132,333 1157,343 1169,340 1172,335 1182,340 1214,340 1221,333 1234,333 1234,283 1221,283 1211,290 1192,273 1182,283 1120,285" rendition="Line" xml:id="facs_79_tr_2_tl_4"/>
+            <zone points="315,472 2306,494 2306,425 849,442 784,377 668,442 315,442" rendition="Line" xml:id="facs_79_tr_2_tl_5"/>
+            <zone points="318,626 2271,640 2271,588 2075,578 318,596" rendition="Line" xml:id="facs_79_tr_2_tl_6"/>
+            <zone points="315,789 2299,797 2299,747 1931,722 315,735" rendition="Line" xml:id="facs_79_tr_2_tl_7"/>
+            <zone points="308,926 2182,948 2182,894 305,884" rendition="Line" xml:id="facs_79_tr_2_tl_8"/>
+            <zone points="308,1082 2197,1090 2063,1030 308,1053" rendition="Line" xml:id="facs_79_tr_2_tl_9"/>
+            <zone points="310,1236 1991,1244 1991,1194 1914,1179 310,1189" rendition="Line" xml:id="facs_79_tr_2_tl_10"/>
+         </zone>
+         <zone points="304,1329 2203,1329 2203,2147 304,2147" rendition="TextRegion" xml:id="facs_79_tr_3">
+            <zone points="494,1380 2197,1398 2197,1343 494,1341" rendition="Line" xml:id="facs_79_tr_3_tl_1" subtype="paragraph"/>
+            <zone points="295,1534 2145,1542 2115,1482 295,1490" rendition="Line" xml:id="facs_79_tr_3_tl_2"/>
+            <zone points="305,1693 2115,1701 2113,1646 1897,1636 303,1638" rendition="Line" xml:id="facs_79_tr_3_tl_3"/>
+            <zone points="300,1842 2142,1852 2093,1782 300,1795" rendition="Line" xml:id="facs_79_tr_3_tl_4"/>
+            <zone points="293,1986 2115,1993 2060,1934 293,1944" rendition="Line" xml:id="facs_79_tr_3_tl_5"/>
+            <zone points="290,2132 2150,2150 2150,2100 1991,2080 290,2110" rendition="Line" xml:id="facs_79_tr_3_tl_6"/>
+         </zone>
+         <zone points="20,2233 2260,2233 2260,3470 20,3470" rendition="TextRegion" xml:id="facs_79_tr_1">
+            <zone points="290,2286 2152,2301 2152,2254 1966,2234 290,2262" rendition="Line" xml:id="facs_79_tr_1_tl_1"/>
+            <zone points="288,2443 2140,2453 2140,2398 2008,2388 288,2398" rendition="Line" xml:id="facs_79_tr_1_tl_2"/>
+            <zone points="285,2592 1902,2612 2058,2597 2058,2545 285,2562" rendition="Line" xml:id="facs_79_tr_1_tl_3"/>
+            <zone points="288,2746 350,2761 521,2743 670,2751 670,2696 544,2696 524,2716 489,2691 452,2713 425,2694 288,2696" rendition="Line" xml:id="facs_79_tr_1_tl_4"/>
+            <zone points="285,2818 2028,2833 2190,2820 2190,2738 1524,2788 285,2763" rendition="Line" xml:id="facs_79_tr_1_tl_5"/>
+            <zone points="315,2892 588,2917 1157,2902 1157,2860 1092,2842 315,2857" rendition="Line" xml:id="facs_79_tr_1_tl_6"/>
+            <zone points="273,3044 2222,3053 2222,2991 273,2991" rendition="Line" xml:id="facs_79_tr_1_tl_7"/>
+            <zone points="276,3200 2254,3205 2254,3153 1998,3143 276,3153" rendition="Line" xml:id="facs_79_tr_1_tl_8"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0553.jpg" n="part4_p079.jpg" xml:id="img_0079" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p079.jpg"/>
+            
+            <p facs="#facs_79_tr_2">
+               <lb facs="#facs_79_tr_2_tl_4" n="N001"/>[548]
+               <lb facs="#facs_79_tr_2_tl_5" n="N002"/>something I cannot accept. On the other hand, I am not of the opinion that the concrete expressions
+               <lb facs="#facs_79_tr_2_tl_6" n="N003"/>of love are simply tyrannical product of the will-to-power because even those who have this will-tow¬
+               <lb facs="#facs_79_tr_2_tl_7" n="N004"/>power couldn’t have PGVER without accepting some  valid structure. For this I must refer you
+               <lb facs="#facs_79_tr_2_tl_8" n="N005"/>for a fuller ans wer to my little book, Love, Power, and Justice, where I define the relationship
+               <lb facs="#facs_79_tr_2_tl_9" n="N006"/>of these three concepts and try to show that power, EVEN AS P congress, is a completely abstract
+               <lb facs="#facs_79_tr_2_tl_10" n="N007"/>concept if is notamited with form—and form means, in this case, principles of justice.
+            </p>
+            <p facs="#facs_79_tr_3">
+               <lb facs="#facs_79_tr_3_tl_1" n="N001"/>Now this is the first answer: that all this can at the same time be abused and directed
+               <lb facs="#facs_79_tr_3_tl_2" n="N002"/>by tyranny powers, and even by non-tyrannical but conformist powers, as we have it in this
+               <lb facs="#facs_79_tr_3_tl_3" n="N003"/>country, cannot be doubted at all — it is obvious. But the analysis of an essential structure,
+               <lb facs="#facs_79_tr_3_tl_4" n="N004"/>and the question of its Istortion, must always be distinguished. Very often, in political fight,
+               <lb facs="#facs_79_tr_3_tl_5" n="N005"/>distortions are “confused” with essential structure,” and aassumulation like that which you give
+               <lb facs="#facs_79_tr_3_tl_6" n="N006"/>comes from the Iistortion, and my formation comes from the essential structure. Now I am
+            </p>
+            <p facs="#facs_79_tr_1">
+               <lb facs="#facs_79_tr_1_tl_1" n="N001"/>deeply convinced that the distinction is a reality, but it is a Istortion of something which has a
+               <lb facs="#facs_79_tr_1_tl_2" n="N002"/>structure. Only structure can be D IStorted, and this is always so. only because there is good
+               <lb facs="#facs_79_tr_1_tl_3" n="N003"/>money can falsified money be invented. Only because there is something positive can the
+               <lb facs="#facs_79_tr_1_tl_4" n="N004"/>negative be actual.
+               <lb facs="#facs_79_tr_1_tl_5" n="N005"/>QN: In speaking of impression, in the last lecture, you gave the sexual drive as one example of it.
+               <lb facs="#facs_79_tr_1_tl_6" n="N006"/>I wanted you to give additional example.
+               <lb facs="#facs_79_tr_1_tl_7" n="N007"/>PT: Not the sexual drive, but the impression of it. (smiling — some daughter) And - oh, there are
+               <lb facs="#facs_79_tr_1_tl_8" n="N008"/>repression of the dynamic drive to go beyond one's given form, In the basic ontological structure of
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

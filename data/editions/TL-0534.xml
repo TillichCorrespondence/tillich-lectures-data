@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XL (Nr. 0534)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p060</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-27">1956-03-27</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_60">
+         <graphic url="TL-0534.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LOLOXEUDEKLIFVQGABAVNTTB&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="35,6 2286,6 2286,926 35,926" rendition="TextRegion" xml:id="facs_60_tr_2">
+            <zone points="1063,332 1084,332 1092,339 1185,337 1185,270 1063,268" rendition="Line" xml:id="facs_60_tr_2_tl_3"/>
+            <zone points="363,444 1517,449 1567,499 1675,451 2279,461 2179,382 363,416" rendition="Line" xml:id="facs_60_tr_2_tl_4"/>
+            <zone points="373,573 1932,583 2169,573 2171,523 375,509" rendition="Line" xml:id="facs_60_tr_2_tl_5"/>
+            <zone points="363,683 2152,690 2114,633 363,643" rendition="Line" xml:id="facs_60_tr_2_tl_6"/>
+            <zone points="365,810 2274,805 2274,760 2145,743 365,760" rendition="Line" xml:id="facs_60_tr_2_tl_7"/>
+            <zone points="356,915 2257,924 2257,872 2152,862 356,877" rendition="Line" xml:id="facs_60_tr_2_tl_8"/>
+         </zone>
+         <zone points="358,977 2280,977 2280,1786 358,1786" rendition="TextRegion" xml:id="facs_60_tr_4">
+            <zone points="361,1044 1942,1053 2233,1037 2233,982 361,996" rendition="Line" xml:id="facs_60_tr_4_tl_1"/>
+            <zone points="361,1166 956,1173 991,1166 991,1113 361,1116" rendition="Line" xml:id="facs_60_tr_4_tl_2"/>
+            <zone points="657,1268 2274,1271 2274,1211 657,1237" rendition="Line" xml:id="facs_60_tr_4_tl_3" subtype="paragraph"/>
+            <zone points="361,1376 2085,1397 2236,1374 2236,1323 361,1328" rendition="Line" xml:id="facs_60_tr_4_tl_4"/>
+            <zone points="356,1481 2245,1493 2179,1426 356,1443" rendition="Line" xml:id="facs_60_tr_4_tl_5"/>
+            <zone points="344,1598 1947,1620 2236,1608 2236,1560 1452,1565 1362,1517 1290,1565 344,1577" rendition="Line" xml:id="facs_60_tr_4_tl_6"/>
+            <zone points="354,1732 365,1732 382,1749 399,1746 413,1732 554,1732 557,1679 401,1682 392,1672 382,1682 356,1682" rendition="Line" xml:id="facs_60_tr_4_tl_7"/>
+            <zone points="666,1775 2121,1782 2121,1727 666,1725" rendition="Line" xml:id="facs_60_tr_4_tl_8" subtype="paragraph"/>
+         </zone>
+         <zone points="355,1836 2209,1836 2209,2843 355,2843" rendition="TextRegion" xml:id="facs_60_tr_3">
+            <zone points="351,1897 2198,1909 2198,1849 351,1868" rendition="Line" xml:id="facs_60_tr_3_tl_1"/>
+            <zone points="349,2021 1314,2052 2174,2021 2174,1956 349,1978" rendition="Line" xml:id="facs_60_tr_3_tl_2"/>
+            <zone points="349,2133 1787,2147 2202,2133 2202,2083 349,2085" rendition="Line" xml:id="facs_60_tr_3_tl_3"/>
+            <zone points="356,2253 2073,2253 2073,2205 1999,2198 356,2202" rendition="Line" xml:id="facs_60_tr_3_tl_4"/>
+            <zone points="344,2360 1999,2382 2128,2370 2128,2305 344,2334" rendition="Line" xml:id="facs_60_tr_3_tl_5"/>
+            <zone points="344,2482 2131,2491 2186,2434 344,2439" rendition="Line" xml:id="facs_60_tr_3_tl_6"/>
+            <zone points="342,2599 2121,2606 2179,2551 342,2573" rendition="Line" xml:id="facs_60_tr_3_tl_7"/>
+            <zone points="344,2723 1307,2754 2183,2716 2200,2668 344,2675" rendition="Line" xml:id="facs_60_tr_3_tl_8"/>
+            <zone points="344,2850 2138,2845 2138,2785 344,2797" rendition="Line" xml:id="facs_60_tr_3_tl_9"/>
+         </zone>
+         <zone points="81,2887 2301,2887 2301,3473 81,3473" rendition="TextRegion" xml:id="facs_60_tr_1">
+            <zone points="337,2952 2224,2957 2238,2900 337,2929" rendition="Line" xml:id="facs_60_tr_1_tl_1"/>
+            <zone points="344,3079 2109,3084 2109,3027 1887,3010 344,3010" rendition="Line" xml:id="facs_60_tr_1_tl_2"/>
+            <zone points="332,3187 1882,3206 2233,3196 2233,3144 332,3160" rendition="Line" xml:id="facs_60_tr_1_tl_3"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0534.jpg" n="part4_p060.jpg" xml:id="img_0060" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p060.jpg"/>
+            
+            <p facs="#facs_60_tr_2">
+               <lb facs="#facs_60_tr_2_tl_3" n="N001"/>[529]
+               <lb facs="#facs_60_tr_2_tl_4" n="N002"/>individual human beings. The arguing of Rome is that the decisive thing is that nature should not
+               <lb facs="#facs_60_tr_2_tl_5" n="N003"/>be restricted if it wants to create a new immortal soul because the decisive thing is NOT the
+               <lb facs="#facs_60_tr_2_tl_6" n="N004"/>happiness or misery in time and space, but the existence of any individual immortal soul in
+               <lb facs="#facs_60_tr_2_tl_7" n="N005"/>terms of eternity. For this reason, the increase in population and the misery of individual human
+               <lb facs="#facs_60_tr_2_tl_8" n="N006"/>beings must be taken and accepted. This is enough of an example. The Church says: this is not
+            </p>
+            <p facs="#facs_60_tr_4">
+               <lb facs="#facs_60_tr_4_tl_1" n="N001"/>a special ecclesiastical law, but this is by NATURAL law, and it can be proven by the desire of
+               <lb facs="#facs_60_tr_4_tl_2" n="N002"/>nature to procreate new beings.
+               <lb facs="#facs_60_tr_4_tl_3" n="N003"/>In large groups of the present world, this doctrine of the natural law as we have it in
+               <lb facs="#facs_60_tr_4_tl_4" n="N004"/>Rome doesn't work any more, and especially with the addition of the peculiar <hi style="text-decoration: underline;">Christian</hi> virtues
+               <lb facs="#facs_60_tr_4_tl_5" n="N005"/>which come not from natural law but alone from the Church. So this solution of the question
+               <lb facs="#facs_60_tr_4_tl_6" n="N006"/>of CONTENT (with which we deal today) is not valid for those who do not accept the Catholic
+               <lb facs="#facs_60_tr_4_tl_7" n="N007"/>doctrine.
+               <lb facs="#facs_60_tr_4_tl_8" n="N008"/>There is an alternative---if you accept it as an alternative---and this was the
+            </p>
+            <p facs="#facs_60_tr_3">
+               <lb facs="#facs_60_tr_3_tl_1" n="N001"/>totalitarian, especially the Fascist, alternative which answered the question of the contents by
+               <lb facs="#facs_60_tr_3_tl_2" n="N002"/>pointing to a CONCRETE reality, namely a nation, or a race, and the contents of the ethical
+               <lb facs="#facs_60_tr_3_tl_3" n="N003"/>command are identical with what is needed by the growth of a national group. This of course
+               <lb facs="#facs_60_tr_3_tl_4" n="N004"/>is not a rational but a very IRrational principle of a founding of contents of ethics, but
+               <lb facs="#facs_60_tr_3_tl_5" n="N005"/>certainly it is a possibility. And instead of nation and race, you also can say "Party," and
+               <lb facs="#facs_60_tr_3_tl_6" n="N006"/>then you are in the Communistic realm. Everywhere in these realms, a special finite reality is
+               <lb facs="#facs_60_tr_3_tl_7" n="N007"/>made the creator of contents, not because they are rational---here the Catholic doctrine is far
+               <lb facs="#facs_60_tr_3_tl_8" n="N008"/>superior; it is much more rational than the totalitarian doctrines---but they are identical in one
+               <lb facs="#facs_60_tr_3_tl_9" n="N009"/>point, namely that a special group, and the authorities WITHIN THIS group, are ultimately
+            </p>
+            <p facs="#facs_60_tr_1">
+               <lb facs="#facs_60_tr_1_tl_1" n="N001"/>decisive for the contents of the ethical behavior for individuals and groups. The result of course
+               <lb facs="#facs_60_tr_1_tl_2" n="N002"/>is that these groups, in their ethical contents, clash with other groups in THEIR contents,
+               <lb facs="#facs_60_tr_1_tl_3" n="N003"/>and that the ethical principle becomes, instead of being a matter of personality and community,
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

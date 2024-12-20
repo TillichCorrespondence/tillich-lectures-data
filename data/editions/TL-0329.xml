@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_45">
          <graphic url="TL-0329.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=VBSVDOIEKKIMSRRYYINRSNEV&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VBSVDOIEKKIMSRRYYINRSNEV&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="179,63 2224,63 2224,986 179,986" rendition="TextRegion" xml:id="facs_45_tr_3">
             <zone points="1138,364 1189,374 1253,374 1251,295 1202,300 1192,292 1172,310 1135,312" rendition="Line" xml:id="facs_45_tr_3_tl_2"/>
             <zone points="464,521 1374,521 1462,582 1706,519 2199,516 2199,460 786,489 582,410 464,489" rendition="Line" xml:id="facs_45_tr_3_tl_3" subtype="paragraph"/>
@@ -106,25 +106,25 @@
                <lb facs="#facs_45_tr_3_tl_3" n="N002"/>3) A third element stands against formalism, namely meaning, which is sometimes called
                <lb facs="#facs_45_tr_3_tl_4" n="N003"/>content, but the word content is ambiguous because it often stands for subject matter, so instead
                <lb facs="#facs_45_tr_3_tl_5" n="N004"/>I use the word meaning. The meaning is neither the subject matter nor is it the form, but it is
-               <lb facs="#facs_45_tr_3_tl_6" n="N005"/>something which cannot be expressed in any other way THAN by the artistic symbols: it is that
+               <lb facs="#facs_45_tr_3_tl_6" n="N005"/>something which cannot be expressed in any other way THAN by the <rs type="keyword" ref="#Symbols_artistic">artistic symbols</rs>: it is that
             </p>
             <p facs="#facs_45_tr_1">
                <lb facs="#facs_45_tr_1_tl_1" n="N001"/>which is opened up by them and that which is present in our soul IF it is opened up. But this
                <lb facs="#facs_45_tr_1_tl_2" n="N002"/>meaning can be read in some way in the form, and if we do this we come to what is usually called
-               <lb facs="#facs_45_tr_1_tl_3" n="N003"/>style.
-               <lb facs="#facs_45_tr_1_tl_4" n="N004"/>Style is a very interesting phenomenon. Of course style expresses itself in both, in the
+               <lb facs="#facs_45_tr_1_tl_3" n="N003"/><rs type="keyword" ref="#Style">style.</rs>
+               <lb facs="#facs_45_tr_1_tl_4" n="N004"/><rs type="keyword" ref="#Style">Style</rs> is a very interesting phenomenon. Of course style expresses itself in both, in the
                <lb facs="#facs_45_tr_1_tl_5" n="N005"/>choice of subject matter and in the form. It is an overall form, if you want, but it is also an overall
                <lb facs="#facs_45_tr_1_tl_7" n="N006"/>term towards [i.e. for?] special subject matter. What is style in this sense? Style is the experience of life
                <lb facs="#facs_45_tr_1_tl_8" n="N007"/>as such, expressed as an overall form, or way of expression, in all realms of life. It is first and
                <lb facs="#facs_45_tr_1_tl_9" n="N008"/>mostly applied to the realm of arts, but there is not only artistic style, there is also style of thought.
-               <lb facs="#facs_45_tr_1_tl_10" n="N009"/>Logical positivism is not only a method, it is also a style of thought. And it is present in politics---
+               <lb facs="#facs_45_tr_1_tl_10" n="N009"/><rs type="keyword" ref="#Logical_Positivism">Logical positivism</rs> is not only a method, it is also a style of thought. And it is present in politics---
                <lb facs="#facs_45_tr_1_tl_11" n="N010"/>19th century balance-of-power politics in Europe was a style of politics expressing an ultimate
                <lb facs="#facs_45_tr_1_tl_12" n="N011"/>meaning in life. There are styles of social relations, in the relation of the sexes to each other, for
                <lb facs="#facs_45_tr_1_tl_13" n="N012"/>instance, and every period has a different style, in this relationship. Now I speak here about a
                <lb facs="#facs_45_tr_1_tl_14" n="N013"/>special realm, the artistic realm, which is dependent on the overall style but which has a most
             </p>
             <p facs="#facs_45_tr_2">
-               <lb facs="#facs_45_tr_2_tl_1" n="N001"/>impressive function within the overall style, because of what I called last time the expressive power
+               <lb facs="#facs_45_tr_2_tl_1" n="N001"/>impressive function within the overall style, because of what I called last time the <rs type="keyword" ref="#Expressive_function">expressive power</rs>
                <lb facs="#facs_45_tr_2_tl_2" n="N002"/>of a work of art. It is more expressive than any other style.
             </p>
             

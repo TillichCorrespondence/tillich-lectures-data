@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XL (Nr. 0530)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p056</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-27">1956-03-27</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_56">
+         <graphic url="TL-0530.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LVLAJYTLJTKFGWXGBEEDPMKP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="152,227 2304,227 2304,995 152,995" rendition="TextRegion" xml:id="facs_56_tr_3">
+            <zone points="1079,279 1091,279 1110,293 1180,293 1197,288 1195,225 1163,228 1156,235 1144,233 1132,240 1120,238 1108,247 1076,247" rendition="Line" xml:id="facs_56_tr_3_tl_1"/>
+            <zone points="383,405 2266,414 2283,344 863,371 761,318 691,371 383,371" rendition="Line" xml:id="facs_56_tr_3_tl_2"/>
+            <zone points="630,516 2271,526 2213,468 630,477" rendition="Line" xml:id="facs_56_tr_3_tl_3" subtype="paragraph"/>
+            <zone points="390,642 2298,642 2298,599 2017,584 390,584" rendition="Line" xml:id="facs_56_tr_3_tl_4"/>
+            <zone points="381,751 2126,783 2126,705 381,715" rendition="Line" xml:id="facs_56_tr_3_tl_5"/>
+            <zone points="378,873 2208,882 2208,826 2138,822 378,834" rendition="Line" xml:id="facs_56_tr_3_tl_7"/>
+            <zone points="376,989 2143,994 2087,936 376,943" rendition="Line" xml:id="facs_56_tr_3_tl_8"/>
+         </zone>
+         <zone points="304,1048 2274,1048 2274,2401 304,2401" rendition="TextRegion" xml:id="facs_56_tr_2">
+            <zone points="368,1103 1951,1120 2177,1110 2177,1057 368,1081" rendition="Line" xml:id="facs_56_tr_2_tl_1"/>
+            <zone points="291,1243 2206,1268 2240,1173 291,1185" rendition="Line" xml:id="facs_56_tr_2_tl_2"/>
+            <zone points="371,1343 2126,1357 2203,1350 2203,1297 371,1314" rendition="Line" xml:id="facs_56_tr_2_tl_3"/>
+            <zone points="366,1457 2242,1459 2201,1408 1980,1401 366,1418" rendition="Line" xml:id="facs_56_tr_2_tl_4"/>
+            <zone points="371,1575 2210,1580 2155,1517 371,1534" rendition="Line" xml:id="facs_56_tr_2_tl_5"/>
+            <zone points="366,1689 693,1709 824,1697 860,1716 902,1694 994,1714 994,1651 923,1641 739,1641 705,1668 669,1643 366,1653" rendition="Line" xml:id="facs_56_tr_2_tl_7"/>
+            <zone points="364,1803 2196,1813 2218,1757 364,1767" rendition="Line" xml:id="facs_56_tr_2_tl_8"/>
+            <zone points="368,1924 2050,1934 2050,1883 1910,1871 368,1878" rendition="Line" xml:id="facs_56_tr_2_tl_9"/>
+            <zone points="364,2038 2269,2072 2269,1995 2184,1983 364,2002" rendition="Line" xml:id="facs_56_tr_2_tl_10"/>
+            <zone points="368,2150 2257,2155 2193,2109 368,2130" rendition="Line" xml:id="facs_56_tr_2_tl_11"/>
+            <zone points="366,2288 2145,2286 2080,2225 366,2240" rendition="Line" xml:id="facs_56_tr_2_tl_12"/>
+            <zone points="351,2395 1532,2412 1694,2404 1694,2344 351,2370" rendition="Line" xml:id="facs_56_tr_2_tl_13"/>
+         </zone>
+         <zone points="44,2454 2248,2454 2248,3488 44,3488" rendition="TextRegion" xml:id="facs_56_tr_1">
+            <zone points="604,2540 2116,2521 2116,2470 604,2472" rendition="Line" xml:id="facs_56_tr_1_tl_1" subtype="paragraph"/>
+            <zone points="351,2627 2169,2637 2121,2576 351,2593" rendition="Line" xml:id="facs_56_tr_1_tl_2"/>
+            <zone points="347,2744 2084,2758 2167,2751 2167,2702 347,2710" rendition="Line" xml:id="facs_56_tr_1_tl_3"/>
+            <zone points="342,2860 2208,2882 2162,2809 342,2841" rendition="Line" xml:id="facs_56_tr_1_tl_4"/>
+            <zone points="630,3042 950,2986 2014,2998 2242,2981 2242,2942 906,2913 630,2955" rendition="Line" xml:id="facs_56_tr_1_tl_5"/>
+            <zone points="485,3100 2232,3102 2232,3049 485,3049" rendition="Line" xml:id="facs_56_tr_1_tl_6" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0530.jpg" n="part4_p056.jpg" xml:id="img_0056" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p056.jpg"/>
+            
+            <p facs="#facs_56_tr_3">
+               <lb facs="#facs_56_tr_3_tl_1" n="N001"/>[525]
+               <lb facs="#facs_56_tr_3_tl_2" n="N002"/>and this means the ethical contents---come? How can we know, in a special moment, what to do?
+               <lb facs="#facs_56_tr_3_tl_3" n="N003"/>If this is understood and accepted, then we are driven to a very difficult alternative.
+               <lb facs="#facs_56_tr_3_tl_4" n="N004"/>This alternative is the unconditional character of the form of ethics, and the conditional character
+               <lb facs="#facs_56_tr_3_tl_5" n="N005"/>of the content of ethics. Ethics are dependent on culture; they change with every special
+               <lb facs="#facs_56_tr_3_tl_7" n="N006"/>situation; they have a certain kind of continuity in periods which have continuity themselves;
+               <lb facs="#facs_56_tr_3_tl_8" n="N007"/>they tend to get into complete dissolution in periods in which the fundamental principles
+            </p>
+            <p facs="#facs_56_tr_2">
+               <lb facs="#facs_56_tr_2_tl_1" n="N001"/>disintegrate. This is the argument for the relativity of ethics. And of course, if you look at
+               <lb facs="#facs_56_tr_2_tl_2" n="N002"/>the history of religion and the history of culture, you find much evidence for ethical relativism,
+               <lb facs="#facs_56_tr_2_tl_3" n="N003"/>evidence which cannot be denied, not only with respect to primitive cultures, or with respect
+               <lb facs="#facs_56_tr_2_tl_4" n="N004"/>to different high cultural groups, such as the Asiatic and the European, but also with respect to
+               <lb facs="#facs_56_tr_2_tl_5" n="N005"/>national and sociological difference within one group, as for instance American culture. The
+               <lb facs="#facs_56_tr_2_tl_7" n="N006"/>ethical contents, although they are comparatively homogeneous, if you compare them
+               <lb facs="#facs_56_tr_2_tl_8" n="N007"/>with the contents in Asia, or Africa (the primitives), are nevertheless very much differentiated
+               <lb facs="#facs_56_tr_2_tl_9" n="N008"/>with respect to social groups, local conditions, and historical traditions. All this has a
+               <lb facs="#facs_56_tr_2_tl_10" n="N009"/>tremendous influence on ethical contents, and this relativism goes even deeper into the individual
+               <lb facs="#facs_56_tr_2_tl_11" n="N010"/>who, if he is autonomous, makes decisions about his ethical decisions about his moral attitude---
+               <lb facs="#facs_56_tr_2_tl_12" n="N011"/>you remember I defined morals as the matter itself and ethics as the science of this matter.
+               <lb facs="#facs_56_tr_2_tl_13" n="N012"/>And they are different, and nevertheless they can be justified.
+            </p>
+            <p facs="#facs_56_tr_1">
+               <lb facs="#facs_56_tr_1_tl_1" n="N001"/>Now the anxious question, which is very often asked about this point, is the
+               <lb facs="#facs_56_tr_1_tl_2" n="N002"/>question of a relativism which makes not only community impossible---how can you live
+               <lb facs="#facs_56_tr_1_tl_3" n="N003"/>together if the ethical contents are completely relative and different?---but also with respect
+               <lb facs="#facs_56_tr_1_tl_4" n="N004"/>to the individual himself: what is the situation if you don't know what to do if you are in the
+               <lb facs="#facs_56_tr_1_tl_5" n="N005"/>cross-section of different cultural influences---and everybody is, to a great extent.
+               <lb facs="#facs_56_tr_1_tl_6" n="N006"/>We all are in the cross-section of at least humanistic secularism, Christian traditions---and
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

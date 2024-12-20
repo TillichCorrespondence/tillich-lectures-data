@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLII (Nr. 0565)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p091</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-17">1956-04-17</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_91">
+         <graphic url="TL-0565.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ACOYAWWEZAQFTBJWBMNBMWZE&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="83,12 2239,12 2239,947 83,947" rendition="TextRegion" xml:id="facs_91_tr_3">
+            <zone points="1141,322 1166,325 1171,330 1200,327 1208,332 1242,332 1252,325 1267,325 1269,266 1250,268 1245,263 1235,266 1230,261 1218,261 1200,276 1191,271 1176,283 1144,283" rendition="Line" xml:id="facs_91_tr_3_tl_3"/>
+            <zone points="554,485 2167,485 2167,433 2091,403 1611,438 1412,371 1274,443 554,418" rendition="Line" xml:id="facs_91_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="300,637 809,708 891,645 1894,625 2066,701 2234,676 2236,573 300,595" rendition="Line" xml:id="facs_91_tr_3_tl_5"/>
+            <zone points="298,787 1651,804 2194,780 2194,726 298,748" rendition="Line" xml:id="facs_91_tr_3_tl_6"/>
+            <zone points="288,935 2059,932 2032,881 1835,866 290,913" rendition="Line" xml:id="facs_91_tr_3_tl_7"/>
+         </zone>
+         <zone points="149,1018 2274,1018 2274,2723 149,2723" rendition="TextRegion" xml:id="facs_91_tr_1">
+            <zone points="300,1090 2000,1085 2184,1075 2187,1031 303,1036" rendition="Line" xml:id="facs_91_tr_1_tl_1"/>
+            <zone points="290,1240 2052,1245 2160,1230 2160,1183 290,1215" rendition="Line" xml:id="facs_91_tr_1_tl_2"/>
+            <zone points="551,1390 2125,1387 2089,1321 551,1331" rendition="Line" xml:id="facs_91_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="293,1538 2271,1520 2236,1476 293,1493" rendition="Line" xml:id="facs_91_tr_1_tl_4"/>
+            <zone points="293,1690 2140,1685 2140,1633 293,1651" rendition="Line" xml:id="facs_91_tr_1_tl_5"/>
+            <zone points="293,1843 2165,1833 2165,1779 293,1818" rendition="Line" xml:id="facs_91_tr_1_tl_6"/>
+            <zone points="293,2066 335,2052 701,2044 728,2020 819,2012 819,1946 551,1951 536,1938 448,1953 428,1936 411,1953 391,1936 374,1953 293,1953" rendition="Line" xml:id="facs_91_tr_1_tl_7"/>
+            <zone points="524,2108 2116,2098 2057,2032 526,2052" rendition="Line" xml:id="facs_91_tr_1_tl_8" subtype="paragraph"/>
+            <zone points="300,2268 2118,2256 2150,2197 300,2219" rendition="Line" xml:id="facs_91_tr_1_tl_10"/>
+            <zone points="290,2413 2170,2406 2212,2352 290,2371" rendition="Line" xml:id="facs_91_tr_1_tl_11"/>
+            <zone points="298,2563 2002,2566 2214,2549 2214,2499 298,2519" rendition="Line" xml:id="facs_91_tr_1_tl_12"/>
+            <zone points="288,2721 2076,2699 2076,2654 1865,2640 290,2674" rendition="Line" xml:id="facs_91_tr_1_tl_13"/>
+         </zone>
+         <zone points="50,2789 2331,2789 2331,3473 50,3473" rendition="TextRegion" xml:id="facs_91_tr_2">
+            <zone points="293,2881 2108,2856 2125,2799 293,2829" rendition="Line" xml:id="facs_91_tr_2_tl_1"/>
+            <zone points="290,3043 2108,3006 2111,2947 293,2974" rendition="Line" xml:id="facs_91_tr_2_tl_2"/>
+            <zone points="288,3171 2032,3166 2111,3156 2111,3102 290,3144" rendition="Line" xml:id="facs_91_tr_2_tl_3"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0565.jpg" n="part4_p091.jpg" xml:id="img_0091" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p091.jpg"/>
+            
+            <p facs="#facs_91_tr_3">
+               <lb facs="#facs_91_tr_3_tl_3" n="N001"/>[560]
+               <lb facs="#facs_91_tr_3_tl_4" n="N002"/>This brings me immediately to the problem which belongs already to social others,
+               <lb facs="#facs_91_tr_3_tl_5" n="N003"/>namely tradition and Gevolt, or tradition and autonom* Now how is this relationship? Religion is
+               <lb facs="#facs_91_tr_3_tl_6" n="N004"/>usually identified with tradition because of the long authoritarian history of the Church and the
+               <lb facs="#facs_91_tr_3_tl_7" n="N005"/>contin Vous elape to authoritarian elements, even in the ANτI-authoritarian Protestants.
+            </p>
+            <p facs="#facs_91_tr_1">
+               <lb facs="#facs_91_tr_1_tl_1" n="N001"/>Tradition must be understand in the following way: it must be understood as the life substance
+               <lb facs="#facs_91_tr_1_tl_2" n="N002"/>of our historical existence. And there is one irrefutable argument about this, namely language.
+               <lb facs="#facs_91_tr_1_tl_3" n="N003"/>Whatever you Eject, in the tradition which comes to you, you can reject it only
+               <lb facs="#facs_91_tr_1_tl_4" n="N004"/>in terms of language, even if you don't speak out, even is you only THernk—but we are THINKING¬
+               <lb facs="#facs_91_tr_1_tl_5" n="N005"/>in universals—and universals are real only in words, for us. Therefore language is that element
+               <lb facs="#facs_91_tr_1_tl_6" n="N006"/>of tradition from which nobody can extricate himself because in order to do so, he NEEDS the
+               <lb facs="#facs_91_tr_1_tl_7" n="N007"/>traditional language itself.
+               <lb facs="#facs_91_tr_1_tl_8" n="N008"/>The same is true of all other realms. On no place can one start completely new.
+               <lb facs="#facs_91_tr_1_tl_10" n="N009"/> America is especially interested in this problem because the history of the United States is the
+               <lb facs="#facs_91_tr_1_tl_11" n="N010"/> history of a new beginning, or a radical way, as it hasautom happened in the history of mankind.
+               <lb facs="#facs_91_tr_1_tl_12" n="N011"/> Therefore the historical sense, which is also the sense for tradition, is often very poorly developed
+               <lb facs="#facs_91_tr_1_tl_13" n="N012"/>in this country, and historical knowledge cannot be presupposed, if you teach theology or
+            </p>
+            <p facs="#facs_91_tr_2">
+               <lb facs="#facs_91_tr_2_tl_1" n="N001"/>philosophy, or any other thing, for that matter. So the question is: In how far can rebellion
+               <lb facs="#facs_91_tr_2_tl_2" n="N002"/>really make [one] independent? Now the answer cannot be given in abstract terms, but the
+               <lb facs="#facs_91_tr_2_tl_3" n="N003"/>rebel should realize at least one thing, that he always rebels in terms of elements of the past
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

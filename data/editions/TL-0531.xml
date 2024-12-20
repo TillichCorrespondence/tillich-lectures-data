@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XL (Nr. 0531)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p057</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-27">1956-03-27</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_57">
+         <graphic url="TL-0531.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SHQYIFWNWLWYTANSXFIBFPOY&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="358,269 2185,269 2185,1514 358,1514" rendition="TextRegion" xml:id="facs_57_tr_2">
+            <zone points="1068,322 1080,322 1101,341 1115,343 1127,336 1144,341 1193,339 1191,275 1155,272 1141,258 1127,275 1110,270 1101,277 1068,277" rendition="Line" xml:id="facs_57_tr_2_tl_1"/>
+            <zone points="369,438 684,485 2083,459 1965,395 369,376" rendition="Line" xml:id="facs_57_tr_2_tl_2"/>
+            <zone points="367,556 2145,604 2145,516 367,514" rendition="Line" xml:id="facs_57_tr_2_tl_3"/>
+            <zone points="367,675 445,722 1056,739 2083,696 2024,632 367,632" rendition="Line" xml:id="facs_57_tr_2_tl_4"/>
+            <zone points="367,795 1963,812 1963,767 1856,753 367,729" rendition="Line" xml:id="facs_57_tr_2_tl_5"/>
+            <zone points="616,907 2152,964 2128,862 1856,895 616,852" rendition="Line" xml:id="facs_57_tr_2_tl_6" subtype="paragraph"/>
+            <zone points="355,1013 2164,1042 2164,992 1989,980 353,978" rendition="Line" xml:id="facs_57_tr_2_tl_7"/>
+            <zone points="362,1177 2166,1165 2121,1101 360,1101" rendition="Line" xml:id="facs_57_tr_2_tl_8"/>
+            <zone points="346,1252 2178,1276 2178,1226 2060,1215 346,1224" rendition="Line" xml:id="facs_57_tr_2_tl_9"/>
+            <zone points="357,1387 1217,1442 1475,1387 2131,1397 2131,1352 1572,1321 357,1335" rendition="Line" xml:id="facs_57_tr_2_tl_10"/>
+            <zone points="350,1489 2140,1518 2102,1458 348,1451" rendition="Line" xml:id="facs_57_tr_2_tl_11"/>
+         </zone>
+         <zone points="340,1556 2260,1556 2260,2452 340,2452" rendition="TextRegion" xml:id="facs_57_tr_3">
+            <zone points="348,1624 2159,1629 2119,1570 348,1574" rendition="Line" xml:id="facs_57_tr_3_tl_1"/>
+            <zone points="348,1733 2228,1757 2166,1688 348,1690" rendition="Line" xml:id="facs_57_tr_3_tl_2"/>
+            <zone points="348,1851 540,1849 580,1875 653,1851 1233,1861 1233,1816 1170,1804 990,1830 885,1802 348,1806" rendition="Line" xml:id="facs_57_tr_3_tl_3"/>
+            <zone points="327,1956 2012,1982 2012,1934 1932,1915 327,1934" rendition="Line" xml:id="facs_57_tr_3_tl_5"/>
+            <zone points="585,2083 736,2147 1960,2105 1960,2057 1657,2034 585,2048" rendition="Line" xml:id="facs_57_tr_3_tl_6" subtype="paragraph"/>
+            <zone points="341,2185 2233,2259 2233,2166 2055,2152 341,2145" rendition="Line" xml:id="facs_57_tr_3_tl_7"/>
+            <zone points="336,2313 410,2358 679,2315 2100,2339 2053,2270 336,2275" rendition="Line" xml:id="facs_57_tr_3_tl_8"/>
+            <zone points="940,2439 2254,2453 2254,2403 2162,2394 940,2398" rendition="Line" xml:id="facs_57_tr_3_tl_10"/>
+         </zone>
+         <zone points="23,2493 2310,2493 2310,3485 23,3485" rendition="TextRegion" xml:id="facs_57_tr_1">
+            <zone points="334,2559 2233,2564 2171,2505 331,2510" rendition="Line" xml:id="facs_57_tr_1_tl_1"/>
+            <zone points="324,2671 1025,2687 1075,2675 1075,2635 545,2614 424,2640 372,2616 324,2640" rendition="Line" xml:id="facs_57_tr_1_tl_2"/>
+            <zone points="568,2784 2154,2803 2060,2739 568,2732" rendition="Line" xml:id="facs_57_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="310,2900 2197,2912 2169,2858 310,2855" rendition="Line" xml:id="facs_57_tr_1_tl_4"/>
+            <zone points="322,3026 2207,3042 2143,2976 322,2964" rendition="Line" xml:id="facs_57_tr_1_tl_5"/>
+            <zone points="317,3158 720,3158 717,3111 689,3111 675,3097 639,3111 608,3097 571,3109 554,3097 502,3123 447,3094 410,3109 355,3097 315,3109" rendition="Line" xml:id="facs_57_tr_1_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0531.jpg" n="part4_p057.jpg" xml:id="img_0057" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p057.jpg"/>
+            
+            <p facs="#facs_57_tr_2">
+               <lb facs="#facs_57_tr_2_tl_1" n="N001"/>[526]
+               <lb facs="#facs_57_tr_2_tl_2" n="N002"/>here again, Protestant, or older Catholic traditions; and here again, Puritan or Lutheran
+               <lb facs="#facs_57_tr_2_tl_3" n="N003"/>traditions; and here again, European Protestantism and American Protestantism---everybody
+               <lb facs="#facs_57_tr_2_tl_4" n="N004"/>is within the situation that he has to make decisions, because he is NOT one monolithic
+               <lb facs="#facs_57_tr_2_tl_5" n="N005"/>tradition in which he knows what to do because of the authority of the tradition.
+               <lb facs="#facs_57_tr_2_tl_6" n="N006"/>This brings us to the question: What is the relationship of the ABSOLUTE
+               <lb facs="#facs_57_tr_2_tl_7" n="N007"/>VALIDITY of the catogorical imperative, which we discussed last time, and the RELATIVE
+               <lb facs="#facs_57_tr_2_tl_8" n="N008"/>VALIDITY of every content which HAPPENS in the ethical act? How can you act with the
+               <lb facs="#facs_57_tr_2_tl_9" n="N009"/>feeling of unconditional duty if you are torn in your consciousness about the CONTENTS of
+               <lb facs="#facs_57_tr_2_tl_10" n="N010"/>this duty? Now this is a very serious practical problem, I believe, and I hope for all of, you
+               <lb facs="#facs_57_tr_2_tl_11" n="N011"/>who have an ethically sensitive conscience and at the same time the pathos of autonomy in
+            </p>
+            <p facs="#facs_57_tr_3">
+               <lb facs="#facs_57_tr_3_tl_1" n="N001"/>your judgment and not the acceptance of traditionalism and conformism. Of course, this is
+               <lb facs="#facs_57_tr_3_tl_2" n="N002"/>not self-understood. There are different ways of deriving, from the ultimate principle of ethics,
+               <lb facs="#facs_57_tr_3_tl_3" n="N003"/>contents which then must be accepted as unconditional themselves. I will
+               <lb facs="#facs_57_tr_3_tl_5" n="N004"/>refer to two of these: the Catholic doctrine of natural law, and the totalitarian ideas.
+               <lb facs="#facs_57_tr_3_tl_6" n="N005"/>In the Roman Catholic doctrine of natural law---when by chance I say
+               <lb facs="#facs_57_tr_3_tl_7" n="N006"/>"Catholic" with the adjective "Roman," please, [I mean also] the Anglo-Catholics and the Greek
+               <lb facs="#facs_57_tr_3_tl_8" n="N007"/>Catholics---don't feel hit, necessarily; it's a European tradition, where, in the practical life,
+               <lb facs="#facs_57_tr_3_tl_10" n="N008"/>especially in Germany, Catholicism is identified with Roman Catholicism---and it took me
+            </p>
+            <p facs="#facs_57_tr_1">
+               <lb facs="#facs_57_tr_1_tl_1" n="N001"/>years in this country before I realized that this is misleading because here the word "Catholic" is
+               <lb facs="#facs_57_tr_1_tl_2" n="N002"/>also used for some Protestant groups.
+               <lb facs="#facs_57_tr_1_tl_3" n="N003"/>Now the Roman Catholic position is the following---and it is a very realistic one,
+               <lb facs="#facs_57_tr_1_tl_4" n="N004"/>in our present situation here in America, where we have a powerful representation of a natural-
+               <lb facs="#facs_57_tr_1_tl_5" n="N005"/>law theory which is maintained and confirmed by the authority of the Church. Let me develop
+               <lb facs="#facs_57_tr_1_tl_6" n="N006"/>this idea a little bit.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXIX (Nr. 0521)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p047</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-22">1956-03-22</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_47">
+         <graphic url="TL-0521.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AJTXDZTHKMBNMLSRSJPQZEPB&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="188,33 2263,33 2263,1553 188,1553" rendition="TextRegion" xml:id="facs_47_tr_2">
+            <zone points="1135,342 1153,339 1163,349 1186,349 1191,344 1196,349 1260,349 1260,293 1224,291 1214,280 1204,278 1188,286 1183,283 1170,296 1135,298" rendition="Line" xml:id="facs_47_tr_2_tl_2"/>
+            <zone points="260,490 2157,502 2106,428 260,454" rendition="Line" xml:id="facs_47_tr_2_tl_3"/>
+            <zone points="260,655 1306,658 1336,648 1336,594 260,612" rendition="Line" xml:id="facs_47_tr_2_tl_4"/>
+            <zone points="459,793 2241,806 2241,745 459,742" rendition="Line" xml:id="facs_47_tr_2_tl_5" subtype="paragraph"/>
+            <zone points="250,938 2213,951 2213,898 2124,887 250,892" rendition="Line" xml:id="facs_47_tr_2_tl_6"/>
+            <zone points="247,1086 2239,1102 2239,1051 1989,1043 247,1063" rendition="Line" xml:id="facs_47_tr_2_tl_7"/>
+            <zone points="250,1244 2239,1255 2257,1198 250,1216" rendition="Line" xml:id="facs_47_tr_2_tl_8"/>
+            <zone points="250,1390 2058,1413 2007,1341 1612,1329 250,1364" rendition="Line" xml:id="facs_47_tr_2_tl_9"/>
+            <zone points="247,1550 2109,1548 2109,1497 1877,1489 247,1497" rendition="Line" xml:id="facs_47_tr_2_tl_10"/>
+         </zone>
+         <zone points="154,1639 2388,1639 2388,3488 154,3488" rendition="TextRegion" xml:id="facs_47_tr_1">
+            <zone points="245,1693 2188,1711 2188,1650 2078,1637 245,1650" rendition="Line" xml:id="facs_47_tr_1_tl_1"/>
+            <zone points="431,1851 2190,1859 2206,1800 431,1823" rendition="Line" xml:id="facs_47_tr_1_tl_3"/>
+            <zone points="240,2004 2259,2014 2259,1951 240,1958" rendition="Line" xml:id="facs_47_tr_1_tl_5"/>
+            <zone points="240,2155 2285,2162 2285,2104 2175,2099 240,2104" rendition="Line" xml:id="facs_47_tr_1_tl_6"/>
+            <zone points="232,2300 2257,2308 2257,2254 2048,2247 232,2259" rendition="Line" xml:id="facs_47_tr_1_tl_7"/>
+            <zone points="224,2445 418,2468 913,2461 913,2412 862,2397 421,2410 395,2387 224,2422" rendition="Line" xml:id="facs_47_tr_1_tl_8"/>
+            <zone points="229,2601 1994,2614 2211,2604 2236,2553 229,2576" rendition="Line" xml:id="facs_47_tr_1_tl_10"/>
+            <zone points="237,2762 2180,2772 2211,2698 237,2723" rendition="Line" xml:id="facs_47_tr_1_tl_11"/>
+            <zone points="229,2907 2027,2917 2275,2902 2275,2851 229,2876" rendition="Line" xml:id="facs_47_tr_1_tl_12"/>
+            <zone points="224,3055 1530,3063 1530,3009 224,3009" rendition="Line" xml:id="facs_47_tr_1_tl_13"/>
+            <zone points="423,3221 1413,3282 2384,3244 2323,3177 1436,3233 423,3182" rendition="Line" xml:id="facs_47_tr_1_tl_14" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0521.jpg" n="part4_p047.jpg" xml:id="img_0047" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p047.jpg"/>
+            
+            <p facs="#facs_47_tr_2">
+               <lb facs="#facs_47_tr_2_tl_2" n="N001"/>[516]
+               <lb facs="#facs_47_tr_2_tl_3" n="N002"/>of the myth, without asking questions, and the loss of this by the critical question, and then the
+               <lb facs="#facs_47_tr_2_tl_4" n="N003"/>possibility of regaining it on another level in maturity.
+               <lb facs="#facs_47_tr_2_tl_5" n="N004"/>Now the question was: where does the OUGHT come, the OUGHT-to-be come? It comes
+               <lb facs="#facs_47_tr_2_tl_6" n="N005"/>in the moment in which actualization appears as a possibility. I could show this in the profundities
+               <lb facs="#facs_47_tr_2_tl_7" n="N006"/>of the myth of the Fall of Adam, in Genesis 3, where all the deepest psychological insights about the
+               <lb facs="#facs_47_tr_2_tl_8" n="N007"/>transition from dreaming innocence to actualization are given. There is the double desire to actualize
+               <lb facs="#facs_47_tr_2_tl_9" n="N008"/>oneself: vitally---the fruit which is beautiful to look at; and spiritually (with a small "s")---
+               <lb facs="#facs_47_tr_2_tl_10" n="N009"/>the possibilities of knowledge and power over nature are symbolized in the Tree. At the same
+            </p>
+            <p facs="#facs_47_tr_1">
+               <lb facs="#facs_47_tr_1_tl_1" n="N001"/>time, man receives the command NOT to actualize himself! He stands between the two anxieties,
+               <lb facs="#facs_47_tr_1_tl_3" n="N002"/>as I called it: the one which tells him not to actualize himself, and in the old myth which precedes
+               <lb facs="#facs_47_tr_1_tl_5" n="N003"/>perhaps the Genesis myth, it is the real fear of the gods, that man actualizes and becomes God Himself,
+               <lb facs="#facs_47_tr_1_tl_6" n="N004"/>and this sounds through the story itself, when the gods who at that point are almost described as having
+               <lb facs="#facs_47_tr_1_tl_7" n="N005"/>a council, a deliberation, where they decide finally that if man is NOT only knowing and HAVING
+               <lb facs="#facs_47_tr_1_tl_8" n="N006"/>POWER, but is also immortal, i.e. continues eating from the fruit which gives immortality,
+               <lb facs="#facs_47_tr_1_tl_10" n="N007"/>then he really is God, and therefore they drive him out and let him to be what he naturally is: finite---
+               <lb facs="#facs_47_tr_1_tl_11" n="N008"/>and that means, returning to the soil. It is not that death is the PUNISHMENT, but it is the natural
+               <lb facs="#facs_47_tr_1_tl_12" n="N009"/>consequence, in this old, old story of man's finitude. The punishment is only that he is separated from
+               <lb facs="#facs_47_tr_1_tl_13" n="N010"/>the infinite, symbolized in the fruit of eternity: the Tree of Life.
+               <lb facs="#facs_47_tr_1_tl_14" n="N011"/>Now all this has very profound elements of description of our present state, and so we must use it---
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

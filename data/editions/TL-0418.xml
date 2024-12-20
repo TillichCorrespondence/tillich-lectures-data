@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXII (Nr. 0418)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p026</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-06">1956-03-06</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_26">
+         <graphic url="TL-0418.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=IKKSLUBIUKSVGASPWLNNYXWT&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,278 2376,278 2376,1711 298,1711" rendition="TextRegion" xml:id="facs_26_tr_2">
+            <zone points="1167,335 1193,337 1213,350 1226,347 1249,352 1254,345 1262,350 1292,345 1290,271 1251,268 1228,294 1210,294 1195,283 1165,286" rendition="Line" xml:id="facs_26_tr_2_tl_1"/>
+            <zone points="319,478 2370,518 2186,449 1558,455 1463,391 1402,452 319,434" rendition="Line" xml:id="facs_26_tr_2_tl_2"/>
+            <zone points="314,623 2229,669 2229,605 2140,600 314,595" rendition="Line" xml:id="facs_26_tr_2_tl_3"/>
+            <zone points="314,776 2181,815 2178,756 2102,751 314,718" rendition="Line" xml:id="facs_26_tr_2_tl_4"/>
+            <zone points="304,927 2242,965 2242,904 304,876" rendition="Line" xml:id="facs_26_tr_2_tl_5"/>
+            <zone points="304,1078 2181,1119 2181,1057 304,1052" rendition="Line" xml:id="facs_26_tr_2_tl_6"/>
+            <zone points="301,1236 2127,1274 2125,1208 301,1185" rendition="Line" xml:id="facs_26_tr_2_tl_7"/>
+            <zone points="294,1379 2288,1422 2288,1356 294,1325" rendition="Line" xml:id="facs_26_tr_2_tl_8"/>
+            <zone points="283,1530 2163,1565 2137,1504 283,1479" rendition="Line" xml:id="facs_26_tr_2_tl_9"/>
+            <zone points="286,1683 1803,1711 1800,1655 1721,1650 283,1632" rendition="Line" xml:id="facs_26_tr_2_tl_10"/>
+         </zone>
+         <zone points="265,1780 2298,1780 2298,2768 265,2768" rendition="TextRegion" xml:id="facs_26_tr_3">
+            <zone points="421,1834 1742,1859 1793,1905 2209,1874 2183,1806 419,1808" rendition="Line" xml:id="facs_26_tr_3_tl_1" subtype="paragraph"/>
+            <zone points="271,1979 2291,2023 2288,1964 271,1954" rendition="Line" xml:id="facs_26_tr_3_tl_2"/>
+            <zone points="276,2135 2199,2168 2196,2117 276,2086" rendition="Line" xml:id="facs_26_tr_3_tl_3"/>
+            <zone points="263,2283 1657,2314 1657,2258 263,2255" rendition="Line" xml:id="facs_26_tr_3_tl_4"/>
+            <zone points="409,2436 2209,2472 2206,2413 409,2385" rendition="Line" xml:id="facs_26_tr_3_tl_5" subtype="paragraph"/>
+            <zone points="258,2592 2209,2620 2209,2561 258,2559" rendition="Line" xml:id="facs_26_tr_3_tl_6"/>
+            <zone points="250,2738 2183,2771 2183,2710 250,2707" rendition="Line" xml:id="facs_26_tr_3_tl_7"/>
+         </zone>
+         <zone points="35,2834 2254,2834 2254,3488 35,3488" rendition="TextRegion" xml:id="facs_26_tr_1">
+            <zone points="248,2886 2089,2916 2038,2858 248,2860" rendition="Line" xml:id="facs_26_tr_1_tl_1"/>
+            <zone points="243,3036 2247,3070 2247,3011 243,3008" rendition="Line" xml:id="facs_26_tr_1_tl_2"/>
+            <zone points="240,3197 2166,3238 2166,3172 240,3139" rendition="Line" xml:id="facs_26_tr_1_tl_3"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0418.jpg" n="part3_p026.jpg" xml:id="img_0026" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p026.jpg"/>
+            
+            <p facs="#facs_26_tr_2">
+               <lb facs="#facs_26_tr_2_tl_1" n="N001"/>[413]
+               <lb facs="#facs_26_tr_2_tl_2" n="N002"/>in the power of a higher principle. This I would call the negative concept of an education of adjustment.
+               <lb facs="#facs_26_tr_2_tl_3" n="N003"/>If we use that term, ''education for adjustment,'' then we should always read Huxley's <hi style="font-style: italic;">Brave New</hi>
+               <lb facs="#facs_26_tr_2_tl_4" n="N004"/><hi style="font-style: italic;">World</hi> in order to see where we can avoid producing ''gamma's'' in our school's, namely that
+               <lb facs="#facs_26_tr_2_tl_5" n="N005"/>lowest class of workers which is produced <hi style="font-style: italic;">en masse</hi> by special means of stimulus and response, and
+               <lb facs="#facs_26_tr_2_tl_6" n="N006"/>conditioned reflexes. This is of course a caricature, but the caricature can become a symbol for
+               <lb facs="#facs_26_tr_2_tl_7" n="N007"/>a tendency. And I am very much afraid that Huxley was right when he wrote this caricature,
+               <lb facs="#facs_26_tr_2_tl_8" n="N008"/>that this tendency of the production of gamma's and beta's and alpha's of course--of which the most
+               <lb facs="#facs_26_tr_2_tl_9" n="N009"/>important is the production of ''gamma's'' who say ''We are proved to be gamma's,'' namely the
+               <lb facs="#facs_26_tr_2_tl_10" n="N010"/>lowest--and to take away the attempt to go beyond the lowest by saying No!
+            </p>
+            <p facs="#facs_26_tr_3">
+               <lb facs="#facs_26_tr_3_tl_1" n="N001"/>Now I only indicate this danger because I believe, with all the other conformist tendencies
+               <lb facs="#facs_26_tr_3_tl_2" n="N002"/>which come from radio, movie, newspapers, television, etc., there is a real danger of a total adjustment
+               <lb facs="#facs_26_tr_3_tl_3" n="N003"/>of adjustment (in the second sense of the word) which indeed would finally destroy itself because
+               <lb facs="#facs_26_tr_3_tl_4" n="N004"/>the creative spirit would be driven out. This is the limit of THIS ideal.
+               <lb facs="#facs_26_tr_3_tl_5" n="N005"/>Then the third ideal is introducing into groups the meaning of which is expressed in sets of
+               <lb facs="#facs_26_tr_3_tl_6" n="N006"/>symbols, doctrines, and perhaps dogmas. Introduction is the interpretative introduction into these
+               <lb facs="#facs_26_tr_3_tl_7" n="N007"/>concepts, doctrines and symbols. This is not necessarily the same as the second is. The education
+            </p>
+            <p facs="#facs_26_tr_1">
+               <lb facs="#facs_26_tr_1_tl_1" n="N001"/>of adjustment could be described as patternization, subjection to a pattern. The third can be
+               <lb facs="#facs_26_tr_1_tl_2" n="N002"/>described as conformism, to introduce into a group with which one conflicts, without being modelled
+               <lb facs="#facs_26_tr_1_tl_3" n="N003"/>according to a pattern. But of course there is a similar problem in this introductory type, namely
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

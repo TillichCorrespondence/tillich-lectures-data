@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVI (Nr. 0476)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p002</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-13">1956-03-13</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
+         <graphic url="TL-0476.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NFHPZFPOERZXDNDMYVPPVVGX&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="50,6 2367,6 2367,2822 50,2822" rendition="TextRegion" xml:id="facs_2_tr_1">
+            <zone points="1165,322 1190,322 1203,332 1231,335 1239,335 1246,327 1254,332 1277,332 1277,268 1241,268 1236,263 1228,266 1218,258 1195,278 1165,278" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+            <zone points="516,467 1540,472 1642,518 2115,490 2115,419 2030,406 1989,439 1668,403 1323,437 1233,401 1177,437 1096,358 1022,432 674,403 516,437" rendition="Line" xml:id="facs_2_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="329,608 439,641 2104,636 2104,577 329,562" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+            <zone points="309,769 2166,781 2166,728 615,707 309,743" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+            <zone points="312,919 2071,935 2071,868 312,886" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+            <zone points="309,1070 2240,1088 2240,1027 309,1022" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+            <zone points="312,1228 2360,1239 2360,1177 312,1175" rendition="Line" xml:id="facs_2_tr_1_tl_10"/>
+            <zone points="296,1374 2183,1384 2183,1325 296,1325" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
+            <zone points="299,1535 2191,1540 2191,1481 299,1484" rendition="Line" xml:id="facs_2_tr_1_tl_12"/>
+            <zone points="304,1685 2232,1685 2232,1632 1910,1622 304,1629" rendition="Line" xml:id="facs_2_tr_1_tl_13"/>
+            <zone points="332,1754 485,1775 623,1752 878,1770 878,1696 820,1734 774,1703 741,1729 646,1703 621,1729 572,1688 432,1685 396,1721 332,1726" rendition="Line" xml:id="facs_2_tr_1_tl_14"/>
+            <zone points="296,1903 2247,1918 2247,1846 567,1874 296,1841" rendition="Line" xml:id="facs_2_tr_1_tl_15"/>
+            <zone points="365,2048 426,2069 861,2058 861,2007 401,2002 365,2023" rendition="Line" xml:id="facs_2_tr_1_tl_16"/>
+            <zone points="490,2204 1742,2214 1742,2148 490,2150" rendition="Line" xml:id="facs_2_tr_1_tl_17" subtype="paragraph"/>
+            <zone points="283,2355 2235,2403 2235,2314 2183,2311 283,2326" rendition="Line" xml:id="facs_2_tr_1_tl_19"/>
+            <zone points="283,2503 988,2544 1047,2582 1412,2505 2094,2515 2094,2462 283,2459" rendition="Line" xml:id="facs_2_tr_1_tl_20"/>
+            <zone points="291,2664 2217,2666 2183,2597 291,2610" rendition="Line" xml:id="facs_2_tr_1_tl_21"/>
+            <zone points="283,2819 2127,2822 2102,2761 283,2758" rendition="Line" xml:id="facs_2_tr_1_tl_22"/>
+         </zone>
+         <zone points="20,2905 2298,2905 2298,3461 20,3461" rendition="TextRegion" xml:id="facs_2_tr_2">
+            <zone points="278,2957 1315,2965 1443,3013 2173,3011 2270,2967 2270,2911 278,2911" rendition="Line" xml:id="facs_2_tr_2_tl_1"/>
+            <zone points="286,3118 352,3172 822,3118 2291,3126 2291,3062 2204,3059 286,3064" rendition="Line" xml:id="facs_2_tr_2_tl_2"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0476.jpg" n="part4_p002.jpg" xml:id="img_0002" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p002.jpg"/>
+            
+            <p facs="#facs_2_tr_1">
+               <lb facs="#facs_2_tr_1_tl_2" n="N001"/>[471]
+               <lb facs="#facs_2_tr_1_tl_4" n="N002"/>Now this I think is all we should say here because it is a little beyond our subject,
+               <lb facs="#facs_2_tr_1_tl_6" n="N003"/>"Religion and Culture," but it is something which goes deeply into the life of every family,
+               <lb facs="#facs_2_tr_1_tl_7" n="N004"/>and you cannot imagine [the life of] how many NON-Christians, in the technical sense of that
+               <lb facs="#facs_2_tr_1_tl_8" n="N005"/>word: non-members of churches, or humanists, people who call themselves non-religious.
+               <lb facs="#facs_2_tr_1_tl_9" n="N006"/>I have been asked again and again, "What to do with our children?" They don't WANT that these
+               <lb facs="#facs_2_tr_1_tl_10" n="N007"/>children get this empty feeling they have themselves; they want to do for them something beyond it.
+               <lb facs="#facs_2_tr_1_tl_11" n="N008"/>But who can answer this often very urgent and very desperate question? Now I tried at least to
+               <lb facs="#facs_2_tr_1_tl_12" n="N009"/>give you some hints, and of course, for the Religion and Culture, this is a fundamental problem.
+               <lb facs="#facs_2_tr_1_tl_13" n="N010"/>QN [P.H.John]: [--re the authority of the Church and <rs type="person" ref="#tillich_person_id__2989">(Jacques) Maritain</rs>--how does such a mind
+               <lb facs="#facs_2_tr_1_tl_14" n="N011"/>comply with it? -- etc....]
+               <lb facs="#facs_2_tr_1_tl_15" n="N012"/>PT: Do you remember when I said this before, on another occasion? [Yes] Then you want me to
+               <lb facs="#facs_2_tr_1_tl_16" n="N013"/>repeat it for the others:
+               <lb facs="#facs_2_tr_1_tl_17" n="N014"/>In a meeting, [for] five days, when we came to the problem of <rs type="keyword" ref="#Autonomy">autonomy,</rs>
+               <lb facs="#facs_2_tr_1_tl_19" n="N015"/><rs type="keyword" ref="#Heteronomy">heteronomy</rs> and <rs type="keyword" ref="#Theonomy">theonomy</rs> in the churches, and I spoke of the heteronomy of the Roman Church.
+               <lb facs="#facs_2_tr_1_tl_20" n="N016"/>Then <rs type="person" ref="#tillich_person_id__2989">Maritain</rs>--who is a very good friend of mine--said, "We are not heteronomous, we are
+               <lb facs="#facs_2_tr_1_tl_21" n="N017"/>theonomous." Then I said: "Now let us make a test question: If the prophetic spirit grasps YOU,
+               <lb facs="#facs_2_tr_1_tl_22" n="N018"/><rs type="person" ref="#tillich_person_id__2989">Maritain</rs>, one day, and you SAY something which later on is denied by the Church authority,
+            </p>
+            <p facs="#facs_2_tr_2">
+               <lb facs="#facs_2_tr_2_tl_1" n="N001"/>what do you say?" And he said, "Then I was in error." Now that is what I mean with heteronomy:
+               <lb facs="#facs_2_tr_2_tl_2" n="N002"/>"then I was in error." The Protestant would say: "Then the CHURCH was in error." <hi style="font-style: italic;">[some laughter]</hi>
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XL (Nr. 0538)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p064</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-27">1956-03-27</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_64">
+         <graphic url="TL-0538.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=JXMBNDZPADLPBHTDXXYRMWUP&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="47,63 2298,63 2298,1837 47,1837" rendition="TextRegion" xml:id="facs_64_tr_2">
+            <zone points="1159,392 1171,395 1181,405 1201,405 1209,397 1246,397 1261,405 1269,397 1281,397 1284,325 1271,325 1251,342 1231,345 1159,342" rendition="Line" xml:id="facs_64_tr_2_tl_2"/>
+            <zone points="282,532 2258,495 2260,417 1329,467 1231,397 1146,470 282,495" rendition="Line" xml:id="facs_64_tr_2_tl_3"/>
+            <zone points="285,657 2158,627 2160,557 285,602" rendition="Line" xml:id="facs_64_tr_2_tl_4"/>
+            <zone points="297,769 2183,742 2270,737 2270,682 300,717" rendition="Line" xml:id="facs_64_tr_2_tl_6"/>
+            <zone points="285,889 2213,854 2248,787 287,864" rendition="Line" xml:id="facs_64_tr_2_tl_7"/>
+            <zone points="292,1009 2078,982 2185,962 2188,909 295,962" rendition="Line" xml:id="facs_64_tr_2_tl_8"/>
+            <zone points="292,1126 2178,1051 2028,1009 292,1081" rendition="Line" xml:id="facs_64_tr_2_tl_9"/>
+            <zone points="287,1239 1808,1224 2283,1196 2285,1144 287,1174" rendition="Line" xml:id="facs_64_tr_2_tl_10"/>
+            <zone points="290,1359 1439,1349 1581,1334 1581,1286 292,1314" rendition="Line" xml:id="facs_64_tr_2_tl_11"/>
+            <zone points="554,1469 1971,1454 2218,1436 2220,1376 554,1416" rendition="Line" xml:id="facs_64_tr_2_tl_12" subtype="paragraph"/>
+            <zone points="300,1596 2258,1558 2260,1496 300,1548" rendition="Line" xml:id="facs_64_tr_2_tl_13"/>
+            <zone points="300,1721 2293,1686 2293,1613 302,1663" rendition="Line" xml:id="facs_64_tr_2_tl_14"/>
+            <zone points="300,1831 2005,1808 2245,1788 2248,1716 300,1781" rendition="Line" xml:id="facs_64_tr_2_tl_15"/>
+         </zone>
+         <zone points="77,1842 2319,1842 2319,3485 77,3485" rendition="TextRegion" xml:id="facs_64_tr_1">
+            <zone points="307,1956 2175,1918 2313,1906 2313,1851 310,1898" rendition="Line" xml:id="facs_64_tr_1_tl_1"/>
+            <zone points="302,2068 2188,2030 2188,1973 305,2018" rendition="Line" xml:id="facs_64_tr_1_tl_2"/>
+            <zone points="302,2180 1269,2163 1374,2213 2265,2140 2268,2088 305,2155" rendition="Line" xml:id="facs_64_tr_1_tl_3"/>
+            <zone points="312,2300 2220,2263 2250,2203 312,2255" rendition="Line" xml:id="facs_64_tr_1_tl_4"/>
+            <zone points="302,2413 2000,2390 2210,2378 2213,2320 302,2388" rendition="Line" xml:id="facs_64_tr_1_tl_5"/>
+            <zone points="315,2540 2118,2502 2160,2435 317,2488" rendition="Line" xml:id="facs_64_tr_1_tl_6"/>
+            <zone points="317,2660 719,2645 769,2695 887,2640 1344,2627 1404,2680 1608,2617 1731,2667 1866,2607 2125,2612 2148,2555 317,2607" rendition="Line" xml:id="facs_64_tr_1_tl_8"/>
+            <zone points="307,2765 1681,2730 1801,2790 1898,2725 2193,2720 2193,2670 307,2742" rendition="Line" xml:id="facs_64_tr_1_tl_9"/>
+            <zone points="569,2892 1998,2855 2170,2840 2170,2785 569,2840" rendition="Line" xml:id="facs_64_tr_1_tl_10" subtype="paragraph"/>
+            <zone points="305,3002 1958,2967 1961,2905 305,2977" rendition="Line" xml:id="facs_64_tr_1_tl_11"/>
+            <zone points="572,3122 2140,3077 2143,3022 574,3067" rendition="Line" xml:id="facs_64_tr_1_tl_12" subtype="paragraph"/>
+            <zone points="317,3237 2113,3204 2218,3152 320,3207" rendition="Line" xml:id="facs_64_tr_1_tl_13"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0538.jpg" n="part4_p064.jpg" xml:id="img_0064" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p064.jpg"/>
+            
+            <p facs="#facs_64_tr_2">
+               <lb facs="#facs_64_tr_2_tl_2" n="N001"/>[533]
+               <lb facs="#facs_64_tr_2_tl_3" n="N002"/>are you a real person. But don't speak of self-love---I used that word only for a moment, and I don't
+               <lb facs="#facs_64_tr_2_tl_4" n="N003"/>know whether in the course of these lectures I already made this suggestion; if not, I do it now:
+               <lb facs="#facs_64_tr_2_tl_6" n="N004"/>The natural self-affirmation which Jesus (and the Old Testament) refers to when He says, "Love thy neighbor
+               <lb facs="#facs_64_tr_2_tl_7" n="N005"/>as thyself." This is the natural self-affirmation which everybody has and which should not be called
+               <lb facs="#facs_64_tr_2_tl_8" n="N006"/>self-love. The second is that against which the preachers preach, namely self-love in the negative
+               <lb facs="#facs_64_tr_2_tl_9" n="N007"/>sense, which shouldn't be called so because it confuses the issues; it should be called selfishness.
+               <lb facs="#facs_64_tr_2_tl_10" n="N008"/>It shouldn't also be called self-centeredness, because self-centeredness is the greatness of man: he is a
+               <lb facs="#facs_64_tr_2_tl_11" n="N009"/>complete center. But this probably cannot be avoided any more.
+               <lb facs="#facs_64_tr_2_tl_12" n="N010"/>Then there is a third: we look at ourselves in the mirror of what we ought to be and
+               <lb facs="#facs_64_tr_2_tl_13" n="N011"/>because we are it essentially: then we discover that we have to reject ourselves. And if we are able,
+               <lb facs="#facs_64_tr_2_tl_14" n="N012"/>because of the power of love IN us, to accept ourselves in SPITE of our self-disgust and self-rejection,
+               <lb facs="#facs_64_tr_2_tl_15" n="N013"/>then we have what I would call the highest form of self-love, but I would not call it so; in order to
+            </p>
+            <p facs="#facs_64_tr_1">
+               <lb facs="#facs_64_tr_1_tl_1" n="N001"/>avoid confusion, let's call it self-acceptance. So instead of that in-itself-impossible and logically wrong
+               <lb facs="#facs_64_tr_1_tl_2" n="N002"/>and confusing word, "self-love," which must always be distinguished in the right and the wrong
+               <lb facs="#facs_64_tr_1_tl_3" n="N003"/>self-love, [we] have three words: self-affirmation, selfishness, and self-acceptance---self-afffirmation,
+               <lb facs="#facs_64_tr_1_tl_4" n="N004"/>which is the necessary natural life process which we have in every moment, which we try to escape
+               <lb facs="#facs_64_tr_1_tl_5" n="N005"/>a [i.e. which we try to protect from) [sic.] danger, or in which we enjoy our being as living; secondly,
+               <lb facs="#facs_64_tr_1_tl_6" n="N006"/>selfishness, which neither affirms oneself nor the other one, but which is greedy and is always
+               <lb facs="#facs_64_tr_1_tl_8" n="N007"/>connected with self-disgust; and then the third, namely the self-acceptance IN SPITE of this
+               <lb facs="#facs_64_tr_1_tl_9" n="N008"/>self-disgust which is connected with selfishness---this form of love, of which I am speaking now.
+               <lb facs="#facs_64_tr_1_tl_10" n="N009"/>And now I say: this self-acceptance also enables us to accept the others, because
+               <lb facs="#facs_64_tr_1_tl_11" n="N010"/>it overcomes the greedy selfishness which makes the others into objects and means.
+               <lb facs="#facs_64_tr_1_tl_12" n="N011"/>If we have the principle of love, then we have a principle which has all richness
+               <lb facs="#facs_64_tr_1_tl_13" n="N012"/>of the world in itself, because EVERYthing is completely individualized and seeks and longs for
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

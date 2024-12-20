@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVI (Nr. 0478)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p004</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-13">1956-03-13</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_4">
+         <graphic url="TL-0478.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XURPQKDJPXVPCFSOCBTFPIMQ&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,272 2295,272 2295,1855 298,1855" rendition="TextRegion" xml:id="facs_4_tr_1">
+            <zone points="1142,332 1162,332 1180,342 1222,337 1259,342 1262,254 1229,254 1209,274 1145,274" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
+            <zone points="284,481 2229,486 2229,434 2045,404 284,444" rendition="Line" xml:id="facs_4_tr_1_tl_2"/>
+            <zone points="284,633 1671,643 1671,581 1631,579 284,606" rendition="Line" xml:id="facs_4_tr_1_tl_4"/>
+            <zone points="294,798 2199,788 2192,721 294,736" rendition="Line" xml:id="facs_4_tr_1_tl_5"/>
+            <zone points="289,943 2107,935 2107,898 2012,873 289,910" rendition="Line" xml:id="facs_4_tr_1_tl_6"/>
+            <zone points="294,1100 2167,1107 2167,1022 294,1040" rendition="Line" xml:id="facs_4_tr_1_tl_7"/>
+            <zone points="287,1239 2292,1244 2292,1185 2047,1162 1486,1207 287,1177" rendition="Line" xml:id="facs_4_tr_1_tl_8"/>
+            <zone points="284,1389 2239,1389 2214,1329 284,1349" rendition="Line" xml:id="facs_4_tr_1_tl_9"/>
+            <zone points="287,1546 2232,1539 2232,1486 2005,1476 287,1504" rendition="Line" xml:id="facs_4_tr_1_tl_10"/>
+            <zone points="289,1701 2175,1688 2175,1623 289,1653" rendition="Line" xml:id="facs_4_tr_1_tl_11"/>
+            <zone points="284,1840 1838,1855 2192,1838 2209,1783 284,1815" rendition="Line" xml:id="facs_4_tr_1_tl_12"/>
+         </zone>
+         <zone points="286,1926 2239,1926 2239,2547 286,2547" rendition="TextRegion" xml:id="facs_4_tr_3">
+            <zone points="282,2000 2155,1990 2157,1935 2010,1928 284,1948" rendition="Line" xml:id="facs_4_tr_3_tl_1"/>
+            <zone points="279,2150 2112,2140 2112,2087 1985,2072 279,2120" rendition="Line" xml:id="facs_4_tr_3_tl_2"/>
+            <zone points="284,2314 2180,2287 2182,2237 287,2252" rendition="Line" xml:id="facs_4_tr_3_tl_3"/>
+            <zone points="272,2384 2194,2379 2194,2322 1943,2312 272,2344" rendition="Line" xml:id="facs_4_tr_3_tl_4"/>
+            <zone points="272,2539 2232,2529 2227,2466 272,2496" rendition="Line" xml:id="facs_4_tr_3_tl_5"/>
+         </zone>
+         <zone points="91,2613 2212,2613 2212,3461 91,3461" rendition="TextRegion" xml:id="facs_4_tr_2">
+            <zone points="279,2698 2165,2681 2165,2623 1995,2618 282,2648" rendition="Line" xml:id="facs_4_tr_2_tl_1"/>
+            <zone points="269,2843 1988,2838 2127,2791 269,2815" rendition="Line" xml:id="facs_4_tr_2_tl_2"/>
+            <zone points="272,2997 2190,2975 2192,2913 272,2943" rendition="Line" xml:id="facs_4_tr_2_tl_3"/>
+            <zone points="279,3147 2209,3125 2177,3067 279,3095" rendition="Line" xml:id="facs_4_tr_2_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0478.jpg" n="part4_p004.jpg" xml:id="img_0004" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p004.jpg"/>
+            
+            <p facs="#facs_4_tr_1">
+               <lb facs="#facs_4_tr_1_tl_1" n="N001"/>[473]
+               <lb facs="#facs_4_tr_1_tl_2" n="N002"/>meaningless, statement. But let me say in one [word]: In a public school, or in a school in which
+               <lb facs="#facs_4_tr_1_tl_4" n="N003"/>all types of religions--and humanisms, more than religions, probably are together,
+               <lb facs="#facs_4_tr_1_tl_5" n="N004"/>you cannot of course, in the situation in which you live here in this country, in which there is no
+               <lb facs="#facs_4_tr_1_tl_6" n="N005"/>official connection between state and church--you cannot teach a special symbolic content.
+               <lb facs="#facs_4_tr_1_tl_7" n="N006"/>So the only way--and I think this was the wisdom of the early church--was that they said:
+               <lb facs="#facs_4_tr_1_tl_8" n="N007"/>We ARE concrete [?]. In this event (which they called Jesus, whom they called the Christ) something
+               <lb facs="#facs_4_tr_1_tl_9" n="N008"/>has happened which gives us the criterion transcending our whole situation and makes us universal.
+               <lb facs="#facs_4_tr_1_tl_10" n="N009"/>But not universal in the sense of being better than the others--Christianity has never, in its theol-
+               <lb facs="#facs_4_tr_1_tl_11" n="N010"/>ogical affirmations, affirmed that it is better than the others, as Christianity, but they only said
+               <lb facs="#facs_4_tr_1_tl_12" n="N011"/>we have a . . . . . ? . . . . . The school, in this case, is not the place where these symbols are taught.
+            </p>
+            <p facs="#facs_4_tr_3">
+               <lb facs="#facs_4_tr_3_tl_1" n="N001"/>For this reason I didn't mention it even. I spoke about home, society and church, but I didn't
+               <lb facs="#facs_4_tr_3_tl_2" n="N002"/>mention the school. The school is quite different in other countries. When I was in the
+               <lb facs="#facs_4_tr_3_tl_3" n="N003"/>public school in Germany, the <rs type="person" ref="#tillich_person_id__1228">Lutheran</rs> background was a self-understood thing, and the whole
+               <lb facs="#facs_4_tr_3_tl_4" n="N004"/>instruction, the whole education, in this public school was connected with the life of the church,
+               <lb facs="#facs_4_tr_3_tl_5" n="N005"/>the ONE church--there is only one church building in a smaller place, in <rs type="place">Germany</rs>, and one church;
+            </p>
+            <p facs="#facs_4_tr_2">
+               <lb facs="#facs_4_tr_2_tl_1" n="N001"/>there are no sects, no different denominations at all. And in this one church, which dominates,
+               <lb facs="#facs_4_tr_2_tl_2" n="N002"/>the life of the school ALSO was concentrated. But that was a quite different situation, . . . . .
+               <lb facs="#facs_4_tr_2_tl_3" n="N003"/>but there was also the <hi style="font-style: italic;">Gymnasium</hi>, a combination of high school and college: there it was done
+               <lb facs="#facs_4_tr_2_tl_4" n="N004"/>only in the RELIGIOUS instruction hours--which belonged officially to it--but not in the others.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

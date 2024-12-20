@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,12 +66,12 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_7">
          <graphic url="TL-0007.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=NPUGZKJUERFEQRUZTPOOTTXC&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NPUGZKJUERFEQRUZTPOOTTXC&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="1304,357 1225,357 1225,284 1304,284" rendition="TextRegion" xml:id="facs_7_r">
             <zone points="1222,335 1282,339 1283,324 1223,320" rendition="Line" xml:id="facs_7_l_691"/>
          </zone>
          <zone points="191,450 191,3450 2292,3450 2292,450" rendition="TextRegion" xml:id="facs_7_tr_2">
-            <zone points="495,508 2053,541 2053,459 1767,438 495,448" rendition="Line" xml:id="facs_7_tr_2_tl_1"/>
+            <zone points="495,508 2053,541 2053,459 1767,438 495,448" rendition="Line" xml:id="facs_7_tr_2_tl_1" subtype="paragraph"/>
             <zone points="255,590 2226,621 2226,554 2102,536 255,536" rendition="Line" xml:id="facs_7_tr_2_tl_2"/>
             <zone points="240,678 2040,683 2040,623 240,621" rendition="Line" xml:id="facs_7_tr_2_tl_3"/>
             <zone points="505,734 2205,799 2205,719 2053,706 505,708" rendition="Line" xml:id="facs_7_tr_2_tl_4"/>
@@ -85,7 +85,7 @@
             <zone points="224,1430 2205,1445 2205,1396 2115,1381 224,1394" rendition="Line" xml:id="facs_7_tr_2_tl_12"/>
             <zone points="219,1510 2257,1528 2216,1463 2120,1494 219,1476" rendition="Line" xml:id="facs_7_tr_2_tl_13"/>
             <zone points="222,1595 345,1597 371,1584 386,1597 487,1600 508,1620 556,1610 554,1561 492,1538 459,1561 430,1546 343,1546 332,1535 271,1559 222,1559" rendition="Line" xml:id="facs_7_tr_2_tl_14"/>
-            <zone points="471,1682 2285,1693 2239,1628 1886,1657 471,1613" rendition="Line" xml:id="facs_7_tr_2_tl_15"/>
+            <zone points="471,1682 2285,1693 2239,1628 1886,1657 471,1613" rendition="Line" xml:id="facs_7_tr_2_tl_15" subtype="paragraph"/>
             <zone points="214,1760 2164,1809 2164,1731 2012,1716 214,1731" rendition="Line" xml:id="facs_7_tr_2_tl_16"/>
             <zone points="211,1842 330,1894 760,1891 842,1842 2038,1863 2038,1821 1942,1809 211,1798" rendition="Line" xml:id="facs_7_tr_2_tl_17"/>
             <zone points="206,1927 252,1958 951,1930 1152,1986 2138,1948 2092,1888 1499,1899 1456,1855 1221,1909 1092,1876 206,1899" rendition="Line" xml:id="facs_7_tr_2_tl_18"/>
@@ -99,7 +99,7 @@
             <zone points="196,2620 1597,2661 1752,2661 1824,2612 2125,2623 2125,2556 505,2576 276,2527 196,2571" rendition="Line" xml:id="facs_7_tr_2_tl_26"/>
             <zone points="201,2684 2195,2710 2195,2648 201,2638" rendition="Line" xml:id="facs_7_tr_2_tl_27"/>
             <zone points="196,2767 376,2790 417,2764 575,2790 727,2782 727,2718 520,2728 466,2715 425,2744 234,2713 196,2726" rendition="Line" xml:id="facs_7_tr_2_tl_28"/>
-            <zone points="438,2852 2239,2878 2257,2821 435,2818" rendition="Line" xml:id="facs_7_tr_2_tl_29"/>
+            <zone points="438,2852 2239,2878 2257,2821 435,2818" rendition="Line" xml:id="facs_7_tr_2_tl_29" subtype="paragraph"/>
             <zone points="193,2942 2164,2958 2164,2909 2082,2896 193,2891" rendition="Line" xml:id="facs_7_tr_2_tl_30"/>
             <zone points="188,3022 2030,3053 2200,3045 2198,2991 1904,2958 1860,2996 1502,2994 1242,2950 1100,2999 185,2978" rendition="Line" xml:id="facs_7_tr_2_tl_31"/>
             <zone points="180,3102 1286,3143 1329,3112 2190,3133 2187,3081 178,3076" rendition="Line" xml:id="facs_7_tr_2_tl_32"/>
@@ -116,10 +116,10 @@
                <lb facs="#facs_7_l_691" n="N001"/>[4]
             </p>
             <p facs="#facs_7_tr_2">
-               <lb facs="#facs_7_tr_2_tl_1" n="N001"/>If we speak about culture, then it is a special kind of encounter: it is
-               <lb facs="#facs_7_tr_2_tl_2" n="N002"/>creative encounter. Not every encounter is creative--most are transitory, and nothing lasting
+               <lb facs="#facs_7_tr_2_tl_1" n="N001"/>If we speak about <rs type="keyword" ref="#Culture">culture</rs>, then it is a special kind of <rs type="keyword" ref="#Encounter">encounter</rs>: it is
+               <lb facs="#facs_7_tr_2_tl_2" n="N002"/><rs type="keyword" ref="#Creative_Encounter">creative encounter</rs>. Not every encounter is creative--most are transitory, and nothing lasting
                <lb facs="#facs_7_tr_2_tl_3" n="N003"/>is created by them. But SOME encounters are creative. What does that word mean?
-               <lb facs="#facs_7_tr_2_tl_4" n="N004"/>"Creative" comes from mythological language and was first applied to the gods
+               <lb facs="#facs_7_tr_2_tl_4" n="N004"/>"<rs type="keyword" ref="#Creativity">Creative</rs>" comes from mythological language and was first applied to the gods
                <lb facs="#facs_7_tr_2_tl_5" n="N005"/>and their creative power, and to the God of the Old Testament in a special way: creating
                <lb facs="#facs_7_tr_2_tl_6" n="N006"/>the world and everything in it. From there, it has been taken and applied to man's activities
                <lb facs="#facs_7_tr_2_tl_7" n="N007"/>in an analogous way. Let me make a footnote here. I am sometimes a little worried about
@@ -132,15 +132,15 @@
                <lb facs="#facs_7_tr_2_tl_14" n="N014"/>word "creative.''
                <lb facs="#facs_7_tr_2_tl_15" n="N015"/>In a creative act, both sides--the subject of creation and the object upon which the
                <lb facs="#facs_7_tr_2_tl_16" n="N016"/>creation is exercised--are transformed, and in such a way that something qualitatively new,
-               <lb facs="#facs_7_tr_2_tl_17" n="N017"/>which has power-of-being, of resisting non-being, is created. Wherever we encounter a
+               <lb facs="#facs_7_tr_2_tl_17" n="N017"/>which has <rs type="keyword" ref="#Power_of_Being">power-of-being</rs>, of resisting non-being, is created. Wherever we encounter a
                <lb facs="#facs_7_tr_2_tl_18" n="N018"/>cultural creation--e.g., my favorite example for all this: a painting--its colors, lines, light
                <lb facs="#facs_7_tr_2_tl_19" n="N019"/>and shadow are used by a subject (the painter), and something new comes out which, if it is
                <lb facs="#facs_7_tr_2_tl_20" n="N020"/>a good or great painting, has the power-of-being, of lasting from century to century, and to
                <lb facs="#facs_7_tr_2_tl_21" n="N021"/>radiate this power-of-being on those who look at it.
-               <lb facs="#facs_7_tr_2_tl_22" n="N022"/>That is what I mean with "creative encounter." Religiously speaking, I would say
-               <lb facs="#facs_7_tr_2_tl_23" n="N023"/>the divine Creation can be called "original Creativity," which goes on in every moment of
+               <lb facs="#facs_7_tr_2_tl_22" n="N022"/>That is what I mean with "<rs type="keyword" ref="#Creative_Encounter">creative encounter</rs>." Religiously speaking, I would say
+               <lb facs="#facs_7_tr_2_tl_23" n="N023"/>the divine <rs type="keyword" ref="#Creation">Creation </rs>can be called "original <rs type="keyword" ref="#Creativity">Creativity</rs>," which goes on in every moment of
                <lb facs="#facs_7_tr_2_tl_24" n="N024"/>time, here and now, and which makes that something is at all. Human creativity continues
-               <lb facs="#facs_7_tr_2_tl_25" n="N025"/>this original Creation and makes out of it that "new" which we call "culture." This
+               <lb facs="#facs_7_tr_2_tl_25" n="N025"/>this original Creation and makes out of it that "new" which we call "<rs type="keyword" ref="#Culture">culture</rs>." This
                <lb facs="#facs_7_tr_2_tl_26" n="N026"/>analogy alone shows how highly we must value man's cultural creativity. It is a point in
                <lb facs="#facs_7_tr_2_tl_27" n="N027"/>which he is in analogy to the divine Creativity and has the power of continuing the original
                <lb facs="#facs_7_tr_2_tl_28" n="N028"/>Creativity of being-itself.

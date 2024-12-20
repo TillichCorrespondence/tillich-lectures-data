@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVI (Nr. 0477)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p003</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-13">1956-03-13</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
+         <graphic url="TL-0477.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=BJBDDIKHPWVLGOUIVYJXLRYA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="23,6 2280,6 2280,944 23,944" rendition="TextRegion" xml:id="facs_3_tr_1">
+            <zone points="1146,322 1159,322 1166,330 1181,330 1194,340 1204,337 1209,342 1221,342 1229,335 1254,335 1261,332 1259,275 1209,277 1199,267 1176,292 1166,287 1144,287" rendition="Line" xml:id="facs_3_tr_1_tl_3"/>
+            <zone points="302,492 395,549 2273,507 2273,420 1364,440 1079,420 1021,357 817,455 702,422 302,460" rendition="Line" xml:id="facs_3_tr_1_tl_4"/>
+            <zone points="307,659 542,707 992,634 2213,637 2213,574 1998,569 310,597" rendition="Line" xml:id="facs_3_tr_1_tl_5"/>
+            <zone points="302,789 1096,779 1199,837 1906,802 1981,837 2068,724 1369,712 1071,754 892,722 302,767" rendition="Line" xml:id="facs_3_tr_1_tl_7"/>
+            <zone points="502,939 2115,924 2115,872 1806,864 502,887" rendition="Line" xml:id="facs_3_tr_1_tl_8" subtype="paragraph"/>
+         </zone>
+         <zone points="316,1030 2310,1030 2310,1855 316,1855" rendition="TextRegion" xml:id="facs_3_tr_4">
+            <zone points="307,1094 994,1094 994,1041 859,1026 722,1029 692,1056 649,1036 629,1056 377,1029 307,1044" rendition="Line" xml:id="facs_3_tr_4_tl_1"/>
+            <zone points="302,1244 877,1271 2303,1221 2303,1159 302,1189" rendition="Line" xml:id="facs_3_tr_4_tl_2"/>
+            <zone points="335,1389 395,1414 1136,1389 1139,1331 807,1321 380,1339 337,1364" rendition="Line" xml:id="facs_3_tr_4_tl_3"/>
+            <zone points="305,1546 2243,1526 2243,1461 305,1494" rendition="Line" xml:id="facs_3_tr_4_tl_4"/>
+            <zone points="300,1731 799,1701 1086,1733 1131,1691 1426,1681 1541,1748 2048,1733 2105,1678 2273,1676 2273,1621 714,1666 507,1633 302,1668" rendition="Line" xml:id="facs_3_tr_4_tl_5"/>
+            <zone points="305,1851 789,1853 829,1893 1309,1858 1364,1891 1449,1836 2138,1828 2140,1776 2085,1763 1421,1811 307,1803" rendition="Line" xml:id="facs_3_tr_4_tl_6"/>
+         </zone>
+         <zone points="310,1914 2319,1914 2319,3067 310,3067" rendition="TextRegion" xml:id="facs_3_tr_3">
+            <zone points="307,2013 687,1996 742,2050 832,2053 894,2020 1151,2048 1234,2003 1291,2050 1658,1988 2315,1976 2310,1918 307,1956" rendition="Line" xml:id="facs_3_tr_3_tl_1"/>
+            <zone points="305,2150 2188,2133 2188,2078 1811,2073 305,2123" rendition="Line" xml:id="facs_3_tr_3_tl_2"/>
+            <zone points="305,2298 1918,2308 2230,2278 2233,2228 305,2253" rendition="Line" xml:id="facs_3_tr_3_tl_3"/>
+            <zone points="302,2453 2208,2430 2208,2373 305,2400" rendition="Line" xml:id="facs_3_tr_3_tl_4"/>
+            <zone points="305,2602 2155,2580 2155,2522 307,2555" rendition="Line" xml:id="facs_3_tr_3_tl_5"/>
+            <zone points="305,2755 500,2755 527,2772 574,2755 889,2760 892,2692 562,2697 537,2722 522,2707 487,2722 462,2697 397,2697 372,2722 347,2697 307,2722" rendition="Line" xml:id="facs_3_tr_3_tl_6"/>
+            <zone points="307,2902 2085,2895 2208,2877 2210,2815 307,2850" rendition="Line" xml:id="facs_3_tr_3_tl_7"/>
+            <zone points="352,2980 1956,2960 1956,2905 1873,2900 352,2955" rendition="Line" xml:id="facs_3_tr_3_tl_8"/>
+            <zone points="297,3054 2160,3037 2160,2987 2005,2975 297,3019" rendition="Line" xml:id="facs_3_tr_3_tl_9"/>
+         </zone>
+         <zone points="23,3123 2280,3123 2280,3458 23,3458" rendition="TextRegion" xml:id="facs_3_tr_2">
+            <zone points="302,3212 2225,3197 2228,3127 2173,3124 305,3162" rendition="Line" xml:id="facs_3_tr_2_tl_1"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0477.jpg" n="part4_p003.jpg" xml:id="img_0003" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p003.jpg"/>
+            
+            <p facs="#facs_3_tr_1">
+               <lb facs="#facs_3_tr_1_tl_3" n="N001"/>[472]
+               <lb facs="#facs_3_tr_1_tl_4" n="N002"/>And a Protestant, if he is critical AGAINST himself, would say: I risk, as the Prophets and Jesus and
+               <lb facs="#facs_3_tr_1_tl_5" n="N003"/>the Apostles would risk it. I MAY BE in error, but I don't subject myself to the church; the only
+               <lb facs="#facs_3_tr_1_tl_7" n="N004"/>one who can judge me is God Himself. -- That would be the HUMBLE Protestant answer.
+               <lb facs="#facs_3_tr_1_tl_8" n="N005"/>Now here you have the opposition of the two attitudes, what I call <rs type="keyword" ref="#Autonomy">autonomy</rs> and
+            </p>
+            <p facs="#facs_3_tr_4">
+               <lb facs="#facs_3_tr_4_tl_1" n="N001"/><rs type="keyword" ref="#Heteronomy">heteronomy.</rs> -- Another question?
+               <lb facs="#facs_3_tr_4_tl_2" n="N002"/>QN: Is it possible to have a complete vacuum in the religious realm, or in the education of the child?
+               <lb facs="#facs_3_tr_4_tl_3" n="N003"/>Is it possible to live [in] a real vacuum?
+               <lb facs="#facs_3_tr_4_tl_4" n="N004"/>PT: Now if there are <rs type="keyword" ref="#Symbols">symbols</rs> already given in very early years, then there is no vacuum, but there
+               <lb facs="#facs_3_tr_4_tl_5" n="N005"/>is critical emptiness, critical brokenness, of the symbols. They have no meaning any more; they can
+               <lb facs="#facs_3_tr_4_tl_6" n="N006"/>become meaningless, but they are still there potentially. And that is the reason why I am for
+            </p>
+            <p facs="#facs_3_tr_3">
+               <lb facs="#facs_3_tr_3_tl_1" n="N001"/>giving them early. They can be reawakened in every moment of life, and we have innumerable experi-
+               <lb facs="#facs_3_tr_3_tl_2" n="N002"/>ences that, in special situations, completely forgotten prayers and other symbols simply awake.
+               <lb facs="#facs_3_tr_3_tl_3" n="N003"/>But if you don't give anything, if you do not introduce, but either don't say anything, or teach
+               <lb facs="#facs_3_tr_3_tl_4" n="N004"/>in this sense of history of religion, then you produce a very dangerous vacuum, which is perhaps
+               <lb facs="#facs_3_tr_3_tl_5" n="N005"/>not complete but is vacuum with respect to the religious contents, and into this vacuum other
+               <lb facs="#facs_3_tr_3_tl_6" n="N006"/>demonic symbols may enter.
+               <lb facs="#facs_3_tr_3_tl_7" n="N007"/>QN: What is the responsibility of a teacher, say of a class in the public class that contains people
+               <lb facs="#facs_3_tr_3_tl_8" n="N008"/>of all denominations, say--Protestants and Catholics and Jewish people together?
+               <lb facs="#facs_3_tr_3_tl_9" n="N009"/>PT: Yes, now I wanted to postpone this question to the problem of church and state because
+            </p>
+            <p facs="#facs_3_tr_2">
+               <lb facs="#facs_3_tr_2_tl_1" n="N001"/>here we come to the so-called separation of church and state, which is partly a meaningful, partly
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

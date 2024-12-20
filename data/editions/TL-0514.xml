@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVIII (Nr. 0514)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p040</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-20">1956-03-20</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_40">
+         <graphic url="TL-0514.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KLPEIJKHRIGFKJBYNYNINXAG&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="265,260 2280,260 2280,1768 265,1768" rendition="TextRegion" xml:id="facs_40_tr_2">
+            <zone points="1154,316 1174,316 1182,324 1194,326 1257,324 1264,316 1277,316 1277,258 1234,258 1214,273 1207,268 1197,273 1192,268 1177,283 1154,283" rendition="Line" xml:id="facs_40_tr_2_tl_1"/>
+            <zone points="281,462 1194,477 1192,409 1104,439 1071,409 825,406 798,437 768,409 743,434 712,406 632,432 562,401 524,434 489,401 459,432 371,401 344,432 281,432" rendition="Line" xml:id="facs_40_tr_2_tl_2"/>
+            <zone points="281,615 2238,640 2198,575 1606,592 1538,524 1262,590 281,554" rendition="Line" xml:id="facs_40_tr_2_tl_3"/>
+            <zone points="311,692 1713,710 1713,655 1646,652 311,665" rendition="Line" xml:id="facs_40_tr_2_tl_4"/>
+            <zone points="266,833 2163,866 2060,803 266,808" rendition="Line" xml:id="facs_40_tr_2_tl_5"/>
+            <zone points="273,996 2168,1014 2168,961 273,941" rendition="Line" xml:id="facs_40_tr_2_tl_6"/>
+            <zone points="261,1139 2273,1164 2273,1111 1989,1099 261,1116" rendition="Line" xml:id="facs_40_tr_2_tl_7"/>
+            <zone points="258,1297 2250,1317 2250,1257 258,1264" rendition="Line" xml:id="facs_40_tr_2_tl_8"/>
+            <zone points="263,1460 2208,1460 2158,1405 263,1397" rendition="Line" xml:id="facs_40_tr_2_tl_9"/>
+            <zone points="251,1596 2200,1621 2200,1563 2122,1555 251,1550" rendition="Line" xml:id="facs_40_tr_2_tl_10"/>
+            <zone points="251,1749 1924,1756 1924,1708 251,1696" rendition="Line" xml:id="facs_40_tr_2_tl_11"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0514.jpg" n="part4_p040.jpg" xml:id="img_0040" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p040.jpg"/>
+            
+            <p facs="#facs_40_tr_2">
+               <lb facs="#facs_40_tr_2_tl_1" n="N001"/>[509]
+               <lb facs="#facs_40_tr_2_tl_2" n="N002"/>and then in all the others, the humanities, etc.
+               <lb facs="#facs_40_tr_2_tl_3" n="N003"/>QN: How do you define the concept of symbols: is it against concrete reality, or are you taking in
+               <lb facs="#facs_40_tr_2_tl_4" n="N004"/>the sense, e.g., the flag is the symbol of the independence of a country?
+               <lb facs="#facs_40_tr_2_tl_5" n="N005"/>PT: I take the concept of symbol by distinguishing it from the concept of sign. You can always
+               <lb facs="#facs_40_tr_2_tl_6" n="N006"/>say "only a sign," because a sign has nothing to do with the reality to which it points. It can be
+               <lb facs="#facs_40_tr_2_tl_7" n="N007"/>exchanged, it can be brought under the law of expediency, while symbol is a creation of the collective
+               <lb facs="#facs_40_tr_2_tl_8" n="N008"/>unconscious in its encounter with reality: it is born, it dies, it has its life, and it expresses, in terms of
+               <lb facs="#facs_40_tr_2_tl_9" n="N009"/>power, the reality to which it points. This is something quite different from a sign. I repeat, since
+               <lb facs="#facs_40_tr_2_tl_10" n="N010"/>this sin has been committed here today: don't say "only a symbol"!---it always means you confuse
+               <lb facs="#facs_40_tr_2_tl_11" n="N011"/>symbol and sign. You can always say "only a sign," but never say "only a symbol" !
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

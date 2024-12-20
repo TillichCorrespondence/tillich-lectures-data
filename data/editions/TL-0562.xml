@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLII (Nr. 0562)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p088</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-17">1956-04-17</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_88">
+         <graphic url="TL-0562.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KQLIGGKOWOPSTEXWUOMLQJRW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="29,39 2236,39 2236,834 29,834" rendition="TextRegion" xml:id="facs_88_tr_3">
+            <zone points="1073,364 1093,364 1100,372 1120,374 1172,374 1184,364 1196,364 1196,300 1162,303 1152,293 1130,315 1073,320" rendition="Line" xml:id="facs_88_tr_3_tl_2"/>
+            <zone points="281,532 2188,512 2230,450 281,495" rendition="Line" xml:id="facs_88_tr_3_tl_3"/>
+            <zone points="273,677 1159,706 2191,625 273,630" rendition="Line" xml:id="facs_88_tr_3_tl_4"/>
+            <zone points="276,832 1875,822 2198,807 2198,753 276,780" rendition="Line" xml:id="facs_88_tr_3_tl_5"/>
+         </zone>
+         <zone points="286,896 2254,896 2254,2496 286,2496" rendition="TextRegion" xml:id="facs_88_tr_1">
+            <zone points="273,980 1944,972 2247,957 2247,903 273,953" rendition="Line" xml:id="facs_88_tr_1_tl_1"/>
+            <zone points="278,1127 908,1127 957,1172 1135,1174 1743,1112 1743,1068 1519,1053 281,1088" rendition="Line" xml:id="facs_88_tr_1_tl_2"/>
+            <zone points="485,1300 2173,1263 2191,1196 485,1228" rendition="Line" xml:id="facs_88_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="271,1440 1829,1430 2191,1413 2191,1351 273,1408" rendition="Line" xml:id="facs_88_tr_1_tl_4"/>
+            <zone points="273,1583 2163,1568 2218,1506 273,1558" rendition="Line" xml:id="facs_88_tr_1_tl_5"/>
+            <zone points="278,1735 1053,1740 1083,1733 1083,1686 967,1666 945,1686 278,1691" rendition="Line" xml:id="facs_88_tr_1_tl_6"/>
+            <zone points="470,1880 2178,1863 2181,1794 470,1851" rendition="Line" xml:id="facs_88_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="273,2035 2067,2023 2215,2016 2215,1957 273,1989" rendition="Line" xml:id="facs_88_tr_1_tl_8"/>
+            <zone points="278,2181 2227,2168 2227,2109 278,2156" rendition="Line" xml:id="facs_88_tr_1_tl_9"/>
+            <zone points="286,2338 1935,2326 2095,2316 2097,2262 286,2294" rendition="Line" xml:id="facs_88_tr_1_tl_10"/>
+            <zone points="286,2496 2102,2476 2131,2414 286,2459" rendition="Line" xml:id="facs_88_tr_1_tl_11"/>
+         </zone>
+         <zone points="47,2502 2310,2502 2310,3473 47,3473" rendition="TextRegion" xml:id="facs_88_tr_2">
+            <zone points="278,2638 1686,2619 1789,2661 1792,2574 281,2589" rendition="Line" xml:id="facs_88_tr_2_tl_3"/>
+            <zone points="278,2791 1565,2803 2144,2774 2200,2705 281,2742" rendition="Line" xml:id="facs_88_tr_2_tl_4"/>
+            <zone points="288,2949 1900,2946 2107,2914 2109,2862 288,2899" rendition="Line" xml:id="facs_88_tr_2_tl_5"/>
+            <zone points="288,3101 2252,3077 2252,3013 290,3047" rendition="Line" xml:id="facs_88_tr_2_tl_6"/>
+            <zone points="288,3249 655,3301 1304,3286 2085,3254 2085,3192 724,3249 288,3202" rendition="Line" xml:id="facs_88_tr_2_tl_7"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0562.jpg" n="part4_p088.jpg" xml:id="img_0088" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p088.jpg"/>
+            
+            <p facs="#facs_88_tr_3">
+               <lb facs="#facs_88_tr_3_tl_2" n="N001"/>[557]
+               <lb facs="#facs_88_tr_3_tl_3" n="N002"/>of the doctrinal authority in its infallible character. If the Popewrites a theological book, he is not
+               <lb facs="#facs_88_tr_3_tl_4" n="N003"/>infallible; if he gives a decision, as for instance the Assumption of the Virgin, then he is infallible.
+               <lb facs="#facs_88_tr_3_tl_5" n="N004"/>Now this means: we are now in a situation where a large amount of former and present decisions
+            </p>
+            <p facs="#facs_88_tr_1">
+               <lb facs="#facs_88_tr_1_tl_1" n="N001"/>must be accepted by everybody who wants to be a member, with GOOD conscience, of this Church.
+               <lb facs="#facs_88_tr_1_tl_2" n="N002"/>What's the result? There are only two possible results - or perhaps three:
+               <lb facs="#facs_88_tr_1_tl_3" n="N003"/>1) The one is the lxrimitive acceptance of these things withoutoritical thought. This is
+               <lb facs="#facs_88_tr_1_tl_4" n="N004"/>always a possibility, and in my lectures on education, you remember I was very desitant to break
+               <lb facs="#facs_88_tr_1_tl_5" n="N005"/>this kind of naiveté or primitivism, which can be FALL OF SPIRIT, in relation to God, and which
+               <lb facs="#facs_88_tr_1_tl_6" n="N006"/>therefore one should not break wilfully.
+               <lb facs="#facs_88_tr_1_tl_7" n="N007"/>2) There is the second way, namely to accept this doctrine and to interpret it. This is
+               <lb facs="#facs_88_tr_1_tl_8" n="N008"/>the way which liberal Catholicism always trees to go. And there is always a kind of margin within
+               <lb facs="#facs_88_tr_1_tl_9" n="N009"/>which it can do this. But this margin, in the course of history, has become narrower and narrower.
+               <lb facs="#facs_88_tr_1_tl_10" n="N010"/>The last great attempt to escape the demonic authority of an authority in principle, was the
+               <lb facs="#facs_88_tr_1_tl_11" n="N011"/>symbolism of the symbolae fideistes /?sp', in the beginning and middle of the 19th century.
+            </p>
+            <p facs="#facs_88_tr_2">
+               <lb facs="#facs_88_tr_2_tl_3" n="N001"/>They were rejected by the Church; this way out was closed. today we had conversations between 
+               <lb facs="#facs_88_tr_2_tl_4" n="N002"/>Protestants and Roman Catholics. And they were going on for a certain time, and then the Pope
+               <lb facs="#facs_88_tr_2_tl_5" n="N003"/>came down with the su ord of Damocles—which always soars above the head of every liberal
+               <lb facs="#facs_88_tr_2_tl_6" n="N004"/>Catholic—and theseubersations were cut off. And I know Roman Catholics iniustern Germany
+               <lb facs="#facs_88_tr_2_tl_7" n="N005"/>with whom I spoke, who are very near to my not quite methodox theology [little laugther]
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLII (Nr. 0563)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p089</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-17">1956-04-17</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_89">
+         <graphic url="TL-0563.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KZLNDYPVTCOTMMHWSMAZJJEY&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="83,6 2313,6 2313,941 83,941" rendition="TextRegion" xml:id="facs_89_tr_1">
+            <zone points="1146,319 1167,321 1172,326 1259,326 1254,246 1207,246 1169,278 1144,278" rendition="Line" xml:id="facs_89_tr_1_tl_3"/>
+            <zone points="294,487 2205,467 2245,386 294,452" rendition="Line" xml:id="facs_89_tr_1_tl_4"/>
+            <zone points="294,635 2306,612 2308,554 294,582" rendition="Line" xml:id="facs_89_tr_1_tl_5"/>
+            <zone points="291,785 2248,773 2250,710 291,758" rendition="Line" xml:id="facs_89_tr_1_tl_6"/>
+            <zone points="286,933 2185,918 2185,858 286,888" rendition="Line" xml:id="facs_89_tr_1_tl_7"/>
+         </zone>
+         <zone points="304,997 2277,997 2277,2228 304,2228" rendition="TextRegion" xml:id="facs_89_tr_3">
+            <zone points="296,1086 2107,1071 2228,1061 2230,1006 296,1039" rendition="Line" xml:id="facs_89_tr_3_tl_1"/>
+            <zone points="291,1234 2127,1214 2160,1149 291,1189" rendition="Line" xml:id="facs_89_tr_3_tl_2"/>
+            <zone points="296,1397 334,1407 359,1392 426,1390 492,1405 512,1387 672,1397 695,1390 697,1330 502,1330 477,1355 457,1335 299,1342" rendition="Line" xml:id="facs_89_tr_3_tl_3"/>
+            <zone points="517,1458 2245,1438 2245,1372 517,1420" rendition="Line" xml:id="facs_89_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="296,1621 2210,1601 2273,1530 296,1591" rendition="Line" xml:id="facs_89_tr_3_tl_5"/>
+            <zone points="301,1776 2130,1756 2198,1749 2198,1691 301,1724" rendition="Line" xml:id="facs_89_tr_3_tl_6"/>
+            <zone points="291,1924 2092,1902 2092,1841 294,1899" rendition="Line" xml:id="facs_89_tr_3_tl_7"/>
+            <zone points="291,2075 891,2067 963,2087 1157,2070 1157,2012 587,2010 487,2045 444,2017 291,2050" rendition="Line" xml:id="facs_89_tr_3_tl_8"/>
+            <zone points="529,2223 2105,2213 2235,2198 2235,2132 532,2168" rendition="Line" xml:id="facs_89_tr_3_tl_9" subtype="paragraph"/>
+         </zone>
+         <zone points="248,2284 2307,2284 2307,3473 248,3473" rendition="TextRegion" xml:id="facs_89_tr_2">
+            <zone points="301,2376 1869,2371 2183,2351 2185,2290 301,2326" rendition="Line" xml:id="facs_89_tr_2_tl_1"/>
+            <zone points="296,2531 2112,2509 2142,2446 296,2504" rendition="Line" xml:id="facs_89_tr_2_tl_2"/>
+            <zone points="524,2669 2210,2692 2265,2674 2265,2597 524,2627" rendition="Line" xml:id="facs_89_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="306,2835 2250,2797 2303,2735 306,2777" rendition="Line" xml:id="facs_89_tr_2_tl_4"/>
+            <zone points="299,2980 2178,2958 2223,2908 301,2933" rendition="Line" xml:id="facs_89_tr_2_tl_5"/>
+            <zone points="306,3143 1603,3141 2270,3103 2270,3043 309,3086" rendition="Line" xml:id="facs_89_tr_2_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0563.jpg" n="part4_p089.jpg" xml:id="img_0089" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p089.jpg"/>
+            
+            <p facs="#facs_89_tr_1">
+               <lb facs="#facs_89_tr_1_tl_3" n="N001"/>[558]
+               <lb facs="#facs_89_tr_1_tl_4" n="N002"/>and whobringing that they are also always in the situation of every moment, perhaps, being cut off.
+               <lb facs="#facs_89_tr_1_tl_5" n="N003"/>Now this situation makes them in some way heroic—and I must say that I admire them FAR BEYOND
+               <lb facs="#facs_89_tr_1_tl_6" n="N004"/>most Protestants, including myself, because they have not the principle of freedom, which we have,
+               <lb facs="#facs_89_tr_1_tl_7" n="N005"/>but they are servants of truth, and on the other hand they BELONG, by destiny and confiction,
+            </p>
+            <p facs="#facs_89_tr_3">
+               <lb facs="#facs_89_tr_3_tl_1" n="N001"/>to the Roman Church and want to find a way in this situation to combine their membership, their
+               <lb facs="#facs_89_tr_3_tl_2" n="N002"/>LIVING membership, to the Church, and their honesty towards truth. This is the second and
+               <lb facs="#facs_89_tr_3_tl_3" n="N003"/>greatest possibility.
+               <lb facs="#facs_89_tr_3_tl_4" n="N004"/>3) Then there is a third namely the consciously methodox mind which, in terms of
+               <lb facs="#facs_89_tr_3_tl_5" n="N005"/>national subjection, accepts and justifies. There is very often, in these people, an element
+               <lb facs="#facs_89_tr_3_tl_6" n="N006"/>ofrepression which, as you know from my psychological analysis of impression, always provinces
+               <lb facs="#facs_89_tr_3_tl_7" n="N007"/>a kind of aggressioeness, of fanaticism, a hostility against alloritics, because there is a weak
+               <lb facs="#facs_89_tr_3_tl_8" n="N008"/>point in oneself which has to be protected.
+               <lb facs="#facs_89_tr_3_tl_9" n="N009"/>Then of course, if these three ways do not work, then a complete breaking away is the
+            </p>
+            <p facs="#facs_89_tr_2">
+               <lb facs="#facs_89_tr_2_tl_1" n="N001"/> ultimate and often very desperate way out of this situation. Now this means we have here the
+               <lb facs="#facs_89_tr_2_tl_2" n="N002"/>greatest example of authority in principle, or of what Erich Fromm calls irnational authority.
+               <lb facs="#facs_89_tr_2_tl_3" n="N003"/>Perhaps we should, besides this, go to the family authority and the authority of society,
+               <lb facs="#facs_89_tr_2_tl_4" n="N004"/>because this is something even more actual for most of you than the other two forms. Now the
+               <lb facs="#facs_89_tr_2_tl_5" n="N005"/>family authority is normally an authority partly in terms of expert—in this case called maturity—
+               <lb facs="#facs_89_tr_2_tl_6" n="N006"/>partly in terms of trust. But it goes often beyond this: there is sometimes a religious sanctification
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

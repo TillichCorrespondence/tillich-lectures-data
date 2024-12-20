@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLI (Nr. 0547)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p073</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-29">1956-03-29</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_73">
+         <graphic url="TL-0547.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LMMQBCKMOFKPUNNBRFNSZSXR&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="289,51 2233,51 2233,1711 289,1711" rendition="TextRegion" xml:id="facs_73_tr_1">
+            <zone points="1070,341 1082,341 1090,348 1119,348 1126,343 1133,348 1189,348 1189,268 1177,268 1153,292 1111,290 1099,300 1070,300" rendition="Line" xml:id="facs_73_tr_1_tl_2"/>
+            <zone points="469,498 1781,500 2090,469 2092,423 1061,447 1003,387 938,449 469,462" rendition="Line" xml:id="facs_73_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="278,660 1730,645 2095,621 2097,577 278,619" rendition="Line" xml:id="facs_73_tr_1_tl_4"/>
+            <zone points="283,805 2117,780 2136,710 285,749" rendition="Line" xml:id="facs_73_tr_1_tl_5"/>
+            <zone points="283,959 2148,925 2194,877 285,901" rendition="Line" xml:id="facs_73_tr_1_tl_6"/>
+            <zone points="278,1109 2032,1078 2032,1022 280,1058" rendition="Line" xml:id="facs_73_tr_1_tl_7"/>
+            <zone points="278,1252 1916,1237 2196,1215 2199,1157 278,1201" rendition="Line" xml:id="facs_73_tr_1_tl_8"/>
+            <zone points="275,1404 2160,1382 2163,1322 275,1380" rendition="Line" xml:id="facs_73_tr_1_tl_9"/>
+            <zone points="288,1561 1880,1549 2228,1520 2228,1462 288,1505" rendition="Line" xml:id="facs_73_tr_1_tl_10"/>
+            <zone points="285,1713 2134,1677 2136,1604 288,1658" rendition="Line" xml:id="facs_73_tr_1_tl_11"/>
+         </zone>
+         <zone points="47,1765 2245,1765 2245,3482 47,3482" rendition="TextRegion" xml:id="facs_73_tr_2">
+            <zone points="288,1858 1952,1836 2109,1824 2112,1774 288,1815" rendition="Line" xml:id="facs_73_tr_2_tl_1"/>
+            <zone points="283,2008 1967,1984 2112,1974 2112,1914 285,1960" rendition="Line" xml:id="facs_73_tr_2_tl_2"/>
+            <zone points="290,2155 2170,2148 2184,2076 290,2112" rendition="Line" xml:id="facs_73_tr_2_tl_4"/>
+            <zone points="288,2308 2189,2269 2192,2213 288,2279" rendition="Line" xml:id="facs_73_tr_2_tl_5"/>
+            <zone points="285,2452 2184,2423 2206,2358 285,2426" rendition="Line" xml:id="facs_73_tr_2_tl_6"/>
+            <zone points="295,2610 2073,2573 2153,2566 2155,2510 295,2576" rendition="Line" xml:id="facs_73_tr_2_tl_7"/>
+            <zone points="300,2759 1114,2774 2196,2716 2196,2668 302,2699" rendition="Line" xml:id="facs_73_tr_2_tl_8"/>
+            <zone points="302,2914 1931,2885 2143,2868 2146,2810 302,2856" rendition="Line" xml:id="facs_73_tr_2_tl_9"/>
+            <zone points="300,3064 2063,3030 2240,3015 2242,2955 302,3008" rendition="Line" xml:id="facs_73_tr_2_tl_10"/>
+            <zone points="302,3206 1950,3189 2211,3170 2213,3115 304,3160" rendition="Line" xml:id="facs_73_tr_2_tl_11"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0547.jpg" n="part4_p073.jpg" xml:id="img_0073" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p073.jpg"/>
+            
+            <p facs="#facs_73_tr_1">
+               <lb facs="#facs_73_tr_1_tl_2" n="N001"/>[542]
+               <lb facs="#facs_73_tr_1_tl_3" n="N002"/>I may perhaps add something here which the shall caution us a little bit against the
+               <lb facs="#facs_73_tr_1_tl_4" n="N003"/>too great wattasis on the relativism. Now I gave you already a few example of this. If you
+               <lb facs="#facs_73_tr_1_tl_5" n="N004"/>would say, "There is an absolute law: you should not kill," then you sould say there are many
+               <lb facs="#facs_73_tr_1_tl_6" n="N005"/>tribes and cultures where special forms of killing—for instance, bloodrsngeance and other things¬
+               <lb facs="#facs_73_tr_1_tl_7" n="N006"/>are demanded, so that the demand not to kill is relativistic. This is kmpiricist-superficial.
+               <lb facs="#facs_73_tr_1_tl_8" n="N007"/>It is the superficiality in which very often Statements are made in this large and vast and
+               <lb facs="#facs_73_tr_1_tl_9" n="N008"/>newly discovered realm of ethics andellropology. If the word "killing" sounds like "bringing
+               <lb facs="#facs_73_tr_1_tl_10" n="N009"/>somebody else into the state of corpse," which is probably the definition of killing, then you think
+               <lb facs="#facs_73_tr_1_tl_11" n="N010"/>there are different lultures in which it is allowed what in others are forbidden. IT IS NOTAS
+            </p>
+            <p facs="#facs_73_tr_2">
+               <lb facs="#facs_73_tr_2_tl_1" n="N001"/>EASY affdtS! 1 would call this  qualiative analysis, in order to sound scientifically sound.
+               <lb facs="#facs_73_tr_2_tl_2" n="N002"/>But this positive or structure analysis of a culture would show, for instance, that as in the
+               <lb facs="#facs_73_tr_2_tl_4" n="N003"/>Old Testament commandment, it is MURDER which is forbidden (qatala means "murdering"1),
+               <lb facs="#facs_73_tr_2_tl_5" n="N004"/>so in many other soltures special forms of billings are considered to be murder and are therefore
+               <lb facs="#facs_73_tr_2_tl_6" n="N005"/>forbidden under the same law. Here are much more universal experiences at work, in suite of the
+               <lb facs="#facs_73_tr_2_tl_7" n="N006"/>element of relativism, so that the middle axioms, although they are never absolute, are in their
+               <lb facs="#facs_73_tr_2_tl_8" n="N007"/>variation at the same time much more structure uniform than our modern scientific relativism
+               <lb facs="#facs_73_tr_2_tl_9" n="N008"/>believes. You have the same thing with adultery, where the 15.des of life, with respect to the
+               <lb facs="#facs_73_tr_2_tl_10" n="N009"/>sexual life, are infinitely different in cultures—even in the history of CHRISTIAN culture, we have
+               <lb facs="#facs_73_tr_2_tl_11" n="N010"/>VERY different ways (the Protestant is not the ONLy Christian form which has appeared in the
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

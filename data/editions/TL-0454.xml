@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXV (Nr. 0454)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p062</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-12">1956-03-12</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_62">
+         <graphic url="TL-0454.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CBKBJVTTLGUNRREVAEHJAECF&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="268,344 2319,344 2319,1923 268,1923" rendition="TextRegion" xml:id="facs_62_tr_1">
+            <zone points="1115,400 1151,405 1156,413 1245,408 1245,340 1221,343 1206,356 1115,356" rendition="Line" xml:id="facs_62_tr_1_tl_1"/>
+            <zone points="275,564 2196,569 2214,502 275,520" rendition="Line" xml:id="facs_62_tr_1_tl_2"/>
+            <zone points="265,709 2056,717 2264,707 2264,655 265,683" rendition="Line" xml:id="facs_62_tr_1_tl_3"/>
+            <zone points="262,863 2136,871 2313,860 2313,803 262,832" rendition="Line" xml:id="facs_62_tr_1_tl_4"/>
+            <zone points="1671,1014 2217,1014 2217,943 1944,956 1923,977 1902,956 1811,943 1671,959" rendition="Line" xml:id="facs_62_tr_1_tl_5"/>
+            <zone points="260,1008 1450,1016 1479,959 1208,949 975,990 811,954 260,964" rendition="Line" xml:id="facs_62_tr_1_tl_6"/>
+            <zone points="265,1177 2256,1159 2256,1102 268,1115" rendition="Line" xml:id="facs_62_tr_1_tl_7"/>
+            <zone points="255,1312 2196,1320 2219,1253 255,1286" rendition="Line" xml:id="facs_62_tr_1_tl_8"/>
+            <zone points="262,1476 2295,1466 2295,1401 262,1435" rendition="Line" xml:id="facs_62_tr_1_tl_9"/>
+            <zone points="1590,1611 2095,1622 2193,1609 2193,1554 1689,1572 1590,1557" rendition="Line" xml:id="facs_62_tr_1_tl_10"/>
+            <zone points="255,1614 1325,1622 1325,1557 255,1567" rendition="Line" xml:id="facs_62_tr_1_tl_11"/>
+            <zone points="255,1762 2245,1765 2245,1702 255,1736" rendition="Line" xml:id="facs_62_tr_1_tl_12"/>
+            <zone points="483,1923 2126,1926 2126,1863 483,1874" rendition="Line" xml:id="facs_62_tr_1_tl_13"/>
+         </zone>
+         <zone points="256,2004 2334,2004 2334,3132 256,3132" rendition="TextRegion" xml:id="facs_62_tr_2">
+            <zone points="247,2061 2136,2069 2154,2006 247,2035" rendition="Line" xml:id="facs_62_tr_2_tl_1"/>
+            <zone points="247,2217 1900,2225 2123,2212 2141,2147 247,2175" rendition="Line" xml:id="facs_62_tr_2_tl_2"/>
+            <zone points="249,2365 2032,2373 2264,2360 2264,2305 249,2315" rendition="Line" xml:id="facs_62_tr_2_tl_3"/>
+            <zone points="257,2518 2082,2518 2113,2456 257,2471" rendition="Line" xml:id="facs_62_tr_2_tl_4"/>
+            <zone points="255,2674 1980,2674 2170,2659 2170,2596 255,2614" rendition="Line" xml:id="facs_62_tr_2_tl_5"/>
+            <zone points="244,2820 2037,2853 2165,2814 2165,2749 244,2768" rendition="Line" xml:id="facs_62_tr_2_tl_6"/>
+            <zone points="242,3033 2118,2968 2154,2908 242,2947" rendition="Line" xml:id="facs_62_tr_2_tl_7"/>
+            <zone points="242,3129 2180,3126 2331,3111 2334,3048 242,3098" rendition="Line" xml:id="facs_62_tr_2_tl_8"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0454.jpg" n="part3_p062.jpg" xml:id="img_0062" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p062.jpg"/>
+            
+            <p facs="#facs_62_tr_1">
+               <lb facs="#facs_62_tr_1_tl_1" n="N001"/>-449-
+               <lb facs="#facs_62_tr_1_tl_2" n="N002"/>which one gets in one week. Now what does this mean? This means that something is going wrong
+               <lb facs="#facs_62_tr_1_tl_3" n="N003"/>with the idea of personality as it has been carried through in Protestantism and humanism, and in the
+               <lb facs="#facs_62_tr_1_tl_4" n="N004"/>alliance of these two in many Protestant groups, and in many secular groups too. What is wrong with it?
+               <lb facs="#facs_62_tr_1_tl_5" n="N005"/>personality, the IDEAL of
+               <lb facs="#facs_62_tr_1_tl_6" n="N006"/>My answer is: In spite of the greatness of the IDEA of
+               <lb facs="#facs_62_tr_1_tl_7" n="N007"/>personality is a distinction of this idea [idea?]. Man indeed is in his structure essence determined to
+               <lb facs="#facs_62_tr_1_tl_8" n="N008"/>BECOME a personality, to use his individual basis (with vitality, community and nature in him and
+               <lb facs="#facs_62_tr_1_tl_9" n="N009"/>around him) to impregnate it with forms and meanings. That is his destiny. For that, he is determined;
+               <lb facs="#facs_62_tr_1_tl_10" n="N010"/>concentrate, conscious, self¬
+               <lb facs="#facs_62_tr_1_tl_11" n="N011"/>but on the other hand, what has happened is that this
+               <lb facs="#facs_62_tr_1_tl_12" n="N012"/>controlling personality has supposed and cut off the relationship to the basis on which it has disen¬
+               <lb facs="#facs_62_tr_1_tl_13" n="N013"/>Let us first look at nature, the relationship of man and nature. This relationship is,
+            </p>
+            <p facs="#facs_62_tr_2">
+               <lb facs="#facs_62_tr_2_tl_1" n="N001"/>in types of Protestantism and type of humanism, a relationship of control and nothing but this.
+               <lb facs="#facs_62_tr_2_tl_2" n="N002"/>Religiously speaking, the Renaissance idea of the infinite being-present in the Comite, of EVERY
+               <lb facs="#facs_62_tr_2_tl_3" n="N003"/>finite— nature and history—has been transformed into the idea of a kingdom of God, or a will of
+               <lb facs="#facs_62_tr_2_tl_4" n="N004"/>God, or a law of reason, which is in opposition to the natural powers, and demands their
+               <lb facs="#facs_62_tr_2_tl_5" n="N005"/>suppression. Now first, this was very much in the line with the analysis I gave about the Status of
+               <lb facs="#facs_62_tr_2_tl_6" n="N006"/>industrial society, in the period of history in which we are living. Nature MEANS a took, but not
+               <lb facs="#facs_62_tr_2_tl_7" n="N007"/>an end in itself, not a mirror of the divine potentialities in every atom and in every plant and
+               <lb facs="#facs_62_tr_2_tl_8" n="N008"/>animal. This is donied as European romanticism, and since romanticism has become a name-called word¬
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

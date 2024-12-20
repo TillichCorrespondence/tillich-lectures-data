@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXIII (Nr. 0427)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p035</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-08">1956-03-08</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_35">
+         <graphic url="TL-0427.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GUMTEFFHYGBIWKEKQSOMGWAG&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="289,24 2283,24 2283,1040 289,1040" rendition="TextRegion" xml:id="facs_35_tr_1">
+            <zone points="1120,279 1155,286 1163,294 1247,289 1247,214 1215,214 1175,242 1165,239 1155,247 1120,247" rendition="Line" xml:id="facs_35_tr_1_tl_2"/>
+            <zone points="279,508 2029,486 2029,418 946,453 896,406 847,453 281,471" rendition="Line" xml:id="facs_35_tr_1_tl_3"/>
+            <zone points="279,662 2276,630 2276,578 281,615" rendition="Line" xml:id="facs_35_tr_1_tl_4"/>
+            <zone points="276,809 1870,797 2191,779 2194,730 276,767" rendition="Line" xml:id="facs_35_tr_1_tl_5"/>
+            <zone points="279,961 388,974 408,956 446,998 981,981 981,894 906,914 889,896 819,916 789,896 767,916 510,899 418,931 396,909 279,921" rendition="Line" xml:id="facs_35_tr_1_tl_6"/>
+            <zone points="500,1033 1977,1021 2154,1006 2156,941 500,1003" rendition="Line" xml:id="facs_35_tr_1_tl_7" subtype="paragraph"/>
+         </zone>
+         <zone points="292,1096 2269,1096 2269,2556 292,2556" rendition="TextRegion" xml:id="facs_35_tr_2">
+            <zone points="284,1193 2263,1165 2266,1106 284,1140" rendition="Line" xml:id="facs_35_tr_2_tl_1"/>
+            <zone points="281,1342 2248,1312 2251,1252 281,1290" rendition="Line" xml:id="facs_35_tr_2_tl_2"/>
+            <zone points="279,1494 2156,1462 2171,1402 281,1462" rendition="Line" xml:id="facs_35_tr_2_tl_3"/>
+            <zone points="286,1643 2169,1623 2171,1559 1367,1594 695,1549 286,1599" rendition="Line" xml:id="facs_35_tr_2_tl_4"/>
+            <zone points="291,1800 2114,1728 291,1748" rendition="Line" xml:id="facs_35_tr_2_tl_5"/>
+            <zone points="284,1942 2224,1955 2226,1855 284,1897" rendition="Line" xml:id="facs_35_tr_2_tl_6"/>
+            <zone points="281,2097 2112,2027 281,2052" rendition="Line" xml:id="facs_35_tr_2_tl_7"/>
+            <zone points="294,2248 2067,2221 2067,2164 294,2201" rendition="Line" xml:id="facs_35_tr_2_tl_8"/>
+            <zone points="294,2398 2161,2366 2201,2303 294,2351" rendition="Line" xml:id="facs_35_tr_2_tl_9"/>
+            <zone points="296,2555 1990,2520 2134,2510 2134,2458 299,2500" rendition="Line" xml:id="facs_35_tr_2_tl_10"/>
+         </zone>
+         <zone points="29,2595 2271,2595 2271,3497 29,3497" rendition="TextRegion" xml:id="facs_35_tr_3">
+            <zone points="294,2707 1947,2692 2211,2662 2211,2600 294,2672" rendition="Line" xml:id="facs_35_tr_3_tl_1"/>
+            <zone points="291,2856 2154,2816 2266,2804 2268,2751 291,2824" rendition="Line" xml:id="facs_35_tr_3_tl_2"/>
+            <zone points="299,3008 2039,2973 2042,2916 299,2961" rendition="Line" xml:id="facs_35_tr_3_tl_3"/>
+            <zone points="299,3162 1623,3157 1930,3130 1930,3073 301,3105" rendition="Line" xml:id="facs_35_tr_3_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0427.jpg" n="part3_p035.jpg" xml:id="img_0035" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p035.jpg"/>
+            
+            <p facs="#facs_35_tr_1">
+               <lb facs="#facs_35_tr_1_tl_2" n="N001"/>[422]
+               <lb facs="#facs_35_tr_1_tl_3" n="N002"/>would fall under the same problem as the Roman church and the totalitarian movements.
+               <lb facs="#facs_35_tr_1_tl_4" n="N003"/>It would not allow IN ITSELF the protest AGAINST itself. But this is just what makes Protestantism
+               <lb facs="#facs_35_tr_1_tl_5" n="N004"/>Protestant, that it permits, by its very nature--and therefore ASKS for, by it's very nature, within
+               <lb facs="#facs_35_tr_1_tl_6" n="N005"/>itself--the PROTEST against itself.
+               <lb facs="#facs_35_tr_1_tl_7" n="N006"/>How is this possible? This is possible only because Protestantism in its origin was in
+            </p>
+            <p facs="#facs_35_tr_2">
+               <lb facs="#facs_35_tr_2_tl_1" n="N001"/>the tradition of the Roman church, it still has preserved a lot of the Catholic substance--in traditions,
+               <lb facs="#facs_35_tr_2_tl_2" n="N002"/>in doctrines, in cult, in ethics--but at the same time, it has exploded and disrupted the authoritarian
+               <lb facs="#facs_35_tr_2_tl_3" n="N003"/>and, spiritually speaking, totalitarian structure of the Roman church. It has produced churches
+               <lb facs="#facs_35_tr_2_tl_4" n="N004"/>which tried to continue the original Christian tradition, especially the biblical one, and the early
+               <lb facs="#facs_35_tr_2_tl_5" n="N005"/>one, but which did not subject [i.e. submit] to any infallibility, either of the Pope or of the
+               <lb facs="#facs_35_tr_2_tl_6" n="N006"/>Protestant theologians, in interpreting the Bible. Now this was decisive. And this made it possible
+               <lb facs="#facs_35_tr_2_tl_7" n="N007"/>for Protestantism to get a quite different relationship to culture. I once wrote the sentence--
+               <lb facs="#facs_35_tr_2_tl_8" n="N008"/>and I quote it since that time, sometimes--that Protestantism has a <hi style="font-style: italic;">pathos</hi> for the secular,
+               <lb facs="#facs_35_tr_2_tl_9" n="N009"/>a passion for the secular. Why? Because it belongs to the Protestant principle to see God related
+               <lb facs="#facs_35_tr_2_tl_10" n="N010"/>to the secular as much as to the sacred--we discussed that in the beginning of the lectures last
+            </p>
+            <p facs="#facs_35_tr_3">
+               <lb facs="#facs_35_tr_3_tl_1" n="N001"/>semester when I spoke of the presence of the ultimate concern in every cultural action. This was
+               <lb facs="#facs_35_tr_3_tl_2" n="N002"/>a Protestantism statement, a consequence of the Protestant principle. Therefore Protestantism
+               <lb facs="#facs_35_tr_3_tl_3" n="N003"/>is able to subject itself to the criticism which comes from the secular culture--in science,
+               <lb facs="#facs_35_tr_3_tl_4" n="N004"/>the arts, ethics, and all other forms of man's spiritual creativity. At the same time,
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVII (Nr. 0495)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p021</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-15">1956-03-15</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_21">
+         <graphic url="TL-0495.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZLAFVWMVMIDJGXAKKUGLJNJM&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="346,257 2334,257 2334,1917 346,1917" rendition="TextRegion" xml:id="facs_21_tr_1">
+            <zone points="1084,312 1124,317 1131,324 1213,322 1213,255 1188,255 1173,270 1158,267 1146,272 1129,270 1119,277 1084,277" rendition="Line" xml:id="facs_21_tr_1_tl_1"/>
+            <zone points="339,473 1465,517 2232,465 2232,406 342,423" rendition="Line" xml:id="facs_21_tr_1_tl_2"/>
+            <zone points="339,619 2079,629 2218,621 2218,554 339,592" rendition="Line" xml:id="facs_21_tr_1_tl_3"/>
+            <zone points="342,777 2128,782 2331,765 2331,708 342,723" rendition="Line" xml:id="facs_21_tr_1_tl_4"/>
+            <zone points="332,921 2104,918 2104,856 332,893" rendition="Line" xml:id="facs_21_tr_1_tl_5"/>
+            <zone points="344,1082 2012,1069 1975,1005 344,1022" rendition="Line" xml:id="facs_21_tr_1_tl_6"/>
+            <zone points="540,1262 2027,1252 2086,1210 2163,1252 2200,1158 540,1176" rendition="Line" xml:id="facs_21_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="834,1413 2054,1401 2220,1364 2220,1312 837,1344" rendition="Line" xml:id="facs_21_tr_1_tl_8"/>
+            <zone points="337,1453 2131,1453 2163,1401 339,1413" rendition="Line" xml:id="facs_21_tr_1_tl_10"/>
+            <zone points="339,1606 2218,1599 2218,1532 339,1574" rendition="Line" xml:id="facs_21_tr_1_tl_11"/>
+            <zone points="342,1762 881,1782 1433,1750 1490,1777 1542,1757 1542,1690 342,1703" rendition="Line" xml:id="facs_21_tr_1_tl_12"/>
+            <zone points="527,1943 1797,1918 2141,1958 2161,1841 527,1861" rendition="Line" xml:id="facs_21_tr_1_tl_13" subtype="paragraph"/>
+         </zone>
+         <zone points="65,1986 2373,1986 2373,3489 65,3489" rendition="TextRegion" xml:id="facs_21_tr_2">
+            <zone points="337,2064 2151,2054 2205,1992 1215,2007 1084,1940 889,1987 790,1938 337,2015" rendition="Line" xml:id="facs_21_tr_2_tl_1"/>
+            <zone points="332,2208 2039,2205 2185,2195 2185,2146 332,2183" rendition="Line" xml:id="facs_21_tr_2_tl_3"/>
+            <zone points="332,2359 2166,2359 2247,2346 2247,2289 332,2312" rendition="Line" xml:id="facs_21_tr_2_tl_4"/>
+            <zone points="337,2515 2185,2510 2185,2440 337,2460" rendition="Line" xml:id="facs_21_tr_2_tl_5"/>
+            <zone points="329,2656 1359,2666 1359,2619 1312,2596 369,2604 329,2628" rendition="Line" xml:id="facs_21_tr_2_tl_7"/>
+            <zone points="332,2812 2237,2797 2237,2740 334,2765" rendition="Line" xml:id="facs_21_tr_2_tl_8"/>
+            <zone points="332,2965 408,2970 421,2980 450,2980 460,2970 639,2975 639,2911 604,2911 584,2930 564,2930 540,2906 525,2916 463,2918 374,2911 349,2935 332,2935" rendition="Line" xml:id="facs_21_tr_2_tl_9"/>
+            <zone points="522,3034 2173,3032 2255,3027 2255,2963 522,3007" rendition="Line" xml:id="facs_21_tr_2_tl_10" subtype="paragraph"/>
+            <zone points="332,3183 2292,3168 2094,3106 332,3133" rendition="Line" xml:id="facs_21_tr_2_tl_11"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0495.jpg" n="part4_p021.jpg" xml:id="img_0021" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p021.jpg"/>
+            
+            <p facs="#facs_21_tr_1">
+               <lb facs="#facs_21_tr_1_tl_1" n="N001"/>[490]
+               <lb facs="#facs_21_tr_1_tl_2" n="N002"/>Democrats in <rs type="place">Hamburg</rs> have asked themselves: Do we need a theological faculty in the context
+               <lb facs="#facs_21_tr_1_tl_3" n="N003"/>of the life of the university? I would say Yes. I would say: it shouldn't be TWO things, but it
+               <lb facs="#facs_21_tr_1_tl_4" n="N004"/>should be a THIRD thing. The theological faculty should not rule, in the university. The position of
+               <lb facs="#facs_21_tr_1_tl_5" n="N005"/>the queen is an impossible one, because from none of these three dimensions of truth can
+               <lb facs="#facs_21_tr_1_tl_6" n="N006"/>you rule the two others. This is the first and perhaps most important thing about it.
+               <lb facs="#facs_21_tr_1_tl_7" n="N007"/>Secondly, you should not dissolve the theological into a philosophical faculty---that
+               <lb facs="#facs_21_tr_1_tl_8" n="N008"/>means, teach in it history, psychology, sociology, but not THEOlogy! This is
+               <lb facs="#facs_21_tr_1_tl_10" n="N009"/>the OPPOSITE mistake to the "queen," because then the queen is the philosophical faculty,
+               <lb facs="#facs_21_tr_1_tl_11" n="N010"/>or humanities---however you call it---which is THEN decisive! But it cannot be decisive. But its
+               <lb facs="#facs_21_tr_1_tl_12" n="N011"/>dimension of truth is determined mostly by the second level.
+               <lb facs="#facs_21_tr_1_tl_13" n="N012"/>But now, which is the POSITIVE meaning of the theological faculty? First a very
+            </p>
+            <p facs="#facs_21_tr_2">
+               <lb facs="#facs_21_tr_2_tl_1" n="N001"/>simple one: it is like medicine and law, a professional school to train ministers; and this side is
+               <lb facs="#facs_21_tr_2_tl_3" n="N002"/>never to be missed and is as justified and as necessary as the law school, where we ALSO have
+               <lb facs="#facs_21_tr_2_tl_4" n="N003"/>the positive law of THIS country, which is interpreted TO the law students, in their meaning and
+               <lb facs="#facs_21_tr_2_tl_5" n="N004"/>in their applicability so that they can become jurists. In the same way, the theological faculty
+               <lb facs="#facs_21_tr_2_tl_7" n="N005"/>trains ministers on the given professional situation---Protestants or Catholics---so that they
+               <lb facs="#facs_21_tr_2_tl_8" n="N006"/>are able, on the basis of their positive knowledge of these things, to be leaders in their respective
+               <lb facs="#facs_21_tr_2_tl_9" n="N007"/>congregations.
+               <lb facs="#facs_21_tr_2_tl_10" n="N008"/>But then the theological faculty has an educational function, as also the medical and the
+               <lb facs="#facs_21_tr_2_tl_11" n="N009"/>legal have, namely to represent the <ultimate_concern>ULTIMATE concern</ultimate_concern> in concrete symbols, and their discussion---
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

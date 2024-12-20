@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" subtype="first_page">Lecture XXXVIII (Nr. 0498)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p024</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-20">1956-03-20</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_24">
+         <graphic url="TL-0498.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VPNKFYQMHZUDKHTDUFFVRKOH&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="217,-8 2254,-8 2254,1810 217,1810" rendition="TextRegion" xml:id="facs_24_tr_1">
+            <zone points="1105,314 1127,316 1145,326 1207,324 1216,316 1229,319 1229,279 1216,277 1197,257 1184,262 1177,257 1169,262 1160,257 1140,277 1105,279" rendition="Line" xml:id="facs_24_tr_1_tl_2"/>
+            <zone points="257,472 1029,475 1029,423 257,413" rendition="Line" xml:id="facs_24_tr_1_tl_3" subtype="heading"/>
+            <zone points="252,623 546,630 569,618 685,630 685,564 598,564 576,586 522,586 499,564 475,586 339,586 316,564 292,564 252,591" rendition="Line" xml:id="facs_24_tr_1_tl_4"/>
+            <zone points="477,742 2057,754 2057,690 477,687" rendition="Line" xml:id="facs_24_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="247,890 2116,912 2116,851 2050,841 247,865" rendition="Line" xml:id="facs_24_tr_1_tl_6"/>
+            <zone points="252,1048 2116,1053 2116,1004 2025,994 252,996" rendition="Line" xml:id="facs_24_tr_1_tl_7"/>
+            <zone points="240,1197 2025,1214 2109,1204 2109,1150 240,1167" rendition="Line" xml:id="facs_24_tr_1_tl_8"/>
+            <zone points="237,1340 1788,1357 1788,1298 237,1315" rendition="Line" xml:id="facs_24_tr_1_tl_11"/>
+            <zone points="203,1493 339,1498 359,1518 393,1501 922,1508 922,1449 551,1446 517,1469 494,1446 203,1446" rendition="Line" xml:id="facs_24_tr_1_tl_12"/>
+            <zone points="237,1647 559,1701 2089,1662 2089,1595 237,1595" rendition="Line" xml:id="facs_24_tr_1_tl_13"/>
+            <zone points="237,1802 2151,1812 2094,1743 237,1770" rendition="Line" xml:id="facs_24_tr_1_tl_14"/>
+         </zone>
+         <zone points="235,1893 2221,1893 2221,2511 235,2511" rendition="TextRegion" xml:id="facs_24_tr_2">
+            <zone points="230,1948 2218,1958 2144,1894 230,1901" rendition="Line" xml:id="facs_24_tr_2_tl_1"/>
+            <zone points="227,2094 2181,2107 2181,2057 227,2052" rendition="Line" xml:id="facs_24_tr_2_tl_2"/>
+            <zone points="227,2245 329,2270 363,2260 430,2267 485,2252 509,2270 534,2270 586,2257 586,2196 265,2196 227,2220" rendition="Line" xml:id="facs_24_tr_2_tl_3"/>
+            <zone points="227,2351 2134,2371 2094,2297 227,2314" rendition="Line" xml:id="facs_24_tr_2_tl_4"/>
+            <zone points="223,2500 962,2515 962,2450 875,2475 853,2453 480,2453 455,2475 433,2453 260,2450 223,2475" rendition="Line" xml:id="facs_24_tr_2_tl_7"/>
+         </zone>
+         <zone points="50,2604 2328,2604 2328,3483 50,3483" rendition="TextRegion" xml:id="facs_24_tr_3">
+            <zone points="223,2660 2065,2675 2065,2611 223,2616" rendition="Line" xml:id="facs_24_tr_3_tl_1"/>
+            <zone points="223,2819 2094,2816 2094,2759 223,2759" rendition="Line" xml:id="facs_24_tr_3_tl_2"/>
+            <zone points="213,2960 1751,2997 2201,2965 2201,2910 213,2935" rendition="Line" xml:id="facs_24_tr_3_tl_3"/>
+            <zone points="223,3125 2149,3123 2149,3063 223,3063" rendition="Line" xml:id="facs_24_tr_3_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0498.jpg" n="part4_p024.jpg" xml:id="img_0024" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p024.jpg"/>
+            
+            <p facs="#facs_24_tr_1">
+               <lb facs="#facs_24_tr_1_tl_2" n="N001"/>[493]
+               <lb facs="#facs_24_tr_1_tl_3" n="N002"/>LECTURE XXXVIII, March 20, 1956
+               <lb facs="#facs_24_tr_1_tl_4" n="N003"/><hi style="font-style: italic;">[A very snowy day!]</hi>
+               <lb facs="#facs_24_tr_1_tl_5" n="N004"/>I am very glad that as many as there are of you could come! I am surprised
+               <lb facs="#facs_24_tr_1_tl_6" n="N005"/>and full of praise for you! Of course not everybody could come, probably, and so I would like
+               <lb facs="#facs_24_tr_1_tl_7" n="N006"/>to ask whether you have questions about this very actual problem we discussed last time about
+               <lb facs="#facs_24_tr_1_tl_8" n="N007"/>religion, university, theological faculty, etc. It was of course not complete, the discussion, but
+               <lb facs="#facs_24_tr_1_tl_11" n="N008"/>I hope it brought out the main problems. So if someone has talked about it or thought about it, [and]
+               <lb facs="#facs_24_tr_1_tl_12" n="N009"/>has a question, please let me know.
+               <lb facs="#facs_24_tr_1_tl_13" n="N010"/>QN: About religious education: you said that the important thing for a young person was to
+               <lb facs="#facs_24_tr_1_tl_14" n="N011"/>understand or be aware of the difference between the literal and the symbolic significance of the
+            </p>
+            <p facs="#facs_24_tr_2">
+               <lb facs="#facs_24_tr_2_tl_1" n="N001"/>Bible, and other religious <rs type="keyword" ref="#Symbols">symbols</rs>. You said it was important for teachers to try to suggest aht.that. [sic.]
+               <lb facs="#facs_24_tr_2_tl_2" n="N002"/>Can you give ANY concrete means at all by which this could be done for a person of about nine or
+               <lb facs="#facs_24_tr_2_tl_3" n="N003"/>ten years of age?
+               <lb facs="#facs_24_tr_2_tl_4" n="N004"/>PT: Yes, now the person of 9 or 10 years is individuality already. Don't forget that it is already
+               <lb facs="#facs_24_tr_2_tl_7" n="N005"/>after birth, perhaps before birth, very individual, if you have ever seen a baby. In any case
+            </p>
+            <p facs="#facs_24_tr_3">
+               <lb facs="#facs_24_tr_3_tl_1" n="N001"/>it is very difficult to make a general rule here. But there are moments in which, for instance,
+               <lb facs="#facs_24_tr_3_tl_2" n="N002"/>children ask: "Is this true?" You know that question! Now this is one of the wisest and most
+               <lb facs="#facs_24_tr_3_tl_3" n="N003"/>difficult of all POSSIBLE questions, because each of these words---"this" and "true", both these
+               <lb facs="#facs_24_tr_3_tl_4" n="N004"/>words---are extremely difficult. What does a child mean with "this"? It means a miracle story, or
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVIII (Nr. 0511)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p037</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-20">1956-03-20</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_37">
+         <graphic url="TL-0511.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FUAIAIBKYROTHBTTVIXHIDUF&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="107,21 2197,21 2197,968 107,968" rendition="TextRegion" xml:id="facs_37_tr_1">
+            <zone points="1055,340 1076,343 1084,351 1110,351 1133,372 1149,372 1165,356 1178,356 1178,285 1152,288 1131,280 1112,288 1105,285 1086,304 1055,304" rendition="Line" xml:id="facs_37_tr_1_tl_2"/>
+            <zone points="233,510 1309,526 2104,487 2120,427 1717,450 1646,380 1534,453 233,442" rendition="Line" xml:id="facs_37_tr_1_tl_3"/>
+            <zone points="236,652 1625,654 1652,589 236,599" rendition="Line" xml:id="facs_37_tr_1_tl_6"/>
+            <zone points="233,814 2149,793 2173,728 233,780" rendition="Line" xml:id="facs_37_tr_1_tl_7"/>
+            <zone points="222,955 2191,950 2191,882 222,929" rendition="Line" xml:id="facs_37_tr_1_tl_8"/>
+         </zone>
+         <zone points="244,1033 2352,1033 2352,2708 244,2708" rendition="TextRegion" xml:id="facs_37_tr_2">
+            <zone points="230,1118 1945,1102 2094,1094 2097,1037 233,1068" rendition="Line" xml:id="facs_37_tr_2_tl_1"/>
+            <zone points="230,1269 1937,1262 2191,1241 2191,1183 230,1241" rendition="Line" xml:id="facs_37_tr_2_tl_2"/>
+            <zone points="236,1427 2191,1398 2191,1335 238,1390" rendition="Line" xml:id="facs_37_tr_2_tl_3"/>
+            <zone points="238,1578 2167,1557 2251,1550 2254,1484 238,1544" rendition="Line" xml:id="facs_37_tr_2_tl_4"/>
+            <zone points="233,1725 982,1725 982,1673 924,1654 893,1680 851,1652 694,1678 665,1652 633,1680 233,1670" rendition="Line" xml:id="facs_37_tr_2_tl_5"/>
+            <zone points="243,1882 2178,1861 2348,1848 2351,1793 243,1817" rendition="Line" xml:id="facs_37_tr_2_tl_6"/>
+            <zone points="280,1953 518,1961 741,1945 741,1924 701,1924 678,1903 437,1913 340,1900 280,1916" rendition="Line" xml:id="facs_37_tr_2_tl_7"/>
+            <zone points="241,2029 2220,2008 2246,1945 241,1974" rendition="Line" xml:id="facs_37_tr_2_tl_8"/>
+            <zone points="236,2178 1625,2173 1657,2102 236,2149" rendition="Line" xml:id="facs_37_tr_2_tl_9"/>
+            <zone points="241,2324 1968,2316 2133,2267 243,2277" rendition="Line" xml:id="facs_37_tr_2_tl_10"/>
+            <zone points="277,2398 2078,2382 2173,2374 2173,2314 277,2356" rendition="Line" xml:id="facs_37_tr_2_tl_11"/>
+            <zone points="236,2547 2097,2534 2175,2523 2175,2463 238,2497" rendition="Line" xml:id="facs_37_tr_2_tl_12"/>
+            <zone points="241,2699 1997,2686 2060,2615 241,2672" rendition="Line" xml:id="facs_37_tr_2_tl_13"/>
+         </zone>
+         <zone points="47,2756 2370,2756 2370,3479 47,3479" rendition="TextRegion" xml:id="facs_37_tr_3">
+            <zone points="241,2853 2301,2824 2303,2759 241,2803" rendition="Line" xml:id="facs_37_tr_3_tl_1"/>
+            <zone points="238,3002 2152,2981 2154,2916 238,2953" rendition="Line" xml:id="facs_37_tr_3_tl_2"/>
+            <zone points="243,3167 2008,3144 2125,3128 2128,3068 243,3110" rendition="Line" xml:id="facs_37_tr_3_tl_3"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0511.jpg" n="part4_p037.jpg" xml:id="img_0037" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p037.jpg"/>
+            
+            <p facs="#facs_37_tr_1">
+               <lb facs="#facs_37_tr_1_tl_2" n="N001"/>[506]
+               <lb facs="#facs_37_tr_1_tl_3" n="N002"/>I really grasped the point. Let me try it and, if I don't, let me ask again, namely the question of
+               <lb facs="#facs_37_tr_1_tl_6" n="N003"/>whether supernaturalism separates the holy so much from the ordinary form of existence, that it
+               <lb facs="#facs_37_tr_1_tl_7" n="N004"/>could not say that even in the ordinary forms of existence the divine is indirectly present (or must
+               <lb facs="#facs_37_tr_1_tl_8" n="N005"/>be always indirectly present). Now it IS. They would say that in terms of the doctrine of creation.
+            </p>
+            <p facs="#facs_37_tr_2">
+               <lb facs="#facs_37_tr_2_tl_1" n="N001"/>Only some deistic people separate God in such a way that He sits sleepingly beside the world
+               <lb facs="#facs_37_tr_2_tl_2" n="N002"/>and the world runs alone. That was the ideal position of God for the bourgeois society in the 17th
+               <lb facs="#facs_37_tr_2_tl_3" n="N003"/>and 18th, and partly 19th, century, where God was alongside the world, and there He could sit and
+               <lb facs="#facs_37_tr_2_tl_4" n="N004"/>sleep and the world runs according to His rules. . . But that is not even good supernaturalism; no good
+               <lb facs="#facs_37_tr_2_tl_5" n="N005"/>supernaturalist would say that today.
+               <lb facs="#facs_37_tr_2_tl_6" n="N006"/>QN: Don't many theists say that you must infer the existence of God, and if you have the experience
+               <lb facs="#facs_37_tr_2_tl_7" n="N007"/>of ultimate concern. . .
+               <lb facs="#facs_37_tr_2_tl_8" n="N008"/>PT: You cannot infer anything ultimate because it makes the ultimate dependent on the preliminary,
+               <lb facs="#facs_37_tr_2_tl_9" n="N009"/>and classical theology always knew such inference is an impossible step.
+               <lb facs="#facs_37_tr_2_tl_10" n="N010"/>QN: You said in a child you should not disturb the unbroken myth unless he asks the question.
+               <lb facs="#facs_37_tr_2_tl_11" n="N011"/>Don't you think maybe that mother helps to create a creative mind in the child at times?
+               <lb facs="#facs_37_tr_2_tl_12" n="N012"/>PT: By disturbing. There are always exceptions to every human relations, otherwise the religions
+               <lb facs="#facs_37_tr_2_tl_13" n="N013"/>of law would be right, but they are wrong just because of this. If I give here a rule and you
+            </p>
+            <p facs="#facs_37_tr_3">
+               <lb facs="#facs_37_tr_3_tl_1" n="N001"/>apply it mechanically, then I am wrong and you are wrong, because reality is different. But if you make
+               <lb facs="#facs_37_tr_3_tl_2" n="N002"/>it a general rule that the mother or teacher should PROVOKE skepticism, that, I think, is simply
+               <lb facs="#facs_37_tr_3_tl_3" n="N003"/>playing with the fire, and you shouldn't do that. But if there is a special situation, it might be.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

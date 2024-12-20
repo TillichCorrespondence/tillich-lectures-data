@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXII (Nr. 0422)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p030</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-06">1956-03-06</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_30">
+         <graphic url="TL-0422.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AVIIGDUPLLQQTRYVDBRESFUG&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="113,57 2254,57 2254,1257 113,1257" rendition="TextRegion" xml:id="facs_30_tr_1">
+            <zone points="1101,323 1141,333 1149,341 1181,341 1191,336 1208,341 1233,333 1231,261 1193,264 1178,259 1164,273 1101,276" rendition="Line" xml:id="facs_30_tr_1_tl_2"/>
+            <zone points="261,492 1775,485 2088,470 2091,425 261,452" rendition="Line" xml:id="facs_30_tr_1_tl_3"/>
+            <zone points="261,649 1017,646 1049,639 1049,592 261,604" rendition="Line" xml:id="facs_30_tr_1_tl_5"/>
+            <zone points="264,798 2170,776 2173,714 264,773" rendition="Line" xml:id="facs_30_tr_1_tl_6"/>
+            <zone points="266,955 2153,927 2248,915 2248,860 269,900" rendition="Line" xml:id="facs_30_tr_1_tl_7"/>
+            <zone points="266,1101 2001,1082 2156,1069 2158,1014 266,1054" rendition="Line" xml:id="facs_30_tr_1_tl_8"/>
+            <zone points="266,1253 2178,1223 2213,1161 269,1201" rendition="Line" xml:id="facs_30_tr_1_tl_9"/>
+         </zone>
+         <zone points="280,1314 2274,1314 2274,2281 280,2281" rendition="TextRegion" xml:id="facs_30_tr_3">
+            <zone points="269,1415 2026,1390 2148,1380 2151,1320 269,1360" rendition="Line" xml:id="facs_30_tr_3_tl_1"/>
+            <zone points="273,1566 2213,1527 2267,1464 276,1507" rendition="Line" xml:id="facs_30_tr_3_tl_2"/>
+            <zone points="269,1711 1745,1686 1745,1648 269,1658" rendition="Line" xml:id="facs_30_tr_3_tl_3"/>
+            <zone points="520,1817 2096,1793 2151,1788 2153,1730 520,1768" rendition="Line" xml:id="facs_30_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="266,1972 1967,1957 2218,1944 2220,1882 266,1947" rendition="Line" xml:id="facs_30_tr_3_tl_5"/>
+            <zone points="266,2118 1768,2118 2168,2093 2170,2036 266,2093" rendition="Line" xml:id="facs_30_tr_3_tl_6"/>
+            <zone points="273,2277 1972,2260 2111,2245 2113,2190 273,2228" rendition="Line" xml:id="facs_30_tr_3_tl_7"/>
+         </zone>
+         <zone points="50,2329 2254,2329 2254,3494 50,3494" rendition="TextRegion" xml:id="facs_30_tr_2">
+            <zone points="283,2439 2168,2397 2168,2337 286,2377" rendition="Line" xml:id="facs_30_tr_2_tl_1"/>
+            <zone points="278,2494 2248,2471 2248,2412 278,2449" rendition="Line" xml:id="facs_30_tr_2_tl_2"/>
+            <zone points="273,2576 1723,2566 2049,2548 2051,2486 273,2553" rendition="Line" xml:id="facs_30_tr_2_tl_3"/>
+            <zone points="532,2727 2190,2720 2193,2618 532,2673" rendition="Line" xml:id="facs_30_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="281,2819 1696,2795 1713,2735 283,2765" rendition="Line" xml:id="facs_30_tr_2_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0422.jpg" n="part3_p030.jpg" xml:id="img_0030" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p030.jpg"/>
+            
+            <p facs="#facs_30_tr_1">
+               <lb facs="#facs_30_tr_1_tl_2" n="N001"/>[417]
+               <lb facs="#facs_30_tr_1_tl_3" n="N002"/>This is not even true of their own schools, where they are first of all administrators and then
+               <lb facs="#facs_30_tr_1_tl_5" n="N003"/>SOMEtimes one of them has also some educational ideas. <hi style="font-style: italic;">[some laughter]</hi> But it is
+               <lb facs="#facs_30_tr_1_tl_6" n="N004"/>certainly NOT true, in no way true, of the general situation of education in this country. There
+               <lb facs="#facs_30_tr_1_tl_7" n="N005"/>are other powers much more important, [just] as in Europe before the totalitarian movements came.
+               <lb facs="#facs_30_tr_1_tl_8" n="N006"/>And the first is the [home] : the [home] was able to give hidden resistance--hidden; open was
+               <lb facs="#facs_30_tr_1_tl_9" n="N007"/>impossible--to its own system, even in totalitarian systems. Not open--because the children would
+            </p>
+            <p facs="#facs_30_tr_3">
+               <lb facs="#facs_30_tr_3_tl_1" n="N001"/>go to the next <hi style="font-style: italic;">Gauleiter</hi> and would accuse their parents, under Nazism; but hidden, by the very
+               <lb facs="#facs_30_tr_3_tl_2" n="N002"/>existence of the [home], by the reality, which is always reality of introduction, and the introduction
+               <lb facs="#facs_30_tr_3_tl_3" n="N003"/>into the [home] starts with birth and is therefore the most important one.
+               <lb facs="#facs_30_tr_3_tl_4" n="N004"/>Then there are also in this country other powers--of course the churches--and the
+               <lb facs="#facs_30_tr_3_tl_5" n="N005"/>representatives of the political ideas about which fight is going on. And then very important--and
+               <lb facs="#facs_30_tr_3_tl_6" n="N006"/>that, all teachers should know--the gang, in the largest sense of the word. I have been educated
+               <lb facs="#facs_30_tr_3_tl_7" n="N007"/>in VERY important respects by a Christian fraternity to which I belonged in Germany--for a
+            </p>
+            <p facs="#facs_30_tr_2">
+               <lb facs="#facs_30_tr_2_tl_1" n="N001"/>lifetime, that is, of course, but decisively for four or five years. And there, those students who
+               <lb facs="#facs_30_tr_2_tl_2" n="N002"/>were a little bit older, one or two years older, were the REAL authorities--we didn't care very much
+               <lb facs="#facs_30_tr_2_tl_3" n="N003"/>about the professors in comparison with the older students--and I think you do the same!
+               <lb facs="#facs_30_tr_2_tl_4" n="N004"/>Now here you have a very large concept of education, and the TITLE (''educators'')
+               <lb facs="#facs_30_tr_2_tl_5" n="N005"/>should be applied to all of them. Now a little more about this Thursday.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

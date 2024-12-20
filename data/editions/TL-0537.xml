@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XL (Nr. 0537)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p063</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-27">1956-03-27</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_63">
+         <graphic url="TL-0537.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GDOQCODLJHQGHWKVFOQWCRZR&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="280,302 2197,302 2197,1434 280,1434" rendition="TextRegion" xml:id="facs_63_tr_2">
+            <zone points="1140,421 1185,416 1200,401 1212,413 1230,403 1242,411 1255,411 1260,296 1242,296 1220,318 1197,301 1175,318 1145,318" rendition="Line" xml:id="facs_63_tr_2_tl_1"/>
+            <zone points="1275,483 2119,478 2149,471 2152,411 1463,421 1360,418 1335,391 1275,418" rendition="Line" xml:id="facs_63_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="266,604 699,609 719,624 767,606 922,609 922,574 887,551 393,556 373,576 266,559" rendition="Line" xml:id="facs_63_tr_2_tl_4"/>
+            <zone points="511,721 2169,709 2189,639 511,664" rendition="Line" xml:id="facs_63_tr_2_tl_5" subtype="paragraph"/>
+            <zone points="273,849 2119,832 2139,774 276,812" rendition="Line" xml:id="facs_63_tr_2_tl_6"/>
+            <zone points="273,959 2044,957 2112,897 273,932" rendition="Line" xml:id="facs_63_tr_2_tl_7"/>
+            <zone points="514,1072 1846,1077 2192,1062 2192,1010 514,1030" rendition="Line" xml:id="facs_63_tr_2_tl_8" subtype="paragraph"/>
+            <zone points="268,1190 2134,1192 2184,1125 268,1147" rendition="Line" xml:id="facs_63_tr_2_tl_9"/>
+            <zone points="268,1313 1806,1308 1964,1300 1966,1250 268,1288" rendition="Line" xml:id="facs_63_tr_2_tl_10"/>
+            <zone points="521,1430 2187,1415 2187,1355 521,1380" rendition="Line" xml:id="facs_63_tr_2_tl_11" subtype="paragraph"/>
+         </zone>
+         <zone points="283,1466 2206,1466 2206,2428 283,2428" rendition="TextRegion" xml:id="facs_63_tr_3">
+            <zone points="276,1553 2112,1533 2139,1473 276,1495" rendition="Line" xml:id="facs_63_tr_3_tl_1"/>
+            <zone points="276,1666 2054,1653 2054,1591 1996,1586 278,1608" rendition="Line" xml:id="facs_63_tr_3_tl_2"/>
+            <zone points="273,1779 2022,1774 2087,1766 2087,1713 273,1733" rendition="Line" xml:id="facs_63_tr_3_tl_3"/>
+            <zone points="273,1904 1954,1894 2152,1876 2152,1821 276,1851" rendition="Line" xml:id="facs_63_tr_3_tl_4"/>
+            <zone points="278,2019 1926,2007 2187,1994 2187,1944 278,1964" rendition="Line" xml:id="facs_63_tr_3_tl_5"/>
+            <zone points="268,2127 1989,2127 2194,2112 2194,2059 268,2082" rendition="Line" xml:id="facs_63_tr_3_tl_6"/>
+            <zone points="536,2247 2029,2239 2054,2169 536,2217" rendition="Line" xml:id="facs_63_tr_3_tl_7"/>
+            <zone points="278,2307 356,2320 764,2307 767,2254 609,2267 586,2252 561,2267 519,2227 458,2270 441,2257 281,2270" rendition="Line" xml:id="facs_63_tr_3_tl_8"/>
+            <zone points="521,2420 1804,2435 2199,2405 2199,2350 521,2375" rendition="Line" xml:id="facs_63_tr_3_tl_9" subtype="paragraph"/>
+         </zone>
+         <zone points="47,2454 2289,2454 2289,3482 47,3482" rendition="TextRegion" xml:id="facs_63_tr_1">
+            <zone points="273,2543 2262,2520 2262,2460 273,2487" rendition="Line" xml:id="facs_63_tr_1_tl_1"/>
+            <zone points="273,2665 2127,2638 2152,2585 276,2615" rendition="Line" xml:id="facs_63_tr_1_tl_2"/>
+            <zone points="266,2766 2154,2766 2209,2693 266,2743" rendition="Line" xml:id="facs_63_tr_1_tl_3"/>
+            <zone points="268,2886 2202,2876 2262,2813 268,2843" rendition="Line" xml:id="facs_63_tr_1_tl_4"/>
+            <zone points="268,3009 2194,2998 2265,2931 268,2961" rendition="Line" xml:id="facs_63_tr_1_tl_5"/>
+            <zone points="273,3136 2117,3116 2282,3099 2282,3049 273,3079" rendition="Line" xml:id="facs_63_tr_1_tl_6"/>
+            <zone points="276,3262 2217,3277 2214,3221 276,3191" rendition="Line" xml:id="facs_63_tr_1_tl_7"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0537.jpg" n="part4_p063.jpg" xml:id="img_0063" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p063.jpg"/>
+            
+            <p facs="#facs_63_tr_2">
+               <lb facs="#facs_63_tr_2_tl_1" n="N001"/>[532]
+               <lb facs="#facs_63_tr_2_tl_2" n="N002"/>1) The first and highest level: <hi style="font-style: italic;">agapē</hi> --- in English, love, but love in the sense of the
+               <lb facs="#facs_63_tr_2_tl_4" n="N003"/>New Testament concept of love.
+               <lb facs="#facs_63_tr_2_tl_5" n="N004"/>2) The second level: mediating principles, or the middle principles, as they are often
+               <lb facs="#facs_63_tr_2_tl_6" n="N005"/>called---"middle axioms," as John Bennett in Union Seminary calls them---which are results
+               <lb facs="#facs_63_tr_2_tl_7" n="N006"/>of wisdom and in which both natural law and pragmatism are united, come to their right.
+               <lb facs="#facs_63_tr_2_tl_8" n="N007"/>3) And then the third level: the level of the <hi style="font-style: italic;">kairos</hi>, of the concrete, unique situation
+               <lb facs="#facs_63_tr_2_tl_9" n="N008"/>into which one acts. <hi style="font-style: italic;">Kairos</hi> is the Greek word for "the right time," the qualitative time, the right
+               <lb facs="#facs_63_tr_2_tl_10" n="N009"/>moment in which something can be done which cannot be done in any other moment.
+               <lb facs="#facs_63_tr_2_tl_11" n="N010"/>So we have these three levels: love; wisdom (including the principles which wisdom
+            </p>
+            <p facs="#facs_63_tr_3">
+               <lb facs="#facs_63_tr_3_tl_1" n="N001"/>has tentatively formulated, or preliminarily formulated); and the realm of the unique moment.
+               <lb facs="#facs_63_tr_3_tl_2" n="N002"/>Let's discuss first the principle of love. The principle of love means that here is something
+               <lb facs="#facs_63_tr_3_tl_3" n="N003"/>IMMOVABLE, unchangeable, which, however, in its application, is dynamically changing in
+               <lb facs="#facs_63_tr_3_tl_4" n="N004"/>every moment. What is love? Love is the reunion of the separated, or, better, the urge towards
+               <lb facs="#facs_63_tr_3_tl_5" n="N005"/>the reunion toward the separated. This separation can be a separation from oneself, and then the
+               <lb facs="#facs_63_tr_3_tl_6" n="N006"/>true self-love---which should be called differently---is the reunion with oneself, ultimately in terms
+               <lb facs="#facs_63_tr_3_tl_7" n="N007"/>of self-acceptance. Or it is the reunion with the others, and with the ground of
+               <lb facs="#facs_63_tr_3_tl_8" n="N008"/>oneself AND the world.
+               <lb facs="#facs_63_tr_3_tl_9" n="N009"/>Now if this is love, this principle of reunion, then it is obvious that here the formal and
+            </p>
+            <p facs="#facs_63_tr_1">
+               <lb facs="#facs_63_tr_1_tl_1" n="N001"/>the material principle coincide. The formal principle, as we have seen, was the self-affirmation of the
+               <lb facs="#facs_63_tr_1_tl_2" n="N002"/>person as person. This is possible only because of his complete centeredness and because of his
+               <lb facs="#facs_63_tr_1_tl_3" n="N003"/>encounter with OTHER persons. The principle of love expresses the union with the others, in the
+               <lb facs="#facs_63_tr_1_tl_4" n="N004"/>fundamental ethical principle. You cannot be really a person without self-acceptance; otherwise you
+               <lb facs="#facs_63_tr_1_tl_5" n="N005"/>are continuously disrupted into pieces, some of which you accept (wrongly), others which you reject
+               <lb facs="#facs_63_tr_1_tl_6" n="N006"/>(wrongly), because you are a unity. And only if you are able to accept yourself fully---and that meeas [sic.]
+               <lb facs="#facs_63_tr_1_tl_7" n="N007"/>means what is wrongly called the right self-love, the NECESSARY and GOOD self-love---only then
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

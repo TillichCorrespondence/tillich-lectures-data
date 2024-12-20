@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVII (Nr. 0483)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p009</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-15">1956-03-15</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_9">
+         <graphic url="TL-0483.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DMLEDBDUQXEUWXCXMPGHMEQR&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="32,281 2280,281 2280,1111 32,1111" rendition="TextRegion" xml:id="facs_9_tr_3">
+            <zone points="1126,333 1143,333 1152,343 1167,343 1174,350 1238,350 1245,343 1257,343 1255,292 1220,294 1206,280 1196,282 1191,277 1167,304 1123,301" rendition="Line" xml:id="facs_9_tr_3_tl_1"/>
+            <zone points="343,491 958,501 955,435 676,447 627,411 598,438 343,435" rendition="Line" xml:id="facs_9_tr_3_tl_2"/>
+            <zone points="338,562 372,581 430,574 447,562 481,562 498,574 593,571 591,520 496,518 467,540 452,540 421,515 338,518" rendition="Line" xml:id="facs_9_tr_3_tl_3"/>
+            <zone points="338,649 2276,700 2249,601 338,605" rendition="Line" xml:id="facs_9_tr_3_tl_4"/>
+            <zone points="333,793 2067,812 2064,761 333,746" rendition="Line" xml:id="facs_9_tr_3_tl_6"/>
+            <zone points="331,943 686,997 2176,963 2176,909 1911,895 331,897" rendition="Line" xml:id="facs_9_tr_3_tl_7"/>
+            <zone points="323,1096 2098,1111 2098,1060 1977,1048 323,1072" rendition="Line" xml:id="facs_9_tr_3_tl_8"/>
+         </zone>
+         <zone points="310,1188 2164,1188 2164,2544 310,2544" rendition="TextRegion" xml:id="facs_9_tr_1">
+            <zone points="321,1240 1230,1259 1230,1203 321,1218" rendition="Line" xml:id="facs_9_tr_1_tl_1"/>
+            <zone points="326,1320 360,1335 425,1332 440,1318 464,1335 537,1330 537,1286 503,1289 481,1274 457,1274 445,1286 421,1286 408,1274 357,1274 345,1286 326,1286" rendition="Line" xml:id="facs_9_tr_1_tl_2"/>
+            <zone points="321,1398 389,1408 423,1393 440,1405 557,1403 554,1347 537,1347 523,1362 503,1349 442,1347 418,1362 394,1347 348,1347 333,1362 318,1362" rendition="Line" xml:id="facs_9_tr_1_tl_3"/>
+            <zone points="323,1549 331,1546 345,1549 348,1544 365,1551 391,1549 399,1556 413,1556 408,1507 391,1510 367,1503 316,1507" rendition="Line" xml:id="facs_9_tr_1_tl_4"/>
+            <zone points="562,1619 2159,1644 2159,1578 2098,1575 562,1568" rendition="Line" xml:id="facs_9_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="318,1782 2088,1792 2120,1738 318,1748" rendition="Line" xml:id="facs_9_tr_1_tl_6"/>
+            <zone points="309,1930 656,1947 678,1926 744,1923 766,1945 917,1940 917,1887 729,1882 681,1904 642,1877 528,1901 508,1882 372,1874 309,1901" rendition="Line" xml:id="facs_9_tr_1_tl_7"/>
+            <zone points="562,2079 2045,2127 2045,2028 562,2020" rendition="Line" xml:id="facs_9_tr_1_tl_8" subtype="paragraph"/>
+            <zone points="297,2263 353,2307 722,2227 1600,2276 2028,2242 2028,2191 297,2200" rendition="Line" xml:id="facs_9_tr_1_tl_9"/>
+            <zone points="306,2400 2018,2392 2018,2341 306,2339" rendition="Line" xml:id="facs_9_tr_1_tl_10"/>
+            <zone points="297,2531 2013,2541 2013,2492 1760,2482 297,2485" rendition="Line" xml:id="facs_9_tr_1_tl_11"/>
+         </zone>
+         <zone points="50,2628 2254,2628 2254,3488 50,3488" rendition="TextRegion" xml:id="facs_9_tr_2">
+            <zone points="299,2679 340,2694 511,2687 525,2701 647,2694 661,2679 678,2694 729,2679 744,2694 829,2696 846,2694 846,2631 695,2631 671,2655 642,2631 542,2631 518,2655 486,2631 336,2631 299,2655" rendition="Line" xml:id="facs_9_tr_2_tl_1"/>
+            <zone points="547,2759 2069,2772 2069,2708 547,2708" rendition="Line" xml:id="facs_9_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="297,2910 2251,2927 2222,2854 297,2862" rendition="Line" xml:id="facs_9_tr_2_tl_3"/>
+            <zone points="294,3061 2152,3078 2152,3022 1938,3007 294,3017" rendition="Line" xml:id="facs_9_tr_2_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0483.jpg" n="part4_p009.jpg" xml:id="img_0009" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p009.jpg"/>
+            
+            <p facs="#facs_9_tr_3">
+               <lb facs="#facs_9_tr_3_tl_1" n="N001"/>[478]
+               <lb facs="#facs_9_tr_3_tl_2" n="N002"/>The risk in me or <rs type="person" ref="#tillich_person_id__2989">Maritain</rs>?
+               <lb facs="#facs_9_tr_3_tl_3" n="N003"/>QN: You.
+               <lb facs="#facs_9_tr_3_tl_4" n="N004"/>PT: In me. Now I said: I would resist–as<rs type="person" ref="#tillich_person_id__1228"> Luther</rs> did–the Bull of the Pope condemning
+               <lb facs="#facs_9_tr_3_tl_6" n="N005"/>me. Now that is the risk. Perhaps I was in error, perhaps I was not. That is
+               <lb facs="#facs_9_tr_3_tl_7" n="N006"/>my risk, while for <rs type="person" ref="#tillich_person_id__2989">Maritain</rs> the risk is all reduced to the one risk, namely to remain
+               <lb facs="#facs_9_tr_3_tl_8" n="N007"/>an adherent, or to become, in his case, and to remain, an adherent of the Roman
+            </p>
+            <p facs="#facs_9_tr_1">
+               <lb facs="#facs_9_tr_1_tl_1" n="N001"/>Church. Does that answer your question?
+               <lb facs="#facs_9_tr_1_tl_2" n="N002"/>QN: Yes.
+               <lb facs="#facs_9_tr_1_tl_3" n="N003"/>PT: Good
+               <lb facs="#facs_9_tr_1_tl_4" n="N004"/>===
+               <lb facs="#facs_9_tr_1_tl_5" n="N005"/>We have a very important subject today, but I am very grateful for these
+               <lb facs="#facs_9_tr_1_tl_6" n="N006"/>questions. You see they always clear something up a little bit, so don't hesitate to
+               <lb facs="#facs_9_tr_1_tl_7" n="N007"/>ask them, orally or written.
+               <lb facs="#facs_9_tr_1_tl_8" n="N008"/>The final discussion about the relation between the educational realm
+               <lb facs="#facs_9_tr_1_tl_9" n="N009"/>and religion is the discussion of religion and the <rs type="keyword" ref="#University">university</rs>. And since this is a
+               <lb facs="#facs_9_tr_1_tl_10" n="N010"/>problem which has a rather existential meaning for <rs type="place">Harvard</rs> today, and therefore
+               <lb facs="#facs_9_tr_1_tl_11" n="N011"/>implicitly for ALL of you, I want to use this hour to discuss it with you from
+            </p>
+            <p facs="#facs_9_tr_2">
+               <lb facs="#facs_9_tr_2_tl_1" n="N001"/>differents [sic.] points of view.
+               <lb facs="#facs_9_tr_2_tl_2" n="N002"/>First a short historical reminder. The term <hi style="font-style: italic;">universitas</hi>, <rs type="keyword" ref="#University">university</rs>, had,
+               <lb facs="#facs_9_tr_2_tl_3" n="N003"/>very early, two meanings. The earliest was the <hi style="font-style: italic;">universitas magistrarum et scholarum [?sp]</hi>,
+               <lb facs="#facs_9_tr_2_tl_4" n="N004"/>which means the collective of teachers and students. So the first meaning of the term
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

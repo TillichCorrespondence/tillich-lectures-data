@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_27">
          <graphic url="TL-0027.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=FWGFFNSJZWLOGFTAYXBVKQKC&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FWGFFNSJZWLOGFTAYXBVKQKC&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="173,269 173,3450 2197,3450 2197,269" rendition="TextRegion" xml:id="facs_27_tr_4">
             <zone points="1191,316 1203,316 1213,325 1223,328 1245,328 1250,323 1265,325 1274,316 1287,316 1287,283 1274,283 1260,266 1240,264 1223,281 1191,281" rendition="Line" xml:id="facs_27_tr_4_tl_1"/>
             <zone points="190,515 976,535 1205,483 1311,547 1420,547 1634,513 2019,540 2098,493 2061,441 1114,458 924,409 340,441 190,409" rendition="Line" xml:id="facs_27_tr_4_tl_2"/>
@@ -111,30 +111,30 @@
             <p facs="#facs_27_tr_4">
                <lb facs="#facs_27_tr_4_tl_1" n="N001"/>[24]
                <lb facs="#facs_27_tr_4_tl_2" n="N002"/>was a real experience of my generation, and only for THIS reason did I come to this
-               <lb facs="#facs_27_tr_4_tl_3" n="N003"/>concept of faith as ultimate concern.
+               <lb facs="#facs_27_tr_4_tl_3" n="N003"/>concept of <rs type="keyword" ref="#Faith">faith</rs> as <ultimate_concern>ultimate concern</ultimate_concern>.
                <lb facs="#facs_27_tr_4_tl_4" n="N004"/>In view of these dangers of a misguided faith, the question arises:
                <lb facs="#facs_27_tr_4_tl_5" n="N005"/>How is it possible to affirm anything, in terms of faith? My answer (some of you have
-               <lb facs="#facs_27_tr_4_tl_6" n="N006"/>seen or read my book, <hi style="font-style: italic;">The Courage to Be</hi>) is: Courage!--courage to take upon oneself
-               <lb facs="#facs_27_tr_4_tl_7" n="N007"/>the risk of faith, the courage to affirm one's own being in spite of the threat of idolatric
+               <lb facs="#facs_27_tr_4_tl_6" n="N006"/>seen or read my book, <hi style="font-style: italic;">The Courage to Be</hi>) is: <rs type="keyword" ref="#Courage">Courage</rs>!--courage to take upon oneself
+               <lb facs="#facs_27_tr_4_tl_7" n="N007"/>the risk of <rs type="keyword" ref="#Faith">faith</rs>, the courage to affirm one's own being in spite of the threat of idolatric
                <lb facs="#facs_27_tr_4_tl_8" n="N008"/>distortion. This courage is demanded by every human being, and the real danger, which
                <lb facs="#facs_27_tr_4_tl_9" n="N009"/>may lead to complete neurotic or psychotic breakdown, is that he is not able to develop
                <lb facs="#facs_27_tr_4_tl_10" n="N010"/>this courage any more and may come to ruin, which may result in self-destruction. But
                <lb facs="#facs_27_tr_4_tl_11" n="N011"/>courage cannot result from willful acts (''I WANT to have courage!'') etc. Last Tuesday
-               <lb facs="#facs_27_tr_4_tl_12" n="N012"/>I<rs type="keyword" ref="#Faith"> spoke about what faith was NOT, in terms of an affirmation of a statement without
-               <lb break="no" facs="#facs_27_tr_4_tl_13" n="N013"/>much evidence. Here in this city, which is the city of William James, I also should
-               <lb break="no" facs="#facs_27_tr_4_tl_14" n="N014"/>speak about the term "will to believe." But faith is neither a matter of will. You cannot
-               <lb break="no" facs="#facs_27_tr_4_tl_15" n="N015"/>PRODUCE faith, you cannot produce the courage to affirm yourselves, in the ULTIMATE
-               <lb break="no" facs="#facs_27_tr_4_tl_16" n="N016"/>sense, by will-power. You can have will-power to follow through your ultimate concern in
-               <lb break="no" facs="#facs_27_tr_4_tl_17" n="N017"/>terms of complete surrender, but you cannot do it in terms of the production of faith.
-               <lb break="no" facs="#facs_27_tr_4_tl_18" n="N018"/>He who produces faith with an act of will (in theological groups, often called ''obedience'')
-               <lb break="no" facs="#facs_27_tr_4_tl_19" n="N019"/>must either already have faith or he commits a willful act which breaks down sooner or
-               <lb break="no" facs="#facs_27_tr_4_tl_20" n="N020"/>later.
-               <lb break="no" facs="#facs_27_tr_4_tl_21" n="N021"/>We must therefore say: the courage to be, to have a concrete content of
-               <lb break="no" facs="#facs_27_tr_4_tl_22" n="N022"/>faith, is possible only in the state of being grasped by this ultimate itself, and of accepting
-               <lb break="no" facs="#facs_27_tr_4_tl_23" n="N023"/>the risk to accept this content.</rs>
+               <lb facs="#facs_27_tr_4_tl_12" n="N012"/>I spoke about what faith was NOT, in terms of an affirmation of a statement without
+               <lb facs="#facs_27_tr_4_tl_13" n="N013"/>much evidence. Here in this city, which is the city of <rs type="person" ref="#tillich_person_id__969">William James</rs>, I also should
+               <lb facs="#facs_27_tr_4_tl_14" n="N014"/>speak about the term "will to believe." But faith is neither a matter of will. You cannot
+               <lb facs="#facs_27_tr_4_tl_15" n="N015"/>PRODUCE faith, you cannot produce the courage to affirm yourselves, in the ULTIMATE
+               <lb facs="#facs_27_tr_4_tl_16" n="N016"/>sense, by will-power. You can have will-power to follow through your <ultimate_concern>ultimate concern</ultimate_concern> in
+               <lb facs="#facs_27_tr_4_tl_17" n="N017"/>terms of complete surrender, but you cannot do it in terms of the production of faith.
+               <lb facs="#facs_27_tr_4_tl_18" n="N018"/>He who produces faith with an act of will (in theological groups, often called ''obedience'')
+               <lb facs="#facs_27_tr_4_tl_19" n="N019"/>must either already have faith or he commits a willful act which breaks down sooner or
+               <lb facs="#facs_27_tr_4_tl_20" n="N020"/>later.
+               <lb facs="#facs_27_tr_4_tl_21" n="N021"/>We must therefore say: the <rs type="keyword" ref="#Courage">courage</rs> to be, to have a concrete content of
+               <lb facs="#facs_27_tr_4_tl_22" n="N022"/>faith, is possible only in the state of being grasped by this ultimate itself, and of accepting
+               <lb facs="#facs_27_tr_4_tl_23" n="N023"/>the risk to accept this content.
                <lb facs="#facs_27_tr_4_tl_24" n="N024"/>Are there no criteria between wrong and true faith, between idolatric and
                <lb facs="#facs_27_tr_4_tl_25" n="N025"/>destructive faith, and true and healing faith? There is one criterion. And this criterion
-               <lb facs="#facs_27_tr_4_tl_26" n="N026"/>is that whenever something finite claims to be the bearer of ultimate concern, it must
+               <lb facs="#facs_27_tr_4_tl_26" n="N026"/>is that whenever something finite claims to be the bearer of <ultimate_concern>ultimate concern</ultimate_concern>, it must
                <lb facs="#facs_27_tr_4_tl_27" n="N027"/>sacrifice itself in its finitude! This is the last criterion. And in the whole history of
                <lb facs="#facs_27_tr_4_tl_28" n="N028"/>religion, only those finite realities which denied their own finitude at the same time
                <lb facs="#facs_27_tr_4_tl_29" n="N029"/>in which they claimed ultimate meaning, were matters of true faith. This is the greatness

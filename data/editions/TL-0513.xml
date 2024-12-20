@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVIII (Nr. 0513)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p039</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-20">1956-03-20</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_39">
+         <graphic url="TL-0513.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=BTFKQFZREQPSHPPLKTHVTWVL&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="249,193 2258,207 2263,1849 244,1849" rendition="TextRegion" xml:id="facs_39_tr_1">
+            <zone points="1077,336 1222,334 1222,334 1222,304 1222,304 1077,306" rendition="Line" xml:id="facs_39_l"/>
+            <zone points="242,493 1510,473 1568,519 1694,463 1926,471 1928,428 1687,430 1581,375 1503,433 244,451" rendition="Line" xml:id="facs_39_tr_1_tl_1"/>
+            <zone points="239,637 2112,622 2112,566 239,612" rendition="Line" xml:id="facs_39_tr_1_tl_2"/>
+            <zone points="239,801 2090,778 2090,720 239,743" rendition="Line" xml:id="facs_39_tr_1_tl_3"/>
+            <zone points="237,944 2087,926 2117,869 237,894" rendition="Line" xml:id="facs_39_tr_1_tl_4"/>
+            <zone points="229,1088 2077,1077 2095,1017 229,1045" rendition="Line" xml:id="facs_39_tr_1_tl_5"/>
+            <zone points="229,1241 2241,1231 2241,1173 229,1216" rendition="Line" xml:id="facs_39_tr_1_tl_6"/>
+            <zone points="237,1387 2029,1392 2256,1370 2256,1319 237,1364" rendition="Line" xml:id="facs_39_tr_1_tl_7"/>
+            <zone points="229,1538 1865,1538 2127,1526 2127,1458 229,1495" rendition="Line" xml:id="facs_39_tr_1_tl_8"/>
+            <zone points="229,1689 1795,1694 2188,1679 2241,1619 229,1664" rendition="Line" xml:id="facs_39_tr_1_tl_9"/>
+            <zone points="239,1848 1347,1838 1370,1787 239,1800" rendition="Line" xml:id="facs_39_tr_1_tl_10"/>
+         </zone>
+         <zone points="241,1914 2170,1914 2170,2538 241,2538" rendition="TextRegion" xml:id="facs_39_tr_4">
+            <zone points="237,1991 2163,1989 2163,1918 237,1938" rendition="Line" xml:id="facs_39_tr_4_tl_1"/>
+            <zone points="257,2077 554,2102 1198,2079 1274,2069 1276,2006 1229,2032 257,2039" rendition="Line" xml:id="facs_39_tr_4_tl_2"/>
+            <zone points="227,2225 2150,2213 2150,2145 227,2198" rendition="Line" xml:id="facs_39_tr_4_tl_3"/>
+            <zone points="229,2377 1747,2382 2127,2364 2127,2311 229,2354" rendition="Line" xml:id="facs_39_tr_4_tl_4"/>
+            <zone points="234,2530 2006,2525 2160,2512 2160,2460 237,2500" rendition="Line" xml:id="facs_39_tr_4_tl_5"/>
+         </zone>
+         <zone points="90,2601 2352,2601 2352,3485 90,3485" rendition="TextRegion" xml:id="facs_39_tr_2">
+            <zone points="234,2686 1538,2686 2082,2664 2082,2613 234,2638" rendition="Line" xml:id="facs_39_tr_2_tl_1"/>
+            <zone points="229,2832 2190,2815 2246,2752 229,2807" rendition="Line" xml:id="facs_39_tr_2_tl_2"/>
+            <zone points="227,2981 1470,2998 2241,2958 2243,2908 227,2938" rendition="Line" xml:id="facs_39_tr_2_tl_3"/>
+            <zone points="237,3139 1269,3134 1269,3076 237,3107" rendition="Line" xml:id="facs_39_tr_2_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0513.jpg" n="part4_p039.jpg" xml:id="img_0039" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p039.jpg"/>
+            
+            <p facs="#facs_39_tr_1">
+               <lb facs="#facs_39_l" n="N001"/>[508]
+               <lb facs="#facs_39_tr_1_tl_1" n="N002"/>at least, and there you can come into a really dialectical conversation with them. But that is
+               <lb facs="#facs_39_tr_1_tl_2" n="N003"/>different from the pulpit. So the minister has the hard task which he will never fulfill without
+               <lb facs="#facs_39_tr_1_tl_3" n="N004"/>producing offense here and there. The minister who never produces offense should go away
+               <lb facs="#facs_39_tr_1_tl_4" n="N005"/>himself and ---<hi style="font-style: italic;">[some laughter]</hi> But this is the most difficult form to avoid: dangerous offenses.
+               <lb facs="#facs_39_tr_1_tl_5" n="N006"/>But it must be done, and we must risk it. We must risk to be failures. I remember a successful
+               <lb facs="#facs_39_tr_1_tl_6" n="N007"/>sermon by Mr. [George] Buttrick, a few Sundays ago, about accepting failure. Now that is something
+               <lb facs="#facs_39_tr_1_tl_7" n="N008"/>we must accept, even failure in the sense of doing something which HURTS others, which in this sense
+               <lb facs="#facs_39_tr_1_tl_8" n="N009"/>is tragic guilt, but we cannot avoid it. And more than this, I cannot say---there may be practical
+               <lb facs="#facs_39_tr_1_tl_9" n="N010"/>theologians who have much more experience and survey about it who give you a few MORE
+               <lb facs="#facs_39_tr_1_tl_10" n="N011"/>criteria, but that is the common problem of the minister.
+            </p>
+            <p facs="#facs_39_tr_4">
+               <lb facs="#facs_39_tr_4_tl_1" n="N001"/>QN: [---about the relation to the university]: Is there a difference between the holy and business,
+               <lb facs="#facs_39_tr_4_tl_2" n="N002"/>or law, or medicine, in regard to ultimate concern?
+               <lb facs="#facs_39_tr_4_tl_3" n="N003"/>PT: I said that the whole hour, I think. There is nothing secualr [sic.] in the whole world in which the
+               <lb facs="#facs_39_tr_4_tl_4" n="N004"/>divine ground is not manifest. And since this is the case---this is the meaning of the doctrine of
+               <lb facs="#facs_39_tr_4_tl_5" n="N005"/>creation, that in everything that is, the creative ground is manifest. As Thomas Aquinas (who for
+            </p>
+            <p facs="#facs_39_tr_2">
+               <lb facs="#facs_39_tr_2_tl_1" n="N001"/>some of you is perhaps a good witness) says: if we know anything, we know God. And he is
+               <lb facs="#facs_39_tr_2_tl_2" n="N002"/>absolutely right in this because in knowing anything finite, we know the creative ground out of which
+               <lb facs="#facs_39_tr_2_tl_3" n="N003"/>it comes-ALTHOUGH HIDDEN, not directly. Now if you have this, then of course your question is
+               <lb facs="#facs_39_tr_2_tl_6" n="N004"/>answered: God is certainly present in the law, He is certainly present in trading, in exchange, in producing,
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

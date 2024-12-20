@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXV (Nr. 0452)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p060</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-12">1956-03-12</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_60">
+         <graphic url="TL-0452.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AZBNPQOLQUWIYAVSJZJUHMER&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="313,66 2283,66 2283,1159 313,1159" rendition="TextRegion" xml:id="facs_60_tr_2">
+            <zone points="436,131 449,129 464,134 473,121 493,121 506,131 521,131 511,0 491,5 483,2 461,27 426,30" rendition="Line" xml:id="facs_60_tr_2_tl_1"/>
+            <zone points="1150,384 1165,384 1182,397 1215,397 1222,404 1237,399 1244,404 1277,399 1277,320 1257,322 1239,340 1195,337 1185,345 1150,345" rendition="Line" xml:id="facs_60_tr_2_tl_2"/>
+            <zone points="533,548 2278,558 2278,473 2149,508 2038,414 1941,506 533,513" rendition="Line" xml:id="facs_60_tr_2_tl_3"/>
+            <zone points="307,697 2112,709 2263,701 2263,649 307,662" rendition="Line" xml:id="facs_60_tr_2_tl_4"/>
+            <zone points="300,858 2176,863 2233,801 300,823" rendition="Line" xml:id="facs_60_tr_2_tl_5"/>
+            <zone points="312,1004 1909,1014 2184,1004 2184,949 312,957" rendition="Line" xml:id="facs_60_tr_2_tl_6"/>
+            <zone points="300,1145 2097,1158 2161,1096 300,1103" rendition="Line" xml:id="facs_60_tr_2_tl_7"/>
+         </zone>
+         <zone points="301,1239 2349,1239 2349,2894 301,2894" rendition="TextRegion" xml:id="facs_60_tr_1">
+            <zone points="302,1299 1767,1316 2258,1301 2258,1249 302,1252" rendition="Line" xml:id="facs_60_tr_1_tl_1"/>
+            <zone points="300,1455 473,1458 483,1467 516,1458 620,1460 620,1403 498,1403 478,1423 456,1403 300,1403" rendition="Line" xml:id="facs_60_tr_1_tl_2"/>
+            <zone points="523,1524 1197,1574 2342,1529 2288,1460 523,1467" rendition="Line" xml:id="facs_60_tr_1_tl_3"/>
+            <zone points="297,1673 2176,1686 2285,1678 2288,1624 297,1631" rendition="Line" xml:id="facs_60_tr_1_tl_4"/>
+            <zone points="297,1829 1963,1837 2149,1827 2149,1780 297,1782" rendition="Line" xml:id="facs_60_tr_1_tl_5"/>
+            <zone points="297,1993 2256,1981 2256,1924 300,1938" rendition="Line" xml:id="facs_60_tr_1_tl_6"/>
+            <zone points="292,2127 2040,2142 2231,2132 2231,2075 292,2082" rendition="Line" xml:id="facs_60_tr_1_tl_7"/>
+            <zone points="292,2283 2119,2285 2179,2231 292,2238" rendition="Line" xml:id="facs_60_tr_1_tl_8"/>
+            <zone points="290,2444 1713,2424 1847,2501 2209,2461 2176,2377 290,2390" rendition="Line" xml:id="facs_60_tr_1_tl_9"/>
+            <zone points="292,2590 2124,2580 2124,2526 1886,2516 292,2526" rendition="Line" xml:id="facs_60_tr_1_tl_10"/>
+            <zone points="297,2749 2199,2741 2199,2677 297,2697" rendition="Line" xml:id="facs_60_tr_1_tl_11"/>
+            <zone points="288,2890 2214,2880 2251,2823 288,2838" rendition="Line" xml:id="facs_60_tr_1_tl_12"/>
+         </zone>
+         <zone points="81,2968 2277,2968 2277,3490 81,3490" rendition="TextRegion" xml:id="facs_60_tr_3">
+            <zone points="283,3044 1202,3036 1234,3029 1234,2977 283,2997" rendition="Line" xml:id="facs_60_tr_3_tl_1"/>
+            <zone points="508,3096 2243,3103 2271,3046 508,3054" rendition="Line" xml:id="facs_60_tr_3_tl_2"/>
+            <zone points="283,3255 2199,3252 2226,3195 283,3225" rendition="Line" xml:id="facs_60_tr_3_tl_3"/>
+            <zone points="704,3465 716,3465 729,3450 731,3453 736,3448 756,3448 763,3455 766,3450 783,3453 788,3448 801,3448 796,3403 773,3406 763,3398 761,3401 699,3406" rendition="Line" xml:id="facs_60_tr_3_tl_4"/>
+            <zone points="845,3490 868,3495 885,3485 890,3493 907,3493 917,3483 927,3493 957,3495 984,3480 999,3485 1011,3478 1044,3478 1046,3406 996,3406 957,3418 895,3408 870,3423 848,3421" rendition="Line" xml:id="facs_60_tr_3_tl_5"/>
+            <zone points="1341,3475 1356,3475 1371,3485 1386,3485 1415,3470 1440,3488 1455,3488 1453,3403 1339,3403" rendition="Line" xml:id="facs_60_tr_3_tl_6"/>
+            <zone points="69,3493 107,3493 112,3485 126,3493 156,3485 166,3493 183,3485 196,3493 245,3485 342,3493 337,3418 223,3398 64,3406" rendition="Line" xml:id="facs_60_tr_3_tl_7"/>
+            <zone points="704,3478 716,3480 726,3493 736,3493 746,3485 761,3493 771,3490 793,3493 801,3445 788,3443 763,3453 761,3448 739,3448 736,3445 729,3448 709,3443" rendition="Line" xml:id="facs_60_tr_3_tl_8"/>
+            <zone points="476,3495 496,3493 513,3475 540,3495 573,3490 617,3493 615,3388 595,3391 575,3411 565,3413 473,3413" rendition="Line" xml:id="facs_60_tr_3_tl_9"/>
+            <zone points="350,3478 367,3475 379,3488 394,3493 409,3490 416,3493 434,3485 424,3379 404,3376 402,3379 389,3369 387,3374 374,3374 367,3366 337,3369" rendition="Line" xml:id="facs_60_tr_3_tl_10"/>
+         </zone>
+         <zone points="2313,62 2400,62 2400,138 2313,138" rendition="TextRegion" xml:id="facs_60_tr_4">
+            <zone points="2303,136 2320,131 2328,134 2335,131 2342,134 2350,131 2375,134 2377,131 2382,136 2397,134 2387,82 2370,87 2305,42 2285,40" rendition="Line" xml:id="facs_60_tr_4_tl_1"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0452.jpg" n="part3_p060.jpg" xml:id="img_0060" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p060.jpg"/>
+            
+            <p facs="#facs_60_tr_2">
+               <lb facs="#facs_60_tr_2_tl_1" n="N001"/>dire,
+               <lb facs="#facs_60_tr_2_tl_2" n="N002"/>447.
+               <lb facs="#facs_60_tr_2_tl_3" n="N003"/>I use here the term "the idea of personality." I don't mean it in the sense of personality
+               <lb facs="#facs_60_tr_2_tl_4" n="N004"/>structure, and I DoN"T mean it in the sense of person, as someone who is legaly protected, or who
+               <lb facs="#facs_60_tr_2_tl_5" n="N005"/>potently has the possibility to BECOME a personality, but I mean it in the sense of a developed
+               <lb facs="#facs_60_tr_2_tl_6" n="N006"/>character on the basis of an individual being. This idea of personality has developed under the
+               <lb facs="#facs_60_tr_2_tl_7" n="N007"/>impact both of the Reformation and of the Kickissance. It has shown some characteristics of
+            </p>
+            <p facs="#facs_60_tr_1">
+               <lb facs="#facs_60_tr_1_tl_1" n="N001"/>which we must say that it is one of the greatest and perhaps mostldatastrophic developments in our
+               <lb facs="#facs_60_tr_1_tl_2" n="N002"/>modern period.“
+               <lb facs="#facs_60_tr_1_tl_3" n="N003"/>To understand that, we must distinguish the idea of personality and the ideal of personality.
+               <lb facs="#facs_60_tr_1_tl_4" n="N004"/>The idea of personality simply means that man is created to be a person, on the basis of a completed
+               <lb facs="#facs_60_tr_1_tl_5" n="N005"/>ekedividualized self, and to bevelop, on this basis, those characterUis wch we.attibute to a
+               <lb facs="#facs_60_tr_1_tl_6" n="N006"/>personality—a character, a special direction of life, special insight, special experiences, which make
+               <lb facs="#facs_60_tr_1_tl_7" n="N007"/>him a being who represents actually a human possibility whereby, on an individual basis, universal
+               <lb facs="#facs_60_tr_1_tl_8" n="N008"/>manings are embodied, incarnated, impregnated and actualized. The phrase would be "He is a
+               <lb facs="#facs_60_tr_1_tl_9" n="N009"/>personality." But of another man we would say "He is no personality. "certainly he is a person¬
+               <lb facs="#facs_60_tr_1_tl_10" n="N010"/>I cannot kill him as I can an animal. But he is not a personality. On the basis of his personal
+               <lb facs="#facs_60_tr_1_tl_11" n="N011"/>potentalities, he has nothing developed which makes him a real personality, a concentratea will,
+               <lb facs="#facs_60_tr_1_tl_12" n="N012"/>an educational form, a participation in universals, in thought and action. That’s what I would call a
+            </p>
+            <p facs="#facs_60_tr_3">
+               <lb facs="#facs_60_tr_3_tl_1" n="N001"/>personality. — This is the IDEA of personality.
+               <lb facs="#facs_60_tr_3_tl_2" n="N002"/>Ont of this the IDEAL of personality has developed, in consequence of Reformation and
+               <lb facs="#facs_60_tr_3_tl_3" n="N003"/>of Renaissance, andJSPECIALLY in consequence of Calvinist Reformation, much more than the
+               <lb facs="#facs_60_tr_3_tl_4" n="N004"/>de cette
+               <lb facs="#facs_60_tr_3_tl_5" n="N005"/>dʼune manière beaucoup
+               <lb facs="#facs_60_tr_3_tl_6" n="N006"/>de mon ami
+               <lb facs="#facs_60_tr_3_tl_7" n="N007"/>dʼune manière beaucoup
+               <lb facs="#facs_60_tr_3_tl_8" n="N008"/>de Votre
+               <lb facs="#facs_60_tr_3_tl_9" n="N009"/>a-t-elle
+               <lb facs="#facs_60_tr_3_tl_10" n="N010"/>de ses
+            </p>
+            <p facs="#facs_60_tr_4">
+               <lb facs="#facs_60_tr_4_tl_1" n="N001"/>Mn
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

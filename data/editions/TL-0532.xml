@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XL (Nr. 0532)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p058</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-27">1956-03-27</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_58">
+         <graphic url="TL-0532.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=EWOYNFEETNMDAPGKLJRFSRGX&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="229,9 2283,9 2283,816 229,816" rendition="TextRegion" xml:id="facs_58_tr_3">
+            <zone points="1073,327 1086,327 1100,341 1179,341 1186,334 1199,334 1199,268 1172,273 1145,270 1135,280 1118,278 1108,285 1073,285" rendition="Line" xml:id="facs_58_tr_3_tl_2"/>
+            <zone points="631,516 717,454 1032,440 2277,469 2277,400 631,383" rendition="Line" xml:id="facs_58_tr_3_tl_3" subtype="paragraph"/>
+            <zone points="373,562 1125,575 1125,523 1100,521 373,533" rendition="Line" xml:id="facs_58_tr_3_tl_4"/>
+            <zone points="383,695 2213,700 2139,636 383,646" rendition="Line" xml:id="facs_58_tr_3_tl_6"/>
+            <zone points="373,801 2220,867 2193,695 1980,766 371,761" rendition="Line" xml:id="facs_58_tr_3_tl_7"/>
+         </zone>
+         <zone points="370,860 2334,860 2334,2099 370,2099" rendition="TextRegion" xml:id="facs_58_tr_2">
+            <zone points="368,916 2270,933 2270,887 1906,870 368,882" rendition="Line" xml:id="facs_58_tr_2_tl_1"/>
+            <zone points="378,1032 2331,1054 2240,992 378,980" rendition="Line" xml:id="facs_58_tr_2_tl_2"/>
+            <zone points="371,1150 2225,1164 2243,1123 368,1105" rendition="Line" xml:id="facs_58_tr_2_tl_3"/>
+            <zone points="371,1270 2235,1277 2085,1218 368,1223" rendition="Line" xml:id="facs_58_tr_2_tl_4"/>
+            <zone points="364,1385 2216,1405 2171,1339 364,1344" rendition="Line" xml:id="facs_58_tr_2_tl_5"/>
+            <zone points="364,1498 2166,1508 2117,1452 364,1457" rendition="Line" xml:id="facs_58_tr_2_tl_6"/>
+            <zone points="359,1616 2142,1633 2139,1574 359,1577" rendition="Line" xml:id="facs_58_tr_2_tl_7"/>
+            <zone points="359,1732 2125,1749 2100,1692 359,1692" rendition="Line" xml:id="facs_58_tr_2_tl_8"/>
+            <zone points="368,1872 2262,1859 2193,1803 368,1815" rendition="Line" xml:id="facs_58_tr_2_tl_9"/>
+            <zone points="359,1997 1886,2019 2267,1982 2267,1926 359,1928" rendition="Line" xml:id="facs_58_tr_2_tl_10"/>
+            <zone points="356,2090 2331,2098 2331,2041 356,2034" rendition="Line" xml:id="facs_58_tr_2_tl_11"/>
+         </zone>
+         <zone points="83,2150 2328,2150 2328,3485 83,3485" rendition="TextRegion" xml:id="facs_58_tr_1">
+            <zone points="344,2201 2228,2220 2142,2159 344,2166" rendition="Line" xml:id="facs_58_tr_1_tl_1"/>
+            <zone points="344,2319 1732,2336 1732,2287 1665,2274 344,2297" rendition="Line" xml:id="facs_58_tr_1_tl_2"/>
+            <zone points="604,2449 2213,2459 2213,2400 2110,2395 604,2383" rendition="Line" xml:id="facs_58_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="339,2552 2216,2564 2216,2520 1955,2508 339,2532" rendition="Line" xml:id="facs_58_tr_1_tl_4"/>
+            <zone points="339,2672 2080,2685 2014,2621 339,2633" rendition="Line" xml:id="facs_58_tr_1_tl_5"/>
+            <zone points="585,2790 1592,2795 1658,2849 2203,2812 2203,2751 2107,2741 585,2756" rendition="Line" xml:id="facs_58_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="1285,2913 2321,2916 2321,2854 1285,2857" rendition="Line" xml:id="facs_58_tr_1_tl_8"/>
+            <zone points="341,3031 413,3078 2247,3075 2213,2975 341,2965" rendition="Line" xml:id="facs_58_tr_1_tl_9"/>
+            <zone points="332,3139 2093,3159 2093,3097 332,3105" rendition="Line" xml:id="facs_58_tr_1_tl_10"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0532.jpg" n="part4_p058.jpg" xml:id="img_0058" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p058.jpg"/>
+            
+            <p facs="#facs_58_tr_3">
+               <lb facs="#facs_58_tr_3_tl_2" n="N001"/>[527]
+               <lb facs="#facs_58_tr_3_tl_3" n="N002"/>When you speak of "natural law," then the modern man, Western man, immediately
+               <lb facs="#facs_58_tr_3_tl_4" n="N003"/>thinks of chemical laws, or of laws of subatomic physics. Then if we read books of the
+               <lb facs="#facs_58_tr_3_tl_6" n="N004"/>past and hear church history, or history of Greek philosophy or of Medieval philosophy, then
+               <lb facs="#facs_58_tr_3_tl_7" n="N005"/>he finds that the word "natural law" has a quite different meaning. Natural law is the rational
+            </p>
+            <p facs="#facs_58_tr_2">
+               <lb facs="#facs_58_tr_2_tl_1" n="N001"/>law of the human mind, which is not identical with but made working by the human conscience.
+               <lb facs="#facs_58_tr_2_tl_2" n="N002"/>The rational principle of the good and the righteous are the principles of the natural law. So please,
+               <lb facs="#facs_58_tr_2_tl_3" n="N003"/>in order to avoid confusion, avoid the confusion between PHYSICAL law and RATIONAL law.
+               <lb facs="#facs_58_tr_2_tl_4" n="N004"/>The word "natural law" covers both of them. Ask yourself always: does this man speak about
+               <lb facs="#facs_58_tr_2_tl_5" n="N005"/>the rational law of ethics, or does he speak about the physical law of physics. The reason why
+               <lb facs="#facs_58_tr_2_tl_6" n="N006"/>both of these realms have the same name is the Stoic doctrine of the <hi style="font-style: italic;">logos</hi>, meaning the
+               <lb facs="#facs_58_tr_2_tl_7" n="N007"/>universal creative principle which has the character of the "word," and the "word" grasps,
+               <lb facs="#facs_58_tr_2_tl_8" n="N008"/>REASONABLY, the structure of reality, according to Greek thinking. So the logos is the
+               <lb facs="#facs_58_tr_2_tl_9" n="N009"/>power of universal nationality in the world as a whole. We are formed by the logos and therefore
+               <lb facs="#facs_58_tr_2_tl_10" n="N010"/>we have natural law in the sense of RATIONAL law, of the law of ethics---and also the law of
+               <lb facs="#facs_58_tr_2_tl_11" n="N011"/>logic belongs to this realm. Then on the other hand, NATURE is formed by the SAME logos which
+            </p>
+            <p facs="#facs_58_tr_1">
+               <lb facs="#facs_58_tr_1_tl_1" n="N001"/>makes knowledge possible; and this same logos is responsible for the physical laws, for the laws
+               <lb facs="#facs_58_tr_1_tl_2" n="N002"/>of nature, according to which the structure of reality is kept together.
+               <lb facs="#facs_58_tr_1_tl_3" n="N003"/>We speak here in this connection about the rational law of ethics. And the theory
+               <lb facs="#facs_58_tr_1_tl_4" n="N004"/>of natural law, to which I refer and which plays such an important practical role in our present
+               <lb facs="#facs_58_tr_1_tl_5" n="N005"/>ethical discussions in this country, is the law of reason with respect to the ethical realm.
+               <lb facs="#facs_58_tr_1_tl_6" n="N006"/>Now if this definition is understood, then we can ask: how do we become aware
+               <lb facs="#facs_58_tr_1_tl_8" n="N007"/>of this natural law? Classical Roman Catholic theology has distinguished
+               <lb facs="#facs_58_tr_1_tl_9" n="N008"/>between an immediate awareness of the principles of natural law, which they called <hi style="font-style: italic;">syntheresis</hi>,
+               <lb facs="#facs_58_tr_1_tl_10" n="N009"/>in the Middle Ages, a word which is hard to explain---it might be a distorted Greek word.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXIX (Nr. 0519)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p045</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-22">1956-03-22</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_45">
+         <graphic url="TL-0519.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KZFICEHJWTFRERSDMIXUBYDT&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="35,33 2364,33 2364,1377 35,1377" rendition="TextRegion" xml:id="facs_45_tr_1">
+            <zone points="1147,369 1161,369 1174,382 1187,382 1200,374 1205,379 1215,376 1226,384 1236,376 1247,379 1270,374 1268,319 1228,321 1221,316 1208,329 1197,329 1189,321 1184,327 1145,327" rendition="Line" xml:id="facs_45_tr_1_tl_2"/>
+            <zone points="267,465 361,518 674,481 1312,544 1469,463 2245,476 2245,392 1503,426 1281,353 1119,426 267,423" rendition="Line" xml:id="facs_45_tr_1_tl_3"/>
+            <zone points="1043,604 1166,638 2311,622 2311,565 1181,549 1043,580" rendition="Line" xml:id="facs_45_tr_1_tl_4"/>
+            <zone points="259,805 1187,766 1375,868 2054,797 2305,836 2360,640 2240,721 1566,617 1286,716 259,732" rendition="Line" xml:id="facs_45_tr_1_tl_6"/>
+            <zone points="256,941 2279,925 2279,870 256,889" rendition="Line" xml:id="facs_45_tr_1_tl_7"/>
+            <zone points="259,1066 944,1077 996,1072 996,1019 567,1009 518,1040 484,1009 327,1012 259,1038" rendition="Line" xml:id="facs_45_tr_1_tl_8"/>
+            <zone points="457,1210 2258,1231 2258,1161 457,1158" rendition="Line" xml:id="facs_45_tr_1_tl_9" subtype="paragraph"/>
+            <zone points="248,1385 319,1443 1027,1430 1218,1370 2271,1422 2219,1304 248,1336" rendition="Line" xml:id="facs_45_tr_1_tl_10"/>
+         </zone>
+         <zone points="250,1463 2316,1463 2316,2583 250,2583" rendition="TextRegion" xml:id="facs_45_tr_3">
+            <zone points="251,1519 335,1571 815,1571 980,1521 2287,1534 2313,1479 251,1490" rendition="Line" xml:id="facs_45_tr_3_tl_1"/>
+            <zone points="240,1668 2120,1686 2120,1626 1707,1613 240,1644" rendition="Line" xml:id="facs_45_tr_3_tl_2"/>
+            <zone points="248,1824 2070,1835 2143,1772 248,1775" rendition="Line" xml:id="facs_45_tr_3_tl_3"/>
+            <zone points="248,1976 2107,2010 2107,1924 2057,1921 248,1939" rendition="Line" xml:id="facs_45_tr_3_tl_4"/>
+            <zone points="246,2120 2243,2133 2206,2062 246,2081" rendition="Line" xml:id="facs_45_tr_3_tl_5"/>
+            <zone points="235,2266 1950,2308 2135,2274 2135,2211 235,2227" rendition="Line" xml:id="facs_45_tr_3_tl_6"/>
+            <zone points="235,2418 2120,2431 2146,2376 235,2392" rendition="Line" xml:id="facs_45_tr_3_tl_7"/>
+            <zone points="240,2575 1911,2590 2188,2577 2188,2525 240,2546" rendition="Line" xml:id="facs_45_tr_3_tl_8"/>
+         </zone>
+         <zone points="47,2663 2248,2663 2248,3485 47,3485" rendition="TextRegion" xml:id="facs_45_tr_2">
+            <zone points="235,2724 1751,2784 1856,2724 2237,2731 2237,2676 235,2700" rendition="Line" xml:id="facs_45_tr_2_tl_1"/>
+            <zone points="230,2906 2073,2886 2182,2878 2182,2823 230,2831" rendition="Line" xml:id="facs_45_tr_2_tl_2"/>
+            <zone points="230,3035 2243,3021 2096,2969 230,2990" rendition="Line" xml:id="facs_45_tr_2_tl_3"/>
+            <zone points="220,3178 2107,3184 2169,3129 220,3155" rendition="Line" xml:id="facs_45_tr_2_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0519.jpg" n="part4_p045.jpg" xml:id="img_0045" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p045.jpg"/>
+            
+            <p facs="#facs_45_tr_1">
+               <lb facs="#facs_45_tr_1_tl_2" n="N001"/>[514]
+               <lb facs="#facs_45_tr_1_tl_3" n="N002"/>of "ought to be," in contrast to the element of "is-ness." So we must ask: why is there such a thing
+               <lb facs="#facs_45_tr_1_tl_4" n="N003"/>as ought-to-be at all? This is the first and fundamental question: what does this ought-to-be
+               <lb facs="#facs_45_tr_1_tl_6" n="N004"/>actually mean? There are a lot of theories about it, but I want to develop my own because it is not
+               <lb facs="#facs_45_tr_1_tl_7" n="N005"/>the function here to discuss ethics as such, but in ALL these discussions we have had, we discussed the
+               <lb facs="#facs_45_tr_1_tl_8" n="N006"/>relationship of RELIGION to ethics.
+               <lb facs="#facs_45_tr_1_tl_9" n="N007"/>The basis for the problem of ought-to-be, for the moral imperative, as I want to call it now,
+               <lb facs="#facs_45_tr_1_tl_10" n="N008"/>following Kant's "categorical imperative," is the distinction of man's essential being and his possibility
+            </p>
+            <p facs="#facs_45_tr_3">
+               <lb facs="#facs_45_tr_3_tl_1" n="N001"/>of contradicting his essential being. This seems to me the fundamental element out of which everything
+               <lb facs="#facs_45_tr_3_tl_2" n="N002"/>follows. This means: man, insofar as he is what he is essentially, or, in religious language,
+               <lb facs="#facs_45_tr_3_tl_3" n="N003"/>by creation, has no "ought" above himself. He is what he is. You remember---and those of you
+               <lb facs="#facs_45_tr_3_tl_4" n="N004"/>who know my theological lectures or books know that I sometimes speak of man's "dreaming
+               <lb facs="#facs_45_tr_3_tl_5" n="N005"/>innocence," of the state in which he has not yet actualized his freedom. In this state he is what he is,
+               <lb facs="#facs_45_tr_3_tl_6" n="N006"/>but only in terms of potentiality. Adam in Paradise before the Fall, or the Golden Age, in other
+               <lb facs="#facs_45_tr_3_tl_7" n="N007"/>classical myths of all nations, is not a real state which once upon a time has happened and about
+               <lb facs="#facs_45_tr_3_tl_8" n="N008"/>which we could have information, but it is man's potentiality, his essential structure, he is what he
+            </p>
+            <p facs="#facs_45_tr_2">
+               <lb facs="#facs_45_tr_2_tl_1" n="N001"/>essentially is, but he is it only potentially and not actually. His goodness is the goodness of not being
+               <lb facs="#facs_45_tr_2_tl_2" n="N002"/>awakened, of not being actualized, as the goodness of the child who is not yet awakened to special
+               <lb facs="#facs_45_tr_2_tl_3" n="N003"/>problems of life and is innocent OF THEM---he is not innocent of others, but he is innocent of them---
+               <lb facs="#facs_45_tr_2_tl_4" n="N004"/>he is not yet awakened for instance to his sexual potentialities, but once upon a time he WILL be
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

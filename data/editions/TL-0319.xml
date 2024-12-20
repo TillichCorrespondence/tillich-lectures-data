@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_35">
          <graphic url="TL-0319.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=MECUKSMYUBTFGHPANTBKDOMR&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MECUKSMYUBTFGHPANTBKDOMR&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="319,269 2358,269 2358,2007 319,2007" rendition="TextRegion" xml:id="facs_35_tr_2">
             <zone points="1174,321 1192,323 1209,336 1227,336 1232,331 1243,336 1276,336 1288,326 1301,326 1301,257 1273,262 1258,257 1245,270 1232,270 1222,260 1209,272 1174,272" rendition="Line" xml:id="facs_35_tr_2_tl_1"/>
             <zone points="311,491 2009,486 2027,430 311,448" rendition="Line" xml:id="facs_35_tr_2_tl_2"/>
@@ -101,23 +101,23 @@
             <p facs="#facs_35_tr_2">
                <lb facs="#facs_35_tr_2_tl_1" n="N001"/>[315]
                <lb facs="#facs_35_tr_2_tl_2" n="N002"/>images produced by them in our mind, are symbols for a special encounter with reality.
-               <lb facs="#facs_35_tr_2_tl_3" n="N003"/>The third is symbols in drama and novel. Here it is the concentration of figures.
+               <lb facs="#facs_35_tr_2_tl_3" n="N003"/>The third is <rs type="keyword" ref="#Symbols">symbols</rs> in drama and novel. Here it is the concentration of figures.
                <lb facs="#facs_35_tr_2_tl_4" n="N004"/>Take two of them, the one which all of you know and the other, many of you. The one is
-               <lb facs="#facs_35_tr_2_tl_5" n="N005"/><hi style="font-style: italic;">Hamlet</hi> by Shakespeare, which is a symbol in the genuine sense of artistic symbol. He is
+               <lb facs="#facs_35_tr_2_tl_5" n="N005"/><hi style="font-style: italic;">Hamlet</hi> by <rs type="person" ref="#tillich_person_id__1775">Shakespeare</rs>, which is a symbol in the genuine sense of artistic symbol. He is
                <lb facs="#facs_35_tr_2_tl_6" n="N006"/>described as an individual human being who does these things and those things---he can be
                <lb facs="#facs_35_tr_2_tl_7" n="N007"/>psychologized and sociologized, and perhaps even biologized <hi style="font-style: italic;">[some laughter]</hi>---you can do all
                <lb facs="#facs_35_tr_2_tl_8" n="N008"/>this with him. But beyond all this, he points to a level of reality in which we can only participate
                <lb facs="#facs_35_tr_2_tl_9" n="N009"/>THROUGH HIM. And perhaps this was my very first experience in my life, of art---REAL experience---
-               <lb facs="#facs_35_tr_2_tl_10" n="N010"/>when I experienced Hamlet as a reality which transcends ANY empirical reality in which
-               <lb facs="#facs_35_tr_2_tl_11" n="N011"/>I lived, a reality in whom one can participate. And this PARTICIPATION in Hamlet was one of
+               <lb facs="#facs_35_tr_2_tl_10" n="N010"/>when I experienced <rs type="person" ref="#tillich_person_id__2986">Hamlet</rs> as a reality which transcends ANY empirical reality in which
+               <lb facs="#facs_35_tr_2_tl_11" n="N011"/>I lived, a reality in whom one can participate. And this PARTICIPATION in <rs type="person" ref="#tillich_person_id__2986">Hamlet</rs> was one of
                <lb facs="#facs_35_tr_2_tl_12" n="N012"/>the most important encounters with reality I ever had in my life. Now not this individual young
             </p>
             <p facs="#facs_35_tr_1">
                <lb facs="#facs_35_tr_1_tl_1" n="N001"/>man who doesn't know what he shall do and finally succumbs to this indecision, but that for
                <lb facs="#facs_35_tr_1_tl_2" n="N002"/>what he stands, all the realities of life which we encounter in encountering him, in which we
                <lb facs="#facs_35_tr_1_tl_3" n="N003"/>participate in a new and revelatory way when we participate in him.
-               <lb facs="#facs_35_tr_1_tl_4" n="N004"/>Another, Mr. "K" in Kafka's <hi style="font-style: italic;">Trial</hi>, or <hi style="font-style: italic;">Castle</hi>. "K" stands for Kafka, of course,
-               <lb facs="#facs_35_tr_1_tl_5" n="N005"/>but it is not the individual novelist Kafka who has written these two great novels, which I
+               <lb facs="#facs_35_tr_1_tl_4" n="N004"/>Another, Mr. "K" in <rs type="person" ref="#tillich_person_id__1008">Kafka</rs>'s <hi style="font-style: italic;">Trial</hi>, or <hi style="font-style: italic;">Castle</hi>. "K" stands for <rs type="person" ref="#tillich_person_id__1008">Kafka</rs>, of course,
+               <lb facs="#facs_35_tr_1_tl_5" n="N005"/>but it is not the individual novelist <rs type="person" ref="#tillich_person_id__1008">Kafka</rs> who has written these two great novels, which I
                <lb facs="#facs_35_tr_1_tl_6" n="N006"/>recommend more than anything else in novelistic literature to read, if you want to understand
                <lb facs="#facs_35_tr_1_tl_9" n="N007"/>your own deeper levels of life. This man who in <hi style="font-style: italic;">The Castle</hi> tries to reach the sources of meaning
             </p>

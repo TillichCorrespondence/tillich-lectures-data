@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_184">
          <graphic url="TL-0184.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=BLUQTQUZKQGMDFGHIEIKYCLC&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=BLUQTQUZKQGMDFGHIEIKYCLC&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="56,214 56,3475 2337,3475 2337,214" rendition="TextRegion" xml:id="facs_184_tr_1">
             <zone points="1192,258 1205,256 1230,271 1280,273 1283,268 1318,268 1315,205 1290,205 1278,220 1268,220 1255,208 1237,208 1222,223 1192,225" rendition="Line" xml:id="facs_184_tr_1_tl_1"/>
             <zone points="336,421 1185,421 1185,368 1147,366 336,381" rendition="Line" xml:id="facs_184_tr_1_tl_2"/>
@@ -94,15 +94,14 @@
                <lb facs="#facs_184_tr_1_tl_2" n="N002"/>of your existence implicitly and explicitly.
                <lb facs="#facs_184_tr_1_tl_3" n="N003"/>===
                <lb facs="#facs_184_l" n="N004"/>(
-               <lb facs="#facs_184_tr_1_tl_4" n="N005"/><hi style="font-style: italic;">[After the lecture, in conversation with student, Edwin Knopf:]</hi>
-               <lb facs="#facs_184_tr_1_tl_5" n="N006"/><hi style="font-style: italic;">–conceming the question about the existence, etc., of Christ--</hi>
+               <lb facs="#facs_184_tr_1_tl_4" n="N005"/><hi style="font-style: italic;">[After the lecture, in conversation with student, <rs type="person">Edwin Knopf</rs>:]</hi>
+               <lb facs="#facs_184_tr_1_tl_5" n="N006"/><hi style="font-style: italic;">–concerning the question about the existence, etc., of Christ--</hi>
                <lb facs="#facs_184_tr_1_tl_6" n="N007"/>The transformation of personal reality can only happen in personal reality. ...
                <lb facs="#facs_184_tr_1_tl_7" n="N008"/>QN: What difference does it make whether or not He was forced and unwilling to sacrifice....?
                <lb facs="#facs_184_tr_1_tl_8" n="N009"/>PT: Then nothing was changed, because we all are unwilling. And He also was unwilling, and finally
                <lb facs="#facs_184_tr_1_tl_9" n="N010"/>accepted. What would be the difference for personal life if somebody was murdered? That is nothing.
                <lb facs="#facs_184_tr_1_tl_10" n="N011"/>The very fact of being murdered is nothing... The decisive thing is the personal transformation.
-               <lb facs="#facs_184_tr_1_tl_11" n="N012"/>This personal transformation is possible only in a personal acceptance of the sacrifice of finitude.---
-
+               <lb facs="#facs_184_tr_1_tl_11" n="N012"/>This personal transformation is possible only in a personal acceptance of the sacrifice of <rs type="keyword" ref="#Finitude">finitude.</rs>---
             </p>
             
         </div>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVII (Nr. 0496)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p022</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-15">1956-03-15</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_22">
+         <graphic url="TL-0496.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LIFSQLUMIBAWFMOSGMKJLPEZ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="343,281 2260,281 2260,968 343,968" rendition="TextRegion" xml:id="facs_22_tr_3">
+            <zone points="1076,341 1176,348 1183,341 1195,339 1195,273 1178,278 1146,273 1132,288 1120,283 1108,295 1076,295" rendition="Line" xml:id="facs_22_tr_3_tl_1"/>
+            <zone points="327,508 2187,479 2254,469 2257,377 2184,435 1824,399 329,472" rendition="Line" xml:id="facs_22_tr_3_tl_2"/>
+            <zone points="385,660 1705,646 1872,634 1872,583 387,610" rendition="Line" xml:id="facs_22_tr_3_tl_3"/>
+            <zone points="334,818 2182,791 2196,733 336,764" rendition="Line" xml:id="facs_22_tr_3_tl_4"/>
+            <zone points="329,955 2160,934 2160,883 329,934" rendition="Line" xml:id="facs_22_tr_3_tl_5"/>
+         </zone>
+         <zone points="44,1024 2260,1024 2260,2171 44,2171" rendition="TextRegion" xml:id="facs_22_tr_2">
+            <zone points="334,1120 2233,1093 2233,1035 336,1072" rendition="Line" xml:id="facs_22_tr_2_tl_1"/>
+            <zone points="329,1258 2073,1246 2090,1188 329,1217" rendition="Line" xml:id="facs_22_tr_2_tl_2"/>
+            <zone points="336,1420 542,1478 1338,1442 1388,1393 2039,1398 2039,1338 336,1369" rendition="Line" xml:id="facs_22_tr_2_tl_3"/>
+            <zone points="329,1555 1974,1541 2104,1533 2107,1485 329,1531" rendition="Line" xml:id="facs_22_tr_2_tl_5"/>
+            <zone points="336,1725 1937,1698 2116,1686 2116,1635 339,1674" rendition="Line" xml:id="facs_22_tr_2_tl_6"/>
+            <zone points="329,1862 1248,1891 2095,1836 2095,1787 331,1816" rendition="Line" xml:id="facs_22_tr_2_tl_7"/>
+            <zone points="334,2010 1756,2044 2177,2020 2254,1995 2254,1923 334,1969" rendition="Line" xml:id="facs_22_tr_2_tl_8"/>
+            <zone points="334,2162 457,2213 2174,2179 2203,2087 334,2121" rendition="Line" xml:id="facs_22_tr_2_tl_9"/>
+         </zone>
+         <zone points="29,2227 2292,2227 2292,3488 29,3488" rendition="TextRegion" xml:id="facs_22_tr_1">
+            <zone points="336,2315 2165,2341 2167,2240 336,2274" rendition="Line" xml:id="facs_22_tr_1_tl_1"/>
+            <zone points="346,2477 2133,2448 2160,2390 346,2421" rendition="Line" xml:id="facs_22_tr_1_tl_2"/>
+            <zone points="518,2612 1974,2605 2196,2588 2199,2537 518,2588" rendition="Line" xml:id="facs_22_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="334,2762 1754,2757 1771,2694 334,2738" rendition="Line" xml:id="facs_22_tr_1_tl_4"/>
+            <zone points="346,2917 2145,2893 2286,2886 2286,2830 348,2871" rendition="Line" xml:id="facs_22_tr_1_tl_5"/>
+            <zone points="339,3067 2109,3052 2133,2987 339,3023" rendition="Line" xml:id="facs_22_tr_1_tl_6"/>
+            <zone points="339,3229 1323,3280 1976,3246 1974,3193 336,3176" rendition="Line" xml:id="facs_22_tr_1_tl_7"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0496.jpg" n="part4_p022.jpg" xml:id="img_0022" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p022.jpg"/>
+            
+            <p facs="#facs_22_tr_3">
+               <lb facs="#facs_22_tr_3_tl_1" n="N001"/>[491]
+               <lb facs="#facs_22_tr_3_tl_2" n="N002"/>the dimension which is the ULTIMATE dimension. Of course this is not ALONE the function of
+               <lb facs="#facs_22_tr_3_tl_3" n="N003"/>the <rs type="keyword" ref="#Theological_faculty">theological faculty</rs>; it must be done in ALL of them, according to their
+               <lb facs="#facs_22_tr_3_tl_4" n="N004"/>interpenetration. But in the theological faculty, this is JUST the intention, JUST the meaning
+               <lb facs="#facs_22_tr_3_tl_5" n="N005"/>of it, to show purified interpretations of the traditional symbols, those which come from the
+            </p>
+            <p facs="#facs_22_tr_2">
+               <lb facs="#facs_22_tr_2_tl_1" n="N001"/>past, and those which are in a process of developing for the future. In exercising THIS function,
+               <lb facs="#facs_22_tr_2_tl_2" n="N002"/>the theological faculty REPRESENTS something which underlies the WHOLE <rs type="keyword" ref="#University">university</rs>,
+               <lb facs="#facs_22_tr_2_tl_3" n="N003"/>namely the dimension of man's <ultimate_concern>ultimate concern</ultimate_concern>, and the truth of the symbols in this,
+               <lb facs="#facs_22_tr_2_tl_5" n="N004"/>ultimate concern. Of course, in the theological faculty, the other dimensions of truth are
+               <lb facs="#facs_22_tr_2_tl_6" n="N005"/>present---the historical and psychological and sociological and certainly philosophical work
+               <lb facs="#facs_22_tr_2_tl_7" n="N006"/>has to be done CAREFULLY, with respect to religion. But this is not the only function.
+               <lb facs="#facs_22_tr_2_tl_8" n="N007"/>There is the third dimension of truth. And I believe that the HIGHEST, and most IMPORTANT,
+               <lb facs="#facs_22_tr_2_tl_9" n="N008"/>function of the theological faculty is neither the fact that religion is dealt with there, NOT the
+            </p>
+            <p facs="#facs_22_tr_1">
+               <lb facs="#facs_22_tr_1_tl_1" n="N001"/>fact that ministers are trained there, but the fact that there, is a place in which the university
+               <lb facs="#facs_22_tr_1_tl_2" n="N002"/>expresses its own foundation in an ultimate concern, in symbols, which certainly are not
+               <lb facs="#facs_22_tr_1_tl_3" n="N003"/>acknowledged, in our period, by all members of the university, neither by professors
+               <lb facs="#facs_22_tr_1_tl_4" n="N004"/>nor by students, but which POINT, by their very nature, TO something
+               <lb facs="#facs_22_tr_1_tl_5" n="N005"/>WITHOUT which the life of the university would finally lose a point of orientation. The symbols
+               <lb facs="#facs_22_tr_1_tl_6" n="N006"/>may change, but what the theological faculty is able to maintain is the necessity, for every
+               <lb facs="#facs_22_tr_1_tl_7" n="N007"/>human being and every group and every function, of symbols of ultimate concern.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

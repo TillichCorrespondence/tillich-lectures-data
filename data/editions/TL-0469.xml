@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVI (Nr. 0469)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p077</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-13">1956-03-13</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_77">
+         <graphic url="TL-0469.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LPSOGFZEJLKTDIOASDARWQWA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="47,12 2400,12 2400,959 47,959" rendition="TextRegion" xml:id="facs_77_tr_3">
+            <zone points="375,66 394,68 412,84 430,87 454,81 462,81 467,87 491,84 475,0 360,0" rendition="Line" xml:id="facs_77_tr_3_tl_1"/>
+            <zone points="32,81 74,84 92,68 108,84 186,84 186,0 32,0" rendition="Line" xml:id="facs_77_tr_3_tl_2"/>
+            <zone points="1152,352 1184,357 1250,357 1263,349 1276,349 1270,273 1239,278 1218,302 1150,304" rendition="Line" xml:id="facs_77_tr_3_tl_3"/>
+            <zone points="297,501 2239,507 2239,457 2037,436 1530,465 1399,370 1302,465 297,462" rendition="Line" xml:id="facs_77_tr_3_tl_4"/>
+            <zone points="299,664 2271,662 2271,609 299,620" rendition="Line" xml:id="facs_77_tr_3_tl_5"/>
+            <zone points="291,793 2394,814 2394,759 1911,743 291,751" rendition="Line" xml:id="facs_77_tr_3_tl_6"/>
+            <zone points="420,948 2210,958 2210,900 420,921" rendition="Line" xml:id="facs_77_tr_3_tl_7"/>
+         </zone>
+         <zone points="280,1045 2388,1045 2388,2547 280,2547" rendition="TextRegion" xml:id="facs_77_tr_1">
+            <zone points="297,1116 2226,1110 2226,1058 297,1063" rendition="Line" xml:id="facs_77_tr_1_tl_1"/>
+            <zone points="286,1255 2265,1268 2221,1200 286,1205" rendition="Line" xml:id="facs_77_tr_1_tl_2"/>
+            <zone points="286,1412 2200,1415 2200,1354 286,1378" rendition="Line" xml:id="facs_77_tr_1_tl_3"/>
+            <zone points="284,1559 2210,1564 2210,1496 284,1517" rendition="Line" xml:id="facs_77_tr_1_tl_4"/>
+            <zone points="278,1701 541,1764 2234,1754 2179,1656 278,1675" rendition="Line" xml:id="facs_77_tr_1_tl_5"/>
+            <zone points="270,1856 2021,1869 2055,1801 270,1832" rendition="Line" xml:id="facs_77_tr_1_tl_6"/>
+            <zone points="276,2006 2381,2024 2328,1956 276,1964" rendition="Line" xml:id="facs_77_tr_1_tl_7"/>
+            <zone points="276,2087 2202,2095 2163,2034 276,2034" rendition="Line" xml:id="facs_77_tr_1_tl_8"/>
+            <zone points="270,2236 2226,2252 2168,2176 270,2205" rendition="Line" xml:id="facs_77_tr_1_tl_9"/>
+            <zone points="276,2391 2034,2397 2132,2389 2132,2328 276,2334" rendition="Line" xml:id="facs_77_tr_1_tl_10"/>
+            <zone points="265,2533 2008,2565 2118,2541 2118,2488 265,2510" rendition="Line" xml:id="facs_77_tr_1_tl_11"/>
+         </zone>
+         <zone points="41,2625 2251,2625 2251,3485 41,3485" rendition="TextRegion" xml:id="facs_77_tr_2">
+            <zone points="265,2701 2145,2693 2168,2633 265,2649" rendition="Line" xml:id="facs_77_tr_2_tl_1"/>
+            <zone points="265,2843 2000,2853 2068,2788 265,2814" rendition="Line" xml:id="facs_77_tr_2_tl_2"/>
+            <zone points="262,2990 2189,3006 2221,2927 265,2961" rendition="Line" xml:id="facs_77_tr_2_tl_3"/>
+            <zone points="260,3142 2137,3153 2244,3145 2244,3092 260,3116" rendition="Line" xml:id="facs_77_tr_2_tl_4"/>
+            <zone points="706,3428 795,3405 877,3428 927,3478 1176,3473 1179,3305 709,3305" rendition="Line" xml:id="facs_77_tr_2_tl_5"/>
+            <zone points="1292,3420 1436,3412 1486,3431 1572,3405 1672,3478 1785,3420 1869,3434 1906,3423 1903,3260 1289,3268" rendition="Line" xml:id="facs_77_tr_2_tl_6"/>
+            <zone points="79,3439 92,3436 102,3439 110,3428 121,3431 123,3423 139,3431 168,3426 152,3336 150,3339 134,3336 129,3344 100,3334 63,3342" rendition="Line" xml:id="facs_77_tr_2_tl_7"/>
+            <zone points="368,3447 386,3444 396,3449 452,3431 459,3434 486,3415 496,3426 514,3428 514,3339 499,3342 486,3336 470,3344 449,3344 441,3336 417,3355 368,3357" rendition="Line" xml:id="facs_77_tr_2_tl_8"/>
+            <zone points="1320,3441 1368,3447 1376,3434 1420,3441 1452,3468 1475,3462 1483,3452 1512,3449 1509,3428 1473,3431 1460,3420 1452,3423 1436,3412 1410,3407 1381,3407 1365,3415 1334,3407 1318,3412" rendition="Line" xml:id="facs_77_tr_2_tl_9"/>
+            <zone points="751,3478 777,3476 785,3481 793,3473 814,3481 840,3478 845,3473 866,3478 869,3426 850,3426 840,3415 819,3431 808,3423 780,3426 766,3418 753,3418" rendition="Line" xml:id="facs_77_tr_2_tl_10"/>
+            <zone points="1774,3478 1790,3478 1801,3468 1811,3481 1840,3468 1851,3478 1872,3478 1895,3462 1919,3462 1924,3410 1911,3407 1893,3423 1882,3420 1869,3434 1858,3434 1835,3420 1819,3434 1811,3434 1793,3418 1777,3420" rendition="Line" xml:id="facs_77_tr_2_tl_11"/>
+            <zone points="365,3478 457,3489 517,3476 724,3476 727,3389 711,3389 677,3355 549,3357 457,3436 365,3447" rendition="Line" xml:id="facs_77_tr_2_tl_12"/>
+            <zone points="197,3481 218,3476 249,3481 312,3478 304,3355 291,3355 284,3363 276,3357 268,3363 260,3357 239,3384 202,3357 189,3357" rendition="Line" xml:id="facs_77_tr_2_tl_13"/>
+            <zone points="24,3483 45,3489 55,3481 68,3489 89,3481 92,3486 113,3489 123,3418 108,3418 100,3412 76,3423 63,3415 50,3420 34,3420" rendition="Line" xml:id="facs_77_tr_2_tl_14"/>
+            <zone points="1297,3476 1378,3481 1381,3478 1381,3447 1365,3447 1362,3444 1344,3447 1328,3431 1307,3423 1294,3423" rendition="Line" xml:id="facs_77_tr_2_tl_15"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0469.jpg" n="part3_p077.jpg" xml:id="img_0077" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p077.jpg"/>
+            
+            <p facs="#facs_77_tr_3">
+               <lb facs="#facs_77_tr_3_tl_1" n="N001"/>Monsieur
+               <lb facs="#facs_77_tr_3_tl_2" n="N002"/>dʼun autre
+               <lb facs="#facs_77_tr_3_tl_3" n="N003"/>464
+               <lb facs="#facs_77_tr_3_tl_4" n="N004"/>between the objectifying consideration of reality and the symbolic interpretation of reality has not
+               <lb facs="#facs_77_tr_3_tl_5" n="N005"/>yet appeared. And now it does appear—early in some cases, late in others. Now theontical moment
+               <lb facs="#facs_77_tr_3_tl_6" n="N006"/>for all religious education is at hand. Usually thisontical moment is strengthened by another consideration
+               <lb facs="#facs_77_tr_3_tl_7" n="N007"/>namely by the connection of the religious symbols with the moral conventions of the older
+            </p>
+            <p facs="#facs_77_tr_1">
+               <lb facs="#facs_77_tr_1_tl_1" n="N001"/>generation, and the rebellion of the younger generation against these conventions which now seem
+               <lb facs="#facs_77_tr_1_tl_2" n="N002"/>to be identical with the realm of the religious symbols. If this situation has arrived—often very early,
+               <lb facs="#facs_77_tr_1_tl_3" n="N003"/>sometimes very late; perhaps in theraverage, with the beginning of ldolescence—in this period the
+               <lb facs="#facs_77_tr_1_tl_4" n="N004"/>question arises: what can be done from the point of view of religious education? Here I must ask
+               <lb facs="#facs_77_tr_1_tl_5" n="N005"/>that already in the very first steps the literalism must be prevented from developing and from being
+               <lb facs="#facs_77_tr_1_tl_6" n="N006"/>fixed, otherwise theia period has the character of a catastrophe. If we want to avoid
+               <lb facs="#facs_77_tr_1_tl_7" n="N007"/>CATASTROPHIC raation, which is connected with much anciety—first of all in the younger human being
+               <lb facs="#facs_77_tr_1_tl_8" n="N008"/>but also in the parents and other educators—then we should show, in the way in which we tell the
+               <lb facs="#facs_77_tr_1_tl_9" n="N009"/>stories and use the symbols, that there is something in them which should prevent us from drawing
+               <lb facs="#facs_77_tr_1_tl_10" n="N010"/>them down to the level of the subject-object reality. If this is done—and it CAN be done, as it
+               <lb facs="#facs_77_tr_1_tl_11" n="N011"/>always could be done, with fairy tales and mythological stories—then the catastrophe is
+            </p>
+            <p facs="#facs_77_tr_2">
+               <lb facs="#facs_77_tr_2_tl_1" n="N001"/>great. If for instance in Sunday School—or in Europe, mostly, the schools generally—if the child
+               <lb facs="#facs_77_tr_2_tl_2" n="N002"/>asks, in the first beginning of his doubt, whether this can be true or not (a miracle story, or
+               <lb facs="#facs_77_tr_2_tl_3" n="N003"/>something like that) and theteacher says "You must believe!", now then he has ruined everything!
+               <lb facs="#facs_77_tr_2_tl_4" n="N004"/>And a similar situation is, of course, if the parents answer, "This is a matter of faith, and one cannot
+               <lb facs="#facs_77_tr_2_tl_5" n="N005"/>Votre très-hier.
+               <lb facs="#facs_77_tr_2_tl_6" n="N006"/>Monsieur Mounard, et Mlle
+               <lb facs="#facs_77_tr_2_tl_7" n="N007"/>dʼun autre
+               <lb facs="#facs_77_tr_2_tl_8" n="N008"/>Monsieur
+               <lb facs="#facs_77_tr_2_tl_9" n="N009"/>de votre beau et de
+               <lb facs="#facs_77_tr_2_tl_10" n="N010"/>Votre très
+               <lb facs="#facs_77_tr_2_tl_11" n="N011"/>Monsieur
+               <lb facs="#facs_77_tr_2_tl_12" n="N012"/>je mʼadresse à mon ami
+               <lb facs="#facs_77_tr_2_tl_13" n="N013"/>Vous avez
+               <lb facs="#facs_77_tr_2_tl_14" n="N014"/>devenu,
+               <lb facs="#facs_77_tr_2_tl_15" n="N015"/>dans le
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

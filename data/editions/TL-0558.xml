@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLII (Nr. 0558)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p084</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-17">1956-04-17</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_84">
+         <graphic url="TL-0558.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ADTWIICOFYWWAXERHDFCJUTM&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="32,30 2343,30 2343,968 32,968" rendition="TextRegion" xml:id="facs_84_tr_3">
+            <zone points="1063,343 1076,343 1094,356 1117,359 1138,359 1143,353 1153,353 1158,359 1182,356 1182,302 1143,304 1115,286 1094,307 1063,307" rendition="Line" xml:id="facs_84_tr_3_tl_2"/>
+            <zone points="472,511 2224,503 2224,441 748,464 663,382 472,470" rendition="Line" xml:id="facs_84_tr_3_tl_3" subtype="paragraph"/>
+            <zone points="266,663 2281,648 2343,578 266,632" rendition="Line" xml:id="facs_84_tr_3_tl_4"/>
+            <zone points="266,808 1891,805 2214,789 2214,738 268,782" rendition="Line" xml:id="facs_84_tr_3_tl_5"/>
+            <zone points="263,962 2144,944 2159,882 266,934" rendition="Line" xml:id="facs_84_tr_3_tl_6"/>
+         </zone>
+         <zone points="277,1021 2289,1021 2289,2476 277,2476" rendition="TextRegion" xml:id="facs_84_tr_2">
+            <zone points="263,1120 2023,1104 2167,1050 730,1029 266,1094" rendition="Line" xml:id="facs_84_tr_2_tl_1"/>
+            <zone points="266,1259 2010,1246 2139,1238 2139,1184 268,1233" rendition="Line" xml:id="facs_84_tr_2_tl_2"/>
+            <zone points="266,1414 2036,1424 2224,1398 2227,1329 266,1388" rendition="Line" xml:id="facs_84_tr_2_tl_3"/>
+            <zone points="279,1569 2082,1556 2139,1489 279,1517" rendition="Line" xml:id="facs_84_tr_2_tl_4"/>
+            <zone points="266,1713 2283,1698 2286,1628 266,1687" rendition="Line" xml:id="facs_84_tr_2_tl_5"/>
+            <zone points="276,1865 2136,1845 2126,1788 279,1816" rendition="Line" xml:id="facs_84_tr_2_tl_6"/>
+            <zone points="276,2025 2203,2002 2219,1935 279,1971" rendition="Line" xml:id="facs_84_tr_2_tl_7"/>
+            <zone points="276,2175 2036,2152 2172,2144 2172,2085 276,2123" rendition="Line" xml:id="facs_84_tr_2_tl_8"/>
+            <zone points="271,2317 2028,2309 2175,2294 2175,2232 271,2291" rendition="Line" xml:id="facs_84_tr_2_tl_9"/>
+            <zone points="281,2469 2265,2446 2268,2379 281,2415" rendition="Line" xml:id="facs_84_tr_2_tl_10"/>
+         </zone>
+         <zone points="42,2532 2263,2532 2263,3473 42,3473" rendition="TextRegion" xml:id="facs_84_tr_1">
+            <zone points="276,2621 2121,2606 2229,2598 2229,2534 276,2593" rendition="Line" xml:id="facs_84_tr_1_tl_1"/>
+            <zone points="271,2774 1935,2753 2157,2737 2159,2681 271,2745" rendition="Line" xml:id="facs_84_tr_1_tl_2"/>
+            <zone points="284,2933 2258,2892 2260,2830 284,2869" rendition="Line" xml:id="facs_84_tr_1_tl_3"/>
+            <zone points="480,3081 2170,3047 2198,2988 480,3024" rendition="Line" xml:id="facs_84_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="281,3297 2245,3238 2245,3168 1014,3233 284,3202" rendition="Line" xml:id="facs_84_tr_1_tl_5"/>
+            <zone points="295,3320 932,3292 938,3295 952,3268 938,3262 294,3290" rendition="Line" xml:id="facs_84_l"/>
+            <zone points="299,3357 374,3367 614,3359 660,3339 761,3346 764,3295 697,3297 671,3318 632,3300 593,3313 560,3300 426,3320 299,3318" rendition="Line" xml:id="facs_84_tr_1_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0558.jpg" n="part4_p084.jpg" xml:id="img_0084" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p084.jpg"/>
+            
+            <p facs="#facs_84_tr_3">
+               <lb facs="#facs_84_tr_3_tl_2" n="N001"/>[553]
+               <lb facs="#facs_84_tr_3_tl_3" n="N002"/>Let's go into some of these example. Not many of you are able even to understand why
+               <lb facs="#facs_84_tr_3_tl_4" n="N003"/>a roan like Hitler could become ultimate authority for a whole nation of kompar lively (ducated people)
+               <lb facs="#facs_84_tr_3_tl_5" n="N004"/>He COU Ma because of an Kdeology in which the Grarticipation in this nation was a participation in a
+               <lb facs="#facs_84_tr_3_tl_6" n="N005"/>sacramental unity. I come back to these points later when we speak about conformism, and also
+            </p>
+            <p facs="#facs_84_tr_2">
+               <lb facs="#facs_84_tr_2_tl_1" n="N001"/>politics. I had a friend, perhaps the most intelligent professor of theology—we studied together¬
+               <lb facs="#facs_84_tr_2_tl_2" n="N002"/>and when the Nazis came I turned against them and he turned for them. This was an act which
+               <lb facs="#facs_84_tr_2_tl_3" n="N003"/>for me was hard to understand, but in his very first book, which appeared already in the year 1933,
+               <lb facs="#facs_84_tr_2_tl_4" n="N004"/>when Hitler came to power, he explained it, and his explanation was of real theological weight
+               <lb facs="#facs_84_tr_2_tl_5" n="N005"/>and made him the Nazi theologian for the whole period, namely he identified the national community
+               <lb facs="#facs_84_tr_2_tl_6" n="N006"/>with a Sacramental community. For him, the blood community of the nation had sacramental
+               <lb facs="#facs_84_tr_2_tl_7" n="N007"/>character. And now he constured Hitler as the voice of God which has the same ultimate authority
+               <lb facs="#facs_84_tr_2_tl_8" n="N008"/>as the Bible foritzodox Protestants, and the Cope has for orthodox Catholics. The basis was a
+               <lb facs="#facs_84_tr_2_tl_9" n="N009"/> religious one. And in the moment in which you accept the identity of nation (from the point of
+               <lb facs="#facs_84_tr_2_tl_10" n="N010"/>view of blood, especially, as he did) and sacramental community, then it is quite possible to establish
+            </p>
+            <p facs="#facs_84_tr_1">
+               <lb facs="#facs_84_tr_1_tl_1" n="N001"/>an authority in principle, namely he through whom the unconscious meaning of this nation speaks,
+               <lb facs="#facs_84_tr_1_tl_2" n="N002"/>and voice-of-God then means that this unconscious meaning has an ultimate dimension. So we
+               <lb facs="#facs_84_tr_1_tl_3" n="N003"/>have here an authority which cannot be kriticized any more because it has sacramental conservation.
+               <lb facs="#facs_84_tr_1_tl_4" n="N004"/>Now let’s take the Protestants. Of course this ultimate authority broke down when it
+               <lb facs="#facs_84_tr_1_tl_5" n="N005"/>was clear that it was a demonic seduction of the German people into a self-distruction self-elevation
+               <lb facs="#facs_84_l" n="N006"/>-------------------
+               <lb facs="#facs_84_tr_1_tl_6" n="N007"/>*Emanuel Hirsch —Ed.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

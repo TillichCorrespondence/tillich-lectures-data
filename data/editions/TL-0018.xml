@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_18">
          <graphic url="TL-0018.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=MEQRDMEXFVPSHKNKAKVOPHPU&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MEQRDMEXFVPSHKNKAKVOPHPU&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="56,264 75,3171 2396,3190 2382,264" rendition="TextRegion" xml:id="facs_18_tr_1">
             <zone points="1216,337 1231,337 1248,320 1256,325 1283,325 1293,318 1298,323 1313,323 1313,265 1290,265 1278,253 1270,251 1251,268 1216,268" rendition="Line" xml:id="facs_18_tr_1_tl_1"/>
             <zone points="275,529 1407,551 1638,506 2077,548 2099,459 275,479" rendition="Line" xml:id="facs_18_tr_1_tl_2"/>
@@ -109,7 +109,7 @@
             
             <p facs="#facs_18_tr_1">
                <lb facs="#facs_18_tr_1_tl_1" n="N001"/>[15]
-               <lb facs="#facs_18_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Law">societys [sic.] and on the other hand, natural law.</rs> Again natural law is used in two ways:
+               <lb facs="#facs_18_tr_1_tl_2" n="N002"/>societys [sic.] and on the other hand, <rs type="keyword" ref="#Natural_Law">natural law</rs>. Again natural law is used in two ways:
                <lb facs="#facs_18_tr_1_tl_3" n="N003"/>as physical law, and law for morals. What is the original meaning of the law? Certainly
                <lb facs="#facs_18_tr_1_tl_4" n="N004"/>not physical laws--which is much later and is an application of the experience of the
                <lb facs="#facs_18_tr_1_tl_5" n="N005"/>social law, which existed in the moment in which two human beings lived together,
@@ -124,16 +124,16 @@
                <lb facs="#facs_18_tr_1_tl_14" n="N014"/>in language, and the earliest writings we have on the stone tablets of the past are legal
                <lb facs="#facs_18_tr_1_tl_15" n="N015"/>formulas.
                <lb facs="#facs_18_tr_1_tl_16" n="N016"/>But the law itself has an element within it which carries the same name:
-               <lb facs="#facs_18_tr_1_tl_17" n="N017"/>natural law in the sense of rational law. T<rs type="keyword" ref="#Justice">his name means that there is something under-
-               <lb break="no" facs="#facs_18_tr_1_tl_18" n="N018"/>lying all law, namely the principle of justice. The questions always is: according to which
-               <lb break="no" facs="#facs_18_tr_1_tl_19" n="N019"/>norms can laws be given? As you know (we will discuss it much fuller), there is a
-               <lb break="no" facs="#facs_18_tr_1_tl_20" n="N020"/>tendency to the merely positive law in the Anglo Saxon philosophy of law. In other
-               <lb break="no" facs="#facs_18_tr_1_tl_21" n="N021"/>nations, especially France, the rational law prevails over against the positive law. In any
-               <lb break="no" facs="#facs_18_tr_1_tl_22" n="N022"/>case, there are underlying principles of justice in every law, and this leads me to the
-               <lb break="no" facs="#facs_18_tr_1_tl_23" n="N023"/>next function, namely to the norm-giving, or the ethical, function.
-               <lb break="no" facs="#facs_18_tr_1_tl_24" n="N024"/>The seventh function of culture--the experience of the norm--happens in the encounter
-               <lb break="no" facs="#facs_18_tr_1_tl_25" n="N025"/>with the other person. This also is an ever-present reality. There, discovery is the experience
-               <lb break="no" facs="#facs_18_tr_1_tl_26" n="N026"/>of meeting the other one, who also is a person.</rs> I will deal with this very fully because
+               <lb facs="#facs_18_tr_1_tl_17" n="N017"/>natural law in the sense of rational law. This name means that there is something under-
+               <lb facs="#facs_18_tr_1_tl_18" n="N018"/>lying all law, namely the principle of <rs type="keyword" ref="#Justice">justice</rs>. The questions always is: according to which
+               <lb facs="#facs_18_tr_1_tl_19" n="N019"/>norms can laws be given? As you know (we will discuss it much fuller), there is a
+               <lb facs="#facs_18_tr_1_tl_20" n="N020"/>tendency to the merely positive law in the Anglo Saxon philosophy of law. In other
+               <lb facs="#facs_18_tr_1_tl_21" n="N021"/>nations, especially France, the rational law prevails over against the positive law. In any
+               <lb facs="#facs_18_tr_1_tl_22" n="N022"/>case, there are underlying principles of justice in every law, and this leads me to the
+               <lb facs="#facs_18_tr_1_tl_23" n="N023"/>next function, namely to the norm-giving, or the ethical, function.
+               <lb facs="#facs_18_tr_1_tl_24" n="N024"/>The seventh function of culture--the experience of the norm--happens in the encounter
+               <lb facs="#facs_18_tr_1_tl_25" n="N025"/>with the other person. This also is an ever-present reality. There, discovery is the experience
+               <lb facs="#facs_18_tr_1_tl_26" n="N026"/>of meeting the other one, who also is a person. I will deal with this very fully because
                <lb facs="#facs_18_tr_1_tl_27" n="N027"/>this is one of the profoundest insights of modern philosophy, namely that there is
                <lb facs="#facs_18_tr_1_tl_28" n="N028"/>no person, no ego, which is not encountering a ''thou," another one. Only the other
                <lb facs="#facs_18_tr_1_tl_30" n="N029"/>ego limits us and throws us back to ourselves and demands unconditionally the acceptance

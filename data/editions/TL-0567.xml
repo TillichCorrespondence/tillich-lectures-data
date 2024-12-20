@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" subtype="first_page">Lecture XLIII (Nr. 0567)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p093</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-24">1956-04-24</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_93">
+         <graphic url="TL-0567.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZMEBXXTLVMYULQHYPBWCNRHX&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="304,266 2143,266 2143,1246 304,1246" rendition="TextRegion" xml:id="facs_93_tr_2">
+            <zone points="1126,324 1139,321 1156,336 1236,336 1251,331 1243,249 1228,254 1208,279 1186,279 1168,272 1163,272 1158,282 1146,277 1124,279" rendition="Line" xml:id="facs_93_tr_2_tl_1"/>
+            <zone points="296,473 992,486 992,424 894,428 872,406 750,416 730,436 493,409 296,436" rendition="Line" xml:id="facs_93_tr_2_tl_2" subtype="heading"/>
+            <zone points="528,623 2068,653 2000,570 528,561" rendition="Line" xml:id="facs_93_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="296,775 2118,797 2118,737 1659,708 296,722" rendition="Line" xml:id="facs_93_tr_2_tl_4"/>
+            <zone points="301,932 2137,939 2137,889 2053,872 301,882" rendition="Line" xml:id="facs_93_tr_2_tl_5"/>
+            <zone points="294,1079 2073,1094 2073,1041 2010,1039 294,1049" rendition="Line" xml:id="facs_93_tr_2_tl_6"/>
+            <zone points="291,1231 2085,1243 2083,1188 291,1183" rendition="Line" xml:id="facs_93_tr_2_tl_7"/>
+         </zone>
+         <zone points="277,1326 2248,1326 2248,2977 277,2977" rendition="TextRegion" xml:id="facs_93_tr_1">
+            <zone points="284,1383 2083,1398 2083,1340 1948,1330 284,1335" rendition="Line" xml:id="facs_93_tr_1_tl_1"/>
+            <zone points="282,1530 767,1572 2113,1542 2063,1490 1821,1482 282,1505" rendition="Line" xml:id="facs_93_tr_1_tl_2"/>
+            <zone points="279,1684 1547,1746 2245,1702 2245,1642 1971,1634 279,1654" rendition="Line" xml:id="facs_93_tr_1_tl_3"/>
+            <zone points="279,1836 324,1846 376,1836 419,1846 471,1844 478,1836 501,1846 538,1846 538,1806 523,1804 501,1781 409,1784 399,1794 334,1781 314,1801 279,1801" rendition="Line" xml:id="facs_93_tr_1_tl_4"/>
+            <zone points="506,1911 2190,1926 2155,1861 506,1846" rendition="Line" xml:id="facs_93_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="272,2053 2230,2078 2182,2005 272,2028" rendition="Line" xml:id="facs_93_tr_1_tl_6"/>
+            <zone points="272,2202 2133,2222 2130,2160 272,2180" rendition="Line" xml:id="facs_93_tr_1_tl_7"/>
+            <zone points="272,2399 2180,2374 2180,2322 2013,2312 272,2312" rendition="Line" xml:id="facs_93_tr_1_tl_8"/>
+            <zone points="272,2514 2028,2526 2028,2474 272,2449" rendition="Line" xml:id="facs_93_tr_1_tl_9"/>
+            <zone points="264,2661 1995,2691 2063,2678 2063,2611 264,2638" rendition="Line" xml:id="facs_93_tr_1_tl_10"/>
+            <zone points="264,2830 2155,2820 2023,2755 264,2770" rendition="Line" xml:id="facs_93_tr_1_tl_11"/>
+            <zone points="264,2965 2232,2975 2232,2920 1933,2902 264,2917" rendition="Line" xml:id="facs_93_tr_1_tl_12"/>
+         </zone>
+         <zone points="26,3057 2292,3057 2292,3467 26,3467" rendition="TextRegion" xml:id="facs_93_tr_3">
+            <zone points="254,3112 2257,3127 2257,3072 2060,3064 254,3084" rendition="Line" xml:id="facs_93_tr_3_tl_1"/>
+            <zone points="252,3261 2210,3246 2245,3194 254,3216" rendition="Line" xml:id="facs_93_tr_3_tl_2"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0567.jpg" n="part4_p093.jpg" xml:id="img_0093" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p093.jpg"/>
+            
+            <p facs="#facs_93_tr_2">
+               <lb facs="#facs_93_tr_2_tl_1" n="N001"/>[562]
+               <lb facs="#facs_93_tr_2_tl_2" n="N002"/>LECTURE XLIII, April 24, 956
+               <lb facs="#facs_93_tr_2_tl_3" n="N003"/>The last lecture discussion the problem of the idea and the idea of personality,
+               <lb facs="#facs_93_tr_2_tl_4" n="N004"/>in their relation to each other. I came to the conclusion that the idea of personality and the
+               <lb facs="#facs_93_tr_2_tl_5" n="N005"/>separation of the personal tenter from the unconscious elements of our personality, and from
+               <lb facs="#facs_93_tr_2_tl_6" n="N006"/>the habmunity with other brings, has consequences of a devastating  character for Western
+               <lb facs="#facs_93_tr_2_tl_7" n="N007"/>Civilization, that it is one of the causes for the further disintegration of the personality just
+            </p>
+            <p facs="#facs_93_tr_1">
+               <lb facs="#facs_93_tr_1_tl_1" n="N001"/>because it has lost its denndation in the unconscious and communal elements. I don't want
+               <lb facs="#facs_93_tr_1_tl_2" n="N002"/>to go further into this; we still have three hours — today, Thursday, and a week from today—
+               <lb facs="#facs_93_tr_1_tl_3" n="N003"/>and I want to discuss the   social, economic and political problem of the relationship of religion
+               <lb facs="#facs_93_tr_1_tl_4" n="N004"/>and culture.
+               <lb facs="#facs_93_tr_1_tl_5" n="N005"/>The first is a sociological remark with which I want to start because it has much to do
+               <lb facs="#facs_93_tr_1_tl_6" n="N006"/>with the discussion of the idea and the idea of personality. We can say that more genuine than the
+               <lb facs="#facs_93_tr_1_tl_7" n="N007"/>vavelopment of personality is something which one could call geniune collectivism, or original
+               <lb facs="#facs_93_tr_1_tl_8" n="N008"/>we-consciousness. We-tonsciousness precedes, historically and ontologically, the I-consciousness.
+               <lb facs="#facs_93_tr_1_tl_9" n="N009"/>Beings don’t feel separated, in the beginning of culturalnelopment, from each other as
+               <lb facs="#facs_93_tr_1_tl_10" n="N010"/>centered brings. Of course this was always given potentially, but in order to transform this
+               <lb facs="#facs_93_tr_1_tl_11" n="N011"/>potentality into actuality, very fundamental events had to happen, and I gave you two of them.
+               <lb facs="#facs_93_tr_1_tl_12" n="N012"/>The one is the experience of personal guilt, which takes the gulle away from the "we" and therefore
+            </p>
+            <p facs="#facs_93_tr_3">
+               <lb facs="#facs_93_tr_3_tl_1" n="N001"/>the expiation of the gunt away from the changes, from the contingent search for a victim who carries
+               <lb facs="#facs_93_tr_3_tl_2" n="N002"/>the expiation, although he himself is subjectively not guilty. You find this still in the Old Testament.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

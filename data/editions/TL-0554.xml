@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLII (Nr. 0554)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p080</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-17">1956-04-17</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_80">
+         <graphic url="TL-0554.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=IQHKOEVGBIKBBMVTMJACMFQB&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="1113,18 2286,18 2286,341 1113,341" rendition="TextRegion" xml:id="facs_80_tr_2">
+            <zone points="1099,334 1112,334 1124,346 1134,348 1143,348 1151,341 1193,344 1210,334 1222,334 1224,290 1190,290 1170,270 1158,272 1136,294 1102,294" rendition="Line" xml:id="facs_80_tr_2_tl_2"/>
+         </zone>
+         <zone points="298,427 2239,427 2239,1404 298,1404" rendition="TextRegion" xml:id="facs_80_tr_4">
+            <zone points="299,496 2189,498 2189,422 844,454 751,371 542,456 299,454" rendition="Line" xml:id="facs_80_tr_4_tl_1"/>
+            <zone points="299,640 2064,648 2064,589 1774,574 299,594" rendition="Line" xml:id="facs_80_tr_4_tl_2"/>
+            <zone points="297,790 2127,800 2088,736 1821,726 297,753" rendition="Line" xml:id="facs_80_tr_4_tl_3"/>
+            <zone points="287,935 1207,974 2191,942 2206,891 287,913" rendition="Line" xml:id="facs_80_tr_4_tl_4"/>
+            <zone points="294,1097 2233,1094 2203,1028 294,1035" rendition="Line" xml:id="facs_80_tr_4_tl_5"/>
+            <zone points="285,1237 1867,1254 2103,1244 2103,1195 285,1215" rendition="Line" xml:id="facs_80_tr_4_tl_6"/>
+            <zone points="285,1394 2051,1404 2130,1396 2130,1340 285,1369" rendition="Line" xml:id="facs_80_tr_4_tl_7"/>
+         </zone>
+         <zone points="286,1481 2251,1481 2251,2762 286,2762" rendition="TextRegion" xml:id="facs_80_tr_3">
+            <zone points="282,1548 1872,1570 2162,1548 2162,1492 282,1509" rendition="Line" xml:id="facs_80_tr_3_tl_1"/>
+            <zone points="285,1703 2093,1710 2164,1693 2167,1629 287,1659" rendition="Line" xml:id="facs_80_tr_3_tl_2"/>
+            <zone points="287,1845 2012,1855 2167,1843 2167,1796 287,1806" rendition="Line" xml:id="facs_80_tr_3_tl_3"/>
+            <zone points="282,1995 820,2007 820,1938 783,1958 407,1958 390,1941 282,1958" rendition="Line" xml:id="facs_80_tr_3_tl_4"/>
+            <zone points="275,2206 393,2142 2248,2154 2248,2081 2174,2078 275,2081" rendition="Line" xml:id="facs_80_tr_3_tl_5" subtype="paragraph"/>
+            <zone points="272,2294 1529,2309 1644,2302 1644,2253 272,2272" rendition="Line" xml:id="facs_80_tr_3_tl_6"/>
+            <zone points="488,2454 2078,2459 2118,2397 488,2405" rendition="Line" xml:id="facs_80_tr_3_tl_7" subtype="paragraph"/>
+            <zone points="280,2603 2196,2606 2216,2549 280,2559" rendition="Line" xml:id="facs_80_tr_3_tl_8"/>
+            <zone points="280,2758 2191,2756 2194,2697 280,2709" rendition="Line" xml:id="facs_80_tr_3_tl_9"/>
+         </zone>
+         <zone points="68,2842 2242,2842 2242,3470 68,3470" rendition="TextRegion" xml:id="facs_80_tr_1">
+            <zone points="280,2910 1772,2915 2088,2903 2088,2854 280,2864" rendition="Line" xml:id="facs_80_tr_1_tl_1"/>
+            <zone points="272,3052 2061,3060 2061,3006 272,3030" rendition="Line" xml:id="facs_80_tr_1_tl_2"/>
+            <zone points="275,3205 1337,3236 2235,3212 2235,3153 275,3165" rendition="Line" xml:id="facs_80_tr_1_tl_3"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0554.jpg" n="part4_p080.jpg" xml:id="img_0080" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p080.jpg"/>
+            
+            <p facs="#facs_80_tr_2">
+               <lb facs="#facs_80_tr_2_tl_2" n="N001"/>[549]
+            </p>
+            <p facs="#facs_80_tr_4">
+               <lb facs="#facs_80_tr_4_tl_1" n="N001"/>dynamics and form, the form can be a repressive power with respect to the dynamics of our life,
+               <lb facs="#facs_80_tr_4_tl_2" n="N002"/>to go beyond the limits in, let us say, vocational respect, national respect, family respect,
+               <lb facs="#facs_80_tr_4_tl_3" n="N003"/>to go beyond the given place on which we are (“place” not onlybringingal but, even more,
+               <lb facs="#facs_80_tr_4_tl_4" n="N004"/>intellectually and socially and psychologically; Repressions are always possible. The form makes
+               <lb facs="#facs_80_tr_4_tl_5" n="N005"/>life possible. But the form at the same time is able to repress life. Now take the best example, for
+               <lb facs="#facs_80_tr_4_tl_6" n="N006"/>which I gave you the Cictures as an example: Academic art, where the creative dynamics are
+               <lb facs="#facs_80_tr_4_tl_7" n="N007"/>repressed in the academies of art by tradition of form. The learning of the form is good, but
+            </p>
+            <p facs="#facs_80_tr_3">
+               <lb facs="#facs_80_tr_3_tl_1" n="N001"/>if this learning of the form REPRESSES the creative impact of the artist, we have that kind of
+               <lb facs="#facs_80_tr_3_tl_2" n="N002"/>art which we call Academic and which is REPRESSED art, and therefore very much loved by all
+               <lb facs="#facs_80_tr_3_tl_3" n="N003"/>those who are in principle repressors in ALL realms of life. Now I think that was the question.
+               <lb facs="#facs_80_tr_3_tl_4" n="N004"/>Now we have to go ahead.
+               <lb facs="#facs_80_tr_3_tl_5" n="N005"/>= 1 gave you one example of the social problems of ethics, namely the family life, and especially
+               <lb facs="#facs_80_tr_3_tl_6" n="N006"/>that element in the family life which has to do with sexual relation.
+               <lb facs="#facs_80_tr_3_tl_7" n="N007"/>The other element, which also needs fullòvelopment, is the element of authority.
+               <lb facs="#facs_80_tr_3_tl_8" n="N008"/>i would like to go into this problem from different points of view. If you want to read somehow
+               <lb facs="#facs_80_tr_3_tl_9" n="N009"/>who is outspoken and almost bitter of authority, then read EVERY book of Erich Fromm,
+            </p>
+            <p facs="#facs_80_tr_1">
+               <lb facs="#facs_80_tr_1_tl_1" n="N001"/>especially his book on religion and psychoanalysis. He distinguishes two type of authority,
+               <lb facs="#facs_80_tr_1_tl_2" n="N002"/>what he calls rational authority and irnational authority. This is an interesting distinction;
+               <lb facs="#facs_80_tr_1_tl_3" n="N003"/>I myself have always distinguished, on the basis of the difference of Catholicism and Protestantism,
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

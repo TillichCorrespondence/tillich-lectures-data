@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVII (Nr. 0484)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p010</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-15">1956-03-15</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_10">
+         <graphic url="TL-0484.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=EWNOCNSJWLOJMPNXBYYUBJHT&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="328,275 2310,275 2310,1553 328,1553" rendition="TextRegion" xml:id="facs_10_tr_2">
+            <zone points="1115,324 1127,321 1139,331 1157,331 1166,341 1184,344 1213,344 1231,334 1243,334 1241,274 1216,272 1203,287 1115,287" rendition="Line" xml:id="facs_10_tr_2_tl_1"/>
+            <zone points="334,492 1989,502 2175,494 2175,428 714,450 608,378 536,450 334,447" rendition="Line" xml:id="facs_10_tr_2_tl_2"/>
+            <zone points="324,640 2241,652 2241,596 578,566 324,610" rendition="Line" xml:id="facs_10_tr_2_tl_4"/>
+            <zone points="324,786 2034,806 2212,793 2212,729 324,741" rendition="Line" xml:id="facs_10_tr_2_tl_5"/>
+            <zone points="321,942 2303,956 2303,900 321,917" rendition="Line" xml:id="facs_10_tr_2_tl_6"/>
+            <zone points="314,1090 2152,1112 2264,1105 2264,1050 314,1068" rendition="Line" xml:id="facs_10_tr_2_tl_7"/>
+            <zone points="321,1246 2222,1265 2264,1194 321,1213" rendition="Line" xml:id="facs_10_tr_2_tl_8"/>
+            <zone points="316,1399 2197,1406 2145,1337 316,1347" rendition="Line" xml:id="facs_10_tr_2_tl_9"/>
+            <zone points="316,1547 1792,1557 2031,1547 2056,1490 316,1512" rendition="Line" xml:id="facs_10_tr_2_tl_10"/>
+         </zone>
+         <zone points="319,1633 2188,1633 2188,2461 319,2461" rendition="TextRegion" xml:id="facs_10_tr_3">
+            <zone points="316,1695 2113,1700 2113,1646 316,1671" rendition="Line" xml:id="facs_10_tr_3_tl_1"/>
+            <zone points="314,1848 1572,1853 1572,1802 314,1799" rendition="Line" xml:id="facs_10_tr_3_tl_2"/>
+            <zone points="563,1999 2086,2014 2182,2004 2182,1942 563,1952" rendition="Line" xml:id="facs_10_tr_3_tl_3" subtype="paragraph"/>
+            <zone points="306,2167 1997,2165 2182,2155 2182,2103 306,2108" rendition="Line" xml:id="facs_10_tr_3_tl_4"/>
+            <zone points="306,2296 630,2321 1181,2306 1147,2251 771,2244 645,2276 306,2249" rendition="Line" xml:id="facs_10_tr_3_tl_5"/>
+            <zone points="554,2454 2157,2461 2157,2392 554,2395" rendition="Line" xml:id="facs_10_tr_3_tl_6" subtype="paragraph"/>
+         </zone>
+         <zone points="26,2541 2313,2541 2313,3488 26,3488" rendition="TextRegion" xml:id="facs_10_tr_1">
+            <zone points="301,2605 2239,2607 2239,2548 301,2580" rendition="Line" xml:id="facs_10_tr_1_tl_1"/>
+            <zone points="269,2753 2128,2760 2145,2704 269,2713" rendition="Line" xml:id="facs_10_tr_1_tl_2"/>
+            <zone points="297,2909 2083,2916 2239,2909 2239,2854 297,2879" rendition="Line" xml:id="facs_10_tr_1_tl_3"/>
+            <zone points="297,3057 1999,3059 1999,2998 297,3025" rendition="Line" xml:id="facs_10_tr_1_tl_4"/>
+            <zone points="284,3203 2140,3250 2138,3185 1465,3227 1110,3148 284,3171" rendition="Line" xml:id="facs_10_tr_1_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0484.jpg" n="part4_p010.jpg" xml:id="img_0010" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p010.jpg"/>
+            
+            <p facs="#facs_10_tr_2">
+               <lb facs="#facs_10_tr_2_tl_1" n="N001"/>[479]
+               <lb facs="#facs_10_tr_2_tl_2" n="N002"/>was that the <rs type="keyword" ref="#University">university </rs>is a community. <hi style="font-style: italic;">Universitas, universum,</hi> which always means
+               <lb facs="#facs_10_tr_2_tl_4" n="N003"/>a unity of many, [of men?] is a unity in terms of a community, namely of teachers and students
+               <lb facs="#facs_10_tr_2_tl_5" n="N004"/>who, together, establish the university as a corporation, whereby the word "corporation"
+               <lb facs="#facs_10_tr_2_tl_6" n="N005"/>originally meant what the word says, a real body, with limbs, and not what it means today,
+               <lb facs="#facs_10_tr_2_tl_7" n="N006"/>a legal place where trade is performed. But it really meant something of a being-together,
+               <lb facs="#facs_10_tr_2_tl_8" n="N007"/>of having to decide, in community of life. Then it became applied to the subject matter,
+               <lb facs="#facs_10_tr_2_tl_9" n="N008"/>and the word got the connotation of <hi style="font-style: italic;">universitas litterarum</hi>, the university of everything
+               <lb facs="#facs_10_tr_2_tl_10" n="N009"/>which is taught there: ALL things worth learning and studying are given in the
+            </p>
+            <p facs="#facs_10_tr_3">
+               <lb facs="#facs_10_tr_3_tl_1" n="N001"/><hi style="font-style: italic;">universitas</hi>. That is a different meaning, not from those who are the BEARERS of
+               <lb facs="#facs_10_tr_3_tl_2" n="N002"/>the university, but from the point of view of the content.
+               <lb facs="#facs_10_tr_3_tl_3" n="N003"/>There was also a term sometimes used, <hi style="font-style: italic;">studium generale</hi>, a study, a place
+               <lb facs="#facs_10_tr_3_tl_4" n="N004"/>and content, which is general, which is valid for everybody from every country of the
+               <lb facs="#facs_10_tr_3_tl_5" n="N005"/>Western world, at that period of history.
+               <lb facs="#facs_10_tr_3_tl_6" n="N006"/>So it is from the very beginning a unity of different elements, and I will
+            </p>
+            <p facs="#facs_10_tr_1">
+               <lb facs="#facs_10_tr_1_tl_1" n="N001"/>distinguish, when we look at the present-day <rs type="keyword" ref="#University">university</rs>, three functions which are decisive:
+               <lb facs="#facs_10_tr_1_tl_2" n="N002"/>1) <rs type="keyword" ref="#Teaching">teaching</rs>; 2) <rs type="keyword" ref="#Education">education</rs>; 3) <rs type="keyword" ref="#Research">research</rs>. The confusion of these three functions and
+               <lb facs="#facs_10_tr_1_tl_3" n="N003"/>their necessary interdependence raises many of the problems which belong to the problem
+               <lb facs="#facs_10_tr_1_tl_4" n="N004"/>of the university. So if you discuss problems of THIS university, for instance,
+               <lb facs="#facs_10_tr_1_tl_5" n="N005"/>always keep in mind that it is said to have these three functions. It's not ONLY an
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

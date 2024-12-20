@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -112,7 +112,7 @@
                <lb facs="#facs_151_tr_2_tl_7" n="N007"/>the history of commentaries is a continuous history going on through all centuries, and the present-
                <lb facs="#facs_151_tr_2_tl_8" n="N008"/>day commentaries contain the same texts---almost the same, with very few changes---and in most
                <lb facs="#facs_151_tr_2_tl_9" n="N009"/>cases where EXACTLY the same texts are used, the commentaries today say something quite different
-               <lb facs="#facs_151_tr_2_tl_10" n="N010"/>than the commentaries by <rs type="person" key=", Origen">Origen</rs> or <rs type="person" key=", Augustine">Augustine</rs> or earlier commentaries. Now this means that
+               <lb facs="#facs_151_tr_2_tl_10" n="N010"/>than the commentaries by <rs type="person" ref="#Origen">Origen</rs> or <rs type="person" ref="#Augustine">Augustine</rs> or earlier commentaries. Now this means that
                <lb facs="#facs_151_tr_2_tl_11" n="N011"/>the commentary to a text is a creation of a special type of truth: it is the truth of <rs type="keyword" ref="#Understanding">understanding</rs>.
                <lb facs="#facs_151_tr_2_tl_12" n="N012"/>But don’t misunderstand ME, now! I do NOT mean to say that the commentator, the interpreter
                <lb facs="#facs_151_tr_2_tl_13" n="N013"/>of a text, simply makes something new out of it, says his OWN thought, in terms of a commentary.

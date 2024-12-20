@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,28 +66,27 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_7">
          <graphic url="TL-0399.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=XXBRAWBKHEUJKZQMWNTIDHWX&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="74,87 2319,87 2319,1210 74,1210" rendition="TextRegion" xml:id="facs_7_tr_1">
-            <zone points="60,163 1963,165 1963,33 60,28" rendition="Line" xml:id="facs_7_tr_1_tl_1"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XXBRAWBKHEUJKZQMWNTIDHWX&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="74,87 867,87 2319,87 2319,1210 74,1210" rendition="TextRegion" xml:id="facs_7_tr_1">
             <zone points="1186,435 1198,433 1211,445 1241,443 1246,448 1258,448 1268,438 1286,445 1311,445 1308,383 1246,380 1233,370 1218,385 1183,388" rendition="Line" xml:id="facs_7_tr_1_tl_2"/>
             <zone points="318,598 1711,598 1711,553 1623,533 318,545" rendition="Line" xml:id="facs_7_tr_1_tl_3"/>
-            <zone points="510,730 2134,753 2134,693 510,678" rendition="Line" xml:id="facs_7_tr_1_tl_4"/>
+            <zone points="510,730 2134,753 2134,693 510,678" rendition="Line" xml:id="facs_7_tr_1_tl_4" subtype="paragraph"/>
             <zone points="308,905 2214,908 2211,848 1961,840 305,850" rendition="Line" xml:id="facs_7_tr_1_tl_5"/>
             <zone points="303,1028 2164,1068 2164,1001 303,1003" rendition="Line" xml:id="facs_7_tr_1_tl_6"/>
             <zone points="305,1188 2316,1213 2316,1146 305,1128" rendition="Line" xml:id="facs_7_tr_1_tl_7"/>
          </zone>
          <zone points="298,1278 2277,1278 2277,2111 298,2111" rendition="TextRegion" xml:id="facs_7_tr_3">
-            <zone points="500,1336 2224,1356 2186,1298 500,1293" rendition="Line" xml:id="facs_7_tr_3_tl_1"/>
+            <zone points="500,1336 2224,1356 2186,1298 500,1293" rendition="Line" xml:id="facs_7_tr_3_tl_1" subtype="paragraph"/>
             <zone points="293,1488 2256,1513 2254,1456 2039,1423 293,1433" rendition="Line" xml:id="facs_7_tr_3_tl_2"/>
             <zone points="285,1633 2211,1661 2211,1601 285,1581" rendition="Line" xml:id="facs_7_tr_3_tl_3"/>
             <zone points="288,1781 2261,1813 2211,1751 288,1753" rendition="Line" xml:id="facs_7_tr_3_tl_4"/>
             <zone points="285,1933 568,1958 1011,1946 1011,1896 810,1893 793,1913 773,1893 285,1886" rendition="Line" xml:id="facs_7_tr_3_tl_5"/>
-            <zone points="480,2084 2271,2101 1883,2031 1116,2064 480,2019" rendition="Line" xml:id="facs_7_tr_3_tl_6"/>
+            <zone points="480,2084 2271,2101 1883,2031 1116,2064 480,2019" rendition="Line" xml:id="facs_7_tr_3_tl_6" subtype="paragraph"/>
          </zone>
          <zone points="262,2183 2271,2183 2271,3383 262,3383" rendition="TextRegion" xml:id="facs_7_tr_2">
             <zone points="280,2244 2266,2261 2264,2201 278,2184" rendition="Line" xml:id="facs_7_tr_2_tl_1"/>
             <zone points="273,2396 1471,2404 1471,2351 1408,2346 655,2361 375,2324 273,2359" rendition="Line" xml:id="facs_7_tr_2_tl_2"/>
-            <zone points="465,2536 2164,2574 2164,2496 465,2509" rendition="Line" xml:id="facs_7_tr_2_tl_3"/>
+            <zone points="465,2536 2164,2574 2164,2496 465,2509" rendition="Line" xml:id="facs_7_tr_2_tl_3" subtype="paragraph"/>
             <zone points="265,2686 2094,2709 2094,2649 265,2656" rendition="Line" xml:id="facs_7_tr_2_tl_4"/>
             <zone points="255,2834 2091,2861 2089,2801 253,2809" rendition="Line" xml:id="facs_7_tr_2_tl_5"/>
             <zone points="258,2989 805,3062 1008,2996 2139,3022 2136,2954 255,2939" rendition="Line" xml:id="facs_7_tr_2_tl_6"/>
@@ -103,31 +102,30 @@
             <pb facs="#TL-0399.jpg" n="part3_p007.jpg" xml:id="img_0007" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p007.jpg"/>
             
             <p facs="#facs_7_tr_1">
-               <lb facs="#facs_7_tr_1_tl_1" n="N001"/>Anhard der Kunst mach T. Brotleme, deutlich!
-               <lb facs="#facs_7_tr_1_tl_2" n="N002"/>-394-
-               <lb facs="#facs_7_tr_1_tl_3" n="N003"/>presheribed by the modern mind and the situation they wanted to deny.
-               <lb facs="#facs_7_tr_1_tl_4" n="N004"/>So we are here in the necessity to make one fundamental statement—l don't want
-               <lb facs="#facs_7_tr_1_tl_5" n="N005"/>to speak about "Religion in the Present Situation of the World" AIALL!"-namely that religion
-               <lb facs="#facs_7_tr_1_tl_6" n="N006"/>comes from one dimension and goes into another, from above to below, from below to above,
-               <lb facs="#facs_7_tr_1_tl_7" n="N007"/>and that IN THIS dimension, it has a Yes and No to theWHOLE of reality, but IS NOT a PART of it!
+               <lb facs="#facs_7_tr_1_tl_2" n="N001"/>[394]
+               <lb facs="#facs_7_tr_1_tl_3" n="N002"/>prescribed by the modern mind and the situation they wanted to deny.
+               <lb facs="#facs_7_tr_1_tl_4" n="N003"/>So we are here in the necessity to make one fundamental statement--l don't want
+               <lb facs="#facs_7_tr_1_tl_5" n="N004"/>to speak about ''Religion in the Present Situation of the World'' AT ALL!--namely that religion
+               <lb facs="#facs_7_tr_1_tl_6" n="N005"/>comes from one dimension and goes into another, from above to below, from below to above,
+               <lb facs="#facs_7_tr_1_tl_7" n="N006"/>and that IN THIS dimension, it has a Yes and No to the WHOLE of reality, but IS NOT a PART of it!
             </p>
             <p facs="#facs_7_tr_3">
                <lb facs="#facs_7_tr_3_tl_1" n="N001"/>My whole theological work was directed by early realization of this situation. And the
-               <lb facs="#facs_7_tr_3_tl_2" n="N002"/>situation still prevails—and perhaps in this country a little bit more than in Europe, but in any case,
+               <lb facs="#facs_7_tr_3_tl_2" n="N002"/>situation still prevails--and perhaps in this country a little bit more than in Europe, but in any case,
                <lb facs="#facs_7_tr_3_tl_3" n="N003"/>in the whole Christian world. And so the attempt to liberate religion from the bondage of a level
-               <lb facs="#facs_7_tr_3_tl_4" n="N004"/>of thought and experience to which it does not belong, or only indirectly belugs, is the continuou¬
-               <lb facs="#facs_7_tr_3_tl_5" n="N005"/>ena k of every philosophy of religion.
-               <lb facs="#facs_7_tr_3_tl_6" n="N006"/>How can we fullill this task? It can be fulfilled only with the took which are given to us¬
+               <lb facs="#facs_7_tr_3_tl_4" n="N004"/>of thought and experience to which it does not belong, or only indirectly belongs, is the continuous
+               <lb facs="#facs_7_tr_3_tl_5" n="N005"/>task of every philosophy of religion.
+               <lb facs="#facs_7_tr_3_tl_6" n="N006"/>How can we fulfill this task? It can be fulfilled only with the tools which are given to us--
             </p>
             <p facs="#facs_7_tr_2">
-               <lb facs="#facs_7_tr_2_tl_1" n="N001"/>nobody can PRODUCE them. And there are took given to us in the present-day situation, the took
+               <lb facs="#facs_7_tr_2_tl_1" n="N001"/>nobody can PRODUCE them. And there are tools given to us in the present-day situation, the tools
                <lb facs="#facs_7_tr_2_tl_2" n="N002"/>produced by the resistance against the present-day situation.
                <lb facs="#facs_7_tr_2_tl_3" n="N003"/>Let me now talk about the movements of resistance. They are outside of the church,
                <lb facs="#facs_7_tr_2_tl_4" n="N004"/>and partly also inside; outside of theology, and partly inside; but predominantly they come
                <lb facs="#facs_7_tr_2_tl_5" n="N005"/>from a secular world which, so to speak, has broken through the basis on which it was built.
-               <lb facs="#facs_7_tr_2_tl_6" n="N006"/>In our language, in the last ten years, we call this breaking-through-the-carrying-and Iupporting
-               <lb facs="#facs_7_tr_2_tl_7" n="N007"/>foundations, “existentalism.”) But since this word is a clumsy one, and everybody is afraid
-               <lb facs="#facs_7_tr_2_tl_8" n="N008"/>before he even trees to understand what it COUED mean, we might also describe it in other words.
+               <lb facs="#facs_7_tr_2_tl_6" n="N006"/>In our language, in the last ten years, we call this breaking-through-the-carrying-and-supporting
+               <lb facs="#facs_7_tr_2_tl_7" n="N007"/>foundations, ''existentialism.'' But since this word is a clumsy one, and everybody is afraid
+               <lb facs="#facs_7_tr_2_tl_8" n="N008"/>before he even tries to understand what it COULD mean, we might also describe it in other words.
             </p>
             
         </div>

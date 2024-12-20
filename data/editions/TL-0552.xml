@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" subtype="first_page">Lecture XLII (Nr. 0552)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p078</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-17">1956-04-17</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_78">
+         <graphic url="TL-0552.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FWZRBJPCLLIUIVFBZUVFPKFO&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="47,18 2263,18 2263,1407 47,1407" rendition="TextRegion" xml:id="facs_78_tr_3">
+            <zone points="1090,334 1103,334 1125,351 1159,341 1169,349 1189,349 1197,341 1215,341 1215,275 1192,278 1176,293 1153,293 1143,283 1128,298 1090,298" rendition="Line" xml:id="facs_78_tr_3_tl_2"/>
+            <zone points="298,494 326,509 962,502 962,446 800,441 736,374 670,433 298,448" rendition="Line" xml:id="facs_78_tr_3_tl_3" subtype="paragraph"/>
+            <zone points="303,652 2113,654 2129,583 303,591" rendition="Line" xml:id="facs_78_tr_3_tl_4"/>
+            <zone points="331,721 2124,731 2152,662 331,698" rendition="Line" xml:id="facs_78_tr_3_tl_5"/>
+            <zone points="341,805 2050,800 2085,741 341,761" rendition="Line" xml:id="facs_78_tr_3_tl_6"/>
+            <zone points="339,873 2139,876 2157,815 339,820" rendition="Line" xml:id="facs_78_tr_3_tl_7"/>
+            <zone points="334,957 1441,947 1441,899 1385,889 336,906" rendition="Line" xml:id="facs_78_tr_3_tl_8"/>
+            <zone points="290,1103 2256,1092 2256,1036 290,1067" rendition="Line" xml:id="facs_78_tr_3_tl_9"/>
+            <zone points="295,1171 2012,1181 2256,1174 2259,1115 298,1136" rendition="Line" xml:id="facs_78_tr_3_tl_10"/>
+            <zone points="321,1260 2134,1253 2134,1187 323,1207" rendition="Line" xml:id="facs_78_tr_3_tl_11"/>
+            <zone points="328,1327 1948,1332 2085,1324 2088,1281 331,1286" rendition="Line" xml:id="facs_78_tr_3_tl_12"/>
+            <zone points="344,1411 443,1406 486,1428 614,1403 1018,1406 1018,1355 980,1350 407,1365 344,1347" rendition="Line" xml:id="facs_78_tr_3_tl_13"/>
+         </zone>
+         <zone points="292,1484 2286,1484 2286,2616 292,2616" rendition="TextRegion" xml:id="facs_78_tr_1">
+            <zone points="290,1551 1782,1551 1828,1548 1828,1484 497,1523 290,1487" rendition="Line" xml:id="facs_78_tr_1_tl_2"/>
+            <zone points="285,1698 1940,1711 2281,1693 2281,1637 285,1673" rendition="Line" xml:id="facs_78_tr_1_tl_3"/>
+            <zone points="288,1854 1971,1861 2259,1846 2259,1790 288,1803" rendition="Line" xml:id="facs_78_tr_1_tl_4"/>
+            <zone points="285,2004 1950,2017 2154,1996 2154,1940 285,1976" rendition="Line" xml:id="facs_78_tr_1_tl_5"/>
+            <zone points="285,2157 1882,2164 2220,2149 2223,2093 288,2121" rendition="Line" xml:id="facs_78_tr_1_tl_6"/>
+            <zone points="288,2307 1823,2317 2238,2299 2238,2241 288,2276" rendition="Line" xml:id="facs_78_tr_1_tl_7"/>
+            <zone points="278,2462 2279,2455 2279,2391 278,2406" rendition="Line" xml:id="facs_78_tr_1_tl_8"/>
+            <zone points="288,2610 1793,2612 2152,2562 290,2556" rendition="Line" xml:id="facs_78_tr_1_tl_9"/>
+         </zone>
+         <zone points="26,2684 2328,2684 2328,3464 26,3464" rendition="TextRegion" xml:id="facs_78_tr_2">
+            <zone points="278,2755 2129,2758 2203,2750 2203,2689 278,2727" rendition="Line" xml:id="facs_78_tr_2_tl_1"/>
+            <zone points="278,2905 2126,2910 2325,2895 2325,2839 278,2880" rendition="Line" xml:id="facs_78_tr_2_tl_2"/>
+            <zone points="285,3066 2203,3056 2236,2994 285,3033" rendition="Line" xml:id="facs_78_tr_2_tl_3"/>
+            <zone points="288,3229 2215,3252 2213,3196 1082,3231 288,3160" rendition="Line" xml:id="facs_78_tr_2_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0552.jpg" n="part4_p078.jpg" xml:id="img_0078" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p078.jpg"/>
+            
+            <p facs="#facs_78_tr_3">
+               <lb facs="#facs_78_tr_3_tl_2" n="N001"/>[547]
+               <lb facs="#facs_78_tr_3_tl_3" n="N002"/>LECTURE XLII, April 17, 956
+               <lb facs="#facs_78_tr_3_tl_4" n="N003"/>QN: Are there any inmutable principles which should always government man’s action in society,
+               <lb facs="#facs_78_tr_3_tl_5" n="N004"/>or are there just artificial rules of repression created by the will of the times? Do you accept
+               <lb facs="#facs_78_tr_3_tl_6" n="N005"/>any of the concepts of natural law advanced by political powers-or something like that?
+               <lb facs="#facs_78_tr_3_tl_7" n="N006"/>You gaveimpressions of the sex drive, one example of the repressions resulting from artificia¬
+               <lb facs="#facs_78_tr_3_tl_8" n="N007"/>divine or national laws. Please give additional exemples.
+               <lb facs="#facs_78_tr_3_tl_9" n="N008"/>PT: Now who has asked this question? Would you be so good to formula it in one or two words?
+               <lb facs="#facs_78_tr_3_tl_10" n="N009"/>QN: There are two questions. The first is: do you accept any of the natural-law concepts advanced
+               <lb facs="#facs_78_tr_3_tl_11" n="N010"/>by temnal theorists? You seem to suggest that any of these ideas of an inmutable, eternal,
+               <lb facs="#facs_78_tr_3_tl_12" n="N011"/>moral order existing outside of man are ;mainly artificiaiicreations of the individual times.
+               <lb facs="#facs_78_tr_3_tl_13" n="N012"/>These merely repress man’svaives.
+            </p>
+            <p facs="#facs_78_tr_1">
+               <lb facs="#facs_78_tr_1_tl_2" n="N001"/>PT: Yes, now let’s first stick to this question. You ask me something which I
+               <lb facs="#facs_78_tr_1_tl_3" n="N002"/>not last hour, but the week before, and I don't know whether you attended when I gave thisächeme:
+               <lb facs="#facs_78_tr_1_tl_4" n="N003"/>love as the ultimate principle, which is universal and by natural law, because it belong to the nature
+               <lb facs="#facs_78_tr_1_tl_5" n="N004"/>of man. Then this third level, the concrete situation, of kthical decision, here and now, in this
+               <lb facs="#facs_78_tr_1_tl_6" n="N005"/>irrespectable unique situation, which happens in this moment. Then between this, the formation
+               <lb facs="#facs_78_tr_1_tl_7" n="N006"/>of rules and laws which are on the one hand hanging on the ultimate principle, and on the other
+               <lb facs="#facs_78_tr_1_tl_8" n="N007"/>hand are gained by experiences on the basis of the concrete situation in thenelopment of mankind.
+               <lb facs="#facs_78_tr_1_tl_9" n="N008"/>We called this the middle axioms, or the rules of wisdom. The first was love; the third was the
+            </p>
+            <p facs="#facs_78_tr_2">
+               <lb facs="#facs_78_tr_2_tl_1" n="N001"/>kairos, the unique moment in time; and the middle was wisdom. And the wisdom is the unity of
+               <lb facs="#facs_78_tr_2_tl_2" n="N002"/>something immovable—which we defined as love—and on the other hand, the always changing elements
+               <lb facs="#facs_78_tr_2_tl_3" n="N003"/>of the concrete situation. So my theory of the natural law is not identical with that of the Roman
+               <lb facs="#facs_78_tr_2_tl_4" n="N004"/>Catholic Church, where special definite contents are identified with the eternal natural law—that's
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

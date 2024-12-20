@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -68,13 +68,11 @@
          <graphic url="TL-0403.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=IBLFMIBPBZLXKSMHTLJMKCXJ&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="56,99 2236,99 2236,1120 56,1120" rendition="TextRegion" xml:id="facs_11_tr_1">
-            <zone points="43,163 83,163 98,150 113,165 140,165 140,0 43,0" rendition="Line" xml:id="facs_11_tr_1_tl_1"/>
             <zone points="1121,490 1183,503 1243,500 1241,415 1228,415 1203,443 1183,443 1178,448 1118,448" rendition="Line" xml:id="facs_11_tr_1_tl_2"/>
             <zone points="305,640 2229,678 2229,620 2066,600 305,593" rendition="Line" xml:id="facs_11_tr_1_tl_3"/>
             <zone points="295,790 1521,805 1518,750 1468,748 293,758" rendition="Line" xml:id="facs_11_tr_1_tl_4"/>
-            <zone points="1796,910 1851,923 1878,898 1893,913 1921,913 1998,868 2049,870 2076,848 2136,853 2139,820 2096,818 2034,743 1968,748 1943,720 1903,728 1826,795 1806,793" rendition="Line" xml:id="facs_11_tr_1_tl_5"/>
-            <zone points="300,945 1921,978 2124,963 2124,858 1851,923 300,895" rendition="Line" xml:id="facs_11_tr_1_tl_6"/>
-            <zone points="295,1098 1886,1138 2094,1118 2094,1063 293,1043" rendition="Line" xml:id="facs_11_tr_1_tl_7"/>
+            <zone points="300,945 1921,978 2124,963 2124,858 1851,923 300,895" rendition="Line" xml:id="facs_11_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="295,1098 1886,1138 2094,1118 2094,1063 293,1043" rendition="Line" xml:id="facs_11_tr_1_tl_7" subtype="paragraph"/>
          </zone>
          <zone points="277,1188 2257,1188 2257,2326 277,2326" rendition="TextRegion" xml:id="facs_11_tr_2">
             <zone points="285,1243 2149,1263 2149,1208 285,1213" rendition="Line" xml:id="facs_11_tr_2_tl_1"/>
@@ -89,7 +87,6 @@
          <zone points="11,2395 2277,2395 2277,3225 11,3225" rendition="TextRegion" xml:id="facs_11_tr_3">
             <zone points="263,2459 2274,2474 2274,2419 263,2401" rendition="Line" xml:id="facs_11_tr_3_tl_1"/>
             <zone points="263,2659 420,2696 578,2611 1033,2604 1093,2661 2224,2659 2221,2579 2139,2566 605,2564 470,2469 260,2521" rendition="Line" xml:id="facs_11_tr_3_tl_2"/>
-            <zone points="0,2659 28,2661 48,2651 65,2664 93,2646 120,2646 138,2634 150,2646 178,2634 210,2636 223,2526 195,2526 155,2494 138,2504 93,2506 73,2524 33,2539 10,2536" rendition="Line" xml:id="facs_11_tr_3_tl_3"/>
             <zone points="250,2746 2214,2774 2214,2714 250,2701" rendition="Line" xml:id="facs_11_tr_3_tl_4"/>
             <zone points="248,2901 2109,2961 2109,2866 248,2876" rendition="Line" xml:id="facs_11_tr_3_tl_5"/>
             <zone points="245,3107 2189,3109 2189,3022 245,3014" rendition="Line" xml:id="facs_11_tr_3_tl_6"/>
@@ -104,32 +101,29 @@
             <pb facs="#TL-0403.jpg" n="part3_p011.jpg" xml:id="img_0011" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p011.jpg"/>
             
             <p facs="#facs_11_tr_1">
-               <lb facs="#facs_11_tr_1_tl_1" n="N001"/>M. de
-               <lb facs="#facs_11_tr_1_tl_2" n="N002"/>-398-
-               <lb facs="#facs_11_tr_1_tl_3" n="N003"/>of which I spoke, and don't do something about them too early, because your remedies then may
-               <lb facs="#facs_11_tr_1_tl_4" n="N004"/>be very fhallow and lead in the long run to deeper Istortions.
-               <lb facs="#facs_11_tr_1_tl_5" n="N005"/>Gesch.
-               <lb facs="#facs_11_tr_1_tl_6" n="N006"/>QN [Owen Thomas] : How do you describe that which transcends the subject-object realm?
-               <lb facs="#facs_11_tr_1_tl_7" n="N007"/>PT: Yes. Now that is of course also a very valid question. It brings us back a little into the
+               <lb facs="#facs_11_tr_1_tl_2" n="N001"/>[398]
+               <lb facs="#facs_11_tr_1_tl_3" n="N002"/>of which I spoke, and don't do something about them too early, because your remedies then may
+               <lb facs="#facs_11_tr_1_tl_4" n="N003"/>be very shallow and lead in the long run to deeper distortions.
+               <lb facs="#facs_11_tr_1_tl_6" n="N004"/>QN [Owen Thomas] : How do you describe that which transcends the subject-object realm?
+               <lb facs="#facs_11_tr_1_tl_7" n="N005"/>PT: Yes. Now that is of course also a very valid question. It brings us back a little into the
             </p>
             <p facs="#facs_11_tr_2">
                <lb facs="#facs_11_tr_2_tl_1" n="N001"/>first lectures of the first semester. I would describe it as the dimension of ultimate concern, or
-               <lb facs="#facs_11_tr_2_tl_2" n="N002"/>of the December with the holy. The interesting thing in the encounter with the Holy is that if
-               <lb facs="#facs_11_tr_2_tl_3" n="N003"/>we encounter it, either within in the so-called "sacred" realm or outside of it, wherever that
-               <lb facs="#facs_11_tr_2_tl_4" n="N004"/>may be--in a man, in nature, or everything in which it can be encounterd--that then this holy can
+               <lb facs="#facs_11_tr_2_tl_2" n="N002"/>of the encounter with the holy. The interesting thing in the encounter with the Holy is that if
+               <lb facs="#facs_11_tr_2_tl_3" n="N003"/>we encounter it, either within in the so-called ''sacred'' realm or outside of it, wherever that
+               <lb facs="#facs_11_tr_2_tl_4" n="N004"/>may be--in a man, in nature, or everything in which it can be encountered--that then this holy can
                <lb facs="#facs_11_tr_2_tl_5" n="N005"/>never be transformed into an object which you can handle. Of course you can do even this, and
-               <lb facs="#facs_11_tr_2_tl_6" n="N006"/>often priests do just this—they can transform it into astachanized process which can behandled;
-               <lb facs="#facs_11_tr_2_tl_7" n="N007"/>especially in some theories this is the case. But the holy rends against it. You feel, if you do this,
-               <lb facs="#facs_11_tr_2_tl_8" n="N008"/>that you il. So the encounter with the holy, or with the ultimate, however you want to call it,
+               <lb facs="#facs_11_tr_2_tl_6" n="N006"/>often priests do just this--they can transform it into mechanized process which can be handled;
+               <lb facs="#facs_11_tr_2_tl_7" n="N007"/>especially in some theories this is the case. But the holy reacts against it. You feel, if you do this,
+               <lb facs="#facs_11_tr_2_tl_8" n="N008"/>that you abuse it. So the encounter with the holy, or with the ultimate, however you want to call it,
             </p>
             <p facs="#facs_11_tr_3">
-               <lb facs="#facs_11_tr_3_tl_1" n="N001"/>has powers which make the objectivationäscheme impossible. They areiensting powers in themselves.
-               <lb facs="#facs_11_tr_3_tl_2" n="N002"/>In a prayer—I often used that example—God is never object without being at the same time subject.
-               <lb facs="#facs_11_tr_3_tl_3" n="N003"/>G.H.P
-               <lb facs="#facs_11_tr_3_tl_4" n="N004"/> Therefore the ordinary prayer, which is done so easily, is only a symptom of the religious weakness
-               <lb facs="#facs_11_tr_3_tl_5" n="N005"/>of religion being drawn down to the level of objectivation. But any SERIOUS prayer elevates
-               <lb facs="#facs_11_tr_3_tl_6" n="N006"/>you BEYOND the subject-object encounter into that which is ITSELF beyond subject and object,
-               <lb facs="#facs_11_tr_3_tl_7" n="N007"/>namely the holy, the ground of being out of which both come. This experience can be called
+               <lb facs="#facs_11_tr_3_tl_1" n="N001"/>has powers which make the objectivation scheme impossible. They are resisting powers in themselves.
+               <lb facs="#facs_11_tr_3_tl_2" n="N002"/>In a prayer--I often used that example--God is never object without being at the same time subject.
+               <lb facs="#facs_11_tr_3_tl_4" n="N003"/>Therefore the ordinary prayer, which is done so easily, is only a symptom of the religious weakness
+               <lb facs="#facs_11_tr_3_tl_5" n="N004"/>of religion being drawn down to the level of objectivation. But any SERIOUS prayer elevates
+               <lb facs="#facs_11_tr_3_tl_6" n="N005"/>you BEYOND the subject-object encounter into that which is ITSELF beyond subject and object,
+               <lb facs="#facs_11_tr_3_tl_7" n="N006"/>namely the holy, the ground of being out of which both come. This experience can be called
             </p>
             
         </div>

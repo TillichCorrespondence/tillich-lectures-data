@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXIX (Nr. 0522)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p048</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-22">1956-03-22</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_48">
+         <graphic url="TL-0522.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=OMCEQCLSONOJUBLLAXOKTRDL&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="256,251 2346,251 2346,1529 256,1529" rendition="TextRegion" xml:id="facs_48_tr_2">
+            <zone points="1126,303 1140,303 1161,319 1213,314 1249,316 1246,264 1208,264 1186,243 1180,248 1175,245 1161,259 1123,259" rendition="Line" xml:id="facs_48_tr_2_tl_1"/>
+            <zone points="256,463 2156,480 2244,469 2244,406 256,428" rendition="Line" xml:id="facs_48_tr_2_tl_2"/>
+            <zone points="254,611 1369,630 1469,624 1469,567 957,548 254,586" rendition="Line" xml:id="facs_48_tr_2_tl_3"/>
+            <zone points="458,772 562,834 2339,812 2339,712 458,714" rendition="Line" xml:id="facs_48_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="248,911 2159,916 2159,867 2015,861 248,870" rendition="Line" xml:id="facs_48_tr_2_tl_5"/>
+            <zone points="248,1069 2061,1107 2176,1099 2211,1017 248,1036" rendition="Line" xml:id="facs_48_tr_2_tl_6"/>
+            <zone points="251,1210 2298,1221 2298,1164 2017,1156 251,1170" rendition="Line" xml:id="facs_48_tr_2_tl_7"/>
+            <zone points="251,1371 2037,1407 2197,1371 2200,1311 254,1320" rendition="Line" xml:id="facs_48_tr_2_tl_8"/>
+            <zone points="240,1513 2282,1557 2282,1464 240,1489" rendition="Line" xml:id="facs_48_tr_2_tl_9"/>
+         </zone>
+         <zone points="14,1609 2289,1609 2289,3476 14,3476" rendition="TextRegion" xml:id="facs_48_tr_1">
+            <zone points="139,1739 254,1666 2181,1696 2178,1617 139,1598" rendition="Line" xml:id="facs_48_tr_1_tl_1"/>
+            <zone points="248,1824 1968,1854 2118,1821 2118,1764 248,1791" rendition="Line" xml:id="facs_48_tr_1_tl_3"/>
+            <zone points="234,1971 2282,1974 2282,1919 234,1927" rendition="Line" xml:id="facs_48_tr_1_tl_4"/>
+            <zone points="60,2143 1658,2170 2246,2126 2246,2069 60,2088" rendition="Line" xml:id="facs_48_tr_1_tl_5"/>
+            <zone points="245,2276 2279,2271 2238,2211 245,2211" rendition="Line" xml:id="facs_48_tr_1_tl_6"/>
+            <zone points="229,2418 444,2470 2017,2467 2072,2415 2271,2429 2271,2372 229,2394" rendition="Line" xml:id="facs_48_tr_1_tl_8"/>
+            <zone points="226,2571 883,2576 930,2623 1044,2631 1300,2612 1300,2530 1232,2522 281,2519 226,2546" rendition="Line" xml:id="facs_48_tr_1_tl_10"/>
+            <zone points="224,2734 294,2786 357,2754 523,2764 567,2734 758,2734 761,2674 262,2674 226,2696" rendition="Line" xml:id="facs_48_tr_1_tl_11"/>
+            <zone points="436,2811 2105,2800 2146,2726 439,2756" rendition="Line" xml:id="facs_48_tr_1_tl_12" subtype="paragraph"/>
+            <zone points="264,2966 780,2963 829,3013 2241,2950 2241,2893 264,2906" rendition="Line" xml:id="facs_48_tr_1_tl_13"/>
+            <zone points="224,3102 810,3127 976,3113 976,3062 774,3045 758,3062 256,3059 224,3078" rendition="Line" xml:id="facs_48_tr_1_tl_14"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0522.jpg" n="part4_p048.jpg" xml:id="img_0048" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p048.jpg"/>
+            
+            <p facs="#facs_48_tr_2">
+               <lb facs="#facs_48_tr_2_tl_1" n="N001"/>[517]
+               <lb facs="#facs_48_tr_2_tl_2" n="N002"/>not as a past story, but as something which happens to us all the time---in degrees, not in one act, but
+               <lb facs="#facs_48_tr_2_tl_3" n="N003"/>this one act embraces all the little degrees of all our daily life.
+               <lb facs="#facs_48_tr_2_tl_4" n="N004"/>In the moment in which the self-actualization is done, man is separated from what he essentially
+               <lb facs="#facs_48_tr_2_tl_5" n="N005"/>is. He is now in existence. He actualizes himself. But he is not what he essentially is any longer.
+               <lb facs="#facs_48_tr_2_tl_6" n="N006"/>And in this moment the commandment appears. The law comes in between, as Paul has called it.
+               <lb facs="#facs_48_tr_2_tl_7" n="N007"/>The law appears in the moment in which man is outside of his dreaming innocence, in which he has over-
+               <lb facs="#facs_48_tr_2_tl_8" n="N008"/>stepped the warning voice and the anxiety of self-actualization and has become an actual, historical
+               <lb facs="#facs_48_tr_2_tl_9" n="N009"/>human being---because NOW, what he essentially is stands against him as commandment. Only what we
+            </p>
+            <p facs="#facs_48_tr_1">
+               <lb facs="#facs_48_tr_1_tl_1" n="N001"/>NOT are, can be ASKED of us as a commandment. Insofar as we ARE what we essentially are, no
+               <lb facs="#facs_48_tr_1_tl_3" n="N002"/>commandment is needed. And here again the old famous law of all myths and of the whole Bible
+               <lb facs="#facs_48_tr_1_tl_4" n="N003"/>becomes actual, namely the vision of the correspondence of what was in the beginning and what will be
+               <lb facs="#facs_48_tr_1_tl_5" n="N004"/>in the end. There was no law in the beginning, and there will not be law in the end, in the fulfillment.
+               <lb facs="#facs_48_tr_1_tl_6" n="N005"/>Law lasts, AS LAW, only as long as there is estrangement. He who is what he is essentially, is not under
+               <lb facs="#facs_48_tr_1_tl_8" n="N006"/>a law. The content of the law, of course, is, from this point of view, what man essentially is. But now,
+               <lb facs="#facs_48_tr_1_tl_10" n="N007"/>since he is not identical with it, he is UNDER the law, it stands against him, it is not in him,
+               <lb facs="#facs_48_tr_1_tl_11" n="N008"/>he is not identical with it.
+               <lb facs="#facs_48_tr_1_tl_12" n="N009"/>So we can say: All moral laws are man's essential nature put against him because he is
+               <lb facs="#facs_48_tr_1_tl_13" n="N010"/>ESTRANGED from his essential nature. This is the first and fundamental insight which we must have
+               <lb facs="#facs_48_tr_1_tl_14" n="N011"/>with respect to the moral imperative.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

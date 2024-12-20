@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XL (Nr. 0533)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p059</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-27">1956-03-27</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_59">
+         <graphic url="TL-0533.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SUSUVYALNRCFZPJSYOLLLCXY&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="32,24 2307,24 2307,1040 32,1040" rendition="TextRegion" xml:id="facs_59_tr_3">
+            <zone points="1074,331 1086,331 1100,343 1174,343 1184,335 1198,333 1198,295 1186,297 1162,273 1145,278 1129,271 1105,295 1074,295" rendition="Line" xml:id="facs_59_tr_3_tl_2"/>
+            <zone points="379,448 2300,453 2260,386 379,388" rendition="Line" xml:id="facs_59_tr_3_tl_3"/>
+            <zone points="371,566 470,613 1371,611 1419,566 2202,563 2202,510 371,527" rendition="Line" xml:id="facs_59_tr_3_tl_4"/>
+            <zone points="371,738 669,740 875,709 973,728 975,642 740,628 721,642 676,625 649,642 530,628 374,645" rendition="Line" xml:id="facs_59_tr_3_tl_5"/>
+            <zone points="585,793 2032,812 2188,803 2190,745 585,750" rendition="Line" xml:id="facs_59_tr_3_tl_6" subtype="paragraph"/>
+            <zone points="369,913 2128,925 2243,918 2243,860 369,875" rendition="Line" xml:id="facs_59_tr_3_tl_7"/>
+            <zone points="371,1040 671,1093 1076,1038 2147,1038 2147,992 371,994" rendition="Line" xml:id="facs_59_tr_3_tl_8"/>
+         </zone>
+         <zone points="44,1093 2263,1093 2263,2625 44,2625" rendition="TextRegion" xml:id="facs_59_tr_1">
+            <zone points="362,1148 2121,1157 2051,1090 362,1117" rendition="Line" xml:id="facs_59_tr_1_tl_1"/>
+            <zone points="367,1275 2128,1284 2164,1215 367,1244" rendition="Line" xml:id="facs_59_tr_1_tl_2"/>
+            <zone points="362,1383 539,1443 2157,1445 2121,1332 362,1337" rendition="Line" xml:id="facs_59_tr_1_tl_3"/>
+            <zone points="362,1534 2135,1510 2135,1459 362,1467" rendition="Line" xml:id="facs_59_tr_1_tl_4"/>
+            <zone points="359,1617 2257,1663 2257,1567 1979,1502 1785,1582 359,1582" rendition="Line" xml:id="facs_59_tr_1_tl_5"/>
+            <zone points="357,1780 386,1797 446,1795 474,1766 494,1780 525,1778 561,1742 673,1740 673,1697 616,1697 599,1680 573,1680 556,1697 357,1697" rendition="Line" xml:id="facs_59_tr_1_tl_6"/>
+            <zone points="587,1807 2147,1797 2161,1740 587,1744" rendition="Line" xml:id="facs_59_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="357,1912 2092,1903 2034,1857 1831,1893 1543,1843 357,1871" rendition="Line" xml:id="facs_59_tr_1_tl_9"/>
+            <zone points="355,2025 1948,2039 2178,2030 2178,1975 355,1989" rendition="Line" xml:id="facs_59_tr_1_tl_10"/>
+            <zone points="350,2145 2118,2149 2145,2104 350,2123" rendition="Line" xml:id="facs_59_tr_1_tl_11"/>
+            <zone points="350,2267 2082,2276 2181,2269 2181,2209 350,2238" rendition="Line" xml:id="facs_59_tr_1_tl_12"/>
+            <zone points="355,2384 2147,2384 2164,2324 355,2341" rendition="Line" xml:id="facs_59_tr_1_tl_13"/>
+            <zone points="347,2502 2214,2502 2214,2442 347,2459" rendition="Line" xml:id="facs_59_tr_1_tl_14"/>
+            <zone points="357,2629 2183,2621 2183,2569 1831,2547 357,2559" rendition="Line" xml:id="facs_59_tr_1_tl_15"/>
+         </zone>
+         <zone points="29,2672 2218,2672 2218,3485 29,3485" rendition="TextRegion" xml:id="facs_59_tr_2">
+            <zone points="355,2741 2166,2741 2166,2674 355,2684" rendition="Line" xml:id="facs_59_tr_2_tl_1"/>
+            <zone points="345,2852 2183,2840 2027,2792 347,2816" rendition="Line" xml:id="facs_59_tr_2_tl_2"/>
+            <zone points="347,2967 2195,2974 2214,2911 347,2931" rendition="Line" xml:id="facs_59_tr_2_tl_3"/>
+            <zone points="343,3082 1979,3091 2140,3084 2140,3029 343,3036" rendition="Line" xml:id="facs_59_tr_2_tl_4"/>
+            <zone points="343,3204 1864,3221 2178,3204 2178,3144 343,3168" rendition="Line" xml:id="facs_59_tr_2_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0533.jpg" n="part4_p059.jpg" xml:id="img_0059" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p059.jpg"/>
+            
+            <p facs="#facs_59_tr_3">
+               <lb facs="#facs_59_tr_3_tl_2" n="N001"/>[528]
+               <lb facs="#facs_59_tr_3_tl_3" n="N002"/>We can call it the immediate awareness of the ethical principles in ourselves. From this immediate
+               <lb facs="#facs_59_tr_3_tl_4" n="N003"/>awareness they distinguished the human conscience, which may be erroneous, but which acts
+               <lb facs="#facs_59_tr_3_tl_5" n="N004"/>on the basis of this awareness.
+               <lb facs="#facs_59_tr_3_tl_6" n="N005"/>Now this includes a lot of important consequences. The one is that it is possible
+               <lb facs="#facs_59_tr_3_tl_7" n="N006"/>for the philosopher or theologian to develop, in terms of pure reason, the laws and principles of
+               <lb facs="#facs_59_tr_3_tl_8" n="N007"/>natural law, the law of morals-freedom, equality, justice to everybody, and many others.
+            </p>
+            <p facs="#facs_59_tr_1">
+               <lb facs="#facs_59_tr_1_tl_1" n="N001"/>On the other hand, human knowledge is limited and can also produce concepts [such] as
+               <lb facs="#facs_59_tr_1_tl_2" n="N002"/>concepts of natural law, which are really natural law, and forget others which really are. [?]
+               <lb facs="#facs_59_tr_1_tl_3" n="N003"/>Therefore one needs an authority above the analysis of the human mind, and this authority
+               <lb facs="#facs_59_tr_1_tl_4" n="N004"/>of course is the Roman Church. This is the doctrine of the natural law, in Roman
+               <lb facs="#facs_59_tr_1_tl_5" n="N005"/>Catholicism. The modern and very interesting elaboration of it, you can find in Maritain's book
+               <lb facs="#facs_59_tr_1_tl_6" n="N006"/>on natural law.
+               <lb facs="#facs_59_tr_1_tl_7" n="N007"/>This natural law goes very deeply into the concreteness of life. And if there are
+               <lb facs="#facs_59_tr_1_tl_9" n="N008"/>discussions which cannot be solved by reason alone---which they can in principle---
+               <lb facs="#facs_59_tr_1_tl_10" n="N009"/>then the authority of the Church gives the ultimate judgment. Now for instance, one of the
+               <lb facs="#facs_59_tr_1_tl_11" n="N010"/>most discussed consequences which Roman theology finds in terms of natural law is the
+               <lb facs="#facs_59_tr_1_tl_12" n="N011"/>anti-conceptuals [i.e. contraceptives]. Roman Catholic theology declares that this is against
+               <lb facs="#facs_59_tr_1_tl_13" n="N012"/>the natural law, and therefore, however great the misery which follows from the non-use of
+               <lb facs="#facs_59_tr_1_tl_14" n="N013"/>anti-conceptuals in a family or in a whole nation, they are forbidden by natural law. Now this
+               <lb facs="#facs_59_tr_1_tl_15" n="N014"/>is an example which I use because it is of such an importance for innumerable practical cases
+            </p>
+            <p facs="#facs_59_tr_2">
+               <lb facs="#facs_59_tr_2_tl_1" n="N001"/>in the Western world and for the whole support America gives, for instance, to India, which,
+               <lb facs="#facs_59_tr_2_tl_2" n="N002"/>if the anti-conceptual ideology is NOT accepted by the Indian people---if Rome had its way---
+               <lb facs="#facs_59_tr_2_tl_3" n="N003"/>would lead to a corresponding increase of the population and other permanency of the misery.
+               <lb facs="#facs_59_tr_2_tl_4" n="N004"/>Therefore the whole problem is not a theoretical problem alone; it's a problem of practical
+               <lb facs="#facs_59_tr_2_tl_5" n="N005"/>decisions of greatest importance for world history as well as for the misery and happiness of
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

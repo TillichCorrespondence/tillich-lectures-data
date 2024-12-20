@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXIX (Nr. 0525)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p051</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-22">1956-03-22</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_51">
+         <graphic url="TL-0525.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QKUYVOJETBLAVATILPRYTQFS&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="250,275 2277,275 2277,944 250,944" rendition="TextRegion" xml:id="facs_51_tr_3">
+            <zone points="1114,328 1127,325 1145,341 1235,341 1232,259 1206,259 1199,264 1186,259 1163,266 1150,279 1112,282" rendition="Line" xml:id="facs_51_tr_3_tl_1"/>
+            <zone points="435,479 2131,517 2134,417 435,448" rendition="Line" xml:id="facs_51_tr_3_tl_2" subtype="paragraph"/>
+            <zone points="241,630 479,676 2192,638 2118,579 241,587" rendition="Line" xml:id="facs_51_tr_3_tl_3"/>
+            <zone points="236,784 2210,789 2167,709 236,745" rendition="Line" xml:id="facs_51_tr_3_tl_4"/>
+            <zone points="238,932 2272,950 2228,884 238,891" rendition="Line" xml:id="facs_51_tr_3_tl_5"/>
+         </zone>
+         <zone points="226,1027 2283,1027 2283,2607 226,2607" rendition="TextRegion" xml:id="facs_51_tr_1">
+            <zone points="231,1089 1908,1101 2210,1091 2210,1037 231,1042" rendition="Line" xml:id="facs_51_tr_1_tl_1"/>
+            <zone points="223,1237 1762,1255 2131,1240 2131,1188 223,1196" rendition="Line" xml:id="facs_51_tr_1_tl_2"/>
+            <zone points="220,1386 2029,1411 2223,1388 2223,1340 220,1363" rendition="Line" xml:id="facs_51_tr_1_tl_3"/>
+            <zone points="220,1539 2087,1552 2280,1542 2280,1488 220,1493" rendition="Line" xml:id="facs_51_tr_1_tl_4"/>
+            <zone points="218,1696 2139,1693 2139,1639 218,1670" rendition="Line" xml:id="facs_51_tr_1_tl_5"/>
+            <zone points="220,1839 2123,1847 2139,1793 220,1813" rendition="Line" xml:id="facs_51_tr_1_tl_6"/>
+            <zone points="218,1988 2123,2005 2267,1993 2267,1944 218,1964" rendition="Line" xml:id="facs_51_tr_1_tl_7"/>
+            <zone points="228,2146 1634,2159 2187,2141 2187,2093 228,2098" rendition="Line" xml:id="facs_51_tr_1_tl_8"/>
+            <zone points="220,2297 1498,2303 1539,2297 1539,2246 220,2251" rendition="Line" xml:id="facs_51_tr_1_tl_9"/>
+            <zone points="417,2449 2123,2454 2157,2395 417,2400" rendition="Line" xml:id="facs_51_tr_1_tl_10" subtype="paragraph"/>
+            <zone points="213,2592 2039,2612 2067,2551 213,2566" rendition="Line" xml:id="facs_51_tr_1_tl_11"/>
+         </zone>
+         <zone points="113,2690 2224,2690 2224,3485 113,3485" rendition="TextRegion" xml:id="facs_51_tr_2">
+            <zone points="213,2764 2039,2766 2103,2700 215,2710" rendition="Line" xml:id="facs_51_tr_2_tl_1"/>
+            <zone points="205,2907 1941,2912 2200,2899 2200,2835 205,2879" rendition="Line" xml:id="facs_51_tr_2_tl_2"/>
+            <zone points="412,3061 2067,3063 2105,3002 412,3015" rendition="Line" xml:id="facs_51_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="200,3212 2200,3214 2221,3153 200,3181" rendition="Line" xml:id="facs_51_tr_2_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0525.jpg" n="part4_p051.jpg" xml:id="img_0051" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p051.jpg"/>
+            
+            <p facs="#facs_51_tr_3">
+               <lb facs="#facs_51_tr_3_tl_1" n="N001"/>[520]
+               <lb facs="#facs_51_tr_3_tl_2" n="N002"/>Now the question is: What can we say about this refined and almost demonic theory?
+               <lb facs="#facs_51_tr_3_tl_3" n="N003"/>There are several arguments which show its weakness. One of these arguments is the relation of the
+               <lb facs="#facs_51_tr_3_tl_4" n="N004"/>upper class within itself, where there are imperatives which cannot be derived in the SAME way, but
+               <lb facs="#facs_51_tr_3_tl_5" n="N005"/>which are absolutely valid for the ruling group---where does the validity of these rules come in the ruling
+            </p>
+            <p facs="#facs_51_tr_1">
+               <lb facs="#facs_51_tr_1_tl_1" n="N001"/>group? And the second, the validity of some rules even in the revolutionary groups---for instance
+               <lb facs="#facs_51_tr_1_tl_2" n="N002"/>the criminal groups, who fight against society and its laws, which do not accept THESE laws but
+               <lb facs="#facs_51_tr_1_tl_3" n="N003"/>accept OTHER laws---where does the moral imperative of fair play in a gang, in a criminal gang, come
+               <lb facs="#facs_51_tr_1_tl_4" n="N004"/>from? Now all these questions show that the relativism of the contents, to which I come later, does not
+               <lb facs="#facs_51_tr_1_tl_5" n="N005"/>prejudice against the absolutism of the demand itself. And this distinction is decisive. The moral
+               <lb facs="#facs_51_tr_1_tl_6" n="N006"/>command comes from the unconditional character of the moral imperative itself, no matter what
+               <lb facs="#facs_51_tr_1_tl_7" n="N007"/>contents it has. The contents are changing---and the question of something ultimate is a question
+               <lb facs="#facs_51_tr_1_tl_8" n="N008"/>we have dicussed too---but first we must acknowledge that the changing contents does not hurt the
+               <lb facs="#facs_51_tr_1_tl_9" n="N009"/>unconditional character of the form of the moral imperative itself.
+               <lb facs="#facs_51_tr_1_tl_10" n="N010"/>How can it be unconditional? Why is EVERY person DESTROYED if it doesn't accept
+               <lb facs="#facs_51_tr_1_tl_11" n="N011"/>the unconditional character of those norms which it accepts, even the norms of a gang?
+            </p>
+            <p facs="#facs_51_tr_2">
+               <lb facs="#facs_51_tr_2_tl_1" n="N001"/>Because in the moral imperative, the person becomes person. This means: its essential being is
+               <lb facs="#facs_51_tr_2_tl_2" n="N002"/>affirmed by the acceptance of the moral imperative which, by this very fact, becomes unconditional.
+               <lb facs="#facs_51_tr_2_tl_3" n="N003"/>Now what does unconditional mean? There is no condition by which you can escape
+               <lb facs="#facs_51_tr_2_tl_4" n="N004"/>a moral demand which you have accepted as such. If you don't accept it, then of course the situation
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

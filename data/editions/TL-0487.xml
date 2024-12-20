@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVII (Nr. 0487)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p013</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-15">1956-03-15</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_13">
+         <graphic url="TL-0487.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KBWRLCTYNJQATITLPPURYLET&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="256,54 2212,54 2212,1586 256,1586" rendition="TextRegion" xml:id="facs_13_tr_1">
+            <zone points="1141,355 1153,352 1194,367 1201,362 1259,362 1254,292 1235,295 1216,283 1194,309 1182,304 1172,304 1168,309 1158,304 1136,307" rendition="Line" xml:id="facs_13_tr_1_tl_2"/>
+            <zone points="326,520 1992,518 2086,508 2086,460 1098,436 326,489" rendition="Line" xml:id="facs_13_tr_1_tl_3"/>
+            <zone points="319,678 2107,669 2170,662 2170,602 899,635 439,592 321,645" rendition="Line" xml:id="facs_13_tr_1_tl_4"/>
+            <zone points="324,825 2160,815 2196,753 326,779" rendition="Line" xml:id="facs_13_tr_1_tl_5"/>
+            <zone points="321,973 2059,966 2206,957 2206,901 324,930" rendition="Line" xml:id="facs_13_tr_1_tl_6"/>
+            <zone points="321,1122 1853,1122 2071,1110 2071,1057 321,1081" rendition="Line" xml:id="facs_13_tr_1_tl_7"/>
+            <zone points="326,1273 1932,1271 2062,1256 2064,1204 326,1232" rendition="Line" xml:id="facs_13_tr_1_tl_8"/>
+            <zone points="331,1427 1961,1415 2189,1405 2189,1350 333,1379" rendition="Line" xml:id="facs_13_tr_1_tl_9"/>
+            <zone points="326,1575 1925,1573 2129,1556 2129,1503 326,1551" rendition="Line" xml:id="facs_13_tr_1_tl_10"/>
+         </zone>
+         <zone points="334,1645 2251,1645 2251,2643 334,2643" rendition="TextRegion" xml:id="facs_13_tr_3">
+            <zone points="336,1748 2175,1712 2218,1649 338,1683" rendition="Line" xml:id="facs_13_tr_3_tl_1"/>
+            <zone points="326,1887 2177,1860 2179,1805 326,1853" rendition="Line" xml:id="facs_13_tr_3_tl_2"/>
+            <zone points="331,2033 2110,2021 2172,1961 331,1988" rendition="Line" xml:id="facs_13_tr_3_tl_3"/>
+            <zone points="321,2177 2244,2167 2246,2110 321,2153" rendition="Line" xml:id="facs_13_tr_3_tl_4"/>
+            <zone points="331,2333 2189,2318 2191,2266 331,2290" rendition="Line" xml:id="facs_13_tr_3_tl_5"/>
+            <zone points="331,2484 2177,2462 2177,2412 331,2441" rendition="Line" xml:id="facs_13_tr_3_tl_6"/>
+            <zone points="321,2630 2151,2616 2167,2556 321,2606" rendition="Line" xml:id="facs_13_tr_3_tl_7"/>
+         </zone>
+         <zone points="86,2693 2209,2693 2209,3485 86,3485" rendition="TextRegion" xml:id="facs_13_tr_2">
+            <zone points="324,2786 2000,2772 2187,2757 2189,2697 324,2762" rendition="Line" xml:id="facs_13_tr_2_tl_1"/>
+            <zone points="331,2935 2088,2918 2155,2855 331,2889" rendition="Line" xml:id="facs_13_tr_2_tl_2"/>
+            <zone points="336,3083 357,3093 575,3090 587,3102 621,3090 650,3095 650,3040 424,3040 415,3030 405,3040 336,3040" rendition="Line" xml:id="facs_13_tr_2_tl_3"/>
+            <zone points="554,3158 1964,3155 2206,3136 2208,3069 556,3098" rendition="Line" xml:id="facs_13_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="326,3306 1630,3294 2083,3225 328,3275" rendition="Line" xml:id="facs_13_tr_2_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0487.jpg" n="part4_p013.jpg" xml:id="img_0013" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p013.jpg"/>
+            
+            <p facs="#facs_13_tr_1">
+               <lb facs="#facs_13_tr_1_tl_2" n="N001"/>[482]
+               <lb facs="#facs_13_tr_1_tl_3" n="N002"/>theory, remaining in itself, without relationship to the events in the political and religious
+               <lb facs="#facs_13_tr_1_tl_4" n="N003"/>and social and economic life of the country. <rs type="keyword" ref="#Humanism">Humanism</rs>, especially during the 19th century in
+               <lb facs="#facs_13_tr_1_tl_5" n="N004"/><rs type="place">Germany</rs>, became identical with ivory-tower, and that means: only teaching, and only research
+               <lb facs="#facs_13_tr_1_tl_6" n="N005"/>for the sake of research: this alone is the function of the <rs type="keyword" ref="#University">university.</rs> But the relationship to the
+               <lb facs="#facs_13_tr_1_tl_7" n="N006"/>life of the people, to the political realm, is something which is beneath the dignity of the
+               <lb facs="#facs_13_tr_1_tl_8" n="N007"/>university. This was the situation up to the First World War, 1914-19. After this period
+               <lb facs="#facs_13_tr_1_tl_9" n="N008"/>one thing became clear: the catastrophe of the First World War was rooted in the fact that the
+               <lb facs="#facs_13_tr_1_tl_10" n="N009"/>upper classes of <rs type="place">Germany</rs> were not active participants of the political realm. They couldn't
+            </p>
+            <p facs="#facs_13_tr_3">
+               <lb facs="#facs_13_tr_3_tl_1" n="N001"/>prevent the militaristic powers from drawing <rs type="place">Germany</rs> into the war, and after this they couldn't
+               <lb facs="#facs_13_tr_3_tl_2" n="N002"/>prevent the split of <rs type="place">Germany </rs>into the parties, which at that time took over largely: the Social
+               <lb facs="#facs_13_tr_3_tl_3" n="N003"/>Democrats and the other sections of the German population. The universities at that time, at
+               <lb facs="#facs_13_tr_3_tl_4" n="N004"/>the time of my study, were almost INFINITELY removed from political thought and relationship
+               <lb facs="#facs_13_tr_3_tl_5" n="N005"/>to economic realities. They did not encourage [the] connection of philosophical, or literature,
+               <lb facs="#facs_13_tr_3_tl_6" n="N006"/>or other problems belonging to the humanities, to the actual situation in the life of the nation
+               <lb facs="#facs_13_tr_3_tl_7" n="N007"/>and the world. The result was that an empty space, a vacuum, developed in the minds of the
+            </p>
+            <p facs="#facs_13_tr_2">
+               <lb facs="#facs_13_tr_2_tl_1" n="N001"/>upper classes, and that into this empty space then, as is always the case with empty spaces, the
+               <lb facs="#facs_13_tr_2_tl_2" n="N002"/>forces of a primitive <rs type="keyword" ref="#Nationalism">nationalism</rs> entered and produced the two Wars and ruined <rs type="place">Germany</rs> as
+               <lb facs="#facs_13_tr_2_tl_3" n="N003"/>well as Europe.
+               <lb facs="#facs_13_tr_2_tl_4" n="N004"/>Now here you have something of the importance of these problems FAR BEYOND
+               <lb facs="#facs_13_tr_2_tl_5" n="N005"/>the petty politics of a campus; it goes far beyond them. It has importance for the whole
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXII (Nr. 0419)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p027</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-06">1956-03-06</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_27">
+         <graphic url="TL-0419.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DNUYJWHYVGOVWSWNZGTLTUOW&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="65,33 2230,33 2230,1732 65,1732" rendition="TextRegion" xml:id="facs_27_tr_2">
+            <zone points="1136,362 1166,364 1178,374 1188,374 1193,369 1198,374 1209,374 1216,367 1224,372 1254,369 1254,322 1221,322 1198,299 1173,322 1136,322" rendition="Line" xml:id="facs_27_tr_2_tl_2"/>
+            <zone points="309,513 2103,533 2103,455 1490,482 1379,402 1289,477 309,480" rendition="Line" xml:id="facs_27_tr_2_tl_3"/>
+            <zone points="314,671 2186,686 2186,631 1902,608 314,623" rendition="Line" xml:id="facs_27_tr_2_tl_4"/>
+            <zone points="304,812 1874,837 2156,829 2156,764 304,786" rendition="Line" xml:id="facs_27_tr_2_tl_5"/>
+            <zone points="299,962 1982,972 1915,915 299,925" rendition="Line" xml:id="facs_27_tr_2_tl_6"/>
+            <zone points="296,1118 324,1128 487,1126 523,1133 560,1123 560,1080 510,1078 492,1065 482,1078 420,1078 412,1070 329,1078 312,1095 296,1095" rendition="Line" xml:id="facs_27_tr_2_tl_7"/>
+            <zone points="440,1266 691,1309 1864,1291 2126,1279 2126,1214 440,1239" rendition="Line" xml:id="facs_27_tr_2_tl_9" subtype="paragraph"/>
+            <zone points="294,1425 2143,1430 2143,1379 1940,1357 294,1382" rendition="Line" xml:id="facs_27_tr_2_tl_10"/>
+            <zone points="294,1588 2219,1580 2219,1533 294,1540" rendition="Line" xml:id="facs_27_tr_2_tl_11"/>
+            <zone points="286,1724 2224,1736 2173,1666 286,1693" rendition="Line" xml:id="facs_27_tr_2_tl_12"/>
+         </zone>
+         <zone points="289,1815 2298,1815 2298,3088 289,3088" rendition="TextRegion" xml:id="facs_27_tr_3">
+            <zone points="286,1869 2171,1879 2171,1824 286,1842" rendition="Line" xml:id="facs_27_tr_3_tl_1"/>
+            <zone points="284,2025 2241,2028 2181,1967 284,1982" rendition="Line" xml:id="facs_27_tr_3_tl_2"/>
+            <zone points="294,2178 2095,2181 2095,2121 294,2123" rendition="Line" xml:id="facs_27_tr_3_tl_3"/>
+            <zone points="284,2332 1965,2339 2033,2281 284,2296" rendition="Line" xml:id="facs_27_tr_3_tl_4"/>
+            <zone points="279,2475 2193,2485 2211,2432 279,2450" rendition="Line" xml:id="facs_27_tr_3_tl_5"/>
+            <zone points="276,2631 2203,2646 2291,2583 276,2585" rendition="Line" xml:id="facs_27_tr_3_tl_6"/>
+            <zone points="279,2781 2161,2781 2161,2726 279,2726" rendition="Line" xml:id="facs_27_tr_3_tl_7"/>
+            <zone points="276,2932 2186,2930 2186,2874 276,2872" rendition="Line" xml:id="facs_27_tr_3_tl_8"/>
+            <zone points="276,3080 2050,3085 2050,3030 276,3033" rendition="Line" xml:id="facs_27_tr_3_tl_9"/>
+         </zone>
+         <zone points="38,3183 2134,3183 2134,3491 38,3491" rendition="TextRegion" xml:id="facs_27_tr_1">
+            <zone points="269,3236 889,3284 2128,3261 2128,3203 799,3236 269,3191" rendition="Line" xml:id="facs_27_tr_1_tl_1" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0419.jpg" n="part3_p027.jpg" xml:id="img_0027" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p027.jpg"/>
+            
+            <p facs="#facs_27_tr_2">
+               <lb facs="#facs_27_tr_2_tl_2" n="N001"/>[414]
+               <lb facs="#facs_27_tr_2_tl_3" n="N002"/>the problem [of] how to find a way of giving, by introducing the contents of such a group,
+               <lb facs="#facs_27_tr_2_tl_4" n="N003"/>without destroying the possibility of developing this group--and you cannot develop ANYthing
+               <lb facs="#facs_27_tr_2_tl_5" n="N004"/>whatsoever without being able to say No!--to be subjected to norms which you put AGAINST
+               <lb facs="#facs_27_tr_2_tl_6" n="N005"/>EVEN the symbols of this group. This is of course a basically Protestant attitude in a
+               <lb facs="#facs_27_tr_2_tl_7" n="N006"/>conformist group of society.
+               <lb facs="#facs_27_tr_2_tl_9" n="N007"/>Now we have in this way all three of them in their necessities, their dangers and their
+               <lb facs="#facs_27_tr_2_tl_10" n="N008"/>shortcomings. There are different agencies which are responsible for these three and use them
+               <lb facs="#facs_27_tr_2_tl_11" n="N009"/>predominantly. Obviously the first one, the humanistic education, is dependent on the house
+               <lb facs="#facs_27_tr_2_tl_12" n="N010"/>and its traditions--aristocratic--and the private teacher and his genius, and of course the possibility
+            </p>
+            <p facs="#facs_27_tr_3">
+               <lb facs="#facs_27_tr_3_tl_1" n="N001"/>of the pupil to BE developed to an all-embracing human actualization of his potentialities. The
+               <lb facs="#facs_27_tr_3_tl_2" n="N002"/>second is predominantly a matter of school and later on of the early apprentice work-communities.
+               <lb facs="#facs_27_tr_3_tl_3" n="N003"/>The third one is an introduction into the symbols and therefore is dependent on the bearers
+               <lb facs="#facs_27_tr_3_tl_4" n="N004"/>of these symbols, of the leaders of this group, of the institutions--for instance parades of
+               <lb facs="#facs_27_tr_3_tl_5" n="N005"/>representatives of a party, if it is a real social group; or religious services and processions. All this
+               <lb facs="#facs_27_tr_3_tl_6" n="N006"/>belongs to the third form of education. They TAKE IN those who are not yet in, and they strengthen
+               <lb facs="#facs_27_tr_3_tl_7" n="N007"/>the participation of those who ARE in. And this is the education which one can call education
+               <lb facs="#facs_27_tr_3_tl_8" n="N008"/>by existential participation. I had the experience in the twenties that the younger generation of
+               <lb facs="#facs_27_tr_3_tl_9" n="N009"/>Germany was absolutely dedicated to THIS form of education, against both of the others.
+            </p>
+            <p facs="#facs_27_tr_1">
+               <lb facs="#facs_27_tr_1_tl_1" n="N001"/>I myself belonged to the enlarged humanistic education, not in terms of a teacher in the house
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

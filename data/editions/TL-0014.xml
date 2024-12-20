@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_14">
          <graphic url="TL-0014.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=YDXEZTVLKNWKBZAINSWAUFLH&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YDXEZTVLKNWKBZAINSWAUFLH&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="169,573 157,3297 2384,3256 2360,573" rendition="TextRegion" xml:id="facs_14_tr_2">
             <zone points="1194,314 1208,314 1234,327 1255,324 1260,329 1286,329 1289,256 1265,259 1257,254 1234,264 1223,274 1208,261 1194,261" rendition="Line" xml:id="facs_14_tr_2_tl_1"/>
             <zone points="254,661 405,708 2237,677 2237,612 2081,578 2000,612 1952,578 1613,614 1498,578 672,625 405,580 254,625" rendition="Line" xml:id="facs_14_tr_2_tl_2"/>
@@ -112,23 +112,23 @@
                <lb facs="#facs_14_tr_2_tl_1" n="N001"/>[11]
                <lb facs="#facs_14_tr_2_tl_2" n="N002"/>starts [sic.] with the theoretical or cognitive function, but with language and the technical function.
                <lb facs="#facs_14_tr_2_tl_3" n="N003"/>The reasons for this is that man is not first of all somebody who LOOKS at reality, who
-               <lb facs="#facs_14_tr_2_tl_4" n="N004"/>contemplates reality, and then makes signs out of it, but man is first of all a being who
-               <lb facs="#facs_14_tr_2_tl_5" n="N005"/>usess [sic.] tools for ends. <rs type="keyword" ref="#Technical_Function">The technical function is, so to speak, metaphysically older than the
-               <lb break="no" facs="#facs_14_tr_2_tl_6" n="N006"/>theoretical or cognitive function</rs>. Therefore the existentialist philosopher <rs type="person" key="Heidegger, Martin">Heidegger</rs> has
+               <lb facs="#facs_14_tr_2_tl_4" n="N004"/>contemplates reality, and then makes <rs type="keyword" ref="#Signs">signs </rs>out of it, but man is first of all a being who
+               <lb facs="#facs_14_tr_2_tl_5" n="N005"/>usess [sic.] tools for ends. The <rs type="keyword" ref="#Technical_Function">technical function</rs> is, so to speak, metaphysically older than the
+               <lb facs="#facs_14_tr_2_tl_6" n="N006"/>theoretical or cognitive function. Therefore the existentialist philosopher <rs type="person" ref="#tillich_person_id__841">Heidegger </rs>has
                <lb facs="#facs_14_tr_2_tl_7" n="N007"/>rightly emphasized that man meets reality first in terms of tools, of things FOR SOMETHING,
                <lb facs="#facs_14_tr_2_tl_8" n="N008"/>but not as objects of contemplation.
                <lb facs="#facs_14_tr_2_tl_9" n="N009"/>But of course, the moment in which you make tools, you must have the
-               <lb facs="#facs_14_tr_2_tl_10" n="N010"/>participation of the material which you deal with, and of the ends which you want to reach.
-               <lb facs="#facs_14_tr_2_tl_11" n="N011"/>And so, the cognitive element develops. <rs type="keyword" ref="#Cognitive_Function">Here we come to the cognitive function (or, in a
-               <lb break="no" facs="#facs_14_tr_2_tl_12" n="N012"/>more larger sense, participative function) of human culture. In order to use reality, we must
-               <lb break="no" facs="#facs_14_tr_2_tl_13" n="N013"/>discover the behavior of reality. So the cognitive function is connected with the technical,
-               <lb break="no" facs="#facs_14_tr_2_tl_14" n="N014"/>and both together are always at work, as we know it from our own experience. They are
-               <lb break="no" facs="#facs_14_tr_2_tl_15" n="N015"/>partly dependent and partly independent of each other.</rs> The greatest advances in technical
+               <lb facs="#facs_14_tr_2_tl_10" n="N010"/><rs type="keyword" ref="#Participation">participation</rs> of the material which you deal with, and of the ends which you want to reach.
+               <lb facs="#facs_14_tr_2_tl_11" n="N011"/>And so, the cognitive element develops. Here we come to the <rs type="keyword" ref="#Cognitive_Function">cognitive function</rs> (or, in a
+               <lb facs="#facs_14_tr_2_tl_12" n="N012"/>more larger sense, participative function) of human culture. In order to use reality, we must
+               <lb facs="#facs_14_tr_2_tl_13" n="N013"/>discover the behavior of reality. So the cognitive function is connected with the <rs type="keyword" ref="#Technical_Function">technical</rs>,
+               <lb facs="#facs_14_tr_2_tl_14" n="N014"/>and both together are always at work, as we know it from our own experience. They are
+               <lb facs="#facs_14_tr_2_tl_15" n="N015"/>partly dependent and partly independent of each other. The greatest advances in technical
                <lb facs="#facs_14_tr_2_tl_16" n="N016"/>power have been made by pure cognition, by pure theory, and it is a right complaint of
                <lb facs="#facs_14_tr_2_tl_17" n="N017"/>many educators in this country, in the technical sciences, that one goes much too quickly
                <lb facs="#facs_14_tr_2_tl_18" n="N018"/>to the applied science before developing, independently, without asking the question, "For what?",
                <lb facs="#facs_14_tr_2_tl_19" n="N019"/>pure scientific knowledge. This is another function which we must keep clear, in spite of
-               <lb facs="#facs_14_tr_2_tl_20" n="N020"/>the pragmatic interdependence with techniques. This function is based on the <hi style="font-style: italic;">eros</hi>, the love,
+               <lb facs="#facs_14_tr_2_tl_20" n="N020"/>the pragmatic interdependence with techniques. This function is based on the <rs type="keyword" ref="#Eros"><hi style="font-style: italic;">eros</hi></rs>, the love,
                <lb facs="#facs_14_tr_2_tl_21" n="N021"/>towards knowing, even if it is not connected with practical purposes. So in spite of my
                <lb facs="#facs_14_tr_2_tl_22" n="N022"/>emphasis on techniques, I must also emphasize the comparative independence of the will-to-
                <lb facs="#facs_14_tr_2_tl_23" n="N023"/>knowledge from any special application of this knowledge. And those of you who in some

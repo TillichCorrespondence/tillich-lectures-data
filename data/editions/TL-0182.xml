@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_182">
          <graphic url="TL-0182.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=TPMWYPLNTYCGGEUJCUWJHODH&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TPMWYPLNTYCGGEUJCUWJHODH&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="2310,129 60,126 65,337 65,3481 2307,3481 2307,337" rendition="TextRegion" xml:id="facs_182_tr_1">
             <zone points="1157,269 1318,266 1317,244 1157,246" rendition="Line" xml:id="facs_182_l_773"/>
             <zone points="290,412 1456,399 1754,453 1850,396 2159,402 2159,339 2107,334 290,352" rendition="Line" xml:id="facs_182_tr_1_tl_1"/>
@@ -99,22 +99,21 @@
             
             <p facs="#facs_182_tr_1">
                <lb facs="#facs_182_l_773" n="N001"/>[177]
-               <lb facs="#facs_182_tr_1_tl_1" n="N002"/>The theologian, if he speaks of r<religious_language>eligious language,</religious_language> speaks of the divine love forgiving the sinner,
-               <lb facs="#facs_182_tr_1_tl_2" n="N003"/>or of the divine grace giving power-of-being to those who are in despair, etc. <ultimate_concern>Now this is the
-               <lb break="no" facs="#facs_182_tr_1_tl_3" n="N004"/>fundamental difference, but both speak of ultimate reality because only that which is the ultimate,
-               <lb break="no" facs="#facs_182_tr_1_tl_4" n="N005"/>the ground of being and meaning, can be the ground of everything that is, and can be our ultimate
-               <lb break="no" facs="#facs_182_tr_1_tl_5" n="N006"/>concern.</ultimate_concern>
+               <lb facs="#facs_182_tr_1_tl_1" n="N002"/>The theologian, if he speaks of <rs type="keyword" ref="#Religious_language">religious language</rs>, speaks of the divine love forgiving the sinner,
+               <lb facs="#facs_182_tr_1_tl_2" n="N003"/>or of the divine grace giving power-of-being to those who are in despair, etc. Now this is the
+               <lb facs="#facs_182_tr_1_tl_3" n="N004"/>fundamental difference, but both speak of<rs type="keyword" ref="#Ultimacy"> ultimate</rs> reality because only that which is the ultimate,
+               <lb facs="#facs_182_tr_1_tl_4" n="N005"/>the ground of being and meaning, can be the ground of everything that is, and can be our ultimate
+               <lb facs="#facs_182_tr_1_tl_5" n="N006"/>concern.
                <lb facs="#facs_182_tr_1_tl_7" n="N007"/>Now up to this point, everything is neat and, I hope, comparatively clear. But now the
                <lb facs="#facs_182_tr_1_tl_8" n="N008"/>difficulty arises which is very simple to state, but very difficult to describe. The difficulty is that
                <lb facs="#facs_182_tr_1_tl_9" n="N009"/>the philosopher is a human being and the theologian is a man who has the possibility of thinking.
                <lb facs="#facs_182_tr_1_tl_10" n="N010"/>That makes all the difference. THEY BOTH ARE MEN; they both participate in human existence;
-               <lb facs="#facs_182_tr_1_tl_11" n="N011"/>they both have <ultimate_concern>ultimate concern;</ultimate_concern> and they both ask the question of the <rs type="keyword" ref="#Structure_of_Being">structure of being, </rs>because
+               <lb facs="#facs_182_tr_1_tl_11" n="N011"/>they both have <ultimate_concern>ultimate concern</ultimate_concern>; and they both ask the question of the <rs type="keyword" ref="#Structure_of_Being">structure of being, </rs>because
                <lb facs="#facs_182_tr_1_tl_12" n="N012"/>no human being can completely escape these two realities which belong to human nature.
                <lb facs="#facs_182_tr_1_tl_13" n="N013"/>As I said in another place, every human being philosophizes and theologizes, [just] as every human
                <lb facs="#facs_182_tr_1_tl_14" n="N014"/>being moralizes and politicizes. These categories are functions of the human mind in which everybody
                <lb facs="#facs_182_tr_1_tl_15" n="N015"/>potentially participates, whether he does it actually or not.
                <lb facs="#facs_182_tr_1_tl_16" n="N016"/>Now this means: the question is not whether he DEVELOPS the one or the other thing---
-
                <lb facs="#facs_182_tr_1_tl_18" n="N017"/>the peasant boy doesn’t usually develop philosophy, and not even theology; nevertheless he asks
                <lb facs="#facs_182_tr_1_tl_19" n="N018"/>questions which put to shame great philosophers, especially if he has not been distorted by the
                <lb facs="#facs_182_tr_1_tl_20" n="N019"/>adults in his immediate encounter with reality. And the philosopher has to die and has to anticipate

@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXIV (Nr. 0438)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p046</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-10">1956-03-10</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_46">
+         <graphic url="TL-0438.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GFYSSEQZGIJFHAQUCBQVZACQ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,329 2313,329 2313,1834 298,1834" rendition="TextRegion" xml:id="facs_46_tr_2">
+            <zone points="1141,387 1168,387 1186,397 1251,397 1269,392 1266,307 1221,307 1203,327 1141,329" rendition="Line" xml:id="facs_46_tr_2_tl_1"/>
+            <zone points="296,538 2158,548 2158,497 1899,485 296,503" rendition="Line" xml:id="facs_46_tr_2_tl_2"/>
+            <zone points="296,691 1962,704 2128,696 2128,638 296,646" rendition="Line" xml:id="facs_46_tr_2_tl_3"/>
+            <zone points="296,844 2143,849 2143,794 1995,789 296,796" rendition="Line" xml:id="facs_46_tr_2_tl_4"/>
+            <zone points="965,992 2105,997 2105,945 1990,937 965,950" rendition="Line" xml:id="facs_46_tr_2_tl_5"/>
+            <zone points="289,1143 1940,1161 2279,1148 2279,1090 289,1118" rendition="Line" xml:id="facs_46_tr_2_tl_7"/>
+            <zone points="284,1309 1518,1332 2241,1301 2241,1244 284,1274" rendition="Line" xml:id="facs_46_tr_2_tl_8"/>
+            <zone points="284,1442 296,1442 307,1452 334,1452 342,1460 364,1460 379,1452 389,1462 399,1462 407,1455 430,1470 442,1462 462,1462 462,1397 319,1394 296,1417 284,1417" rendition="Line" xml:id="facs_46_tr_2_tl_9"/>
+            <zone points="535,1523 2188,1533 2279,1523 2279,1460 535,1495" rendition="Line" xml:id="facs_46_tr_2_tl_10" subtype="paragraph"/>
+            <zone points="289,1688 2216,1683 2234,1621 289,1628" rendition="Line" xml:id="facs_46_tr_2_tl_11"/>
+            <zone points="289,1824 2309,1829 2309,1751 289,1774" rendition="Line" xml:id="facs_46_tr_2_tl_12"/>
+         </zone>
+         <zone points="157,1917 2280,1917 2280,3494 157,3494" rendition="TextRegion" xml:id="facs_46_tr_1">
+            <zone points="284,1972 2211,1990 2183,1912 1864,1884 1545,1947 284,1927" rendition="Line" xml:id="facs_46_tr_1_tl_1"/>
+            <zone points="276,2123 1575,2141 1696,2133 1696,2075 276,2098" rendition="Line" xml:id="facs_46_tr_1_tl_2"/>
+            <zone points="530,2271 2274,2279 2274,2221 530,2221" rendition="Line" xml:id="facs_46_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="276,2425 2121,2430 2121,2377 1761,2367 276,2379" rendition="Line" xml:id="facs_46_tr_1_tl_4"/>
+            <zone points="276,2583 2043,2583 2078,2523 276,2533" rendition="Line" xml:id="facs_46_tr_1_tl_5"/>
+            <zone points="276,2734 2083,2734 2083,2676 276,2683" rendition="Line" xml:id="facs_46_tr_1_tl_6"/>
+            <zone points="332,2882 1543,2887 1543,2832 332,2834" rendition="Line" xml:id="facs_46_tr_1_tl_7"/>
+            <zone points="510,3028 2166,3030 2166,2965 510,3000" rendition="Line" xml:id="facs_46_tr_1_tl_8" subtype="paragraph"/>
+            <zone points="266,3178 525,3219 2093,3181 2093,3126 266,3131" rendition="Line" xml:id="facs_46_tr_1_tl_9"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0438.jpg" n="part3_p046.jpg" xml:id="img_0046" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p046.jpg"/>
+            
+            <p facs="#facs_46_tr_2">
+               <lb facs="#facs_46_tr_2_tl_1" n="N001"/>[433]
+               <lb facs="#facs_46_tr_2_tl_2" n="N002"/>in this. And this is so self-understood in a Christian culture that we don't remember any more
+               <lb facs="#facs_46_tr_2_tl_3" n="N003"/>OPPOSITE possibility, namely the possibilities that the gods look at men according to their
+               <lb facs="#facs_46_tr_2_tl_4" n="N004"/>hierarchical order, and that consequently SOME men are by birth nearer to the gods than the
+               <lb facs="#facs_46_tr_2_tl_5" n="N005"/>others; that the earthly hierarchy is a mirror of the heavenly hierarchy; and that
+               <lb facs="#facs_46_tr_2_tl_7" n="N006"/>therefore, after death, the religious-sacramental position a man has on this earth, the consecrated
+               <lb facs="#facs_46_tr_2_tl_8" n="N007"/>position in the hierarchy of beings--and finally in the hierarchy of man--is decisive for his ultimate
+               <lb facs="#facs_46_tr_2_tl_9" n="N008"/>destiny.
+               <lb facs="#facs_46_tr_2_tl_10" n="N009"/>Against this the development--to which I come later when I speak about the concept of
+               <lb facs="#facs_46_tr_2_tl_11" n="N010"/>person--has brought about an attitude which comes to absolute fulfillment in Christianity, namely
+               <lb facs="#facs_46_tr_2_tl_12" n="N011"/>that the individual human being, that his soul, is immediately related to God, in complete indifference
+            </p>
+            <p facs="#facs_46_tr_1">
+               <lb facs="#facs_46_tr_1_tl_1" n="N001"/>to his status in time and space; it is dependent on other factors: on his justice (on righteousness),
+               <lb facs="#facs_46_tr_1_tl_2" n="N002"/>and on the righteousness of God, which is fulfilled in His forgiving love.
+               <lb facs="#facs_46_tr_1_tl_3" n="N003"/>This kind of individualism is always in the basis of Christian thinking. But don't forget
+               <lb facs="#facs_46_tr_1_tl_4" n="N004"/>that this Christian individualism is ONLY valid seen from the Christian tradition with respect
+               <lb facs="#facs_46_tr_1_tl_5" n="N005"/>to the relation of God and man, or of man to God. It has NOT the consequence to abolish
+               <lb facs="#facs_46_tr_1_tl_6" n="N006"/>hierarchical orders in time and space. There the equality before God, the evaluation of the
+               <lb facs="#facs_46_tr_1_tl_7" n="N007"/>individual, is dependent on the hierarchical order as a whole.
+               <lb facs="#facs_46_tr_1_tl_8" n="N008"/>Now this is the one concept of individualism, and Christianity should be clear that
+               <lb facs="#facs_46_tr_1_tl_9" n="N009"/>this is in the relation between God and man and not in the relation between MAN and man.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

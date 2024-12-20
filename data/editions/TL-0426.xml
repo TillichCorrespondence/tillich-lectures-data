@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXIII (Nr. 0426)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p034</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-08">1956-03-08</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_34">
+         <graphic url="TL-0426.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VMMOQISNRNYEPSPJIFUUIDFV&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="256,141 2286,141 2286,1278 256,1278" rendition="TextRegion" xml:id="facs_34_tr_3">
+            <zone points="1066,206 1102,203 1122,213 1186,198 1186,129 1145,127 1132,140 1122,142 1066,142" rendition="Line" xml:id="facs_34_tr_3_tl_1"/>
+            <zone points="241,510 2254,467 2280,409 241,467" rendition="Line" xml:id="facs_34_tr_3_tl_2"/>
+            <zone points="249,660 1838,637 1937,622 1937,564 249,635" rendition="Line" xml:id="facs_34_tr_3_tl_3"/>
+            <zone points="477,805 1785,790 2023,772 2026,706 477,777" rendition="Line" xml:id="facs_34_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="617,965 2046,934 2064,891 1561,871 619,932" rendition="Line" xml:id="facs_34_tr_3_tl_5"/>
+            <zone points="251,1115 2018,1079 2158,1066 2158,1003 251,1089" rendition="Line" xml:id="facs_34_tr_3_tl_7"/>
+            <zone points="264,1274 1518,1254 1719,1234 1719,1181 267,1221" rendition="Line" xml:id="facs_34_tr_3_tl_8"/>
+         </zone>
+         <zone points="274,1305 2248,1305 2248,2628 274,2628" rendition="TextRegion" xml:id="facs_34_tr_1">
+            <zone points="487,1414 2011,1396 2171,1373 2173,1300 490,1351" rendition="Line" xml:id="facs_34_tr_1_tl_1" subtype="paragraph"/>
+            <zone points="259,1569 2219,1528 2219,1452 259,1541" rendition="Line" xml:id="facs_34_tr_1_tl_2"/>
+            <zone points="269,1731 1247,1701 1249,1648 269,1678" rendition="Line" xml:id="facs_34_tr_1_tl_5"/>
+            <zone points="264,1881 2102,1830 2242,1818 2242,1757 267,1843" rendition="Line" xml:id="facs_34_tr_1_tl_6"/>
+            <zone points="272,2023 1950,1988 2044,1980 2046,1919 274,1975" rendition="Line" xml:id="facs_34_tr_1_tl_7"/>
+            <zone points="274,2173 1978,2140 2110,2125 2112,2067 277,2120" rendition="Line" xml:id="facs_34_tr_1_tl_8"/>
+            <zone points="279,2331 1797,2310 2138,2275 2140,2214 279,2298" rendition="Line" xml:id="facs_34_tr_1_tl_9"/>
+            <zone points="287,2493 2003,2437 2003,2399 287,2427" rendition="Line" xml:id="facs_34_tr_1_tl_10"/>
+            <zone points="505,2620 2087,2582 2135,2577 2138,2511 505,2592" rendition="Line" xml:id="facs_34_tr_1_tl_11" subtype="paragraph"/>
+         </zone>
+         <zone points="161,2663 2313,2663 2313,3485 161,3485" rendition="TextRegion" xml:id="facs_34_tr_2">
+            <zone points="287,2780 1214,2788 1290,2744 1544,2790 2016,2755 2069,2681 289,2724" rendition="Line" xml:id="facs_34_tr_2_tl_1"/>
+            <zone points="289,2930 2100,2879 2145,2815 289,2899" rendition="Line" xml:id="facs_34_tr_2_tl_2"/>
+            <zone points="287,3080 2140,3031 2143,2968 289,3054" rendition="Line" xml:id="facs_34_tr_2_tl_3"/>
+            <zone points="284,3227 2079,3234 2115,3123 284,3201" rendition="Line" xml:id="facs_34_tr_2_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0426.jpg" n="part3_p034.jpg" xml:id="img_0034" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p034.jpg"/>
+            
+            <p facs="#facs_34_tr_3">
+               <lb facs="#facs_34_tr_3_tl_1" n="N001"/>[421]
+               <lb facs="#facs_34_tr_3_tl_2" n="N002"/>then of course the education IS NOT BETTER, although much smoother and softer than the education
+               <lb facs="#facs_34_tr_3_tl_3" n="N003"/>to a totalitarian ideal. It is in both cases the education to the impossibility to say No!
+               <lb facs="#facs_34_tr_3_tl_4" n="N004"/>This form of education to adjustment is always going on, and expresses itself
+               <lb facs="#facs_34_tr_3_tl_5" n="N005"/>in all the little symbols which appear in movie and television, in music, in slogans,
+               <lb facs="#facs_34_tr_3_tl_7" n="N006"/>in little changes of the language, in little symbols produced by the arts which are communicated.
+               <lb facs="#facs_34_tr_3_tl_8" n="N007"/>And everybody is influenced by them, and it is hard to say No to it.
+            </p>
+            <p facs="#facs_34_tr_1">
+               <lb facs="#facs_34_tr_1_tl_1" n="N001"/>But now, there is perhaps another form, another answer possible--an answer in which
+               <lb facs="#facs_34_tr_1_tl_2" n="N002"/>introduction is given--the third type of education beyond technical schools and humanistic
+               <lb facs="#facs_34_tr_1_tl_5" n="N003"/>development of potentialities--which I called the introductory type; namely introducing into a
+               <lb facs="#facs_34_tr_1_tl_6" n="N004"/>group which by its very nature unites concrete symbols with the necessity of protest. For me this is
+               <lb facs="#facs_34_tr_1_tl_7" n="N005"/>the meaning of a Protestant education, which does not necessarily have to be done by the
+               <lb facs="#facs_34_tr_1_tl_8" n="N006"/>Protestant churches, although it SHOULD be done by them, but it can be done also by other
+               <lb facs="#facs_34_tr_1_tl_9" n="N007"/>agents--home, schools, universities, etc. It is the introduction into something which is in itself
+               <lb facs="#facs_34_tr_1_tl_10" n="N008"/>possible only if the spirit of protest is preserved, and that's what we call Protestantism...
+               <lb facs="#facs_34_tr_1_tl_11" n="N009"/>Now here we come to a point which needs a little more discussion of what I would
+            </p>
+            <p facs="#facs_34_tr_2">
+               <lb facs="#facs_34_tr_2_tl_1" n="N001"/>understand when I use the word ''Protestantism.'' If you take ''Protestantism'' as another
+               <lb facs="#facs_34_tr_2_tl_2" n="N002"/>religion beside the Catholic religions and beside the non-Christian religions, in which there are
+               <lb facs="#facs_34_tr_2_tl_3" n="N003"/>special liturgies, special sum of doctrines, a special form of ethics, and a social structure called
+               <lb facs="#facs_34_tr_2_tl_4" n="N004"/>a church, which is not the Roman church but another church--then of course Protestantism
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

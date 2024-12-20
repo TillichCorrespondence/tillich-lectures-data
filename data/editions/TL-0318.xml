@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_34">
          <graphic url="TL-0318.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=BHEBTGBNIARFNBRPUZIKMAOP&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=BHEBTGBNIARFNBRPUZIKMAOP&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="50,15 2349,15 2349,1571 50,1571" rendition="TextRegion" xml:id="facs_34_tr_2">
             <zone points="1182,347 1195,347 1215,364 1234,364 1242,357 1289,357 1294,352 1306,352 1306,297 1272,297 1257,285 1244,288 1237,283 1217,302 1182,302" rendition="Line" xml:id="facs_34_tr_2_tl_3"/>
             <zone points="483,503 2137,508 2137,446 2055,436 483,431" rendition="Line" xml:id="facs_34_tr_2_tl_4" subtype="paragraph"/>
@@ -102,8 +102,8 @@
             
             <p facs="#facs_34_tr_2">
                <lb facs="#facs_34_tr_2_tl_3" n="N001"/>[314]
-               <lb facs="#facs_34_tr_2_tl_4" n="N002"/>Now in poetry the situation is such that the DECISIVE things are the connotations.
-               <lb facs="#facs_34_tr_2_tl_5" n="N003"/>The meaning of the words of course is, so to speak, eternal. . . but if a word is used in a poem,
+               <lb facs="#facs_34_tr_2_tl_4" n="N002"/>Now in <rs type="keyword" ref="#Poetry">poetry</rs> the situation is such that the DECISIVE things are the connotations.
+               <lb facs="#facs_34_tr_2_tl_5" n="N003"/>The meaning of the words of course is, so to speak, eternal . . . but if a word is used in a poem,
                <lb facs="#facs_34_tr_2_tl_6" n="N004"/>all the traditional and emotional connotations which we have in ourselves come into the words,
                <lb facs="#facs_34_tr_2_tl_7" n="N005"/>and there they produce the meaning which otherwise cannot be expressed at all. But of course
                <lb facs="#facs_34_tr_2_tl_8" n="N006"/>a poem is not a matter of individual words and their connotations. They are connotations

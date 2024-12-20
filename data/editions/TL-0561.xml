@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLII (Nr. 0561)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p087</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-17">1956-04-17</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_87">
+         <graphic url="TL-0561.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LYLPMKTQROHFRTEMVSTMYSEM&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="47,3 2361,3 2361,1019 47,1019" rendition="TextRegion" xml:id="facs_87_tr_2">
+            <zone points="1107,326 1120,326 1140,341 1232,341 1232,283 1207,281 1195,286 1170,286 1155,281 1142,293 1107,293" rendition="Line" xml:id="facs_87_tr_2_tl_4"/>
+            <zone points="313,488 1979,498 2152,481 2152,416 536,456 461,381 313,456" rendition="Line" xml:id="facs_87_tr_2_tl_5"/>
+            <zone points="313,639 2139,636 2139,576 504,611 443,561 313,614" rendition="Line" xml:id="facs_87_tr_2_tl_6"/>
+            <zone points="699,792 2079,792 2144,789 2147,729 701,741" rendition="Line" xml:id="facs_87_tr_2_tl_8"/>
+            <zone points="318,947 1518,949 1656,944 1676,907 321,892" rendition="Line" xml:id="facs_87_tr_2_tl_10"/>
+         </zone>
+         <zone points="322,1024 2280,1024 2280,2610 322,2610" rendition="TextRegion" xml:id="facs_87_tr_3">
+            <zone points="308,1092 1856,1117 2209,1087 2209,1032 308,1070" rendition="Line" xml:id="facs_87_tr_3_tl_1"/>
+            <zone points="308,1242 1736,1255 2124,1237 2127,1182 308,1200" rendition="Line" xml:id="facs_87_tr_3_tl_2"/>
+            <zone points="318,1403 2162,1395 2177,1338 318,1353" rendition="Line" xml:id="facs_87_tr_3_tl_3"/>
+            <zone points="311,1548 2212,1541 2239,1480 313,1503" rendition="Line" xml:id="facs_87_tr_3_tl_4"/>
+            <zone points="308,1696 2082,1701 2275,1686 2275,1631 308,1651" rendition="Line" xml:id="facs_87_tr_3_tl_5"/>
+            <zone points="311,1854 2192,1839 2194,1786 311,1801" rendition="Line" xml:id="facs_87_tr_3_tl_6"/>
+            <zone points="308,1996 2077,1989 2077,1939 1911,1926 311,1954" rendition="Line" xml:id="facs_87_tr_3_tl_7"/>
+            <zone points="308,2152 1658,2147 1616,2087 308,2099" rendition="Line" xml:id="facs_87_tr_3_tl_8"/>
+            <zone points="509,2297 2192,2292 2192,2237 509,2252" rendition="Line" xml:id="facs_87_tr_3_tl_9" subtype="paragraph"/>
+            <zone points="308,2455 1976,2452 2122,2445 2122,2385 308,2402" rendition="Line" xml:id="facs_87_tr_3_tl_10"/>
+            <zone points="308,2603 1155,2613 1220,2605 1220,2545 343,2550 308,2573" rendition="Line" xml:id="facs_87_tr_3_tl_11"/>
+         </zone>
+         <zone points="29,2678 2373,2678 2373,3470 29,3470" rendition="TextRegion" xml:id="facs_87_tr_1">
+            <zone points="498,2750 2032,2756 2089,2738 2089,2683 498,2725" rendition="Line" xml:id="facs_87_tr_1_tl_1" subtype="paragraph"/>
+            <zone points="303,2908 2189,2896 2267,2893 2270,2836 306,2853" rendition="Line" xml:id="facs_87_tr_1_tl_2"/>
+            <zone points="306,3056 591,3124 1025,3106 1092,3049 2315,3054 2315,2991 306,3026" rendition="Line" xml:id="facs_87_tr_1_tl_3"/>
+            <zone points="303,3199 2197,3199 2224,3141 303,3156" rendition="Line" xml:id="facs_87_tr_1_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0561.jpg" n="part4_p087.jpg" xml:id="img_0087" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p087.jpg"/>
+            
+            <p facs="#facs_87_tr_2">
+               <lb facs="#facs_87_tr_2_tl_4" n="N001"/>[556]
+               <lb facs="#facs_87_tr_2_tl_5" n="N002"/>expression of this feeling. But it also shows the demonstration. Now perhaps some consistent
+               <lb facs="#facs_87_tr_2_tl_6" n="N003"/>thinkers among you will ask, "Why not, if we make an exception anyhow in terms of the
+               <lb facs="#facs_87_tr_2_tl_8" n="N004"/>Christ, why not in terms also of the Vicar of Christ? If the principle of the existential
+               <lb facs="#facs_87_tr_2_tl_10" n="N005"/>situation with respect to truth is broken in the one case, why not in more cases?" This is
+            </p>
+            <p facs="#facs_87_tr_3">
+               <lb facs="#facs_87_tr_3_tl_1" n="N001"/>a very valid argument, and the only answer can be that it is necessary to draw consequence of the
+               <lb facs="#facs_87_tr_3_tl_2" n="N002"/>Protestant principle and say that even JESUS is not an ultimate authority, but that AS THE
+               <lb facs="#facs_87_tr_3_tl_3" n="N003"/>CHRIST, he is the plaw Reality. It is always impossible to drive, from the words of Jesus,
+               <lb facs="#facs_87_tr_3_tl_4" n="N004"/>authoritarian statements which claim to be infallible. It is first impossible because the problem of
+               <lb facs="#facs_87_tr_3_tl_5" n="N005"/>interpretation comes and all the relativities then hidethemselves in the form of interpretation. And
+               <lb facs="#facs_87_tr_3_tl_6" n="N006"/>secondly it is impossible because it is more honest to acknowledge that Jesus is not an infallible
+               <lb facs="#facs_87_tr_3_tl_7" n="N007"/>teacher but that He is the bearer of the New Reality, of the Spirit, and the Spirit is not an
+               <lb facs="#facs_87_tr_3_tl_8" n="N008"/>infallibleteacher but a creative interpreter who guide into all truth.
+               <lb facs="#facs_87_tr_3_tl_9" n="N009"/>Now if this is seen, then we can accept the consistency of the Roman Church and are
+               <lb facs="#facs_87_tr_3_tl_10" n="N010"/>at the same time radically aware of the fact that neither the Vicar of Christ, nor Jesus in His
+               <lb facs="#facs_87_tr_3_tl_11" n="N011"/>words, can be called an authority in principle.
+            </p>
+            <p facs="#facs_87_tr_1">
+               <lb facs="#facs_87_tr_1_tl_1" n="N001"/>If this is not the case, we come into the situation of the Roman Church, where a
+               <lb facs="#facs_87_tr_1_tl_2" n="N002"/>bondage occurs, even for the Cope. This bondage are the prior decisions of the Church, in Councils
+               <lb facs="#facs_87_tr_1_tl_3" n="N003"/>and decisions ex cathedra by the Pope. Now these prior decisions are called, in the dogmatic Beology
+               <lb facs="#facs_87_tr_1_tl_4" n="N004"/>of the Roman Church, DE FIDE, meaning they are matters "of faith"—and "faith" here means:
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

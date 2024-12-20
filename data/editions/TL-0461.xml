@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXV (Nr. 0461)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p069</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-12">1956-03-12</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_69">
+         <graphic url="TL-0461.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=EGLAXZFEHIVIZLJTDONPAEEU&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="301,308 2334,308 2334,1732 301,1732" rendition="TextRegion" xml:id="facs_69_tr_1">
+            <zone points="1105,358 1118,358 1125,366 1141,366 1148,373 1230,373 1230,304 1174,304 1161,312 1151,309 1141,320 1105,320" rendition="Line" xml:id="facs_69_tr_1_tl_1"/>
+            <zone points="537,506 2248,535 2248,478 1714,473 1642,402 1524,476 537,471" rendition="Line" xml:id="facs_69_tr_1_tl_2"/>
+            <zone points="302,675 2230,685 2230,629 1629,596 302,621" rendition="Line" xml:id="facs_69_tr_1_tl_3"/>
+            <zone points="297,818 2225,831 2136,770 297,790" rendition="Line" xml:id="facs_69_tr_1_tl_4"/>
+            <zone points="302,967 2235,980 2235,926 1977,916 302,933" rendition="Line" xml:id="facs_69_tr_1_tl_5"/>
+            <zone points="299,1120 2176,1128 2176,1072 299,1066" rendition="Line" xml:id="facs_69_tr_1_tl_6"/>
+            <zone points="289,1263 1880,1286 2192,1276 2192,1220 289,1235" rendition="Line" xml:id="facs_69_tr_1_tl_7"/>
+            <zone points="286,1414 2235,1430 2235,1373 286,1389" rendition="Line" xml:id="facs_69_tr_1_tl_8"/>
+            <zone points="294,1573 2327,1581 2327,1524 294,1540" rendition="Line" xml:id="facs_69_tr_1_tl_9"/>
+            <zone points="509,1724 1499,1731 1558,1780 1831,1737 1880,1777 2143,1760 2182,1678 509,1693" rendition="Line" xml:id="facs_69_tr_1_tl_10"/>
+         </zone>
+         <zone points="286,1818 2313,1818 2313,2786 286,2786" rendition="TextRegion" xml:id="facs_69_tr_3">
+            <zone points="294,1903 2125,1893 2222,1885 2222,1823 294,1829" rendition="Line" xml:id="facs_69_tr_3_tl_1"/>
+            <zone points="286,2028 2281,2046 2279,1982 286,1956" rendition="Line" xml:id="facs_69_tr_3_tl_2"/>
+            <zone points="281,2176 2133,2189 2307,2182 2307,2128 281,2141" rendition="Line" xml:id="facs_69_tr_3_tl_3"/>
+            <zone points="281,2320 2141,2355 2222,2281 281,2294" rendition="Line" xml:id="facs_69_tr_3_tl_4"/>
+            <zone points="281,2483 2302,2486 2302,2425 281,2425" rendition="Line" xml:id="facs_69_tr_3_tl_5"/>
+            <zone points="271,2629 2184,2637 2263,2629 2263,2575 271,2596" rendition="Line" xml:id="facs_69_tr_3_tl_6"/>
+            <zone points="271,2772 2199,2780 2199,2726 271,2726" rendition="Line" xml:id="facs_69_tr_3_tl_7"/>
+         </zone>
+         <zone points="47,2872 2322,2872 2322,3485 47,3485" rendition="TextRegion" xml:id="facs_69_tr_2">
+            <zone points="269,2933 1980,2941 2153,2931 2153,2880 269,2885" rendition="Line" xml:id="facs_69_tr_2_tl_1"/>
+            <zone points="486,3077 680,3141 1412,3110 1471,3159 1726,3138 1777,3087 2194,3097 2217,3033 486,3051" rendition="Line" xml:id="facs_69_tr_2_tl_2"/>
+            <zone points="263,3228 2315,3253 2315,3179 263,3202" rendition="Line" xml:id="facs_69_tr_2_tl_3"/>
+            <zone points="36,3448 59,3450 79,3463 90,3463 100,3450 110,3458 136,3455 125,3350 110,3355 102,3366 84,3366 49,3353 26,3355" rendition="Line" xml:id="facs_69_tr_2_tl_4"/>
+            <zone points="660,3471 693,3488 719,3473 872,3486 890,3468 908,3486 1205,3486 1246,3478 1246,3389 660,3399" rendition="Line" xml:id="facs_69_tr_2_tl_5"/>
+            <zone points="176,3463 322,3445 399,3486 668,3483 668,3396 233,3394 176,3414" rendition="Line" xml:id="facs_69_tr_2_tl_6"/>
+            <zone points="1335,3486 1363,3478 1391,3486 1430,3473 1458,3486 1509,3455 1542,3486 1573,3478 1591,3486 1609,3468 1639,3476 1639,3384 1335,3384" rendition="Line" xml:id="facs_69_tr_2_tl_7"/>
+            <zone points="179,3488 230,3483 238,3476 271,3488 304,3481 327,3486 335,3478 343,3486 368,3486 379,3476 394,3478 391,3453 376,3450 315,3453 307,3445 294,3455 266,3448 240,3455 223,3442 215,3448 207,3440 176,3442" rendition="Line" xml:id="facs_69_tr_2_tl_8"/>
+            <zone points="33,3486 61,3486 64,3483 133,3486 130,3445 118,3445 113,3455 100,3453 90,3445 79,3453 69,3453 64,3448 56,3453 46,3448 31,3448" rendition="Line" xml:id="facs_69_tr_2_tl_9"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0461.jpg" n="part3_p069.jpg" xml:id="img_0069" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p069.jpg"/>
+            
+            <p facs="#facs_69_tr_1">
+               <lb facs="#facs_69_tr_1_tl_1" n="N001"/>-ame¬
+               <lb facs="#facs_69_tr_1_tl_2" n="N002"/>This brings me to a point to which I referred: family and sex. Most of these things are
+               <lb facs="#facs_69_tr_1_tl_3" n="N003"/>produced NOT DIRECTLy by ministers,Vhrches, public opinion, but the SEEDS almost always
+               <lb facs="#facs_69_tr_1_tl_4" n="N004"/>go back to the family, because in the family situation the first forming attempts are made and are
+               <lb facs="#facs_69_tr_1_tl_5" n="N005"/>more successful than any other later attempt for education—we should never forget this. It is not
+               <lb facs="#facs_69_tr_1_tl_6" n="N006"/>because [of] the special form of family life, it is not the bourgeois Comily life, with the
+               <lb facs="#facs_69_tr_1_tl_7" n="N007"/>authoritarian father (in Europe) and the authoritarian mother (in America) [laughter], but it is
+               <lb facs="#facs_69_tr_1_tl_8" n="N008"/>a natural structure, namely the immense dependence of the child, in earlier months and years, on
+               <lb facs="#facs_69_tr_1_tl_9" n="N009"/>the parents or their representatives. Therefore the forming power of the family relation is tremendous.
+               <lb facs="#facs_69_tr_1_tl_10" n="N010"/>Now in the family relation there are also implied the sex relations, first between the
+            </p>
+            <p facs="#facs_69_tr_3">
+               <lb facs="#facs_69_tr_3_tl_1" n="N001"/>parents and then between the parents and the children, in the way in which death psychology has
+               <lb facs="#facs_69_tr_3_tl_2" n="N002"/>descdaibed that, to a great extent, the successive power of the parents, if it is the mother, preventing
+               <lb facs="#facs_69_tr_3_tl_3" n="N003"/>the sons from going to other women, to easily become housexuals, to become unable to love another
+               <lb facs="#facs_69_tr_3_tl_4" n="N004"/> Coman, because thebondage which is partly based on the authority situation, (partly based on the
+               <lb facs="#facs_69_tr_3_tl_5" n="N005"/>sex-relationship of the son to the mother, is so strong that many, many—1 know SO many psycho¬
+               <lb facs="#facs_69_tr_3_tl_6" n="N006"/>analysts in this country, and the unanimous experience of them, whatever their theoretical attitude
+               <lb facs="#facs_69_tr_3_tl_7" n="N007"/>besides it is that the ruin of so many good boys—potentially good and able to develop their good
+            </p>
+            <p facs="#facs_69_tr_2">
+               <lb facs="#facs_69_tr_2_tl_1" n="N001"/>potentalities—is the bondage to a dominating mother and the INABILITY to get away from it.
+               <lb facs="#facs_69_tr_2_tl_2" n="N002"/>Now this of course can be encarged to the father and the daughter, where we have very
+               <lb facs="#facs_69_tr_2_tl_3" n="N003"/>similar situation. And all these situation demand a complete Revision in the light of these Coveries,
+               <lb facs="#facs_69_tr_2_tl_4" n="N004"/>Monsieur
+               <lb facs="#facs_69_tr_2_tl_5" n="N005"/>Monsieur Mʼa fois quʼil est vra lʼautre beaucoup
+               <lb facs="#facs_69_tr_2_tl_6" n="N006"/>Cela nʼentraîne de cette fête
+               <lb facs="#facs_69_tr_2_tl_7" n="N007"/>dʼune manière vieuse
+               <lb facs="#facs_69_tr_2_tl_8" n="N008"/>dʼune manière beaucoup
+               <lb facs="#facs_69_tr_2_tl_9" n="N009"/>G.C.H.P.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

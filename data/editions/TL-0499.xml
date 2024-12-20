@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVIII (Nr. 0499)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p025</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-20">1956-03-20</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_25">
+         <graphic url="TL-0499.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VJSEKFMDZNZQWCEHFDFPSNKR&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="250,242 2194,242 2194,920 250,920" rendition="TextRegion" xml:id="facs_25_tr_3">
+            <zone points="1087,301 1115,301 1123,308 1207,306 1207,257 1156,254 1141,239 1117,257 1087,259" rendition="Line" xml:id="facs_25_tr_3_tl_1"/>
+            <zone points="239,465 1801,452 1819,406 1626,372 1528,411 239,426" rendition="Line" xml:id="facs_25_tr_3_tl_2"/>
+            <zone points="239,619 2065,622 2119,550 241,570" rendition="Line" xml:id="facs_25_tr_3_tl_3"/>
+            <zone points="236,765 2189,758 2189,701 236,722" rendition="Line" xml:id="facs_25_tr_3_tl_4"/>
+            <zone points="236,917 2109,909 2189,902 2189,848 236,868" rendition="Line" xml:id="facs_25_tr_3_tl_5"/>
+         </zone>
+         <zone points="238,988 2307,988 2307,2276 238,2276" rendition="TextRegion" xml:id="facs_25_tr_2">
+            <zone points="239,1066 2088,1061 2299,1053 2302,997 241,1017" rendition="Line" xml:id="facs_25_tr_2_tl_1"/>
+            <zone points="234,1215 2058,1212 2135,1148 234,1166" rendition="Line" xml:id="facs_25_tr_2_tl_2"/>
+            <zone points="239,1372 1824,1367 2150,1349 2153,1297 241,1320" rendition="Line" xml:id="facs_25_tr_2_tl_3"/>
+            <zone points="241,1500 2153,1510 2171,1449 241,1472" rendition="Line" xml:id="facs_25_tr_2_tl_4"/>
+            <zone points="234,1662 2022,1662 2248,1654 2248,1595 234,1616" rendition="Line" xml:id="facs_25_tr_2_tl_5"/>
+            <zone points="229,1814 2088,1814 2245,1806 2245,1749 229,1770" rendition="Line" xml:id="facs_25_tr_2_tl_6"/>
+            <zone points="239,1973 2112,1960 2153,1898 239,1919" rendition="Line" xml:id="facs_25_tr_2_tl_7"/>
+            <zone points="234,2117 2016,2109 2019,2052 236,2073" rendition="Line" xml:id="facs_25_tr_2_tl_8"/>
+            <zone points="223,2260 2034,2260 2034,2201 223,2237" rendition="Line" xml:id="facs_25_tr_2_tl_9"/>
+         </zone>
+         <zone points="47,2347 2233,2347 2233,3488 47,3488" rendition="TextRegion" xml:id="facs_25_tr_1">
+            <zone points="223,2412 1937,2415 2083,2407 2083,2356 223,2389" rendition="Line" xml:id="facs_25_tr_1_tl_1"/>
+            <zone points="229,2566 1927,2566 2076,2558 2076,2502 229,2543" rendition="Line" xml:id="facs_25_tr_1_tl_2"/>
+            <zone points="234,2720 2135,2710 2137,2648 236,2674" rendition="Line" xml:id="facs_25_tr_1_tl_4"/>
+            <zone points="226,2864 2214,2869 2214,2803 226,2838" rendition="Line" xml:id="facs_25_tr_1_tl_5"/>
+            <zone points="223,3026 2153,3016 2227,3013 2227,2954 223,3000" rendition="Line" xml:id="facs_25_tr_1_tl_6"/>
+            <zone points="226,3178 1778,3180 1837,3172 1837,3116 226,3152" rendition="Line" xml:id="facs_25_tr_1_tl_7"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0499.jpg" n="part4_p025.jpg" xml:id="img_0025" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p025.jpg"/>
+            
+            <p facs="#facs_25_tr_3">
+               <lb facs="#facs_25_tr_3_tl_1" n="N001"/>[494]
+               <lb facs="#facs_25_tr_3_tl_2" n="N002"/>a supernatural, mythological story. And in the moment in which the "THIS" is
+               <lb facs="#facs_25_tr_3_tl_3" n="N003"/>ASKED by the child, you have to ask first what does it really mean with it? It takes it literally,
+               <lb facs="#facs_25_tr_3_tl_4" n="N004"/>probably. So this is the literal meaning in terms of the categorical quality of time, space, causality,
+               <lb facs="#facs_25_tr_3_tl_5" n="N005"/>substance---"God has sent His Son"---I always give this example---which is taken literally---a story of
+            </p>
+            <p facs="#facs_25_tr_2">
+               <lb facs="#facs_25_tr_2_tl_1" n="N001"/>something which has happened under the rule of the four main categories: time, space, substance
+               <lb facs="#facs_25_tr_2_tl_2" n="N002"/>and causality. THIS IS MEANT, probably, if this question is asked. The other word, "True," is
+               <lb facs="#facs_25_tr_2_tl_3" n="N003"/>equally difficult becasue [sic.] in which sense is the word used? The child probably uses it in the word
+               <lb facs="#facs_25_tr_2_tl_4" n="N004"/>"Is it true that it really has snowed tonight?" He just awakens and hasn't noticed anything.
+               <lb facs="#facs_25_tr_2_tl_5" n="N005"/>Now the mother tells him it has snowed tonight, and he is very happy, but since he likes it, he doesn't
+               <lb facs="#facs_25_tr_2_tl_6" n="N006"/>believe it as we always do---"Something is too good to be true"---this simply means it is an expression
+               <lb facs="#facs_25_tr_2_tl_7" n="N007"/>of the facts. If it is meant in this sense, then again you must ask, is it meant in this sense? Is that
+               <lb facs="#facs_25_tr_2_tl_8" n="N008"/>the concept of truth? So in both cases---"this" and "true"---both are very symbolic words.
+               <lb facs="#facs_25_tr_2_tl_9" n="N009"/>But if the child asks this, then something has happened to him, namely the child DOUBTS!
+            </p>
+            <p facs="#facs_25_tr_1">
+               <lb facs="#facs_25_tr_1_tl_1" n="N001"/>Now on the basis of what does he doubt, when he asks this, on the basis that it doesn't fit his
+               <lb facs="#facs_25_tr_1_tl_2" n="N002"/>ordinary worldview, the categorical structure of reality in which such things ordinarily do not
+               <lb facs="#facs_25_tr_1_tl_4" n="N003"/>happen---now if this is the case, then of course the first indication is given that the next step has
+               <lb facs="#facs_25_tr_1_tl_5" n="N004"/>to be made by the teacher or the parents, and to show the different "this" and the different "truth,"
+               <lb facs="#facs_25_tr_1_tl_6" n="N005"/>which are possible in this way, and perhaps you have to quote a poem and to see that there are levels
+               <lb facs="#facs_25_tr_1_tl_7" n="N006"/>of truth which are different from the truth whether there was snow last night.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

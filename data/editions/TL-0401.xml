@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -67,11 +67,8 @@
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_9">
          <graphic url="TL-0401.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=QPHERZGZLZVZSDMSTWTIKRYW&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="1185,96 2248,96 2248,439 1185,439" rendition="TextRegion" xml:id="facs_9_tr_3">
-            <zone points="2150,150 2166,150 2188,159 2241,157 2224,0 2135,0" rendition="Line" xml:id="facs_9_tr_3_tl_1"/>
-            <zone points="1172,437 1185,434 1201,444 1235,441 1242,446 1250,441 1274,446 1298,441 1293,369 1274,372 1254,364 1247,369 1228,367 1206,391 1172,393" rendition="Line" xml:id="facs_9_tr_3_tl_2"/>
-         </zone>
-         <zone points="83,529 2239,529 2239,1950 83,1950" rendition="TextRegion" xml:id="facs_9_tr_1">
+         <zone points="78,257 2239,251 2239,1950 83,1950" rendition="TextRegion" xml:id="facs_9_tr_1">
+            <zone points="1165,459 1321,459 1321,429 1165,429" rendition="Line" xml:id="facs_9_l"/>
             <zone points="309,593 2176,596 2111,533 1628,514 309,550" rendition="Line" xml:id="facs_9_tr_1_tl_1"/>
             <zone points="297,736 2048,755 2048,695 1843,685 297,692" rendition="Line" xml:id="facs_9_tr_1_tl_2"/>
             <zone points="297,885 379,934 1122,888 1469,938 2176,900 2176,847 297,864" rendition="Line" xml:id="facs_9_tr_1_tl_3"/>
@@ -79,15 +76,14 @@
             <zone points="299,1189 2198,1197 2198,1146 1527,1156 1426,1093 1182,1148 299,1141" rendition="Line" xml:id="facs_9_tr_1_tl_5"/>
             <zone points="292,1337 910,1394 1064,1341 2101,1349 2116,1291 292,1312" rendition="Line" xml:id="facs_9_tr_1_tl_6"/>
             <zone points="292,1491 1703,1498 1667,1440 292,1435" rendition="Line" xml:id="facs_9_tr_1_tl_7"/>
-            <zone points="458,1640 936,1640 1054,1698 1563,1701 1616,1648 1812,1640 2188,1677 2188,1592 458,1590" rendition="Line" xml:id="facs_9_tr_1_tl_8"/>
-            <zone points="68,1739 94,1742 130,1708 176,1718 191,1703 212,1725 253,1720 261,1556 239,1551 183,1595 152,1568 116,1592 75,1592" rendition="Line" xml:id="facs_9_tr_1_tl_9"/>
+            <zone points="458,1640 936,1640 1054,1698 1563,1701 1616,1648 1812,1640 2188,1677 2188,1592 458,1590" rendition="Line" xml:id="facs_9_tr_1_tl_8" subtype="paragraph"/>
             <zone points="285,1795 1846,1805 2140,1797 2140,1747 285,1761" rendition="Line" xml:id="facs_9_tr_1_tl_10"/>
             <zone points="280,1940 1981,1954 2198,1947 2198,1896 280,1911" rendition="Line" xml:id="facs_9_tr_1_tl_11"/>
          </zone>
          <zone points="274,2033 2203,2033 2203,3159 274,3159" rendition="TextRegion" xml:id="facs_9_tr_2">
             <zone points="280,2089 717,2111 1016,2099 1016,2034 943,2053 280,2051" rendition="Line" xml:id="facs_9_tr_2_tl_1"/>
-            <zone points="285,2248 1399,2251 1399,2195 285,2171" rendition="Line" xml:id="facs_9_tr_2_tl_2"/>
-            <zone points="273,2396 1944,2412 2106,2405 2106,2343 273,2362" rendition="Line" xml:id="facs_9_tr_2_tl_3"/>
+            <zone points="285,2248 1399,2251 1399,2195 285,2171" rendition="Line" xml:id="facs_9_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="273,2396 1944,2412 2106,2405 2106,2343 273,2362" rendition="Line" xml:id="facs_9_tr_2_tl_3" subtype="paragraph"/>
             <zone points="282,2550 2041,2557 2137,2550 2137,2495 282,2497" rendition="Line" xml:id="facs_9_tr_2_tl_4"/>
             <zone points="270,2697 2065,2702 2065,2647 270,2666" rendition="Line" xml:id="facs_9_tr_2_tl_5"/>
             <zone points="263,2844 2017,2854 2101,2847 2101,2796 263,2801" rendition="Line" xml:id="facs_9_tr_2_tl_6"/>
@@ -102,30 +98,26 @@
         <div>
             <pb facs="#TL-0401.jpg" n="part3_p009.jpg" xml:id="img_0009" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p009.jpg"/>
             
-            <p facs="#facs_9_tr_3">
-               <lb facs="#facs_9_tr_3_tl_1" n="N001"/>dʼêtre
-               <lb facs="#facs_9_tr_3_tl_2" n="N002"/>-av6-
-            </p>
             <p facs="#facs_9_tr_1">
-               <lb facs="#facs_9_tr_1_tl_1" n="N001"/>for ends which are means again, infinitely, which has broken up this situation and shown that
-               <lb facs="#facs_9_tr_1_tl_2" n="N002"/> Sibelow this situation, there is the anxiety of nothingness, the anciety of built, the waiety
-               <lb facs="#facs_9_tr_1_tl_3" n="N003"/>of meaninglessness, the anxiety of death. All this came to the foreground. And in the moment
-               <lb facs="#facs_9_tr_1_tl_4" n="N004"/>in which this happens, the door is open for reinterpretation of religion. And up to this door, only,
-               <lb facs="#facs_9_tr_1_tl_5" n="N005"/>I wanted to lead you in my analysis of the situation, because everything else belong to the realm
-               <lb facs="#facs_9_tr_1_tl_6" n="N006"/>of either theology or church life. But UP to this point, I had to bring you, because we want
-               <lb facs="#facs_9_tr_1_tl_7" n="N007"/>to return to it again and again when we speak about the special levels
-               <lb facs="#facs_9_tr_1_tl_8" n="N008"/>Now this ends, in some way, the analysis of the situation. It may be that, exceptionally
-               <lb facs="#facs_9_tr_1_tl_9" n="N009"/>$
-               <lb facs="#facs_9_tr_1_tl_10" n="N010"/>tyday, you may have some direct questions, because we all are in this situation, and it is not a
+               <lb facs="#facs_9_l" n="N001"/>[396]
+               <lb facs="#facs_9_tr_1_tl_1" n="N002"/>for ends which are means again, infinitely, which has broken up this situation and shown that
+               <lb facs="#facs_9_tr_1_tl_2" n="N003"/>below this situation, there is the anxiety of nothingness, the anxiety of guilt, the anxiety
+               <lb facs="#facs_9_tr_1_tl_3" n="N004"/>of meaninglessness, the anxiety of death. All this came to the foreground. And in the moment
+               <lb facs="#facs_9_tr_1_tl_4" n="N005"/>in which this happens, the door is open for reinterpretation of religion. And up to this door, only,
+               <lb facs="#facs_9_tr_1_tl_5" n="N006"/>I wanted to lead you in my analysis of the situation, because everything else belongs to the realm
+               <lb facs="#facs_9_tr_1_tl_6" n="N007"/>of either theology or church life. But UP to this point, I had to bring you, because we want
+               <lb facs="#facs_9_tr_1_tl_7" n="N008"/>to return to it again and again when we speak about the special levels.
+               <lb facs="#facs_9_tr_1_tl_8" n="N009"/>Now this ends, in some way, the analysis of the situation. It may be that, exceptionally
+               <lb facs="#facs_9_tr_1_tl_10" n="N010"/>today, you may have some direct questions, because we all are in this situation, and it is not a
                <lb facs="#facs_9_tr_1_tl_11" n="N011"/>matter of art or philosophy that some are nearer to it, some are not, but it is a universal situation
             </p>
             <p facs="#facs_9_tr_2">
                <lb facs="#facs_9_tr_2_tl_1" n="N001"/>in which EVERYbody finds himself.
-               <lb facs="#facs_9_tr_2_tl_2" n="N002"/>ON: What can we do today to stop these general trends?
-               <lb facs="#facs_9_tr_2_tl_3" n="N003"/>PT: The question was: is there something we can TO about these friends? Now I don't know
+               <lb facs="#facs_9_tr_2_tl_2" n="N002"/>QN: What can we do today to stop these general trends?
+               <lb facs="#facs_9_tr_2_tl_3" n="N003"/>PT: The question was: is there something we can DO about these trends? Now I don't know
                <lb facs="#facs_9_tr_2_tl_4" n="N004"/>whether I told you about a very interesting experience I had 20 years ago when I came to this
-               <lb facs="#facs_9_tr_2_tl_5" n="N005"/>country, and after every lecture,WHATEVER the content was, however far removed from
-               <lb facs="#facs_9_tr_2_tl_6" n="N006"/>reality, the question Rose: "What can we do about it?" I haven't heard thathnintained for
+               <lb facs="#facs_9_tr_2_tl_5" n="N005"/>country, and after every lecture, WHATEVER the content was, however far removed from
+               <lb facs="#facs_9_tr_2_tl_6" n="N006"/>reality, the question arose: ''What can we do about it?'' I haven't heard that maintained for
                <lb facs="#facs_9_tr_2_tl_7" n="N007"/>almost five years. I am very much interested that you ask this question again! Now this question
                <lb facs="#facs_9_tr_2_tl_8" n="N008"/>is of course very much justified in a lecture in which we speak about religion and culture
             </p>

@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XL (Nr. 0536)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p062</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-27">1956-03-27</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_62">
+         <graphic url="TL-0536.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AMGAIDACGRGHDTQGPPBNPQKL&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,272 2325,272 2325,1872 298,1872" rendition="TextRegion" xml:id="facs_62_tr_1">
+            <zone points="963,331 976,331 988,339 996,336 1001,341 1064,341 1072,334 1087,334 1087,270 1064,273 1059,268 1051,270 1041,260 1029,260 998,286 963,286" rendition="Line" xml:id="facs_62_tr_1_tl_1"/>
+            <zone points="288,475 1370,500 2032,455 2035,409 1370,382 288,440" rendition="Line" xml:id="facs_62_tr_1_tl_2"/>
+            <zone points="614,589 1279,581 1352,622 1681,561 2191,581 2191,523 614,543" rendition="Line" xml:id="facs_62_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="291,708 2222,693 2222,637 291,677" rendition="Line" xml:id="facs_62_tr_1_tl_4"/>
+            <zone points="296,829 1951,821 2126,814 2126,756 296,796" rendition="Line" xml:id="facs_62_tr_1_tl_5"/>
+            <zone points="293,950 2186,925 2201,869 293,917" rendition="Line" xml:id="facs_62_tr_1_tl_6"/>
+            <zone points="291,1067 2078,1046 2148,1041 2148,991 291,1034" rendition="Line" xml:id="facs_62_tr_1_tl_7"/>
+            <zone points="288,1183 1016,1180 1110,1170 1112,1125 288,1137" rendition="Line" xml:id="facs_62_tr_1_tl_8"/>
+            <zone points="541,1324 2133,1269 2136,1201 543,1221" rendition="Line" xml:id="facs_62_tr_1_tl_9" subtype="paragraph"/>
+            <zone points="291,1408 2318,1383 2320,1319 291,1352" rendition="Line" xml:id="facs_62_tr_1_tl_10"/>
+            <zone points="283,1519 2244,1509 2285,1438 286,1489" rendition="Line" xml:id="facs_62_tr_1_tl_11"/>
+            <zone points="303,1643 2118,1615 2090,1554 306,1590" rendition="Line" xml:id="facs_62_tr_1_tl_12"/>
+            <zone points="283,1752 2067,1744 2201,1734 2204,1676 283,1724" rendition="Line" xml:id="facs_62_tr_1_tl_13"/>
+            <zone points="538,1863 2242,1853 2285,1782 538,1820" rendition="Line" xml:id="facs_62_tr_1_tl_14" subtype="paragraph"/>
+         </zone>
+         <zone points="304,1905 2251,1905 2251,2935 304,2935" rendition="TextRegion" xml:id="facs_62_tr_3">
+            <zone points="291,1997 2133,1974 2247,1966 2247,1911 291,1941" rendition="Line" xml:id="facs_62_tr_3_tl_1"/>
+            <zone points="293,2116 1855,2100 2080,2088 2083,2035 293,2065" rendition="Line" xml:id="facs_62_tr_3_tl_2"/>
+            <zone points="291,2224 1863,2222 2073,2201 2073,2153 291,2181" rendition="Line" xml:id="facs_62_tr_3_tl_3"/>
+            <zone points="296,2343 1850,2340 2143,2325 2146,2267 298,2292" rendition="Line" xml:id="facs_62_tr_3_tl_4"/>
+            <zone points="291,2464 2032,2454 2110,2388 293,2419" rendition="Line" xml:id="facs_62_tr_3_tl_5"/>
+            <zone points="291,2583 1853,2578 2070,2555 2073,2505 291,2535" rendition="Line" xml:id="facs_62_tr_3_tl_6"/>
+            <zone points="293,2697 1977,2684 2098,2667 2098,2613 293,2664" rendition="Line" xml:id="facs_62_tr_3_tl_7"/>
+            <zone points="296,2818 2138,2798 2174,2727 298,2765" rendition="Line" xml:id="facs_62_tr_3_tl_8"/>
+            <zone points="291,2932 2229,2904 2229,2846 291,2897" rendition="Line" xml:id="facs_62_tr_3_tl_9"/>
+         </zone>
+         <zone points="23,2959 2370,2959 2370,3476 23,3476" rendition="TextRegion" xml:id="facs_62_tr_2">
+            <zone points="296,3048 1034,3076 2209,3020 2212,2967 296,3000" rendition="Line" xml:id="facs_62_tr_2_tl_1"/>
+            <zone points="303,3187 708,3182 773,3233 1853,3202 2227,3167 2229,3091 1355,3111 1213,3061 1158,3114 880,3116 781,3058 670,3139 303,3129" rendition="Line" xml:id="facs_62_tr_2_tl_2"/>
+            <zone points="293,3271 321,3286 844,3271 872,3268 872,3223 832,3205 804,3233 741,3210 518,3230 382,3215 293,3233" rendition="Line" xml:id="facs_62_tr_2_tl_3"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0536.jpg" n="part4_p062.jpg" xml:id="img_0062" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p062.jpg"/>
+            
+            <p facs="#facs_62_tr_1">
+               <lb facs="#facs_62_tr_1_tl_1" n="N001"/>[531]
+               <lb facs="#facs_62_tr_1_tl_2" n="N002"/>but a tradition which comes from somewhere else and which is still comparatively intact.
+               <lb facs="#facs_62_tr_1_tl_3" n="N003"/>How could pragmatism otherwise give contents at all? Which IS the experience,
+               <lb facs="#facs_62_tr_1_tl_4" n="N004"/>the ethical experience? You DO something---what do you experience? You experience that it was
+               <lb facs="#facs_62_tr_1_tl_5" n="N005"/>wrong or right. HOW DO you experience it? CONSCIENCE ALONE wouldn't help, because
+               <lb facs="#facs_62_tr_1_tl_6" n="N006"/>conscience is erroneous, very often---and was certainly erroneous in all the hundreds of thousands
+               <lb facs="#facs_62_tr_1_tl_7" n="N007"/>of younger Nazis who committed the greatest atrocities imaginable because their conscience
+               <lb facs="#facs_62_tr_1_tl_8" n="N008"/>forced them to be obedient to the leder.
+               <lb facs="#facs_62_tr_1_tl_9" n="N009"/>Then what IS the criterion? Is it success? Alright---but what does success mean?
+               <lb facs="#facs_62_tr_1_tl_10" n="N010"/>is the success of a politician who uses every means to come to power a criterion for his goodness? And
+               <lb facs="#facs_62_tr_1_tl_11" n="N011"/>how can pragmatism PROVE that this is not what it means---as every pragmatist of course would say?
+               <lb facs="#facs_62_tr_1_tl_12" n="N012"/>What evidence does he give that THIS politican, who becomes powerful by all kinds of frauds
+               <lb facs="#facs_62_tr_1_tl_13" n="N013"/>and cunning, is NOT justified by the success which he has, if the pragmatic principle is in power?
+               <lb facs="#facs_62_tr_1_tl_14" n="N014"/>Now here we can only say: this is so INconsistent that, as always in a situation in which
+            </p>
+            <p facs="#facs_62_tr_3">
+               <lb facs="#facs_62_tr_3_tl_1" n="N001"/>inconsistency is obvious, one must apply a sociological or psychological analysis---not one moment
+               <lb facs="#facs_62_tr_3_tl_2" n="N002"/>before, because then discussion becomes impossible. But if discussion leads to an absolute
+               <lb facs="#facs_62_tr_3_tl_3" n="N003"/>inconsistency in the one or both points of views, then the question is: now why is this so?
+               <lb facs="#facs_62_tr_3_tl_4" n="N004"/>Why are we not ABLE to show what experience in ethical respect means? Why is pragmatism
+               <lb facs="#facs_62_tr_3_tl_5" n="N005"/>not able? Then we must make a sociological analysis, and it is very obvious if you compare
+               <lb facs="#facs_62_tr_3_tl_6" n="N006"/>Europe and this country, namely the analysis that the principles of secularized puritanism
+               <lb facs="#facs_62_tr_3_tl_7" n="N007"/>and revivalism are not yet broken. Now let us imagine that they ARE broken, as they were
+               <lb facs="#facs_62_tr_3_tl_8" n="N008"/>in Europe, certainly. What then [is] the criterion for the content? Is natural law a possibility?
+               <lb facs="#facs_62_tr_3_tl_9" n="N009"/>But who decides about the contents of natural law? And if not, where do you GET the contents?
+            </p>
+            <p facs="#facs_62_tr_2">
+               <lb facs="#facs_62_tr_2_tl_1" n="N001"/>Is there a principle, not only the principle of oughtness and its unconditional character, but also a
+               <lb facs="#facs_62_tr_2_tl_2" n="N002"/>principle of content? Let me construe my answer, which I want to suggest to you, in three levels.
+               <lb facs="#facs_62_tr_2_tl_3" n="N003"/>I will anticipate these levels:
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

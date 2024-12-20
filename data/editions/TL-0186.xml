@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_186">
          <graphic url="TL-0186.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=CXYAWIQFSXSAIDKZNNEODOTT&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CXYAWIQFSXSAIDKZNNEODOTT&amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="47,164 47,3488 2355,3488 2355,164" rendition="TextRegion" xml:id="facs_186_tr_1">
             <zone points="1145,222 1174,227 1187,240 1200,240 1205,233 1223,238 1262,238 1260,165 1202,165 1171,193 1142,193" rendition="Line" xml:id="facs_186_tr_1_tl_1"/>
             <zone points="332,379 1733,389 1733,324 332,319" rendition="Line" xml:id="facs_186_tr_1_tl_2"/>
@@ -100,20 +100,21 @@
                <lb facs="#facs_186_tr_1_tl_1" n="N001"/>[182]
                <lb facs="#facs_186_tr_1_tl_2" n="N002"/>in terms of that attitude which later developed as the scientific attitude.
                <lb facs="#facs_186_tr_1_tl_4" n="N003"/>So there are two elements in every philosopher, an element of <ultimate_concern>ultimate concern</ultimate_concern> which
-               <lb facs="#facs_186_tr_1_tl_5" n="N004"/>gives the passion, the <eros>eros,</eros> the driving power, to the philosopher; and at the same time, the detached
-               <lb facs="#facs_186_tr_1_tl_6" n="N005"/>attitude, the coldness of observation and of adequate description. In this polarity and this tension,
-               <lb facs="#facs_186_tr_1_tl_8" n="N006"/>all great philosophers were living. And you can observe how these two elements supported each other
+               <lb facs="#facs_186_tr_1_tl_5" n="N004"/>gives the passion, the<rs type="keyword" ref="#Eros"> eros, </rs>the driving power, to the philosopher; and at the same time, the <rs type="keyword" ref="#Detached_observation">detached
+               <lb break="no" facs="#facs_186_tr_1_tl_6" n="N005"/>attitude</rs>, the coldness of observation and of adequate description. In this polarity and this tension,
+               <lb facs="#facs_186_tr_1_tl_8" n="N006"/>all great philosophers were living. And you can observe how these two elements supported each other -
+
                <lb facs="#facs_186_tr_1_tl_9" n="N007"/>the passion for the ultimate opened the eyes of the observer; and very often also were in tension
                <lb facs="#facs_186_tr_1_tl_10" n="N008"/>with each other---the passion went beyond what COULD be observed. But there is no philosophy where
                <lb facs="#facs_186_tr_1_tl_11" n="N009"/>there are not these two elements.
-               <lb facs="#facs_186_tr_1_tl_13" n="N010"/>This is shown in the fact that philosophy could become the mother's womb out of which
-               <lb facs="#facs_186_tr_1_tl_14" n="N011"/>science and history have grown, and that, as we are never completely separated from our mother,
+               <lb facs="#facs_186_tr_1_tl_13" n="N010"/>This is shown in the fact that <rs type="keyword" ref="#Philosophy">philosophy</rs> could become the mother's womb out of which
+               <lb facs="#facs_186_tr_1_tl_14" n="N011"/><rs type="keyword" ref="#Science">science</rs> and<rs type="keyword" ref="#History"> history</rs> have grown, and that, as we are never completely separated from our mother,
                <lb facs="#facs_186_tr_1_tl_15" n="N012"/>even if she has died long ago, so science and history are never completely separated from philosophy
                <lb facs="#facs_186_tr_1_tl_16" n="N013"/>and those two elements, the passion for the ultimate and the conceptual sharpness and discipline.
                <lb facs="#facs_186_tr_1_tl_17" n="N014"/>Let me first make this more concrete. The frame of reference within which the<rs type="keyword" ref="#Physics"> physicists</rs>
                <lb facs="#facs_186_tr_1_tl_18" n="N015"/>have seen and are seeing the universe of their inquiries, is philosophical. I just got a report about
                <lb facs="#facs_186_tr_1_tl_19" n="N016"/>a discussion which took place---I think it was in <rs type="place">New York</rs>---this weekend, where a very well known
-               <lb facs="#facs_186_tr_1_tl_20" n="N017"/>scientist gave a paper in a group of theologians, and his main point was that the<rs type="keyword" ref="#Metaphysics"> metaphysical universe</rs>
+               <lb facs="#facs_186_tr_1_tl_20" n="N017"/>scientist gave a paper in a group of theologians, and his main point was that the metaphysical universe
                <lb facs="#facs_186_tr_1_tl_21" n="N018"/>can never be eliminated in everything the <rs type="keyword" ref="#Physics">physicist </rs>does (in this case, for instance, the problem of the
                <lb facs="#facs_186_tr_1_tl_23" n="N019"/>original production of matter and its time and its space). Now I wouldn't say this is a confirmation
             </p>

@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -68,15 +68,11 @@
          <graphic url="TL-0402.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=XGZRAVMEQYMYDYVSFDNJMMPV&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="256,26 2379,26 2379,1323 256,1323" rendition="TextRegion" xml:id="facs_10_tr_2">
-            <zone points="256,75 289,78 295,83 300,80 326,101 333,98 346,101 357,0 266,0" rendition="Line" xml:id="facs_10_tr_2_tl_1"/>
-            <zone points="243,158 406,165 398,98 362,96 357,101 336,96 323,101 300,80 282,75 276,80 248,62 235,62" rendition="Line" xml:id="facs_10_tr_2_tl_2"/>
-            <zone points="773,155 866,158 866,0 773,0" rendition="Line" xml:id="facs_10_tr_2_tl_3"/>
-            <zone points="2077,152 2139,160 2157,150 2173,165 2191,165 2214,152 2222,160 2250,160 2276,134 2294,134 2294,0 2077,0" rendition="Line" xml:id="facs_10_tr_2_tl_4"/>
             <zone points="1158,419 1170,419 1191,437 1199,437 1204,431 1212,437 1227,437 1235,429 1243,434 1263,434 1266,362 1253,362 1240,375 1220,372 1207,359 1183,372 1160,369" rendition="Line" xml:id="facs_10_tr_2_tl_5"/>
             <zone points="318,576 2186,587 2033,519 318,509" rendition="Line" xml:id="facs_10_tr_2_tl_6"/>
             <zone points="310,721 2372,749 2369,682 310,664" rendition="Line" xml:id="facs_10_tr_2_tl_7"/>
             <zone points="307,884 731,886 731,824 385,824 362,845 336,819 307,819" rendition="Line" xml:id="facs_10_tr_2_tl_8"/>
-            <zone points="509,1000 2212,1021 2212,956 509,964" rendition="Line" xml:id="facs_10_tr_2_tl_9"/>
+            <zone points="509,1000 2212,1021 2212,956 509,964" rendition="Line" xml:id="facs_10_tr_2_tl_9" subtype="paragraph"/>
             <zone points="300,1158 2152,1173 2152,1114 300,1124" rendition="Line" xml:id="facs_10_tr_2_tl_10"/>
             <zone points="302,1313 2142,1320 2142,1271 1734,1256 302,1276" rendition="Line" xml:id="facs_10_tr_2_tl_11"/>
          </zone>
@@ -104,32 +100,28 @@
             <pb facs="#TL-0402.jpg" n="part3_p010.jpg" xml:id="img_0010" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p010.jpg"/>
             
             <p facs="#facs_10_tr_2">
-               <lb facs="#facs_10_tr_2_tl_1" n="N001"/>ne se
-               <lb facs="#facs_10_tr_2_tl_2" n="N002"/>Monsieur,
-               <lb facs="#facs_10_tr_2_tl_3" n="N003"/>pour la
-               <lb facs="#facs_10_tr_2_tl_4" n="N004"/>Monsieur,
-               <lb facs="#facs_10_tr_2_tl_5" n="N005"/>3.
-               <lb facs="#facs_10_tr_2_tl_6" n="N006"/>because we are in both of them even, if weare in one or the other of them, with a negative sign
-               <lb facs="#facs_10_tr_2_tl_7" n="N007"/>before our being in it. (little daughter) In any case, the question "What to do about the situation?"
-               <lb facs="#facs_10_tr_2_tl_8" n="N008"/>is certainly justified.
-               <lb facs="#facs_10_tr_2_tl_9" n="N009"/>To remain very modest in answers this question, I would say what you can do in an
-               <lb facs="#facs_10_tr_2_tl_10" n="N010"/>ACADEMIC context—and I cannot go beyond this in this moment; perhaps when we come to
-               <lb facs="#facs_10_tr_2_tl_11" n="N011"/>education, politics, etc., which will be the next consideration, I will continually answer you
+               <lb facs="#facs_10_tr_2_tl_5" n="N001"/>[397]
+               <lb facs="#facs_10_tr_2_tl_6" n="N002"/>because we are in both of them even, if we are in one or the other of them, with a negative sign
+               <lb facs="#facs_10_tr_2_tl_7" n="N003"/>before our being in it. <hi style="font-style: italic;">[little daughter]</hi> In any case, the question ''What to do about the situation?''
+               <lb facs="#facs_10_tr_2_tl_8" n="N004"/>is certainly justified.
+               <lb facs="#facs_10_tr_2_tl_9" n="N005"/>To remain very modest in answering this question, I would say what you can do in an
+               <lb facs="#facs_10_tr_2_tl_10" n="N006"/>ACADEMIC context--and I cannot go beyond this in this moment; perhaps when we come to
+               <lb facs="#facs_10_tr_2_tl_11" n="N007"/>education, politics, etc., which will be the next consideration, I will continuously answer you
             </p>
             <p facs="#facs_10_tr_1">
-               <lb facs="#facs_10_tr_1_tl_1" n="N001"/>Indirectly. But if I answer it now directly, I can only say: become aware of this situation to a
+               <lb facs="#facs_10_tr_1_tl_1" n="N001"/>INdirectly. But if I answer it now directly, I can only say: become aware of this situation to a
                <lb facs="#facs_10_tr_1_tl_2" n="N002"/>depth in which automatically, so to speak, or spontaneously, resistance powers grew up in you.
                <lb facs="#facs_10_tr_1_tl_3" n="N003"/>And that is actually the only thing I can say here. And I don't want to say more, even if I could,
-               <lb facs="#facs_10_tr_1_tl_4" n="N004"/>because—and this is the danger in your question (and that is why I mentioned this story of myself),
-               <lb facs="#facs_10_tr_1_tl_5" n="N005"/>that before we have analyzed-i.e., experienced, not kanalyzed-- EXPERIANCED the death
+               <lb facs="#facs_10_tr_1_tl_4" n="N004"/>because--and this is the danger in your question (and that is why I mentioned this story of myself),
+               <lb facs="#facs_10_tr_1_tl_5" n="N005"/>that before we have analyzed--i.e., experienced, not analyzed-- EXPERIENCED the depth
                <lb facs="#facs_10_tr_1_tl_6" n="N006"/>of the situation in which we are and look for remedies, then these remedies will be as superficial
-               <lb facs="#facs_10_tr_1_tl_7" n="N007"/>as the experience itself was. If we EXPERIANCE the situation, in its full depth, then it will be
+               <lb facs="#facs_10_tr_1_tl_7" n="N007"/>as the experience itself was. If we EXPERIENCE the situation, in its full depth, then it will be
                <lb facs="#facs_10_tr_1_tl_8" n="N008"/>very hard to find remedies, but then perhaps something happens of which the old medicine often
                <lb facs="#facs_10_tr_1_tl_9" n="N009"/>spoke, namely the healing power which is embodied in nature itself. This is what medicine does
-               <lb facs="#facs_10_tr_1_tl_10" n="N010"/>[has?] in human nature, inungical nature, I can say, if somebody geaches the depth of understanding
+               <lb facs="#facs_10_tr_1_tl_10" n="N010"/>[has?] in human nature, in biological nature. I can say, if somebody reaches the depth of understanding
                <lb facs="#facs_10_tr_1_tl_11" n="N011"/>and of experience, also emotionally, with respect to these things, then he certainly will be able to
                <lb facs="#facs_10_tr_1_tl_12" n="N012"/>develop remedies, forces of healing in himself which will radiate into others. So to this class,
-               <lb facs="#facs_10_tr_1_tl_13" n="N013"/>here and now, in this moment, I would answer your question by saying: EXPERIANCE the things
+               <lb facs="#facs_10_tr_1_tl_13" n="N013"/>here and now, in this moment, I would answer your question by saying: EXPERIENCE the things
             </p>
             
         </div>

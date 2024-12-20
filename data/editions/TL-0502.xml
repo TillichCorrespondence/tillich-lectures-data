@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVIII (Nr. 0502)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p028</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-20">1956-03-20</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_28">
+         <graphic url="TL-0502.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NXOPRQFNMPJZMWHYUDODNKWZ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="256,266 2310,266 2310,1846 256,1846" rendition="TextRegion" xml:id="facs_28_tr_2">
+            <zone points="1191,324 1219,327 1227,335 1262,330 1285,335 1293,327 1311,327 1308,256 1278,256 1262,264 1240,261 1227,276 1189,276" rendition="Line" xml:id="facs_28_tr_2_tl_1"/>
+            <zone points="456,477 2071,487 2071,403 456,441" rendition="Line" xml:id="facs_28_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="264,634 2200,646 2200,581 2023,563 264,578" rendition="Line" xml:id="facs_28_tr_2_tl_3"/>
+            <zone points="266,799 2127,783 2127,728 266,735" rendition="Line" xml:id="facs_28_tr_2_tl_4"/>
+            <zone points="248,925 2086,930 2086,882 1871,870 248,885" rendition="Line" xml:id="facs_28_tr_2_tl_5"/>
+            <zone points="254,1082 317,1126 2071,1093 2157,1032 254,1052" rendition="Line" xml:id="facs_28_tr_2_tl_6"/>
+            <zone points="269,1229 2307,1247 2307,1191 2147,1174 269,1169" rendition="Line" xml:id="facs_28_tr_2_tl_7"/>
+            <zone points="472,1384 2058,1404 2276,1382 2276,1326 472,1354" rendition="Line" xml:id="facs_28_tr_2_tl_8" subtype="paragraph"/>
+            <zone points="248,1536 2172,1572 2172,1486 248,1493" rendition="Line" xml:id="facs_28_tr_2_tl_9"/>
+            <zone points="241,1698 2096,1734 2218,1716 2218,1638 241,1658" rendition="Line" xml:id="facs_28_tr_2_tl_10"/>
+            <zone points="345,1838 2129,1845 2129,1777 345,1792" rendition="Line" xml:id="facs_28_tr_2_tl_11" subtype="paragraph"/>
+         </zone>
+         <zone points="247,1926 2242,1926 2242,2676 247,2676" rendition="TextRegion" xml:id="facs_28_tr_3">
+            <zone points="238,2015 2137,2020 2137,1937 238,1947" rendition="Line" xml:id="facs_28_tr_3_tl_1"/>
+            <zone points="241,2152 581,2147 581,2089 241,2086" rendition="Line" xml:id="facs_28_tr_3_tl_2"/>
+            <zone points="446,2213 1845,2228 2205,2213 2205,2147 446,2150" rendition="Line" xml:id="facs_28_tr_3_tl_3" subtype="paragraph"/>
+            <zone points="236,2363 2172,2401 2172,2309 1876,2297 236,2332" rendition="Line" xml:id="facs_28_tr_3_tl_4"/>
+            <zone points="233,2520 1688,2593 1774,2515 2208,2517 2208,2461 1802,2467 1655,2383 1556,2467 233,2472" rendition="Line" xml:id="facs_28_tr_3_tl_5"/>
+            <zone points="236,2662 332,2733 1366,2685 2107,2725 2236,2611 236,2621" rendition="Line" xml:id="facs_28_tr_3_tl_6"/>
+         </zone>
+         <zone points="23,2750 2347,2750 2347,3488 23,3488" rendition="TextRegion" xml:id="facs_28_tr_1">
+            <zone points="233,2821 2094,2824 2233,2814 2233,2761 233,2776" rendition="Line" xml:id="facs_28_tr_1_tl_1"/>
+            <zone points="228,2968 2198,2974 2198,2913 228,2923" rendition="Line" xml:id="facs_28_tr_1_tl_2"/>
+            <zone points="231,3118 1643,3174 2264,3123 2264,3065 231,3095" rendition="Line" xml:id="facs_28_tr_1_tl_3"/>
+            <zone points="238,3270 695,3316 806,3257 2249,3230 2249,3171 238,3235" rendition="Line" xml:id="facs_28_tr_1_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0502.jpg" n="part4_p028.jpg" xml:id="img_0028" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p028.jpg"/>
+            
+            <p facs="#facs_28_tr_2">
+               <lb facs="#facs_28_tr_2_tl_1" n="N001"/>[497]
+               <lb facs="#facs_28_tr_2_tl_2" n="N002"/>And then, this is not a function of the theological faculty itself, this is done in all
+               <lb facs="#facs_28_tr_2_tl_3" n="N003"/>faculties. And I am very eager to emphasize this point because if you do not emphasize this point,
+               <lb facs="#facs_28_tr_2_tl_4" n="N004"/>you easily come into a situation of theological arrogance: "We, the theologians, represent the
+               <lb facs="#facs_28_tr_2_tl_5" n="N005"/>ULTIMATE; others don't have it." Now this is simply ecclesiastical or theological arrogance
+               <lb facs="#facs_28_tr_2_tl_6" n="N006"/>and shouldn't be allowed. We should know that the idea of the theological faculty being the
+               <lb facs="#facs_28_tr_2_tl_7" n="N007"/>"queen of the science" in former centuries, does NOT mean that the others do not have their ultimacy:
+               <lb facs="#facs_28_tr_2_tl_8" n="N008"/>the humanities had it certainly, because man was considered to be the image of God, which
+               <lb facs="#facs_28_tr_2_tl_9" n="N009"/>means: in him, infinity is present and he is aware of it. This means that in all of these functions,
+               <lb facs="#facs_28_tr_2_tl_10" n="N010"/>the element of ultimacy is present, even if hidden. And of course, here theology has nothing to do
+               <lb facs="#facs_28_tr_2_tl_11" n="N011"/>than to RELATE itself to all these different realms, and I think these lectures which I
+            </p>
+            <p facs="#facs_28_tr_3">
+               <lb facs="#facs_28_tr_3_tl_1" n="N001"/>give this year is the attempt to do this, with the relation to most realms for which we have time
+               <lb facs="#facs_28_tr_3_tl_2" n="N002"/>to discuss them.
+               <lb facs="#facs_28_tr_3_tl_3" n="N003"/>Then there is a third thing, the most difficult one. It is perhaps best expressed in the fact
+               <lb facs="#facs_28_tr_3_tl_4" n="N004"/>that there is the chapel service in the middle of the Yard. What does that mean? This means that
+               <lb facs="#facs_28_tr_3_tl_5" n="N005"/>the ultimate concern, which is present everywhere, needs concreteness. And if it is CONCRETELY
+               <lb facs="#facs_28_tr_3_tl_6" n="N006"/>EXPRESSED, it needs actual as well as imaginary symbols. And that is what happens in the services.
+            </p>
+            <p facs="#facs_28_tr_1">
+               <lb facs="#facs_28_tr_1_tl_1" n="N001"/>So from the point of view of the university, these services are the concretion of that which is present
+               <lb facs="#facs_28_tr_1_tl_2" n="N002"/>in all faculties. It is one concretion of course; there are others possible---the very fact that we have,
+               <lb facs="#facs_28_tr_1_tl_3" n="N003"/>on the one side, the Roman Catholic Church, the Protestant churches (which are divided in themselves
+               <lb facs="#facs_28_tr_1_tl_4" n="N004"/>very much) and the Jews, as the main groups on this campus, makes it clear that the concrete symbols
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

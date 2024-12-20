@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLI (Nr. 0541)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p067</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-29">1956-03-29</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_67">
+         <graphic url="TL-0541.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UCHCLSIKPFDXCZRHAKLELVVD&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="50,272 2224,272 2224,1410 50,1410" rendition="TextRegion" xml:id="facs_67_tr_3">
+            <zone points="1051,347 1066,349 1094,380 1115,380 1133,362 1151,365 1164,352 1176,354 1179,272 1143,272 1125,265 1089,293 1053,295" rendition="Line" xml:id="facs_67_tr_3_tl_1"/>
+            <zone points="280,465 2129,485 2145,398 280,429" rendition="Line" xml:id="facs_67_tr_3_tl_2"/>
+            <zone points="285,581 1996,611 1996,514 285,527" rendition="Line" xml:id="facs_67_tr_3_tl_3"/>
+            <zone points="293,709 1788,740 1857,681 2165,694 2165,640 293,655" rendition="Line" xml:id="facs_67_tr_3_tl_4"/>
+            <zone points="285,822 2058,814 2060,760 285,786" rendition="Line" xml:id="facs_67_tr_3_tl_6"/>
+            <zone points="285,940 1981,925 1981,881 1888,866 288,896" rendition="Line" xml:id="facs_67_tr_3_tl_7"/>
+            <zone points="511,1061 2145,1048 2217,1038 2217,984 511,1004" rendition="Line" xml:id="facs_67_tr_3_tl_8" subtype="paragraph"/>
+            <zone points="285,1166 961,1220 2140,1187 2140,1107 1981,1099 285,1125" rendition="Line" xml:id="facs_67_tr_3_tl_9"/>
+            <zone points="280,1287 2137,1284 2137,1225 283,1212" rendition="Line" xml:id="facs_67_tr_3_tl_10"/>
+            <zone points="552,1408 2122,1397 2122,1349 552,1361" rendition="Line" xml:id="facs_67_tr_3_tl_11"/>
+         </zone>
+         <zone points="286,1448 2269,1448 2269,2586 286,2586" rendition="TextRegion" xml:id="facs_67_tr_1">
+            <zone points="285,1534 1916,1505 2181,1570 2199,1454 288,1472" rendition="Line" xml:id="facs_67_tr_1_tl_1"/>
+            <zone points="277,1636 2145,1636 2145,1577 277,1595" rendition="Line" xml:id="facs_67_tr_1_tl_2"/>
+            <zone points="285,1762 1950,1762 2243,1744 2263,1690 285,1706" rendition="Line" xml:id="facs_67_tr_1_tl_3"/>
+            <zone points="277,1875 450,1888 529,1875 609,1888 704,1878 706,1824 491,1829 473,1847 429,1826 316,1829 280,1847" rendition="Line" xml:id="facs_67_tr_1_tl_6"/>
+            <zone points="277,1983 1986,2014 2196,1975 2196,1924 277,1942" rendition="Line" xml:id="facs_67_tr_1_tl_7"/>
+            <zone points="285,2117 1824,2140 2248,2094 2248,2037 285,2058" rendition="Line" xml:id="facs_67_tr_1_tl_8"/>
+            <zone points="277,2227 935,2222 1066,2276 2163,2243 2163,2163 1058,2140 277,2199" rendition="Line" xml:id="facs_67_tr_1_tl_9"/>
+            <zone points="272,2338 727,2402 1089,2340 2199,2332 2217,2273 272,2314" rendition="Line" xml:id="facs_67_tr_1_tl_10"/>
+            <zone points="272,2461 2091,2461 2248,2443 2248,2394 272,2435" rendition="Line" xml:id="facs_67_tr_1_tl_11"/>
+            <zone points="277,2579 1161,2620 2029,2569 2063,2517 277,2538" rendition="Line" xml:id="facs_67_tr_1_tl_12"/>
+         </zone>
+         <zone points="29,2613 2343,2613 2343,3479 29,3479" rendition="TextRegion" xml:id="facs_67_tr_2">
+            <zone points="277,2702 2042,2684 2158,2677 2160,2620 277,2648" rendition="Line" xml:id="facs_67_tr_2_tl_1"/>
+            <zone points="275,2810 2160,2800 2160,2743 275,2767" rendition="Line" xml:id="facs_67_tr_2_tl_2"/>
+            <zone points="275,2936 313,2941 324,2949 390,2934 465,2936 465,2887 301,2887 295,2882 288,2890 275,2890" rendition="Line" xml:id="facs_67_tr_2_tl_3"/>
+            <zone points="501,2995 2135,2975 2158,2913 503,2934" rendition="Line" xml:id="facs_67_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="331,3113 2181,3126 2183,3039 334,3077" rendition="Line" xml:id="facs_67_tr_2_tl_5"/>
+            <zone points="275,3252 2325,3214 2343,3154 275,3175" rendition="Line" xml:id="facs_67_tr_2_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0541.jpg" n="part4_p067.jpg" xml:id="img_0067" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p067.jpg"/>
+            
+            <p facs="#facs_67_tr_3">
+               <lb facs="#facs_67_tr_3_tl_1" n="N001"/>[536]
+               <lb facs="#facs_67_tr_3_tl_2" n="N002"/>a silent voice, but a voice which we can hear, if we listen. And this listening is the first work of
+               <lb facs="#facs_67_tr_3_tl_3" n="N003"/>love, the listening to the absolutely concrete, to the unique which cannot be repeated.
+               <lb facs="#facs_67_tr_3_tl_4" n="N004"/>The law is UNable to listen, because it must, by its very nature, remain abstract. But love is not
+               <lb facs="#facs_67_tr_3_tl_6" n="N005"/>only able to listen, but it is the very NATURE of love to listen, because it unites itself AS a
+               <lb facs="#facs_67_tr_3_tl_7" n="N006"/>concrete WITH concrete, as this unique bearer of love with this unique object of love.
+               <lb facs="#facs_67_tr_3_tl_8" n="N007"/>From this point of view the freedom of love follows, the freedom of love from the law.
+               <lb facs="#facs_67_tr_3_tl_9" n="N008"/>The law puts into servitude. Love makes free because it listens to the demand of the situation.
+               <lb facs="#facs_67_tr_3_tl_10" n="N009"/>And this demand of the situation is not something strange but is the fulfillment of the striving
+               <lb facs="#facs_67_tr_3_tl_11" n="N010"/>of every being to be reunited with that to which it belongs and from which it is
+            </p>
+            <p facs="#facs_67_tr_1">
+               <lb facs="#facs_67_tr_1_tl_1" n="N001"/>separated---the other one, and the world-as-a-whole with everything concrete which we encounter.
+               <lb facs="#facs_67_tr_1_tl_2" n="N002"/>So we now have the third level. But I want to say here something about the possibility of this,
+               <lb facs="#facs_67_tr_1_tl_3" n="N003"/>or this listening and this uniting on the BASIS of listening. I want to use here a Christian theological
+               <lb facs="#facs_67_tr_1_tl_6" n="N004"/>concept, namely the concept of the Spirit (with a capital "S"), the Divine or Holy Spirit.
+               <lb facs="#facs_67_tr_1_tl_7" n="N005"/>This word, which needs much explanation, in theological terms, must be used here in a much more
+               <lb facs="#facs_67_tr_1_tl_8" n="N006"/>universal way. The word Spirit has the same function as what I just called love. And in the greatest
+               <lb facs="#facs_67_tr_1_tl_9" n="N007"/>chapter about the Spirit, we also have the greatest chapter about love, namely I Corinthians 13,
+               <lb facs="#facs_67_tr_1_tl_10" n="N008"/>which is started by Paul's saying that "I will show you higher way of love, of the Spirit, more than
+               <lb facs="#facs_67_tr_1_tl_11" n="N009"/>any knowledge and ecstasies and prophecies, namely the way of love." In other words, only where
+               <lb facs="#facs_67_tr_1_tl_12" n="N010"/>there is a power which overcomes the separation of the separated, there love can be active.
+            </p>
+            <p facs="#facs_67_tr_2">
+               <lb facs="#facs_67_tr_2_tl_1" n="N001"/>Therefore we must ask a question, to which I will come instantly: Out of what does the power
+               <lb facs="#facs_67_tr_2_tl_2" n="N002"/>to FULFILL the moral imperative follow, if the moral imperative is not determined by law but
+               <lb facs="#facs_67_tr_2_tl_3" n="N003"/>by love?
+               <lb facs="#facs_67_tr_2_tl_4" n="N004"/>But I stop here for a moment and come now to the second level. Between the first
+               <lb facs="#facs_67_tr_2_tl_5" n="N005"/>level, the level of love, and the third level, the level of the <hi style="font-style: italic;">kairos</hi>, the moment here and now,
+               <lb facs="#facs_67_tr_2_tl_6" n="N006"/>there is the level of wisdom, as I called it. This level of wisdom has the character of law, but if we call it
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

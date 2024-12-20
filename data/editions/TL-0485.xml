@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVII (Nr. 0485)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p011</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-15">1956-03-15</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_11">
+         <graphic url="TL-0485.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SEHSKRVNDMEVIYRSJHFVXZZA&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="44,27 2322,27 2322,1867 44,1867" rendition="TextRegion" xml:id="facs_11_tr_1">
+            <zone points="1100,324 1130,324 1137,332 1150,334 1223,334 1223,290 1211,290 1181,260 1162,260 1132,290 1100,290" rendition="Line" xml:id="facs_11_tr_1_tl_2"/>
+            <zone points="354,501 2243,494 2243,420 354,437" rendition="Line" xml:id="facs_11_tr_1_tl_3"/>
+            <zone points="344,646 2265,653 2265,597 344,624" rendition="Line" xml:id="facs_11_tr_1_tl_4"/>
+            <zone points="354,808 2073,806 2243,798 2243,747 354,759" rendition="Line" xml:id="facs_11_tr_1_tl_5"/>
+            <zone points="346,948 2036,968 2169,941 2171,894 346,926" rendition="Line" xml:id="facs_11_tr_1_tl_6"/>
+            <zone points="359,1123 1909,1110 2201,1093 2203,1044 361,1046" rendition="Line" xml:id="facs_11_tr_1_tl_7"/>
+            <zone points="344,1255 2208,1253 2208,1199 344,1216" rendition="Line" xml:id="facs_11_tr_1_tl_8"/>
+            <zone points="344,1405 2105,1403 2184,1398 2184,1348 344,1383" rendition="Line" xml:id="facs_11_tr_1_tl_9"/>
+            <zone points="344,1560 2319,1557 2321,1496 344,1511" rendition="Line" xml:id="facs_11_tr_1_tl_10"/>
+            <zone points="344,1705 1346,1717 1398,1710 1398,1658 987,1641 344,1683" rendition="Line" xml:id="facs_11_tr_1_tl_11"/>
+            <zone points="572,1864 865,1921 1545,1852 2088,1864 2265,1852 2267,1773 572,1813" rendition="Line" xml:id="facs_11_tr_1_tl_12" subtype="paragraph"/>
+         </zone>
+         <zone points="26,1938 2313,1938 2313,3488 26,3488" rendition="TextRegion" xml:id="facs_11_tr_2">
+            <zone points="339,2004 1805,2019 2260,1997 2260,1950 339,1965" rendition="Line" xml:id="facs_11_tr_2_tl_1"/>
+            <zone points="339,2154 1990,2164 2306,2152 2306,2098 339,2115" rendition="Line" xml:id="facs_11_tr_2_tl_2"/>
+            <zone points="337,2309 2206,2302 2206,2247 337,2287" rendition="Line" xml:id="facs_11_tr_2_tl_3"/>
+            <zone points="341,2469 364,2478 395,2466 739,2469 742,2417 467,2419 430,2405 413,2419 341,2422" rendition="Line" xml:id="facs_11_tr_2_tl_4"/>
+            <zone points="567,2535 2051,2545 2201,2523 2201,2456 567,2478" rendition="Line" xml:id="facs_11_tr_2_tl_5" subtype="paragraph"/>
+            <zone points="341,2687 2230,2724 2257,2616 341,2648" rendition="Line" xml:id="facs_11_tr_2_tl_6"/>
+            <zone points="341,2884 575,2898 651,2837 2044,2839 2176,2822 2176,2771 341,2803" rendition="Line" xml:id="facs_11_tr_2_tl_8"/>
+            <zone points="341,3011 2117,2987 2250,2977 2250,2918 341,2955" rendition="Line" xml:id="facs_11_tr_2_tl_9"/>
+            <zone points="346,3178 2046,3156 2162,3134 2162,3078 346,3100" rendition="Line" xml:id="facs_11_tr_2_tl_10"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0485.jpg" n="part4_p011.jpg" xml:id="img_0011" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p011.jpg"/>
+            
+            <p facs="#facs_11_tr_1">
+               <lb facs="#facs_11_tr_1_tl_2" n="N001"/>[480]
+               <lb facs="#facs_11_tr_1_tl_3" n="N002"/>institution of teaching, it is not ONLY an institution of education, it is not ONLY an institution
+               <lb facs="#facs_11_tr_1_tl_4" n="N003"/>of research, but it unites all three functions. And the way in which this is done determines largely
+               <lb facs="#facs_11_tr_1_tl_5" n="N004"/>the character of a <rs type="keyword" ref="#University">university.</rs> In history, for instance, the <rs type="keyword" ref="#Education">educational</rs> element, in a very definite
+               <lb facs="#facs_11_tr_1_tl_6" n="N005"/>way–namely the education to a gentleman–was the main function of the British universities
+               <lb facs="#facs_11_tr_1_tl_7" n="N006"/>(especially the English, not so much the Scottish). There the education to the gentleman who
+               <lb facs="#facs_11_tr_1_tl_8" n="N007"/>is supposed to become, in an aristocratic feudal culture, the leader of the nation, in the future,
+               <lb facs="#facs_11_tr_1_tl_9" n="N008"/>the mediator with the colonies, with the Empire sections–all this was the problem; therefore
+               <lb facs="#facs_11_tr_1_tl_10" n="N009"/>the educational element, by far, was more important than the teaching of contents and the research,
+               <lb facs="#facs_11_tr_1_tl_11" n="N010"/>which was often completely lacking in these colleges.
+               <lb facs="#facs_11_tr_1_tl_12" n="N011"/>In <rs type="place">France</rs>, the <rs type="keyword" ref="#Teaching">teaching</rs> element is predominant, and not the teaching of the gentleman
+            </p>
+            <p facs="#facs_11_tr_2">
+               <lb facs="#facs_11_tr_2_tl_1" n="N001"/>but the teaching of the high bureaucracy, and in earlier periods, of the leaders of the Church, the
+               <lb facs="#facs_11_tr_2_tl_2" n="N002"/>leaders of State and Church, but not in terms of the Gentleman-ideal, as in <rs type="place">England</rs>, but in terms of
+               <lb facs="#facs_11_tr_2_tl_3" n="N003"/>the learned man who is able to apply his learning in the administration of the ecclesiastical and
+               <lb facs="#facs_11_tr_2_tl_4" n="N004"/>political functions.
+               <lb facs="#facs_11_tr_2_tl_5" n="N005"/>In <rs type="place">Germany </rs>the <rs type="keyword" ref="#Education">educational </rs>element was also very weak at the universities. I used
+               <lb facs="#facs_11_tr_2_tl_6" n="N006"/>to say about myself, the higher the place of learning, the worse the teachers, from the educational
+               <lb facs="#facs_11_tr_2_tl_8" n="N007"/>point of view. This was generally true– the best educators were the teachers in the general
+               <lb facs="#facs_11_tr_2_tl_9" n="N008"/>public schools, the grammar schools, as they were called in <rs type="place">England</rs>. By far the worse educators
+               <lb facs="#facs_11_tr_2_tl_10" n="N009"/>were we, the university professors. So the educational element was very badly developed in
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

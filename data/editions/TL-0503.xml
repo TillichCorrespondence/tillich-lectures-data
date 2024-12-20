@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVIII (Nr. 0503)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p029</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-20">1956-03-20</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_29">
+         <graphic url="TL-0503.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AUIXHPJNXEICKGEMETBUUPUH&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="41,21 2334,21 2334,1284 41,1284" rendition="TextRegion" xml:id="facs_29_tr_2">
+            <zone points="1188,355 1207,355 1225,365 1258,368 1276,363 1304,368 1317,365 1312,298 1289,301 1263,288 1248,304 1186,306" rendition="Line" xml:id="facs_29_tr_2_tl_2"/>
+            <zone points="260,514 2210,520 2277,517 2277,458 2030,460 1958,386 1886,458 260,471" rendition="Line" xml:id="facs_29_tr_2_tl_3"/>
+            <zone points="265,677 2122,671 2181,615 265,625" rendition="Line" xml:id="facs_29_tr_2_tl_4"/>
+            <zone points="260,823 2120,831 2277,821 2277,767 260,779" rendition="Line" xml:id="facs_29_tr_2_tl_5"/>
+            <zone points="262,980 2032,996 2284,972 2287,913 265,931" rendition="Line" xml:id="facs_29_tr_2_tl_6"/>
+            <zone points="262,1129 2331,1127 2331,1065 262,1080" rendition="Line" xml:id="facs_29_tr_2_tl_7"/>
+            <zone points="255,1273 2207,1286 2279,1212 255,1250" rendition="Line" xml:id="facs_29_tr_2_tl_8"/>
+         </zone>
+         <zone points="262,1362 2224,1362 2224,2192 262,2192" rendition="TextRegion" xml:id="facs_29_tr_3">
+            <zone points="257,1433 2061,1428 2179,1420 2179,1366 257,1381" rendition="Line" xml:id="facs_29_tr_3_tl_1"/>
+            <zone points="257,1577 2019,1582 2122,1574 2122,1515 257,1531" rendition="Line" xml:id="facs_29_tr_3_tl_2"/>
+            <zone points="255,1734 2045,1729 2122,1721 2125,1667 255,1703" rendition="Line" xml:id="facs_29_tr_3_tl_3"/>
+            <zone points="255,1883 2220,1878 2220,1819 255,1855" rendition="Line" xml:id="facs_29_tr_3_tl_4"/>
+            <zone points="247,2027 1983,2037 2181,2030 2181,1973 247,2004" rendition="Line" xml:id="facs_29_tr_3_tl_5"/>
+            <zone points="255,2184 2140,2189 2194,2140 255,2158" rendition="Line" xml:id="facs_29_tr_3_tl_6"/>
+         </zone>
+         <zone points="91,2266 2283,2266 2283,3488 91,3488" rendition="TextRegion" xml:id="facs_29_tr_1">
+            <zone points="252,2336 2256,2341 2259,2277 252,2292" rendition="Line" xml:id="facs_29_tr_1_tl_1"/>
+            <zone points="257,2490 985,2493 1044,2485 1044,2452 1008,2428 939,2428 916,2452 877,2428 476,2431 257,2459" rendition="Line" xml:id="facs_29_tr_1_tl_2"/>
+            <zone points="257,2637 2148,2591 260,2588" rendition="Line" xml:id="facs_29_tr_1_tl_3"/>
+            <zone points="283,2709 2277,2701 2279,2647 283,2686" rendition="Line" xml:id="facs_29_tr_1_tl_4"/>
+            <zone points="257,2791 2205,2773 2086,2717 260,2735" rendition="Line" xml:id="facs_29_tr_1_tl_5"/>
+            <zone points="244,2935 1978,2933 2115,2925 2115,2871 247,2912" rendition="Line" xml:id="facs_29_tr_1_tl_6"/>
+            <zone points="244,3087 2007,3084 2140,3077 2140,3020 244,3061" rendition="Line" xml:id="facs_29_tr_1_tl_7"/>
+            <zone points="244,3254 1474,3285 2261,3244 2264,3198 244,3221" rendition="Line" xml:id="facs_29_tr_1_tl_8"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0503.jpg" n="part4_p029.jpg" xml:id="img_0029" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p029.jpg"/>
+            
+            <p facs="#facs_29_tr_2">
+               <lb facs="#facs_29_tr_2_tl_2" n="N001"/>[498]
+               <lb facs="#facs_29_tr_2_tl_3" n="N002"/>DO NOT belong, as in the Middle Ages, to the one all-embracing Church, but that they are themselves
+               <lb facs="#facs_29_tr_2_tl_4" n="N003"/>divided, but that it is POSSIBLE that in spite of the fact that they are divided, they are different
+               <lb facs="#facs_29_tr_2_tl_5" n="N004"/>in denominations, they can give to members of all faculties the feeling of the presence, the experience
+               <lb facs="#facs_29_tr_2_tl_6" n="N005"/>of the presence, of the ultimate in concrete symbols. And to express this, to keep them alive, even
+               <lb facs="#facs_29_tr_2_tl_7" n="N006"/>in a limited way---for instance in our case, as Protestant faculty, as a faculty which is basically Protestant,
+               <lb facs="#facs_29_tr_2_tl_8" n="N007"/>although it has elements of Greek Orthodoxy and has strong Catholic elements---if you take "Catholic"
+            </p>
+            <p facs="#facs_29_tr_3">
+               <lb facs="#facs_29_tr_3_tl_1" n="N001"/>in the sense of the Anglican Church, of the Presbyterian Church, but it has no Roman Catholic
+               <lb facs="#facs_29_tr_3_tl_2" n="N002"/>or Jewish elements directly in its teaching, although it has Jewish colleagues who teach special
+               <lb facs="#facs_29_tr_3_tl_3" n="N003"/>subjects connected with the Old Testament. So we have here a definite limited expression of
+               <lb facs="#facs_29_tr_3_tl_4" n="N004"/>concrete symbols in the theological faculty. But we have, on the other hand, the ultimate concern
+               <lb facs="#facs_29_tr_3_tl_5" n="N005"/>in all faculties, which can express itself concretely for those for whom this concrete expression is
+               <lb facs="#facs_29_tr_3_tl_6" n="N006"/>meaningful. And the meaning of these concrete symbols is elaborated by the theological faculty---
+            </p>
+            <p facs="#facs_29_tr_1">
+               <lb facs="#facs_29_tr_1_tl_1" n="N001"/>that is its contribution to the whole of the university, besides being Business School and besides being
+               <lb facs="#facs_29_tr_1_tl_2" n="N002"/>. . . related horizontally to all faculties.
+               <lb facs="#facs_29_tr_1_tl_3" n="N003"/>QN: You distinguished the three functions of the university---research, teaching and education.
+               <lb facs="#facs_29_tr_1_tl_4" n="N004"/>I didn't understand the distinction between the functions of teaching and the function of education.
+               <lb facs="#facs_29_tr_1_tl_5" n="N005"/>PT: Yes, that is very good you asked this question because that is something against which I want
+               <lb facs="#facs_29_tr_1_tl_6" n="N006"/>to fight; the identification of teaching and education. I think teaching is the smallest part of
+               <lb facs="#facs_29_tr_1_tl_7" n="N007"/>education, if teaching is defined as communicating contents of knowledge. This is a very small
+               <lb facs="#facs_29_tr_1_tl_8" n="N008"/>part of education. And I spoke in one of the lectures---I don't know in which---very malignantly about
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

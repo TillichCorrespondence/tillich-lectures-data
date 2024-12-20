@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVIII (Nr. 0500)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p026</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-20">1956-03-20</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_26">
+         <graphic url="TL-0500.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HACWCGIIXQDHVCOGMNWBFNJF&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="238,266 2239,266 2239,1311 238,1311" rendition="TextRegion" xml:id="facs_26_tr_1">
+            <zone points="1102,329 1133,329 1151,342 1174,337 1189,342 1200,334 1223,334 1220,275 1182,275 1151,265 1133,280 1099,280" rendition="Line" xml:id="facs_26_tr_1_tl_1"/>
+            <zone points="247,478 2109,511 2073,378 2027,429 247,437" rendition="Line" xml:id="facs_26_tr_1_tl_2"/>
+            <zone points="285,555 2119,565 2099,511 285,524" rendition="Line" xml:id="facs_26_tr_1_tl_3"/>
+            <zone points="288,629 2109,645 2109,596 1909,581 288,591" rendition="Line" xml:id="facs_26_tr_1_tl_4"/>
+            <zone points="288,709 2124,717 2081,660 288,663" rendition="Line" xml:id="facs_26_tr_1_tl_5"/>
+            <zone points="277,778 1028,778 1028,745 961,735 277,735" rendition="Line" xml:id="facs_26_tr_1_tl_6"/>
+            <zone points="236,848 262,861 339,861 347,853 401,866 447,848 462,863 532,866 532,809 457,809 434,825 403,804 270,801 236,822" rendition="Line" xml:id="facs_26_tr_1_tl_7"/>
+            <zone points="244,935 1333,940 1333,881 1307,879 244,879" rendition="Line" xml:id="facs_26_tr_1_tl_9"/>
+            <zone points="275,999 2225,1020 2225,971 1981,958 275,974" rendition="Line" xml:id="facs_26_tr_1_tl_11"/>
+            <zone points="483,1089 2127,1094 2127,1030 483,1040" rendition="Line" xml:id="facs_26_tr_1_tl_13"/>
+            <zone points="272,1161 1605,1171 1605,1123 1536,1110 272,1117" rendition="Line" xml:id="facs_26_tr_1_tl_14"/>
+            <zone points="223,1290 2219,1310 2132,1248 223,1261" rendition="Line" xml:id="facs_26_tr_1_tl_15"/>
+         </zone>
+         <zone points="226,1394 2286,1394 2286,2520 226,2520" rendition="TextRegion" xml:id="facs_26_tr_3">
+            <zone points="226,1451 765,1508 1074,1454 1359,1508 2209,1490 2209,1395 226,1403" rendition="Line" xml:id="facs_26_tr_3_tl_1"/>
+            <zone points="223,1600 2207,1613 2207,1549 223,1567" rendition="Line" xml:id="facs_26_tr_3_tl_2"/>
+            <zone points="221,1747 2276,1765 2276,1708 2099,1701 221,1695" rendition="Line" xml:id="facs_26_tr_3_tl_3"/>
+            <zone points="218,1903 1456,1950 2278,1916 2278,1850 218,1865" rendition="Line" xml:id="facs_26_tr_3_tl_4"/>
+            <zone points="218,2060 2217,2076 2271,1998 218,2019" rendition="Line" xml:id="facs_26_tr_3_tl_5"/>
+            <zone points="211,2199 2163,2212 2104,2145 211,2171" rendition="Line" xml:id="facs_26_tr_3_tl_6"/>
+            <zone points="216,2356 2129,2376 2127,2309 213,2304" rendition="Line" xml:id="facs_26_tr_3_tl_7"/>
+            <zone points="211,2515 2091,2525 2091,2469 1978,2456 211,2461" rendition="Line" xml:id="facs_26_tr_3_tl_8"/>
+         </zone>
+         <zone points="50,2604 2203,2604 2203,3485 50,3485" rendition="TextRegion" xml:id="facs_26_tr_2">
+            <zone points="206,2659 1901,2669 1901,2610 206,2610" rendition="Line" xml:id="facs_26_tr_2_tl_1"/>
+            <zone points="200,2803 2145,2813 2083,2746 200,2754" rendition="Line" xml:id="facs_26_tr_2_tl_3"/>
+            <zone points="203,2959 1998,2962 1829,2895 203,2916" rendition="Line" xml:id="facs_26_tr_2_tl_4"/>
+            <zone points="200,3108 2137,3129 2058,3047 200,3059" rendition="Line" xml:id="facs_26_tr_2_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0500.jpg" n="part4_p026.jpg" xml:id="img_0026" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p026.jpg"/>
+            
+            <p facs="#facs_26_tr_1">
+               <lb facs="#facs_26_tr_1_tl_1" n="N001"/>[495]
+               <lb facs="#facs_26_tr_1_tl_2" n="N002"/>QN: My question is this: In your last lecture you distinguished three types of truths, or truths
+               <lb facs="#facs_26_tr_1_tl_3" n="N003"/>on three different levels, such as truth in the realm of subject-object experience, and truth in
+               <lb facs="#facs_26_tr_1_tl_4" n="N004"/>the realm of good and beautiful, and also existentalist truth. Now you said that these three
+               <lb facs="#facs_26_tr_1_tl_5" n="N005"/>types or levels of truths are interpenetrated, but they shouldn't interfere in each other's realm
+               <lb facs="#facs_26_tr_1_tl_6" n="N006"/>because then eternal conflict results---
+               <lb facs="#facs_26_tr_1_tl_7" n="N007"/>PT: Yes. Yes.
+               <lb facs="#facs_26_tr_1_tl_9" n="N008"/>QN: But I think that if the third type of truth which is existentialist truth and claims to be the ultimate
+               <lb facs="#facs_26_tr_1_tl_11" n="N009"/>truth, I think that it should take into consideration the other type of truths and should bring under
+               <lb facs="#facs_26_tr_1_tl_13" n="N010"/>judgment, if it is, the ULTIMATE truth, as a criterion for the other type of truths. So I think
+               <lb facs="#facs_26_tr_1_tl_14" n="N011"/>that the third type of truth should interfere in the other realms.
+               <lb facs="#facs_26_tr_1_tl_15" n="N012"/>PT: Yes, now, "correlate" and "interfere" are two very different things. If you say "interfere," you
+            </p>
+            <p facs="#facs_26_tr_3">
+               <lb facs="#facs_26_tr_3_tl_1" n="N001"/>mean that the so-called ULTIMATE truth---I would say "truth about the ultimate," which is a little bit
+               <lb facs="#facs_26_tr_3_tl_2" n="N002"/>different in meaning---if the existential truth or the truth about our ultimate concern interferes with
+               <lb facs="#facs_26_tr_3_tl_3" n="N003"/>the first two levels, the experimental and the experiential truth, then you make, in the [name?] of your
+               <lb facs="#facs_26_tr_3_tl_4" n="N004"/>existential relationship to the ultimate meaning of your life, or to the ground of being, or to God (however
+               <lb facs="#facs_26_tr_3_tl_5" n="N005"/>you want to express it, in this moment), a judgment about the fact whether there was snow in the night
+               <lb facs="#facs_26_tr_3_tl_6" n="N006"/>or not! Now this cannot be done! --- this simply cannot be done! No "photographic" facts can be
+               <lb facs="#facs_26_tr_3_tl_7" n="N007"/>determined in the name of ULTIMATE truth. If this were the case, then the levels were not only
+               <lb facs="#facs_26_tr_3_tl_8" n="N008"/>mixed, and there [was] mutual interference, but then the ultimate wouldn't really be ultimate,
+            </p>
+            <p facs="#facs_26_tr_2">
+               <lb facs="#facs_26_tr_2_tl_1" n="N001"/>because then you could say it is an information about facts---of having snowed or not having
+               <lb facs="#facs_26_tr_2_tl_3" n="N002"/>snowed, or about the relationship of H<hi>2</hi>O, the chemical elements in the ocean, which are a matter
+               <lb facs="#facs_26_tr_2_tl_4" n="N003"/>of experiment and nothing else. And if, in the name of the third level of truth, you make
+               <lb facs="#facs_26_tr_2_tl_5" n="N004"/>a judgment about the first level (let us stick to the first, for the moment), then you do something
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

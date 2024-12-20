@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_9">
          <graphic url="TL-0293.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=PWQOPROCCSJMAJWMHXMTUDVM&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PWQOPROCCSJMAJWMHXMTUDVM&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="173,278 2286,278 2286,2159 173,2159" rendition="TextRegion" xml:id="facs_9_tr_1">
             <zone points="1028,337 1041,340 1052,351 1111,351 1132,340 1145,340 1148,284 1116,281 1108,289 1100,289 1084,273 1068,289 1030,286" rendition="Line" xml:id="facs_9_tr_1_tl_1"/>
             <zone points="383,490 2162,490 2162,444 1999,412 942,455 383,412" rendition="Line" xml:id="facs_9_tr_1_tl_2" subtype="paragraph"/>
@@ -105,7 +105,7 @@
                <lb facs="#facs_9_tr_1_tl_4" n="N004"/>But before saying something about the position of man's artistic creation, I will give you an outline of the
                <lb facs="#facs_9_tr_1_tl_5" n="N005"/>whole semester in terms of hours. Unfortunately, there will be one hour missing because of another
                <lb facs="#facs_9_tr_1_tl_6" n="N006"/>mystical holiday! -- but there will remain 22 or 23 hours. Next Tuesday I will speak on the problem of
-               <lb facs="#facs_9_tr_1_tl_7" n="N007"/>the relation between artistic and religious symbols. In the third hour I will speak about the four levels of
+               <lb facs="#facs_9_tr_1_tl_7" n="N007"/>the relation between <rs type="keyword" ref="#Art">artistic </rs>and <rs type="keyword" ref="#Religion">religious</rs> <rs type="keyword" ref="#Symbols">symbols</rs>. In the third hour I will speak about the four levels of
                <lb facs="#facs_9_tr_1_tl_8" n="N008"/>the relationship of art and religion. In the fourth, I will give examples in the visual arts for those four
                <lb facs="#facs_9_tr_1_tl_9" n="N009"/>levels, from the slides taken from the Fogg Museum. In the fifth hour I will discuss this whole realm of
                <lb facs="#facs_9_tr_1_tl_10" n="N010"/>problems and begin something which could have been done at the beginning of last semester, but which
@@ -118,7 +118,7 @@
                <lb facs="#facs_9_tr_2_tl_2" n="N002"/>of religion in it. This will be a third transition, so to speak, from the theoretical to the practical,
                <lb facs="#facs_9_tr_2_tl_3" n="N003"/>and another way of orienting ourselves about the present situation in which we discuss the problem
                <lb facs="#facs_9_tr_2_tl_4" n="N004"/>of religion and culture. Then I go to the different realms.
-               <lb facs="#facs_9_tr_2_tl_5" n="N005"/>As the first one, I take religion and education---the meaning of education, FROM what one is educated
+               <lb facs="#facs_9_tr_2_tl_5" n="N005"/>As the first one, I take religion and <rs type="keyword" ref="#Education">education</rs>---the meaning of education, FROM what one is educated
                <lb facs="#facs_9_tr_2_tl_6" n="N006"/>and we always forget the problem "INTO what?" Then the problem of religious education, where we again
             </p>
             

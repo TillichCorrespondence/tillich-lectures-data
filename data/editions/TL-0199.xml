@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_199">
          <graphic url="TL-0199.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=ZOOHQABSKCUOSJXOBRBAPBLO&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZOOHQABSKCUOSJXOBRBAPBLO&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="200,201 200,3444 2391,3444 2391,201" rendition="TextRegion" xml:id="facs_199_tr_2">
             <zone points="1059,272 1094,278 1103,286 1168,286 1173,280 1187,280 1187,196 1122,196 1100,212 1059,212" rendition="Line" xml:id="facs_199_tr_2_tl_1"/>
             <zone points="185,449 681,446 738,482 773,446 964,438 966,365 754,395 387,373 359,397 185,406" rendition="Line" xml:id="facs_199_tr_2_tl_2" subtype="heading"/>
@@ -100,7 +100,7 @@
             <p facs="#facs_199_tr_2">
                <lb facs="#facs_199_tr_2_tl_1" n="N001"/>[195]
                <lb facs="#facs_199_tr_2_tl_2" n="N002"/>LECTURE XVII, Thurs., Dec. 1, 1955
-               <lb facs="#facs_199_tr_2_tl_3" n="N003"/>Tuesday I started the discussion of <rs type="keyword" ref="#RELIGION">religion </rs>and <rs type="keyword" ref="#Philosophy">philosophy </rs>and gave as the basic solution
+               <lb facs="#facs_199_tr_2_tl_3" n="N003"/>Tuesday I started the discussion of <rs type="keyword" ref="#Religion">religion </rs>and <rs type="keyword" ref="#Philosophy">philosophy </rs>and gave as the basic solution
                <lb facs="#facs_199_tr_2_tl_4" n="N004"/>that the philosopher, as human being, has an <ultimate_concern>ultimate concern</ultimate_concern> which expresses itself in his philosophy;
                <lb facs="#facs_199_tr_2_tl_5" n="N005"/>and that the theologian, as dealing with the <hi style="font-style: italic;">logos</hi>, uses the categories and <rs type="keyword" ref="#Structure_of_Being">structures of being</rs> as they are
                <lb facs="#facs_199_tr_2_tl_6" n="N006"/>developed by the philosopher.
@@ -115,9 +115,9 @@
                <lb facs="#facs_199_tr_2_tl_15" n="N015"/>on the high point of the Middle Ages, there was a kind of compromise valid in medieval thinking. But then,
                <lb facs="#facs_199_tr_2_tl_16" n="N016"/>at the end of the Middle Ages, <rs type="keyword" ref="#Nominalism">nominalism,</rs> which had been tamed, so to speak, by strong r<rs type="keyword" ref="#Realism">ealistic
                <lb break="no" facs="#facs_199_tr_2_tl_17" n="N017"/>elements,</rs> broke out again and destroyed the whole mediating system of medieval thought. Today,
-               <lb facs="#facs_199_tr_2_tl_18" n="N018"/>especially in the Anglo-Saxon countries, the <rs type="keyword" ref="#Nominalism">nominalistic tradition</rs> is the determining one. It was
-               <lb facs="#facs_199_tr_2_tl_19" n="N019"/>somehow so already in the Middle Ages. <rs type="person">Duns Scotus</rs> (which means Duns, the man from Scotland)
-               <lb facs="#facs_199_tr_2_tl_20" n="N020"/>and <rs type="person">William of Ockham</rs>, taught in England. Following them, in some way, English empiricism and
+               <lb facs="#facs_199_tr_2_tl_18" n="N018"/>especially in the Anglo-Saxon countries, the nominalistic tradition is the determining one. It was
+               <lb facs="#facs_199_tr_2_tl_19" n="N019"/>somehow so already in the Middle Ages. <rs type="person" ref="#tillich_person_id__494">Duns Scotus</rs> (which means Duns, the man from Scotland)
+               <lb facs="#facs_199_tr_2_tl_20" n="N020"/>and <rs type="person" ref="#tillich_person_id__2074">William of Ockham</rs>, taught in England. Following them, in some way, <rs type="keyword" ref="#Empiricism">English empiricism</rs> and
             </p>
             
         </div>

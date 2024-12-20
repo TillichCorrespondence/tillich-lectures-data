@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLII (Nr. 0557)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p083</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-17">1956-04-17</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_83">
+         <graphic url="TL-0557.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XBPJMNEIXUJNGCKIKYHRFARL&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="289,278 2307,278 2307,2001 289,2001" rendition="TextRegion" xml:id="facs_83_tr_1">
+            <zone points="1100,337 1113,337 1126,350 1141,345 1148,352 1161,350 1169,342 1179,350 1224,347 1224,281 1186,279 1179,271 1158,269 1136,294 1100,294" rendition="Line" xml:id="facs_83_tr_1_tl_1"/>
+            <zone points="294,484 2218,502 2140,426 738,454 657,373 575,454 294,418" rendition="Line" xml:id="facs_83_tr_1_tl_2"/>
+            <zone points="299,641 2172,657 2147,591 624,558 299,608" rendition="Line" xml:id="facs_83_tr_1_tl_3"/>
+            <zone points="294,788 2259,799 2221,740 294,743" rendition="Line" xml:id="facs_83_tr_1_tl_4"/>
+            <zone points="286,940 1235,946 1235,897 1189,887 286,897" rendition="Line" xml:id="facs_83_tr_1_tl_5"/>
+            <zone points="489,1095 847,1093 928,1156 1166,1105 1313,1156 1486,1093 2185,1100 2185,1037 489,1042" rendition="Line" xml:id="facs_83_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="286,1245 2236,1247 2236,1197 2137,1186 286,1199" rendition="Line" xml:id="facs_83_tr_1_tl_7"/>
+            <zone points="284,1389 2238,1399 2188,1333 284,1361" rendition="Line" xml:id="facs_83_tr_1_tl_8"/>
+            <zone points="284,1539 2302,1549 2200,1488 284,1501" rendition="Line" xml:id="facs_83_tr_1_tl_9"/>
+            <zone points="276,1691 2203,1701 2152,1638 276,1653" rendition="Line" xml:id="facs_83_tr_1_tl_10"/>
+            <zone points="281,1843 1919,1853 1919,1792 281,1792" rendition="Line" xml:id="facs_83_tr_1_tl_11"/>
+            <zone points="482,1998 1161,2000 1361,2053 1600,2051 1671,1993 2178,1995 2178,1949 2051,1932 482,1949" rendition="Line" xml:id="facs_83_tr_1_tl_12" subtype="paragraph"/>
+         </zone>
+         <zone points="35,2087 2316,2087 2316,3470 35,3470" rendition="TextRegion" xml:id="facs_83_tr_2">
+            <zone points="276,2152 2287,2157 2309,2096 276,2102" rendition="Line" xml:id="facs_83_tr_2_tl_1"/>
+            <zone points="269,2292 2142,2309 2104,2249 269,2266" rendition="Line" xml:id="facs_83_tr_2_tl_2"/>
+            <zone points="264,2441 2104,2454 2124,2403 264,2418" rendition="Line" xml:id="facs_83_tr_2_tl_3"/>
+            <zone points="233,2598 2271,2614 2271,2555 233,2576" rendition="Line" xml:id="facs_83_tr_2_tl_4"/>
+            <zone points="261,2756 1896,2766 2205,2750 2205,2692 261,2705" rendition="Line" xml:id="facs_83_tr_2_tl_5"/>
+            <zone points="266,2903 1767,2918 2142,2900 2142,2849 266,2877" rendition="Line" xml:id="facs_83_tr_2_tl_6"/>
+            <zone points="261,3052 1962,3062 2109,3052 2109,3007 261,3014" rendition="Line" xml:id="facs_83_tr_2_tl_7"/>
+            <zone points="266,3214 1597,3222 1660,3214 1660,3159 266,3161" rendition="Line" xml:id="facs_83_tr_2_tl_8"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0557.jpg" n="part4_p083.jpg" xml:id="img_0083" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p083.jpg"/>
+            
+            <p facs="#facs_83_tr_1">
+               <lb facs="#facs_83_tr_1_tl_1" n="N001"/>[552]
+               <lb facs="#facs_83_tr_1_tl_2" n="N002"/>in several cases, in many experiences, to be able to be trusted because, very often, what he said or
+               <lb facs="#facs_83_tr_1_tl_3" n="N003"/>demanded proved to be the right thing, theoretically or practically. Now this kind of authority
+               <lb facs="#facs_83_tr_1_tl_4" n="N004"/>is of course still a very living authority, and is hard to resist, but is still not an authority in principle.
+               <lb facs="#facs_83_tr_1_tl_5" n="N005"/>But it CAN BECOME an authority in principle.
+               <lb facs="#facs_83_tr_1_tl_6" n="N006"/>Here we come to the third level, the authority in principle which we have for instance
+               <lb facs="#facs_83_tr_1_tl_7" n="N007"/>in Protestant biblicism, which we have in most perfect, and almost incomparably perfect, form
+               <lb facs="#facs_83_tr_1_tl_8" n="N008"/>in the Roman Catholic Church, which we have in asecularized form in totalitarian movements like
+               <lb facs="#facs_83_tr_1_tl_9" n="N009"/>Nazism, and which we have in the paternalistic systems of family life where the authority of the father
+               <lb facs="#facs_83_tr_1_tl_10" n="N010"/>is neither that of the older man who knows more, nor of the man whom one can trust, but of the
+               <lb facs="#facs_83_tr_1_tl_11" n="N011"/>divinely established authority about everything which happens in the family.
+               <lb facs="#facs_83_tr_1_tl_12" n="N012"/>Now this last form of authority is the authority in principle. It can be defined in the
+            </p>
+            <p facs="#facs_83_tr_2">
+               <lb facs="#facs_83_tr_2_tl_1" n="N001"/>following way: There is somewhere in reality a place which is not only the bearer of expect knowledge
+               <lb facs="#facs_83_tr_2_tl_2" n="N002"/>or immediate experience, which is not only a place trustworthy, because of his character,
+               <lb facs="#facs_83_tr_2_tl_3" n="N003"/>but which has the quality of infall22lity for those who belong to the group of which he is the
+               <lb facs="#facs_83_tr_2_tl_4" n="N004"/>ul timate representative and authority. This authority in principle, as I would say, religiously speaking,
+               <lb facs="#facs_83_tr_2_tl_5" n="N005"/>has demonic character. Why? Because here one place besides all other places is singled out to have
+               <lb facs="#facs_83_tr_2_tl_6" n="N006"/>ultimacy, because authority in principle (or INFALLIBLE authority, which is the same) is the
+               <lb facs="#facs_83_tr_2_tl_7" n="N007"/>identification of this place with God Himself. Therefore the real problem of authority is this
+               <lb facs="#facs_83_tr_2_tl_8" n="N008"/>ultimate authority, the place which is identical with the ultimate itself.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

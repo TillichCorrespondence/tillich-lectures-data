@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLI (Nr. 0545)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p071</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-29">1956-03-29</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_71">
+         <graphic url="TL-0545.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HOWDSCQAVCASVZYMMVJRXCUO&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="280,278 2218,278 2218,1183 280,1183" rendition="TextRegion" xml:id="facs_71_tr_3">
+            <zone points="1066,348 1079,348 1106,381 1121,381 1157,348 1179,335 1192,335 1194,270 1167,270 1157,280 1139,282 1124,295 1101,290 1089,300 1066,300" rendition="Line" xml:id="facs_71_tr_3_tl_1"/>
+            <zone points="270,466 2056,484 2107,403 270,431" rendition="Line" xml:id="facs_71_tr_3_tl_2"/>
+            <zone points="267,592 1026,582 1089,627 1147,580 1812,575 1842,514 270,542" rendition="Line" xml:id="facs_71_tr_3_tl_3"/>
+            <zone points="494,698 2139,688 2155,622 494,650" rendition="Line" xml:id="facs_71_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="270,834 2084,806 2122,741 270,776" rendition="Line" xml:id="facs_71_tr_3_tl_5"/>
+            <zone points="275,948 2066,920 2082,867 277,897" rendition="Line" xml:id="facs_71_tr_3_tl_6"/>
+            <zone points="272,1068 2104,1046 2152,975 272,1013" rendition="Line" xml:id="facs_71_tr_3_tl_7"/>
+            <zone points="272,1182 1882,1167 2213,1147 2213,1094 272,1149" rendition="Line" xml:id="facs_71_tr_3_tl_8"/>
+         </zone>
+         <zone points="259,1200 2340,1200 2340,2708 259,2708" rendition="TextRegion" xml:id="facs_71_tr_1">
+            <zone points="272,1305 2127,1278 2187,1210 272,1245" rendition="Line" xml:id="facs_71_tr_1_tl_1"/>
+            <zone points="267,1411 1698,1406 2119,1381 2119,1331 267,1386" rendition="Line" xml:id="facs_71_tr_1_tl_2"/>
+            <zone points="275,1535 2180,1504 2197,1439 277,1479" rendition="Line" xml:id="facs_71_tr_1_tl_3"/>
+            <zone points="267,1646 1520,1628 1520,1578 1409,1572 270,1600" rendition="Line" xml:id="facs_71_tr_1_tl_4"/>
+            <zone points="499,1756 2291,1749 2334,1678 499,1698" rendition="Line" xml:id="facs_71_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="275,1885 2006,1862 2150,1852 2152,1792 275,1852" rendition="Line" xml:id="facs_71_tr_1_tl_6"/>
+            <zone points="272,1996 1817,1971 1860,2013 2109,1981 2109,1918 272,1971" rendition="Line" xml:id="facs_71_tr_1_tl_8"/>
+            <zone points="355,2112 2263,2097 2265,2029 355,2066" rendition="Line" xml:id="facs_71_tr_1_tl_9"/>
+            <zone points="244,2240 832,2238 922,2228 925,2175 355,2187 333,2208 315,2185 247,2192" rendition="Line" xml:id="facs_71_tr_1_tl_11"/>
+            <zone points="277,2351 2127,2326 2167,2258 277,2321" rendition="Line" xml:id="facs_71_tr_1_tl_12"/>
+            <zone points="280,2477 2220,2444 2220,2381 282,2419" rendition="Line" xml:id="facs_71_tr_1_tl_13"/>
+            <zone points="272,2583 2082,2560 2107,2495 275,2558" rendition="Line" xml:id="facs_71_tr_1_tl_14"/>
+            <zone points="282,2701 2235,2676 2235,2611 282,2674" rendition="Line" xml:id="facs_71_tr_1_tl_15"/>
+         </zone>
+         <zone points="128,2723 2298,2723 2298,3479 128,3479" rendition="TextRegion" xml:id="facs_71_tr_2">
+            <zone points="270,2817 2291,2787 2291,2727 270,2792" rendition="Line" xml:id="facs_71_tr_2_tl_1"/>
+            <zone points="272,2933 1981,2911 2011,2873 272,2911" rendition="Line" xml:id="facs_71_tr_2_tl_2"/>
+            <zone points="514,3054 2064,3029 2157,3021 2157,2964 517,2999" rendition="Line" xml:id="facs_71_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="285,3178 1822,3183 2230,3135 2230,3079 287,3140" rendition="Line" xml:id="facs_71_tr_2_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0545.jpg" n="part4_p071.jpg" xml:id="img_0071" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p071.jpg"/>
+            
+            <p facs="#facs_71_tr_3">
+               <lb facs="#facs_71_tr_3_tl_1" n="N001"/>[540]
+               <lb facs="#facs_71_tr_3_tl_2" n="N002"/>who resists your attempt to use him as a took, as a means. There is no other point of equally
+               <lb facs="#facs_71_tr_3_tl_3" n="N003"/>Now from this follows, in different situation, many different forms of equality.
+               <lb facs="#facs_71_tr_3_tl_4" n="N004"/>The democratic form is one form, the liberal form is another—they are sometimes
+               <lb facs="#facs_71_tr_3_tl_5" n="N005"/>united, sometimes they contradict each other. There is the herarchical seudal form.There is
+               <lb facs="#facs_71_tr_3_tl_6" n="N006"/>the quality before the law, which is the principle of equality in the American Constitution.
+               <lb facs="#facs_71_tr_3_tl_7" n="N007"/>Buteb mnoulo bE  VERY" CAUTIOUS if we judge former periods of history in the light
+               <lb facs="#facs_71_tr_3_tl_8" n="N008"/>of OUR concept of equality. And even the Stoic concepts of equality are DETERMINED by their
+            </p>
+            <p facs="#facs_71_tr_1">
+               <lb facs="#facs_71_tr_1_tl_1" n="N001"/>historial situation much more than by a special abstract formula. There the problem was to give
+               <lb facs="#facs_71_tr_1_tl_2" n="N002"/>to as many people as possible, Romanfcitizenship.- This was the equality-and to do this also
+               <lb facs="#facs_71_tr_1_tl_3" n="N003"/>to women and children who didn't have it before, in the ancient law, neither in the Roman nor in
+               <lb facs="#facs_71_tr_1_tl_4" n="N004"/>the Greek, and certainly not in the so-called barbarian cultures.
+               <lb facs="#facs_71_tr_1_tl_5" n="N005"/>Now this was an enlargement. The concept of the slave was reduced as somebody who is not
+               <lb facs="#facs_71_tr_1_tl_6" n="N006"/>equal in UITIMATE relations, and was finally abolished. But look here at the difficulty of the
+               <lb facs="#facs_71_tr_1_tl_8" n="N007"/>situation: neither in early Christianity nor in many periods of American history, Christianity
+               <lb facs="#facs_71_tr_1_tl_9" n="N008"/>in the position to Desate SlAVERY AS SUCH. The equality in the idea of Christianity, in Paul,
+               <lb facs="#facs_71_tr_1_tl_11" n="N009"/>h is famous letter about the slave Philemon—or what was his name?—Onesimus! —
+               <lb facs="#facs_71_tr_1_tl_12" n="N010"/>the discussion in THES country about slavery show one thing clearly, that the Christian idea of
+               <lb facs="#facs_71_tr_1_tl_13" n="N011"/>equality and the Stoic in both cases was not the same. It was not Christianity but Stoicism which,
+               <lb facs="#facs_71_tr_1_tl_14" n="N012"/>ideologically speaking, worked for theselncipation of the slaves, because from the point of
+               <lb facs="#facs_71_tr_1_tl_15" n="N013"/>view of Christianity, the equality, as Paul shows very clearly, is in faith and love, in the relationship
+            </p>
+            <p facs="#facs_71_tr_2">
+               <lb facs="#facs_71_tr_2_tl_1" n="N001"/>to theultimate which is faith, and in the love relationship to the master—but not in the social standing
+               <lb facs="#facs_71_tr_2_tl_2" n="N002"/>as a slave who can be sold, who can he treated as someone who has to be obedient, etc.
+               <lb facs="#facs_71_tr_2_tl_3" n="N003"/>Now this shows that the middle axioms remain in Wxparative relativity. They are
+               <lb facs="#facs_71_tr_2_tl_4" n="N004"/>of course the most universal application of the ultimate principle, namely love. But none of them
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

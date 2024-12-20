@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXIV (Nr. 0448)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p056</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-10">1956-03-10</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_56">
+         <graphic url="TL-0448.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YVNBZVWFDCANDUUBBNVWFCGS&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,350 2373,350 2373,1332 298,1332" rendition="TextRegion" xml:id="facs_56_tr_2">
+            <zone points="1186,405 1206,405 1214,412 1263,412 1273,420 1283,420 1293,410 1306,410 1304,338 1252,343 1245,336 1222,359 1183,359" rendition="Line" xml:id="facs_56_tr_2_tl_1"/>
+            <zone points="310,551 2372,581 2315,520 1900,502 310,512" rendition="Line" xml:id="facs_56_tr_2_tl_2"/>
+            <zone points="305,702 2108,722 2108,666 305,668" rendition="Line" xml:id="facs_56_tr_2_tl_3"/>
+            <zone points="305,866 2139,886 2139,820 305,809" rendition="Line" xml:id="facs_56_tr_2_tl_4"/>
+            <zone points="297,1007 2164,1030 2164,971 297,953" rendition="Line" xml:id="facs_56_tr_2_tl_5"/>
+            <zone points="297,1158 2151,1186 2151,1122 297,1124" rendition="Line" xml:id="facs_56_tr_2_tl_6"/>
+            <zone points="284,1304 2218,1334 2218,1273 284,1273" rendition="Line" xml:id="facs_56_tr_2_tl_7"/>
+         </zone>
+         <zone points="274,1400 2316,1400 2316,2386 274,2386" rendition="TextRegion" xml:id="facs_56_tr_3">
+            <zone points="284,1457 2154,1486 2154,1432 2044,1414 284,1411" rendition="Line" xml:id="facs_56_tr_3_tl_1"/>
+            <zone points="289,1614 2221,1634 2182,1575 289,1555" rendition="Line" xml:id="facs_56_tr_3_tl_2"/>
+            <zone points="282,1760 2280,1780 2277,1724 282,1721" rendition="Line" xml:id="facs_56_tr_3_tl_3"/>
+            <zone points="271,1900 2249,1931 2210,1872 271,1875" rendition="Line" xml:id="facs_56_tr_3_tl_4"/>
+            <zone points="487,2052 2310,2090 2310,2023 487,2026" rendition="Line" xml:id="facs_56_tr_3_tl_5"/>
+            <zone points="259,2203 2154,2239 2128,2175 259,2172" rendition="Line" xml:id="facs_56_tr_3_tl_6"/>
+            <zone points="259,2354 2157,2390 2157,2323 259,2328" rendition="Line" xml:id="facs_56_tr_3_tl_7"/>
+         </zone>
+         <zone points="50,2454 2289,2454 2289,3488 50,3488" rendition="TextRegion" xml:id="facs_56_tr_1">
+            <zone points="248,2505 2141,2536 2141,2474 248,2479" rendition="Line" xml:id="facs_56_tr_1_tl_1"/>
+            <zone points="256,2664 2285,2694 2282,2628 256,2630" rendition="Line" xml:id="facs_56_tr_1_tl_2"/>
+            <zone points="248,2807 2254,2843 2251,2779 2187,2776 248,2782" rendition="Line" xml:id="facs_56_tr_1_tl_3"/>
+            <zone points="248,2966 2282,2989 2282,2925 248,2915" rendition="Line" xml:id="facs_56_tr_1_tl_4"/>
+            <zone points="246,3122 2244,3140 2244,3079 246,3068" rendition="Line" xml:id="facs_56_tr_1_tl_5"/>
+            <zone points="236,3273 1091,3350 2262,3337 2215,3268 236,3243" rendition="Line" xml:id="facs_56_tr_1_tl_6"/>
+            <zone points="38,3486 90,3488 123,3460 131,3460 154,3483 195,3486 190,3350 33,3350" rendition="Line" xml:id="facs_56_tr_1_tl_7"/>
+            <zone points="397,3486 443,3483 453,3494 464,3494 469,3488 476,3494 497,3494 497,3409 397,3409" rendition="Line" xml:id="facs_56_tr_1_tl_8"/>
+            <zone points="187,3481 200,3481 220,3460 228,3465 238,3465 243,3460 266,3468 274,3460 300,3458 300,3401 259,3401 210,3414 187,3414" rendition="Line" xml:id="facs_56_tr_1_tl_9"/>
+            <zone points="190,3488 213,3486 223,3494 238,3494 243,3483 259,3488 264,3483 282,3496 300,3494 295,3455 279,3458 266,3455 254,3460 243,3455 241,3458 220,3447 205,3432 182,3427" rendition="Line" xml:id="facs_56_tr_1_tl_10"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0448.jpg" n="part3_p056.jpg" xml:id="img_0056" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p056.jpg"/>
+            
+            <p facs="#facs_56_tr_2">
+               <lb facs="#facs_56_tr_2_tl_1" n="N001"/>44s.
+               <lb facs="#facs_56_tr_2_tl_2" n="N002"/>of these two characteristics, lprimitive collectivism went to pieces. Why? In the first respect, in primitive
+               <lb facs="#facs_56_tr_2_tl_3" n="N003"/>collectmn, the collective is gulty. And if an individual is singled out for punishment, the
+               <lb facs="#facs_56_tr_2_tl_4" n="N004"/>primitive mind does NOT believe that this individual is especially guilty—he is not more guilty
+               <lb facs="#facs_56_tr_2_tl_5" n="N005"/>than the other—but he REPRESENTS the others. The lrimitive mind HAS these strong forms
+               <lb facs="#facs_56_tr_2_tl_6" n="N006"/>of mysticalesidentification and Graticipation. Now this Zarticipation makes an individual guilty
+               <lb facs="#facs_56_tr_2_tl_7" n="N007"/>because the COLLECTIVE is guilty. And the way of singling him out is done in a magic way, not
+            </p>
+            <p facs="#facs_56_tr_3">
+               <lb facs="#facs_56_tr_3_tl_1" n="N001"/>in the way of finding out whether he was REALLY guilty of something. But slowly the divine
+               <lb facs="#facs_56_tr_3_tl_2" n="N002"/>commandment, especially in Judaism, made the INDIVIDUAL responsible and not the nation as a
+               <lb facs="#facs_56_tr_3_tl_3" n="N003"/>whole any more. And after this has happened, we have theiesponsible, independent individuals
+               <lb facs="#facs_56_tr_3_tl_4" n="N004"/>who have to carry their guilt, who have to expiate their gult, and who may be forgiven individually.
+               <lb facs="#facs_56_tr_3_tl_5" n="N005"/>Now this took a long time. Even in later period of Jewish history, the period of the Psalms,
+               <lb facs="#facs_56_tr_3_tl_6" n="N006"/>for instance, the guilty ego is usually the congregation—the sacred nation—but not an individual
+               <lb facs="#facs_56_tr_3_tl_7" n="N007"/>within it. But then step by step, especially under the prophetic attack, every individual
+            </p>
+            <p facs="#facs_56_tr_1">
+               <lb facs="#facs_56_tr_1_tl_1" n="N001"/>becameiesponsible for what he has done. It is not so any more-I think I eremiah says that
+               <lb facs="#facs_56_tr_1_tl_2" n="N002"/>the father’s have eaten sour (grapes and theäeth of the children have become dull, but everybody
+               <lb facs="#facs_56_tr_1_tl_3" n="N003"/>who does something has to carry the  consequence himself. This is one of the most revolutionary
+               <lb facs="#facs_56_tr_1_tl_4" n="N004"/>statements over against lprimitive collectivism: THE INDIVIDUAL AS SUCH has to take upon himself
+               <lb facs="#facs_56_tr_1_tl_5" n="N005"/>his own guilt. HE must answer, he is Responsible, he OUGHT to answer, has the duty to answer, for
+               <lb facs="#facs_56_tr_1_tl_6" n="N006"/>his own being. On this basis the Repependent person, on an [?) individual basis, could establish himsel
+               <lb facs="#facs_56_tr_1_tl_7" n="N007"/>de mon ami
+               <lb facs="#facs_56_tr_1_tl_8" n="N008"/>dʼun autre
+               <lb facs="#facs_56_tr_1_tl_9" n="N009"/>cʼest en
+               <lb facs="#facs_56_tr_1_tl_10" n="N010"/>dʼune manière
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

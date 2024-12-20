@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXIII (Nr. 0434)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p042</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-08">1956-03-08</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_42">
+         <graphic url="TL-0434.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DIGZWWINLQBVQAUKFQINZNGV&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="158,21 2116,21 2116,1063 158,1063" rendition="TextRegion" xml:id="facs_42_tr_3">
+            <zone points="1087,266 1127,268 1141,278 1191,278 1200,268 1215,268 1215,212 1178,214 1164,207 1149,221 1087,221" rendition="Line" xml:id="facs_42_tr_3_tl_2"/>
+            <zone points="298,485 2106,470 2106,406 298,433" rendition="Line" xml:id="facs_42_tr_3_tl_3"/>
+            <zone points="298,632 1161,637 1309,620 1309,573 298,583" rendition="Line" xml:id="facs_42_tr_3_tl_4"/>
+            <zone points="517,765 2113,780 2081,699 517,718" rendition="Line" xml:id="facs_42_tr_3_tl_5" subtype="paragraph"/>
+            <zone points="293,908 2106,908 2108,844 293,866" rendition="Line" xml:id="facs_42_tr_3_tl_6"/>
+            <zone points="303,1068 1985,1046 2071,1036 2074,977 303,1028" rendition="Line" xml:id="facs_42_tr_3_tl_7"/>
+         </zone>
+         <zone points="304,1123 2274,1123 2274,2419 304,2419" rendition="TextRegion" xml:id="facs_42_tr_2">
+            <zone points="298,1205 1953,1188 2071,1181 2071,1134 298,1159" rendition="Line" xml:id="facs_42_tr_2_tl_1"/>
+            <zone points="303,1351 1845,1336 2071,1326 2071,1277 303,1299" rendition="Line" xml:id="facs_42_tr_2_tl_2"/>
+            <zone points="298,1486 2184,1434 298,1439" rendition="Line" xml:id="facs_42_tr_2_tl_3"/>
+            <zone points="1060,1616 2204,1604 2204,1542 1063,1560" rendition="Line" xml:id="facs_42_tr_2_tl_4"/>
+            <zone points="293,1764 2076,1766 2271,1749 2271,1700 293,1739" rendition="Line" xml:id="facs_42_tr_2_tl_6"/>
+            <zone points="288,1911 428,1911 462,1931 529,1909 679,1906 708,1926 772,1906 893,1909 893,1860 699,1860 681,1843 662,1860 290,1865" rendition="Line" xml:id="facs_42_tr_2_tl_7"/>
+            <zone points="514,1975 1983,1988 2162,1966 2165,1902 514,1948" rendition="Line" xml:id="facs_42_tr_2_tl_8" subtype="paragraph"/>
+            <zone points="298,2130 1732,2125 2116,2106 2116,2054 298,2079" rendition="Line" xml:id="facs_42_tr_2_tl_9"/>
+            <zone points="290,2268 2071,2261 2138,2253 2138,2199 290,2224" rendition="Line" xml:id="facs_42_tr_2_tl_10"/>
+            <zone points="290,2413 2096,2398 2157,2342 290,2367" rendition="Line" xml:id="facs_42_tr_2_tl_11"/>
+         </zone>
+         <zone points="100,2475 2310,2475 2342,3265 118,3297" rendition="TextRegion" xml:id="facs_42_tr_1">
+            <zone points="285,2551 1948,2544 2103,2534 2106,2487 285,2512" rendition="Line" xml:id="facs_42_tr_1_tl_1"/>
+            <zone points="300,2696 1958,2686 2187,2676 2187,2622 300,2652" rendition="Line" xml:id="facs_42_tr_1_tl_2"/>
+            <zone points="290,2839 1439,2866 2125,2822 2162,2765 290,2795" rendition="Line" xml:id="facs_42_tr_1_tl_3"/>
+            <zone points="300,2996 2128,2967 2192,2905 300,2937" rendition="Line" xml:id="facs_42_tr_1_tl_4"/>
+            <zone points="293,3119 2148,3102 2175,3048 295,3075" rendition="Line" xml:id="facs_42_tr_1_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0434.jpg" n="part3_p042.jpg" xml:id="img_0042" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p042.jpg"/>
+            
+            <p facs="#facs_42_tr_3">
+               <lb facs="#facs_42_tr_3_tl_2" n="N001"/>[429]
+               <lb facs="#facs_42_tr_3_tl_3" n="N002"/>way, may be one of the necessities of behavior. This is certainly not Protestantism, and this
+               <lb facs="#facs_42_tr_3_tl_4" n="N003"/>certainly does not produce the power of saying No.
+               <lb facs="#facs_42_tr_3_tl_5" n="N004"/>Now what I want to say no, as the only way I can find, has, let's say, three steps.
+               <lb facs="#facs_42_tr_3_tl_6" n="N005"/>The first is: All education is education INTO SOMETHING and must have the introductory
+               <lb facs="#facs_42_tr_3_tl_7" n="N006"/>character into a given culture, nation and church, or other groups of cultural cohesion and
+            </p>
+            <p facs="#facs_42_tr_2">
+               <lb facs="#facs_42_tr_2_tl_1" n="N001"/>symbolism. Second: It must have at the same time the humanistic balance AGAINST the
+               <lb facs="#facs_42_tr_2_tl_2" n="N002"/>introduction--the structure of man who is able to be creative by himself and therefore has
+               <lb facs="#facs_42_tr_2_tl_3" n="N003"/>the power of saying No. And with the humanistic, then, can go the introduction into the skills.
+               <lb facs="#facs_42_tr_2_tl_4" n="N004"/>They balance each other, the introductory and the humanistic--the introductory based
+               <lb facs="#facs_42_tr_2_tl_6" n="N005"/>on the idea that everything is given, and the humanistic on the basis that the fundamental principles
+               <lb facs="#facs_42_tr_2_tl_7" n="N006"/>are in man himself by nature.
+               <lb facs="#facs_42_tr_2_tl_8" n="N007"/>But this balance is an uneasy one. Continuously the one is swallowed by the other.
+               <lb facs="#facs_42_tr_2_tl_9" n="N008"/>And here I can speak about the experiences of the German humanistic Gymnasium, which is
+               <lb facs="#facs_42_tr_2_tl_10" n="N009"/>high school with an additional two years of college and ends ordinarily with 18 or 19 years of
+               <lb facs="#facs_42_tr_2_tl_11" n="N010"/>age. This form of education was very interesting: everything was subjected to the humanities.
+            </p>
+            <p facs="#facs_42_tr_1">
+               <lb facs="#facs_42_tr_1_tl_1" n="N001"/>But there was ALSO, in the school itself, a kind of religious instruction, at least. And there
+               <lb facs="#facs_42_tr_1_tl_2" n="N002"/>was in home and church the reality of religion, at least for many people--certainly not for all
+               <lb facs="#facs_42_tr_1_tl_3" n="N003"/>because the secularization of Europe was much more advanced than it is in this country. This
+               <lb facs="#facs_42_tr_1_tl_4" n="N004"/>produced a tremendous conflict in those who were sensitive to BOTH forms of contents, as you
+               <lb facs="#facs_42_tr_1_tl_5" n="N005"/>can imagine. I myself am an example for it--the conflict between humanism, with its intensive
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

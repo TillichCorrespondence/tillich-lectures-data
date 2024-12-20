@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_239">
          <graphic url="TL-0239.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=VWJJHRWLJSEEMVBGDCGXKVNE&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VWJJHRWLJSEEMVBGDCGXKVNE&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="179,274 179,3454 2301,3454 2301,274" rendition="TextRegion" xml:id="facs_239_tr_1">
             <zone points="1093,333 1106,333 1119,346 1132,343 1153,351 1163,351 1171,343 1210,341 1210,283 1174,283 1153,267 1142,267 1129,280 1093,280" rendition="Line" xml:id="facs_239_tr_1_tl_1"/>
             <zone points="341,485 2041,451 2044,393 1344,409 1279,354 1179,417 341,443" rendition="Line" xml:id="facs_239_tr_1_tl_2" subtype="paragraph"/>
@@ -104,7 +104,7 @@
             <p facs="#facs_239_tr_1">
                <lb facs="#facs_239_tr_1_tl_1" n="N001"/>[235]
                <lb facs="#facs_239_tr_1_tl_2" n="N002"/>Now here you have in very few words the possibility of philosophy in its contribution
-               <lb facs="#facs_239_tr_1_tl_3" n="N003"/>to theology. Philosophy can formulate---as the arts do, and poetry and theater do---the question which is
+               <lb facs="#facs_239_tr_1_tl_3" n="N003"/>to theology. <rs type="keyword" ref="#Philosophy">Philosophy</rs> can formulate---as the arts do, and poetry and theater do---the question which is
                <lb facs="#facs_239_tr_1_tl_4" n="N004"/>implied in the human situation, but it cannot give, in terms of arguments, the answer. The answer
                <lb facs="#facs_239_tr_1_tl_5" n="N005"/>is ecstatic-revelatory and is given to us by the analysis of the human situation, is a matter of our
                <lb facs="#facs_239_tr_1_tl_6" n="N006"/>own awareness.
@@ -112,19 +112,19 @@
                <lb facs="#facs_239_tr_1_tl_8" n="N008"/>Natural theology is NOT valid insofar as it gives arguments for the existence of a highest being.
                <lb facs="#facs_239_tr_1_tl_9" n="N009"/>This leads, and has led us, to the importance of <rs type="keyword" ref="#Existentialism">existentialism</rs> for theology.
                <lb facs="#facs_239_tr_1_tl_10" n="N010"/>Many people would say <rs type="keyword" ref="#Existentialism">"existentialism"</rs> and then think of some existentialists, the most
-               <lb facs="#facs_239_tr_1_tl_11" n="N011"/>important ones of today, like<rs type="person"> Heidegger</rs> and <rs type="person">Sartre</rs>, and would say: Now how can they be allies
+               <lb facs="#facs_239_tr_1_tl_11" n="N011"/>important ones of today, like<rs type="person" ref="#tillich_person_id__841"> Heidegger</rs> and <rs type="person" ref="#tillich_person_id__1687">Sartre</rs>, and would say: Now how can they be allies
                <lb facs="#facs_239_tr_1_tl_12" n="N012"/>of that which they deny, namely religion? The answer simply is that here also the FIRST part of what
                <lb facs="#facs_239_tr_1_tl_13" n="N013"/>they are doing is decisive, and the second part is open. Decisive is their analysis of the human situation.
                <lb facs="#facs_239_tr_1_tl_14" n="N014"/>In this sense they do better than most of their predecessors, the work of natural theology. Natural
-               <lb facs="#facs_239_tr_1_tl_15" n="N015"/>theology IN THE NEGATVE FORM: that's <rs type="keyword" ref="#Existentialism">existentialism,</rs> to a great extent. In the moment in which
+               <lb facs="#facs_239_tr_1_tl_15" n="N015"/>theology IN THE NEGATIVE FORM: that's <rs type="keyword" ref="#Existentialism">existentialism,</rs> to a great extent. In the moment in which
                <lb facs="#facs_239_tr_1_tl_16" n="N016"/>it comes to positive formulations, existentialism cannot do ANYthing of its own. One has wrongly
                <lb facs="#facs_239_tr_1_tl_17" n="N017"/>distinguished between theistic and atheistic existentialism---there is no such a thing, neither the one nor
                <lb facs="#facs_239_tr_1_tl_18" n="N018"/>the other, but there are different traditions out of which the <rs type="keyword" ref="#Existentialism">existentialists </rs>took their answers TO the
-               <lb facs="#facs_239_tr_1_tl_19" n="N019"/>questions which they aroused by the analysis of the human situation. If they came from <rs type="person">Augustine,</rs>
-               <lb facs="#facs_239_tr_1_tl_20" n="N020"/>they gave answer like <rs type="person">Pascal</rs>; if they came from Lutheran pietism, they gave answers like <rs type="person">Kierkegaard</rs>,
-               <lb facs="#facs_239_tr_1_tl_22" n="N021"/>if they came from French moralism, they gave answers like <rs type="person">Sartre</rs>; if they came from Catholic mysticism,
-               <lb facs="#facs_239_tr_1_tl_24" n="N022"/>they gave answers like the late[r] <rs type="person">Heidegger</rs>; if they came from German classical philosophy, they gave
-               <lb facs="#facs_239_tr_1_tl_25" n="N023"/>answers like <rs type="person">Jaspers</rs>. Each of these men gave answers out of the tradition in which he lived, from which
+               <lb facs="#facs_239_tr_1_tl_19" n="N019"/>questions which they aroused by the analysis of the human situation. If they came from <rs type="person" ref="#tillich_person_id__100">Augustine,</rs>
+               <lb facs="#facs_239_tr_1_tl_20" n="N020"/>they gave answer like <rs type="person" ref="#tillich_person_id__1458">Pascal</rs>; if they came from <rs type="person" ref="#tillich_person_id__1228">Lutheran</rs> pietism, they gave answers like <rs type="person" ref="#tillich_person_id__1049">Kierkegaard</rs>,
+               <lb facs="#facs_239_tr_1_tl_22" n="N021"/>if they came from French moralism, they gave answers like <rs type="person" ref="#tillich_person_id__1687">Sartre</rs>; if they came from Catholic mysticism,
+               <lb facs="#facs_239_tr_1_tl_24" n="N022"/>they gave answers like the late[r] <rs type="person" ref="#tillich_person_id__841">Heidegger</rs>; if they came from German classical philosophy, they gave
+               <lb facs="#facs_239_tr_1_tl_25" n="N023"/>answers like <rs type="person" ref="#tillich_person_id__972">Jaspers</rs>. Each of these men gave answers out of the tradition in which he lived, from which
                <lb facs="#facs_239_tr_1_tl_26" n="N024"/>he came, which he made MEANINGFUL for himself and again others with the help of the <rs type="keyword" ref="#Existentialism">existentialist</rs>
             </p>
             

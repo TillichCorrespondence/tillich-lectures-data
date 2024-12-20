@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXII (Nr. 0416)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p024</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-06">1956-03-06</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_24">
+         <graphic url="TL-0416.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RTVAEHLLVQKBKMNAFRTXDMHE&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="304,275 2254,275 2254,1496 304,1496" rendition="TextRegion" xml:id="facs_24_tr_1">
+            <zone points="1115,329 1148,334 1156,342 1192,342 1200,334 1212,342 1230,342 1230,259 1200,259 1179,280 1115,280" rendition="Line" xml:id="facs_24_tr_1_tl_1"/>
+            <zone points="306,527 2207,509 2207,444 1544,465 1462,401 1397,465 306,475" rendition="Line" xml:id="facs_24_tr_1_tl_2"/>
+            <zone points="295,652 2009,663 2091,660 2091,604 295,629" rendition="Line" xml:id="facs_24_tr_1_tl_3"/>
+            <zone points="295,804 2091,817 2207,812 2207,758 295,781" rendition="Line" xml:id="facs_24_tr_1_tl_4"/>
+            <zone points="298,963 2214,956 2168,904 1855,896 298,912" rendition="Line" xml:id="facs_24_tr_1_tl_5"/>
+            <zone points="295,1110 352,1123 483,1117 521,1133 550,1117 658,1117 673,1115 673,1061 329,1061 295,1081" rendition="Line" xml:id="facs_24_tr_1_tl_6"/>
+            <zone points="1105,1184 2068,1197 2232,1184 2235,1120 1107,1120" rendition="Line" xml:id="facs_24_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="290,1336 611,1377 891,1336 1546,1349 1703,1341 1703,1279 290,1307" rendition="Line" xml:id="facs_24_tr_1_tl_9"/>
+            <zone points="293,1492 2117,1500 2217,1487 2217,1433 293,1462" rendition="Line" xml:id="facs_24_tr_1_tl_11"/>
+         </zone>
+         <zone points="292,1574 2373,1574 2373,2514 292,2514" rendition="TextRegion" xml:id="facs_24_tr_3">
+            <zone points="290,1647 1903,1654 2227,1636 2227,1582 290,1603" rendition="Line" xml:id="facs_24_tr_3_tl_1"/>
+            <zone points="285,1796 2225,1796 2227,1736 285,1752" rendition="Line" xml:id="facs_24_tr_3_tl_2"/>
+            <zone points="416,1952 1611,1945 1626,1885 416,1888" rendition="Line" xml:id="facs_24_tr_3_tl_3"/>
+            <zone points="437,2055 2366,2060 2368,1993 437,2004" rendition="Line" xml:id="facs_24_tr_3_tl_5" subtype="paragraph"/>
+            <zone points="290,2207 2350,2207 2350,2147 290,2155" rendition="Line" xml:id="facs_24_tr_3_tl_6"/>
+            <zone points="280,2356 2117,2361 2191,2356 2191,2304 280,2309" rendition="Line" xml:id="facs_24_tr_3_tl_7"/>
+            <zone points="288,2510 2042,2510 2266,2499 2266,2451 288,2458" rendition="Line" xml:id="facs_24_tr_3_tl_8"/>
+         </zone>
+         <zone points="32,2592 2248,2592 2248,3488 32,3488" rendition="TextRegion" xml:id="facs_24_tr_2">
+            <zone points="277,2661 2058,2659 2209,2654 2209,2600 277,2612" rendition="Line" xml:id="facs_24_tr_2_tl_1"/>
+            <zone points="280,2808 2158,2813 2243,2805 2243,2741 280,2782" rendition="Line" xml:id="facs_24_tr_2_tl_2"/>
+            <zone points="280,2967 2207,2964 2207,2900 280,2918" rendition="Line" xml:id="facs_24_tr_2_tl_3"/>
+            <zone points="270,3116 1683,3126 2219,3108 2219,3052 270,3067" rendition="Line" xml:id="facs_24_tr_2_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0416.jpg" n="part3_p024.jpg" xml:id="img_0024" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p024.jpg"/>
+            
+            <p facs="#facs_24_tr_1">
+               <lb facs="#facs_24_tr_1_tl_1" n="N001"/>[411]
+               <lb facs="#facs_24_tr_1_tl_2" n="N002"/>geography and history. But all this was done on the basis of the use of which the state makes of
+               <lb facs="#facs_24_tr_1_tl_3" n="N003"/>the citizen. And it was very wise to do this because--for instance in military and economic
+               <lb facs="#facs_24_tr_1_tl_4" n="N004"/>competitions which are going on in Europe day by day--those who had these skills were superior
+               <lb facs="#facs_24_tr_1_tl_5" n="N005"/>to those who had no skills, and had only the power of a kind of dull resistance but not the power
+               <lb facs="#facs_24_tr_1_tl_6" n="N006"/>of active progress.
+               <lb facs="#facs_24_tr_1_tl_7" n="N007"/>The third form is the introducing idea by active participation in the spirit of a
+               <lb facs="#facs_24_tr_1_tl_9" n="N008"/>city-state--a <hi style="font-style: italic;">politeia</hi>, as Plato called it--in the spirit of a nation, so that one can participate
+               <lb facs="#facs_24_tr_1_tl_11" n="N009"/>creatively in it, and not only as a tool, as in the second form; or into a special cultural or religious
+            </p>
+            <p facs="#facs_24_tr_3">
+               <lb facs="#facs_24_tr_3_tl_1" n="N001"/>group. I call this [the] introductory ideal of education, because the decisive thing is that here the
+               <lb facs="#facs_24_tr_3_tl_2" n="N002"/>group is given, which PRECEDES the educational process, and the individual is introduced into it,
+               <lb facs="#facs_24_tr_3_tl_3" n="N003"/>is brought into its structure, into its symbols, into its activities.
+               <lb facs="#facs_24_tr_3_tl_5" n="N004"/>Now let’s look at these three ideals, at their importance and their shortcomings. The shortcoming
+               <lb facs="#facs_24_tr_3_tl_6" n="N005"/>of the first ideal is very obvious in this country, not so obvious in Europe, namely it is the individualistic
+               <lb facs="#facs_24_tr_3_tl_7" n="N006"/>form, the aristocratic separation of the individual from the total of life in this kind of education.
+               <lb facs="#facs_24_tr_3_tl_8" n="N007"/>Therefore in the twenties of the century there was a movement in Europeean [sic.] education which called
+            </p>
+            <p facs="#facs_24_tr_2">
+               <lb facs="#facs_24_tr_2_tl_1" n="N001"/>itself neo-humanist, or real humanist, INCLUDING into the education towards humanities in the
+               <lb facs="#facs_24_tr_2_tl_2" n="N002"/>upper classes, also the education into the social problems of a special social situation. And I myself
+               <lb facs="#facs_24_tr_2_tl_3" n="N003"/>was partly connected with this idea, that the higher education in Germany, which was thoroughly
+               <lb facs="#facs_24_tr_2_tl_4" n="N004"/>humanistic, should add and integrate into itself the relationship to the problem of all social classes
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_174">
          <graphic url="TL-0174.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=XUSPFQBIIESCHXPSBUKOIXMG&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XUSPFQBIIESCHXPSBUKOIXMG&amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="32,253 32,3493 2355,3493 2355,253" rendition="TextRegion" xml:id="facs_174_tr_1">
             <zone points="1211,316 1234,316 1242,324 1283,321 1288,326 1329,319 1329,258 1290,255 1270,240 1247,263 1211,263" rendition="Line" xml:id="facs_174_tr_1_tl_1"/>
             <zone points="561,456 1334,474 1454,518 2221,500 2221,395 561,418" rendition="Line" xml:id="facs_174_tr_1_tl_2" subtype="paragraph"/>
@@ -99,25 +99,25 @@
             
             <p facs="#facs_174_tr_1">
                <lb facs="#facs_174_tr_1_tl_1" n="N001"/>[170]
-               <lb facs="#facs_174_tr_1_tl_2" n="N002"/>Now from this follows (and I repeat this): no scientific or <truth_historical>historical truth</truth_historical> can affirm
-               <lb facs="#facs_174_tr_1_tl_3" n="N003"/>or negate the <truth_of_faith>truth of faith</truth_of_faith>. And the truth of faith can neither affirm nor negate scientific or
+               <lb facs="#facs_174_tr_1_tl_2" n="N002"/>Now from this follows (and I repeat this): no <rs type="keyword" ref="#Truth_scientific">scientific</rs> or <rs type="keyword" ref="#Truth_historical">historical truth</rs> can affirm
+               <lb facs="#facs_174_tr_1_tl_3" n="N003"/>or negate the<rs type="keyword" ref="#Truth_of_faith"> truth of faith</rs>. And the truth of faith can neither affirm nor negate scientific or
                <lb facs="#facs_174_tr_1_tl_4" n="N004"/>historical truth. This is the presupposition of the existence of <rs type="keyword" ref="#Faith">faith </rs>at all. In the moment in which
                <lb facs="#facs_174_tr_1_tl_5" n="N005"/>one of these statements is wrong, then we have to give up faith, or we have to give up the
                <lb facs="#facs_174_tr_1_tl_6" n="N006"/>scientific or historical truth. I am not inclined to give up the one or the other; l believe---and this is
                <lb facs="#facs_174_tr_1_tl_7" n="N007"/>ITSELF a matter of my faith---that Providence has put man into this situation of different dimensions
                <lb facs="#facs_174_tr_1_tl_8" n="N008"/>of knowledge, and that he has to STAND this, and not to escape it by one of the wrong alternatives
                <lb facs="#facs_174_tr_1_tl_9" n="N009"/>which I just described.
-               <lb facs="#facs_174_tr_1_tl_10" n="N010"/>But now the question arises whether <truth_philosophical>philosophical truth</truth_philosophical> has the same relation to the truth
-               <lb facs="#facs_174_tr_1_tl_11" n="N011"/>of faith, or whether the relation is more complex. I don't hesitate to say that it is more complex.
+               <lb facs="#facs_174_tr_1_tl_10" n="N010"/>But now the question arises whether <rs type="keyword" ref="#Truth_philosophical">philosophical truth</rs> has the same relation to the <rs type="keyword" ref="#Truth_of_faith">truth
+               <lb break="no" facs="#facs_174_tr_1_tl_11" n="N011"/>of faith</rs>, or whether the relation is more complex. I don't hesitate to say that it is more complex.
                <lb facs="#facs_174_tr_1_tl_12" n="N012"/>Even something else follows from this greater complexity of the relation of philosophical and religious
-               <lb facs="#facs_174_tr_1_tl_13" n="N013"/>truth, namely if <truth_philosophical>philosophical truth</truth_philosophical> has a very complex relationship to the truth of faith, then this
-               <lb facs="#facs_174_tr_1_tl_14" n="N014"/>also makes the relation to scientific and<truth_historical> historical truth </truth_historical>more complex because there is <truth_philosophical>philosophical
-               <lb break="no" facs="#facs_174_tr_1_tl_16" n="N015"/>truth</truth_philosophical> in both of them; philosophy is the all-embracing element in all cognitive endeavor, and therefore
+               <lb facs="#facs_174_tr_1_tl_13" n="N013"/>truth, namely if <rs type="keyword" ref="#Truth_philosophical">philosophical truth</rs> has a very complex relationship to the truth of faith, then this
+               <lb facs="#facs_174_tr_1_tl_14" n="N014"/>also makes the relation to <rs type="keyword" ref="#Truth_scientific">scientific</rs> and <rs type="keyword" ref="#Truth_historical">historical truth </rs>more complex because there is philosophical
+               <lb facs="#facs_174_tr_1_tl_16" n="N015"/>truth in both of them; philosophy is the all-embracing element in all cognitive endeavor, and therefore
                <lb facs="#facs_174_tr_1_tl_18" n="N016"/>if the problem "<rs type="keyword" ref="#Philosophy_of_Philosophy">philosophy of religion"</rs> is asked, then here ALSO the difficulty (or complexity, let us
                <lb facs="#facs_174_tr_1_tl_19" n="N017"/>better say) is greater.
                <lb facs="#facs_174_tr_1_tl_20" n="N018"/>Now this great complexity of the question of the relation between philosophy and religion
                <lb facs="#facs_174_tr_1_tl_21" n="N019"/>is the reason for the innumerable discussions about the relation of faith and philosophy which are going
-               <lb facs="#facs_174_tr_1_tl_22" n="N020"/>on since the days of <rs type="person">Xenophanes</rs> up to the day in which we are living---without interruption; and they are
+               <lb facs="#facs_174_tr_1_tl_22" n="N020"/>on since the days of <rs type="person" ref="#tillich_person_id__2110">Xenophanes</rs> up to the day in which we are living---without interruption; and they are
             </p>
             
         </div>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXIX (Nr. 0526)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p052</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-22">1956-03-22</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_52">
+         <graphic url="TL-0526.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DTNQVICIEGFVCMUHUPAHFWHA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="41,27 2227,27 2227,959 41,959" rendition="TextRegion" xml:id="facs_52_tr_3">
+            <zone points="1127,348 1140,348 1147,355 1181,358 1223,358 1231,350 1244,350 1244,277 1215,277 1192,295 1127,295" rendition="Line" xml:id="facs_52_tr_3_tl_2"/>
+            <zone points="248,497 2149,510 2149,439 248,434" rendition="Line" xml:id="facs_52_tr_3_tl_3"/>
+            <zone points="246,643 460,643 552,706 2222,706 2219,604 243,599" rendition="Line" xml:id="facs_52_tr_3_tl_4"/>
+            <zone points="240,800 327,839 1066,802 1142,868 2057,836 2057,761 1811,740 240,748" rendition="Line" xml:id="facs_52_tr_3_tl_5"/>
+            <zone points="240,970 2023,967 2177,959 2177,894 240,915" rendition="Line" xml:id="facs_52_tr_3_tl_6"/>
+         </zone>
+         <zone points="80,1039 2337,1039 2337,2473 80,2473" rendition="TextRegion" xml:id="facs_52_tr_1">
+            <zone points="238,1098 2300,1111 2300,1056 2135,1046 238,1046" rendition="Line" xml:id="facs_52_tr_1_tl_1"/>
+            <zone points="233,1242 2172,1262 2172,1205 233,1197" rendition="Line" xml:id="facs_52_tr_1_tl_2"/>
+            <zone points="233,1398 2334,1414 2334,1351 233,1367" rendition="Line" xml:id="facs_52_tr_1_tl_3"/>
+            <zone points="230,1550 2164,1566 2188,1503 230,1521" rendition="Line" xml:id="facs_52_tr_1_tl_4"/>
+            <zone points="220,1696 2125,1717 2088,1655 220,1649" rendition="Line" xml:id="facs_52_tr_1_tl_5"/>
+            <zone points="227,1851 2237,1869 2237,1809 227,1798" rendition="Line" xml:id="facs_52_tr_1_tl_6"/>
+            <zone points="220,2002 2230,2020 2230,1963 1937,1945 220,1955" rendition="Line" xml:id="facs_52_tr_1_tl_7"/>
+            <zone points="217,2151 2073,2172 2143,2167 2143,2107 217,2125" rendition="Line" xml:id="facs_52_tr_1_tl_8"/>
+            <zone points="212,2305 348,2368 2078,2345 2078,2264 212,2258" rendition="Line" xml:id="facs_52_tr_1_tl_10"/>
+            <zone points="212,2449 2143,2478 2143,2415 1720,2397 212,2405" rendition="Line" xml:id="facs_52_tr_1_tl_11"/>
+         </zone>
+         <zone points="26,2550 2295,2550 2295,3482 26,3482" rendition="TextRegion" xml:id="facs_52_tr_2">
+            <zone points="204,2601 2156,2624 2107,2554 204,2554" rendition="Line" xml:id="facs_52_tr_2_tl_1"/>
+            <zone points="199,2773 382,2818 630,2758 2172,2765 2135,2705 199,2724" rendition="Line" xml:id="facs_52_tr_2_tl_2"/>
+            <zone points="199,2901 2143,2917 2143,2854 199,2875" rendition="Line" xml:id="facs_52_tr_2_tl_3"/>
+            <zone points="332,3058 2290,3069 2248,3001 332,3029" rendition="Line" xml:id="facs_52_tr_2_tl_4"/>
+            <zone points="188,3246 768,3333 2198,3262 2198,3178 951,3236 342,3157 188,3194" rendition="Line" xml:id="facs_52_tr_2_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0526.jpg" n="part4_p052.jpg" xml:id="img_0052" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p052.jpg"/>
+            
+            <p facs="#facs_52_tr_3">
+               <lb facs="#facs_52_tr_3_tl_2" n="N001"/>[521]
+               <lb facs="#facs_52_tr_3_tl_3" n="N002"/>is different---if it is changing, as ethics are changing, as everything cultural is changing, when it is
+               <lb facs="#facs_52_tr_3_tl_4" n="N003"/>different---but in the moment in which in these changing contents you ACCEPT something, then it is
+               <lb facs="#facs_52_tr_3_tl_5" n="N004"/>UNconditional. Here I want to say a word against naturalistic attempts generally, to derive
+               <lb facs="#facs_52_tr_3_tl_6" n="N005"/>the moral imperative. I have already accepted all the relativism possible---and this is not a point of
+            </p>
+            <p facs="#facs_52_tr_1">
+               <lb facs="#facs_52_tr_1_tl_1" n="N001"/>discussion, with the naturalists---but the point of DISCUSSION with them is the unconditional character.
+               <lb facs="#facs_52_tr_1_tl_2" n="N002"/>Take a naturalist who denies the unconditional character of the ethical imperative, WHATEVER THE
+               <lb facs="#facs_52_tr_1_tl_3" n="N003"/>CONTENT MAY BE. In which attitude does he deny this? In the attitude of the scholar, the philosopher
+               <lb facs="#facs_52_tr_1_tl_4" n="N004"/>or scientist, who seeks for truth and who seeks HONESTLY for truth. Tell one of these naturalists
+               <lb facs="#facs_52_tr_1_tl_5" n="N005"/>that he will get a higher pay---if such a thing every [sic.] would happen!---if he DENIES his naturalism.
+               <lb facs="#facs_52_tr_1_tl_6" n="N006"/>Then the following happens: the temptation is certainly there; he would know that from the moment
+               <lb facs="#facs_52_tr_1_tl_7" n="N007"/>on in which he would change his ethical theory for the sake of a better social position, he would deny
+               <lb facs="#facs_52_tr_1_tl_8" n="N008"/>what is usually called his integrity, he would give up his honesty. That means: in maintaining his
+               <lb facs="#facs_52_tr_1_tl_10" n="N009"/>naturalistic relativism, he applies the absolute categorical imperatives of honesty and integrity.
+               <lb facs="#facs_52_tr_1_tl_11" n="N010"/>If he DOESN'T---which is quite possible---he would destroy himself because from this moment on,
+            </p>
+            <p facs="#facs_52_tr_2">
+               <lb facs="#facs_52_tr_2_tl_1" n="N001"/>he would say what he says with bad conscience, and on this basis his self-affirmation as personality
+               <lb facs="#facs_52_tr_2_tl_2" n="N002"/>would go to pieces. There are of course many escape-mechanisms, compromises, rationalizations---
+               <lb facs="#facs_52_tr_2_tl_3" n="N003"/>I don't need to go into that now. But THEY ARE ONLY NECESSARY because the fundamental
+               <lb facs="#facs_52_tr_2_tl_4" n="N004"/>principle is valid, otherwise no escape-mechanism would be used at all, if we make such a decision.
+               <lb facs="#facs_52_tr_2_tl_5" n="N005"/>So the honest naturalist, who is willing to become a martyr in an extreme situation for his relativistic
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

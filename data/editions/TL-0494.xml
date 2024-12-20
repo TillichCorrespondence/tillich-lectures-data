@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVII (Nr. 0494)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p020</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-15">1956-03-15</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_20">
+         <graphic url="TL-0494.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NGKXUQPTCCLTILXJRVNHNABH&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="310,257 2269,257 2269,1544 310,1544" rendition="TextRegion" xml:id="facs_20_tr_2">
+            <zone points="1046,316 1083,314 1098,326 1130,326 1155,316 1173,316 1173,251 1150,254 1130,274 1111,274 1101,264 1086,279 1078,274 1046,274" rendition="Line" xml:id="facs_20_tr_2_tl_1"/>
+            <zone points="296,476 2064,456 2092,406 1574,374 1429,421 296,443" rendition="Line" xml:id="facs_20_tr_2_tl_2"/>
+            <zone points="309,632 1295,615 1544,692 2169,608 2171,548 309,583" rendition="Line" xml:id="facs_20_tr_2_tl_3"/>
+            <zone points="301,774 326,789 787,784 802,782 802,730 339,732 301,752" rendition="Line" xml:id="facs_20_tr_2_tl_4"/>
+            <zone points="505,921 2129,901 2129,829 2069,827 754,891 508,859" rendition="Line" xml:id="facs_20_tr_2_tl_5" subtype="paragraph"/>
+            <zone points="311,1083 1982,1061 2119,1051 2119,994 314,1033" rendition="Line" xml:id="facs_20_tr_2_tl_6"/>
+            <zone points="309,1238 2141,1213 2263,1195 2263,1145 311,1183" rendition="Line" xml:id="facs_20_tr_2_tl_7"/>
+            <zone points="309,1384 2032,1389 2236,1350 2239,1295 309,1340" rendition="Line" xml:id="facs_20_tr_2_tl_8"/>
+            <zone points="309,1536 2166,1509 2204,1449 311,1506" rendition="Line" xml:id="facs_20_tr_2_tl_9"/>
+         </zone>
+         <zone points="322,1595 2277,1595 2277,2598 322,2598" rendition="TextRegion" xml:id="facs_20_tr_3">
+            <zone points="314,1693 2204,1663 2206,1621 314,1638" rendition="Line" xml:id="facs_20_tr_3_tl_1"/>
+            <zone points="309,1835 1937,1823 2236,1805 2239,1750 309,1790" rendition="Line" xml:id="facs_20_tr_3_tl_2"/>
+            <zone points="309,1985 2241,1962 2243,1902 309,1957" rendition="Line" xml:id="facs_20_tr_3_tl_3"/>
+            <zone points="321,2141 2146,2144 2191,2054 321,2089" rendition="Line" xml:id="facs_20_tr_3_tl_4"/>
+            <zone points="314,2293 2116,2268 2258,2253 2261,2199 314,2248" rendition="Line" xml:id="facs_20_tr_3_tl_5"/>
+            <zone points="316,2450 2271,2423 2271,2356 319,2393" rendition="Line" xml:id="facs_20_tr_3_tl_6"/>
+            <zone points="321,2590 1317,2592 1994,2565 1997,2527 1701,2497 1556,2540 321,2565" rendition="Line" xml:id="facs_20_tr_3_tl_7"/>
+         </zone>
+         <zone points="26,2642 2379,2642 2379,3485 26,3485" rendition="TextRegion" xml:id="facs_20_tr_1">
+            <zone points="520,2741 2082,2717 2239,2702 2241,2647 523,2692" rendition="Line" xml:id="facs_20_tr_1_tl_1" subtype="paragraph"/>
+            <zone points="324,2898 2116,2864 2164,2799 326,2841" rendition="Line" xml:id="facs_20_tr_1_tl_2"/>
+            <zone points="324,3048 2209,3020 2321,3005 2321,2951 326,2998" rendition="Line" xml:id="facs_20_tr_1_tl_3"/>
+            <zone points="324,3202 829,3267 2243,3165 2268,3105 326,3147" rendition="Line" xml:id="facs_20_tr_1_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0494.jpg" n="part4_p020.jpg" xml:id="img_0020" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p020.jpg"/>
+            
+            <p facs="#facs_20_tr_2">
+               <lb facs="#facs_20_tr_2_tl_1" n="N001"/>[489]
+               <lb facs="#facs_20_tr_2_tl_2" n="N002"/>to something of <ultimate_concern>ultimate concern,</ultimate_concern> expressed in symbols. And HERE the criterion of truth
+               <lb facs="#facs_20_tr_2_tl_3" n="N003"/>is the real ultimacy, expressed in the . . ? . . symbol, against the <rs type="keyword" ref="#Idolatrous">idolatrous </rs>ultimacy. These are
+               <lb facs="#facs_20_tr_2_tl_4" n="N004"/>the three levels of truth.
+               <lb facs="#facs_20_tr_2_tl_5" n="N005"/>THEY ALL are taught at the university, and they all are objects of <rs type="keyword" ref="#Research">research</rs> at the
+               <lb facs="#facs_20_tr_2_tl_6" n="N006"/>university. The first is perhaps the largest, the basis of all the others. The second is present
+               <lb facs="#facs_20_tr_2_tl_7" n="N007"/>in all human relations, in understanding of texts, of personalities, in everything where participation
+               <lb facs="#facs_20_tr_2_tl_8" n="N008"/>is needed. And the third is expressed in symbols and would lead to the question of a place where
+               <lb facs="#facs_20_tr_2_tl_9" n="N009"/>these symbols are the object of EXISTENTIAL criticism. Of course, these three levels are inter-
+            </p>
+            <p facs="#facs_20_tr_3">
+               <lb facs="#facs_20_tr_3_tl_1" n="N001"/>dependent, they interpenetrate in every moment, but they shouldn't interfere. If you interfere,
+               <lb facs="#facs_20_tr_3_tl_2" n="N002"/>in the name of the third level, with the first, then you have the interference of religion in science.
+               <lb facs="#facs_20_tr_3_tl_3" n="N003"/>If you interfere with the first into the third, then you have interference of science in the meaning
+               <lb facs="#facs_20_tr_3_tl_4" n="N004"/>of religious symbols; then the eternal conflicts or, as <rs type="person" ref="#tillich_person_id__1020">Kant</rs> called it, the fight of the disciplines,
+               <lb facs="#facs_20_tr_3_tl_5" n="N005"/>goes on in the university. And the same is true if you try to conquer the second completely in the
+               <lb facs="#facs_20_tr_3_tl_6" n="N006"/>power of the first and exclude understanding as an element, for instance of medicine, of sociology,
+               <lb facs="#facs_20_tr_3_tl_7" n="N007"/>of politics, and of course of all humanities. Then you ruin all THESE relations.
+            </p>
+            <p facs="#facs_20_tr_1">
+               <lb facs="#facs_20_tr_1_tl_1" n="N001"/>Now the relationship of these three dimensions of truth is a continuous living problem
+               <lb facs="#facs_20_tr_1_tl_2" n="N002"/>in every <rs type="keyword" ref="#University">university</rs>. Out of this the question of the meaning of the <rs type="keyword" ref="#Theological_faculty">theological faculty</rs> arises.
+               <lb facs="#facs_20_tr_1_tl_3" n="N003"/>I told you that the theological faculty was the queen up to the 18th century; then the philosophical
+               <lb facs="#facs_20_tr_1_tl_4" n="N004"/>faculty, especially its natural-scientific side, became the queen. Now the question is, as the Social
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXIII (Nr. 0430)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p038</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-08">1956-03-08</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_38">
+         <graphic url="TL-0430.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZPJPUYVWKDJFBCWUNUDTOBTQ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="1140,12 2263,12 2263,299 1140,299" rendition="TextRegion" xml:id="facs_38_tr_4">
+            <zone points="1126,290 1152,292 1159,300 1211,303 1229,300 1239,292 1252,292 1252,241 1216,241 1203,228 1185,246 1126,251" rendition="Line" xml:id="facs_38_tr_4_tl_2"/>
+         </zone>
+         <zone points="274,415 2170,415 2170,1514 274,1514" rendition="TextRegion" xml:id="facs_38_tr_2">
+            <zone points="259,503 1808,510 2134,477 2134,431 262,464" rendition="Line" xml:id="facs_38_tr_2_tl_1"/>
+            <zone points="267,654 1731,618 1888,677 2098,621 2101,562 267,626" rendition="Line" xml:id="facs_38_tr_2_tl_2"/>
+            <zone points="267,793 2165,772 2167,705 267,744" rendition="Line" xml:id="facs_38_tr_2_tl_3"/>
+            <zone points="267,936 2037,918 2165,903 2167,849 267,911" rendition="Line" xml:id="facs_38_tr_2_tl_4"/>
+            <zone points="521,1075 1993,1082 2078,1052 2078,995 521,1034" rendition="Line" xml:id="facs_38_tr_2_tl_5" subtype="paragraph"/>
+            <zone points="269,1236 413,1282 669,1218 1937,1198 2096,1188 2098,1134 272,1193" rendition="Line" xml:id="facs_38_tr_2_tl_6"/>
+            <zone points="274,1370 1129,1357 1208,1413 2124,1334 2126,1280 274,1341" rendition="Line" xml:id="facs_38_tr_2_tl_7"/>
+            <zone points="269,1508 2090,1477 2090,1424 272,1462" rendition="Line" xml:id="facs_38_tr_2_tl_8"/>
+         </zone>
+         <zone points="286,1556 2346,1556 2346,3159 286,3159" rendition="TextRegion" xml:id="facs_38_tr_3">
+            <zone points="277,1662 2142,1624 2144,1560 277,1601" rendition="Line" xml:id="facs_38_tr_3_tl_1"/>
+            <zone points="277,1796 2029,1772 2214,1757 2214,1695 277,1742" rendition="Line" xml:id="facs_38_tr_3_tl_2"/>
+            <zone points="272,1944 1972,1919 2283,1893 2285,1839 272,1883" rendition="Line" xml:id="facs_38_tr_3_tl_3"/>
+            <zone points="282,2085 1878,2062 2339,2034 2339,1978 285,2026" rendition="Line" xml:id="facs_38_tr_3_tl_4"/>
+            <zone points="277,2216 2083,2198 2314,2183 2316,2126 277,2191" rendition="Line" xml:id="facs_38_tr_3_tl_5"/>
+            <zone points="274,2362 2085,2337 2155,2275 277,2316" rendition="Line" xml:id="facs_38_tr_3_tl_6"/>
+            <zone points="277,2514 2093,2485 2250,2468 2252,2411 277,2480" rendition="Line" xml:id="facs_38_tr_3_tl_7"/>
+            <zone points="282,2647 2193,2621 2257,2614 2257,2552 282,2621" rendition="Line" xml:id="facs_38_tr_3_tl_8"/>
+            <zone points="277,2788 295,2788 315,2801 495,2798 513,2793 513,2747 382,2750 367,2737 354,2750 310,2747 292,2765 277,2765" rendition="Line" xml:id="facs_38_tr_3_tl_9"/>
+            <zone points="505,2863 1929,2845 2178,2827 2178,2770 508,2804" rendition="Line" xml:id="facs_38_tr_3_tl_10" subtype="paragraph"/>
+            <zone points="285,3009 2001,2983 2157,2973 2160,2914 285,2957" rendition="Line" xml:id="facs_38_tr_3_tl_11"/>
+            <zone points="277,3147 2152,3124 2244,3111 2247,3052 277,3122" rendition="Line" xml:id="facs_38_tr_3_tl_12"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0430.jpg" n="part3_p038.jpg" xml:id="img_0038" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p038.jpg"/>
+            
+            <p facs="#facs_38_tr_4">
+               <lb facs="#facs_38_tr_4_tl_2" n="N001"/>[425]
+            </p>
+            <p facs="#facs_38_tr_2">
+               <lb facs="#facs_38_tr_2_tl_1" n="N001"/>him in any way you want. Whatever you give him as experiential material, that will shape him.
+               <lb facs="#facs_38_tr_2_tl_2" n="N002"/>And in the cynical extremes, this positivistic education is the education in <hi style="font-style: italic;">Brave New World</hi>,
+               <lb facs="#facs_38_tr_2_tl_3" n="N003"/>to which I have already referred, where you can make of every human being whatever you want,
+               <lb facs="#facs_38_tr_2_tl_4" n="N004"/>if you are on the top and can decide which material of experience should be given to everybody.
+               <lb facs="#facs_38_tr_2_tl_5" n="N005"/>Now this education, of course, is EXACTLY a pre-condition of the totalitarian
+               <lb facs="#facs_38_tr_2_tl_6" n="N006"/>education, because it presupposes THAT THERE IS NO POWER OF RESISTANCE. Where
+               <lb facs="#facs_38_tr_2_tl_7" n="N007"/>should that power of resistance come from? A positivistic education, with the presupposition
+               <lb facs="#facs_38_tr_2_tl_8" n="N008"/>that man is an empty blackboard, does not find anything out of which resistance can come.
+            </p>
+            <p facs="#facs_38_tr_3">
+               <lb facs="#facs_38_tr_3_tl_1" n="N001"/>Now if you say, perhaps in defending this method, ''But he can later have experiences himself,
+               <lb facs="#facs_38_tr_3_tl_2" n="N002"/>and out of this his resistance may come,'' then the question is, ''How are independent experiences
+               <lb facs="#facs_38_tr_3_tl_3" n="N003"/>possible?'' They are possible only because they are structures and categories under which experiences
+               <lb facs="#facs_38_tr_3_tl_4" n="N004"/>are made, i.e., there is natural law, there is essential humanity in man, otherwise you canNOT make even
+               <lb facs="#facs_38_tr_3_tl_5" n="N005"/>experiences out of which resistance against the contingently positive, which is given to you, can follow.
+               <lb facs="#facs_38_tr_3_tl_6" n="N006"/>If you are in this culture, you cannot do anything which is not in it. If you get this amount of
+               <lb facs="#facs_38_tr_3_tl_7" n="N007"/>positive contents, you cannot resist them because they determine the way in which you experience
+               <lb facs="#facs_38_tr_3_tl_8" n="N008"/>the world. But if your experience of possibility is DETERMINED, then it cannot be a possibility of
+               <lb facs="#facs_38_tr_3_tl_9" n="N009"/>resistance.
+               <lb facs="#facs_38_tr_3_tl_10" n="N010"/>So this anti-humanistic, empirical, positivistic form of education is the pre-condition
+               <lb facs="#facs_38_tr_3_tl_11" n="N011"/>for the dictators (in principle), or for patternization (in principle)--the resistance is impossible.
+               <lb facs="#facs_38_tr_3_tl_12" n="N012"/>But in the same line of anti-humanistic, or at least NON-humanistic, is another form: the religious.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

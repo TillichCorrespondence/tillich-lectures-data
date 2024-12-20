@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_220">
          <graphic url="TL-0220.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=CBYROGDLSLUSSRYRSHLCLQNB&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CBYROGDLSLUSSRYRSHLCLQNB&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="47,212 47,3477 2343,3477 2343,212" rendition="TextRegion" xml:id="facs_220_tr_1">
             <zone points="1256,276 1277,276 1287,286 1376,286 1374,217 1361,217 1343,235 1323,227 1313,237 1300,225 1292,230 1254,230" rendition="Line" xml:id="facs_220_tr_1_tl_1"/>
             <zone points="342,419 1601,434 1767,470 2107,444 2107,398 1887,396 1800,312 1726,391 340,370" rendition="Line" xml:id="facs_220_tr_1_tl_2"/>
@@ -99,21 +99,21 @@
             
             <p facs="#facs_220_tr_1">
                <lb facs="#facs_220_tr_1_tl_1" n="N001"/>[216]
-               <lb facs="#facs_220_tr_1_tl_2" n="N002"/>QN: You said that the <truth_philosophical>truths of philosophy</truth_philosophical> are conceptual, and the <truth_of_faith>truths of theology </truth_of_faith>are
+               <lb facs="#facs_220_tr_1_tl_2" n="N002"/>QN: You said that the <rs type="keyword" ref="#Truth_philosophical">truths of philosophy</rs> are conceptual, and the <rs type="keyword" ref="#Truth_of_faith">truths of theolog</rs>y are
                <lb facs="#facs_220_tr_1_tl_3" n="N003"/>symbolic, truths. Are you not implying that some truths are truer than others, that there are
                <lb facs="#facs_220_tr_1_tl_4" n="N004"/>some approaches to ultimate reality that contain more validity than others?
                <lb facs="#facs_220_tr_1_tl_5" n="N005"/>PT: The question was: what is the relation of truth of <rs type="keyword" ref="#Concept">truth-of-concept </rs>and <rs type="keyword" ref="#Symbols">truth-of-symbols</rs>, and
-               <lb facs="#facs_220_tr_1_tl_6" n="N006"/>whether there are forms of approach to <rs type="keyword" ref="#Ultimacy">ultimate reality</rs> which are better than others. Now this
+               <lb facs="#facs_220_tr_1_tl_6" n="N006"/>whether there are <rs type="keyword" ref="#Form">forms</rs> of approach to <rs type="keyword" ref="#Ultimacy">ultimate reality</rs> which are better than others. Now this
                <lb facs="#facs_220_tr_1_tl_7" n="N007"/>question leads me actually to what I wanted to present today, and l will perhaps use this question
                <lb facs="#facs_220_tr_1_tl_8" n="N008"/>to go a little bit into it now. But before doing it, let me answer your question directly.
-               <lb facs="#facs_220_tr_1_tl_9" n="N009"/>I would say EVERY knowledge, as <rs type="person">Thomas Aquinas </rs>knew, is a knowledge of God because
+               <lb facs="#facs_220_tr_1_tl_9" n="N009"/>I would say EVERY knowledge, as <rs type="person" ref="#tillich_person_id__1912">Thomas Aquinas </rs>knew, is a knowledge of God because
                <lb facs="#facs_220_tr_1_tl_10" n="N010"/>everything which is, expresses divine creativity. In this sense l can say that the truth which is
                <lb facs="#facs_220_tr_1_tl_11" n="N011"/>developed in symbolic logic says something about God. But it says something about God insofar as
                <lb facs="#facs_220_tr_1_tl_12" n="N012"/>He is expressed in the structure of creation and of the human mind. There is another way, and this
-               <lb facs="#facs_220_tr_1_tl_13" n="N013"/>way is the way of <ultimate_concern>ultimate concern,</ultimate_concern> which is subjective and objective at the same time, where we
+               <lb facs="#facs_220_tr_1_tl_13" n="N013"/>way is the way of <ultimate_concern>ultimate concern</ultimate_concern>, which is subjective and objective at the same time, where we
                <lb facs="#facs_220_tr_1_tl_14" n="N014"/>are in a direct relationship WITH the ultimate. And here ALL these ways and methods---whether
-               <lb facs="#facs_220_tr_1_tl_15" n="N015"/>they are scientific or intuitive are not valid---here the only way which is valid is existential participation
-               <lb facs="#facs_220_tr_1_tl_16" n="N016"/>expressing itself in symbols. So in this sense l would say there is only one direct way of expressing
+               <lb facs="#facs_220_tr_1_tl_15" n="N015"/>they are scientific or intuitive are not valid---here the only way which is valid is <rs type="keyword" ref="#Participation">existential participation</rs>
+               <lb facs="#facs_220_tr_1_tl_16" n="N016"/>expressing itself in <rs type="keyword" ref="#Symbols">symbols</rs>. So in this sense l would say there is only one direct way of expressing
                <lb facs="#facs_220_tr_1_tl_17" n="N017"/>the ultimate, namely the way of expressing our relationship to the ultimate, and this can be done only in
                <lb facs="#facs_220_tr_1_tl_18" n="N018"/>symbolic forms---whereby "only" is not a devaluating concept but, on the contrary, a praising concept!
                <lb facs="#facs_220_tr_1_tl_19" n="N019"/>Now some of you may have other questions, but I will follow this question up now to what

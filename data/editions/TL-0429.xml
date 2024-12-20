@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXIII (Nr. 0429)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p037</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-08">1956-03-08</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_37">
+         <graphic url="TL-0429.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MIRXWIKNGZFQTGEYOZTZLDKV&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="274,209 2209,209 2209,1281 274,1281" rendition="TextRegion" xml:id="facs_37_tr_3">
+            <zone points="1031,270 1050,270 1065,277 1114,277 1119,272 1124,277 1151,275 1148,221 1114,223 1099,211 1087,223 1028,223" rendition="Line" xml:id="facs_37_tr_3_tl_1"/>
+            <zone points="260,579 611,515 2120,471 2122,422 891,456 832,405 704,469 265,481" rendition="Line" xml:id="facs_37_tr_3_tl_2"/>
+            <zone points="260,667 1470,675 2179,623 2206,557 263,613" rendition="Line" xml:id="facs_37_tr_3_tl_3"/>
+            <zone points="260,817 898,805 986,866 1293,795 2056,780 2056,721 260,793" rendition="Line" xml:id="facs_37_tr_3_tl_4"/>
+            <zone points="270,986 2159,955 2186,864 272,925" rendition="Line" xml:id="facs_37_tr_3_tl_5"/>
+            <zone points="267,1143 1784,1082 1887,1188 2049,1188 2083,950 1799,1031 270,1077" rendition="Line" xml:id="facs_37_tr_3_tl_6"/>
+            <zone points="267,1269 1934,1244 2024,1188 267,1244" rendition="Line" xml:id="facs_37_tr_3_tl_7"/>
+         </zone>
+         <zone points="286,1314 2245,1314 2245,2789 286,2789" rendition="TextRegion" xml:id="facs_37_tr_2">
+            <zone points="280,1435 1882,1399 2100,1381 2100,1315 280,1374" rendition="Line" xml:id="facs_37_tr_2_tl_1"/>
+            <zone points="272,1570 2073,1541 2194,1526 2196,1465 275,1543" rendition="Line" xml:id="facs_37_tr_2_tl_2"/>
+            <zone points="272,1725 2169,1686 2172,1622 275,1673" rendition="Line" xml:id="facs_37_tr_2_tl_3"/>
+            <zone points="280,1875 2238,1828 2240,1764 282,1818" rendition="Line" xml:id="facs_37_tr_2_tl_4"/>
+            <zone points="285,2059 2159,1990 2226,1919 287,1975" rendition="Line" xml:id="facs_37_tr_2_tl_5"/>
+            <zone points="287,2186 2122,2132 2125,2081 290,2132" rendition="Line" xml:id="facs_37_tr_2_tl_6"/>
+            <zone points="294,2326 1516,2343 2159,2292 2174,2226 294,2275" rendition="Line" xml:id="facs_37_tr_2_tl_7"/>
+            <zone points="287,2478 1907,2437 2010,2498 2149,2464 2152,2375 287,2454" rendition="Line" xml:id="facs_37_tr_2_tl_8"/>
+            <zone points="287,2667 2086,2596 2088,2530 290,2601" rendition="Line" xml:id="facs_37_tr_2_tl_9"/>
+            <zone points="307,2790 1347,2758 1350,2706 309,2724" rendition="Line" xml:id="facs_37_tr_2_tl_10"/>
+         </zone>
+         <zone points="122,2816 2269,2816 2269,3491 122,3491" rendition="TextRegion" xml:id="facs_37_tr_1">
+            <zone points="599,2918 2100,2893 2164,2841 1107,2841 721,2891 601,2856" rendition="Line" xml:id="facs_37_tr_1_tl_1" subtype="paragraph"/>
+            <zone points="292,3089 832,3075 896,3138 1146,3141 1340,3052 2262,3038 2265,2967 1158,3028 883,2962 294,3057" rendition="Line" xml:id="facs_37_tr_1_tl_2"/>
+            <zone points="307,3241 2137,3190 2240,3180 2243,3126 309,3185" rendition="Line" xml:id="facs_37_tr_1_tl_3"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0429.jpg" n="part3_p037.jpg" xml:id="img_0037" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p037.jpg"/>
+            
+            <p facs="#facs_37_tr_3">
+               <lb facs="#facs_37_tr_3_tl_1" n="N001"/>[424]
+               <lb facs="#facs_37_tr_3_tl_2" n="N002"/>potentialities, which are already in the child. Now if we look in this light to the Greek and the
+               <lb facs="#facs_37_tr_3_tl_3" n="N003"/>Christian education, then we must say: the Greek--or as Kierkegaard has emphasized, the Socratic
+               <lb facs="#facs_37_tr_3_tl_4" n="N004"/>education, which he also called the Religion ''A''--presupposes that every human being has
+               <lb facs="#facs_37_tr_3_tl_5" n="N005"/>potentialities which only must be developed; in mythological terms Plato called this the historical
+               <lb facs="#facs_37_tr_3_tl_6" n="N006"/>memory, which we find in every human being. The example he gives in the dialogue <hi style="font-style: italic;">Menon</hi>
+               <lb facs="#facs_37_tr_3_tl_7" n="N007"/>is the slave who is entirely uneducated but who can understand, in a very short time, the
+            </p>
+            <p facs="#facs_37_tr_2">
+               <lb facs="#facs_37_tr_2_tl_1" n="N001"/>Pythagorean proposition if it is shown to him; he has insight into it because, in mythological
+               <lb facs="#facs_37_tr_2_tl_2" n="N002"/>terms, he remembers the mathematical structures and their inner evidence, from his participation
+               <lb facs="#facs_37_tr_2_tl_3" n="N003"/>in the eternal Ideas. If we take the word ''memory'' as a mythological <hi style="font-style: italic;">[sic]</hi> away from this,
+               <lb facs="#facs_37_tr_2_tl_4" n="N004"/>then we can speak, instead of that, in terms of man's essential nature, and can speak of the classical
+               <lb facs="#facs_37_tr_2_tl_5" n="N005"/>concept of natural law, which means essential rational structure, which is always and essentially in
+               <lb facs="#facs_37_tr_2_tl_6" n="N006"/>him and which only needs to be developed. Whatever you give him, HE HAS IT ALREADY.
+               <lb facs="#facs_37_tr_2_tl_7" n="N007"/>You know that this meant, in Socratic metaphorism, the maieutic art, the art of the midwifery,
+               <lb facs="#facs_37_tr_2_tl_8" n="N008"/>of bringing out that which is in the student, and not necessarily in the teacher, by helping him
+               <lb facs="#facs_37_tr_2_tl_9" n="N009"/>to bring to light what he already has. This is the fundamental principle of all Socratic and,
+               <lb facs="#facs_37_tr_2_tl_10" n="N010"/>I can add now, of the humanistic form of education.
+            </p>
+            <p facs="#facs_37_tr_1">
+               <lb facs="#facs_37_tr_1_tl_1" n="N001"/>There are two groups which do not accept this. The one are the empiricists, or
+               <lb facs="#facs_37_tr_1_tl_2" n="N002"/>positivists, who say that man <hi style="text-decoration: underline;">is</hi> <hi style="font-style: italic;">tabula rasa</hi>, and that experience mediated largely by the teacher, by
+               <lb facs="#facs_37_tr_1_tl_3" n="N003"/>the history books, by the traditions, must be given to man from outside. Therefore you can form
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

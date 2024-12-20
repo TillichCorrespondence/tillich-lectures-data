@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" subtype="first_page">Lecture XL (Nr. 0529)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p055</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-27">1956-03-27</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_55">
+         <graphic url="TL-0529.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ORACSIFGEPBADOEXUMBIJHDJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="53,15 2277,15 2277,1251 53,1251" rendition="TextRegion" xml:id="facs_55_tr_1">
+            <zone points="1126,333 1139,333 1146,341 1167,348 1215,348 1220,343 1232,346 1237,341 1250,341 1250,263 1222,263 1212,273 1197,273 1187,283 1172,283 1162,293 1126,293" rendition="Line" xml:id="facs_55_tr_1_tl_2"/>
+            <zone points="250,482 740,492 770,518 823,490 924,530 924,434 846,437 795,386 745,437 629,427 598,457 490,419 293,424 250,454" rendition="Line" xml:id="facs_55_tr_1_tl_3" subtype="heading"/>
+            <zone points="460,639 2270,662 2245,586 460,576" rendition="Line" xml:id="facs_55_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="247,805 1977,793 2172,838 2172,750 2005,737 247,760" rendition="Line" xml:id="facs_55_tr_1_tl_5"/>
+            <zone points="242,934 2235,957 2235,901 2010,889 242,912" rendition="Line" xml:id="facs_55_tr_1_tl_6"/>
+            <zone points="242,1096 1528,1098 1528,1050 1452,1038 242,1048" rendition="Line" xml:id="facs_55_tr_1_tl_7"/>
+            <zone points="240,1245 740,1300 2235,1250 2235,1192 240,1194" rendition="Line" xml:id="facs_55_tr_1_tl_9"/>
+         </zone>
+         <zone points="232,1338 2322,1338 2322,2685 232,2685" rendition="TextRegion" xml:id="facs_55_tr_3">
+            <zone points="237,1389 2194,1414 2194,1351 2106,1348 237,1366" rendition="Line" xml:id="facs_55_tr_3_tl_1"/>
+            <zone points="237,1548 2146,1553 2146,1495 1992,1487 237,1497" rendition="Line" xml:id="facs_55_tr_3_tl_2"/>
+            <zone points="230,1694 283,1709 722,1704 740,1702 740,1646 265,1644 230,1664" rendition="Line" xml:id="facs_55_tr_3_tl_3"/>
+            <zone points="437,1778 2315,1780 2315,1717 437,1714" rendition="Line" xml:id="facs_55_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="225,1970 904,1934 2108,1987 2146,1863 225,1874" rendition="Line" xml:id="facs_55_tr_3_tl_5"/>
+            <zone points="227,2070 1505,2131 1694,2070 2187,2088 2154,2020 227,2030" rendition="Line" xml:id="facs_55_tr_3_tl_6"/>
+            <zone points="225,2225 2154,2227 2151,2182 1922,2169 222,2194" rendition="Line" xml:id="facs_55_tr_3_tl_7"/>
+            <zone points="217,2368 1290,2381 1396,2437 2202,2384 2202,2331 1722,2315 217,2346" rendition="Line" xml:id="facs_55_tr_3_tl_8"/>
+            <zone points="217,2535 2088,2540 2184,2533 2184,2477 217,2485" rendition="Line" xml:id="facs_55_tr_3_tl_9"/>
+            <zone points="217,2671 1386,2740 1694,2722 1821,2684 1821,2634 217,2649" rendition="Line" xml:id="facs_55_tr_3_tl_10"/>
+         </zone>
+         <zone points="17,2768 2245,2768 2245,3485 17,3485" rendition="TextRegion" xml:id="facs_55_tr_2">
+            <zone points="419,2833 2053,2831 2088,2780 419,2785" rendition="Line" xml:id="facs_55_tr_2_tl_1" subtype="paragraph"/>
+            <zone points="212,2972 2124,2982 2124,2926 212,2949" rendition="Line" xml:id="facs_55_tr_2_tl_2"/>
+            <zone points="212,3128 1757,3156 2131,3141 2131,3083 212,3101" rendition="Line" xml:id="facs_55_tr_2_tl_3"/>
+            <zone points="212,3280 1303,3262 1553,3318 2174,3298 2240,3219 215,3227" rendition="Line" xml:id="facs_55_tr_2_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0529.jpg" n="part4_p055.jpg" xml:id="img_0055" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p055.jpg"/>
+            
+            <p facs="#facs_55_tr_1">
+               <lb facs="#facs_55_tr_1_tl_2" n="N001"/>[524]
+               <lb facs="#facs_55_tr_1_tl_3" n="N002"/>LECTURE XL, March 27, 1956
+               <lb facs="#facs_55_tr_1_tl_4" n="N003"/>We are discussing the problem of ethics and religion, and we should do it in three main steps,
+               <lb facs="#facs_55_tr_1_tl_5" n="N004"/>the first of which has been done last time. The first problem in ethics is the problem of the moral
+               <lb facs="#facs_55_tr_1_tl_6" n="N005"/>imperative and its unconditional character. The point I made last time was that the moral imperative
+               <lb facs="#facs_55_tr_1_tl_7" n="N006"/>is not unconditional because of any special content, but that it is unconditional because
+               <lb facs="#facs_55_tr_1_tl_9" n="N007"/>it expresses the essential nature of man as a person. We have defined the nature of this unconditional
+            </p>
+            <p facs="#facs_55_tr_3">
+               <lb facs="#facs_55_tr_3_tl_1" n="N001"/>character by denying that any special form as such can be vested with the quality of unconditional,
+               <lb facs="#facs_55_tr_3_tl_2" n="N002"/>but that the EXPERIENCE of the self-affirmation of the person as a person, necessarily includes
+               <lb facs="#facs_55_tr_3_tl_3" n="N003"/>unconditional character.
+               <lb facs="#facs_55_tr_3_tl_4" n="N004"/>Now this element of the unconditional was the first point, in which the ethical was transcended
+               <lb facs="#facs_55_tr_3_tl_5" n="N005"/>by the religious, or more exactly, in which the ethical included a dimension which must be called
+               <lb facs="#facs_55_tr_3_tl_6" n="N006"/>religious because it is the dimension of the ultimate, of the unconditional. I reminded you, I think,
+               <lb facs="#facs_55_tr_3_tl_7" n="N007"/>of Kant's argument for the existence of God, his moral argument, which was supposed to replace
+               <lb facs="#facs_55_tr_3_tl_8" n="N008"/>the theoretical arguments, which he had criticized; and I emphasized that this moral argument is not
+               <lb facs="#facs_55_tr_3_tl_9" n="N009"/>good either, as argument for the existence of God, but that it is a DESCRIPTION of just that point
+               <lb facs="#facs_55_tr_3_tl_10" n="N010"/>which I am making, namely the unconditional character of the moral imperative.
+            </p>
+            <p facs="#facs_55_tr_2">
+               <lb facs="#facs_55_tr_2_tl_1" n="N001"/>Now after this has been discussed, we come to the second point, the question of the
+               <lb facs="#facs_55_tr_2_tl_2" n="N002"/>moral contents. This is a point of very large interest and importance. Here again I want to show
+               <lb facs="#facs_55_tr_2_tl_3" n="N003"/>only one thing. I don't want to build a system of ethics, a table of Commandments, or anything
+               <lb facs="#facs_55_tr_2_tl_4" n="N004"/>like that, but I want to ask the fundamental question: Where do the contents of the moral imperative---
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

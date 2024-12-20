@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" subtype="first_page">Lecture XXXIII (Nr. 0423)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p031</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-08">1956-03-08</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_31">
+         <graphic url="TL-0423.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TPRGKQWCGQVXCPBRUVMFATBE&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="253,221 2257,221 2257,1425 253,1425" rendition="TextRegion" xml:id="facs_31_tr_3">
+            <zone points="1118,275 1131,275 1146,285 1240,288 1240,228 1205,228 1188,213 1176,226 1163,223 1153,231 1118,231" rendition="Line" xml:id="facs_31_tr_3_tl_1"/>
+            <zone points="241,501 293,526 620,508 655,533 684,506 781,503 821,518 945,501 947,436 243,434" rendition="Line" xml:id="facs_31_tr_3_tl_2" subtype="heading"/>
+            <zone points="479,650 2006,637 2249,622 2252,575 479,610" rendition="Line" xml:id="facs_31_tr_3_tl_3"/>
+            <zone points="260,818 2182,774 2182,707 263,759" rendition="Line" xml:id="facs_31_tr_3_tl_4"/>
+            <zone points="258,975 1143,994 2177,928 2197,861 260,913" rendition="Line" xml:id="facs_31_tr_3_tl_5"/>
+            <zone points="248,1114 2168,1084 2239,1079 2242,1017 250,1089" rendition="Line" xml:id="facs_31_tr_3_tl_6"/>
+            <zone points="260,1267 2108,1235 2220,1220 2222,1163 263,1238" rendition="Line" xml:id="facs_31_tr_3_tl_7"/>
+            <zone points="258,1414 2118,1384 2168,1319 258,1389" rendition="Line" xml:id="facs_31_tr_3_tl_8"/>
+         </zone>
+         <zone points="277,1466 2230,1466 2230,2631 277,2631" rendition="TextRegion" xml:id="facs_31_tr_2">
+            <zone points="263,1572 2034,1533 2053,1473 265,1540" rendition="Line" xml:id="facs_31_tr_2_tl_1"/>
+            <zone points="724,1714 883,1724 898,1709 975,1701 1156,1704 1171,1701 1173,1654 1126,1657 1101,1642 1074,1662 1004,1652 977,1664 965,1649 950,1664 856,1667 826,1649 779,1669 727,1669" rendition="Line" xml:id="facs_31_tr_2_tl_3"/>
+            <zone points="270,1867 2130,1830 2205,1823 2207,1758 270,1833" rendition="Line" xml:id="facs_31_tr_2_tl_5"/>
+            <zone points="265,2014 2056,1989 2056,1924 268,1964" rendition="Line" xml:id="facs_31_tr_2_tl_6"/>
+            <zone points="278,2172 2068,2135 2071,2066 280,2120" rendition="Line" xml:id="facs_31_tr_2_tl_7"/>
+            <zone points="273,2316 2225,2284 2227,2212 275,2287" rendition="Line" xml:id="facs_31_tr_2_tl_8"/>
+            <zone points="278,2475 2175,2430 2177,2373 280,2420" rendition="Line" xml:id="facs_31_tr_2_tl_9"/>
+            <zone points="275,2634 2041,2589 2044,2530 275,2594" rendition="Line" xml:id="facs_31_tr_2_tl_10"/>
+         </zone>
+         <zone points="50,2666 2266,2666 2266,3485 50,3485" rendition="TextRegion" xml:id="facs_31_tr_1">
+            <zone points="283,2785 1843,2748 2148,2726 2148,2666 285,2718" rendition="Line" xml:id="facs_31_tr_1_tl_1"/>
+            <zone points="285,2929 2001,2887 2088,2830 288,2899" rendition="Line" xml:id="facs_31_tr_1_tl_2"/>
+            <zone points="278,3073 1989,3048 2103,2993 280,3045" rendition="Line" xml:id="facs_31_tr_1_tl_3"/>
+            <zone points="290,3229 2048,3189 2259,3137 293,3174" rendition="Line" xml:id="facs_31_tr_1_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0423.jpg" n="part3_p031.jpg" xml:id="img_0031" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p031.jpg"/>
+            
+            <p facs="#facs_31_tr_3">
+               <lb facs="#facs_31_tr_3_tl_1" n="N001"/>[418]
+               <lb facs="#facs_31_tr_3_tl_2" n="N002"/>LECTURE XXXIII, March 8, 1956
+               <lb facs="#facs_31_tr_3_tl_3" n="N003"/>The last statement about the problem of religion and education referred to a phenomenon
+               <lb facs="#facs_31_tr_3_tl_4" n="N004"/>which one could also observe especially in the twenties of this century, the phenomenon that the
+               <lb facs="#facs_31_tr_3_tl_5" n="N005"/>younger generation didn't want only technical education, as it was given in the public schools, and
+               <lb facs="#facs_31_tr_3_tl_6" n="N006"/>not only humanistic education, as it was given in the higher schools, but that they wanted something
+               <lb facs="#facs_31_tr_3_tl_7" n="N007"/>which made it possible for them to commit themselves unconditionally to a cause. Since the power
+               <lb facs="#facs_31_tr_3_tl_8" n="N008"/>of the churches--for instance in Germany--was very limited at that time and was not a matter of
+            </p>
+            <p facs="#facs_31_tr_2">
+               <lb facs="#facs_31_tr_2_tl_1" n="N001"/>ultimate concern or commitment, they accepted the different TOTALITARIAN claims to
+               <lb facs="#facs_31_tr_2_tl_3" n="N002"/>unconditional validity and therefore unconditional subjection. This is
+               <lb facs="#facs_31_tr_2_tl_5" n="N003"/>very important for the understanding of that element in education which I called ''Whereto?
+               <lb facs="#facs_31_tr_2_tl_6" n="N004"/>Whither? Where do we go to?'' You know the word ''education'' is derived from <hi style="font-style: italic;">e-ducere</hi>,
+               <lb facs="#facs_31_tr_2_tl_7" n="N005"/>''leading out,'' namely leading-out of the state of roughness, lack of shape, of formlessness,
+               <lb facs="#facs_31_tr_2_tl_8" n="N006"/>of chaos. And this, all education tries to do, and about that they know. But if you lead something
+               <lb facs="#facs_31_tr_2_tl_9" n="N007"/>OUT of something, the question arises, ''Into WHAT do you lead him?'' And here the situation
+               <lb facs="#facs_31_tr_2_tl_10" n="N008"/>of the twenties in Europe, in all countries (but I observed it best in Germany, of course),
+            </p>
+            <p facs="#facs_31_tr_1">
+               <lb facs="#facs_31_tr_1_tl_1" n="N001"/>the situation was that the two methods of education--the method of mediating technical skills
+               <lb facs="#facs_31_tr_1_tl_2" n="N002"/>and the method of developing all human potentialities in terms of a humanistic education--
+               <lb facs="#facs_31_tr_1_tl_3" n="N003"/>didn't fulfill the hidden and more and more open desire of the younger generation. And so
+               <lb facs="#facs_31_tr_1_tl_4" n="N004"/>they were looking for something which was for them--or could become, as they believed, for them--
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

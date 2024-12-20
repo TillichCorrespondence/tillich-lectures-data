@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLIII (Nr. 0570)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p096</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-24">1956-04-24</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_96">
+         <graphic url="TL-0570.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=IMMXQEKICYKMIJQNXWNNDQTO&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,248 2301,248 2301,1977 298,1977" rendition="TextRegion" xml:id="facs_96_tr_1">
+            <zone points="1132,301 1145,301 1175,318 1205,318 1210,313 1215,318 1242,318 1250,311 1263,311 1265,240 1230,245 1217,235 1195,258 1132,263" rendition="Line" xml:id="facs_96_tr_1_tl_1"/>
+            <zone points="306,463 1971,468 2044,463 2044,403 306,423" rendition="Line" xml:id="facs_96_tr_1_tl_2"/>
+            <zone points="306,614 2037,631 2134,621 2134,564 306,584" rendition="Line" xml:id="facs_96_tr_1_tl_3"/>
+            <zone points="298,757 2124,774 2124,719 1881,704 298,734" rendition="Line" xml:id="facs_96_tr_1_tl_4"/>
+            <zone points="296,909 2184,927 2149,852 296,887" rendition="Line" xml:id="facs_96_tr_1_tl_5"/>
+            <zone points="303,1077 2092,1070 2134,1012 303,1035" rendition="Line" xml:id="facs_96_tr_1_tl_6"/>
+            <zone points="298,1225 1929,1230 2187,1220 2187,1165 298,1180" rendition="Line" xml:id="facs_96_tr_1_tl_7"/>
+            <zone points="296,1360 2047,1395 2134,1315 296,1335" rendition="Line" xml:id="facs_96_tr_1_tl_8"/>
+            <zone points="296,1516 1137,1533 1245,1526 1245,1463 336,1463 296,1485" rendition="Line" xml:id="facs_96_tr_1_tl_9"/>
+            <zone points="521,1671 2027,1701 2167,1668 2167,1608 521,1616" rendition="Line" xml:id="facs_96_tr_1_tl_10"/>
+            <zone points="283,1814 711,1876 1445,1819 2297,1856 2297,1769 2134,1759 283,1791" rendition="Line" xml:id="facs_96_tr_1_tl_11"/>
+            <zone points="288,1971 2152,1974 2152,1919 288,1944" rendition="Line" xml:id="facs_96_tr_1_tl_12"/>
+         </zone>
+         <zone points="115,2057 2203,2057 2203,3455 115,3455" rendition="TextRegion" xml:id="facs_96_tr_2">
+            <zone points="283,2117 2197,2124 2197,2072 2052,2057 283,2077" rendition="Line" xml:id="facs_96_tr_2_tl_1"/>
+            <zone points="291,2272 2182,2280 2182,2219 291,2224" rendition="Line" xml:id="facs_96_tr_2_tl_2"/>
+            <zone points="293,2437 1996,2437 2169,2422 2169,2367 293,2375" rendition="Line" xml:id="facs_96_tr_2_tl_3"/>
+            <zone points="288,2580 2177,2580 2177,2525 288,2530" rendition="Line" xml:id="facs_96_tr_2_tl_4"/>
+            <zone points="281,2723 2102,2740 2102,2668 2039,2665 281,2680" rendition="Line" xml:id="facs_96_tr_2_tl_5"/>
+            <zone points="281,2891 734,2946 799,2881 2164,2883 2184,2821 281,2838" rendition="Line" xml:id="facs_96_tr_2_tl_6"/>
+            <zone points="281,3031 1974,3039 2177,3029 2177,2971 281,2983" rendition="Line" xml:id="facs_96_tr_2_tl_7"/>
+            <zone points="283,3174 2127,3181 2127,3121 283,3124" rendition="Line" xml:id="facs_96_tr_2_tl_8"/>
+            <zone points="594,3409 614,3414 626,3404 649,3407 666,3422 679,3412 699,3417 719,3402 754,3399 792,3409 797,3297 701,3302 639,3289 619,3304 596,3304" rendition="Line" xml:id="facs_96_tr_2_tl_9"/>
+            <zone points="1100,3399 1137,3402 1145,3394 1170,3414 1195,3397 1288,3454 1313,3454 1305,3259 1268,3251 1232,3259 1197,3246 1095,3262" rendition="Line" xml:id="facs_96_tr_2_tl_10"/>
+            <zone points="1914,3427 1934,3427 1956,3444 1986,3444 2014,3424 2032,3444 2052,3434 2089,3449 2094,3251 2034,3256 2024,3244 2004,3251 1919,3249" rendition="Line" xml:id="facs_96_tr_2_tl_11"/>
+            <zone points="105,3444 120,3444 125,3434 138,3437 148,3424 158,3427 168,3412 185,3417 200,3432 215,3419 238,3419 228,3347 205,3347 198,3339 178,3339 165,3347 140,3342 93,3347" rendition="Line" xml:id="facs_96_tr_2_tl_12"/>
+            <zone points="782,3409 807,3414 819,3402 837,3402 879,3417 907,3407 977,3462 1035,3444 1035,3324 934,3332 827,3319 782,3329" rendition="Line" xml:id="facs_96_tr_2_tl_13"/>
+            <zone points="1117,3457 1132,3452 1145,3454 1147,3449 1160,3457 1162,3454 1167,3457 1190,3449 1172,3399 1160,3404 1142,3394 1140,3402 1135,3404 1122,3397 1120,3402 1102,3409 1102,3412" rendition="Line" xml:id="facs_96_tr_2_tl_14"/>
+            <zone points="1303,3409 1333,3404 1363,3434 1388,3422 1413,3427 1423,3417 1445,3429 1455,3419 1468,3427 1506,3427 1508,3329 1415,3327 1338,3332 1328,3342 1305,3342" rendition="Line" xml:id="facs_96_tr_2_tl_15"/>
+            <zone points="1691,3427 1713,3432 1738,3422 1769,3429 1794,3452 1821,3449 1806,3256 1776,3259 1754,3244 1736,3254 1708,3244 1676,3249" rendition="Line" xml:id="facs_96_tr_2_tl_16"/>
+            <zone points="1313,3454 1330,3452 1338,3457 1353,3452 1395,3452 1408,3457 1420,3452 1413,3419 1378,3427 1335,3404 1333,3407 1320,3404 1315,3399 1300,3404" rendition="Line" xml:id="facs_96_tr_2_tl_17"/>
+            <zone points="594,3447 616,3447 629,3454 646,3449 669,3459 681,3459 696,3449 706,3449 714,3457 739,3454 734,3399 706,3407 696,3417 676,3412 671,3419 646,3407 619,3407 611,3399 591,3399" rendition="Line" xml:id="facs_96_tr_2_tl_18"/>
+            <zone points="228,3459 281,3459 288,3452 308,3462 401,3457 406,3284 258,3284 230,3292" rendition="Line" xml:id="facs_96_tr_2_tl_19"/>
+            <zone points="128,3457 140,3462 168,3457 170,3462 193,3462 215,3454 230,3457 238,3409 215,3409 205,3404 190,3409 178,3419 173,3412 160,3414 158,3407 133,3407" rendition="Line" xml:id="facs_96_tr_2_tl_20"/>
+            <zone points="1854,3452 1884,3452 1901,3457 1926,3434 1939,3434 1941,3394 1929,3394 1926,3397 1869,3337 1856,3337" rendition="Line" xml:id="facs_96_tr_2_tl_21"/>
+            <zone points="784,3452 804,3449 814,3457 867,3454 884,3442 897,3454 944,3457 944,3424 922,3422 907,3407 897,3412 887,3409 879,3417 857,3417 839,3404 819,3404 809,3412 784,3407" rendition="Line" xml:id="facs_96_tr_2_tl_22"/>
+            <zone points="1032,3449 1062,3454 1070,3449 1080,3452 1092,3439 1130,3442 1130,3409 1107,3407 1065,3364 1042,3347 1030,3347" rendition="Line" xml:id="facs_96_tr_2_tl_23"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0570.jpg" n="part4_p096.jpg" xml:id="img_0096" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p096.jpg"/>
+            
+            <p facs="#facs_96_tr_1">
+               <lb facs="#facs_96_tr_1_tl_1" n="N001"/>-Ö65-
+               <lb facs="#facs_96_tr_1_tl_2" n="N002"/>two things and give to the essential description the term "conformity" and the directed
+               <lb facs="#facs_96_tr_1_tl_3" n="N003"/>description the term "conformism." Now if this is the case, then we have in England, against
+               <lb facs="#facs_96_tr_1_tl_4" n="N004"/>thevaemendous development of liberal individuality in France and Germany and the smaller
+               <lb facs="#facs_96_tr_1_tl_5" n="N005"/>countries around, we have in GreatDenitain a development of kraditions which do not necessarily
+               <lb facs="#facs_96_tr_1_tl_6" n="N006"/>produce conformism in terms of international subjection to Clonventional rules, but in terms f
+               <lb facs="#facs_96_tr_1_tl_7" n="N007"/> vaowth which is automatic and has not necessary the character of an external subjection. This
+               <lb facs="#facs_96_tr_1_tl_8" n="N008"/>seems to me a very important distinction. This, for instance, accounts for the following little
+               <lb facs="#facs_96_tr_1_tl_9" n="N009"/>story I experienced a few years ago in England:
+               <lb facs="#facs_96_tr_1_tl_10" n="N010"/>I had to give to a group of students and professors a lecture on existentialism, and I
+               <lb facs="#facs_96_tr_1_tl_11" n="N011"/>denelpped the main ideas about the human predicament, which we find in Ihilosophers like Heidegger
+               <lb facs="#facs_96_tr_1_tl_12" n="N012"/>and. theologians like Kierkegaard and artists and painters like Picasso, and novelists like Hafka.
+            </p>
+            <p facs="#facs_96_tr_2">
+               <lb facs="#facs_96_tr_2_tl_1" n="N001"/>Now then, I wanted a discussion. There was first a great silence, and then I was asked, "Do you
+               <lb facs="#facs_96_tr_2_tl_2" n="N002"/>think that this fits the English life at all?" Now I could of course answer in terms of pointing to
+               <lb facs="#facs_96_tr_2_tl_3" n="N003"/>people like Eliot and Greene and Auden and others, who are supposed to be British by birth or
+               <lb facs="#facs_96_tr_2_tl_4" n="N004"/>choice, and a few other things like this, and then I asked: Isn’t there in the younger generation,
+               <lb facs="#facs_96_tr_2_tl_5" n="N005"/>in the YOURGEST generation, even on places like Oxford and Cambridge, where the logical
+               <lb facs="#facs_96_tr_2_tl_6" n="N006"/>positivistic tradition is now prevailing, a new Gendency toward asking relevant questions, namely
+               <lb facs="#facs_96_tr_2_tl_7" n="N007"/>questions relevant to human existence, even in philosophy? And there wasesitation, but there
+               <lb facs="#facs_96_tr_2_tl_8" n="N008"/>was the feeling that perhaps a change is going on. The same experience, ten years earlier, was
+               <lb facs="#facs_96_tr_2_tl_9" n="N009"/>dʼune manière vieuse
+               <lb facs="#facs_96_tr_2_tl_10" n="N010"/>dʼun autre
+               <lb facs="#facs_96_tr_2_tl_11" n="N011"/>Monsieur,
+               <lb facs="#facs_96_tr_2_tl_12" n="N012"/>de votre beau
+               <lb facs="#facs_96_tr_2_tl_13" n="N013"/>dʼune manière beaucoup
+               <lb facs="#facs_96_tr_2_tl_14" n="N014"/>dire une
+               <lb facs="#facs_96_tr_2_tl_15" n="N015"/>ne se sont pas
+               <lb facs="#facs_96_tr_2_tl_16" n="N016"/>cʼest le
+               <lb facs="#facs_96_tr_2_tl_17" n="N017"/>dʼune manière
+               <lb facs="#facs_96_tr_2_tl_18" n="N018"/>Monsieur Mire
+               <lb facs="#facs_96_tr_2_tl_19" n="N019"/>Monsieur
+               <lb facs="#facs_96_tr_2_tl_20" n="N020"/>décrier de
+               <lb facs="#facs_96_tr_2_tl_21" n="N021"/>Vous
+               <lb facs="#facs_96_tr_2_tl_22" n="N022"/>dʼune manière
+               <lb facs="#facs_96_tr_2_tl_23" n="N023"/>Vous avez
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

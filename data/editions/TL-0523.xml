@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXIX (Nr. 0523)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p049</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-22">1956-03-22</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_49">
+         <graphic url="TL-0523.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WMRQHOXBJKGBOYDITQMKJLKW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="41,281 2337,281 2337,1547 41,1547" rendition="TextRegion" xml:id="facs_49_tr_2">
+            <zone points="948,335 961,335 979,348 998,351 1053,346 1064,338 1080,338 1080,293 1040,290 1035,296 1027,293 1022,298 1011,288 948,290" rendition="Line" xml:id="facs_49_tr_2_tl_1"/>
+            <zone points="428,515 1304,512 1383,581 1571,581 1692,483 2064,488 2064,438 1724,441 1576,319 1434,319 1296,446 1061,404 974,446 428,444" rendition="Line" xml:id="facs_49_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="222,636 2294,649 2294,586 222,607" rendition="Line" xml:id="facs_49_tr_2_tl_3"/>
+            <zone points="216,784 1650,837 1713,789 2247,797 2247,734 216,758" rendition="Line" xml:id="facs_49_tr_2_tl_4"/>
+            <zone points="211,937 1581,964 2128,940 2128,887 211,911" rendition="Line" xml:id="facs_49_tr_2_tl_5"/>
+            <zone points="216,1101 1919,1104 2210,1090 2210,1035 216,1059" rendition="Line" xml:id="facs_49_tr_2_tl_6"/>
+            <zone points="216,1315 956,1238 2313,1246 2315,1177 768,1212 333,1135 216,1188" rendition="Line" xml:id="facs_49_tr_2_tl_8"/>
+            <zone points="420,1368 861,1386 961,1476 1167,1426 1296,1489 1531,1410 2239,1399 2239,1336 1510,1338 1362,1251 1106,1341 420,1341" rendition="Line" xml:id="facs_49_tr_2_tl_9" subtype="paragraph"/>
+            <zone points="211,1544 2334,1571 2334,1481 211,1489" rendition="Line" xml:id="facs_49_tr_2_tl_10"/>
+         </zone>
+         <zone points="68,1633 2221,1633 2221,2455 68,2455" rendition="TextRegion" xml:id="facs_49_tr_3">
+            <zone points="206,1695 2035,1748 2170,1719 2170,1639 206,1666" rendition="Line" xml:id="facs_49_tr_3_tl_1"/>
+            <zone points="206,1840 1072,1893 1164,1843 2183,1845 2183,1787 206,1816" rendition="Line" xml:id="facs_49_tr_3_tl_2"/>
+            <zone points="206,1996 1626,2020 2189,1996 2189,1938 206,1967" rendition="Line" xml:id="facs_49_tr_3_tl_4"/>
+            <zone points="417,2189 972,2207 1175,2146 2189,2181 2215,2088 417,2091" rendition="Line" xml:id="facs_49_tr_3_tl_5" subtype="paragraph"/>
+            <zone points="206,2302 2017,2310 2170,2302 2170,2239 206,2247" rendition="Line" xml:id="facs_49_tr_3_tl_6"/>
+            <zone points="206,2450 2189,2455 2189,2389 206,2418" rendition="Line" xml:id="facs_49_tr_3_tl_7"/>
+         </zone>
+         <zone points="100,2535 2206,2535 2206,3485 100,3485" rendition="TextRegion" xml:id="facs_49_tr_1">
+            <zone points="206,2603 2199,2629 2202,2537 209,2545" rendition="Line" xml:id="facs_49_tr_1_tl_1"/>
+            <zone points="201,2783 2099,2820 2191,2804 2194,2685 203,2701" rendition="Line" xml:id="facs_49_tr_1_tl_2"/>
+            <zone points="201,2933 1140,2946 1294,2893 2067,2893 2067,2841 201,2854" rendition="Line" xml:id="facs_49_tr_1_tl_3"/>
+            <zone points="201,3062 467,3150 697,3054 1798,3065 1969,3047 1969,2991 871,3020 396,2936 201,2999" rendition="Line" xml:id="facs_49_tr_1_tl_4"/>
+            <zone points="195,3208 731,3205 842,3268 2020,3213 2154,3197 2154,3142 195,3176" rendition="Line" xml:id="facs_49_tr_1_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0523.jpg" n="part4_p049.jpg" xml:id="img_0049" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p049.jpg"/>
+            
+            <p facs="#facs_49_tr_2">
+               <lb facs="#facs_49_tr_2_tl_1" n="N001"/>[518]
+               <lb facs="#facs_49_tr_2_tl_2" n="N002"/>Now this includes a lot of critical consequences. The first is: the moral imperative
+               <lb facs="#facs_49_tr_2_tl_3" n="N003"/>doesn't come from anything else than from our essential being. When I refer to the Ten Commandments,
+               <lb facs="#facs_49_tr_2_tl_4" n="N004"/>then one could say: "They come from God." But what does that mean? Does that mean that there is
+               <lb facs="#facs_49_tr_2_tl_5" n="N005"/>a Highest Being who, as all good tyrants do, gives laws according to His wilfullness, or in order to
+               <lb facs="#facs_49_tr_2_tl_6" n="N006"/>protect himself? That is certainly not an image which is worthy of God, and everybody who has this
+               <lb facs="#facs_49_tr_2_tl_8" n="N007"/>image of God should resist Him---as one resists earthly tyrants, so one should resist also Heavenly tyrants!
+               <lb facs="#facs_49_tr_2_tl_9" n="N008"/>"The will of God"---if I use that often mistaken phrase---is our essential being, put against us,
+               <lb facs="#facs_49_tr_2_tl_10" n="N009"/>in the Commandments and their interpretation by the Sermon on the Mount. None of the Ten Command-
+            </p>
+            <p facs="#facs_49_tr_3">
+               <lb facs="#facs_49_tr_3_tl_1" n="N001"/>ments is something which is given to us from outside, but each of them expresses the true structure
+               <lb facs="#facs_49_tr_3_tl_2" n="N002"/>of man in himself and in relation to the others.. There are many consequences which we will discuss
+               <lb facs="#facs_49_tr_3_tl_4" n="N003"/>next time, with respect to the CONCRETENESS of the law, but I don't go into this in this moment.
+               <lb facs="#facs_49_tr_3_tl_5" n="N004"/>They all are our essential being put against us, as commandment, as that which ought-to-be.
+               <lb facs="#facs_49_tr_3_tl_6" n="N005"/>It is not only a GOD, who has not power to command anything which is not corresponding to our
+               <lb facs="#facs_49_tr_3_tl_7" n="N006"/>nature---if He did, and had the power to destroy us, alright!: He might, but He wouldn't really
+            </p>
+            <p facs="#facs_49_tr_1">
+               <lb facs="#facs_49_tr_1_tl_1" n="N001"/>hurt the center of our being, namely our inner structure, what we essentially are. And in Christianity
+               <lb facs="#facs_49_tr_1_tl_2" n="N002"/>the idea that the God of the law is something ELSE than the God of creation, is denied, in very hard
+               <lb facs="#facs_49_tr_1_tl_3" n="N003"/>fights in the early Church against, for instance, a man whom some of you know from Church
+               <lb facs="#facs_49_tr_1_tl_4" n="N004"/>history, Marcion, whose idea was---this man represented a whole group of people, a whole
+               <lb facs="#facs_49_tr_1_tl_5" n="N005"/>movement of his time, which put the Creator-God against the Savior-God and made the law, which
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

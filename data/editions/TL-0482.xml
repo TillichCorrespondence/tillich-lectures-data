@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVII (Nr. 0482)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p008</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-15">1956-03-15</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_8">
+         <graphic url="TL-0482.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ENMPIZGNFYNRLVSXXJIURVIW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="316,269 2301,269 2301,1780 316,1780" rendition="TextRegion" xml:id="facs_8_tr_1">
+            <zone points="1123,328 1160,333 1178,342 1224,340 1232,333 1249,333 1247,269 1212,269 1202,259 1183,278 1121,281" rendition="Line" xml:id="facs_8_tr_1_tl_1"/>
+            <zone points="323,473 2126,500 2168,416 323,443" rendition="Line" xml:id="facs_8_tr_1_tl_2"/>
+            <zone points="318,626 665,636 754,707 2296,680 2294,594 2126,581 318,581" rendition="Line" xml:id="facs_8_tr_1_tl_3"/>
+            <zone points="308,774 2190,798 2188,747 2084,734 306,751" rendition="Line" xml:id="facs_8_tr_1_tl_4"/>
+            <zone points="315,926 2136,949 2136,894 2001,880 315,904" rendition="Line" xml:id="facs_8_tr_1_tl_5"/>
+            <zone points="318,1101 2089,1089 2089,1042 1907,1027 318,1040" rendition="Line" xml:id="facs_8_tr_1_tl_6"/>
+            <zone points="310,1234 2109,1244 2109,1197 2018,1185 310,1190" rendition="Line" xml:id="facs_8_tr_1_tl_7"/>
+            <zone points="306,1390 2042,1394 2042,1348 1895,1335 306,1338" rendition="Line" xml:id="facs_8_tr_1_tl_8"/>
+            <zone points="306,1532 2171,1550 2121,1488 306,1488" rendition="Line" xml:id="facs_8_tr_1_tl_9"/>
+            <zone points="303,1690 328,1695 466,1695 466,1646 453,1646 441,1636 434,1646 416,1646 404,1636 399,1643 372,1646 335,1641 320,1658 303,1658" rendition="Line" xml:id="facs_8_tr_1_tl_10"/>
+            <zone points="306,1767 2200,1769 2161,1715 306,1702" rendition="Line" xml:id="facs_8_tr_1_tl_11" subtype="paragraph"/>
+         </zone>
+         <zone points="286,1857 2197,1857 2197,2834 286,2834" rendition="TextRegion" xml:id="facs_8_tr_3">
+            <zone points="291,1909 485,1909 532,1934 646,1912 734,1954 921,1956 919,1774 774,1781 653,1870 508,1868 480,1887 441,1863 333,1865 291,1887" rendition="Line" xml:id="facs_8_tr_3_tl_1"/>
+            <zone points="291,2057 2102,2084 2102,2013 2003,2010 291,2030" rendition="Line" xml:id="facs_8_tr_3_tl_2" subtype="paragraph"/>
+            <zone points="301,2212 2121,2230 2102,2171 301,2168" rendition="Line" xml:id="facs_8_tr_3_tl_3"/>
+            <zone points="291,2365 2079,2402 2077,2321 1959,2311 1875,2353 291,2323" rendition="Line" xml:id="facs_8_tr_3_tl_4"/>
+            <zone points="288,2543 2190,2530 2190,2479 288,2469" rendition="Line" xml:id="facs_8_tr_3_tl_5"/>
+            <zone points="288,2671 2178,2678 2121,2614 288,2626" rendition="Line" xml:id="facs_8_tr_3_tl_6"/>
+            <zone points="273,2819 2008,2838 2008,2779 1900,2769 273,2794" rendition="Line" xml:id="facs_8_tr_3_tl_7"/>
+         </zone>
+         <zone points="29,2920 2200,2920 2200,3488 29,3488" rendition="TextRegion" xml:id="facs_8_tr_2">
+            <zone points="273,2971 512,2993 601,2971 1059,2981 1059,2927 796,2927 769,2949 747,2927 621,2924 596,2947 557,2924 517,2949 468,2924 347,2947 308,2922 273,2947" rendition="Line" xml:id="facs_8_tr_2_tl_1"/>
+            <zone points="276,3129 1348,3181 1436,3129 2195,3131 2195,3070 276,3070" rendition="Line" xml:id="facs_8_tr_2_tl_2" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0482.jpg" n="part4_p008.jpg" xml:id="img_0008" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p008.jpg"/>
+            
+            <p facs="#facs_8_tr_1">
+               <lb facs="#facs_8_tr_1_tl_1" n="N001"/>[477]
+               <lb facs="#facs_8_tr_1_tl_2" n="N002"/>to take into its universal principle, expressed in the classical idea that Jesus the Christ
+               <lb facs="#facs_8_tr_1_tl_3" n="N003"/>is the Logos, the UNIVERSAL principle of divine Self-manifestation, that other symbols can
+               <lb facs="#facs_8_tr_1_tl_4" n="N004"/>be taken in. For instance the truth of a symbol like evolution–which was one of the
+               <lb facs="#facs_8_tr_1_tl_5" n="N005"/>most important ones–will and can be taken in; or some symbols connected with the
+               <lb facs="#facs_8_tr_1_tl_6" n="N006"/>psychological development–depth psychology, and other things like that. But one
+               <lb facs="#facs_8_tr_1_tl_7" n="N007"/>thing must be said: the <rs type="keyword" ref="#Symbols">symbols </rs>COME; you cannot say "I need new symbols, so
+               <lb facs="#facs_8_tr_1_tl_8" n="N008"/>let's sit down, I have a very comfortable chair, and let's have a drink to it and
+               <lb facs="#facs_8_tr_1_tl_9" n="N009"/>then let's invent a symbol!" <hi style="font-style: italic;">[some laughter]</hi> Now that's just what I think should be
+               <lb facs="#facs_8_tr_1_tl_10" n="N010"/>denied.
+               <lb facs="#facs_8_tr_1_tl_11" n="N011"/>QN: Where is the risk in the autonomous existental experience which you set up last
+            </p>
+            <p facs="#facs_8_tr_3">
+               <lb facs="#facs_8_tr_3_tl_1" n="N001"/>time in regards to <rs type="person" ref="#tillich_person_id__2989">Maritain</rs>?
+               <lb facs="#facs_8_tr_3_tl_2" n="N002"/>PT: Now I hope you all remember that discussion I reported here, where I asked,
+               <lb facs="#facs_8_tr_3_tl_3" n="N003"/>What would you do if the prophetic Spirit grasps you, you say something, of which
+               <lb facs="#facs_8_tr_3_tl_4" n="N004"/>later on the Church authority says that it was wrong? And he anwered [sic.], "Then I
+               <lb facs="#facs_8_tr_3_tl_5" n="N005"/>was wrong." – Now what is the point of your question really? It is a little bit hard.
+               <lb facs="#facs_8_tr_3_tl_6" n="N006"/>QN: You spoke of the risk in religion, the involvement of the duality of Yes and No
+               <lb facs="#facs_8_tr_3_tl_7" n="N007"/>at the same time. Where is the risk when one allows the existential experience,
+            </p>
+            <p facs="#facs_8_tr_2">
+               <lb facs="#facs_8_tr_2_tl_1" n="N001"/>in essence, to become all-dominant?
+               <lb facs="#facs_8_tr_2_tl_2" n="N002"/>PT: I don't know. Can somebody interpret that? I sirply [sic.] don't know what you mean.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

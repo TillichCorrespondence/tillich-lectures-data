@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_6">
          <graphic url="TL-0290.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=GRSHSUGJYFJPIGDBTRGFDQIE&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GRSHSUGJYFJPIGDBTRGFDQIE&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="35,45 2152,45 2152,819 35,819" rendition="TextRegion" xml:id="facs_6_tr_3">
             <zone points="1073,330 1086,330 1106,348 1199,346 1196,284 1135,287 1119,274 1106,287 1071,287" rendition="Line" xml:id="facs_6_tr_3_tl_2"/>
             <zone points="182,548 2128,479 2128,425 389,466 325,417 182,479" rendition="Line" xml:id="facs_6_tr_3_tl_4"/>
@@ -102,28 +102,28 @@
             
             <p facs="#facs_6_tr_3">
                <lb facs="#facs_6_tr_3_tl_2" n="N001"/>[286]
-               <lb facs="#facs_6_tr_3_tl_4" n="N002"/>with that which makes man man, namely with the power of language. Our first discussion dealt
-               <lb facs="#facs_6_tr_3_tl_5" n="N003"/>with religion and language, with the distinction of ordinary language which grasps finite
-               <lb facs="#facs_6_tr_3_tl_7" n="N004"/>reality, and symbolic language in which ultimate concern expresses itself. We tried to show WHY
+               <lb facs="#facs_6_tr_3_tl_4" n="N002"/>with that which makes man man, namely with the<language> power of language. </language>Our first discussion dealt
+               <lb facs="#facs_6_tr_3_tl_5" n="N003"/>with religion and language, with the distinction of ordinary language which grasps <rs type="keyword" ref="#Finitude">finite</rs>
+               <lb facs="#facs_6_tr_3_tl_7" n="N004"/>reality, and symbolic language in which <ultimate_concern>ultimate concern</ultimate_concern> expresses itself. We tried to show WHY
             </p>
             <p facs="#facs_6_tr_2">
-               <lb facs="#facs_6_tr_2_tl_1" n="N001"/>language makes man man, namely because language moves in universals, and universals liberate
+               <lb facs="#facs_6_tr_2_tl_1" n="N001"/>language makes man man, namely because language moves in <rs type="keyword" ref="#Universal_category">universals</rs>, and universals liberate
                <lb facs="#facs_6_tr_2_tl_2" n="N002"/>from the given situation to which all other beings are subjected. Being in bondage of their given
                <lb facs="#facs_6_tr_2_tl_3" n="N003"/>nature means being subject to the concrete situation, and the problem of the concrete situation
                <lb facs="#facs_6_tr_2_tl_4" n="N004"/>with which plants as well as animals have to deal all their lives. Man is able, in the power of language,
                <lb facs="#facs_6_tr_2_tl_5" n="N005"/>to transcend the given situation, to abstract or universalize (therefore the terms "abstractions"
                <lb facs="#facs_6_tr_2_tl_6" n="N006"/>or "universals") from the given situation, and in this way to overcome the bondage to it. Man's
-               <lb facs="#facs_6_tr_2_tl_7" n="N007"/>freedom is a function of his language, and man's language is a function of his freedom. Therefore
+               <lb facs="#facs_6_tr_2_tl_7" n="N007"/>freedom is a function of his <rs type="keyword" ref="#Freedom">language</rs>, and man's language is a function of his freedom. Therefore
                <lb facs="#facs_6_tr_2_tl_8" n="N008"/>you can never teach a NON-human being language, because you cannot transform him, or it,
                <lb facs="#facs_6_tr_2_tl_9" n="N009"/>into something which has the nature of freedom. This was our first consideration.
             </p>
             <p facs="#facs_6_tr_1">
                <lb facs="#facs_6_tr_1_tl_1" n="N001"/>The second consideration dealt with the first way in which man transcends the given reality,
                <lb facs="#facs_6_tr_1_tl_2" n="N002"/>as what is traditionally called <hi style="font-style: italic;">homo faber</hi>, man who fabricates, man who produces tools and transforms
-               <lb facs="#facs_6_tr_1_tl_3" n="N003"/>the given reality with the help of tools into another reality, into the reality of the technical realm,
+               <lb facs="#facs_6_tr_1_tl_3" n="N003"/>the given reality with the help of tools into another reality, into the reality of the <rs type="keyword" ref="#Technology">technical realm</rs>,
                <lb facs="#facs_6_tr_1_tl_4" n="N004"/>the realm which is now the dominant realm of most of our daily life. Then we discussed the relationship
                <lb facs="#facs_6_tr_1_tl_5" n="N005"/>of religion to the technical realm, what it does for us and in how far it is dangerous for the
-               <lb facs="#facs_6_tr_1_tl_6" n="N006"/>question of ultimacy, because it produces means and hides ends. The question of ultimate concern
+               <lb facs="#facs_6_tr_1_tl_6" n="N006"/>question of <rs type="keyword" ref="#Ultimacy">ultimacy</rs>, because it produces means and hides ends. The question of ultimate concern
             </p>
             
         </div>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXIX (Nr. 0520)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p046</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-22">1956-03-22</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_46">
+         <graphic url="TL-0520.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YHHXCCEJENZNRIAHVUADIQDA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="253,296 2266,296 2266,1278 253,1278" rendition="TextRegion" xml:id="facs_46_tr_3">
+            <zone points="1127,372 1140,372 1162,398 1170,398 1211,362 1251,362 1254,291 1223,289 1208,299 1198,296 1190,304 1173,304 1152,317 1129,314" rendition="Line" xml:id="facs_46_tr_3_tl_1"/>
+            <zone points="251,514 2191,524 2127,461 1233,474 1162,405 1094,474 251,466" rendition="Line" xml:id="facs_46_tr_3_tl_2"/>
+            <zone points="248,656 2153,709 2097,600 248,628" rendition="Line" xml:id="facs_46_tr_3_tl_3"/>
+            <zone points="253,813 955,810 1183,902 1621,815 2259,826 2259,772 1550,785 1340,704 1129,767 253,760" rendition="Line" xml:id="facs_46_tr_3_tl_4"/>
+            <zone points="246,962 960,967 1023,1028 2110,1000 2077,907 246,914" rendition="Line" xml:id="facs_46_tr_3_tl_5"/>
+            <zone points="238,1122 1256,1150 1370,1211 1489,1155 1912,1145 1912,1074 1426,1071 1342,1023 1287,1071 238,1081" rendition="Line" xml:id="facs_46_tr_3_tl_6"/>
+            <zone points="438,1256 2067,1287 2064,1223 1953,1208 438,1213" rendition="Line" xml:id="facs_46_tr_3_tl_7" subtype="paragraph"/>
+         </zone>
+         <zone points="223,1356 2254,1356 2254,2932 223,2932" rendition="TextRegion" xml:id="facs_46_tr_2">
+            <zone points="228,1411 2251,1428 2218,1373 1745,1357 228,1385" rendition="Line" xml:id="facs_46_tr_2_tl_1"/>
+            <zone points="230,1563 1119,1633 2160,1621 2160,1525 2097,1509 230,1537" rendition="Line" xml:id="facs_46_tr_2_tl_2"/>
+            <zone points="228,1765 2170,1727 2168,1677 1991,1659 225,1674" rendition="Line" xml:id="facs_46_tr_2_tl_3"/>
+            <zone points="218,1861 2115,1887 2056,1813 218,1839" rendition="Line" xml:id="facs_46_tr_2_tl_4"/>
+            <zone points="223,2013 962,2021 1102,2102 1431,2082 1507,2026 1980,2074 1980,1970 1469,1973 1241,1899 1041,1973 223,1968" rendition="Line" xml:id="facs_46_tr_2_tl_5"/>
+            <zone points="218,2165 1507,2178 1507,2110 266,2107 218,2140" rendition="Line" xml:id="facs_46_tr_2_tl_6"/>
+            <zone points="415,2312 2226,2332 2226,2272 415,2267" rendition="Line" xml:id="facs_46_tr_2_tl_7" subtype="paragraph"/>
+            <zone points="215,2462 1965,2482 2112,2474 2112,2424 215,2439" rendition="Line" xml:id="facs_46_tr_2_tl_8"/>
+            <zone points="215,2614 2067,2631 2031,2570 215,2565" rendition="Line" xml:id="facs_46_tr_2_tl_9"/>
+            <zone points="213,2776 2201,2803 2201,2725 2130,2712 213,2725" rendition="Line" xml:id="facs_46_tr_2_tl_10"/>
+            <zone points="210,2920 1963,2940 2241,2923 2241,2877 210,2892" rendition="Line" xml:id="facs_46_tr_2_tl_11"/>
+         </zone>
+         <zone points="29,3019 2194,3019 2194,3491 29,3491" rendition="TextRegion" xml:id="facs_46_tr_1">
+            <zone points="203,3069 1785,3092 2074,3085 2107,3029 203,3047" rendition="Line" xml:id="facs_46_tr_1_tl_1"/>
+            <zone points="210,3239 2188,3267 2186,3214 210,3183" rendition="Line" xml:id="facs_46_tr_1_tl_2"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0520.jpg" n="part4_p046.jpg" xml:id="img_0046" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p046.jpg"/>
+            
+            <p facs="#facs_46_tr_3">
+               <lb facs="#facs_46_tr_3_tl_1" n="N001"/>[515]
+               <lb facs="#facs_46_tr_3_tl_2" n="N002"/>awakened to it, and then the problem arises. This problem is the problem of where the concept of
+               <lb facs="#facs_46_tr_3_tl_3" n="N003"/>ought-to-be appears. Now he stands before the moment of self-actualization: either to actualize
+               <lb facs="#facs_46_tr_3_tl_4" n="N004"/>himself or not to actualize himself. In both cases anxiety is in him---in the first case the anxiety to lose
+               <lb facs="#facs_46_tr_3_tl_5" n="N005"/>himself when he actualizes himself; in the second, the anxiety that he loses his possibilities, his
+               <lb facs="#facs_46_tr_3_tl_6" n="N006"/>actualization, if he does NOT actualize it. In both cases it is the anxiety of self-loss.
+               <lb facs="#facs_46_tr_3_tl_7" n="N007"/>Now human reality is self-actualization. All men, in degree and in different forms,
+            </p>
+            <p facs="#facs_46_tr_2">
+               <lb facs="#facs_46_tr_2_tl_1" n="N001"/>actualize their own potentialities. In all of them, it has happened that out of the dreaming innocence,
+               <lb facs="#facs_46_tr_2_tl_2" n="N002"/>they have jumped into self-actualization. But in DOING so, they are not only fulfilling what they
+               <lb facs="#facs_46_tr_2_tl_3" n="N003"/>essentially are, but also they are ESTRANGED from what they essentially are, and they live in the
+               <lb facs="#facs_46_tr_2_tl_4" n="N004"/>ambiguity of both fulfillment and estrangement. Therefore from the point of view of dreaming
+               <lb facs="#facs_46_tr_2_tl_5" n="N005"/>innocence, of non-actualized innocence, the child is the ideal. From the point of view of
+               <lb facs="#facs_46_tr_2_tl_6" n="N006"/>ACTUALIZATION, the child is that which has to be left behind.
+               <lb facs="#facs_46_tr_2_tl_7" n="N007"/>We have both words in the New Testament---which is very interesting. On the one hand the
+               <lb facs="#facs_46_tr_2_tl_8" n="N008"/>child as ideal of innocent confidence, as Jesus says to the Apostles, showing a child in this state.
+               <lb facs="#facs_46_tr_2_tl_9" n="N009"/>On the other hand, the strong demands of Paul to go BEYOND the childish state and to
+               <lb facs="#facs_46_tr_2_tl_10" n="N010"/>become mature by self-actualization. This is not a contradiction, but these two elements are both in
+               <lb facs="#facs_46_tr_2_tl_11" n="N011"/>childhood and in maturity. The process of maturing is also a process of losing something. But without
+            </p>
+            <p facs="#facs_46_tr_1">
+               <lb facs="#facs_46_tr_1_tl_1" n="N001"/>the process of maturing, no actualization would take place. As an example, I could refer to
+               <lb facs="#facs_46_tr_1_tl_2" n="N002"/>what we have discussed in the last hours about the transition from immediate participation in the realm
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

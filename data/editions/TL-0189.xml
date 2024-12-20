@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_189">
          <graphic url="TL-0189.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=UZZMLFCCGJPZAOZLCGBPXEUG&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UZZMLFCCGJPZAOZLCGBPXEUG&amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="44,172 47,677 44,3469 2283,3469 2283,172" rendition="TextRegion" xml:id="facs_189_tr_2">
             <zone points="1152,237 1175,237 1204,254 1221,249 1249,254 1261,239 1273,239 1273,183 1239,185 1219,165 1212,165 1187,185 1152,185" rendition="Line" xml:id="facs_189_tr_2_tl_1"/>
             <zone points="318,387 2243,410 2240,368 2028,326 1972,363 1888,326 1779,363 318,348" rendition="Line" xml:id="facs_189_tr_2_tl_2"/>
@@ -99,12 +99,12 @@
             
             <p facs="#facs_189_tr_2">
                <lb facs="#facs_189_tr_2_tl_1" n="N001"/>[185]
-               <lb facs="#facs_189_tr_2_tl_2" n="N002"/><rs type="keyword" ref="#Metaphysics">B<rs type="keyword" ref="#Physics">ut if this is the case, then this also includes the element of metaphysical passion, which you can</rs>
-               <lb break="no" facs="#facs_189_tr_2_tl_3" n="N003"/><rs type="keyword" ref="#Physics">observe in all the great physicists beginning with <rs type="person">Newton</rs> himself, and all the following physicists.</rs></rs>
-               <lb facs="#facs_189_tr_2_tl_4" n="N004"/>So philosophy, because of its dual character of being a matter of passion and a matter of
+               <lb facs="#facs_189_tr_2_tl_2" n="N002"/>But if this is the case, then this also includes the element of metaphysical passion, which you can
+               <lb facs="#facs_189_tr_2_tl_3" n="N003"/>observe in all the great <rs type="keyword" ref="#Physics">physicists</rs> beginning with <rs type="person" ref="#tillich_person_id__1384">Newton</rs> himself, and all the following physicists.
+               <lb facs="#facs_189_tr_2_tl_4" n="N004"/>So <rs type="keyword" ref="#Philosophy">philosophy, </rs>because of its dual character of being a matter of passion and a matter of
                <lb facs="#facs_189_tr_2_tl_5" n="N005"/>detached observation at the same time, is present, even in scientific research, in both respects,
-               <lb facs="#facs_189_tr_2_tl_6" n="N006"/>which again is an answer to the question not only "<rs type="keyword" ref="#RELIGION">religion</rs> and <rs type="keyword" ref="#Philosophy">philosoph</rs>y" but also "<rs type="keyword" ref="#RELIGION">religion</rs>
-               <lb facs="#facs_189_tr_2_tl_7" n="N007"/>and <rs type="keyword" ref="#Science">science</rs>."
+               <lb facs="#facs_189_tr_2_tl_6" n="N006"/>which again is an answer to the question not only "religion and philosophy" but also "religion
+               <lb facs="#facs_189_tr_2_tl_7" n="N007"/>and science."
                <lb facs="#facs_189_tr_2_tl_8" n="N008"/>Now the <rs type="keyword" ref="#Historical_research">historian</rs> (we spoke about him fully and about the different levels of his work)
                <lb facs="#facs_189_tr_2_tl_9" n="N009"/>is in the same way, consciously or unconsciously, a philosopher. And those people who want to
                <lb facs="#facs_189_tr_2_tl_10" n="N010"/>write a history of salvation and at the same time deny philosophy, simply don’t know what they are
@@ -112,12 +112,12 @@
                <lb facs="#facs_189_tr_2_tl_12" n="N012"/>It's quite obvious that every task of the historian, beyond the finding of facts,
                <lb facs="#facs_189_tr_2_tl_13" n="N013"/>is dependent on valuations of historical factors. What has EFFECT [a fact?] on man as acting
                <lb facs="#facs_189_tr_2_tl_14" n="N014"/>in history? [?] To answer such a question, you must consciously or unconsciously have a doctrine
-               <lb facs="#facs_189_tr_2_tl_15" n="N015"/>of the nature of man. <rs type="keyword" ref="#Economy">Many presentday <rs type="keyword" ref="#Historical_research">factual historians,</rs> in all realms of life---take simply the
-               <lb break="no" facs="#facs_189_tr_2_tl_16" n="N016"/>history of economics: there you HAVE presuppositions about the nature of man, and it was the
-               <lb break="no" facs="#facs_189_tr_2_tl_17" n="N017"/>false presupposition of classical economics to believe that man can ECONOMICALLY be defined
-               <lb break="no" facs="#facs_189_tr_2_tl_18" n="N018"/>as that being which follows the laws of the market, buying at the lowest possible price and selling
-               <lb break="no" facs="#facs_189_tr_2_tl_19" n="N019"/>at the highest. Actually, the psychology of man is absolutely different from this law, which is a
-               <lb break="no" facs="#facs_189_tr_2_tl_20" n="N020"/>mere abstraction and can be used for mathematical equations as they appear in economics today.</rs>
+               <lb facs="#facs_189_tr_2_tl_15" n="N015"/>of the nature of man. Many presentday factual historians, in all realms of life---take simply the
+               <lb facs="#facs_189_tr_2_tl_16" n="N016"/>history of <rs type="keyword" ref="#Economy">economics:</rs> there you HAVE presuppositions about the nature of man, and it was the
+               <lb facs="#facs_189_tr_2_tl_17" n="N017"/>false presupposition of classical economics to believe that man can ECONOMICALLY be defined
+               <lb facs="#facs_189_tr_2_tl_18" n="N018"/>as that being which follows the laws of the market, buying at the lowest possible price and selling
+               <lb facs="#facs_189_tr_2_tl_19" n="N019"/>at the highest. Actually, the psychology of man is absolutely different from this law, which is a
+               <lb facs="#facs_189_tr_2_tl_20" n="N020"/>mere abstraction and can be used for mathematical equations as they appear in economics today.
             </p>
             
         </div>

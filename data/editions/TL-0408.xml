@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -67,20 +67,10 @@
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_16">
          <graphic url="TL-0408.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=HIJMVRCICFHFXTWIHMMQFPVW&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="313,445 2128,445 2128,690 313,690" rendition="TextRegion" xml:id="facs_16_tr_1">
-            <zone points="986,531 1981,513 1981,472 1868,454 987,483" rendition="Line" xml:id="facs_16_tr_1_tl_1"/>
-            <zone points="2011,523 2031,523 2040,514 2087,514 2096,523 2107,519 2125,524 2127,443 2105,443 2080,468 2071,467 2062,475 2038,467 2030,458 2012,460" rendition="Line" xml:id="facs_16_tr_1_tl_2"/>
-            <zone points="315,536 543,523 654,532 656,489 619,478 609,488 543,492 531,479 519,490 499,480 427,493 412,479 380,497 364,480 338,480 317,495" rendition="Line" xml:id="facs_16_tr_1_tl_3"/>
-            <zone points="936,577 1060,577 1060,564 936,564" rendition="Line" xml:id="facs_16_tr_1_tl_4"/>
-            <zone points="631,682 1510,676 1594,668 1595,623 632,642" rendition="Line" xml:id="facs_16_tr_1_tl_5"/>
-            <zone points="307,683 363,678 377,692 400,682 459,679 470,691 581,683 582,641 429,638 419,648 370,647 325,644 308,633" rendition="Line" xml:id="facs_16_tr_1_tl_6"/>
-         </zone>
-         <zone points="202,3392 1043,3392 1043,3488 202,3488" rendition="TextRegion" xml:id="facs_16_tr_2">
-            <zone points="195,3443 218,3452 224,3446 241,3451 252,3441 280,3466 325,3446 342,3460 370,3448 382,3450 379,3365 355,3363 340,3372 293,3372 234,3361 193,3367" rendition="Line" xml:id="facs_16_tr_2_tl_1"/>
-            <zone points="524,3451 542,3452 553,3443 567,3458 577,3458 594,3441 607,3450 636,3456 637,3405 576,3408 568,3403 559,3406 553,3403 526,3410" rendition="Line" xml:id="facs_16_tr_2_tl_2"/>
-            <zone points="957,3442 985,3443 988,3447 997,3443 1000,3446 1004,3442 1027,3465 1040,3467 1039,3425 1026,3423 1012,3411 978,3411 956,3416" rendition="Line" xml:id="facs_16_tr_2_tl_3"/>
-            <zone points="196,3476 208,3475 215,3482 224,3482 230,3476 249,3477 254,3482 265,3482 270,3477 279,3482 302,3482 302,3460 282,3467 264,3451 243,3448 233,3451 218,3442 209,3441 195,3445" rendition="Line" xml:id="facs_16_tr_2_tl_4"/>
-            <zone points="524,3480 566,3482 577,3477 582,3482 609,3482 614,3477 632,3477 631,3451 609,3450 601,3458 586,3457 581,3463 567,3458 553,3446 544,3447 541,3451 523,3452" rendition="Line" xml:id="facs_16_tr_2_tl_5"/>
+         <zone points="253,254 2291,254 2291,765 253,765" rendition="TextRegion" xml:id="facs_16_r">
+            <zone points="1128,388 1272,393 1273,363 1129,358" rendition="Line" xml:id="facs_16_l"/>
+            <zone points="286,550 2147,522 2147,492 285,520" rendition="Line" xml:id="facs_16_l_18"/>
+            <zone points="301,697 1639,679 1638,649 300,667" rendition="Line" xml:id="facs_16_l_25"/>
          </zone>
       </surface>
       
@@ -90,20 +80,10 @@
         <div>
             <pb facs="#TL-0408.jpg" n="part3_p016.jpg" xml:id="img_0016" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p016.jpg"/>
             
-            <p facs="#facs_16_tr_1">
-               <lb facs="#facs_16_tr_1_tl_1" n="N001"/>sses unconsciously, as a too! to preserve it. This is
-               <lb facs="#facs_16_tr_1_tl_2" n="N002"/>[ task]
-               <lb facs="#facs_16_tr_1_tl_3" n="N003"/>of industrial societ
-               <lb facs="#facs_16_tr_1_tl_4" n="N004"/>(V.3.) og Kosten.
-               <lb facs="#facs_16_tr_1_tl_5" n="N005"/>On. Our generation failed. Perhaps yours will not
-               <lb facs="#facs_16_tr_1_tl_6" n="N006"/>for your gener.
-            </p>
-            <p facs="#facs_16_tr_2">
-               <lb facs="#facs_16_tr_2_tl_1" n="N001"/>mais je nʼai
-               <lb facs="#facs_16_tr_2_tl_2" n="N002"/>de lʼhonneur, et
-               <lb facs="#facs_16_tr_2_tl_3" n="N003"/>cʼest en
-               <lb facs="#facs_16_tr_2_tl_4" n="N004"/>dans une lettre
-               <lb facs="#facs_16_tr_2_tl_5" n="N005"/>Vous avez
+            <p facs="#facs_16_r">
+               <lb facs="#facs_16_l" n="N001"/>[403]
+               <lb facs="#facs_16_l_18" n="N002"/>of industrial society, and by the masses unconsciously, as a tool to preserve it. This is a [task] 
+               <lb facs="#facs_16_l_25" n="N003"/>for your generation. Our generation failed. Perhaps yours will not.
             </p>
             
         </div>

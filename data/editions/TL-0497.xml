@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVII (Nr. 0497)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p023</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-15">1956-03-15</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_23">
+         <graphic url="TL-0497.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CSEWKBNGWEORJMZSAGTHCQKG&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="352,275 2215,275 2215,1114 352,1114" rendition="TextRegion" xml:id="facs_23_tr_2">
+            <zone points="1083,334 1101,334 1111,341 1187,341 1192,336 1203,336 1203,276 1169,281 1155,269 1143,269 1120,294 1083,297" rendition="Line" xml:id="facs_23_tr_2_tl_1"/>
+            <zone points="339,499 2182,501 2184,397 339,438" rendition="Line" xml:id="facs_23_tr_2_tl_2"/>
+            <zone points="345,659 2117,621 2119,566 345,603" rendition="Line" xml:id="facs_23_tr_2_tl_3"/>
+            <zone points="348,816 2163,774 2212,714 350,763" rendition="Line" xml:id="facs_23_tr_2_tl_4"/>
+            <zone points="341,960 2105,925 2133,867 343,911" rendition="Line" xml:id="facs_23_tr_2_tl_5"/>
+            <zone points="345,1111 1484,1085 1486,1032 345,1060" rendition="Line" xml:id="facs_23_tr_2_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0497.jpg" n="part4_p023.jpg" xml:id="img_0023" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p023.jpg"/>
+            
+            <p facs="#facs_23_tr_2">
+               <lb facs="#facs_23_tr_2_tl_1" n="N001"/>[492]
+               <lb facs="#facs_23_tr_2_tl_2" n="N002"/>However the concrete symbols are which are used for the training of ministers---this is not the
+               <lb facs="#facs_23_tr_2_tl_3" n="N003"/>decisive thing---they cannot be imposed on the university as a whole in ANY way. But the
+               <lb facs="#facs_23_tr_2_tl_4" n="N004"/>pointing to the symbols as such, their being under discussion and criticism, is something which
+               <lb facs="#facs_23_tr_2_tl_5" n="N005"/>points that the university also, in all its functions, is human and therefore MUST answer in
+               <lb facs="#facs_23_tr_2_tl_6" n="N006"/>symbols the question of the meaning of human existence.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

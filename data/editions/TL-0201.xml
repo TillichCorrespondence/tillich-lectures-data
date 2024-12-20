@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_201">
          <graphic url="TL-0201.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=TLDTJAPMDJXYVCRCCMGZTXTD&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TLDTJAPMDJXYVCRCCMGZTXTD&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="41,213 41,3478 2307,3478 2307,213" rendition="TextRegion" xml:id="facs_201_tr_1">
             <zone points="1080,267 1108,272 1116,280 1208,272 1211,223 1185,226 1159,208 1149,213 1139,208 1116,231 1082,228" rendition="Line" xml:id="facs_201_tr_1_tl_1"/>
             <zone points="241,410 1439,392 1654,451 2303,380 2303,336 2144,323 241,374" rendition="Line" xml:id="facs_201_tr_1_tl_2"/>
@@ -98,17 +98,17 @@
             
             <p facs="#facs_201_tr_1">
                <lb facs="#facs_201_tr_1_tl_1" n="N001"/>[197]
-               <lb facs="#facs_201_tr_1_tl_2" n="N002"/>questions are meaningful---as for instance <rs type="person">Carnap</rs> in <rs type="place">Chicago</rs> does, when he criticized <rs type="person">Heidegger</rs> because
+               <lb facs="#facs_201_tr_1_tl_2" n="N002"/>questions are meaningful---as for instance <rs type="person" ref="#tillich_person_id__361">Carnap</rs> in <rs type="place">Chicago</rs> does, when he criticized <rs type="person" ref="#tillich_person_id__841">Heidegger</rs> because
                <lb facs="#facs_201_tr_1_tl_3" n="N003"/>of his use of the concept of being---then we are exactly in the discussions with another name, and
-               <lb facs="#facs_201_tr_1_tl_4" n="N004"/>other ways, of <rs type="person">Plato</rs> or <rs type="person">Aristotle,</rs> or of the <rs type="person">Augustinians </rs>of the old school (<rs type="person">Bonaventura</rs>) and the
-               <lb facs="#facs_201_tr_1_tl_5" n="N005"/>Augustinians of the later school (<rs type="person">Ockham</rs>).
+               <lb facs="#facs_201_tr_1_tl_4" n="N004"/>other ways, of <rs type="person" ref="#tillich_person_id__1510">Plato</rs> or <rs type="person" ref="#tillich_person_id__80">Aristotle,</rs> or of the <rs type="person" ref="#tillich_person_id__100">Augustinians </rs>of the old school (<rs type="person" ref="#tillich_person_id__249">Bonaventura</rs>) and the
+               <lb facs="#facs_201_tr_1_tl_5" n="N005"/>Augustinians of the later school (<rs type="person" ref="#tillich_person_id__2074">Ockham</rs>).
                <lb facs="#facs_201_tr_1_tl_6" n="N006"/>Now this discussion isnot [sic.] a play of <rs type="keyword" ref="#Concept">concepts</rs> and is not only a matter of arguments in the
-               <lb facs="#facs_201_tr_1_tl_7" n="N007"/>realm of philosophical analysis, but behind it is also an <ultimate_concern>ultimate concern,</ultimate_concern> and from the point of view
+               <lb facs="#facs_201_tr_1_tl_7" n="N007"/>realm of philosophical analysis, but behind it is also an <ultimate_concern>ultimate concern</ultimate_concern>, and from the point of view
                <lb facs="#facs_201_tr_1_tl_8" n="N008"/>of this lecture, where l am not supposed to go into this discussion as my real subject, l have to do
                <lb facs="#facs_201_tr_1_tl_9" n="N009"/>at least ONE thing: one must try to show that in this discussion, philosophical arguments and
-               <lb facs="#facs_201_tr_1_tl_10" n="N010"/>expressions of <ultimate_concern>ultimate concern</ultimate_concern> are always mixed with each other, and that it is important for every
+               <lb facs="#facs_201_tr_1_tl_10" n="N010"/>expressions of ultimate concern are always mixed with each other, and that it is important for every
                <lb facs="#facs_201_tr_1_tl_11" n="N011"/>discussion (and especially every discussion about the relationship of religion to these problems)
-               <lb facs="#facs_201_tr_1_tl_12" n="N012"/>to distinguish the philosophical arguments from the expression of <ultimate_concern>ultimate concern.</ultimate_concern>
+               <lb facs="#facs_201_tr_1_tl_12" n="N012"/>to distinguish the philosophical arguments from the expression of ultimate concern.
                <lb facs="#facs_201_tr_1_tl_13" n="N013"/>Now take the philosophical argument against extreme positivism. Extreme positivism
                <lb facs="#facs_201_tr_1_tl_14" n="N014"/>is finally pushed into that corner which was daringly expressed in the second part of this century
                <lb facs="#facs_201_tr_1_tl_15" n="N015"/>by a movement called, in German, <rs type="keyword" ref="#Dadaism">"dadaism"-</rs>-the word <hi style="font-style: italic;">da-da</hi> means "there, there"---"there-there-ism,"

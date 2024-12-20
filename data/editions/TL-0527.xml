@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXIX (Nr. 0527)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p053</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-22">1956-03-22</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_53">
+         <graphic url="TL-0527.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DLJJIOCFOGDMBQKJYLIUWUHH&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="256,9 2325,9 2325,1392 256,1392" rendition="TextRegion" xml:id="facs_53_tr_2">
+            <zone points="1133,324 1146,324 1156,334 1254,331 1254,267 1215,270 1192,257 1166,283 1133,283" rendition="Line" xml:id="facs_53_tr_2_tl_2"/>
+            <zone points="254,473 1456,483 1544,550 2199,488 2199,442 1906,411 254,442" rendition="Line" xml:id="facs_53_tr_2_tl_3"/>
+            <zone points="257,632 2302,637 2322,583 257,599" rendition="Line" xml:id="facs_53_tr_2_tl_4"/>
+            <zone points="259,783 2273,796 2273,735 259,732" rendition="Line" xml:id="facs_53_tr_2_tl_5"/>
+            <zone points="247,930 2268,938 2268,889 247,886" rendition="Line" xml:id="facs_53_tr_2_tl_6"/>
+            <zone points="241,1079 1824,1125 2289,1084 2289,1038 241,1056" rendition="Line" xml:id="facs_53_tr_2_tl_7"/>
+            <zone points="254,1246 2232,1238 2232,1182 254,1192" rendition="Line" xml:id="facs_53_tr_2_tl_8"/>
+            <zone points="241,1405 319,1446 419,1410 899,1415 932,1395 932,1341 498,1328 313,1346 290,1328 241,1356" rendition="Line" xml:id="facs_53_tr_2_tl_9"/>
+         </zone>
+         <zone points="250,1472 2313,1472 2313,2311 250,2311" rendition="TextRegion" xml:id="facs_53_tr_3">
+            <zone points="442,1582 755,1536 2227,1541 2227,1474 442,1482" rendition="Line" xml:id="facs_53_tr_3_tl_1" subtype="paragraph"/>
+            <zone points="254,1711 2307,1731 2307,1634 254,1626" rendition="Line" xml:id="facs_53_tr_3_tl_2"/>
+            <zone points="236,1834 2083,1847 2086,1796 239,1798" rendition="Line" xml:id="facs_53_tr_3_tl_3"/>
+            <zone points="247,1973 1801,1986 1675,1934 247,1942" rendition="Line" xml:id="facs_53_tr_3_tl_5"/>
+            <zone points="236,2147 2091,2147 2160,2142 2163,2083 239,2096" rendition="Line" xml:id="facs_53_tr_3_tl_7"/>
+            <zone points="241,2294 1521,2289 1808,2374 2106,2371 2106,2253 241,2237" rendition="Line" xml:id="facs_53_tr_3_tl_8"/>
+         </zone>
+         <zone points="23,2398 2328,2398 2328,3479 23,3479" rendition="TextRegion" xml:id="facs_53_tr_1">
+            <zone points="229,2456 2178,2469 2255,2461 2255,2402 229,2430" rendition="Line" xml:id="facs_53_tr_1_tl_1"/>
+            <zone points="223,2602 1991,2615 2225,2605 2225,2556 223,2579" rendition="Line" xml:id="facs_53_tr_1_tl_2"/>
+            <zone points="226,2754 1993,2764 2150,2756 2150,2707 226,2710" rendition="Line" xml:id="facs_53_tr_1_tl_3"/>
+            <zone points="229,2913 1767,2918 1998,2905 1998,2854 229,2877" rendition="Line" xml:id="facs_53_tr_1_tl_4"/>
+            <zone points="223,3065 2271,3070 2271,3005 223,3016" rendition="Line" xml:id="facs_53_tr_1_tl_5"/>
+            <zone points="221,3216 1300,3283 2086,3242 2086,3178 221,3188" rendition="Line" xml:id="facs_53_tr_1_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0527.jpg" n="part4_p053.jpg" xml:id="img_0053" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p053.jpg"/>
+            
+            <p facs="#facs_53_tr_2">
+               <lb facs="#facs_53_tr_2_tl_2" n="N001"/>[522]
+               <lb facs="#facs_53_tr_2_tl_3" n="N002"/>naturalism, affirms what he denies and denies what he affirms. And this is necessarily so. One can
+               <lb facs="#facs_53_tr_2_tl_4" n="N003"/>derive the normative structures of man as man from things which are LESS than man as man. And that's
+               <lb facs="#facs_53_tr_2_tl_5" n="N004"/>what Kant meant with the categorical imperative. Therefore he didn't deny not only a tyrranical God,
+               <lb facs="#facs_53_tr_2_tl_6" n="N005"/>but also psychological motives [such] as fear, as authority---which is not under criticism---and all those
+               <lb facs="#facs_53_tr_2_tl_7" n="N006"/>motives which can be brought into consideration. They all produce heteronomy. The person as person
+               <lb facs="#facs_53_tr_2_tl_8" n="N007"/>cannot affirm himself in its autonomous integrity and validity if he doesn't accept the unconditional
+               <lb facs="#facs_53_tr_2_tl_9" n="N008"/>character of the moral imperative.
+            </p>
+            <p facs="#facs_53_tr_3">
+               <lb facs="#facs_53_tr_3_tl_1" n="N001"/>Now I hope only one thing, that after I repeated this about twenty times during this hour,
+               <lb facs="#facs_53_tr_3_tl_2" n="N002"/>you do NOT confuse, from now on, the unconditional character of the moral imperative with the uncon-
+               <lb facs="#facs_53_tr_3_tl_3" n="N003"/>ditional character OF ANY SPECIAL CONTENT. Please don't do this mistake and then say,
+               <lb facs="#facs_53_tr_3_tl_5" n="N004"/>"Now for the primitives of South America, or somewhere in the desert, there, murder (or something
+               <lb facs="#facs_53_tr_3_tl_7" n="N005"/>like that) is a very much praised deed." This is not the point which I make here. I ACCEPT that,
+               <lb facs="#facs_53_tr_3_tl_8" n="N006"/>with scientific limitations, to which I may come later, but in any case this relativism is a reality
+            </p>
+            <p facs="#facs_53_tr_1">
+               <lb facs="#facs_53_tr_1_tl_1" n="N001"/>and is a reality which one feels even more, perhaps, when one comes from another culture (as I myself
+               <lb facs="#facs_53_tr_1_tl_2" n="N002"/>do), the European and the American. In spite of their relatedness, there are fundamental differences
+               <lb facs="#facs_53_tr_1_tl_3" n="N003"/>in the ethical contents, which one notices if one has the boundary line situation of having been a
+               <lb facs="#facs_53_tr_1_tl_4" n="N004"/>refugee once upon a time. So I don't need to be TAUGHT this, with the help of all the
+               <lb facs="#facs_53_tr_1_tl_5" n="N005"/>primitives of the world. <hi style="font-style: italic;">[laughter]</hi> It is already given in the relationship of Americans and Europeans,
+               <lb facs="#facs_53_tr_1_tl_6" n="N006"/>who are only PARTLY primitives! <hi style="font-style: italic;">[smiling --- laughter]</hi> But it is a quite different point.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

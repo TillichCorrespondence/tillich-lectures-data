@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXIX (Nr. 0524)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p050</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-22">1956-03-22</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_50">
+         <graphic url="TL-0524.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ETLVRRYAAGDWCEZSYXKCLGDF&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="56,36 2191,36 2191,980 56,980" rendition="TextRegion" xml:id="facs_50_tr_3">
+            <zone points="1116,363 1129,363 1140,373 1235,370 1237,301 1214,304 1194,322 1183,322 1178,314 1119,314" rendition="Line" xml:id="facs_50_tr_3_tl_2"/>
+            <zone points="242,520 2184,517 2184,440 1078,478 996,396 895,481 242,481" rendition="Line" xml:id="facs_50_tr_3_tl_3"/>
+            <zone points="247,677 1958,671 2019,617 247,623" rendition="Line" xml:id="facs_50_tr_3_tl_4"/>
+            <zone points="239,828 1297,815 1482,900 1659,839 2122,851 2122,751 239,795" rendition="Line" xml:id="facs_50_tr_3_tl_5"/>
+            <zone points="237,975 512,1029 2145,1006 2145,921 237,926" rendition="Line" xml:id="facs_50_tr_3_tl_6"/>
+         </zone>
+         <zone points="44,1060 2251,1060 2251,2490 44,2490" rendition="TextRegion" xml:id="facs_50_tr_2">
+            <zone points="237,1181 2156,1158 2156,1070 237,1078" rendition="Line" xml:id="facs_50_tr_2_tl_1"/>
+            <zone points="229,1304 1145,1315 1145,1214 1014,1235 373,1217 229,1245" rendition="Line" xml:id="facs_50_tr_2_tl_2"/>
+            <zone points="430,1425 2140,1430 2140,1366 430,1371" rendition="Line" xml:id="facs_50_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="221,1608 1477,1574 1824,1634 1886,1572 2143,1598 2194,1518 224,1510" rendition="Line" xml:id="facs_50_tr_2_tl_4"/>
+            <zone points="226,1765 1001,1760 1196,1824 1461,1760 2194,1765 2194,1677 1374,1677 1248,1577 1021,1680 226,1685" rendition="Line" xml:id="facs_50_tr_2_tl_6"/>
+            <zone points="234,1878 2120,1886 2241,1878 2241,1824 234,1826" rendition="Line" xml:id="facs_50_tr_2_tl_7"/>
+            <zone points="219,2025 2133,2037 2133,1976 219,1999" rendition="Line" xml:id="facs_50_tr_2_tl_8"/>
+            <zone points="224,2194 2055,2189 2125,2125 224,2151" rendition="Line" xml:id="facs_50_tr_2_tl_9"/>
+            <zone points="219,2328 2215,2341 2248,2279 219,2302" rendition="Line" xml:id="facs_50_tr_2_tl_10"/>
+            <zone points="221,2482 1417,2488 1441,2431 221,2454" rendition="Line" xml:id="facs_50_tr_2_tl_11"/>
+         </zone>
+         <zone points="150,2565 2283,2565 2283,3482 150,3482" rendition="TextRegion" xml:id="facs_50_tr_1">
+            <zone points="414,2629 2022,2632 2104,2627 2104,2565 414,2603" rendition="Line" xml:id="facs_50_tr_1_tl_1" subtype="paragraph"/>
+            <zone points="617,2822 2197,2789 2197,2729 617,2740" rendition="Line" xml:id="facs_50_tr_1_tl_2"/>
+            <zone points="219,2938 2061,2935 2199,2928 2202,2873 221,2889" rendition="Line" xml:id="facs_50_tr_1_tl_4"/>
+            <zone points="211,3092 671,3138 2199,3092 2279,3084 2279,3025 211,3069" rendition="Line" xml:id="facs_50_tr_1_tl_5"/>
+            <zone points="214,3249 262,3270 481,3259 723,3272 805,3301 913,3293 911,3234 749,3218 728,3241 674,3210 296,3195 211,3221" rendition="Line" xml:id="facs_50_tr_1_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0524.jpg" n="part4_p050.jpg" xml:id="img_0050" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p050.jpg"/>
+            
+            <p facs="#facs_50_tr_3">
+               <lb facs="#facs_50_tr_3_tl_2" n="N001"/>[519]
+               <lb facs="#facs_50_tr_3_tl_3" n="N002"/>comes from the Creator-God, something arbitrary and not identical with the GOOD creation itself.
+               <lb facs="#facs_50_tr_3_tl_4" n="N003"/>Now I cannot go into the history of dogma here, but we shouldn't go in an interest which
+               <lb facs="#facs_50_tr_3_tl_5" n="N004"/>sometimes appears in radical Protestantism [such] as that of the whole Barthian Neo-Orthodox
+               <lb facs="#facs_50_tr_3_tl_6" n="N005"/>school. We shouldn't, in this interest, make God a tyrant, His law heteronomous, because that
+            </p>
+            <p facs="#facs_50_tr_2">
+               <lb facs="#facs_50_tr_2_tl_1" n="N001"/>only would have the consequence that we have to resist Him and to look for a God who is greater
+               <lb facs="#facs_50_tr_2_tl_2" n="N002"/>than this God, as Marcion and his friends did.
+               <lb facs="#facs_50_tr_2_tl_3" n="N003"/>Now if this is clear, then we can go on and say: there is no OTHER external authority
+               <lb facs="#facs_50_tr_2_tl_4" n="N004"/>behind the categorical---or let me preliminarily call it the moral---imperative, either. That which has
+               <lb facs="#facs_50_tr_2_tl_6" n="N005"/>replaced God, in modern positivistic thinking, is society: the moral imperative comes from society.
+               <lb facs="#facs_50_tr_2_tl_7" n="N006"/>The profoundest form, I think, in which this has been done is done by Friedrich Nietzsche who, in his
+               <lb facs="#facs_50_tr_2_tl_8" n="N007"/>description of the genesis of conscience, describes it as the internalization of the rules of a ruling
+               <lb facs="#facs_50_tr_2_tl_9" n="N008"/>class, which can maintain its rule only if the laws are not forced from outside only, but also put
+               <lb facs="#facs_50_tr_2_tl_10" n="N009"/>into the internal situation, into the internal feeling of man, made a matter of conscience of everybody,
+               <lb facs="#facs_50_tr_2_tl_11" n="N010"/>which even works if the policeman is around the next corner.
+            </p>
+            <p facs="#facs_50_tr_1">
+               <lb facs="#facs_50_tr_1_tl_1" n="N001"/>Now this is the main point of this theory, which tries to show that the experience of
+               <lb facs="#facs_50_tr_1_tl_2" n="N002"/>the moral imperative ("you SHALL, though OUGHTEST, to do this!") is the result of an
+               <lb facs="#facs_50_tr_1_tl_4" n="N003"/>internalized policeman, the policeman in ourselves. But this policeman in ourselves is a product of a
+               <lb facs="#facs_50_tr_1_tl_5" n="N004"/>ruling group which cleverly realized that its control of society is safe ONLY if ITS interests are affirmed
+               <lb facs="#facs_50_tr_1_tl_6" n="N005"/>by the conscience of the subjects.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

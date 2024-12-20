@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXII (Nr. 0420)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p028</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-06">1956-03-06</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_28">
+         <graphic url="TL-0420.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ICRPRVREVLOGAHISXSFZOVSS&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="280,269 2322,269 2322,1246 280,1246" rendition="TextRegion" xml:id="facs_28_tr_2">
+            <zone points="1116,321 1129,321 1143,334 1193,334 1208,342 1219,342 1227,334 1245,334 1245,261 1208,263 1195,255 1179,271 1116,271" rendition="Line" xml:id="facs_28_tr_2_tl_1"/>
+            <zone points="266,479 1311,526 1493,476 2106,492 2109,432 1353,395 1285,440 269,442" rendition="Line" xml:id="facs_28_tr_2_tl_2"/>
+            <zone points="271,634 2172,645 2317,634 2317,571 271,603" rendition="Line" xml:id="facs_28_tr_2_tl_3"/>
+            <zone points="269,787 2306,782 2306,729 269,734" rendition="Line" xml:id="facs_28_tr_2_tl_4"/>
+            <zone points="271,935 1487,942 1506,879 271,887" rendition="Line" xml:id="facs_28_tr_2_tl_5"/>
+            <zone points="469,1085 2024,1092 2027,1024 471,1035" rendition="Line" xml:id="facs_28_tr_2_tl_6" subtype="paragraph"/>
+            <zone points="271,1243 1888,1250 2117,1229 2117,1171 271,1211" rendition="Line" xml:id="facs_28_tr_2_tl_7"/>
+         </zone>
+         <zone points="23,1323 2382,1323 2382,3488 23,3488" rendition="TextRegion" xml:id="facs_28_tr_1">
+            <zone points="271,1395 1988,1398 2024,1319 271,1348" rendition="Line" xml:id="facs_28_tr_1_tl_1"/>
+            <zone points="269,1548 1888,1551 2209,1535 2211,1479 269,1514" rendition="Line" xml:id="facs_28_tr_1_tl_2"/>
+            <zone points="269,1693 2074,1685 2093,1630 271,1648" rendition="Line" xml:id="facs_28_tr_1_tl_3"/>
+            <zone points="266,1848 2164,1837 2167,1780 266,1816" rendition="Line" xml:id="facs_28_tr_1_tl_4"/>
+            <zone points="269,2003 1211,2006 1227,1943 792,1938 519,1969 269,1948" rendition="Line" xml:id="facs_28_tr_1_tl_5"/>
+            <zone points="466,2145 2238,2135 2261,2069 466,2090" rendition="Line" xml:id="facs_28_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="263,2301 2185,2296 2375,2288 2375,2240 263,2272" rendition="Line" xml:id="facs_28_tr_1_tl_7"/>
+            <zone points="271,2453 2235,2443 2235,2385 271,2396" rendition="Line" xml:id="facs_28_tr_1_tl_8"/>
+            <zone points="261,2596 2182,2593 2261,2590 2261,2532 261,2569" rendition="Line" xml:id="facs_28_tr_1_tl_9"/>
+            <zone points="261,2748 1161,2751 1208,2748 1208,2696 261,2706" rendition="Line" xml:id="facs_28_tr_1_tl_12"/>
+            <zone points="261,2906 1988,2896 1953,2843 263,2862" rendition="Line" xml:id="facs_28_tr_1_tl_13"/>
+            <zone points="463,3062 2161,3046 2161,2991 466,3009" rendition="Line" xml:id="facs_28_tr_1_tl_14" subtype="paragraph"/>
+            <zone points="266,3222 2253,3206 2256,3141 266,3164" rendition="Line" xml:id="facs_28_tr_1_tl_15"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0420.jpg" n="part3_p028.jpg" xml:id="img_0028" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p028.jpg"/>
+            
+            <p facs="#facs_28_tr_2">
+               <lb facs="#facs_28_tr_2_tl_1" n="N001"/>[415]
+               <lb facs="#facs_28_tr_2_tl_2" n="N002"/>but in terms of these comparatively few institutions which in Germany are called <hi style="font-style: italic;">Gymnasia</hi>,
+               <lb facs="#facs_28_tr_2_tl_3" n="N003"/>and where, for nine years, you have every week at least four to six hours Latin and equally many Greek.
+               <lb facs="#facs_28_tr_2_tl_4" n="N004"/>Now on this basis you are able to develop that ideal of full humanity of which the Renaissance believed
+               <lb facs="#facs_28_tr_2_tl_5" n="N005"/>that the Greeks and Romans had developed it in a unique way.
+               <lb facs="#facs_28_tr_2_tl_6" n="N006"/>But not only the pupils coming from the Gymnasia had a feeling of emptiness,
+               <lb facs="#facs_28_tr_2_tl_7" n="N007"/>of irresponsibility, by taking in these materials without having them really related to their
+            </p>
+            <p facs="#facs_28_tr_1">
+               <lb facs="#facs_28_tr_1_tl_1" n="N001"/>actual life; but it was also in the public school, the LACK OF MEANING in this kind of
+               <lb facs="#facs_28_tr_1_tl_2" n="N002"/>education-to-skills. The little meaning given by patriotic songs and others, which you could use or
+               <lb facs="#facs_28_tr_1_tl_3" n="N003"/>did not use--that didn't matter--didn’t give a content of life. And the churches were almost
+               <lb facs="#facs_28_tr_1_tl_4" n="N004"/>non-existent for the masses of PEOPLE in Europe--i.e. Central Europe, not England, in all these
+               <lb facs="#facs_28_tr_1_tl_5" n="N005"/>discussions, except when I mention it especially.
+               <lb facs="#facs_28_tr_1_tl_6" n="N006"/>Now in this situation the totalitarian MOVEMENTS suddenly came before the totalitarian
+               <lb facs="#facs_28_tr_1_tl_7" n="N007"/>governments come. And these were largely youth movements, movements in which the younger generation
+               <lb facs="#facs_28_tr_1_tl_8" n="N008"/>wanted to find a demanding unconditional meaning of life to which they would subject themselves,
+               <lb facs="#facs_28_tr_1_tl_9" n="N009"/>which imposed heavy duties upon them, and that's what they wanted to have in opposition to liberal
+               <lb facs="#facs_28_tr_1_tl_12" n="N010"/>democracy, which in Germany was much more liberal than in this country and which gave no contents
+               <lb facs="#facs_28_tr_1_tl_13" n="N011"/>whatsoever for the individual, so that he had to decide as an isolated individual person.
+               <lb facs="#facs_28_tr_1_tl_14" n="N012"/>Now this is the situation in which the third way became visible to all of us--and when
+               <lb facs="#facs_28_tr_1_tl_15" n="N013"/>I gave my lecture[s] (I think I did it twice) in Frankfurt on the Main, shortly before the Nazis came,
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

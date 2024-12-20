@@ -3,7 +3,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">preface (Nr. 0286)</title>
+            <title type="main">Preface II (Nr. 0286)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
          <graphic url="TL-0286.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=QQEZEKDNHGWVPKFDILCPQNMR&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QQEZEKDNHGWVPKFDILCPQNMR&amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="188,245 1865,245 1865,783 188,783" rendition="TextRegion" xml:id="facs_2_tr_2">
             <zone points="989,295 1002,295 1020,308 1035,311 1110,311 1107,254 1071,254 1066,259 1053,254 1038,254 1033,259 1025,254 1012,267 989,267" rendition="Line" xml:id="facs_2_tr_2_tl_1"/>
             <zone points="175,452 1731,437 1734,357 175,393" rendition="Line" xml:id="facs_2_tr_2_tl_2"/>
@@ -126,50 +126,50 @@
             <p facs="#facs_2_tr_2">
                <lb facs="#facs_2_tr_2_tl_1" n="N001"/>[282]
                <lb facs="#facs_2_tr_2_tl_2" n="N002"/>10. Religion and the University. (The possible function of a theological faculty)
-               <lb facs="#facs_2_tr_2_tl_3" n="N003"/>*Moberly, Sir W. THE CRISIS IN THE UNIVERSITY
-               <lb facs="#facs_2_tr_2_tl_5" n="N004"/>Nash, A. THE UNIVERSITY AND THE MODERN WORLD
+               <lb facs="#facs_2_tr_2_tl_3" n="N003"/>*<rs type="person" ref="#tillich_person_id__1334">Moberly, Sir W. </rs>THE CRISIS IN THE UNIVERSITY
+               <lb facs="#facs_2_tr_2_tl_5" n="N004"/><rs type="person" ref="#tillich_person_id__1375">Nash, A.</rs> THE UNIVERSITY AND THE MODERN WORLD
                <lb facs="#facs_2_tr_2_tl_7" n="N005"/>RELIGIOUS PERSPECTIVES IN COLLEGE TEACHING
-               <lb facs="#facs_2_tr_2_tl_8" n="N006"/>Jaspers, K. THE IDEA OF THE UNIVERSITY
-               <lb facs="#facs_2_tr_2_tl_10" n="N007"/>*Thomas, G. RELIGION IN AN AGE OF SECULARISM
+               <lb facs="#facs_2_tr_2_tl_8" n="N006"/><rs type="person" ref="#tillich_person_id__972">Jaspers, K.</rs> THE IDEA OF THE UNIVERSITY
+               <lb facs="#facs_2_tr_2_tl_10" n="N007"/>*<rs type="person" ref="#tillich_person_id__2999">Thomas, G.</rs> RELIGION IN AN AGE OF SECULARISM
             </p>
             <p facs="#facs_2_tr_1">
                <lb facs="#facs_2_tr_1_tl_1" n="N001"/>11. Religion and Ethics: General (Formal ethics). The source of the moral "ought" and the source
                <lb facs="#facs_2_tr_1_tl_2" n="N002"/>of the content. The unconditional character and the question of guilt.
                <lb facs="#facs_2_tr_1_tl_3" n="N003"/>12. Ethical relativism, love and kairos.
                <lb facs="#facs_2_tr_1_tl_4" n="N004"/>13. Ethics of being and ethics of law (ought to be)- (law, grace and depth psychology, demonic structure)
-               <lb facs="#facs_2_tr_1_tl_5" n="N005"/>*Tillich, P. "Ethics in a Changing World," in THE PROTESTANT ERA
-               <lb facs="#facs_2_tr_1_tl_7" n="N006"/>Ramsey, P. BASIC CHRISTIAN ETHICS
-               <lb facs="#facs_2_tr_1_tl_10" n="N007"/>*Bonhoeffer, D. ethics
-               <lb facs="#facs_2_tr_1_tl_11" n="N008"/>*Niebuhr, R. THE INTERPRETATION OF CHRISTIAN ETHICS
-               <lb facs="#facs_2_tr_1_tl_13" n="N009"/>*Tillich, P. LOVE, POWER AND JUSTICE
-               <lb facs="#facs_2_tr_1_tl_15" n="N010"/>*Kant, I. THE CRITIQUE OF PRACTICAL REASON
-               <lb facs="#facs_2_tr_1_tl_17" n="N011"/>*Nietzsche THE WILL TO POWER
-               <lb facs="#facs_2_tr_1_tl_19" n="N012"/>Menninger, K. LOVE AGAINST HATE
-               <lb facs="#facs_2_tr_1_tl_21" n="N013"/>*Tillich, P. THE COURAGE TO BE [possibly]
+               <lb facs="#facs_2_tr_1_tl_5" n="N005"/><rs type="person" ref="#tillich_person_id__1928">*Tillich, P. </rs>"Ethics in a Changing World," in THE PROTESTANT ERA
+               <lb facs="#facs_2_tr_1_tl_7" n="N006"/><rs type="person" ref="#tillich_person_id__3000">Ramsey, P. </rs>BASIC CHRISTIAN ETHICS
+               <lb facs="#facs_2_tr_1_tl_10" n="N007"/>*<rs type="person" ref="#tillich_person_id__250">Bonhoeffer, D.</rs> ethics
+               <lb facs="#facs_2_tr_1_tl_11" n="N008"/>*<rs type="person" ref="#tillich_person_id__1390">Niebuhr, R.</rs> THE INTERPRETATION OF CHRISTIAN ETHICS
+               <lb facs="#facs_2_tr_1_tl_13" n="N009"/>*<rs type="person" ref="#tillich_person_id__1928">Tillich, P. </rs>LOVE, POWER AND JUSTICE
+               <lb facs="#facs_2_tr_1_tl_15" n="N010"/>*<rs type="person" ref="#tillich_person_id__1020">Kant, I.</rs> THE CRITIQUE OF PRACTICAL REASON
+               <lb facs="#facs_2_tr_1_tl_17" n="N011"/><rs type="person" ref="#tillich_person_id__1394">*Nietzsche </rs>THE WILL TO POWER
+               <lb facs="#facs_2_tr_1_tl_19" n="N012"/><rs type="person" ref="#tillich_person_id__1309">Menninger, K.</rs> LOVE AGAINST HATE
+               <lb facs="#facs_2_tr_1_tl_21" n="N013"/><rs type="person" ref="#tillich_person_id__1928">*Tillich, P. </rs>THE COURAGE TO BE [possibly]
                <lb facs="#facs_2_tr_1_tl_23" n="N014"/>14. The ethical subject: The idea and the ideal of personality. (The autonomous and the theonomous
                <lb facs="#facs_2_tr_1_tl_24" n="N015"/>personality)
-               <lb facs="#facs_2_tr_1_tl_25" n="N016"/>*Jung, C. G. MODERN MAN IN SEARCH OF A SOUL
-               <lb facs="#facs_2_tr_1_tl_27" n="N017"/>May, R. MAN'S SEARCH FOR HIMSELF
-               <lb facs="#facs_2_tr_1_tl_29" n="N018"/>* Fromm, E. MAN FOR HIMSELF
-               <lb facs="#facs_2_tr_1_tl_31" n="N019"/>*Buber, M. I AND THOU
-               <lb facs="#facs_2_tr_1_tl_33" n="N020"/>Tillich "Psychotherapy and a Christian Interpretation of Human Nature," Rev. of Religion
+               <lb facs="#facs_2_tr_1_tl_25" n="N016"/><rs type="person" ref="#tillich_person_id__1006">*Jung, C. G. </rs>MODERN MAN IN SEARCH OF A SOUL
+               <lb facs="#facs_2_tr_1_tl_27" n="N017"/><rs type="person" ref="#tillich_person_id__1285">May, R. </rs>MAN'S SEARCH FOR HIMSELF
+               <lb facs="#facs_2_tr_1_tl_29" n="N018"/>*<rs type="person" ref="#tillich_person_id__647"> Fromm, E.</rs> MAN FOR HIMSELF
+               <lb facs="#facs_2_tr_1_tl_31" n="N019"/>*<rs type="person" ref="#tillich_person_id__306">Buber, M.</rs> I AND THOU
+               <lb facs="#facs_2_tr_1_tl_33" n="N020"/><rs type="person" ref="#tillich_person_id__1928">Tillich</rs> "Psychotherapy and a Christian Interpretation of Human Nature," Rev. of Religion
                <lb facs="#facs_2_tr_1_tl_35" n="N021"/>March 1943.
                <lb facs="#facs_2_tr_1_tl_37" n="N022"/>15. Community and collective. We-consciousness, conformity, patternization: The non-personal
                <lb facs="#facs_2_tr_1_tl_38" n="N023"/>character of the group (non-conformism).
-               <lb facs="#facs_2_tr_1_tl_39" n="N024"/>*Ortega y Gasset THE REVOLT OF THE MASSES
-               <lb facs="#facs_2_tr_1_tl_41" n="N025"/>Mumford, L. THE CULTURE OF CITIES
-               <lb facs="#facs_2_tr_1_tl_43" n="N026"/>*Riesman, D. THE LONELY CROWD
-               <lb facs="#facs_2_tr_1_tl_45" n="N027"/>Eliot, T. S. THE IDEA OF A CHRISTIAN SOCIETY
-               <lb facs="#facs_2_tr_1_tl_47" n="N028"/>Pope, L. RELIGION AND CLASS STRUCTURE
-               <lb facs="#facs_2_tr_1_tl_49" n="N029"/>*Schumpeter, I. IMPERIALISM AND SOCIAL CLASSES
+               <lb facs="#facs_2_tr_1_tl_39" n="N024"/>*<rs type="person" ref="#tillich_person_id__3001">Ortega y Gasset</rs> THE REVOLT OF THE MASSES
+               <lb facs="#facs_2_tr_1_tl_41" n="N025"/><rs type="person" ref="#tillich_person_id__2996">Mumford, L.</rs> THE CULTURE OF CITIES
+               <lb facs="#facs_2_tr_1_tl_43" n="N026"/>*<rs type="person" ref="#tillich_person_id__1606">Riesman, D. </rs>THE LONELY CROWD
+               <lb facs="#facs_2_tr_1_tl_45" n="N027"/><rs type="person" ref="#tillich_person_id__523">Eliot, T. S.</rs> THE IDEA OF A CHRISTIAN SOCIETY
+               <lb facs="#facs_2_tr_1_tl_47" n="N028"/><rs type="person" ref="#tillich_person_id__3002">Pope, L.</rs> RELIGION AND CLASS STRUCTURE
+               <lb facs="#facs_2_tr_1_tl_49" n="N029"/><rs type="person" ref="#tillich_person_id__3003">*Schumpeter, I</rs>. IMPERIALISM AND SOCIAL CLASSES
                <lb facs="#facs_2_tr_1_tl_51" n="N030"/>*World Council of Churches Symposium: MAN'S DISORDER &amp; GOD'S DESIGN -- chap. by
-               <lb facs="#facs_2_tr_1_tl_52" n="N031"/>P. Tillich, "The Disintegration of Society in Christian Countries"
+               <lb facs="#facs_2_tr_1_tl_52" n="N031"/><rs type="person" ref="#tillich_person_id__1928">P. Tillich,</rs> "The Disintegration of Society in Christian Countries"
                <lb facs="#facs_2_tr_1_tl_53" n="N032"/>16. Types of authority and the meaning of religious authority.
-               <lb facs="#facs_2_tr_1_tl_54" n="N033"/>*Schweitzer, A. CIVILIZATION AND ETHICS
-               <lb facs="#facs_2_tr_1_tl_56" n="N034"/>Fromm, E. ESCAPE FROM FREEDOM
-               <lb facs="#facs_2_tr_1_tl_58" n="N035"/>* Barth, K. THE WORD OF GOD AND THE WORD OF MAN
-               <lb facs="#facs_2_tr_1_tl_60" n="N036"/>*Berdyaev, N. FREEDOM AND SLAVERY
-               <lb facs="#facs_2_tr_1_tl_62" n="N037"/>*Loewe, A. THE PRICE OF LIBERTY
+               <lb facs="#facs_2_tr_1_tl_54" n="N033"/><rs type="person" ref="#tillich_person_id__1757">*Schweitzer, A. </rs>CIVILIZATION AND ETHICS
+               <lb facs="#facs_2_tr_1_tl_56" n="N034"/><rs type="person" ref="#tillich_person_id__647">Fromm, E. </rs>ESCAPE FROM FREEDOM
+               <lb facs="#facs_2_tr_1_tl_58" n="N035"/>*<rs type="person" ref="#tillich_person_id__137"> Barth, K.</rs> THE WORD OF GOD AND THE WORD OF MAN
+               <lb facs="#facs_2_tr_1_tl_60" n="N036"/><rs type="person" ref="#tillich_person_id__188">*Berdyaev, N.</rs> FREEDOM AND SLAVERY
+               <lb facs="#facs_2_tr_1_tl_62" n="N037"/>*<rs type="person" ref="#tillich_person_id__1209">Loewe, A.</rs> THE PRICE OF LIBERTY
             </p>
             
         </div>

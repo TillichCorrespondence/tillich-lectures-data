@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" subtype="first_page">Lecture XXXVII (Nr. 0481)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p007</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-15">1956-03-15</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_7">
+         <graphic url="TL-0481.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HCTIJGNPAMPZYAPIBBZZCUVY&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="319,287 2397,287 2397,2099 319,2099" rendition="TextRegion" xml:id="facs_7_tr_1">
+            <zone points="1116,340 1129,340 1160,358 1212,358 1222,350 1235,350 1235,288 1222,288 1212,298 1163,293 1150,301 1116,301" rendition="Line" xml:id="facs_7_tr_1_tl_1"/>
+            <zone points="317,503 1105,516 1144,509 1144,431 1069,431 1015,472 976,436 939,472 898,444 856,472 825,444 771,477 721,441 667,467 605,431 568,467 532,431 420,431 317,472" rendition="Line" xml:id="facs_7_tr_1_tl_2" subtype="heading"/>
+            <zone points="330,662 2367,662 2367,594 330,599" rendition="Line" xml:id="facs_7_tr_1_tl_3"/>
+            <zone points="392,807 2123,815 2141,755 392,773" rendition="Line" xml:id="facs_7_tr_1_tl_4"/>
+            <zone points="309,958 2390,965 2390,906 309,913" rendition="Line" xml:id="facs_7_tr_1_tl_5"/>
+            <zone points="314,1108 545,1157 1523,1157 1593,1113 2175,1168 2175,1056 314,1082" rendition="Line" xml:id="facs_7_tr_1_tl_6"/>
+            <zone points="311,1261 2136,1277 2250,1266 2250,1209 311,1238" rendition="Line" xml:id="facs_7_tr_1_tl_7"/>
+            <zone points="309,1409 2089,1430 2221,1422 2221,1360 309,1381" rendition="Line" xml:id="facs_7_tr_1_tl_8"/>
+            <zone points="314,1570 400,1570 410,1580 439,1580 457,1570 493,1575 545,1565 545,1536 524,1536 498,1510 431,1510 407,1534 376,1510 314,1510" rendition="Line" xml:id="facs_7_tr_1_tl_9"/>
+            <zone points="304,1715 1458,1731 1458,1645 1230,1679 304,1656" rendition="Line" xml:id="facs_7_tr_1_tl_10"/>
+            <zone points="558,1785 2050,1817 2050,1741 1944,1723 558,1744" rendition="Line" xml:id="facs_7_tr_1_tl_11" subtype="paragraph"/>
+            <zone points="309,1946 490,1993 2073,1941 2073,1889 1928,1879 311,1894" rendition="Line" xml:id="facs_7_tr_1_tl_12"/>
+            <zone points="304,2092 2182,2105 2182,2034 304,2063" rendition="Line" xml:id="facs_7_tr_1_tl_13"/>
+         </zone>
+         <zone points="17,2186 2364,2186 2364,3485 17,3485" rendition="TextRegion" xml:id="facs_7_tr_2">
+            <zone points="296,2239 379,2268 418,2245 1163,2250 1163,2195 1105,2177 996,2216 296,2198" rendition="Line" xml:id="facs_7_tr_2_tl_1"/>
+            <zone points="301,2395 2141,2406 2102,2333 301,2336" rendition="Line" xml:id="facs_7_tr_2_tl_2"/>
+            <zone points="301,2548 2182,2548 2182,2491 301,2517" rendition="Line" xml:id="facs_7_tr_2_tl_3"/>
+            <zone points="296,2704 2099,2701 2188,2694 2188,2639 296,2652" rendition="Line" xml:id="facs_7_tr_2_tl_5"/>
+            <zone points="298,2857 2001,2852 2022,2792 298,2805" rendition="Line" xml:id="facs_7_tr_2_tl_7"/>
+            <zone points="298,3002 2156,3000 2156,2945 298,2961" rendition="Line" xml:id="facs_7_tr_2_tl_8"/>
+            <zone points="291,3153 2092,3205 2294,3150 2294,3098 291,3124" rendition="Line" xml:id="facs_7_tr_2_tl_9"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0481.jpg" n="part4_p007.jpg" xml:id="img_0007" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p007.jpg"/>
+            
+            <p facs="#facs_7_tr_1">
+               <lb facs="#facs_7_tr_1_tl_1" n="N001"/>[476]
+               <lb facs="#facs_7_tr_1_tl_2" n="N002"/>LECTURE XXXVII, March 15, 1956
+               <lb facs="#facs_7_tr_1_tl_3" n="N003"/>QN: During the last lecture you mentioned that we have both "traditional" and "untraditional"
+               <lb facs="#facs_7_tr_1_tl_4" n="N004"/><rs type="keyword" ref="#Symbols">symbols</rs> to introduce to people. What do you mean by "untraditional symbols"?
+               <lb facs="#facs_7_tr_1_tl_5" n="N005"/>PT: I really don't know--I certainly don't know in which context I said that, and what it could
+               <lb facs="#facs_7_tr_1_tl_6" n="N006"/>mean--since symbols always come from a collective and therefore ALWAYS are carried
+               <lb facs="#facs_7_tr_1_tl_7" n="N007"/>somehow by traditional powers, and I wouldn't say here the phrase "introducing a symbol
+               <lb facs="#facs_7_tr_1_tl_8" n="N008"/>to people"; I would say "introducing people to symbols," which means that the symbols
+               <lb facs="#facs_7_tr_1_tl_9" n="N009"/>are given.
+               <lb facs="#facs_7_tr_1_tl_10" n="N010"/>SAME QN: [Questions submitted earlier, written.–Ed.]
+               <lb facs="#facs_7_tr_1_tl_11" n="N011"/>Though a person cannot perhaps CREATE his own <rs type="keyword" ref="#Symbols">symbols</rs>, isn't our
+               <lb facs="#facs_7_tr_1_tl_12" n="N012"/>culture in fact 'post-Christian' enough so that other symbols than those which are
+               <lb facs="#facs_7_tr_1_tl_13" n="N013"/>strictly Christian-in-content can, and MUST be used in order to bring one's 'total being'
+            </p>
+            <p facs="#facs_7_tr_2">
+               <lb facs="#facs_7_tr_2_tl_1" n="N001"/>into awareness of the mysteries of life?
+               <lb facs="#facs_7_tr_2_tl_2" n="N002"/>PT: Now that's a question shwere [sic.] I feel very much in agreement with the tendency
+               <lb facs="#facs_7_tr_2_tl_3" n="N003"/>of the question. Certainly there are developments of symbols which had a tremendous
+               <lb facs="#facs_7_tr_2_tl_5" n="N004"/>influence for centuries and which are not Christian. And "post-Christian" would indicate
+               <lb facs="#facs_7_tr_2_tl_7" n="N005"/>that Christianity cannot take them in, and therefore something completely new in
+               <lb facs="#facs_7_tr_2_tl_8" n="N006"/>comparison with 'Christian' is developing. This is a question of the future. I cannot
+               <lb facs="#facs_7_tr_2_tl_9" n="N007"/>answer it with Yes and No. But as a Christian theologian, I believe that Christianity is able
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

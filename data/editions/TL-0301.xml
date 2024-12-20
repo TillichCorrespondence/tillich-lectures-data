@@ -21,7 +21,7 @@
             </funder>
             <respStmt>
                <resp>Transkription und Annotation</resp>
-               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
             </respStmt>
             <respStmt>
                <resp>Transkription und Annotation</resp>
@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_17">
          <graphic url="TL-0301.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=NLUDIWPDGQHPCSZOFHVYQXPO&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NLUDIWPDGQHPCSZOFHVYQXPO&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="271,272 2286,272 2286,1246 271,1246" rendition="TextRegion" xml:id="facs_17_tr_2">
             <zone points="1147,331 1163,331 1173,341 1242,341 1250,333 1268,336 1273,268 1260,265 1218,276 1213,268 1205,270 1200,265 1163,297 1150,297" rendition="Line" xml:id="facs_17_tr_2_tl_1"/>
             <zone points="270,480 2210,501 2210,444 2118,420 270,420" rendition="Line" xml:id="facs_17_tr_2_tl_2"/>
@@ -100,7 +100,7 @@
             
             <p facs="#facs_17_tr_2">
                <lb facs="#facs_17_tr_2_tl_1" n="N001"/>[297]
-               <lb facs="#facs_17_tr_2_tl_2" n="N002"/>The world was split in[to] these two realms. Kant himself didn't feel able to overcome definitively
+               <lb facs="#facs_17_tr_2_tl_2" n="N002"/>The world was split in[to] these two realms. <rs type="person" ref="#tillich_person_id__1020">Kant</rs> himself didn't feel able to overcome definitively
                <lb facs="#facs_17_tr_2_tl_3" n="N003"/>this fundamental split, which expresses our whole situation in industrial society---I will return to this.
                <lb facs="#facs_17_tr_2_tl_4" n="N004"/>But he said there are at least possible ideas, postulates, which may indicate possible reconciliations.
                <lb facs="#facs_17_tr_2_tl_5" n="N005"/>The one is the organic matter: in organisms, in nature, there is an element of meaning in spite of
@@ -108,17 +108,17 @@
                <lb facs="#facs_17_tr_2_tl_8" n="N007"/>and 20th centuries, and we have it today in biology as the fight between those who approach biology
             </p>
             <p facs="#facs_17_tr_1">
-               <lb facs="#facs_17_tr_1_tl_1" n="N001"/>in terms of mechanical equations and those who approach it in terms of a gestalt biology and psychology---
+               <lb facs="#facs_17_tr_1_tl_1" n="N001"/>in terms of mechanical equations and those who approach it in terms of a <rs type="keyword" ref="#Gestalt">gestalt</rs> biology and psychology---
                <lb facs="#facs_17_tr_1_tl_3" n="N002"/><hi style="font-style: italic;">Gestalt</hi> = living structure, a living whole, but the word "gestalt" is usually in English also.
                <lb facs="#facs_17_tr_1_tl_5" n="N003"/>This is the one realm, in which mechanical necessity and ethical freedom and meaning are
-               <lb facs="#facs_17_tr_1_tl_6" n="N004"/>partly united. Kant didn't say they ARE; his criticism was much too cautious to make a dogmatic
+               <lb facs="#facs_17_tr_1_tl_6" n="N004"/>partly united.<rs type="person" ref="#tillich_person_id__1020"> Kant</rs> didn't say they ARE; his criticism was much too cautious to make a dogmatic
                <lb facs="#facs_17_tr_1_tl_7" n="N005"/>statement about it, but he says they can be considered AS IF they were a reconciliation.
-               <lb facs="#facs_17_tr_1_tl_8" n="N006"/>The other realm, in which he saw this reconciliation, was the artistic. In the artistic
+               <lb facs="#facs_17_tr_1_tl_8" n="N006"/>The other realm, in which he saw this reconciliation, was the <rs type="keyword" ref="#Art">artistic</rs>. In the artistic
                <lb facs="#facs_17_tr_1_tl_9" n="N007"/>realm there is also empirical reality, experience of our world in all its finitude, which is subjected
                <lb facs="#facs_17_tr_1_tl_10" n="N008"/>to the laws of nature, which is used in order to express meaning. And that is what art does; therefore
                <lb facs="#facs_17_tr_1_tl_11" n="N009"/>a work of art has the same character as a living being: in them, purpose is actualized (or as we would
                <lb facs="#facs_17_tr_1_tl_12" n="N010"/>say today, better, meaning is actualized). It is the union of the theoretical and the practical.
-               <lb facs="#facs_17_tr_1_tl_13" n="N011"/>Now this was the idea of the Neo-Kantian school, which derived from this its theories of art.
+               <lb facs="#facs_17_tr_1_tl_13" n="N011"/>Now this was the idea of the <rs type="keyword" ref="#Neo-Kantian_school">Neo-Kantian school,</rs> which derived from this its theories of art.
                <lb facs="#facs_17_tr_1_tl_14" n="N012"/>These theories are thoroughly idealistic---also a word which needs different ways of salvation!---
             </p>
             

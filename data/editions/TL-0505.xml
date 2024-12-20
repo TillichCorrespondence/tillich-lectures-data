@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXVIII (Nr. 0505)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p031</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-20">1956-03-20</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_31">
+         <graphic url="TL-0505.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FMSMRCQLYDUQLTHIUEEORGYQ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="35,21 2334,21 2334,875 35,875" rendition="TextRegion" xml:id="facs_31_tr_3">
+            <zone points="1180,332 1193,332 1201,340 1293,340 1293,268 1237,268 1219,289 1180,291" rendition="Line" xml:id="facs_31_tr_3_tl_2"/>
+            <zone points="255,492 1827,518 2200,484 2200,415 255,453" rendition="Line" xml:id="facs_31_tr_3_tl_3"/>
+            <zone points="260,562 2326,567 2326,495 260,538" rendition="Line" xml:id="facs_31_tr_3_tl_4"/>
+            <zone points="245,711 2254,719 2254,660 245,688" rendition="Line" xml:id="facs_31_tr_3_tl_5"/>
+            <zone points="258,871 2190,863 2190,806 258,822" rendition="Line" xml:id="facs_31_tr_3_tl_6"/>
+         </zone>
+         <zone points="250,950 2376,950 2376,2508 250,2508" rendition="TextRegion" xml:id="facs_31_tr_1">
+            <zone points="247,1020 1280,1061 1445,1012 2185,1020 2185,961 247,979" rendition="Line" xml:id="facs_31_tr_1_tl_1"/>
+            <zone points="250,1172 925,1203 2128,1157 2128,1105 250,1144" rendition="Line" xml:id="facs_31_tr_1_tl_2"/>
+            <zone points="240,1316 1077,1314 1244,1342 1244,1265 477,1291 283,1270 240,1298" rendition="Line" xml:id="facs_31_tr_1_tl_5"/>
+            <zone points="250,1471 1152,1471 1170,1407 879,1409 781,1438 750,1409 466,1412 441,1435 379,1412 250,1438" rendition="Line" xml:id="facs_31_tr_1_tl_8"/>
+            <zone points="242,1620 2128,1618 2128,1561 242,1597" rendition="Line" xml:id="facs_31_tr_1_tl_9"/>
+            <zone points="245,1772 1981,1778 2205,1765 2205,1711 245,1731" rendition="Line" xml:id="facs_31_tr_1_tl_10"/>
+            <zone points="242,1937 2295,1917 2295,1855 245,1883" rendition="Line" xml:id="facs_31_tr_1_tl_11"/>
+            <zone points="242,2079 2094,2069 2069,2004 242,2012" rendition="Line" xml:id="facs_31_tr_1_tl_12"/>
+            <zone points="240,2198 2182,2192 2200,2131 242,2151" rendition="Line" xml:id="facs_31_tr_1_tl_13"/>
+            <zone points="245,2355 1790,2360 2105,2342 2105,2285 245,2319" rendition="Line" xml:id="facs_31_tr_1_tl_14"/>
+            <zone points="237,2499 1984,2502 2128,2486 2131,2435 237,2473" rendition="Line" xml:id="facs_31_tr_1_tl_15"/>
+         </zone>
+         <zone points="59,2586 2260,2586 2260,3488 59,3488" rendition="TextRegion" xml:id="facs_31_tr_2">
+            <zone points="245,2654 1378,2648 1378,2592 245,2612" rendition="Line" xml:id="facs_31_tr_2_tl_1"/>
+            <zone points="245,2803 278,2821 358,2806 371,2818 415,2808 451,2821 497,2821 518,2800 582,2816 616,2808 616,2775 523,2775 500,2751 245,2749" rendition="Line" xml:id="facs_31_tr_2_tl_2"/>
+            <zone points="240,2878 415,2947 2221,2916 2223,2795 2136,2790 242,2818" rendition="Line" xml:id="facs_31_tr_2_tl_3"/>
+            <zone points="240,3073 1332,3076 1391,3025 2249,3012 2252,2963 242,2991" rendition="Line" xml:id="facs_31_tr_2_tl_4"/>
+            <zone points="242,3179 368,3238 1693,3236 1767,3169 2228,3169 2254,3117 242,3135" rendition="Line" xml:id="facs_31_tr_2_tl_5"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0505.jpg" n="part4_p031.jpg" xml:id="img_0031" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p031.jpg"/>
+            
+            <p facs="#facs_31_tr_3">
+               <lb facs="#facs_31_tr_3_tl_2" n="N001"/>[500]
+               <lb facs="#facs_31_tr_3_tl_3" n="N002"/>we find in the chapel Yard, STANDS, as far as the other faculties are concerned, stands in place of
+               <lb facs="#facs_31_tr_3_tl_4" n="N003"/>the [?] reality [?] to the theological faculty itself a symbol of one thing, and another to the other? [???]
+               <lb facs="#facs_31_tr_3_tl_5" n="N004"/>PT: No, that is not what I meant, because then we come to the "Queen" situation, and that is exactly
+               <lb facs="#facs_31_tr_3_tl_6" n="N005"/>what I don't want. But I said that if for some people, the abstract hidden form in which ultimate
+            </p>
+            <p facs="#facs_31_tr_1">
+               <lb facs="#facs_31_tr_1_tl_1" n="N001"/>concern is expressed---in art, literature, law, science (you can name all these things which are going
+               <lb facs="#facs_31_tr_1_tl_2" n="N002"/>on here---[e.g.] business---I am especially pleased that I was twice asked to speak in the Business
+               <lb facs="#facs_31_tr_1_tl_5" n="N003"/>School, because they wanted to find, and worked HARD for that, the meaning of business in human
+               <lb facs="#facs_31_tr_1_tl_8" n="N004"/>existene [sic.] existence today). And I think that is ultimate concern. But they feel that ALONE, the symbols of perhaps
+               <lb facs="#facs_31_tr_1_tl_9" n="N005"/>doing decent [?] business, or increasing the commodities of life for as many people as possible,
+               <lb facs="#facs_31_tr_1_tl_10" n="N006"/>that all this is not enough, that life implies other levels, and they wanted to hear about these levels
+               <lb facs="#facs_31_tr_1_tl_11" n="N007"/>generally, and then perhaps---but that was very [much] behind their questions, and could come out only
+               <lb facs="#facs_31_tr_1_tl_12" n="N008"/>in moments---more concrete symbols in which these ultimate problems of life were expressed.
+               <lb facs="#facs_31_tr_1_tl_13" n="N009"/>So you have here what I mean. Now . . . why do they ask me? Because I am a member
+               <lb facs="#facs_31_tr_1_tl_14" n="N010"/>of the theological faculty, OPEN for their forms and experiences of ultimate concern. That's
+               <lb facs="#facs_31_tr_1_tl_15" n="N011"/>the whole thing. And that is, I think, what the theologian should do. They should be open for
+            </p>
+            <p facs="#facs_31_tr_2">
+               <lb facs="#facs_31_tr_2_tl_1" n="N001"/>THEIR ultimate concern, IF THEY DEAL WITH THEM.
+               <lb facs="#facs_31_tr_2_tl_2" n="N002"/>QN: [PHJ] --- . . .
+               <lb facs="#facs_31_tr_2_tl_3" n="N003"/>PT: Now I would be in principle---that is my European background---AGAINST ALL SEMINARIES,
+               <lb facs="#facs_31_tr_2_tl_4" n="N004"/>although I lived 22 years in Union Theological Seminary. But I could do so ONLY because, from the
+               <lb facs="#facs_31_tr_2_tl_5" n="N005"/>very beginning, there was the interrelation between Columbia University---not as intensive as it is here
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

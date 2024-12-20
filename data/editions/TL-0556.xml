@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLII (Nr. 0556)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p082</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-17">1956-04-17</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_82">
+         <graphic url="TL-0556.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TRBTXAWNNUZJWRVOXIRHTBXE&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="194,30 2283,30 2283,1275 194,1275" rendition="TextRegion" xml:id="facs_82_tr_2">
+            <zone points="1093,343 1105,343 1128,360 1167,360 1197,355 1204,348 1219,350 1221,284 1197,281 1179,296 1138,296 1118,304 1096,304" rendition="Line" xml:id="facs_82_tr_2_tl_2"/>
+            <zone points="296,516 2255,493 2278,449 878,471 686,375 565,471 296,476" rendition="Line" xml:id="facs_82_tr_2_tl_3"/>
+            <zone points="296,676 1757,674 2221,644 2221,592 299,622" rendition="Line" xml:id="facs_82_tr_2_tl_4"/>
+            <zone points="299,817 1865,812 2203,797 2203,748 299,795" rendition="Line" xml:id="facs_82_tr_2_tl_5"/>
+            <zone points="299,965 2013,957 2149,950 2152,896 299,923" rendition="Line" xml:id="facs_82_tr_2_tl_6"/>
+            <zone points="296,1118 1769,1120 2132,1101 2134,1046 296,1096" rendition="Line" xml:id="facs_82_tr_2_tl_7"/>
+            <zone points="296,1266 1569,1278 2152,1256 2152,1209 296,1221" rendition="Line" xml:id="facs_82_tr_2_tl_8"/>
+         </zone>
+         <zone points="73,1341 2266,1341 2266,3470 73,3470" rendition="TextRegion" xml:id="facs_82_tr_1">
+            <zone points="296,1424 2194,1406 2194,1347 296,1377" rendition="Line" xml:id="facs_82_tr_1_tl_1"/>
+            <zone points="296,1567 1974,1564 2226,1550 2226,1500 296,1542" rendition="Line" xml:id="facs_82_tr_1_tl_2"/>
+            <zone points="299,1720 2157,1708 2223,1648 299,1675" rendition="Line" xml:id="facs_82_tr_1_tl_3"/>
+            <zone points="306,1878 2092,1853 2095,1801 306,1828" rendition="Line" xml:id="facs_82_tr_1_tl_4"/>
+            <zone points="299,2023 2134,2006 2137,1949 301,1979" rendition="Line" xml:id="facs_82_tr_1_tl_5"/>
+            <zone points="296,2174 1777,2174 2090,2154 2090,2102 743,2092 296,2147" rendition="Line" xml:id="facs_82_tr_1_tl_6"/>
+            <zone points="1221,2312 2117,2312 2134,2255 1313,2260 1224,2290" rendition="Line" xml:id="facs_82_tr_1_tl_7"/>
+            <zone points="299,2477 2201,2463 2201,2398 299,2445" rendition="Line" xml:id="facs_82_tr_1_tl_9"/>
+            <zone points="296,2623 2194,2606 2196,2551 296,2601" rendition="Line" xml:id="facs_82_tr_1_tl_10"/>
+            <zone points="304,2781 1954,2766 2231,2749 2233,2692 304,2732" rendition="Line" xml:id="facs_82_tr_1_tl_11"/>
+            <zone points="296,2926 1666,2924 1767,2914 1767,2860 296,2899" rendition="Line" xml:id="facs_82_tr_1_tl_14"/>
+            <zone points="294,3084 1991,3072 2149,3062 2152,3005 294,3060" rendition="Line" xml:id="facs_82_tr_1_tl_15"/>
+            <zone points="296,3247 701,3294 2260,3262 2260,3195 770,3242 296,3193" rendition="Line" xml:id="facs_82_tr_1_tl_16"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0556.jpg" n="part4_p082.jpg" xml:id="img_0082" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p082.jpg"/>
+            
+            <p facs="#facs_82_tr_2">
+               <lb facs="#facs_82_tr_2_tl_2" n="N001"/>[551]
+               <lb facs="#facs_82_tr_2_tl_3" n="N002"/>an authority IN PRINCIPLE! And your questions and kriticisms, the open ones and the much more
+               <lb facs="#facs_82_tr_2_tl_4" n="N003"/>profound, hidden ones—of which I know—show me that I can be safe in this respect! — I am not
+               <lb facs="#facs_82_tr_2_tl_5" n="N004"/>authority IN PRINCIPLE for you. That is exactly what I mean. The authority in fact is a
+               <lb facs="#facs_82_tr_2_tl_6" n="N005"/>form of life which is going on any moment because we all are dependent on elements in which
+               <lb facs="#facs_82_tr_2_tl_7" n="N006"/>somebody else has more knowledge or insight than we ourselves have. Every statement about
+               <lb facs="#facs_82_tr_2_tl_8" n="N007"/>history, for instance, is based on authority in fact. All our images of the past, even about the
+            </p>
+            <p facs="#facs_82_tr_1">
+               <lb facs="#facs_82_tr_1_tl_1" n="N001"/>past in which you already were living as children orbringing, the past of the First World War,
+               <lb facs="#facs_82_tr_1_tl_2" n="N002"/>or of the period between the First and the Second World War-everything which happened at that
+               <lb facs="#facs_82_tr_1_tl_3" n="N003"/>time, you take on authority because you were not there. And today most of the news which you
+               <lb facs="#facs_82_tr_1_tl_4" n="N004"/>cannot control voirselves, you take on the authority of the newspapers. Now this kind of
+               <lb facs="#facs_82_tr_1_tl_5" n="N005"/>authority, the authority of him who has immediate knowledge of facts and of him who is an
+               <lb facs="#facs_82_tr_1_tl_6" n="N006"/>expert in a special realm, is a continuous authority which I would call an authority in fact.
+               <lb facs="#facs_82_tr_1_tl_7" n="N007"/>There is a second degree of authority, which is more than this, which we
+               <lb facs="#facs_82_tr_1_tl_9" n="N008"/>can call the authority of trust. There are difference in this whole realm already in the authority
+               <lb facs="#facs_82_tr_1_tl_10" n="N009"/>of fact. You don’t trust every Gnewspaper equally. You dont trust every reported about the gra
+               <lb facs="#facs_82_tr_1_tl_11" n="N010"/>of½Roosevelt equally. There is an element of trust connected with the factual, and you don't even
+               <lb facs="#facs_82_tr_1_tl_14" n="N011"/>consider every expert (for instance every professor of theology) as equally trustworthy. There is
+               <lb facs="#facs_82_tr_1_tl_15" n="N012"/>a whole realm in which an element comes into the picture which is not simply the element of
+               <lb facs="#facs_82_tr_1_tl_16" n="N013"/>immediate knowledge or of expert knowledge, but it is the element of a character which has proved
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

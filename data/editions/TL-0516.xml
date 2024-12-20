@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXIX (Nr. 0516)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p042</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-22">1956-03-22</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_42">
+         <graphic url="TL-0516.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VMHAOLESUTXQTAXERJVCRIVQ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="38,18 2283,18 2283,1096 38,1096" rendition="TextRegion" xml:id="facs_42_tr_2">
+            <zone points="1122,327 1134,327 1155,342 1173,342 1181,334 1186,340 1199,340 1204,334 1212,342 1243,337 1243,262 1209,262 1188,278 1163,280 1152,291 1122,291" rendition="Line" xml:id="facs_42_tr_2_tl_3"/>
+            <zone points="247,486 2241,486 2259,424 247,450" rendition="Line" xml:id="facs_42_tr_2_tl_4"/>
+            <zone points="247,635 2135,646 2220,638 2220,581 247,607" rendition="Line" xml:id="facs_42_tr_2_tl_5"/>
+            <zone points="244,785 2223,797 2223,733 244,756" rendition="Line" xml:id="facs_42_tr_2_tl_6"/>
+            <zone points="242,934 2199,939 2199,877 242,885" rendition="Line" xml:id="facs_42_tr_2_tl_7"/>
+            <zone points="242,1119 2127,1101 2277,1093 2277,1037 242,1055" rendition="Line" xml:id="facs_42_tr_2_tl_9"/>
+         </zone>
+         <zone points="247,1180 2197,1180 2197,2159 247,2159" rendition="TextRegion" xml:id="facs_42_tr_3">
+            <zone points="237,1248 2138,1253 2169,1194 237,1217" rendition="Line" xml:id="facs_42_tr_3_tl_1"/>
+            <zone points="239,1394 2050,1412 2192,1394 2192,1345 239,1369" rendition="Line" xml:id="facs_42_tr_3_tl_2"/>
+            <zone points="237,1549 1142,1582 2145,1549 2145,1492 237,1523" rendition="Line" xml:id="facs_42_tr_3_tl_3"/>
+            <zone points="234,1695 2058,1708 2151,1700 2151,1644 234,1672" rendition="Line" xml:id="facs_42_tr_3_tl_4"/>
+            <zone points="247,1855 1670,1855 1688,1801 247,1803" rendition="Line" xml:id="facs_42_tr_3_tl_5"/>
+            <zone points="432,2007 2184,2014 2184,1945 432,1953" rendition="Line" xml:id="facs_42_tr_3_tl_6" subtype="paragraph"/>
+            <zone points="234,2161 275,2166 283,2158 322,2161 350,2151 355,2156 430,2156 430,2109 311,2094 296,2094 283,2107 268,2099 260,2107 234,2107" rendition="Line" xml:id="facs_42_tr_3_tl_7"/>
+         </zone>
+         <zone points="23,2314 2298,2314 2298,3479 23,3479" rendition="TextRegion" xml:id="facs_42_tr_1">
+            <zone points="435,2377 2130,2377 2130,2315 435,2323" rendition="Line" xml:id="facs_42_tr_1_tl_1" subtype="paragraph"/>
+            <zone points="229,2539 2166,2526 2194,2470 229,2508" rendition="Line" xml:id="facs_42_tr_1_tl_2"/>
+            <zone points="226,2691 2179,2681 2179,2624 1322,2596 226,2657" rendition="Line" xml:id="facs_42_tr_1_tl_3"/>
+            <zone points="224,2830 2032,2837 2127,2822 2127,2771 224,2804" rendition="Line" xml:id="facs_42_tr_1_tl_4"/>
+            <zone points="224,2982 2066,2987 2158,2982 2158,2925 224,2940" rendition="Line" xml:id="facs_42_tr_1_tl_5"/>
+            <zone points="226,3133 1989,3172 2295,3128 2295,3074 226,3082" rendition="Line" xml:id="facs_42_tr_1_tl_6"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0516.jpg" n="part4_p042.jpg" xml:id="img_0042" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p042.jpg"/>
+            
+            <p facs="#facs_42_tr_2">
+               <lb facs="#facs_42_tr_2_tl_3" n="N001"/>[511]
+               <lb facs="#facs_42_tr_2_tl_4" n="N002"/>in education. A good educator, a good parent, feelswhat [sic.] is really in it: is it a MOMENT's impression?
+               <lb facs="#facs_42_tr_2_tl_5" n="N003"/>or is it something which is lasting? Does it produce anxiety? --- And all these things. But I presuppose
+               <lb facs="#facs_42_tr_2_tl_6" n="N004"/>them. I presuppose that if we speak about these things, we don't take bad teachers and bad parents,
+               <lb facs="#facs_42_tr_2_tl_7" n="N005"/>but good ones, and THEN the problems become serious. They never are serious with bad ones.
+               <lb facs="#facs_42_tr_2_tl_9" n="N006"/>Then we can simply say: make them better. That is a problem of education of the educators. This problem
+            </p>
+            <p facs="#facs_42_tr_3">
+               <lb facs="#facs_42_tr_3_tl_1" n="N001"/>we did not discuss. The real problem is: if there are reasonable people, of high standing and high
+               <lb facs="#facs_42_tr_3_tl_2" n="N002"/>educational possibilities, then what should they do? There I would say: if the period of doubt has
+               <lb facs="#facs_42_tr_3_tl_3" n="N003"/>arrived, then we have to transfer the mythological contents into interpreted contents. That is all
+               <lb facs="#facs_42_tr_3_tl_4" n="N004"/>I said. And this of course is a difficult process and may perhaps have negative consequences, but
+               <lb facs="#facs_42_tr_3_tl_5" n="N005"/>without it the negative consequences are absolutely sure and unavoidable.
+               <lb facs="#facs_42_tr_3_tl_6" n="N006"/>Now I think we better go ahead now. Here are questions which I better make personally
+               <lb facs="#facs_42_tr_3_tl_7" n="N007"/>later on.
+            </p>
+            <p facs="#facs_42_tr_1">
+               <lb facs="#facs_42_tr_1_tl_1" n="N001"/>Now the realm of problems to which we have to go now is announced in the outline I
+               <lb facs="#facs_42_tr_1_tl_2" n="N002"/>gave you as "Religion and Ethics." This is a very large realm and has to be discussed from different
+               <lb facs="#facs_42_tr_1_tl_3" n="N003"/>points of view. The first statement I want to make is a linguistic one, as mostly, because all words
+               <lb facs="#facs_42_tr_1_tl_4" n="N004"/>are distorted and confused. Ethics and morals: how are they to be distinguished? Actually the
+               <lb facs="#facs_42_tr_1_tl_5" n="N005"/>following thing has happened. The original Latin word, which was used and expressed in English,
+               <lb facs="#facs_42_tr_1_tl_6" n="N006"/>German, and other Western languages, is <hi style="font-style: italic;">morale</hi>, morals, <hi style="font-style: italic;">moralia</hi>, derived from <hi style="font-style: italic;">mores</hi>, the conventions
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

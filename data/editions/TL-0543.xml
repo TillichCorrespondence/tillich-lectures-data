@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLI (Nr. 0543)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p069</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-29">1956-03-29</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_69">
+         <graphic url="TL-0543.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TUTRXHVZAGCVXGHPPDFZFNIW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="206,251 2283,251 2283,1735 206,1735" rendition="TextRegion" xml:id="facs_69_tr_1">
+            <zone points="1065,303 1078,303 1098,318 1115,321 1131,315 1189,315 1189,268 1176,268 1166,257 1156,268 1138,250 1128,252 1118,245 1093,273 1065,273" rendition="Line" xml:id="facs_69_tr_1_tl_1"/>
+            <zone points="300,449 977,437 1055,485 1105,434 2092,421 2095,351 300,406" rendition="Line" xml:id="facs_69_tr_1_tl_2"/>
+            <zone points="278,563 2069,550 2069,495 278,515" rendition="Line" xml:id="facs_69_tr_1_tl_3"/>
+            <zone points="273,707 318,739 447,739 492,709 752,709 755,631 686,618 641,633 593,618 578,633 333,636 321,623 273,649" rendition="Line" xml:id="facs_69_tr_1_tl_4"/>
+            <zone points="548,790 1734,790 1963,775 1963,737 548,760" rendition="Line" xml:id="facs_69_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="275,914 2269,901 2269,835 275,863" rendition="Line" xml:id="facs_69_tr_1_tl_6"/>
+            <zone points="265,1025 1923,1057 1989,999 2125,1012 2125,959 265,1002" rendition="Line" xml:id="facs_69_tr_1_tl_7"/>
+            <zone points="189,1189 2221,1136 2221,1070 1916,1057 192,1083" rendition="Line" xml:id="facs_69_tr_1_tl_8"/>
+            <zone points="273,1264 1085,1269 1085,1211 389,1206 273,1227" rendition="Line" xml:id="facs_69_tr_1_tl_10"/>
+            <zone points="798,1416 1403,1413 1497,1355 2276,1358 2276,1305 2047,1295 800,1325" rendition="Line" xml:id="facs_69_tr_1_tl_11"/>
+            <zone points="285,1504 1317,1542 1484,1484 2175,1474 2178,1418 285,1454" rendition="Line" xml:id="facs_69_tr_1_tl_13"/>
+            <zone points="275,1625 2170,1592 2170,1539 278,1575" rendition="Line" xml:id="facs_69_tr_1_tl_14"/>
+            <zone points="548,1726 656,1779 1598,1762 1683,1714 2163,1736 2163,1661 548,1688" rendition="Line" xml:id="facs_69_tr_1_tl_15" subtype="paragraph"/>
+         </zone>
+         <zone points="74,1759 2283,1759 2283,2801 74,2801" rendition="TextRegion" xml:id="facs_69_tr_2">
+            <zone points="278,1860 1852,1888 1921,1822 2256,1820 2256,1767 278,1807" rendition="Line" xml:id="facs_69_tr_2_tl_1"/>
+            <zone points="273,1966 2218,1986 2221,1885 273,1928" rendition="Line" xml:id="facs_69_tr_2_tl_2"/>
+            <zone points="280,2117 2047,2115 2221,2085 2223,2011 280,2054" rendition="Line" xml:id="facs_69_tr_2_tl_3"/>
+            <zone points="275,2218 2234,2181 2236,2110 275,2160" rendition="Line" xml:id="facs_69_tr_2_tl_4"/>
+            <zone points="278,2322 1913,2309 2276,2294 2279,2241 278,2274" rendition="Line" xml:id="facs_69_tr_2_tl_5"/>
+            <zone points="278,2440 2042,2420 2044,2367 280,2393" rendition="Line" xml:id="facs_69_tr_2_tl_6"/>
+            <zone points="273,2567 2006,2541 2032,2486 275,2536" rendition="Line" xml:id="facs_69_tr_2_tl_7"/>
+            <zone points="278,2693 1595,2652 2085,2693 2148,2589 280,2635" rendition="Line" xml:id="facs_69_tr_2_tl_9"/>
+            <zone points="278,2794 603,2791 674,2849 798,2849 853,2817 1247,2819 1355,2781 1355,2723 278,2756" rendition="Line" xml:id="facs_69_tr_2_tl_10"/>
+         </zone>
+         <zone points="53,2816 2289,2816 2289,3482 53,3482" rendition="TextRegion" xml:id="facs_69_tr_3">
+            <zone points="563,2917 2064,2897 2281,2880 2281,2817 565,2852" rendition="Line" xml:id="facs_69_tr_3_tl_1" subtype="paragraph"/>
+            <zone points="278,3028 2175,3044 2196,2943 278,3006" rendition="Line" xml:id="facs_69_tr_3_tl_2"/>
+            <zone points="273,3145 1729,3182 1782,3132 2090,3155 2140,3071 273,3122" rendition="Line" xml:id="facs_69_tr_3_tl_3"/>
+            <zone points="278,3268 1661,3243 1936,3299 2259,3225 2261,3170 278,3243" rendition="Line" xml:id="facs_69_tr_3_tl_4"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0543.jpg" n="part4_p069.jpg" xml:id="img_0069" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p069.jpg"/>
+            
+            <p facs="#facs_69_tr_1">
+               <lb facs="#facs_69_tr_1_tl_1" n="N001"/>[538]
+               <lb facs="#facs_69_tr_1_tl_2" n="N002"/>But this principle of justice is not something which stands BESIDE love, or AGAINST love.
+               <lb facs="#facs_69_tr_1_tl_3" n="N003"/>Love is not something ADDED to this principle of justice, but love IS, in its STRUCTURE,
+               <lb facs="#facs_69_tr_1_tl_4" n="N004"/>this principle of justice.
+               <lb facs="#facs_69_tr_1_tl_5" n="N005"/>Let me give an example for this. I know people who have a great desire
+               <lb facs="#facs_69_tr_1_tl_6" n="N006"/>to sacrifice themselves, in the relationship to somebody else. They do not justice to themselves,
+               <lb facs="#facs_69_tr_1_tl_7" n="N007"/>and in not doing justice to themselves, they don't do justice to the other one either: They
+               <lb facs="#facs_69_tr_1_tl_8" n="N008"/>produce a relationship of mutual chaotic self-surrender, which Erich Fromm has called a symbiotic
+               <lb facs="#facs_69_tr_1_tl_10" n="N009"/>relationship, in which the one is actually exploiting the other by submissiveness in terms
+               <lb facs="#facs_69_tr_1_tl_11" n="N010"/>of lack of justice to himself and to the other one. But where there is not justice, there may be
+               <lb facs="#facs_69_tr_1_tl_13" n="N011"/>chaotic self-surrender, but chaotic self-surrender is not love. And so, we can repeat: this middle
+               <lb facs="#facs_69_tr_1_tl_14" n="N012"/>realm, which can also be called the realm of justice, is the realm in which love finds its structure.
+               <lb facs="#facs_69_tr_1_tl_15" n="N013"/>But now, where will we know about these structures? And here I answer: not by
+            </p>
+            <p facs="#facs_69_tr_2">
+               <lb facs="#facs_69_tr_2_tl_1" n="N001"/>natural law (we discussed that) in the sense of the Catholic authoritarian form; but we find it insofar
+               <lb facs="#facs_69_tr_2_tl_2" n="N002"/>by natural law, as it belongs to the very nature of man in his essential structure, to be a subject and
+               <lb facs="#facs_69_tr_2_tl_3" n="N003"/>object of love, and therefore of those structural elements of justice which are presupposed in every
+               <lb facs="#facs_69_tr_2_tl_4" n="N004"/>act of love. In this sense we can use, without the authoritarian element, the doctrine of the natural
+               <lb facs="#facs_69_tr_2_tl_5" n="N005"/>law. But if we don't use the authoritarian element, which the Roman Church uses, how can we know
+               <lb facs="#facs_69_tr_2_tl_6" n="N006"/>about the commands of natural law, or about the structures of justice?---which is the same.
+               <lb facs="#facs_69_tr_2_tl_7" n="N007"/>And there my answer is pragmatic, and the word wisdom is a pragmatic term. Wisdom is
+               <lb facs="#facs_69_tr_2_tl_9" n="N008"/>CONQUERED by experience. Wisdom is not given by command. This experience is personal,
+               <lb facs="#facs_69_tr_2_tl_10" n="N009"/>but it is first of all a collective experience of mankind.
+            </p>
+            <p facs="#facs_69_tr_3">
+               <lb facs="#facs_69_tr_3_tl_1" n="N001"/>So we can say: The Ten Commandments, for instance, are not commandments which
+               <lb facs="#facs_69_tr_3_tl_2" n="N002"/>can be applied as laws but are the result of pragmatic experiences in which the structure of love
+               <lb facs="#facs_69_tr_3_tl_3" n="N003"/>has come to consciousness of human beings. They are matters of wisdom. And therefore they
+               <lb facs="#facs_69_tr_3_tl_4" n="N004"/>are in themselves not unconditional. None of the Ten Commandments---except the first, namely the
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

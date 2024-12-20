@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLI (Nr. 0551)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p077</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-29">1956-03-29</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_77">
+         <graphic url="TL-0551.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YOKWLYCJPXKUGMTTFGCSBOVK&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="322,3 2239,3 2239,959 322,959" rendition="TextRegion" xml:id="facs_77_tr_3">
+            <zone points="1129,334 1141,334 1164,351 1169,346 1184,348 1191,341 1200,348 1234,348 1241,341 1253,344 1255,274 1229,272 1215,286 1193,286 1186,279 1176,279 1167,289 1153,294 1131,294" rendition="Line" xml:id="facs_77_tr_3_tl_2"/>
+            <zone points="317,508 2236,484 2236,434 2052,418 864,453 766,387 685,456 391,463 317,415" rendition="Line" xml:id="facs_77_tr_3_tl_3"/>
+            <zone points="308,654 2181,640 2198,573 310,599" rendition="Line" xml:id="facs_77_tr_3_tl_4"/>
+            <zone points="313,811 2095,792 2131,733 313,756" rendition="Line" xml:id="facs_77_tr_3_tl_5"/>
+            <zone points="308,950 2152,940 2126,876 310,902" rendition="Line" xml:id="facs_77_tr_3_tl_6"/>
+         </zone>
+         <zone points="310,1024 2218,1024 2218,2616 310,2616" rendition="TextRegion" xml:id="facs_77_tr_1">
+            <zone points="313,1117 1448,1119 2093,1086 2114,1033 313,1059" rendition="Line" xml:id="facs_77_tr_1_tl_1"/>
+            <zone points="303,1250 1973,1246 2119,1234 2121,1181 303,1227" rendition="Line" xml:id="facs_77_tr_1_tl_2"/>
+            <zone points="301,1401 2083,1398 2152,1386 2152,1329 301,1353" rendition="Line" xml:id="facs_77_tr_1_tl_3"/>
+            <zone points="317,1558 2088,1542 2155,1534 2157,1477 317,1503" rendition="Line" xml:id="facs_77_tr_1_tl_4"/>
+            <zone points="303,1704 1973,1694 2114,1685 2114,1627 303,1651" rendition="Line" xml:id="facs_77_tr_1_tl_5"/>
+            <zone points="313,1866 2143,1847 2210,1837 2210,1775 315,1825" rendition="Line" xml:id="facs_77_tr_1_tl_6"/>
+            <zone points="313,2009 1849,2000 2129,1988 2129,1938 313,1964" rendition="Line" xml:id="facs_77_tr_1_tl_7"/>
+            <zone points="313,2162 1857,2157 2171,2140 2174,2081 313,2112" rendition="Line" xml:id="facs_77_tr_1_tl_8"/>
+            <zone points="296,2308 2155,2293 2155,2234 296,2262" rendition="Line" xml:id="facs_77_tr_1_tl_9"/>
+            <zone points="313,2458 2212,2439 2214,2379 313,2412" rendition="Line" xml:id="facs_77_tr_1_tl_10"/>
+            <zone points="313,2611 1391,2613 1627,2596 1627,2549 313,2568" rendition="Line" xml:id="facs_77_tr_1_tl_11"/>
+         </zone>
+         <zone points="167,2675 2230,2675 2230,3482 167,3482" rendition="TextRegion" xml:id="facs_77_tr_2">
+            <zone points="537,2756 2143,2735 2143,2677 539,2704" rendition="Line" xml:id="facs_77_tr_2_tl_1" subtype="paragraph"/>
+            <zone points="308,2904 1997,2902 2186,2878 2188,2830 308,2859" rendition="Line" xml:id="facs_77_tr_2_tl_2"/>
+            <zone points="313,3064 511,3062 594,3076 687,3062 749,3090 764,3088 766,3014 520,3019 494,3004 480,3019 413,3021 382,3002 365,3019 313,3021" rendition="Line" xml:id="facs_77_tr_2_tl_3"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0551.jpg" n="part4_p077.jpg" xml:id="img_0077" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p077.jpg"/>
+            
+            <p facs="#facs_77_tr_3">
+               <lb facs="#facs_77_tr_3_tl_2" n="N001"/>[546]
+               <lb facs="#facs_77_tr_3_tl_3" n="N002"/>(they are not acts of obedience to commandments, but acts which come out of the totally of our
+               <lb facs="#facs_77_tr_3_tl_4" n="N003"/>being and drive us to TO what we are ASKED to do)—as long as these powers (which I also like
+               <lb facs="#facs_77_tr_3_tl_5" n="N004"/>to call "New BEING," to avoid the words "grace" or "Spirit," which have so many difficult
+               <lb facs="#facs_77_tr_3_tl_6" n="N005"/>connotations today), this New Being is not ONLy in those who are Christians or religious, but
+            </p>
+            <p facs="#facs_77_tr_1">
+               <lb facs="#facs_77_tr_1_tl_1" n="N001"/>it is a lialing power which makes reality possible generall,and universally. And the decisive
+               <lb facs="#facs_77_tr_1_tl_2" n="N002"/>thing here is that the power of acting according to the moral imperative is something which
+               <lb facs="#facs_77_tr_1_tl_3" n="N003"/>PRECEDES the law, and if it is actualized, overcomes the law and fulfills it by lvercoming it.
+               <lb facs="#facs_77_tr_1_tl_4" n="N004"/>The law can only beafulfilled in acts which come out of love, out of the réunion with our true
+               <lb facs="#facs_77_tr_1_tl_5" n="N005"/>being, out of the réunion with ourselves and the others, and where the question "Shall 1 or
+               <lb facs="#facs_77_tr_1_tl_6" n="N006"/>shall I not?" “Can I or can I not?” is not actual any more. Now there are many situation
+               <lb facs="#facs_77_tr_1_tl_7" n="N007"/>in which you all have experience this, and if you have experienced this, it is that which the
+               <lb facs="#facs_77_tr_1_tl_8" n="N008"/>theologian calls "common grace." This common grace makes people grace-ful, and you would
+               <lb facs="#facs_77_tr_1_tl_9" n="N009"/>NOT call somehow grace-ful (full of xápis, or gratia) who always [acts] against his own will,
+               <lb facs="#facs_77_tr_1_tl_10" n="N010"/>obeys a law which stands against him; but you would call someone grace-ful who ask out of the
+               <lb facs="#facs_77_tr_1_tl_11" n="N011"/>depths of his being and fu[l]fills kluntarily what he ought to Iulfill.
+            </p>
+            <p facs="#facs_77_tr_2">
+               <lb facs="#facs_77_tr_2_tl_1" n="N001"/>Now this is the others of BEING, over against the ethics of OUGHT-TO-BE. And
+               <lb facs="#facs_77_tr_2_tl_2" n="N002"/>I believe that autonomous ethics are NOT able to point to the others of being over against the
+               <lb facs="#facs_77_tr_2_tl_3" n="N003"/>ethics of ought-to-be.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

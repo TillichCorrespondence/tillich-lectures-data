@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XXXIV (Nr. 0439)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p047</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-10">1956-03-10</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_47">
+         <graphic url="TL-0439.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DNCJCKJPLKZHTOLRCPJJXWGA&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="286,69 2269,69 2269,2287 286,2287" rendition="TextRegion" xml:id="facs_47_tr_1">
+            <zone points="1145,384 1158,384 1170,397 1213,404 1225,404 1230,399 1235,404 1270,402 1270,339 1235,342 1223,329 1200,352 1190,347 1183,352 1175,344 1145,344" rendition="Line" xml:id="facs_47_tr_1_tl_2"/>
+            <zone points="304,539 1811,546 1811,469 1564,509 1480,462 1435,506 1183,509 1095,472 676,509 636,469 382,509 304,469" rendition="Line" xml:id="facs_47_tr_1_tl_3"/>
+            <zone points="297,691 1355,694 1514,744 1579,701 1781,699 1781,644 297,644" rendition="Line" xml:id="facs_47_tr_1_tl_6"/>
+            <zone points="554,846 2023,853 2023,798 554,793" rendition="Line" xml:id="facs_47_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="294,996 2023,1013 2158,1005 2158,953 294,966" rendition="Line" xml:id="facs_47_tr_1_tl_8"/>
+            <zone points="294,1158 1632,1190 2138,1158 2158,1100 294,1103" rendition="Line" xml:id="facs_47_tr_1_tl_10"/>
+            <zone points="289,1302 2133,1310 2133,1255 289,1255" rendition="Line" xml:id="facs_47_tr_1_tl_11"/>
+            <zone points="284,1450 2113,1465 2161,1407 284,1422" rendition="Line" xml:id="facs_47_tr_1_tl_12"/>
+            <zone points="294,1617 2141,1614 2158,1557 294,1559" rendition="Line" xml:id="facs_47_tr_1_tl_13"/>
+            <zone points="284,1682 2265,1684 2265,1639 2051,1624 284,1639" rendition="Line" xml:id="facs_47_tr_1_tl_14"/>
+            <zone points="282,1826 1694,1859 1919,1836 1919,1769 282,1786" rendition="Line" xml:id="facs_47_tr_1_tl_15"/>
+            <zone points="531,1984 2101,1989 2101,1931 2048,1924 531,1934" rendition="Line" xml:id="facs_47_tr_1_tl_16" subtype="paragraph"/>
+            <zone points="279,2141 1851,2146 2016,2133 2016,2081 279,2106" rendition="Line" xml:id="facs_47_tr_1_tl_17"/>
+            <zone points="272,2275 1939,2295 2106,2285 2106,2233 272,2253" rendition="Line" xml:id="facs_47_tr_1_tl_18"/>
+         </zone>
+         <zone points="47,2374 2269,2374 2269,3473 47,3473" rendition="TextRegion" xml:id="facs_47_tr_2">
+            <zone points="274,2435 2001,2448 2081,2438 2081,2380 274,2405" rendition="Line" xml:id="facs_47_tr_2_tl_1"/>
+            <zone points="272,2580 2248,2587 2248,2535 272,2537" rendition="Line" xml:id="facs_47_tr_2_tl_2"/>
+            <zone points="267,2740 1961,2749 1961,2687 267,2707" rendition="Line" xml:id="facs_47_tr_2_tl_3"/>
+            <zone points="267,2889 1018,2899 1018,2839 267,2837" rendition="Line" xml:id="facs_47_tr_2_tl_4"/>
+            <zone points="511,2959 2121,2967 2121,2907 2058,2904 511,2912" rendition="Line" xml:id="facs_47_tr_2_tl_5" subtype="paragraph"/>
+            <zone points="259,3111 1756,3126 2193,3116 2193,3074 259,3084" rendition="Line" xml:id="facs_47_tr_2_tl_6"/>
+            <zone points="259,3278 976,3333 2265,3311 2265,3253 259,3251" rendition="Line" xml:id="facs_47_tr_2_tl_7"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0439.jpg" n="part3_p047.jpg" xml:id="img_0047" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p047.jpg"/>
+            
+            <p facs="#facs_47_tr_1">
+               <lb facs="#facs_47_tr_1_tl_2" n="N001"/>[434]
+               <lb facs="#facs_47_tr_1_tl_3" n="N002"/>There, collectivism, hierarchy, aristocracy, and many other forms can prevail without
+               <lb facs="#facs_47_tr_1_tl_6" n="N003"/>interference from the point of view of the individual meaning before [i.e. significance to] God.
+               <lb facs="#facs_47_tr_1_tl_7" n="N004"/>The second type is rational individualism. The rational individualism is the
+               <lb facs="#facs_47_tr_1_tl_8" n="N005"/>result of the development of the modern mind since the second half of the Renaissance, and is
+               <lb facs="#facs_47_tr_1_tl_10" n="N006"/>based on the idea that the divine <hi style="font-style: italic;">logos</hi> is present in every individual mind and makes it possible
+               <lb facs="#facs_47_tr_1_tl_11" n="N007"/>for every individual mind to act according to the principles of reason. Of course this concept
+               <lb facs="#facs_47_tr_1_tl_12" n="N008"/>of reason is not the deteriorized concept of reasonING, which we use today in the deteriorized
+               <lb facs="#facs_47_tr_1_tl_13" n="N009"/>philosophies of the 19th century; but it is the classical concept of reason, reason as a structure
+               <lb facs="#facs_47_tr_1_tl_14" n="N010"/>of the human mind and the structure of the world which is encountered by the human mind--reason
+               <lb facs="#facs_47_tr_1_tl_15" n="N011"/>as structure of MEANING, in all realms of life, in theoretical as well as in practical.
+               <lb facs="#facs_47_tr_1_tl_16" n="N012"/>Now this concept of reason is applied to every individual human being, and the
+               <lb facs="#facs_47_tr_1_tl_17" n="N013"/>presupposition is that every individual is able to develop, out of this potentiality, actual
+               <lb facs="#facs_47_tr_1_tl_18" n="N014"/>rationality. The people of Enlightenment were not stupid enough to think that people ARE
+            </p>
+            <p facs="#facs_47_tr_2">
+               <lb facs="#facs_47_tr_2_tl_1" n="N001"/>reasonable, but they were convinced that people can BECOME reasonable, because they all
+               <lb facs="#facs_47_tr_2_tl_2" n="N002"/>have potentially the same rationality, and if they are developed in the adequate way, by educational
+               <lb facs="#facs_47_tr_2_tl_3" n="N003"/>and political institutions, they can come to the age of reason, to the age of rationality
+               <lb facs="#facs_47_tr_2_tl_4" n="N004"/>in themselves and generally speaking.
+               <lb facs="#facs_47_tr_2_tl_5" n="N005"/>This produces the individualism which underlies democracy, namely the rational
+               <lb facs="#facs_47_tr_2_tl_6" n="N006"/>individualism of every one able to make decisions about universal problems, theoretical as well as
+               <lb facs="#facs_47_tr_2_tl_7" n="N007"/>practical, on the basis of the development of his own rationality. This of course has the consequence
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

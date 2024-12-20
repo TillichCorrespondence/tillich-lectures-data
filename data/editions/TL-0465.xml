@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" subtype="first_page">Lecture XXXVI (Nr. 0465)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part3_p073</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-03-13">1956-03-13</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_73">
+         <graphic url="TL-0465.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SRQRYTXTWNEFXANPSXGDQPSS&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="310,326 2328,326 2328,983 310,983" rendition="TextRegion" xml:id="facs_73_tr_3">
+            <zone points="1107,380 1139,385 1163,401 1165,395 1228,388 1228,340 1189,340 1173,332 1107,335" rendition="Line" xml:id="facs_73_tr_3_tl_1"/>
+            <zone points="306,527 1141,548 1139,472 1031,504 986,464 949,504 912,472 881,504 812,504 770,477 720,498 641,453 593,451 551,493 509,451 398,451 359,493 303,493" rendition="Line" xml:id="facs_73_tr_3_tl_2"/>
+            <zone points="533,662 2270,688 2270,641 2141,612 533,598" rendition="Line" xml:id="facs_73_tr_3_tl_3"/>
+            <zone points="298,859 2014,883 2304,870 2325,778 298,783" rendition="Line" xml:id="facs_73_tr_3_tl_4"/>
+            <zone points="295,965 2315,981 2315,928 295,920" rendition="Line" xml:id="facs_73_tr_3_tl_5"/>
+         </zone>
+         <zone points="286,1066 2412,1066 2412,2493 286,2493" rendition="TextRegion" xml:id="facs_73_tr_1">
+            <zone points="295,1120 2217,1134 2217,1078 295,1078" rendition="Line" xml:id="facs_73_tr_1_tl_1"/>
+            <zone points="295,1276 1073,1284 1070,1231 293,1223" rendition="Line" xml:id="facs_73_tr_1_tl_2"/>
+            <zone points="511,1418 2183,1445 2267,1437 2267,1366 511,1389" rendition="Line" xml:id="facs_73_tr_1_tl_3"/>
+            <zone points="290,1582 2402,1590 2402,1529 290,1545" rendition="Line" xml:id="facs_73_tr_1_tl_4"/>
+            <zone points="293,1729 1687,1743 1687,1685 1518,1669 293,1677" rendition="Line" xml:id="facs_73_tr_1_tl_5"/>
+            <zone points="514,1877 2241,1877 2175,1827 514,1822" rendition="Line" xml:id="facs_73_tr_1_tl_6"/>
+            <zone points="272,2022 2199,2046 2286,2035 2286,1982 272,1996" rendition="Line" xml:id="facs_73_tr_1_tl_7"/>
+            <zone points="279,2180 2280,2201 2280,2138 2072,2125 279,2149" rendition="Line" xml:id="facs_73_tr_1_tl_8"/>
+            <zone points="272,2325 2233,2349 2183,2283 272,2299" rendition="Line" xml:id="facs_73_tr_1_tl_9"/>
+            <zone points="274,2475 2328,2494 2328,2433 274,2431" rendition="Line" xml:id="facs_73_tr_1_tl_10"/>
+         </zone>
+         <zone points="44,2577 2254,2577 2254,3491 44,3491" rendition="TextRegion" xml:id="facs_73_tr_2">
+            <zone points="272,2689 551,2631 2043,2649 2043,2589 272,2584" rendition="Line" xml:id="facs_73_tr_2_tl_1"/>
+            <zone points="266,2784 2249,2787 2249,2736 2112,2731 266,2734" rendition="Line" xml:id="facs_73_tr_2_tl_2"/>
+            <zone points="264,2937 2230,2942 2230,2879 264,2879" rendition="Line" xml:id="facs_73_tr_2_tl_3"/>
+            <zone points="258,3079 2156,3103 2156,3042 1816,3021 258,3034" rendition="Line" xml:id="facs_73_tr_2_tl_4"/>
+            <zone points="258,3240 2125,3298 2069,3229 1579,3266 994,3192 256,3208" rendition="Line" xml:id="facs_73_tr_2_tl_5"/>
+            <zone points="29,3459 63,3443 84,3464 108,3448 274,3467 303,3448 393,3440 451,3459 501,3451 501,3390 29,3385" rendition="Line" xml:id="facs_73_tr_2_tl_6"/>
+            <zone points="775,3451 859,3456 878,3440 915,3440 933,3459 973,3459 1010,3485 1047,3485 1089,3456 1118,3472 1120,3388 778,3401" rendition="Line" xml:id="facs_73_tr_2_tl_7"/>
+            <zone points="493,3461 527,3456 540,3467 556,3453 577,3453 630,3485 738,3485 736,3398 693,3390 493,3395" rendition="Line" xml:id="facs_73_tr_2_tl_8"/>
+            <zone points="1263,3488 1308,3485 1326,3467 1360,3485 1395,3467 1418,3472 1421,3401 1360,3401 1355,3395 1339,3401 1302,3398 1289,3409 1265,3409" rendition="Line" xml:id="facs_73_tr_2_tl_9"/>
+            <zone points="34,3493 177,3477 256,3488 345,3488 359,3475 390,3488 409,3477 432,3488 432,3451 393,3440 248,3461 203,3440 163,3440 148,3456 34,3453" rendition="Line" xml:id="facs_73_tr_2_tl_10"/>
+            <zone points="767,3485 796,3477 804,3485 836,3482 846,3488 873,3488 891,3475 912,3480 923,3469 936,3469 936,3443 902,3443 894,3451 878,3440 859,3456 838,3456 825,3443 804,3453 767,3443" rendition="Line" xml:id="facs_73_tr_2_tl_11"/>
+            <zone points="435,3488 472,3488 482,3480 496,3488 506,3488 511,3482 525,3488 569,3485 567,3456 538,3459 517,3440 506,3440 504,3446 493,3446 485,3453 461,3453 446,3443 430,3446" rendition="Line" xml:id="facs_73_tr_2_tl_12"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0465.jpg" n="part3_p073.jpg" xml:id="img_0073" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p073.jpg"/>
+            
+            <p facs="#facs_73_tr_3">
+               <lb facs="#facs_73_tr_3_tl_1" n="N001"/>460-
+               <lb facs="#facs_73_tr_3_tl_2" n="N002"/>LECTURE XXXVI, March 13, [?) 956
+               <lb facs="#facs_73_tr_3_tl_3" n="N003"/>We are in the discussion of religion and the problem of education, and last time I spoke
+               <lb facs="#facs_73_tr_3_tl_4" n="N004"/>about the problem of initiation into something which has the power of the spiritual center or ultimate
+               <lb facs="#facs_73_tr_3_tl_5" n="N005"/>maning. Today I want to deal with two problems, as far as we can go, namely the general problem of
+            </p>
+            <p facs="#facs_73_tr_1">
+               <lb facs="#facs_73_tr_1_tl_1" n="N001"/> féligious education, and then the special problem of the University and its relationship to religion
+               <lb facs="#facs_73_tr_1_tl_2" n="N002"/>and to the fact of a theological faculty.
+               <lb facs="#facs_73_tr_1_tl_3" n="N003"/>First a few words, only—not a few word, but very little-about the problem of religious
+               <lb facs="#facs_73_tr_1_tl_4" n="N004"/>education, because this is a theological Department by itself and I can only discuss it in the context of what
+               <lb facs="#facs_73_tr_1_tl_5" n="N005"/>I said last time generally, about the religious implications of education.
+               <lb facs="#facs_73_tr_1_tl_6" n="N006"/>The first and perhaps the most important point is that religious education, if it's under¬
+               <lb facs="#facs_73_tr_1_tl_7" n="N007"/>stood as introduction—and you remember we had these three forms: introduced the humanistic, the
+               <lb facs="#facs_73_tr_1_tl_8" n="N008"/>skill, and the introductory form of education—and if religious education is understood (as it must be)
+               <lb facs="#facs_73_tr_1_tl_9" n="N009"/>asChoduction, introducing into a reality, then this has the following consequence, that the child,
+               <lb facs="#facs_73_tr_1_tl_10" n="N010"/>who is an object of religious education, has to be introduced into the reality of religion, and that means
+            </p>
+            <p facs="#facs_73_tr_2">
+               <lb facs="#facs_73_tr_2_tl_1" n="N001"/>three things: 1) a community in which religion is the content of life; 2) a set of symbols.
+               <lb facs="#facs_73_tr_2_tl_2" n="N002"/>mythological and ritual, which express the ultimate meaning of this group IN which religion is alive.
+               <lb facs="#facs_73_tr_2_tl_3" n="N003"/>In a humanistic type of education, the child would not be introduced but taught. I remember how
+               <lb facs="#facs_73_tr_2_tl_4" n="N004"/>in a progressive religious-education school, my own daughter had to receive religious education,
+               <lb facs="#facs_73_tr_2_tl_5" n="N005"/>Sunday School, and what happened was that she was introduced into the cave paintings of the
+               <lb facs="#facs_73_tr_2_tl_6" n="N006"/>Mais elle est voulue de cette vérité
+               <lb facs="#facs_73_tr_2_tl_7" n="N007"/>Votre très obéissant serviteur, et de
+               <lb facs="#facs_73_tr_2_tl_8" n="N008"/>dʼune manière beaucoup
+               <lb facs="#facs_73_tr_2_tl_9" n="N009"/>de mon ami, mais
+               <lb facs="#facs_73_tr_2_tl_10" n="N010"/>mʼa lʼautre sérieuse, et cʼest le monde de
+               <lb facs="#facs_73_tr_2_tl_11" n="N011"/>dʼun autre est
+               <lb facs="#facs_73_tr_2_tl_12" n="N012"/>cʼest un autre
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

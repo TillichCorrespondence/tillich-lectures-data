@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLII (Nr. 0555)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p081</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-17">1956-04-17</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_81">
+         <graphic url="TL-0555.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KDXYBBJLOLZSAQPRNYXAHOVA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="125,15 2301,15 2301,1893 125,1893" rendition="TextRegion" xml:id="facs_81_tr_2">
+            <zone points="1109,342 1121,342 1136,360 1171,355 1215,357 1223,350 1235,350 1238,293 1218,293 1198,310 1193,300 1178,308 1168,295 1161,300 1151,298 1136,310 1109,308" rendition="Line" xml:id="facs_81_tr_2_tl_3"/>
+            <zone points="308,491 1967,526 1924,449 771,466 684,409 590,464 308,464" rendition="Line" xml:id="facs_81_tr_2_tl_4"/>
+            <zone points="312,645 2225,680 2225,618 312,598" rendition="Line" xml:id="facs_81_tr_2_tl_5"/>
+            <zone points="303,799 2267,821 2267,769 1954,756 303,746" rendition="Line" xml:id="facs_81_tr_2_tl_6"/>
+            <zone points="305,950 2130,965 2056,903 305,903" rendition="Line" xml:id="facs_81_tr_2_tl_7"/>
+            <zone points="293,1091 2081,1114 2081,1064 1833,1049 583,1027 293,1069" rendition="Line" xml:id="facs_81_tr_2_tl_8"/>
+            <zone points="300,1252 2215,1277 2190,1215 300,1200" rendition="Line" xml:id="facs_81_tr_2_tl_9"/>
+            <zone points="290,1401 2118,1419 2034,1337 290,1354" rendition="Line" xml:id="facs_81_tr_2_tl_10"/>
+            <zone points="288,1548 2021,1580 2021,1518 1840,1505 288,1503" rendition="Line" xml:id="facs_81_tr_2_tl_11"/>
+            <zone points="280,1719 1853,1734 1813,1669 280,1689" rendition="Line" xml:id="facs_81_tr_2_tl_12"/>
+            <zone points="280,1867 2163,1902 2113,1833 280,1823" rendition="Line" xml:id="facs_81_tr_2_tl_13"/>
+         </zone>
+         <zone points="23,1965 2280,1965 2280,3470 23,3470" rendition="TextRegion" xml:id="facs_81_tr_1">
+            <zone points="278,2021 2123,2036 2123,1989 1969,1974 278,1996" rendition="Line" xml:id="facs_81_tr_1_tl_1"/>
+            <zone points="275,2172 2138,2190 2073,2128 275,2125" rendition="Line" xml:id="facs_81_tr_1_tl_2"/>
+            <zone points="280,2316 2053,2341 1999,2282 280,2254" rendition="Line" xml:id="facs_81_tr_1_tl_3"/>
+            <zone points="265,2470 702,2515 2128,2492 2128,2440 1791,2423 265,2445" rendition="Line" xml:id="facs_81_tr_1_tl_4"/>
+            <zone points="263,2619 1810,2639 1810,2587 263,2574" rendition="Line" xml:id="facs_81_tr_1_tl_5"/>
+            <zone points="464,2780 1662,2822 2056,2783 2056,2730 464,2728" rendition="Line" xml:id="facs_81_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="263,2941 1054,2941 1054,2882 263,2879" rendition="Line" xml:id="facs_81_tr_1_tl_7"/>
+            <zone points="456,3006 1027,3013 1215,3075 2143,3016 2143,2964 1967,2954 456,2956" rendition="Line" xml:id="facs_81_tr_1_tl_8" subtype="paragraph"/>
+            <zone points="248,3150 2242,3182 2242,3120 248,3127" rendition="Line" xml:id="facs_81_tr_1_tl_9"/>
+            <zone points="250,3288 2215,3286 2215,3231 250,3246" rendition="Line" xml:id="facs_81_tr_1_tl_10"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0555.jpg" n="part4_p081.jpg" xml:id="img_0081" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p081.jpg"/>
+            
+            <p facs="#facs_81_tr_2">
+               <lb facs="#facs_81_tr_2_tl_3" n="N001"/>[550]
+               <lb facs="#facs_81_tr_2_tl_4" n="N002"/>the authority in principle and the authority in fact. Let's use these two distinctions,
+               <lb facs="#facs_81_tr_2_tl_5" n="N003"/>which can both be used—the word "rational" has connotations which make it very difficult today
+               <lb facs="#facs_81_tr_2_tl_6" n="N004"/>to use it. In Williams College, two days ago, I had a discussion with theiiudents and someone asked
+               <lb facs="#facs_81_tr_2_tl_7" n="N005"/>me about the relation of reason and faith, and I asked back with the words, "Whenever I hear
+               <lb facs="#facs_81_tr_2_tl_8" n="N006"/>somebody ask such a question, I ask back, "What do you mean with "reason"?" And he
+               <lb facs="#facs_81_tr_2_tl_9" n="N007"/>reacted almost immediately, he was not should, because he knew exactly what reason is, namely
+               <lb facs="#facs_81_tr_2_tl_10" n="N008"/>intellectual endeavor: that was his definition of reason. Now of course, if this is reason, then
+               <lb facs="#facs_81_tr_2_tl_11" n="N009"/>it doesn’t cover what Fromm means at all, and it never covers what I mean with reason,
+               <lb facs="#facs_81_tr_2_tl_12" n="N010"/>and it doesn't cover what the history of philosophy meant with reason. Treason
+               <lb facs="#facs_81_tr_2_tl_13" n="N011"/>meant the structure of mind and reality. But this immediate leaction of a younger boy to my
+            </p>
+            <p facs="#facs_81_tr_1">
+               <lb facs="#facs_81_tr_1_tl_1" n="N001"/>question which tried to trap him /smiling', was very revealed to me. It revealed the fact that
+               <lb facs="#facs_81_tr_1_tl_2" n="N002"/>it’s almost beyond salvation to try to bring back the original meaning of the word reason: it is
+               <lb facs="#facs_81_tr_1_tl_3" n="N003"/>"intellectual endeavor," and this is what it is, and if you speak of morale or aesthetics
+               <lb facs="#facs_81_tr_1_tl_4" n="N004"/>or politics or the universe and its structure, then you shouldn't use that word any more. I am
+               <lb facs="#facs_81_tr_1_tl_5" n="N005"/>very sorry, but I am afraid I have to resign! -- this boy revealed that to me.
+               <lb facs="#facs_81_tr_1_tl_6" n="N006"/>In any case, this is why l hesitate a little to use Fromm’s distinction, although it
+               <lb facs="#facs_81_tr_1_tl_7" n="N007"/>points very much to the same direction.
+               <lb facs="#facs_81_tr_1_tl_8" n="N008"/>Now let's use my own, namely authority in principle and authority in fact. The first
+               <lb facs="#facs_81_tr_1_tl_9" n="N009"/>thing is authority in fact. None of you would be in this room, in this moment, if I were not for you,
+               <lb facs="#facs_81_tr_1_tl_10" n="N010"/>in a limited realm, an authority in fact. But 1 HOPE nabody is in this room who considers me to be
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>
