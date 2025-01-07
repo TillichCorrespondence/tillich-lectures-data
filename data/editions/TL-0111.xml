@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_111">
          <graphic url="TL-0111.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=TALPPBIROMODOUIDRLIPAPFM&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TALPPBIROMODOUIDRLIPAPFM&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="14,243 14,3272 2361,3272 2361,243" rendition="TextRegion" xml:id="facs_111_tr_1">
             <zone points="1225,318 1263,326 1271,334 1352,334 1352,269 1298,277 1279,258 1265,272 1225,272" rendition="Line" xml:id="facs_111_tr_1_tl_1"/>
             <zone points="277,479 1424,485 1424,436 1317,420 277,442" rendition="Line" xml:id="facs_111_tr_1_tl_2"/>
@@ -101,22 +101,22 @@
                <lb facs="#facs_111_tr_1_tl_1" n="N001"/>[108]
                <lb facs="#facs_111_tr_1_tl_2" n="N002"/>under which it was possible to hide one's critical attitude.
                <lb facs="#facs_111_tr_1_tl_3" n="N003"/>Around 1450, the modern development starts. And it starts with the two great names,
-               <lb facs="#facs_111_tr_1_tl_4" n="N004"/><rs type="person" ref="#Copernicus">Copernicus</rs> and <rs type="person" ref="#Galileo">Galileo</rs>. It is of greatest interest to know what happened, when they started the
+               <lb facs="#facs_111_tr_1_tl_4" n="N004"/><rs type="person" ref="#tillich_person_id__3072">Copernicus</rs> and <rs type="person" ref="#tillich_person_id__654">Galileo</rs>. It is of greatest interest to know what happened, when they started the
                <lb facs="#facs_111_tr_1_tl_5" n="N005"/>new astronomical worldview, and the new method of dealing mathematically with nature. Interesting
-               <lb facs="#facs_111_tr_1_tl_6" n="N006"/>is <rs type="person" key="Luther, Martin">Luther's</rs> reaction against Copernicus. He denied it in the name of biblicism, which he sometimes
-               <lb facs="#facs_111_tr_1_tl_7" n="N007"/>had in a rather primitive way, while in other cases he was one of the critics of biblical literalism.
-               <lb facs="#facs_111_tr_1_tl_8" n="N008"/><rs type="keyword" ref="#Inquisition">And Galileo's trial before the Inquisition is common knowledge.
-               <lb break="no" facs="#facs_111_tr_1_tl_9" n="N009"/>What was so terrifying for these men, Protestants as well as Catholics, in the new
-               <lb break="no" facs="#facs_111_tr_1_tl_10" n="N010"/>scientific astronomic world view? It was the end of the central position of the earth. In the whole
-               <lb break="no" facs="#facs_111_tr_1_tl_12" n="N011"/>Middle Ages and in the ancient world, with one exception, the earth was the center and everything
-               <lb break="no" facs="#facs_111_tr_1_tl_13" n="N012"/>else was moving around it</rs>. <rs type="keyword" ref="#Pythagorean_School">In the later development of the Pythagorean school, there was an attack
-               <lb break="no" facs="#facs_111_tr_1_tl_14" n="N013"/>on this. The Pythagoreans SAW that the earth moves around the sun. But this idea was rejected
-               <lb break="no" facs="#facs_111_tr_1_tl_15" n="N014"/>under the guidance of Aristotle. There was a kind of conference of astronomers in which Pythagoreanism
-               <lb break="no" facs="#facs_111_tr_1_tl_16" n="N015"/>was rejected. So, during the whole Middle Ages, the Aristotelian worldview, with the central situation
-               <lb break="no" facs="#facs_111_tr_1_tl_17" n="N016"/>of the earth, was preserved. Of course, this was also the mythological worldview and the biblical
-               <lb break="no" facs="#facs_111_tr_1_tl_18" n="N017"/>worldview.</rs> And now the earth is out of this central position. It is one star like the others.
-               <lb facs="#facs_111_tr_1_tl_19" n="N018"/>The meaning of this was immense, and we must have a little empathy for the Church
-               <lb facs="#facs_111_tr_1_tl_20" n="N019"/>of the 16th and 17th centuries, for which Pascal is the great witness--the feeling of lostness in the
+               <lb facs="#facs_111_tr_1_tl_6" n="N006"/>is Luther's reaction against Copernicus. He denied it in the name of biblicism, which he sometimes
+               <lb facs="#facs_111_tr_1_tl_7" n="N007"/>had in a rather primitive way, while in other cases he was one of the critics of biblical <rs type="keyword" ref="#Literalism">literalism</rs>.
+               <lb facs="#facs_111_tr_1_tl_8" n="N008"/>And Galileo's trial before the <rs type="keyword" ref="#Inquisition">Inquisition</rs> is common knowledge.
+               <lb facs="#facs_111_tr_1_tl_9" n="N009"/>What was so terrifying for these men, Protestants as well as Catholics, in the new
+               <lb facs="#facs_111_tr_1_tl_10" n="N010"/>scientific astronomic world view? It was the end of the central position of the earth. In the whole
+               <lb facs="#facs_111_tr_1_tl_12" n="N011"/>Middle Ages and in the ancient world, with one exception, the earth was the center and everything
+               <lb facs="#facs_111_tr_1_tl_13" n="N012"/>else was moving around it. In the later development of the <rs type="keyword" ref="#Pythagorean_School">Pythagorean school</rs>, there was an attack
+               <lb facs="#facs_111_tr_1_tl_14" n="N013"/>on this. The Pythagoreans SAW that the earth moves around the sun. But this idea was rejected
+               <lb facs="#facs_111_tr_1_tl_15" n="N014"/>under the guidance of <rs type="person" ref="#tillich_person_id__80">Aristotle</rs>. There was a kind of conference of astronomers in which Pythagoreanism
+               <lb facs="#facs_111_tr_1_tl_16" n="N015"/>was rejected. So, during the whole Middle Ages, the Aristotelian worldview, with the central situation
+               <lb facs="#facs_111_tr_1_tl_17" n="N016"/>of the earth, was preserved. Of course, this was also the mythological worldview and the biblical
+               <lb facs="#facs_111_tr_1_tl_18" n="N017"/>worldview. And now the earth is out of this central position. It is one star like the others.
+               <lb facs="#facs_111_tr_1_tl_19" n="N018"/>The meaning of this was immense, and we must have a little empathy for the <rs type="keyword" ref="#Church">Church</rs>
+               <lb facs="#facs_111_tr_1_tl_20" n="N019"/>of the 16th and 17th centuries, for which <rs type="person" ref="#tillich_person_id__1458">Pascal</rs> is the great witness--the feeling of lostness in the
                <lb facs="#facs_111_tr_1_tl_21" n="N020"/>new universe, and the tremendous catastrophes this had for the emotional life. In this moment,
             </p>
             

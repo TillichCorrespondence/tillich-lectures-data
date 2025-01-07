@@ -70,19 +70,19 @@
          <zone points="316,335 2301,335 2301,1162 316,1162" rendition="TextRegion" xml:id="facs_55_tr_2">
             <zone points="1180,400 1214,397 1220,402 1275,400 1283,405 1304,405 1301,344 1262,347 1257,342 1243,355 1236,347 1230,352 1222,347 1217,352 1178,355" rendition="Line" xml:id="facs_55_tr_2_tl_1"/>
             <zone points="315,552 1556,557 1575,481 828,510 397,507 363,473 315,507" rendition="Line" xml:id="facs_55_tr_2_tl_2"/>
-            <zone points="308,620 2237,631 2184,568 308,578" rendition="Line" xml:id="facs_55_tr_2_tl_3"/>
+            <zone points="308,620 2237,631 2184,568 308,578" rendition="Line" xml:id="facs_55_tr_2_tl_3" subtype="paragraph"/>
             <zone points="344,705 2234,710 2234,657 2008,644 344,662" rendition="Line" xml:id="facs_55_tr_2_tl_4"/>
             <zone points="352,789 2179,781 2179,736 352,739" rendition="Line" xml:id="facs_55_tr_2_tl_5"/>
             <zone points="352,862 1212,849 1212,807 1180,804 1120,828 352,799" rendition="Line" xml:id="facs_55_tr_2_tl_6"/>
-            <zone points="302,1004 1364,1012 1364,954 1207,975 1062,915 1015,957 302,952" rendition="Line" xml:id="facs_55_tr_2_tl_7"/>
-            <zone points="305,1080 741,1073 1002,1109 1333,1083 1333,1038 1073,1044 1023,1007 954,1044 305,1041" rendition="Line" xml:id="facs_55_tr_2_tl_8"/>
-            <zone points="302,1154 2298,1159 2234,1096 302,1107" rendition="Line" xml:id="facs_55_tr_2_tl_9"/>
+            <zone points="302,1004 1364,1012 1364,954 1207,975 1062,915 1015,957 302,952" rendition="Line" xml:id="facs_55_tr_2_tl_7" subtype="paragraph"/>
+            <zone points="305,1080 741,1073 1002,1109 1333,1083 1333,1038 1073,1044 1023,1007 954,1044 305,1041" rendition="Line" xml:id="facs_55_tr_2_tl_8" subtype="paragraph"/>
+            <zone points="302,1154 2298,1159 2234,1096 302,1107" rendition="Line" xml:id="facs_55_tr_2_tl_9" subtype="paragraph"/>
          </zone>
          <zone points="301,1245 2415,1245 2415,2293 301,2293" rendition="TextRegion" xml:id="facs_55_tr_3">
             <zone points="305,1306 773,1309 839,1364 915,1309 2303,1309 2303,1254 305,1275" rendition="Line" xml:id="facs_55_tr_3_tl_1"/>
             <zone points="300,1454 1717,1477 2085,1462 2085,1404 300,1425" rendition="Line" xml:id="facs_55_tr_3_tl_2"/>
             <zone points="300,1609 881,1614 881,1554 570,1551 549,1572 502,1551 300,1556" rendition="Line" xml:id="facs_55_tr_3_tl_3"/>
-            <zone points="523,1685 2242,1688 2242,1619 523,1622" rendition="Line" xml:id="facs_55_tr_3_tl_4"/>
+            <zone points="523,1685 2242,1688 2242,1619 523,1622" rendition="Line" xml:id="facs_55_tr_3_tl_4" subtype="paragraph"/>
             <zone points="300,1837 2224,1845 2408,1835 2408,1777 300,1788" rendition="Line" xml:id="facs_55_tr_3_tl_5"/>
             <zone points="289,2006 352,2050 2145,2014 2145,1935 1951,1916 289,1935" rendition="Line" xml:id="facs_55_tr_3_tl_6"/>
             <zone points="289,2163 1751,2182 2206,2140 2206,2087 289,2103" rendition="Line" xml:id="facs_55_tr_3_tl_7"/>
@@ -95,9 +95,6 @@
             <zone points="279,2886 2169,2886 2171,2834 281,2839" rendition="Line" xml:id="facs_55_tr_1_tl_4"/>
             <zone points="284,3039 2116,3076 2116,2984 284,2986" rendition="Line" xml:id="facs_55_tr_1_tl_5"/>
             <zone points="281,3189 1827,3239 2211,3189 2211,3136 281,3141" rendition="Line" xml:id="facs_55_tr_1_tl_6"/>
-            <zone points="741,3470 775,3465 807,3494 896,3478 928,3494 1304,3494 1304,3349 965,3352 894,3378 849,3349 741,3352" rendition="Line" xml:id="facs_55_tr_1_tl_7"/>
-            <zone points="384,3486 402,3480 439,3494 452,3480 486,3480 499,3494 520,3483 589,3496 605,3486 670,3494 668,3336 381,3339" rendition="Line" xml:id="facs_55_tr_1_tl_8"/>
-            <zone points="105,3496 124,3491 134,3496 145,3488 155,3496 168,3488 210,3486 200,3402 187,3404 173,3399 155,3383 131,3383 129,3388 110,3378 92,3381" rendition="Line" xml:id="facs_55_tr_1_tl_9"/>
          </zone>
       </surface>
       
@@ -108,36 +105,33 @@
             <pb facs="#TL-0447.jpg" n="part3_p055.jpg" xml:id="img_0055" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p055.jpg"/>
             
             <p facs="#facs_55_tr_2">
-               <lb facs="#facs_55_tr_2_tl_1" n="N001"/>442.
-               <lb facs="#facs_55_tr_2_tl_2" n="N002"/>PT: You would say it is an understood personality. (laugh ter)
-               <lb facs="#facs_55_tr_2_tl_3" n="N003"/>STUDENT: [Roger Johnson] : The quality of person that is always related to a particular physical
+               <lb facs="#facs_55_tr_2_tl_1" n="N001"/>[442]
+               <lb facs="#facs_55_tr_2_tl_2" n="N002"/>PT: You would say it is an understood personality. <hi style="font-style: italic;">[laughter]</hi>
+               <lb facs="#facs_55_tr_2_tl_3" n="N003"/>STUDENT: [Roger Johnson]: The quality of person that is always related to a particular physical
                <lb facs="#facs_55_tr_2_tl_4" n="N004"/>body, and this is one of the reasons why, in the school of personal idealism, they talk not about
                <lb facs="#facs_55_tr_2_tl_5" n="N005"/>person so much as about personality, because in personality there is that quality which is not
-               <lb facs="#facs_55_tr_2_tl_6" n="N006"/>tied to a physical aspect of the person....
-               <lb facs="#facs_55_tr_2_tl_7" n="N007"/>PT: So a personality is a ghost in this school—a spirit.
-               <lb facs="#facs_55_tr_2_tl_8" n="N008"/>STUDENT: A spirit—not so much &amp; dhost.  Ilaugh ter¬
-               <lb facs="#facs_55_tr_2_tl_9" n="N009"/>PT: Then let us say the English language is in aacvelopment here.  ‘laughter’] Let us make a decision
+               <lb facs="#facs_55_tr_2_tl_6" n="N006"/>tied to a physical aspect of the person...
+               <lb facs="#facs_55_tr_2_tl_7" n="N007"/>PT: So a personality is a ghost in this school--a spirit.
+               <lb facs="#facs_55_tr_2_tl_8" n="N008"/>STUDENT: A spirit--not so much a ghost. <hi style="font-style: italic;">[laughter]</hi>
+               <lb facs="#facs_55_tr_2_tl_9" n="N009"/>PT: Then let us say the English language is in a development here. <hi style="font-style: italic;">[laughter]</hi> Let us make a decision
             </p>
             <p facs="#facs_55_tr_3">
-               <lb facs="#facs_55_tr_3_tl_1" n="N001"/>ourselves, and if you don’t mind, since it is comparately clear, let us simply make the most primitive
+               <lb facs="#facs_55_tr_3_tl_1" n="N001"/>ourselves, and if you don’t mind, since it is comparatively clear, let us simply make the most primitive
                <lb facs="#facs_55_tr_3_tl_2" n="N002"/>differentiation, namely person is somebody who can become a personality, but who is not
                <lb facs="#facs_55_tr_3_tl_3" n="N003"/>necessarily yet a personality.
-               <lb facs="#facs_55_tr_3_tl_4" n="N004"/>Now if you accept this as a wattminary linguistic statement, then we come to the next
+               <lb facs="#facs_55_tr_3_tl_4" n="N004"/>Now if you accept this as a preliminary linguistic statement, then we come to the next
                <lb facs="#facs_55_tr_3_tl_5" n="N005"/>question: how did it come to pass that this concept of person and personality became of such importance?
                <lb facs="#facs_55_tr_3_tl_6" n="N006"/>In Greek thinking the word meant the actor, and it was applied in this form to the Trinitarian
-               <lb facs="#facs_55_tr_3_tl_7" n="N007"/>figures in God—Father, Son, and the Spirit. But it was never applied to God Himself, and I fight
-               <lb facs="#facs_55_tr_3_tl_8" n="N008"/>against the application of the word "person" to God. If you say the word 'personal God,'
+               <lb facs="#facs_55_tr_3_tl_7" n="N007"/>figures in God--Father, Son, and the Spirit. But it was never applied to God Himself, and I fight
+               <lb facs="#facs_55_tr_3_tl_8" n="N008"/>against the application of the word ''person'' to God. If you say the word ''personal God,''
             </p>
             <p facs="#facs_55_tr_1">
-               <lb facs="#facs_55_tr_1_tl_1" n="N001"/>nsA that, I can accept, because that means God is ALS0 the ground of everything personal, and
-               <lb facs="#facs_55_tr_1_tl_2" n="N002"/>therefore He is not LESS than it, buticone than it! But if you say He is a person, you reduce
-               <lb facs="#facs_55_tr_1_tl_3" n="N003"/>Him completely. Now this is a footnote. — How did, out of lprimitive collectivism (to which I come
-               <lb facs="#facs_55_tr_1_tl_4" n="N004"/>later) the idea and the idea of personality develop? I think there are two reasons for this. The
-               <lb facs="#facs_55_tr_1_tl_5" n="N005"/>one reason is the experience of personal guilt—this is the inner-religious Jewishòvelopment.
-               <lb facs="#facs_55_tr_1_tl_6" n="N006"/>And the other is the ability of asking questions—this is the Greeknelopment. And on the basis
-               <lb facs="#facs_55_tr_1_tl_7" n="N007"/>dʼordre de lʼautre vieuse,
-               <lb facs="#facs_55_tr_1_tl_8" n="N008"/>de votre beaucoup
-               <lb facs="#facs_55_tr_1_tl_9" n="N009"/>Monsieur
+               <lb facs="#facs_55_tr_1_tl_1" n="N001"/>that, I can accept, because that means God is ALSO the ground of everything personal, and
+               <lb facs="#facs_55_tr_1_tl_2" n="N002"/>therefore He is not LESS than it, but MORE than it! But if you say He is a person, you reduce
+               <lb facs="#facs_55_tr_1_tl_3" n="N003"/>Him completely. Now this is a footnote.--How did, out of primitive collectivism (to which I come
+               <lb facs="#facs_55_tr_1_tl_4" n="N004"/>later) the idea and the ideal of personality develop? I think there are two reasons for this. The
+               <lb facs="#facs_55_tr_1_tl_5" n="N005"/>one reason is the experience of personal guilt--this is the inner-religious Jewish development.
+               <lb facs="#facs_55_tr_1_tl_6" n="N006"/>And the other is the ability of asking questions--this is the Greek development. And on the basis
             </p>
             
         </div>

@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_72">
          <graphic url="TL-0072.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=ZAOSGIBLWNUDVWZPDPFNFZEU&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZAOSGIBLWNUDVWZPDPFNFZEU&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="256,80 256,3488 2310,3488 2310,80" rendition="TextRegion" xml:id="facs_72_tr_2">
             <zone points="1120,284 1138,284 1147,294 1175,291 1177,296 1192,294 1199,286 1212,289 1216,220 1212,217 1202,217 1182,234 1167,225 1142,247 1123,249" rendition="Line" xml:id="facs_72_tr_2_tl_3"/>
             <zone points="323,444 575,444 609,476 688,444 1056,461 1054,390 965,392 940,417 883,395 846,422 777,392 728,417 691,380 587,417 545,392 363,390 323,417" rendition="Line" xml:id="facs_72_tr_2_tl_6" subtype="heading"/>
@@ -114,24 +114,24 @@
                <lb facs="#facs_72_tr_2_tl_6" n="N002"/>LECTURE VIII -- Oct. 25, 1955
                <lb facs="#facs_72_tr_2_tl_7" n="N003"/>The next realm we must discuss is the relationship of religion and the
                <lb facs="#facs_72_tr_2_tl_8" n="N004"/>technical realm. The first part will deal with the logical structure of the technical
-               <lb facs="#facs_72_tr_2_tl_9" n="N005"/>realm, and then we will discuss its relationship to the religious problem. <technology>Now the first
-               <lb break="no" facs="#facs_72_tr_2_tl_10" n="N006"/>thing I have to justify is that this is the second cultural function after language: technology.
-               <lb break="no" facs="#facs_72_tr_2_tl_11" n="N007"/>This is important in relation to science, to which we will come after having discussed the
-               <lb break="no" facs="#facs_72_tr_2_tl_12" n="N008"/>technical realm</technology>.
+               <lb facs="#facs_72_tr_2_tl_9" n="N005"/>realm, and then we will discuss its relationship to the religious problem. Now the first
+               <lb facs="#facs_72_tr_2_tl_10" n="N006"/>thing I have to justify is that this is the second cultural function after <rs type="keyword" ref="#Language">language</rs>: <rs type="keyword" ref="#Technology">technology</rs>.
+               <lb facs="#facs_72_tr_2_tl_11" n="N007"/>This is important in relation to <rs type="keyword" ref="#Science">science</rs>, to which we will come after having discussed the
+               <lb facs="#facs_72_tr_2_tl_12" n="N008"/>technical realm.
                <lb facs="#facs_72_tr_2_tl_13" n="N009"/>The world is not a totality of observed objects, but the world is a totality
                <lb facs="#facs_72_tr_2_tl_14" n="N010"/>of usable tools--this is an important insight, that man (and not only man, but all living
                <lb facs="#facs_72_tr_2_tl_15" n="N011"/>beings) has first of all a relationship to reality which has the character of tool, of
                <lb facs="#facs_72_tr_2_tl_16" n="N012"/>means and ends, of using and not of contemplating. The tool-character of things
                <lb facs="#facs_72_tr_2_tl_17" n="N013"/>precedes, in pragmatic dignity and in developmental priority, its object-character.
-               <lb facs="#facs_72_tr_2_tl_18" n="N014"/><rs type="person" key="Heidegger, Martin">This is especially emphasized by the philosopher Heidegger and is a very important part
-               <lb break="no" facs="#facs_72_tr_2_tl_19" n="N015"/>of the understanding of man and man's existence in his world. Man is not a scientific
-               <lb break="no" facs="#facs_72_tr_2_tl_20" n="N016"/>subject, but man is first of all somebody who uses things. He is first of all pragmatic,
-               <lb break="no" facs="#facs_72_tr_2_tl_21" n="N017"/>acting, before he is observing.</rs>
+               <lb facs="#facs_72_tr_2_tl_18" n="N014"/>This is especially emphasized by the philosopher <rs type="person" ref="#tillich_person_id__841">Heidegger</rs> and is a very important part
+               <lb facs="#facs_72_tr_2_tl_19" n="N015"/>of the understanding of man and man's existence in his world. Man is not a scientific
+               <lb facs="#facs_72_tr_2_tl_20" n="N016"/>subject, but man is first of all somebody who uses things. He is first of all pragmatic,
+               <lb facs="#facs_72_tr_2_tl_21" n="N017"/>acting, before he is observing.
                <lb facs="#facs_72_tr_2_tl_22" n="N018"/>The things are first of all FOR US, adaptable to our purposes before they
                <lb facs="#facs_72_tr_2_tl_23" n="N019"/>are in themselves what they are, or, as we call it, pure objects. This leads to the general
                <lb facs="#facs_72_tr_2_tl_24" n="N020"/>statement that the active relationship of man to his world precedes the contemplative
                <lb facs="#facs_72_tr_2_tl_25" n="N021"/>relationship. This has many other consequences also, but I want first to apply this
-               <lb facs="#facs_72_tr_2_tl_26" n="N022"/>fundamental insight to the problem of the technical realm, of technology in general
+               <lb facs="#facs_72_tr_2_tl_26" n="N022"/>fundamental insight to the problem of the technical realm, of <rs type="keyword" ref="#Technology">technology</rs> in general
                <lb facs="#facs_72_tr_2_tl_27" n="N023"/>terms.
                <lb facs="#facs_72_tr_2_tl_28" n="N024"/>What is the relationship of action and contemplation? To understand this
                <lb facs="#facs_72_tr_2_tl_29" n="N025"/>it is good to observe an animal and to ask oneself--for instance, if one has a dog, a cat--

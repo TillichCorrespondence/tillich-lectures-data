@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_110">
          <graphic url="TL-0110.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=XZSFNXFFVVAXULBMNDMMHQRL&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XZSFNXFFVVAXULBMNDMMHQRL&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="47,268 47,3478 2349,3478 2349,268" rendition="TextRegion" xml:id="facs_110_tr_1">
             <zone points="1108,333 1123,333 1131,340 1153,338 1163,348 1183,350 1201,345 1226,348 1236,338 1256,340 1253,295 1231,295 1218,283 1206,283 1191,273 1173,270 1153,290 1106,290" rendition="Line" xml:id="facs_110_tr_1_tl_1"/>
             <zone points="370,455 2239,490 2236,438 370,408" rendition="Line" xml:id="facs_110_tr_1_tl_2"/>
@@ -108,22 +108,22 @@
             
             <p facs="#facs_110_tr_1">
                <lb facs="#facs_110_tr_1_tl_1" n="N001"/>[107]
-               <lb facs="#facs_110_tr_1_tl_2" n="N002"/>the most sharp-minded of all medieval theologians and philosophers, <rs type="person" key="Scotus, Duns">Duns Scotus</rs>, tried to show
+               <lb facs="#facs_110_tr_1_tl_2" n="N002"/>the most sharp-minded of all medieval theologians and philosophers, <rs type="person" ref="#tillich_person_id__494">Duns Scotus</rs>, tried to show
                <lb facs="#facs_110_tr_1_tl_3" n="N003"/>the inadequacy of the Thomistic synthesis and tried to put the religious insights to the one side,
                <lb facs="#facs_110_tr_1_tl_4" n="N004"/>and the insights in the structure of the universe to the other side.
-               <lb facs="#facs_110_tr_1_tl_5" n="N005"/>Out of this criticism, which was carried through by the nominalistic movement, not
+               <lb facs="#facs_110_tr_1_tl_5" n="N005"/>Out of this criticism, which was carried through by the <rs type="keyword" ref="#Nominalism">nominalistic</rs> movement, not
                <lb facs="#facs_110_tr_1_tl_6" n="N006"/>only in the Middle Ages but also later in English empiricism, the intellectual fathers of all of us --
                <lb facs="#facs_110_tr_1_tl_8" n="N007"/>as I said already, I think, and will repeat: you all are nominalists by birth! [some laughter] --
                <lb facs="#facs_110_tr_1_tl_9" n="N008"/>these nominalists put the one of the one side, and the other on the other side. But life is not like this!
                <lb facs="#facs_110_tr_1_tl_10" n="N009"/>And so it always happened that there were realms of conflict. And it developed, at the end of the
-               <lb facs="#facs_110_tr_1_tl_11" n="N010"/>Middle Ages, preparing the Renaissance, the classical doctrine of the double truth, a doctrine which
+               <lb facs="#facs_110_tr_1_tl_11" n="N010"/>Middle Ages, preparing the <rs type="keyword" ref="#Renaissance">Renaissance</rs>, the classical doctrine of the double truth, a doctrine which
                <lb facs="#facs_110_tr_1_tl_12" n="N011"/>says that the same statement -- for instance, about the immortality of the soul -- can be true in
                <lb facs="#facs_110_tr_1_tl_13" n="N012"/>theology and not true in philosophy, and that the same statement about the validity of natural laws
                <lb facs="#facs_110_tr_1_tl_14" n="N013"/>can be true in physics but not true in religion.
                <lb facs="#facs_110_tr_1_tl_15" n="N014"/>Now this doctrine, of course, means a complete schizophrenia, a split of the mind, and
                <lb facs="#facs_110_tr_1_tl_16" n="N015"/>couldn't be maintained in the long run, it was necessary, in the period of the late Middle Ages,
                <lb facs="#facs_110_tr_1_tl_17" n="N016"/>in order to survive, if one tried to make empirical studies, because this was the only way in which
-               <lb facs="#facs_110_tr_1_tl_18" n="N017"/>one could escape the at-that-time absolutely tyrannical power of the Church, which always becomes
+               <lb facs="#facs_110_tr_1_tl_18" n="N017"/>one could escape the at-that-time absolutely tyrannical power of the <rs type="keyword" ref="#Church">Church</rs>, which always becomes
                <lb facs="#facs_110_tr_1_tl_19" n="N018"/>tyranical, oppressive, producing the inquisition only in that period, when it feels threatened.
                <lb facs="#facs_110_tr_1_tl_20" n="N019"/>And it rightly felt threatened at that time, and so its reaction was such that everybody who wanted
                <lb facs="#facs_110_tr_1_tl_21" n="N020"/>to make scientific inquiries was in real danger, and the doctrine of the double truth was the subterfuge

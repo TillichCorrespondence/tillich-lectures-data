@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_139">
          <graphic url="TL-0139.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=YOMSURXMVZUQHZWMJBUSZZRX&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YOMSURXMVZUQHZWMJBUSZZRX&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="223,161 223,3225 2349,3225 2349,161" rendition="TextRegion" xml:id="facs_139_tr_2">
             <zone points="1099,243 1122,245 1130,253 1180,251 1203,256 1211,256 1214,248 1227,248 1227,188 1169,188 1161,196 1135,188 1099,191" rendition="Line" xml:id="facs_139_tr_2_tl_1"/>
             <zone points="318,444 950,467 989,501 1104,457 1903,462 2057,522 2156,465 2305,485 2302,329 2216,331 2091,425 1430,412 1370,378 1336,412 1078,410 893,269 726,399 318,397" rendition="Line" xml:id="facs_139_tr_2_tl_2"/>
@@ -99,10 +99,10 @@
             
             <p facs="#facs_139_tr_2">
                <lb facs="#facs_139_tr_2_tl_1" n="N001"/>[136]
-               <lb facs="#facs_139_tr_2_tl_2" n="N002"/>space--this side we call ''<rs type="keyword" ref="#Body">body</rs>,'' it ENBODIES itself in time and space; and the other side is ''<rs type="keyword" ref="#Mind">mind</rs>,''
+               <lb facs="#facs_139_tr_2_tl_2" n="N002"/><rs type="keyword" ref="#Space">space</rs>--this side we call ''<rs type="keyword" ref="#Body">body</rs>,'' it ENBODIES itself in time and space; and the other side is ''<rs type="keyword" ref="#Mind">mind</rs>,''
                <lb facs="#facs_139_tr_2_tl_3" n="N003"/>it is able to have relationship to universals, to principles, to laws, to norms, and is able to understand
                <lb facs="#facs_139_tr_2_tl_4" n="N004"/>them and, beyond all this, to go into the ultimate problems of man's relationship to the eternal.
-               <lb facs="#facs_139_tr_2_tl_5" n="N005"/>All this is not a matter of physical or biological or psychological or sociological doctrine of man.
+               <lb facs="#facs_139_tr_2_tl_5" n="N005"/>All this is not a matter of physical or biological or psychological or sociological <rs type="keyword" ref="#Doctrine_of_man">doctrine of man</rs>.
                <lb facs="#facs_139_tr_2_tl_6" n="N006"/>All this is a matter of different theories, none of which contradicts essentially the situation of <ultimate_concern>ultimate
                <lb break="no" facs="#facs_139_tr_2_tl_7" n="N007"/>concern</ultimate_concern>, and none of which CONFIRMS definitively the situation of ultimate concern. Here also
                <lb facs="#facs_139_tr_2_tl_8" n="N008"/>we must be as cautious as in the other form of <rs type="keyword" ref="#Physics">physics</rs>.
@@ -115,7 +115,7 @@
                <lb facs="#facs_139_tr_2_tl_15" n="N015"/>genetically, has many causes: there is the chemical cause, which has to do with the sex substance
                <lb facs="#facs_139_tr_2_tl_16" n="N016"/>of both sexes; there are the nervous dynamics in the body of each of them; there are longings of one for
                <lb facs="#facs_139_tr_2_tl_17" n="N017"/>what he has not, and can have by the other one--all these things are there. There are many elements
-               <lb facs="#facs_139_tr_2_tl_18" n="N018"/>of anxiety, of loneliness, of guilt feelings, and there is finally something in which one individual being
+               <lb facs="#facs_139_tr_2_tl_18" n="N018"/>of <rs type="keyword" ref="#Anxiety">anxiety</rs>, of loneliness, of guilt feelings, and there is finally something in which one individual being
                <lb facs="#facs_139_tr_2_tl_19" n="N019"/>affirms another individual being in terms of surrender, trust, desire to be with him or her. Now this is the
                <lb facs="#facs_139_tr_2_tl_20" n="N020"/>genesis. If you SAY that the fact that there are chemical processes participating in such a relationship
             </p>
