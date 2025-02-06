@@ -68,7 +68,6 @@
          <graphic url="TL-0458.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=MGMDUUZDEHKACOBSUCLKSGXK&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="250,54 2266,54 2266,831 250,831" rendition="TextRegion" xml:id="facs_66_tr_3">
-            <zone points="235,114 306,116 311,111 316,116 352,116 354,0 238,0" rendition="Line" xml:id="facs_66_tr_3_tl_1"/>
             <zone points="1180,370 1195,370 1200,375 1207,370 1220,382 1235,382 1238,377 1248,382 1276,382 1288,372 1304,370 1299,316 1263,319 1245,301 1233,311 1220,306 1202,319 1174,319" rendition="Line" xml:id="facs_66_tr_3_tl_2"/>
             <zone points="329,516 1855,532 2215,504 2215,446 1934,458 1855,405 1800,461 329,473" rendition="Line" xml:id="facs_66_tr_3_tl_3"/>
             <zone points="319,673 2197,709 2245,706 2245,597 319,640" rendition="Line" xml:id="facs_66_tr_3_tl_4"/>
@@ -82,7 +81,7 @@
             <zone points="319,1580 2045,1602 2182,1585 2184,1504 321,1526" rendition="Line" xml:id="facs_66_tr_2_tl_5"/>
             <zone points="327,1739 2076,1724 2222,1711 2222,1655 327,1678" rendition="Line" xml:id="facs_66_tr_2_tl_6"/>
             <zone points="324,1881 1757,1893 2055,1878 2081,1815 324,1850" rendition="Line" xml:id="facs_66_tr_2_tl_7"/>
-            <zone points="544,2022 2081,2025 2212,2012 2212,1954 544,1974" rendition="Line" xml:id="facs_66_tr_2_tl_8"/>
+            <zone points="544,2022 2081,2025 2212,2012 2212,1954 544,1974" rendition="Line" xml:id="facs_66_tr_2_tl_8" subtype="paragraph"/>
          </zone>
          <zone points="54,2105 2245,2105 2245,3485 54,3485" rendition="TextRegion" xml:id="facs_66_tr_1">
             <zone points="316,2184 408,2245 1871,2212 2202,2162 2202,2109 316,2149" rendition="Line" xml:id="facs_66_tr_1_tl_1"/>
@@ -93,12 +92,6 @@
             <zone points="324,2934 2055,2919 2162,2911 2162,2860 324,2886" rendition="Line" xml:id="facs_66_tr_1_tl_6"/>
             <zone points="324,3091 2081,3078 2169,3065 2172,3005 327,3032" rendition="Line" xml:id="facs_66_tr_1_tl_7"/>
             <zone points="329,3250 1088,3237 1088,3184 329,3194" rendition="Line" xml:id="facs_66_tr_1_tl_8"/>
-            <zone points="1088,3486 1207,3488 1220,3475 1250,3493 1314,3491 1352,3460 1382,3463 1400,3316 1273,3313 1124,3435 1096,3435" rendition="Line" xml:id="facs_66_tr_1_tl_9"/>
-            <zone points="853,3486 871,3486 886,3470 911,3478 921,3468 949,3486 969,3486 1020,3450 1040,3468 1066,3463 1091,3437 1142,3450 1142,3394 853,3397" rendition="Line" xml:id="facs_66_tr_1_tl_10"/>
-            <zone points="40,3432 84,3445 127,3440 147,3448 253,3440 251,3336 208,3346 187,3326 38,3324" rendition="Line" xml:id="facs_66_tr_1_tl_11"/>
-            <zone points="299,3478 327,3493 385,3493 430,3473 461,3488 570,3488 590,3473 600,3486 625,3486 630,3410 456,3402 395,3420 387,3412 377,3422 304,3422" rendition="Line" xml:id="facs_66_tr_1_tl_12"/>
-            <zone points="61,3491 71,3486 124,3488 132,3483 116,3440 101,3448 89,3440 66,3432 63,3437 53,3437 48,3442 43,3442" rendition="Line" xml:id="facs_66_tr_1_tl_13"/>
-            <zone points="114,3483 139,3488 175,3486 182,3493 192,3493 200,3486 253,3488 258,3442 238,3435 213,3445 195,3440 180,3448 159,3440 152,3448 119,3442" rendition="Line" xml:id="facs_66_tr_1_tl_14"/>
          </zone>
       </surface>
       
@@ -109,37 +102,30 @@
             <pb facs="#TL-0458.jpg" n="part3_p066.jpg" xml:id="img_0066" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p066.jpg"/>
             
             <p facs="#facs_66_tr_3">
-               <lb facs="#facs_66_tr_3_tl_1" n="N001"/>dʼêtre
-               <lb facs="#facs_66_tr_3_tl_2" n="N002"/>us¬
-               <lb facs="#facs_66_tr_3_tl_3" n="N003"/>because man remains man, even if Queen Victoria demands him to be not man! /little daughter]
-               <lb facs="#facs_66_tr_3_tl_4" n="N004"/>And therefore, suddenly,ftporadically and then generally, the B.volt of the repressed seeps up and
-               <lb facs="#facs_66_tr_3_tl_5" n="N005"/>becomes powerful. But now the situation is the following: this revolt is still under the pressure of
+               <lb facs="#facs_66_tr_3_tl_2" n="N001"/>[453]
+               <lb facs="#facs_66_tr_3_tl_3" n="N002"/>because man remains man, even if Queen Victoria demands him to be not man! <hi style="font-style: italic;">[little laughter]</hi>
+               <lb facs="#facs_66_tr_3_tl_4" n="N003"/>And therefore, suddenly, sporadically and then generally, the revolt of the repressed seeps up and
+               <lb facs="#facs_66_tr_3_tl_5" n="N004"/>becomes powerful. But now the situation is the following: this revolt is still under the pressure of
             </p>
             <p facs="#facs_66_tr_2">
-               <lb facs="#facs_66_tr_2_tl_1" n="N001"/>the suppression commandments of the idea of personality. Therefore it is done with passion, but
-               <lb facs="#facs_66_tr_2_tl_2" n="N002"/>not always with good conscience. The conscience represents not in itself a divine or rational command,
-               <lb facs="#facs_66_tr_2_tl_3" n="N003"/>but it represents the symbols of the Victorian period. Therefore it produced a bad conscience
-               <lb facs="#facs_66_tr_2_tl_4" n="N004"/>about the acceptance of vitality generally. On the other hand, the power of that which is repressed
-               <lb facs="#facs_66_tr_2_tl_5" n="N005"/>is so strong that it kreaks through and forces revolt with bad conscience. Now this is my main
-               <lb facs="#facs_66_tr_2_tl_6" n="N006"/>anelysis of the state of mind in the present and the little bit preceding generation--perhaps more
-               <lb facs="#facs_66_tr_2_tl_7" n="N007"/>even the preceding than the present. All this is a consequence of the idea of personality.
+               <lb facs="#facs_66_tr_2_tl_1" n="N001"/>the suppressing commandments of the ideal of <rs type="keyword" ref="#Personality">personality</rs>. Therefore it is done with passion, but
+               <lb facs="#facs_66_tr_2_tl_2" n="N002"/>not always with good <rs type="keyword" ref="#Conscience">conscience</rs>. The conscience represents not in itself a divine or rational command,
+               <lb facs="#facs_66_tr_2_tl_3" n="N003"/>but it represents the <rs type="keyword" ref="#Symbols">symbols</rs> of the Victorian period. Therefore it produces a bad conscience
+               <lb facs="#facs_66_tr_2_tl_4" n="N004"/>about the acceptance of vitality generally. On the other hand, the power of that which is <rs type="keyword" ref="#Repression">repressed</rs>
+               <lb facs="#facs_66_tr_2_tl_5" n="N005"/>is so strong that it breaks through and forces revolt with bad conscience. Now this is my main
+               <lb facs="#facs_66_tr_2_tl_6" n="N006"/>analysis of the state of <rs type="keyword" ref="#Mind">mind</rs> in the present and the little bit preceding generation--perhaps more
+               <lb facs="#facs_66_tr_2_tl_7" n="N007"/>even the preceding than the present. All this is a consequence of the ideal of personality.
                <lb facs="#facs_66_tr_2_tl_8" n="N008"/>The question now arises: what, in the different forms, can help us to overcome this
             </p>
             <p facs="#facs_66_tr_1">
-               <lb facs="#facs_66_tr_1_tl_1" n="N001"/>ideal of personality which is equally lapported by religion and by humanism? very often—and
-               <lb facs="#facs_66_tr_1_tl_2" n="N002"/>maybe you have learned this from these lectures—the answer "religion" is not answer at all,
-               <lb facs="#facs_66_tr_1_tl_3" n="N003"/>because religion has entered the same transformation which we find in the general culture.
-               <lb facs="#facs_66_tr_1_tl_4" n="N004"/>whether [it is] repress _ion by the Ten Commandments and their interpretation in Protestant
-               <lb facs="#facs_66_tr_1_tl_5" n="N005"/>preacking and indoctrination, from earlier days on—or whether the demands of a secular puritan
-               <lb facs="#facs_66_tr_1_tl_6" n="N006"/>nationality, as we find it in Kantianism—doesn't make any difference. And the one is not the
+               <lb facs="#facs_66_tr_1_tl_1" n="N001"/>ideal of <rs type="keyword" ref="#Personality">personality</rs> which is equally supported by <rs type="keyword" ref="#RELIGION">religion</rs> and by <rs type="keyword" ref="#Humanism">humanism</rs>? Very often--and
+               <lb facs="#facs_66_tr_1_tl_2" n="N002"/>maybe you have learned this from these lectures--the answer ''religion'' is not answer at all,
+               <lb facs="#facs_66_tr_1_tl_3" n="N003"/>because religion has entered the same transformations which we find in the general <rs type="keyword" ref="#Culture">culture</rs>.
+               <lb facs="#facs_66_tr_1_tl_4" n="N004"/>Whether [it is] repression by the <rs type="keyword" ref="#Ten_Commandments">Ten Commandments </rs>and their interpretation in <rs type="keyword" ref="#Protestantism">Protestant</rs>
+               <lb facs="#facs_66_tr_1_tl_5" n="N005"/>preaching and indoctrination, from earliest days on--or whether the demands of a <rs type="keyword" ref="#Secular">secular</rs> puritan
+               <lb facs="#facs_66_tr_1_tl_6" n="N006"/><rs type="keyword" ref="#Rationality">rationality</rs>, as we find it in Kantianism--doesn't make any difference. And the one is not the
                <lb facs="#facs_66_tr_1_tl_7" n="N007"/>solution for the other. Ultimately the secular repressive powers are only secularized religious
-               <lb facs="#facs_66_tr_1_tl_8" n="N008"/> powers from which they finally come.
-               <lb facs="#facs_66_tr_1_tl_9" n="N009"/>Monsieur Mounard,
-               <lb facs="#facs_66_tr_1_tl_10" n="N010"/>dʼavoir lʼautreur beaucoup
-               <lb facs="#facs_66_tr_1_tl_11" n="N011"/>Mais elle est vrai a été
-               <lb facs="#facs_66_tr_1_tl_12" n="N012"/>dʼavoir lʼautre vieuse
-               <lb facs="#facs_66_tr_1_tl_13" n="N013"/>dʼun autre
-               <lb facs="#facs_66_tr_1_tl_14" n="N014"/>dʼune manière
+               <lb facs="#facs_66_tr_1_tl_8" n="N008"/>powers from which they finally come.
             </p>
             
         </div>

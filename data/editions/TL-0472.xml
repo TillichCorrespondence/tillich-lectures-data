@@ -68,8 +68,6 @@
          <graphic url="TL-0472.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=EBAJZSJVEQATVLNNABVEFWBG&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="20,24 2274,24 2274,1690 20,1690" rendition="TextRegion" xml:id="facs_80_tr_2">
-            <zone points="5,86 18,86 31,99 44,99 57,86 86,86 86,8 62,10 57,16 5,16" rendition="Line" xml:id="facs_80_tr_2_tl_1"/>
-            <zone points="2142,86 2259,86 2259,0 2142,0" rendition="Line" xml:id="facs_80_tr_2_tl_2"/>
             <zone points="1127,323 1140,320 1182,357 1200,357 1221,333 1249,328 1247,263 1124,271" rendition="Line" xml:id="facs_80_tr_2_tl_3"/>
             <zone points="281,476 2243,494 2176,409 1317,437 1234,377 1174,435 281,440" rendition="Line" xml:id="facs_80_tr_2_tl_4"/>
             <zone points="281,638 2212,638 2212,578 281,580" rendition="Line" xml:id="facs_80_tr_2_tl_5"/>
@@ -88,22 +86,12 @@
             <zone points="265,2290 2170,2293 2170,2230 265,2246" rendition="Line" xml:id="facs_80_tr_3_tl_4"/>
             <zone points="258,2439 1530,2441 1728,2498 2116,2439 2116,2389 258,2397" rendition="Line" xml:id="facs_80_tr_3_tl_5"/>
             <zone points="258,2592 1140,2597 1140,2545 640,2537 565,2566 489,2540 258,2548" rendition="Line" xml:id="facs_80_tr_3_tl_6"/>
-            <zone points="453,2738 2051,2774 2197,2735 2197,2673 453,2683" rendition="Line" xml:id="facs_80_tr_3_tl_7"/>
+            <zone points="453,2738 2051,2774 2197,2735 2197,2673 453,2683" rendition="Line" xml:id="facs_80_tr_3_tl_7" subtype="paragraph"/>
          </zone>
          <zone points="23,2831 2343,2831 2343,3494 23,3494" rendition="TextRegion" xml:id="facs_80_tr_1">
             <zone points="250,2886 2142,2980 2249,2946 2251,2821 1741,2842 1577,2785 1392,2845 250,2863" rendition="Line" xml:id="facs_80_tr_1_tl_1"/>
             <zone points="247,3107 2285,3045 2301,2990 247,2998" rendition="Line" xml:id="facs_80_tr_1_tl_2"/>
             <zone points="247,3204 2340,3232 2340,3178 245,3175" rendition="Line" xml:id="facs_80_tr_1_tl_3"/>
-            <zone points="1114,3420 1132,3420 1140,3414 1150,3417 1156,3412 1205,3414 1202,3349 1179,3349 1158,3344 1135,3355 1111,3355" rendition="Line" xml:id="facs_80_tr_1_tl_4"/>
-            <zone points="13,3493 65,3495 86,3487 115,3495 174,3485 164,3308 141,3316 68,3310 3,3316" rendition="Line" xml:id="facs_80_tr_1_tl_5"/>
-            <zone points="765,3493 783,3493 794,3485 830,3493 864,3482 877,3493 903,3493 916,3480 932,3480 937,3370 833,3365 812,3370 794,3388 770,3386" rendition="Line" xml:id="facs_80_tr_1_tl_6"/>
-            <zone points="992,3425 1005,3427 1010,3433 1023,3430 1028,3435 1041,3435 1049,3427 1093,3430 1096,3349 1057,3352 1031,3347 1018,3352 994,3349" rendition="Line" xml:id="facs_80_tr_1_tl_7"/>
-            <zone points="1200,3485 1244,3474 1262,3493 1275,3493 1291,3477 1306,3477 1338,3493 1361,3493 1392,3469 1431,3459 1429,3375 1195,3373" rendition="Line" xml:id="facs_80_tr_1_tl_8"/>
-            <zone points="1106,3493 1132,3493 1135,3490 1145,3495 1171,3477 1197,3477 1205,3414 1182,3412 1171,3417 1166,3412 1148,3414 1116,3407" rendition="Line" xml:id="facs_80_tr_1_tl_9"/>
-            <zone points="362,3441 377,3443 385,3433 409,3427 432,3443 450,3430 479,3441 484,3433 507,3433 528,3414 565,3409 565,3342 502,3347 471,3339 450,3347 432,3339 416,3352 359,3360" rendition="Line" xml:id="facs_80_tr_1_tl_10"/>
-            <zone points="557,3461 583,3464 604,3451 617,3464 653,3467 682,3490 723,3490 726,3365 710,3365 687,3381 643,3378 622,3388 593,3365 560,3365" rendition="Line" xml:id="facs_80_tr_1_tl_11"/>
-            <zone points="265,3495 299,3493 304,3487 315,3495 354,3493 341,3331 325,3336 310,3331 297,3342 276,3349 252,3349" rendition="Line" xml:id="facs_80_tr_1_tl_12"/>
-            <zone points="458,3493 497,3487 502,3493 586,3495 648,3487 656,3495 682,3495 679,3456 648,3464 625,3441 601,3438 583,3422 523,3443 492,3430 479,3441 455,3435" rendition="Line" xml:id="facs_80_tr_1_tl_13"/>
          </zone>
       </surface>
       
@@ -114,42 +102,30 @@
             <pb facs="#TL-0472.jpg" n="part3_p080.jpg" xml:id="img_0080" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p080.jpg"/>
             
             <p facs="#facs_80_tr_2">
-               <lb facs="#facs_80_tr_2_tl_1" n="N001"/>tsn
-               <lb facs="#facs_80_tr_2_tl_2" n="N002"/>lʼauteur ses
-               <lb facs="#facs_80_tr_2_tl_3" n="N003"/>-467.
-               <lb facs="#facs_80_tr_2_tl_4" n="N004"/>metaphysical questions by a definition. Every child can put to Lea-me those Ihilos congress whoény
-               <lb facs="#facs_80_tr_2_tl_5" n="N005"/>philos kvphy. (litfte laughter). Now these questions, even if the children do not ask them actually,
-               <lb facs="#facs_80_tr_2_tl_6" n="N006"/>are IN the children-veryisserently but they all have their life problems. They have their
-               <lb facs="#facs_80_tr_2_tl_7" n="N007"/>probiems that some things they would LIBE to have, they CANNOT get; that some things they don’t
-               <lb facs="#facs_80_tr_2_tl_8" n="N008"/>like to do, they MUST do; that other things give them joy, if they are doing them; that there is a
-               <lb facs="#facs_80_tr_2_tl_9" n="N009"/>hostility they feel very early in the love of their mother, or in the hestility in themselves against a
-               <lb facs="#facs_80_tr_2_tl_10" n="N010"/>younger brother or sister; there are difficulties of getting friends—there are all kinds of problem
-               <lb facs="#facs_80_tr_2_tl_11" n="N011"/>in every child. There are very early, often, krotic lproblems. Now all problem are there.
-               <lb facs="#facs_80_tr_2_tl_12" n="N012"/>You are able, if you have very little bit insight into the human soul (and we have today much
+               <lb facs="#facs_80_tr_2_tl_3" n="N001"/>[467]
+               <lb facs="#facs_80_tr_2_tl_4" n="N002"/><rs type="keyword" ref="#Metaphysics">metaphysical</rs> questions by a definition. Every child can put to shame those <rs type="keyword" ref="#Philosopher">philosophers</rs> who deny
+               <lb facs="#facs_80_tr_2_tl_5" n="N003"/><rs type="keyword" ref="#Philosophy">philosophy</rs>. <hi style="font-style: italic;">[little laughter]</hi> Now these questions, even if the children do not ask them actually,
+               <lb facs="#facs_80_tr_2_tl_6" n="N004"/>are IN the children--very differently but they all have their life problems. They have their
+               <lb facs="#facs_80_tr_2_tl_7" n="N005"/>problems that some things they would LIKE to have, they CANNOT get; that some things they don’t
+               <lb facs="#facs_80_tr_2_tl_8" n="N006"/>like to do, they MUST do; that other things give them joy, if they are doing them; that there is a
+               <lb facs="#facs_80_tr_2_tl_9" n="N007"/>hostility they feel very early in the love of their mother, or in the hostility in themselves against a
+               <lb facs="#facs_80_tr_2_tl_10" n="N008"/>younger brother or sister; there are difficulties of getting friends--there are all kinds of problems
+               <lb facs="#facs_80_tr_2_tl_11" n="N009"/>in every child. There are very early, often, erotic problems. Now all problems are there.
+               <lb facs="#facs_80_tr_2_tl_12" n="N010"/>You are able, if you have very little bit insight into the human <rs type="keyword" ref="#Soul">soul</rs> (and we have today much
             </p>
             <p facs="#facs_80_tr_3">
-               <lb facs="#facs_80_tr_3_tl_1" n="N001"/>possilibities of these insight) to know where the questions lie if you observe a child. And then,
-               <lb facs="#facs_80_tr_3_tl_2" n="N002"/>even if the question is not formalated—and very rarely will it be formulated—it CAN be got out;
-               <lb facs="#facs_80_tr_3_tl_3" n="N003"/>you can find out; you can bring it into consciousness. And to these questions the religious symbols
-               <lb facs="#facs_80_tr_3_tl_4" n="N004"/>are the answers. And all these questions have something to do with the fundamental question of
-               <lb facs="#facs_80_tr_3_tl_5" n="N005"/>finitude, to which God is the answer; or the fundamental question of etuilt feeling, to wch
-               <lb facs="#facs_80_tr_3_tl_6" n="N006"/>reconciliation, ororgiveness, is the answer.
-               <lb facs="#facs_80_tr_3_tl_7" n="N007"/>Now this CAN BE DONE, and ONLy if these questions are alive and are brought into
+               <lb facs="#facs_80_tr_3_tl_1" n="N001"/>possibilities of these insights) to know where the questions lie if you observe a child. And then,
+               <lb facs="#facs_80_tr_3_tl_2" n="N002"/>even if the question is not formulated--and very rarely will it be formulated--it CAN be got out;
+               <lb facs="#facs_80_tr_3_tl_3" n="N003"/>you can find out; you can bring it into consciousness. And to these questions the <rs type="keyword" ref="#Symbols_religious">religious symbols</rs>
+               <lb facs="#facs_80_tr_3_tl_4" n="N004"/>are the answers. And all these questions have something to do with the fundamental questions of
+               <lb facs="#facs_80_tr_3_tl_5" n="N005"/><rs type="keyword" ref="#Finitude">finitude</rs>, to which <rs type="keyword" ref="#God">God</rs> is the answer; or the fundamental question of guilt feelings, to which
+               <lb facs="#facs_80_tr_3_tl_6" n="N006"/><rs type="keyword" ref="#Reconciliation">reconciliation</rs>, or forgiveness, is the answer.
+               <lb facs="#facs_80_tr_3_tl_7" n="N007"/>NOW THIS CAN BE DONE, and ONLY if these questions are alive and are brought into
             </p>
             <p facs="#facs_80_tr_1">
-               <lb facs="#facs_80_tr_1_tl_1" n="N001"/>consciousness do the answers have a meaning. I otherwise the answers are simply stuff, dead material,
+               <lb facs="#facs_80_tr_1_tl_1" n="N001"/><rs type="keyword" ref="#Consciousness">consciousness</rs> do the answers have a <rs type="keyword" ref="#Meaning">meaning</rs>. Otherwise the answers are simply stuff, dead material,
                <lb facs="#facs_80_tr_1_tl_2" n="N002"/>to be taken in, and have no meaning whatsoever. But here again we are in the problem of introduction.
-               <lb facs="#facs_80_tr_1_tl_3" n="N003"/>introduction means introduction into the real life of the religious community, in home, society &amp; church.
-               <lb facs="#facs_80_tr_1_tl_4" n="N004"/>sont aussi les
-               <lb facs="#facs_80_tr_1_tl_5" n="N005"/>de mon ami
-               <lb facs="#facs_80_tr_1_tl_6" n="N006"/>dʼune manière
-               <lb facs="#facs_80_tr_1_tl_7" n="N007"/>et je mʼai
-               <lb facs="#facs_80_tr_1_tl_8" n="N008"/>dʼune manière de
-               <lb facs="#facs_80_tr_1_tl_9" n="N009"/>des
-               <lb facs="#facs_80_tr_1_tl_10" n="N010"/>dʼune manière vite
-               <lb facs="#facs_80_tr_1_tl_11" n="N011"/>dʼun autre
-               <lb facs="#facs_80_tr_1_tl_12" n="N012"/>toutes
-               <lb facs="#facs_80_tr_1_tl_13" n="N013"/>dʼune manière beaucoup
+               <lb facs="#facs_80_tr_1_tl_3" n="N003"/>Introduction means introduction into the real life of the religious <rs type="keyword" ref="#Community">community</rs>, in home, society &amp; <rs type="keyword" ref="#Church">church</rs>.
             </p>
             
         </div>

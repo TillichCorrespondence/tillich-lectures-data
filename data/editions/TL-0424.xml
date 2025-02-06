@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_32">
          <graphic url="TL-0424.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=MPCRJSCKAUZDUCSGAUJOZFAK&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MPCRJSCKAUZDUCSGAUJOZFAK&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="277,185 2236,185 2236,1266 277,1266" rendition="TextRegion" xml:id="facs_32_tr_2">
             <zone points="1084,253 1094,253 1116,276 1126,276 1164,253 1214,248 1214,193 1179,191 1162,176 1146,191 1131,188 1121,196 1086,193" rendition="Line" xml:id="facs_32_tr_2_tl_1"/>
             <zone points="263,514 861,492 1001,534 1982,477 1999,421 1011,409 263,469" rendition="Line" xml:id="facs_32_tr_2_tl_2"/>
@@ -104,8 +104,8 @@
             
             <p facs="#facs_32_tr_2">
                <lb facs="#facs_32_tr_2_tl_1" n="N001"/>[419]
-               <lb facs="#facs_32_tr_2_tl_2" n="N002"/>a matter of ultimate concern. And those movements which fulfill this demand were the
-               <lb facs="#facs_32_tr_2_tl_3" n="N003"/>totalitarian movements, both Nazism and Communism. These movements realized this very early.
+               <lb facs="#facs_32_tr_2_tl_2" n="N002"/>a matter of <ultimate_concern>ultimate concern</ultimate_concern>. And those movements which fulfill this demand were the
+               <lb facs="#facs_32_tr_2_tl_3" n="N003"/>totalitarian movements, both <rs type="keyword" ref="#Nazism">Nazism</rs> and <rs type="keyword" ref="#Communism">Communism</rs>. These movements realized this very early.
                <lb facs="#facs_32_tr_2_tl_4" n="N004"/>Their main power of strength was just this, that they felt the younger generation wants to have
                <lb facs="#facs_32_tr_2_tl_5" n="N005"/>something of unconditional character, and they GAVE it to them, with great strictness and severity,
                <lb facs="#facs_32_tr_2_tl_6" n="N006"/>and the younger generation, many of them, [submitted] to it. And they became later on the storm
@@ -114,19 +114,19 @@
             <p facs="#facs_32_tr_3">
                <lb facs="#facs_32_tr_3_tl_1" n="N001"/>At the same time, and especially after the breakdown of these movements (or of
                <lb facs="#facs_32_tr_3_tl_2" n="N002"/>two of them) in Western Europe, many people turned to another sphere of ultimate concern,
-               <lb facs="#facs_32_tr_3_tl_3" n="N003"/>of complete commitment, namely the Roman Church. And we had a wave of conversions from
+               <lb facs="#facs_32_tr_3_tl_3" n="N003"/>of complete commitment, namely the <rs type="keyword" ref="#Roman_Catholicism">Roman Church</rs>. And we had a wave of conversions from
                <lb facs="#facs_32_tr_3_tl_4" n="N004"/>humanism and Protestantism to the Roman Church for the same reason, because there was a
                <lb facs="#facs_32_tr_3_tl_5" n="N005"/>''Whereto?'' that answered.
                <lb facs="#facs_32_tr_3_tl_6" n="N006"/>Now let me see how the situation is here, in this country. Perhaps everything comes
-               <lb facs="#facs_32_tr_3_tl_7" n="N007"/>here (according to historical destiny) a little bit later than in Europe, in terms of the decisive
+               <lb facs="#facs_32_tr_3_tl_7" n="N007"/>here (according to historical destiny) a little bit later than in <rs type="keyword" ref="#Europe">Europe</rs>, in terms of the decisive
                <lb facs="#facs_32_tr_3_tl_8" n="N008"/>spiritual movements. There still was the acceptance of a religious, political and cultural
             </p>
             <p facs="#facs_32_tr_1">
-               <lb facs="#facs_32_tr_1_tl_1" n="N001"/>conformism, when I came to this country 20 years ago. But it was already shaken on some points.
-               <lb facs="#facs_32_tr_1_tl_2" n="N002"/>It was shaken by the great crisis in the thirties. It was shaken by the results of the First World War,
-               <lb facs="#facs_32_tr_1_tl_3" n="N003"/>which surely and almost visibly led to the Second World War. It was shaken by the outcome of the
-               <lb facs="#facs_32_tr_1_tl_4" n="N004"/>Second World War, which produced a third so-called ''Cold War.'' And it was shaken by the inner
-               <lb facs="#facs_32_tr_1_tl_5" n="N005"/>emptiness of the beliefs of the twenties into the identity of technical progress with a program towards
+               <lb facs="#facs_32_tr_1_tl_1" n="N001"/><rs type="keyword" ref="#Conformism">conformism</rs>, when I came to this country 20 years ago. But it was already shaken on some points.
+               <lb facs="#facs_32_tr_1_tl_2" n="N002"/>It was shaken by the great crisis in the thirties. It was shaken by the results of the <rs type="keyword" ref="#First_World_War">First World War</rs>,
+               <lb facs="#facs_32_tr_1_tl_3" n="N003"/>which surely and almost visibly led to the <rs type="keyword" ref="#Second_World_War">Second World War.</rs> It was shaken by the outcome of the
+               <lb facs="#facs_32_tr_1_tl_4" n="N004"/>Second World War, which produced a third so-called ''<rs type="keyword" ref="#Cold_War">Cold War</rs>.'' And it was shaken by the inner
+               <lb facs="#facs_32_tr_1_tl_5" n="N005"/>emptiness of the beliefs of the twenties into the identity of technical <rs type="keyword" ref="#Progress">progress</rs> with a program towards
                <lb facs="#facs_32_tr_1_tl_6" n="N006"/>a fulfillment of human existence.
             </p>
             
