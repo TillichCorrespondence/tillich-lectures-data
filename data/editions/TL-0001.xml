@@ -90,29 +90,36 @@
    </facsimile>
    <text>
       <body>
-        <div>
+         <div>
             <pb facs="#TL-0001.jpg" n="part1_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p001.jpg"/>
-            
             <p facs="#facs_1_tr_1">
                <lb facs="#facs_1_tr_1_tl_1" n="N001"/>Paul Tillich, Religion and Culture,
                <lb facs="#facs_1_tr_1_tl_2" n="N002"/>Harvard Univ., Fall and Spring 1955-56
                <lb facs="#facs_1_tr_1_tl_5" n="N003"/>Religion and Culture
+            </p>
+            <p facs="#facs_1_tr_1">
                <lb facs="#facs_1_tr_1_tl_6" n="N004"/>Man's creative encounter with reality:
-               <lb facs="#facs_1_tr_1_tl_7" n="N005"/>1. Language: Religion and Language
-               <lb facs="#facs_1_tr_1_tl_8" n="N006"/>2. Transforming or technical function of the human mind
-               <lb facs="#facs_1_tr_1_tl_10" n="N007"/>3. Cognitive perception: Religion and the cognitive realm
-               <lb facs="#facs_1_tr_1_tl_11" n="N008"/>(Religion and science,
-               <lb facs="#facs_1_tr_1_tl_14" n="N009"/>Religion and historical research,
-               <lb facs="#facs_1_tr_1_tl_15" n="N010"/>Religion and philosophy,
-               <lb facs="#facs_1_tr_1_tl_18" n="N011"/>Religion and depth psychology)
-               <lb facs="#facs_1_tr_1_tl_20" n="N012"/>aesthetic intuition of reality
-               <lb facs="#facs_1_tr_1_tl_21" n="N013"/>5. social exchange
-               <lb facs="#facs_1_tr_1_tl_23" n="N014"/>6. function of the law
-               <lb facs="#facs_1_tr_1_tl_24" n="N015"/>7. experience of the norm
-               <lb facs="#facs_1_tr_1_tl_25" n="N016"/>8. political functions
+               <list>
+                  <item><lb facs="#facs_1_tr_1_tl_7" n="N005"/>1. Language: Religion and Language</item>
+                  <item><lb facs="#facs_1_tr_1_tl_8" n="N006"/>2. Transforming or technical function of the human mind</item>
+                  <item><lb facs="#facs_1_tr_1_tl_10" n="N007"/>3. Cognitive perception: Religion and the cognitive realm</item>
+                  <item>
+                     <lb facs="#facs_1_tr_1_tl_11" n="N008"/>(Religion and science,
+                     <list>
+                        <item><lb facs="#facs_1_tr_1_tl_14" n="N009"/>Religion and historical research,</item>
+                        <item><lb facs="#facs_1_tr_1_tl_15" n="N010"/>Religion and philosophy,</item>
+                        <item><lb facs="#facs_1_tr_1_tl_18" n="N011"/>Religion and depth psychology)</item>
+                     </list>
+                  </item>
+                  <item><lb facs="#facs_1_tr_1_tl_20" n="N012"/>4. aesthetic intuition of reality</item>
+                  <item><lb facs="#facs_1_tr_1_tl_21" n="N013"/>5. social exchange</item>
+                  <item><lb facs="#facs_1_tr_1_tl_23" n="N014"/>6. function of the law</item>
+                  <item><lb facs="#facs_1_tr_1_tl_24" n="N015"/>7. experience of the norm</item>
+                  <item><lb facs="#facs_1_tr_1_tl_25" n="N016"/>8. political functions</item>
+               </list>
             </p>
             
-        </div>
+         </div>
       </body>
     </text>
 </TEI>
