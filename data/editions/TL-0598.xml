@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" subtype="first_page">Lecture XLV (Nr. 0598)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p124</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-05-01">1956-05-01</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_124">
+         <graphic url="TL-0598.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MWHPOHSJQBRYPJAQKDAAYZRI&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="23,250 23,3457 2236,3457 2236,250" rendition="TextRegion" xml:id="facs_124_tr_2">
+            <zone points="1043,309 1055,309 1076,324 1112,326 1132,321 1165,326 1168,249 1141,249 1127,264 1105,266 1088,259 1072,271 1043,271" rendition="Line" xml:id="facs_124_tr_2_tl_1"/>
+            <zone points="302,472 928,477 947,470 949,412 844,412 813,432 789,412 762,436 710,403 659,436 626,400 436,400 355,403 302,432" rendition="Line" xml:id="facs_124_tr_2_tl_2" subtype="heading"/>
+            <zone points="530,631 2124,631 2100,561 1187,595 530,566" rendition="Line" xml:id="facs_124_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="307,782 2110,782 2110,724 307,736" rendition="Line" xml:id="facs_124_tr_2_tl_4"/>
+            <zone points="300,925 2064,935 2067,875 302,887" rendition="Line" xml:id="facs_124_tr_2_tl_5"/>
+            <zone points="307,1086 2153,1086 2153,1036 2007,1019 307,1041" rendition="Line" xml:id="facs_124_tr_2_tl_6"/>
+            <zone points="295,1237 1642,1251 2069,1228 2071,1168 295,1199" rendition="Line" xml:id="facs_124_tr_2_tl_7"/>
+            <zone points="297,1383 1623,1398 2194,1381 2196,1333 297,1345" rendition="Line" xml:id="facs_124_tr_2_tl_8"/>
+            <zone points="290,1534 2031,1542 2182,1532 2184,1470 290,1510" rendition="Line" xml:id="facs_124_tr_2_tl_9"/>
+            <zone points="307,1702 2230,1676 2230,1626 307,1630" rendition="Line" xml:id="facs_124_tr_2_tl_10"/>
+            <zone points="290,1834 2081,1820 1913,1767 290,1793" rendition="Line" xml:id="facs_124_tr_2_tl_11"/>
+            <zone points="300,1990 2208,1980 2208,1930 1824,1920 300,1942" rendition="Line" xml:id="facs_124_tr_2_tl_12"/>
+            <zone points="295,2146 2141,2131 2141,2088 1664,2071 295,2105" rendition="Line" xml:id="facs_124_tr_2_tl_13"/>
+            <zone points="290,2292 1762,2285 1721,2222 290,2268" rendition="Line" xml:id="facs_124_tr_2_tl_14"/>
+            <zone points="515,2445 1721,2460 2059,2436 2062,2386 515,2398" rendition="Line" xml:id="facs_124_tr_2_tl_15" subtype="paragraph"/>
+            <zone points="295,2604 2105,2585 2105,2534 295,2551" rendition="Line" xml:id="facs_124_tr_2_tl_16"/>
+            <zone points="295,2760 2040,2724 2203,2755 2203,2683 2091,2668 2033,2702 1959,2671 295,2704" rendition="Line" xml:id="facs_124_tr_2_tl_17"/>
+            <zone points="290,2889 2177,2882 2177,2829 2124,2819 290,2848" rendition="Line" xml:id="facs_124_tr_2_tl_18"/>
+            <zone points="290,3047 1985,3038 1985,2990 1911,2975 290,3004" rendition="Line" xml:id="facs_124_tr_2_tl_19"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0598.jpg" n="part4_p124.jpg" xml:id="img_0124" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p124.jpg"/>
+            
+            <p facs="#facs_124_tr_2">
+               <lb facs="#facs_124_tr_2_tl_1" n="N001"/>[593]
+               <lb facs="#facs_124_tr_2_tl_2" n="N002"/>LECTURE XLV, May 1, 1956
+               <lb facs="#facs_124_tr_2_tl_3" n="N003"/>Now this last hour shall answer in some way the question which was developed in
+               <lb facs="#facs_124_tr_2_tl_4" n="N004"/>connection with my description of <rs type="keyword" ref="#Religious_socialism">religious socialism</rs>. My last word last Thursday was that
+               <lb facs="#facs_124_tr_2_tl_5" n="N005"/>we didn't consider religious socialism as a matter of the <church>church</church> as such, but as a matter of
+               <lb facs="#facs_124_tr_2_tl_6" n="N006"/>Christians who dare to be in error, if they give judgments about the concrete issues of the day,
+               <lb facs="#facs_124_tr_2_tl_7" n="N007"/>and I emphasized especially that in NO relationship of Christianity and <rs type="keyword" ref="#Politics">politics </rs>should
+               <lb facs="#facs_124_tr_2_tl_8" n="N008"/><rs type="keyword" ref="#Christianity">Christianity</rs> be used as the support of a special SOLUTION, in the political, social and economic
+               <lb facs="#facs_124_tr_2_tl_9" n="N009"/>realm. What <religion>religion</religion> can do and must do is to state the principles--for instance <rs type="keyword" ref="#Love">love</rs>, <rs type="keyword" ref="#Power">power</rs> and
+               <lb facs="#facs_124_tr_2_tl_10" n="N010"/><rs type="keyword" ref="#Justice">justice</rs>--and to criticize, in the light of these principles, the concrete situation. But in the moment
+               <lb facs="#facs_124_tr_2_tl_11" n="N011"/>in which the minister goes beyond this, for instance, then he speaks as a Christian layman--
+               <lb facs="#facs_124_tr_2_tl_12" n="N012"/>which he anyhow is also--who is responsible for the <rs type="keyword" ref="#Culture">cultural</rs> realms with which he deals, and who
+               <lb facs="#facs_124_tr_2_tl_13" n="N013"/>speaks then in the name of a Christian movement which <rs type="keyword" ref="#Belief">BELIEVES</rs> that it comes nearest to a
+               <lb facs="#facs_124_tr_2_tl_14" n="N014"/>concrete actualization of the principles. But this is not a matter of <hi style="font-style: italic;">de fide</hi>.
+               <lb facs="#facs_124_tr_2_tl_15" n="N015"/>Now after I said this, I finished with the statement that religious socialism has
+               <lb facs="#facs_124_tr_2_tl_16" n="N016"/>EXPERIENCED that its judgments were the more true the nearer they were to the <rs type="keyword" ref="#Ultimacy">ultimate</rs>
+               <lb facs="#facs_124_tr_2_tl_17" n="N017"/>principles, and the less true the nearer they were to an analysis of the concrete situation. <rs type="keyword" ref="#History">History</rs>
+               <lb facs="#facs_124_tr_2_tl_18" n="N018"/>was a very harsh judge about this movement, as about many other movements, some also in this
+               <lb facs="#facs_124_tr_2_tl_19" n="N019"/>country, who in the name OF the ultimate, raised demands for the concrete situation.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

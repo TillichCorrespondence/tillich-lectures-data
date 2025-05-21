@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLV (Nr. 0601)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p127</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-05-01">1956-05-01</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_127">
+         <graphic url="TL-0601.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=EAWVHQFCIGGOSLKPSDWKMEBX&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="20,0 20,3460 2352,3460 2352,0" rendition="TextRegion" xml:id="facs_127_tr_1">
+            <zone points="1133,300 1145,300 1163,317 1177,317 1182,312 1192,317 1257,312 1254,255 1239,258 1232,253 1220,258 1202,240 1192,245 1187,240 1167,260 1130,258" rendition="Line" xml:id="facs_127_tr_1_tl_2"/>
+            <zone points="307,451 2035,461 2035,414 1963,389 1871,421 1812,389 1529,421 1034,389 1001,421 714,384 307,416" rendition="Line" xml:id="facs_127_tr_1_tl_3"/>
+            <zone points="312,605 2300,622 2300,570 2095,550 312,573" rendition="Line" xml:id="facs_127_tr_1_tl_4"/>
+            <zone points="533,756 2253,766 2253,697 533,709" rendition="Line" xml:id="facs_127_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="305,902 2241,915 2241,868 1966,850 305,877" rendition="Line" xml:id="facs_127_tr_1_tl_6"/>
+            <zone points="305,1053 2127,1076 2127,1016 2025,994 305,1009" rendition="Line" xml:id="facs_127_tr_1_tl_7"/>
+            <zone points="305,1205 1507,1210 1507,1160 1445,1145 305,1155" rendition="Line" xml:id="facs_127_tr_1_tl_8"/>
+            <zone points="300,1358 2107,1376 2107,1321 1906,1299 300,1331" rendition="Line" xml:id="facs_127_tr_1_tl_10"/>
+            <zone points="297,1510 2191,1524 2191,1472 1691,1443 297,1480" rendition="Line" xml:id="facs_127_tr_1_tl_11"/>
+            <zone points="290,1653 2127,1666 2127,1614 2060,1601 290,1631" rendition="Line" xml:id="facs_127_tr_1_tl_12"/>
+            <zone points="297,1817 1683,1822 1683,1767 297,1765" rendition="Line" xml:id="facs_127_tr_1_tl_13"/>
+            <zone points="523,1963 2149,1973 2149,1916 1978,1904 523,1916" rendition="Line" xml:id="facs_127_tr_1_tl_14" subtype="paragraph"/>
+            <zone points="290,2109 2092,2119 2052,2060 290,2067" rendition="Line" xml:id="facs_127_tr_1_tl_15"/>
+            <zone points="288,2268 2057,2268 2057,2216 2003,2211 288,2238" rendition="Line" xml:id="facs_127_tr_1_tl_16"/>
+            <zone points="285,2424 2129,2422 2129,2367 1609,2355 285,2387" rendition="Line" xml:id="facs_127_tr_1_tl_17"/>
+            <zone points="778,2570 2152,2573 2152,2518 2018,2506 1837,2541 1393,2506 778,2536" rendition="Line" xml:id="facs_127_tr_1_tl_20"/>
+            <zone points="278,2717 2211,2719 2211,2657 278,2689" rendition="Line" xml:id="facs_127_tr_1_tl_21"/>
+            <zone points="278,2868 2097,2870 2097,2823 1866,2801 278,2821" rendition="Line" xml:id="facs_127_tr_1_tl_22"/>
+            <zone points="275,3017 2189,3036 2189,2977 2033,2960 275,2977" rendition="Line" xml:id="facs_127_tr_1_tl_23"/>
+            <zone points="275,3180 622,3235 2186,3173 2189,3118 2127,3116 818,3163 278,3131" rendition="Line" xml:id="facs_127_tr_1_tl_24"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0601.jpg" n="part4_p127.jpg" xml:id="img_0127" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p127.jpg"/>
+            
+            <p facs="#facs_127_tr_1">
+               <lb facs="#facs_127_tr_1_tl_2" n="N001"/>[596]
+               <lb facs="#facs_127_tr_1_tl_3" n="N002"/>to ANTICIPATE the transcendent fulfillment of the <rs type="keyword" ref="#Kingdom_of_God">kingdom</rs> of God, in terms of a<rs type="keyword" ref="#Law"> law</rs>
+               <lb facs="#facs_127_tr_1_tl_4" n="N003"/>of negating the war in ANY case--of course only that is a decisive thing for principle[d] [?] thought.
+               <lb facs="#facs_127_tr_1_tl_5" n="N004"/>Now I would say this was just as some of the <rs type="keyword" ref="#Religious_socialism">religious socialists</rs> who made SOCIALISM
+               <lb facs="#facs_127_tr_1_tl_6" n="N005"/>a law for every Christian: ''Christanity [sic.] is socialism,'' one could hear at that time; ''the demand of
+               <lb facs="#facs_127_tr_1_tl_7" n="N006"/><rs type="keyword" ref="#Christianity">Christianity</rs> is to be a socialist.'' This was then demanded of everyone in the name of Christ,
+               <lb facs="#facs_127_tr_1_tl_8" n="N007"/>or in the name of Christianity, or in the name of <religion>RELIGION</religion>--in Germany there were
+               <lb facs="#facs_127_tr_1_tl_10" n="N008"/>many Jews and humanists of non-Christian character in the movement. But for all of them,
+               <lb facs="#facs_127_tr_1_tl_11" n="N009"/>these people put the<rs type="keyword" ref="#Law"> law</rs> upon them: ''You HAVE to be, in the name of your <ultimate_concern>ultimate concern</ultimate_concern>,
+               <lb facs="#facs_127_tr_1_tl_12" n="N010"/>a socialist!''. And here, ''You HAVE to be, in the name of your ultimate concern, a <rs type="keyword" ref="#Pacifism">pacifist</rs>!''
+               <lb facs="#facs_127_tr_1_tl_13" n="N011"/>I mean now, the<rs type="keyword" ref="#Politics"> POLITICAL</rs> pacifist. This brings me to a distinction:
+               <lb facs="#facs_127_tr_1_tl_14" n="N012"/>I distinguish three different forms of thinking about peace and war. The first form
+               <lb facs="#facs_127_tr_1_tl_15" n="N013"/>is the ultimate form: the ultimate principle, which certainly INCLUDES the <rs type="keyword" ref="#Symbols">symbol</rs> of the
+               <lb facs="#facs_127_tr_1_tl_16" n="N014"/>peace of the <rs type="keyword" ref="#Kingdom_of_God">kingdom of God,</rs> and the UNITY of everything that has being in the creative
+               <lb facs="#facs_127_tr_1_tl_17" n="N015"/>ground out of which it comes, and therefore the acknowledgment that war is an expression of
+               <lb facs="#facs_127_tr_1_tl_20" n="N016"/>human <rs type="keyword" ref="#Estrangement">estrangement</rs>, of man's<rs type="keyword" ref="#Predicament"> predicament </rs>in conflict with his true being. This is the one
+               <lb facs="#facs_127_tr_1_tl_21" n="N017"/>statement; this is the ultimate statement. And if, as for instance in <rs type="keyword" ref="#Nazism">Nazism</rs> and in some <biology>biological</biology>
+               <lb facs="#facs_127_tr_1_tl_22" n="N018"/>theories of <rs type="keyword" ref="#Politics">politics</rs>, this is forgotten, if war is made into something essential which belongs
+               <lb facs="#facs_127_tr_1_tl_23" n="N019"/>to human <rs type="keyword" ref="#Essentialism">ESSENTIAL</rs> nature, instead of saying that it belongs to distorted or <rs type="keyword" ref="#Existentialism">existential</rs> nature,
+               <lb facs="#facs_127_tr_1_tl_24" n="N020"/>then this principle has to be maintained with great power--and I can speak about this: there was a
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

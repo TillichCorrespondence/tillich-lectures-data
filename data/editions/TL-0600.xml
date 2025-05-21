@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLV (Nr. 0600)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p126</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-05-01">1956-05-01</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_126">
+         <graphic url="TL-0600.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SEXBDZKFLHPCGHHFXKHUVSQR&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="196,243 196,3463 2355,3463 2355,243" rendition="TextRegion" xml:id="facs_126_tr_2">
+            <zone points="1127,309 1140,309 1158,326 1198,326 1206,319 1227,324 1242,309 1255,309 1255,263 1219,263 1201,245 1188,258 1176,258 1163,270 1127,270" rendition="Line" xml:id="facs_126_tr_2_tl_1"/>
+            <zone points="306,462 2155,484 2155,431 2048,398 1971,431 1696,393 1556,428 1517,390 1461,426 1357,390 1262,426 1056,390 989,426 780,426 745,390 694,426 599,390 306,421" rendition="Line" xml:id="facs_126_tr_2_tl_2"/>
+            <zone points="301,604 2351,630 2351,576 1584,553 301,581" rendition="Line" xml:id="facs_126_tr_2_tl_3"/>
+            <zone points="306,760 2183,775 2183,722 2114,714 306,709" rendition="Line" xml:id="facs_126_tr_2_tl_4"/>
+            <zone points="296,910 2188,926 2188,875 1935,857 296,882" rendition="Line" xml:id="facs_126_tr_2_tl_5"/>
+            <zone points="1046,1079 2152,1074 2152,1020 1629,1043 1492,1005 1046,1002" rendition="Line" xml:id="facs_126_tr_2_tl_7"/>
+            <zone points="291,1209 1025,1250 2193,1227 2193,1170 291,1183" rendition="Line" xml:id="facs_126_tr_2_tl_8"/>
+            <zone points="291,1369 2127,1382 2127,1329 2030,1311 291,1321" rendition="Line" xml:id="facs_126_tr_2_tl_9"/>
+            <zone points="291,1517 339,1527 411,1522 421,1533 464,1522 548,1522 548,1487 533,1487 513,1466 326,1464 311,1482 291,1482" rendition="Line" xml:id="facs_126_tr_2_tl_10"/>
+            <zone points="520,1589 2203,1632 2203,1543 2165,1540 640,1561 520,1530" rendition="Line" xml:id="facs_126_tr_2_tl_11" subtype="paragraph"/>
+            <zone points="283,1744 1448,1798 2218,1757 2218,1686 283,1701" rendition="Line" xml:id="facs_126_tr_2_tl_12"/>
+            <zone points="283,1887 1660,1930 2218,1905 2218,1854 1933,1839 283,1861" rendition="Line" xml:id="facs_126_tr_2_tl_13"/>
+            <zone points="280,2032 2208,2053 2208,1994 2099,1986 280,2009" rendition="Line" xml:id="facs_126_tr_2_tl_14"/>
+            <zone points="268,2185 2106,2203 2106,2155 2017,2142 268,2162" rendition="Line" xml:id="facs_126_tr_2_tl_15"/>
+            <zone points="275,2338 2168,2366 2168,2308 275,2298" rendition="Line" xml:id="facs_126_tr_2_tl_16"/>
+            <zone points="273,2491 2127,2509 2127,2458 2088,2456 273,2445" rendition="Line" xml:id="facs_126_tr_2_tl_17"/>
+            <zone points="275,2644 1288,2660 1288,2606 1081,2586 275,2598" rendition="Line" xml:id="facs_126_tr_2_tl_18"/>
+            <zone points="487,2792 2234,2813 2234,2744 487,2741" rendition="Line" xml:id="facs_126_tr_2_tl_19" subtype="paragraph"/>
+            <zone points="260,2945 2157,2950 2116,2899 260,2917" rendition="Line" xml:id="facs_126_tr_2_tl_20"/>
+            <zone points="263,3101 2150,3116 2150,3060 2083,3042 263,3052" rendition="Line" xml:id="facs_126_tr_2_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0600.jpg" n="part4_p126.jpg" xml:id="img_0126" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p126.jpg"/>
+            
+            <p facs="#facs_126_tr_2">
+               <lb facs="#facs_126_tr_2_tl_1" n="N001"/>[595]
+               <lb facs="#facs_126_tr_2_tl_2" n="N002"/>It is the special American type of relating the problems of <ultimate_concern>ultimate concern</ultimate_concern> to the preliminary
+               <lb facs="#facs_126_tr_2_tl_3" n="N003"/>concerns which are <rs type="keyword" ref="#Politics">politics</rs>. And I think that the political realm [being] taken so seriously by American
+               <lb facs="#facs_126_tr_2_tl_4" n="N004"/><rs type="keyword" ref="#Christianity">Christianity</rs> is one of this country's greatest assets, and is something of which <rs type="keyword" ref="#Europe">Europe</rs> should be
+               <lb facs="#facs_126_tr_2_tl_5" n="N005"/>envious. Perhaps America should be envious about the seriousness of the <rs type="keyword" ref="#Philosophy">philosophical</rs> and even
+               <lb facs="#facs_126_tr_2_tl_7" n="N006"/>more the <rs type="keyword" ref="#Theology">theological</rs> problems [which] are taken in Europe. But the other side is that
+               <lb facs="#facs_126_tr_2_tl_8" n="N007"/>Europe DOESN’T take the political problems, in the name of <religion>religion</religion>, as seriously as it was done
+               <lb facs="#facs_126_tr_2_tl_9" n="N008"/>and is being done in this country. So I don't say that in terms of a criticism but in terms of a
+               <lb facs="#facs_126_tr_2_tl_10" n="N009"/>description.
+               <lb facs="#facs_126_tr_2_tl_11" n="N010"/>Then you all know what has happened with this movement. It was destroyed both by
+               <lb facs="#facs_126_tr_2_tl_12" n="N011"/>Hitler and Stalin. I remember how Dr. Niebuhr's criticism of religious pacifism went hand in hand
+               <lb facs="#facs_126_tr_2_tl_13" n="N012"/>with the increasing aggressiveness of Hitlerism, then with the alliance of Hitler and Stalin, and then
+               <lb facs="#facs_126_tr_2_tl_14" n="N013"/>with the beginning of the <rs type="keyword" ref="#Second_World_War">Second World War.</rs> In these fires of <rs type="keyword" ref="#History">history</rs>, Niebuhr’s understanding of
+               <lb facs="#facs_126_tr_2_tl_15" n="N014"/>the relation of Gospel and <rs type="keyword" ref="#Power">power</rs> <rs type="keyword" ref="#Politics">politics</rs> was carried through in millions of American minds.
+               <lb facs="#facs_126_tr_2_tl_16" n="N015"/>You in your development, mostly younger in this room, have not experienced, as we older ones,
+               <lb facs="#facs_126_tr_2_tl_17" n="N016"/>the radical change which happened both by <rs type="keyword" ref="#Theology">theological</rs> reflection and by the historical powers
+               <lb facs="#facs_126_tr_2_tl_18" n="N017"/>which are always more convincing than discussions.
+               <lb facs="#facs_126_tr_2_tl_19" n="N018"/>Now what is behind this development? Here again the peace which is the ultimate unity
+               <lb facs="#facs_126_tr_2_tl_20" n="N019"/>of the disrupted elements of reality in the <rs type="keyword" ref="#Kingdom_of_God">kingdom of God</rs>--which is the <rs type="keyword" ref="#Symbols">symbol</rs> for this unity--
+               <lb facs="#facs_126_tr_2_tl_21" n="N020"/>was applied to history not as a CRITERION, but as a <rs type="keyword" ref="#Law">LAW</rs>. One was ASKED TO BE a <rs type="keyword" ref="#Pacifism">pacifist</rs>,
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

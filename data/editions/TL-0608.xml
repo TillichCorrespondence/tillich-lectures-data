@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLV (Nr. 0608)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p134</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-05-01">1956-05-01</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_134">
+         <graphic url="TL-0608.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QODPVRHHBIKISBRTLOSIVEOQ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="56,28 14,3453 2349,3453 2349,0" rendition="TextRegion" xml:id="facs_134_tr_2">
+            <zone points="1118,324 1240,324 1240,254 1218,257 1210,252 1195,259 1188,257 1178,267 1163,267 1148,282 1118,282" rendition="Line" xml:id="facs_134_tr_2_tl_2"/>
+            <zone points="297,457 414,516 2196,544 2196,342 2053,342 1831,437 1734,402 1015,434 963,399 916,432 881,397 374,432 297,394" rendition="Line" xml:id="facs_134_tr_2_tl_3"/>
+            <zone points="294,691 404,706 506,644 926,674 1118,624 2208,634 2208,581 1871,566 487,574 382,504 294,504" rendition="Line" xml:id="facs_134_tr_2_tl_4"/>
+            <zone points="289,766 506,806 584,768 1759,783 1806,821 2088,788 2008,731 289,714" rendition="Line" xml:id="facs_134_tr_2_tl_6"/>
+            <zone points="287,976 1105,958 1342,996 1751,933 2143,948 2143,891 2006,883 287,898" rendition="Line" xml:id="facs_134_tr_2_tl_7"/>
+            <zone points="279,1070 2173,1105 2173,1038 1639,1020 279,1048" rendition="Line" xml:id="facs_134_tr_2_tl_8"/>
+            <zone points="287,1225 2101,1245 2101,1190 2063,1188 1010,1205 287,1155" rendition="Line" xml:id="facs_134_tr_2_tl_9"/>
+            <zone points="279,1380 479,1430 599,1380 2151,1405 2151,1345 2031,1307 1998,1340 279,1332" rendition="Line" xml:id="facs_134_tr_2_tl_10"/>
+            <zone points="272,1532 2053,1557 2053,1495 272,1482" rendition="Line" xml:id="facs_134_tr_2_tl_12"/>
+            <zone points="259,1709 2036,1694 2036,1642 1647,1627 322,1617 259,1657" rendition="Line" xml:id="facs_134_tr_2_tl_13"/>
+            <zone points="267,1826 2098,1854 2098,1796 2033,1784 267,1784" rendition="Line" xml:id="facs_134_tr_2_tl_14"/>
+            <zone points="259,1979 591,2018 753,1984 2161,1996 2161,1934 259,1946" rendition="Line" xml:id="facs_134_tr_2_tl_16"/>
+            <zone points="259,2128 2116,2148 2116,2096 1836,2083 259,2086" rendition="Line" xml:id="facs_134_tr_2_tl_17"/>
+            <zone points="259,2280 1180,2293 1223,2335 1330,2335 1330,2238 259,2233" rendition="Line" xml:id="facs_134_tr_2_tl_19"/>
+            <zone points="259,2428 2236,2450 2233,2380 317,2370 257,2403" rendition="Line" xml:id="facs_134_tr_2_tl_22"/>
+            <zone points="252,2585 2048,2600 2048,2550 1974,2537 252,2542" rendition="Line" xml:id="facs_134_tr_2_tl_23"/>
+            <zone points="252,2737 2208,2749 2208,2695 1861,2682 252,2692" rendition="Line" xml:id="facs_134_tr_2_tl_24"/>
+            <zone points="237,2947 514,2889 2238,2914 2238,2854 2098,2834 237,2847" rendition="Line" xml:id="facs_134_tr_2_tl_25"/>
+            <zone points="242,3039 2101,3051 2101,2999 1904,2992 1475,3024 943,2979 778,3019 719,2982 242,2992" rendition="Line" xml:id="facs_134_tr_2_tl_26"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0608.jpg" n="part4_p134.jpg" xml:id="img_0134" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p134.jpg"/>
+            
+            <p facs="#facs_134_tr_2">
+               <lb facs="#facs_134_tr_2_tl_2" n="N001"/>[603]
+               <lb facs="#facs_134_tr_2_tl_3" n="N002"/>The situation after the <rs type="keyword" ref="#First_World_War">First World war </rs>[sic.] was one of strong prophetic feeling about the <rs type="keyword" ref="#Signs">signs</rs> of the
+               <lb facs="#facs_134_tr_2_tl_4" n="N003"/>times, about the breaking in of a <rs type="keyword" ref="#Kairos"><hi style="font-style: italic;">kairos</hi>,</rs> something<rs type="keyword" ref="#Eternity"> eternal</rs>, something <rs type="keyword" ref="#Ultimacy">ultimate</rs>, into our temporal
+               <lb facs="#facs_134_tr_2_tl_6" n="N004"/>existence, and out of this consciousness an immense <rs type="keyword" ref="#Creativity">creativity,</rs> in all realms of<rs type="keyword" ref="#Spirit"> spiritual</rs> life...
+               <lb facs="#facs_134_tr_2_tl_7" n="N005"/>After the <rs type="keyword" ref="#Second_World_War">Second World War</rs> there was also a <hi style="font-style: italic;">kairos</hi>, but a negative one. It was not the feeling
+               <lb facs="#facs_134_tr_2_tl_8" n="N006"/>of something positive which can and must be done now, or which will come upon us now, but it
+               <lb facs="#facs_134_tr_2_tl_9" n="N007"/>was a feeling of a void, an emptiness, a vacuum. And then I said--and I repeat this now--this
+               <lb facs="#facs_134_tr_2_tl_10" n="N008"/>vacuum, which many of us still feel, should not be covered over by anything whatsoever,
+               <lb facs="#facs_134_tr_2_tl_12" n="N009"/>in terms of <religion>religion</religion> or <rs type="keyword" ref="#Culture">culture</rs>. It should not be covered over by the resurgence of religion,
+               <lb facs="#facs_134_tr_2_tl_13" n="N010"/>as we experience it today, if this resurgence is a form of escape from the emptiness of our
+               <lb facs="#facs_134_tr_2_tl_14" n="N011"/>situation. It should not be covered over by cultural creativity, neither in the technical realm,
+               <lb facs="#facs_134_tr_2_tl_16" n="N012"/>where it is going on at a tremendous pace all the time, nor in the spiritual realms which are more
+               <lb facs="#facs_134_tr_2_tl_17" n="N013"/>fundamental. But if there is a basic feeling of emptiness, if the <rs type="keyword" ref="#Autonomy">autonomous</rs> culture which has
+               <lb facs="#facs_134_tr_2_tl_19" n="N014"/>ruled for the last 500 years has come to a point where its lack of <rs type="keyword" ref="#Ultimacy">ultimacy</rs> is felt by ALL
+               <lb facs="#facs_134_tr_2_tl_22" n="N015"/>of us as a real threat to our <rs type="keyword" ref="#Personality">personality</rs> and society, then perhaps a presupposition is given not in the
+               <lb facs="#facs_134_tr_2_tl_23" n="N016"/>sense of a <hi style="font-style: italic;">kairos</hi>, where we are asked to act, but in terms of a <hi style="font-style: italic;">kairos</hi> where we are asked to
+               <lb facs="#facs_134_tr_2_tl_24" n="N017"/>STAND, and to WAIT--to wait not in the sense of passivity, but in the sense of the most intensive
+               <lb facs="#facs_134_tr_2_tl_25" n="N018"/>tension--but not covering over the actual emptiness by activities in ANY realm, be it in the religious,
+               <lb facs="#facs_134_tr_2_tl_26" n="N019"/>be it in the cultural, realm. And this, I must conclude now, is indeed the meaning of this
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

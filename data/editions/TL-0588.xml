@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLIV (Nr. 0588)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p114</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-26">1956-04-26</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_114">
+         <graphic url="TL-0588.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UUTCBSOQAHTAMIGBNGUXMMVC&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="304,268 304,3471 2355,3471 2355,268" rendition="TextRegion" xml:id="facs_114_tr_2">
+            <zone points="1096,340 1108,340 1118,350 1146,345 1148,350 1161,353 1193,350 1203,340 1218,340 1221,295 1186,295 1166,275 1153,273 1126,298 1098,298" rendition="Line" xml:id="facs_114_tr_2_tl_1"/>
+            <zone points="290,503 2216,480 2216,418 1888,410 290,470" rendition="Line" xml:id="facs_114_tr_2_tl_2"/>
+            <zone points="295,653 1156,655 1158,598 805,583 295,628" rendition="Line" xml:id="facs_114_tr_2_tl_3"/>
+            <zone points="545,798 1948,790 2119,780 2121,720 545,743" rendition="Line" xml:id="facs_114_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="295,953 2129,933 2129,875 298,908" rendition="Line" xml:id="facs_114_tr_2_tl_5"/>
+            <zone points="290,1106 2154,1086 2154,1031 2051,1028 290,1081" rendition="Line" xml:id="facs_114_tr_2_tl_6"/>
+            <zone points="300,1266 2139,1231 2104,1163 303,1218" rendition="Line" xml:id="facs_114_tr_2_tl_7"/>
+            <zone points="295,1411 2099,1381 2099,1331 2024,1316 295,1386" rendition="Line" xml:id="facs_114_tr_2_tl_8"/>
+            <zone points="295,1563 2271,1531 2271,1476 295,1531" rendition="Line" xml:id="facs_114_tr_2_tl_9"/>
+            <zone points="303,1708 2279,1681 2279,1626 305,1658" rendition="Line" xml:id="facs_114_tr_2_tl_10"/>
+            <zone points="300,1863 2251,1828 2251,1766 2029,1763 300,1818" rendition="Line" xml:id="facs_114_tr_2_tl_11"/>
+            <zone points="295,2011 605,2039 2134,1996 2131,1931 295,1983" rendition="Line" xml:id="facs_114_tr_2_tl_12"/>
+            <zone points="305,2166 2164,2141 2164,2081 308,2116" rendition="Line" xml:id="facs_114_tr_2_tl_13"/>
+            <zone points="303,2316 2151,2294 2206,2284 2209,2231 303,2286" rendition="Line" xml:id="facs_114_tr_2_tl_14"/>
+            <zone points="310,2474 2161,2436 2164,2384 310,2419" rendition="Line" xml:id="facs_114_tr_2_tl_15"/>
+            <zone points="308,2616 2199,2589 2189,2529 310,2566" rendition="Line" xml:id="facs_114_tr_2_tl_16"/>
+            <zone points="303,2766 1998,2744 2114,2734 2116,2681 303,2724" rendition="Line" xml:id="facs_114_tr_2_tl_17"/>
+            <zone points="310,2916 1991,2894 2141,2886 2144,2829 310,2869" rendition="Line" xml:id="facs_114_tr_2_tl_18"/>
+            <zone points="308,3064 2229,3039 2206,2974 310,3037" rendition="Line" xml:id="facs_114_tr_2_tl_19"/>
+            <zone points="308,3244 720,3269 2321,3212 2321,3157 650,3224 310,3182" rendition="Line" xml:id="facs_114_tr_2_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0588.jpg" n="part4_p114.jpg" xml:id="img_0114" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p114.jpg"/>
+            
+            <p facs="#facs_114_tr_2">
+               <lb facs="#facs_114_tr_2_tl_1" n="N001"/>[583]
+               <lb facs="#facs_114_tr_2_tl_2" n="N002"/>In this way it becomes an example from which you yourself, and perhaps I myself partly, can and
+               <lb facs="#facs_114_tr_2_tl_3" n="N003"/>will derive some more universal statements.
+               <lb facs="#facs_114_tr_2_tl_4" n="N004"/>When in <rs type="keyword" ref="#Germany">Germany</rs> 1919--or 1918 first, and then further, 1919--the <rs type="keyword" ref="#First_World_War">First World
+               <lb break="no" facs="#facs_114_tr_2_tl_5" n="N005"/>War</rs> came to an end, through the<rs type="keyword" ref="#Revolution"> revolutionary </rs>movement in which the German emperor and
+               <lb facs="#facs_114_tr_2_tl_6" n="N006"/>all the different German princes were thrown out and Germany was transferred into a republic
+               <lb facs="#facs_114_tr_2_tl_7" n="N007"/>under the leadership of the Social Democratic Party (which combined <rs type="keyword" ref="#Marxism">Marxist</rs> principles with
+               <lb facs="#facs_114_tr_2_tl_8" n="N008"/>democratic principles)--in this moment, two very opposite attitudes developed in this tense
+               <lb facs="#facs_114_tr_2_tl_9" n="N009"/>situation. The one came from the Lutheran tradition, which is all-decisive for the German situation.
+               <lb facs="#facs_114_tr_2_tl_10" n="N010"/>This Lutheran tradition is determined partly by Luther himself, but <rs type="keyword" ref="#Luther">Luther</rs> himself and Lutheranism
+               <lb facs="#facs_114_tr_2_tl_11" n="N011"/>are largely determined by the structure of Germany in the age of the <rs type="keyword" ref="#Reformation">Reformation</rs>, in the 16th and
+               <lb facs="#facs_114_tr_2_tl_12" n="N012"/>already in the 15th century, by an innumerable mass of small princes with absolute <rs type="keyword" ref="#Authority">authority</rs>
+               <lb facs="#facs_114_tr_2_tl_13" n="N013"/>over their subjects, and the beginning of a bureaucracy and a standing military force under the
+               <lb facs="#facs_114_tr_2_tl_14" n="N014"/>control of these princes. In this situation, Lutheranism developed a point of view which one can
+               <lb facs="#facs_114_tr_2_tl_15" n="N015"/>call negative-transcendental, namely the attempt to save the individaul [sic.] <rs type="keyword" ref="#Soul">soul</rs> on the basis of the
+               <lb facs="#facs_114_tr_2_tl_16" n="N016"/><rs type="keyword" ref="#Christianity">Christian</rs> message of justification by <rs type="keyword" ref="#Faith">faith</rs>, but LEAVING <rs type="keyword" ref="#History">history </rs>to the earthly powers without
+               <lb facs="#facs_114_tr_2_tl_17" n="N017"/>interfering from the side of the <church>Church</church>. This was quite different in the <rs type="keyword" ref="#Calvinism">Calvinistic</rs> countries
+               <lb facs="#facs_114_tr_2_tl_18" n="N018"/>where, in the NAME of the <rs type="keyword" ref="#Law">law</rs> of <rs type="keyword" ref="#God">God</rs>, which confirms the <rs type="keyword" ref="#Natural_Law">natural law</rs>, the<rs type="keyword" ref="#Roman_Catholicism"> Catholic</rs> princes
+               <lb facs="#facs_114_tr_2_tl_19" n="N019"/>were attacked by the <rs type="keyword" ref="#Protestantism">Protestants</rs>, the revolution was preached and carried through, and the
+               <lb facs="#facs_114_tr_2_tl_20" n="N020"/>authorities were dispossessed. In Lutheranism this never happened. And during the Thirty Years' War
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

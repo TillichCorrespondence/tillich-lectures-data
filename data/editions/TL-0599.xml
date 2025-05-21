@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLV (Nr. 0599)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p125</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-05-01">1956-05-01</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_125">
+         <graphic url="TL-0599.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WQBUOASMWEQNTSORCNEFHUOA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="115,228 115,3459 2373,3459 2373,228" rendition="TextRegion" xml:id="facs_125_tr_1">
+            <zone points="1101,293 1116,293 1124,301 1151,298 1171,301 1176,296 1211,301 1208,251 1178,251 1161,234 1154,239 1144,236 1134,249 1099,249" rendition="Line" xml:id="facs_125_tr_1_tl_1"/>
+            <zone points="497,448 2188,438 2190,361 2103,395 2044,358 1867,395 1494,368 1445,403 1382,365 1345,403 1206,370 1171,405 500,418" rendition="Line" xml:id="facs_125_tr_1_tl_2"/>
+            <zone points="283,619 2175,597 2175,535 2136,532 283,557" rendition="Line" xml:id="facs_125_tr_1_tl_3"/>
+            <zone points="278,758 2230,741 2233,686 2170,684 281,706" rendition="Line" xml:id="facs_125_tr_1_tl_4"/>
+            <zone points="273,903 2185,895 2188,838 273,860" rendition="Line" xml:id="facs_125_tr_1_tl_5"/>
+            <zone points="273,1052 2074,1047 2076,992 273,1012" rendition="Line" xml:id="facs_125_tr_1_tl_6"/>
+            <zone points="273,1211 1676,1196 1676,1146 1599,1129 1303,1169 273,1169" rendition="Line" xml:id="facs_125_tr_1_tl_7"/>
+            <zone points="502,1353 2185,1335 2185,1275 502,1305" rendition="Line" xml:id="facs_125_tr_1_tl_8" subtype="paragraph"/>
+            <zone points="276,1517 1330,1502 1372,1534 1407,1499 2205,1494 2205,1435 278,1464" rendition="Line" xml:id="facs_125_tr_1_tl_9"/>
+            <zone points="273,1661 2163,1648 2163,1591 1852,1584 273,1614" rendition="Line" xml:id="facs_125_tr_1_tl_10"/>
+            <zone points="278,1820 2083,1793 2083,1743 1706,1733 278,1778" rendition="Line" xml:id="facs_125_tr_1_tl_11"/>
+            <zone points="500,1959 2131,1937 2131,1887 500,1912" rendition="Line" xml:id="facs_125_tr_1_tl_12" subtype="paragraph"/>
+            <zone points="278,2123 2277,2098 2277,2036 278,2066" rendition="Line" xml:id="facs_125_tr_1_tl_13"/>
+            <zone points="269,2258 1156,2253 1208,2287 1357,2248 2193,2245 2193,2195 2091,2183 1263,2205 1203,2158 1141,2208 269,2218" rendition="Line" xml:id="facs_125_tr_1_tl_14"/>
+            <zone points="343,2412 2136,2397 2136,2332 1987,2330 537,2345 343,2384" rendition="Line" xml:id="facs_125_tr_1_tl_15"/>
+            <zone points="276,2568 2228,2541 2230,2484 278,2519" rendition="Line" xml:id="facs_125_tr_1_tl_16"/>
+            <zone points="276,2712 2188,2693 2188,2625 276,2683" rendition="Line" xml:id="facs_125_tr_1_tl_17"/>
+            <zone points="276,2867 2190,2844 2156,2785 1855,2782 1780,2819 278,2804" rendition="Line" xml:id="facs_125_tr_1_tl_18"/>
+            <zone points="266,3013 2059,3006 2166,2996 2168,2944 266,2991" rendition="Line" xml:id="facs_125_tr_1_tl_19"/>
+            <zone points="271,3172 1131,3163 1191,3200 1241,3163 2156,3148 2156,3095 2001,3093 273,3140" rendition="Line" xml:id="facs_125_tr_1_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0599.jpg" n="part4_p125.jpg" xml:id="img_0125" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p125.jpg"/>
+            
+            <p facs="#facs_125_tr_1">
+               <lb facs="#facs_125_tr_1_tl_1" n="N001"/>[594]
+               <lb facs="#facs_125_tr_1_tl_2" n="N002"/>Let me give another example which is especially near to this country. I COULD refer
+               <lb facs="#facs_125_tr_1_tl_3" n="N003"/>(but I want to do it only in passing) to the legislation which is usually called ''Prohibition,''
+               <lb facs="#facs_125_tr_1_tl_4" n="N004"/>where the <church>churches</church> identified <rs type="keyword" ref="#God">God</rs> with special political <rs type="keyword" ref="#Law">law</rs>s--not with special PRINCIPLES, which
+               <lb facs="#facs_125_tr_1_tl_5" n="N005"/>is right, but with special laws and legal procedures; and the result was the same judgment, namely
+               <lb facs="#facs_125_tr_1_tl_6" n="N006"/>that these legal procedures proved to be the greatest boon for gangsterism that ever existed,
+               <lb facs="#facs_125_tr_1_tl_7" n="N007"/>perhaps, and did not do what it was supposed to do--on the contrary.
+               <lb facs="#facs_125_tr_1_tl_8" n="N008"/>Now if you identify, in such a case, your <ultimate_concern>ultimate concern</ultimate_concern> with a concrete method of
+               <lb facs="#facs_125_tr_1_tl_9" n="N009"/>carrying-through principles, then you are under the judgment of <rs type="keyword" ref="#History">history</rs>, and this judgment should
+               <lb facs="#facs_125_tr_1_tl_10" n="N010"/>be applied, but it shouldn't be applied to that for which <religion>religion</religion> ultimately stands, because then
+               <lb facs="#facs_125_tr_1_tl_11" n="N011"/>religion itself is drawn into the catastrophe of a special system of ideas of a special moment.
+               <lb facs="#facs_125_tr_1_tl_12" n="N012"/>But the main example perhaps in this country, and at the same time a step beyond
+               <lb facs="#facs_125_tr_1_tl_13" n="N013"/>problems of <rs type="keyword" ref="#Religious_socialism">religious socialism</rs>, is religious <rs type="keyword" ref="#Pacifism">pacifism</rs>, which was one of the most energetic movements,
+               <lb facs="#facs_125_tr_1_tl_14" n="N014"/>22 years ago, when I came to this country, and I always tell the story that whenever I spoke about
+               <lb facs="#facs_125_tr_1_tl_15" n="N015"/><rs type="keyword" ref="#Aristotelianism">Aristotelian</rs> logic or about the doctrine of sin or about the relationship of Father, Son and
+               <lb facs="#facs_125_tr_1_tl_16" n="N016"/><rs type="keyword" ref="#Spirit">Spirit</rs> in the Holy Trinity, the question was not ''How is it with these problems?'', but the question
+               <lb facs="#facs_125_tr_1_tl_17" n="N017"/>was, after two seconds, ''What do you think about pacifism?'' There was nothing in the WHOLE
+               <lb facs="#facs_125_tr_1_tl_18" n="N018"/>WORLD which was not focused at that time at the problem of war or peace, and the relationship
+               <lb facs="#facs_125_tr_1_tl_19" n="N019"/>of <rs type="keyword" ref="#Christianity">Christianity</rs> to it. Now I don’t mind this at all--I didn’t understand it; I simply was surprised
+               <lb facs="#facs_125_tr_1_tl_21" n="N020"/>and didn’t know what to answer--but perhaps now I am able to understand it and even to valuate it.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLIV (Nr. 0587)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p113</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-26">1956-04-26</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_113">
+         <graphic url="TL-0587.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AGWOFKOCFSCQGIHOXUZCQUIE&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="267,266 267,3461 2301,3461 2301,266" rendition="TextRegion" xml:id="facs_113_tr_3">
+            <zone points="1096,333 1116,333 1126,343 1156,338 1176,343 1218,341 1216,251 1191,256 1178,269 1094,271" rendition="Line" xml:id="facs_113_tr_3_tl_1"/>
+            <zone points="296,492 873,487 935,525 1032,485 2185,490 2185,435 2128,423 1067,448 1032,410 994,448 547,452 460,370 375,455 298,455" rendition="Line" xml:id="facs_113_tr_3_tl_2"/>
+            <zone points="306,654 1164,644 1164,589 624,612 440,567 306,617" rendition="Line" xml:id="facs_113_tr_3_tl_3"/>
+            <zone points="547,793 2200,798 2200,716 547,758" rendition="Line" xml:id="facs_113_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="298,942 2188,935 2188,895 2111,870 298,917" rendition="Line" xml:id="facs_113_tr_3_tl_5"/>
+            <zone points="296,1096 2183,1084 2185,1034 2133,1019 298,1052" rendition="Line" xml:id="facs_113_tr_3_tl_6"/>
+            <zone points="296,1241 2195,1238 2195,1176 296,1216" rendition="Line" xml:id="facs_113_tr_3_tl_7"/>
+            <zone points="296,1400 1084,1390 1283,1427 1407,1390 2233,1387 2233,1328 2039,1315 296,1370" rendition="Line" xml:id="facs_113_tr_3_tl_8"/>
+            <zone points="296,1549 507,1581 796,1539 2228,1532 2228,1482 2016,1472 296,1504" rendition="Line" xml:id="facs_113_tr_3_tl_9"/>
+            <zone points="298,1703 2185,1686 2170,1628 298,1656" rendition="Line" xml:id="facs_113_tr_3_tl_10"/>
+            <zone points="298,1852 2131,1837 2131,1788 2071,1778 298,1825" rendition="Line" xml:id="facs_113_tr_3_tl_11"/>
+            <zone points="296,2006 1989,1999 2141,1989 2143,1932 380,1934 296,1977" rendition="Line" xml:id="facs_113_tr_3_tl_12"/>
+            <zone points="296,2153 378,2168 592,2156 592,2108 544,2108 532,2096 520,2108 500,2101 467,2111 328,2108 296,2128" rendition="Line" xml:id="facs_113_tr_3_tl_13"/>
+            <zone points="547,2228 2297,2213 2297,2143 2116,2178 798,2163 743,2195 547,2161" rendition="Line" xml:id="facs_113_tr_3_tl_14" subtype="paragraph"/>
+            <zone points="291,2374 1895,2364 1952,2402 2285,2404 2255,2310 291,2350" rendition="Line" xml:id="facs_113_tr_3_tl_15"/>
+            <zone points="298,2553 440,2606 661,2558 1571,2563 1636,2514 2131,2514 2133,2464 1912,2454 1631,2491 301,2484" rendition="Line" xml:id="facs_113_tr_3_tl_16"/>
+            <zone points="293,2680 2183,2670 2170,2611 1559,2606 293,2655" rendition="Line" xml:id="facs_113_tr_3_tl_17"/>
+            <zone points="296,2834 2098,2822 2101,2772 298,2775" rendition="Line" xml:id="facs_113_tr_3_tl_18"/>
+            <zone points="303,2974 2019,2991 2019,2916 1969,2901 303,2931" rendition="Line" xml:id="facs_113_tr_3_tl_19"/>
+            <zone points="288,3140 865,3138 999,3205 1094,3167 1937,3155 1982,3113 2101,3115 2103,3061 288,3113" rendition="Line" xml:id="facs_113_tr_3_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0587.jpg" n="part4_p113.jpg" xml:id="img_0113" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p113.jpg"/>
+            
+            <p facs="#facs_113_tr_3">
+               <lb facs="#facs_113_tr_3_tl_1" n="N001"/>[582]
+               <lb facs="#facs_113_tr_3_tl_2" n="N002"/>But you must add the word ''living,'' because if you say only ''<rs type="keyword" ref="#Structure_of_reality">structure</rs>'' then the full meaning
+               <lb facs="#facs_113_tr_3_tl_3" n="N003"/>of the <rs type="keyword" ref="#German_language">German</rs> word <rs type="keyword" ref="#Gestalt"><hi style="font-style: italic;">Gestalt</hi></rs> is not grasped.
+               <lb facs="#facs_113_tr_3_tl_4" n="N004"/>Now if I say a social group, society as a whole, in a special period, is a living <hi style="font-style: italic;">Gestalt</hi>,
+               <lb facs="#facs_113_tr_3_tl_5" n="N005"/>then this means what every doctor can tell you, that there is no point in the human <rs type="keyword" ref="#Body">body</rs> whose
+               <lb facs="#facs_113_tr_3_tl_6" n="N006"/>function is the cause of all the others, but the functioning of EACH of them is implanted in the
+               <lb facs="#facs_113_tr_3_tl_7" n="N007"/>functioning of the whole, and the functioning of the whole is determining for the functioning of
+               <lb facs="#facs_113_tr_3_tl_8" n="N008"/>each of them. In this sense the cultural functions in human groups are completely interdependent,
+               <lb facs="#facs_113_tr_3_tl_9" n="N009"/>and the whole scheme of <rs type="keyword" ref="#Causality">causality</rs>, especially this terribly mechanistic scheme of substructure
+               <lb facs="#facs_113_tr_3_tl_10" n="N010"/>and superstructure (which have not even the dynamic element of causality in it, but is even
+               <lb facs="#facs_113_tr_3_tl_11" n="N011"/>more external and mechanical) SHOULD BE DISMISSED RADICALLY. This is my genuine
+               <lb facs="#facs_113_tr_3_tl_12" n="N012"/>criticism against Marx, but not that his so-called <rs type="keyword" ref="#Materialism">materialism</rs> has <rs type="keyword" ref="#Ethics">ethical</rs> and bad <rs type="keyword" ref="#Metaphysics">metaphysical</rs>
+               <lb facs="#facs_113_tr_3_tl_13" n="N013"/>connotations.
+               <lb facs="#facs_113_tr_3_tl_14" n="N014"/>Now I want to give you a description of the relationship of <rs type="keyword" ref="#Culture">culture</rs> in its <rs type="keyword" ref="#Economy">economic</rs>-social
+               <lb facs="#facs_113_tr_3_tl_15" n="N015"/>functioning, to <religion>religion</religion>--not in terms of abstract categories but in terms of a story, namely the story
+               <lb facs="#facs_113_tr_3_tl_16" n="N016"/>of the <rs type="keyword" ref="#Germany">German</rs> religious <rs type="keyword" ref="#Religious_socialism">socialism</rs>, after the <rs type="keyword" ref="#First_World_War">First World War</rs>. I give you this story not
+               <lb facs="#facs_113_tr_3_tl_17" n="N017"/>only because I am largely responsible myself for the theoretical formulations of this movement,
+               <lb facs="#facs_113_tr_3_tl_18" n="N018"/>but also because I believe that from the point of view of our subject during this whole year,
+               <lb facs="#facs_113_tr_3_tl_19" n="N019"/>''Religion and Culture,'' it is a very useful model to study, because it went down to the
+               <lb facs="#facs_113_tr_3_tl_20" n="N020"/>principles not <hi style="font-style: italic;">in abstracto</hi>, but on the basis of the given German situation in the year 1919.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

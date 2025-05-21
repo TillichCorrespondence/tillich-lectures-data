@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLIV (Nr. 0595)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p121</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-26">1956-04-26</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_121">
+         <graphic url="TL-0595.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KXEXNWQEBGXDZDEIDQCQOMKR&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="20,266 20,3462 2277,3462 2277,266" rendition="TextRegion" xml:id="facs_121_tr_1">
+            <zone points="1115,325 1127,325 1142,340 1159,337 1172,342 1231,342 1228,271 1196,268 1189,278 1154,278 1149,286 1112,281" rendition="Line" xml:id="facs_121_tr_1_tl_1"/>
+            <zone points="322,475 2191,497 2191,438 2090,458 2018,418 1703,418 1649,455 1607,418 1536,453 1499,418 1455,453 1208,418 1174,453 1132,413 1068,448 876,413 628,448 404,409 322,443" rendition="Line" xml:id="facs_121_tr_1_tl_2"/>
+            <zone points="322,633 554,677 2200,697 2230,601 320,578" rendition="Line" xml:id="facs_121_tr_1_tl_3"/>
+            <zone points="322,785 1255,795 1255,746 1034,729 896,761 807,729 322,738" rendition="Line" xml:id="facs_121_tr_1_tl_4"/>
+            <zone points="537,930 2272,957 2272,913 2186,889 537,881" rendition="Line" xml:id="facs_121_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="315,1085 2112,1125 2112,1048 315,1053" rendition="Line" xml:id="facs_121_tr_1_tl_6"/>
+            <zone points="313,1280 573,1245 650,1285 2119,1282 2119,1201 1841,1184 313,1199" rendition="Line" xml:id="facs_121_tr_1_tl_7"/>
+            <zone points="303,1381 2195,1405 2195,1346 2043,1322 303,1341" rendition="Line" xml:id="facs_121_tr_1_tl_8"/>
+            <zone points="303,1528 2122,1548 2092,1504 1915,1487 303,1489" rendition="Line" xml:id="facs_121_tr_1_tl_9"/>
+            <zone points="295,1679 2225,1711 2225,1654 2117,1634 1410,1666 1332,1634 295,1639" rendition="Line" xml:id="facs_121_tr_1_tl_10"/>
+            <zone points="834,1841 2060,1890 2058,1804 1979,1787 834,1794" rendition="Line" xml:id="facs_121_tr_1_tl_12"/>
+            <zone points="293,2003 381,2053 539,2021 731,2050 810,1989 2136,2013 2136,1937 293,1942" rendition="Line" xml:id="facs_121_tr_1_tl_13"/>
+            <zone points="761,2136 2119,2163 2117,2107 2026,2097 761,2097" rendition="Line" xml:id="facs_121_tr_1_tl_15"/>
+            <zone points="288,2294 588,2365 871,2294 2262,2316 2262,2255 288,2247" rendition="Line" xml:id="facs_121_tr_1_tl_16"/>
+            <zone points="273,2437 2230,2454 2183,2387 273,2397" rendition="Line" xml:id="facs_121_tr_1_tl_17"/>
+            <zone points="281,2592 847,2629 2173,2602 2173,2550 1917,2542 281,2547" rendition="Line" xml:id="facs_121_tr_1_tl_18"/>
+            <zone points="276,2739 1632,2781 2070,2754 2070,2698 276,2710" rendition="Line" xml:id="facs_121_tr_1_tl_20"/>
+            <zone points="266,2887 694,2904 751,2949 2178,2949 2176,2860 2097,2848 266,2865" rendition="Line" xml:id="facs_121_tr_1_tl_21"/>
+            <zone points="268,3047 2193,3069 2193,3017 2058,3000 1046,3030 332,2993 268,3025" rendition="Line" xml:id="facs_121_tr_1_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0595.jpg" n="part4_p121.jpg" xml:id="img_0121" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p121.jpg"/>
+            
+            <p facs="#facs_121_tr_1">
+               <lb facs="#facs_121_tr_1_tl_1" n="N001"/>[590]
+               <lb facs="#facs_121_tr_1_tl_2" n="N002"/>a temporal [i.e. temporary] banning of the <rs type="keyword" ref="#Demonic">demonic</rs> from the earth, but only TEMPORAL, not
+               <lb facs="#facs_121_tr_1_tl_3" n="N003"/>FINAL. Finally, towards the great struggle at the end of <rs type="keyword" ref="#History">history</rs>, the demonic will let loose again,
+               <lb facs="#facs_121_tr_1_tl_4" n="N004"/>out of its underworld prison, and will reappear.
+               <lb facs="#facs_121_tr_1_tl_5" n="N005"/>This is the <language>language</language> of the <rs type="keyword" ref="#Myth">myth</rs>. Now we tried to translate this language in the problem
+               <lb facs="#facs_121_tr_1_tl_6" n="N006"/>of the <rs type="keyword" ref="#Europe">European</rs> situation in the twenties, and it is easy to do this. The biblical vision is not
+               <lb facs="#facs_121_tr_1_tl_7" n="N007"/>utopian. The development of the divine is connected with the development of the <rs type="keyword" ref="#Demonic">demonic</rs>.
+               <lb facs="#facs_121_tr_1_tl_8" n="N008"/>Both of them grow in <rs type="keyword" ref="#Power">power</rs> and destructiveness. But there is always one special demonic power
+               <lb facs="#facs_121_tr_1_tl_9" n="N009"/>which can be fought against and which will be thrown into the prison and banned for a time.
+               <lb facs="#facs_121_tr_1_tl_10" n="N010"/>This is the depth and <rs type="keyword" ref="#Wisdom">wisdom</rs> of the <rs type="keyword" ref="#Symbols_religious">biblical symbolism</rs>, which you could see in the actual<rs type="keyword" ref="#History"> history</rs>
+               <lb facs="#facs_121_tr_1_tl_12" n="N011"/>of this century. Some demons were de-demonized, for instance the capitalists.
+               <lb facs="#facs_121_tr_1_tl_13" n="N012"/>Others grew in power, for instance the <rs type="keyword" ref="#Nationalism">nationalistic</rs>. But also the nationalistic was conquered,
+               <lb facs="#facs_121_tr_1_tl_15" n="N013"/>for a certain time. These demonic forces are not the ultimate; they can be attacked and
+               <lb facs="#facs_121_tr_1_tl_16" n="N014"/>they can be conquered. And in the very attack against them, even<rs type="keyword" ref="#Luther"> Lutheran</rs> <rs type="keyword" ref="#Christianity">Christianity</rs> in <rs type="keyword" ref="#Germany">Germany</rs>
+               <lb facs="#facs_121_tr_1_tl_17" n="N015"/>has developed its greatest spirituality and power against the transcendentalism of the Lutheran
+               <lb facs="#facs_121_tr_1_tl_18" n="N016"/>tradition. A man like Karl Barth changed several times when he saw that Hitler REPRESENTS
+               <lb facs="#facs_121_tr_1_tl_20" n="N017"/>what <rs type="keyword" ref="#Religious_socialism">religious socialism</rs> had told him, years and years before, namely not a <rs type="keyword" ref="#Secular">secular</rs> phenomenon
+               <lb facs="#facs_121_tr_1_tl_21" n="N018"/>of history only, but in its depth-dimension a demonic force reaching down to dimensions of the
+               <lb facs="#facs_121_tr_1_tl_22" n="N019"/>ultimate--then he changed his position, and again started the fight which he had done as religious-
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

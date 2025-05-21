@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLIV (Nr. 0592)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p118</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-26">1956-04-26</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_118">
+         <graphic url="TL-0592.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KGUXDIXFJMPOKFUBKBUMHDNR&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="38,245 38,3468 2352,3468 2352,245" rendition="TextRegion" xml:id="facs_118_tr_2">
+            <zone points="1106,314 1124,314 1142,327 1203,327 1226,322 1226,271 1187,271 1177,260 1172,266 1106,266" rendition="Line" xml:id="facs_118_tr_2_tl_1"/>
+            <zone points="309,472 2214,472 2214,419 2074,401 999,432 958,393 919,432 580,434 485,363 403,439 309,437" rendition="Line" xml:id="facs_118_tr_2_tl_2"/>
+            <zone points="312,633 2237,621 2229,557 621,595 460,549 312,603" rendition="Line" xml:id="facs_118_tr_2_tl_3"/>
+            <zone points="309,784 2252,774 2229,712 309,730" rendition="Line" xml:id="facs_118_tr_2_tl_4"/>
+            <zone points="304,927 2189,917 2189,863 306,901" rendition="Line" xml:id="facs_118_tr_2_tl_5"/>
+            <zone points="309,1085 2183,1070 2186,1016 309,1034" rendition="Line" xml:id="facs_118_tr_2_tl_6"/>
+            <zone points="301,1228 2214,1236 2250,1165 301,1200" rendition="Line" xml:id="facs_118_tr_2_tl_7"/>
+            <zone points="309,1382 774,1389 774,1331 626,1331 605,1351 585,1331 309,1333" rendition="Line" xml:id="facs_118_tr_2_tl_8"/>
+            <zone points="554,1527 894,1571 932,1532 2122,1519 2122,1476 1961,1440 1892,1481 1187,1484 1116,1445 1037,1489 554,1494" rendition="Line" xml:id="facs_118_tr_2_tl_9" subtype="paragraph"/>
+            <zone points="309,1688 1946,1701 1949,1614 309,1652" rendition="Line" xml:id="facs_118_tr_2_tl_11"/>
+            <zone points="309,1839 2120,1821 2120,1767 1931,1760 309,1783" rendition="Line" xml:id="facs_118_tr_2_tl_12"/>
+            <zone points="299,1987 1800,1989 2148,1974 2150,1918 299,1938" rendition="Line" xml:id="facs_118_tr_2_tl_13"/>
+            <zone points="312,2137 1070,2140 1070,2086 401,2094 312,2074" rendition="Line" xml:id="facs_118_tr_2_tl_14"/>
+            <zone points="554,2293 2076,2286 2076,2212 835,2258 554,2229" rendition="Line" xml:id="facs_118_tr_2_tl_15" subtype="paragraph"/>
+            <zone points="304,2441 2160,2439 2160,2378 2056,2375 304,2393" rendition="Line" xml:id="facs_118_tr_2_tl_16"/>
+            <zone points="296,2592 416,2607 787,2600 787,2544 758,2541 332,2546 296,2567" rendition="Line" xml:id="facs_118_tr_2_tl_17"/>
+            <zone points="562,2671 1448,2661 1553,2722 1994,2725 2125,2653 2125,2587 1525,2628 1491,2597 562,2612" rendition="Line" xml:id="facs_118_tr_2_tl_18" subtype="paragraph"/>
+            <zone points="304,2827 2155,2804 2155,2750 306,2796" rendition="Line" xml:id="facs_118_tr_2_tl_19"/>
+            <zone points="301,2978 1818,3011 1920,2960 2278,2957 2280,2893 301,2944" rendition="Line" xml:id="facs_118_tr_2_tl_20"/>
+            <zone points="296,3136 2344,3108 2334,3049 299,3108" rendition="Line" xml:id="facs_118_tr_2_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0592.jpg" n="part4_p118.jpg" xml:id="img_0118" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p118.jpg"/>
+            
+            <p facs="#facs_118_tr_2">
+               <lb facs="#facs_118_tr_2_tl_1" n="N001"/>[587]
+               <lb facs="#facs_118_tr_2_tl_2" n="N002"/>the central <rs type="keyword" ref="#Kairos"><hi style="font-style: italic;">kairos</hi>,</rs> the center of <rs type="keyword" ref="#History">history,</rs> in the event on which <rs type="keyword" ref="#Christianity">Christianity</rs> is based. But then we
+               <lb facs="#facs_118_tr_2_tl_3" n="N003"/>said: there are <hi style="font-style: italic;">kairos</hi> moments everywhere in history. They are not ALWAYS there, but they are
+               <lb facs="#facs_118_tr_2_tl_4" n="N004"/>SOMETIMES there. And it is the function of the prophetic <rs type="keyword" ref="#Spirit">spirit </rs>to discover them, to FEEL them,
+               <lb facs="#facs_118_tr_2_tl_5" n="N005"/>to feel their presence, their coming, as the <rs type="keyword" ref="#Prophets">Prophets</rs> always did. Such moments are moments in
+               <lb facs="#facs_118_tr_2_tl_6" n="N006"/>which a whole form of cultural existence has disintegrated in itself, and the new breaks in from
+               <lb facs="#facs_118_tr_2_tl_7" n="N007"/>above as judging the old, and as promising and demanding the new. Wherever these things happen,
+               <lb facs="#facs_118_tr_2_tl_8" n="N008"/>there <hi style="font-style: italic;">kairos</hi> is present.
+               <lb facs="#facs_118_tr_2_tl_9" n="N009"/>Now we said, over against both sides--<rs type="keyword" ref="#Luther">Lutheran</rs> transcendentalism and <rs type="keyword" ref="#Marxism">Marxian</rs>
+               <lb facs="#facs_118_tr_2_tl_11" n="N010"/>utopianism--''THERE IS A <rs type="keyword" ref="#Kairos">KAIROS</rs>,'' and in this <hi style="font-style: italic;">kairos </hi>a special <rs type="keyword" ref="#Demonic">demonic</rs> force might be
+               <lb facs="#facs_118_tr_2_tl_12" n="N011"/>overcome--we never know it in terms of certainty because it depends on the chances of
+               <lb facs="#facs_118_tr_2_tl_13" n="N012"/><rs type="keyword" ref="#History">history</rs> and not only on the trends in history--but it is HERE, it is ''at hand,'' as the <rs type="keyword" ref="#New">New</rs>
+               <lb facs="#facs_118_tr_2_tl_14" n="N013"/>Testament term is; and it might come.
+               <lb facs="#facs_118_tr_2_tl_15" n="N014"/>Now this eliminates transcendentalism because the eternal BREAKS into the
+               <lb facs="#facs_118_tr_2_tl_16" n="N015"/>temporal; and it eliminates utopianism because one knows that it is a here-and-NOW situation,
+               <lb facs="#facs_118_tr_2_tl_17" n="N016"/>but not a universal one.
+               <lb facs="#facs_118_tr_2_tl_18" n="N017"/>The second <rs type="keyword" ref="#Concept">concept</rs> connected with this was the concept of the demonic. This
+               <lb facs="#facs_118_tr_2_tl_19" n="N018"/>concept couldn’t be used even in the beginning of the twenties of this century, because it was
+               <lb facs="#facs_118_tr_2_tl_20" n="N019"/>too much connected with the superstitious use of special<rs type="keyword" ref="#Spirit"> spirits</rs> which grasp us, which run from one
+               <lb facs="#facs_118_tr_2_tl_21" n="N020"/>place to the other, and have special paint-able characteristics--and painters always like them very much.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

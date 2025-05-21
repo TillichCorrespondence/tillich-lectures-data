@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLIV (Nr. 0593)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p119</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-26">1956-04-26</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_119">
+         <graphic url="TL-0593.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AOBRNKABLSYMSWHRVXOHVRHP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="242,4 242,3452 2283,3452 2283,4" rendition="TextRegion" xml:id="facs_119_tr_2">
+            <zone points="1080,331 1103,334 1110,341 1147,341 1152,336 1155,341 1202,339 1204,282 1169,282 1155,267 1137,282 1127,279 1118,289 1083,289" rendition="Line" xml:id="facs_119_tr_2_tl_2"/>
+            <zone points="509,492 2062,480 2079,435 1990,393 1931,438 1758,398 1696,440 1570,401 1486,443 1451,408 1417,443 1330,413 1125,445 1080,408 1016,450 888,418 851,452 813,413 509,450" rendition="Line" xml:id="facs_119_tr_2_tl_3"/>
+            <zone points="274,643 2055,677 2057,576 274,618" rendition="Line" xml:id="facs_119_tr_2_tl_4"/>
+            <zone points="279,789 507,794 566,838 2107,791 2107,729 1815,719 448,766 373,729 279,766" rendition="Line" xml:id="facs_119_tr_2_tl_5"/>
+            <zone points="279,942 2223,927 2223,878 1671,865 1605,905 279,895" rendition="Line" xml:id="facs_119_tr_2_tl_6"/>
+            <zone points="279,1090 2144,1085 2144,1031 2045,1019 279,1053" rendition="Line" xml:id="facs_119_tr_2_tl_7"/>
+            <zone points="272,1241 2228,1229 2228,1174 2037,1169 690,1172 274,1214" rendition="Line" xml:id="facs_119_tr_2_tl_8"/>
+            <zone points="279,1412 1909,1397 2124,1380 2126,1323 279,1350" rendition="Line" xml:id="facs_119_tr_2_tl_9"/>
+            <zone points="514,1550 2275,1530 2277,1479 517,1496" rendition="Line" xml:id="facs_119_tr_2_tl_10" subtype="paragraph"/>
+            <zone points="279,1716 1624,1686 1498,1637 279,1654" rendition="Line" xml:id="facs_119_tr_2_tl_12"/>
+            <zone points="279,1852 415,1894 1345,1891 1392,1844 1696,1837 2052,1869 2168,1837 2171,1780 279,1822" rendition="Line" xml:id="facs_119_tr_2_tl_14"/>
+            <zone points="274,1995 2116,1988 2116,1933 274,1971" rendition="Line" xml:id="facs_119_tr_2_tl_15"/>
+            <zone points="284,2121 415,2114 522,2126 559,2114 588,2134 628,2109 628,2084 598,2084 571,2057 559,2069 527,2069 514,2057 499,2069 405,2069 393,2057 381,2069 284,2074" rendition="Line" xml:id="facs_119_tr_2_tl_16"/>
+            <zone points="504,2299 1239,2341 1357,2339 1412,2287 2265,2282 2265,2230 1479,2223 1397,2265 504,2272" rendition="Line" xml:id="facs_119_tr_2_tl_18" subtype="paragraph"/>
+            <zone points="272,2445 1916,2435 2161,2482 2134,2374 272,2421" rendition="Line" xml:id="facs_119_tr_2_tl_19"/>
+            <zone points="282,2631 477,2658 623,2604 2102,2596 2102,2542 1882,2524 282,2559" rendition="Line" xml:id="facs_119_tr_2_tl_20"/>
+            <zone points="274,2759 2223,2740 2223,2673 277,2707" rendition="Line" xml:id="facs_119_tr_2_tl_21"/>
+            <zone points="270,2905 2228,2885 2228,2829 272,2878" rendition="Line" xml:id="facs_119_tr_2_tl_22"/>
+            <zone points="272,3056 2257,3044 2257,2984 2151,2982 274,3031" rendition="Line" xml:id="facs_119_tr_2_tl_23"/>
+            <zone points="277,3227 949,3261 2257,3197 2257,3138 2213,3135 1310,3194 1093,3160 925,3212 279,3165" rendition="Line" xml:id="facs_119_tr_2_tl_24"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0593.jpg" n="part4_p119.jpg" xml:id="img_0119" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p119.jpg"/>
+            
+            <p facs="#facs_119_tr_2">
+               <lb facs="#facs_119_tr_2_tl_2" n="N001"/>[588]
+               <lb facs="#facs_119_tr_2_tl_3" n="N002"/>But the <rs type="keyword" ref="#Demonic">demonic</rs> became visible as something quite different. It became visible
+               <lb facs="#facs_119_tr_2_tl_4" n="N003"/>as the structure of destruction, and it became visible both in social reality and in personal
+               <lb facs="#facs_119_tr_2_tl_5" n="N004"/>reality. In personal reality, it is the great merit of <rs type="keyword" ref="#Depth_Psychology">depth psychology</rs> that it showed us that
+               <lb facs="#facs_119_tr_2_tl_6" n="N005"/>there are structures in the totality of us, including our <unconscious>unconscious</unconscious>, which we cannot simply break
+               <lb facs="#facs_119_tr_2_tl_7" n="N006"/>by good will. The rediscovery of the demonic was the death-blow against the loose talk about
+               <lb facs="#facs_119_tr_2_tl_8" n="N007"/>the ''man of good will,'' which was still so strong twenty years ago, and always connected with the
+               <lb facs="#facs_119_tr_2_tl_9" n="N008"/>nice term ''IF ONLY''--namely ''if only we, the men of good will, went [i.e., got?] together!''
+               <lb facs="#facs_119_tr_2_tl_10" n="N009"/>The discovery of the <rs type="keyword" ref="#Demonic">demonic</rs> is the discovery of a structure transcending every individual
+               <lb facs="#facs_119_tr_2_tl_12" n="N010"/>good will. It is the structure which is present in the individual psychological reality, as a
+               <lb facs="#facs_119_tr_2_tl_14" n="N011"/>neurotic or psychotic structure of a demonic character, and everybody knows about that that if it is
+               <lb facs="#facs_119_tr_2_tl_15" n="N012"/>there, you cannot overcome it by good will. This would save you too much money from the
+               <lb facs="#facs_119_tr_2_tl_16" n="N013"/>psychoanalyst... but you canNOT--it would make you like <rs type="keyword" ref="#God">God</rs>, WHO ONLY can do it, actually.
+               <lb facs="#facs_119_tr_2_tl_18" n="N014"/>Another discovery was a SOCIAL structure. Here we must pay tribute to the analysis
+               <lb facs="#facs_119_tr_2_tl_19" n="N015"/>of the social schizophrenia, or neurosis, which was connected with the later stages of bourgeois
+               <lb facs="#facs_119_tr_2_tl_20" n="N016"/>capitalism. This analysis ALSO doesn’t say what <rs type="keyword" ref="#Marxism">Marxist</rs> propagandists always did, later on,
+               <lb facs="#facs_119_tr_2_tl_21" n="N017"/>as all propagandists always do, namely distort <rs type="keyword" ref="#Truth">truth</rs> as the basis of his propaganda. He [Marx]
+               <lb facs="#facs_119_tr_2_tl_22" n="N018"/>never said that there are the evil capitalists and we must kill them--this was what he called utopian
+               <lb facs="#facs_119_tr_2_tl_23" n="N019"/>socialism. This is still in the structure of ''if-only''--''if only the 10,000 bankers would disappear,
+               <lb facs="#facs_119_tr_2_tl_24" n="N020"/>then the world would be safe for <rs type="keyword" ref="#Justice">justice</rs>!'' Now the same thing like that is deep, deep under the level
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

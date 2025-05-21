@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLIV (Nr. 0590)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p116</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-26">1956-04-26</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_116">
+         <graphic url="TL-0590.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WSRSMCWEHFJTLFYYZEKIRUYL&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="262,206 262,3468 2295,3468 2295,206" rendition="TextRegion" xml:id="facs_116_tr_1">
+            <zone points="1091,262 1104,260 1129,277 1164,280 1200,280 1217,267 1230,267 1230,222 1194,224 1187,217 1172,217 1167,222 1091,222" rendition="Line" xml:id="facs_116_tr_1_tl_1"/>
+            <zone points="297,411 554,454 610,423 2223,444 2223,391 1845,363 297,368" rendition="Line" xml:id="facs_116_tr_1_tl_2"/>
+            <zone points="297,567 2220,572 2124,522 297,534" rendition="Line" xml:id="facs_116_tr_1_tl_3"/>
+            <zone points="292,716 2172,731 2172,675 292,683" rendition="Line" xml:id="facs_116_tr_1_tl_4"/>
+            <zone points="292,859 2094,885 2094,822 2019,819 292,834" rendition="Line" xml:id="facs_116_tr_1_tl_5"/>
+            <zone points="297,1021 2210,1046 2210,973 2172,970 297,985" rendition="Line" xml:id="facs_116_tr_1_tl_6"/>
+            <zone points="378,1169 1278,1177 1278,1139 1225,1121 496,1114 378,1137" rendition="Line" xml:id="facs_116_tr_1_tl_8"/>
+            <zone points="277,1320 2210,1358 2208,1300 2134,1278 277,1293" rendition="Line" xml:id="facs_116_tr_1_tl_10"/>
+            <zone points="272,1472 2248,1494 2200,1431 272,1444" rendition="Line" xml:id="facs_116_tr_1_tl_11"/>
+            <zone points="282,1630 2185,1648 2185,1585 282,1572" rendition="Line" xml:id="facs_116_tr_1_tl_12"/>
+            <zone points="282,1782 1421,1789 1421,1736 282,1726" rendition="Line" xml:id="facs_116_tr_1_tl_13"/>
+            <zone points="517,1928 2197,1940 2109,1880 517,1887" rendition="Line" xml:id="facs_116_tr_1_tl_14" subtype="paragraph"/>
+            <zone points="272,2079 2210,2094 2170,2034 995,2056 272,2021" rendition="Line" xml:id="facs_116_tr_1_tl_15"/>
+            <zone points="270,2243 2197,2245 2197,2182 270,2177" rendition="Line" xml:id="facs_116_tr_1_tl_16"/>
+            <zone points="267,2384 2288,2397 2288,2334 1056,2359 267,2323" rendition="Line" xml:id="facs_116_tr_1_tl_17"/>
+            <zone points="260,2530 1557,2540 1663,2578 2175,2550 2175,2487 260,2500" rendition="Line" xml:id="facs_116_tr_1_tl_18"/>
+            <zone points="262,2681 2039,2709 2039,2641 262,2626" rendition="Line" xml:id="facs_116_tr_1_tl_19"/>
+            <zone points="257,2838 1938,2848 1938,2787 257,2777" rendition="Line" xml:id="facs_116_tr_1_tl_20"/>
+            <zone points="255,2989 2109,3001 2087,2941 255,2931" rendition="Line" xml:id="facs_116_tr_1_tl_21"/>
+            <zone points="247,3170 2117,3175 2117,3107 920,3153 247,3087" rendition="Line" xml:id="facs_116_tr_1_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0590.jpg" n="part4_p116.jpg" xml:id="img_0116" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p116.jpg"/>
+            
+            <p facs="#facs_116_tr_1">
+               <lb facs="#facs_116_tr_1_tl_1" n="N001"/>[585]
+               <lb facs="#facs_116_tr_1_tl_2" n="N002"/>demanding subordination to the <rs type="keyword" ref="#Power">powers</rs> in power, especially the old traditional conservative ones,
+               <lb facs="#facs_116_tr_1_tl_3" n="N003"/>much less those who are now in power--or were then in power--the republican, <rs type="keyword" ref="#Democracy">democratic </rs>ones--
+               <lb facs="#facs_116_tr_1_tl_4" n="N004"/>but anyhow, even there they subjected themselves. This is the negative-transcendental point of
+               <lb facs="#facs_116_tr_1_tl_5" n="N005"/>view which was almost inborn in every <rs type="keyword" ref="#Germany">German</rs> at that <rs type="keyword" ref="#Time">time</rs>--except one group, namely the
+               <lb facs="#facs_116_tr_1_tl_6" n="N006"/>socialist group, which had the opposite point of view: the utopian-immanent point of view,
+               <lb facs="#facs_116_tr_1_tl_8" n="N007"/>the point of view that<rs type="keyword" ref="#History"> history</rs> IS the place to change the given reality,
+               <lb facs="#facs_116_tr_1_tl_10" n="N008"/>to change it under the criteria of the <rs type="keyword" ref="#Natural_Law">natural law</rs>, the <rs type="keyword" ref="#Justice">justice</rs>, equality, and realizing this in history
+               <lb facs="#facs_116_tr_1_tl_11" n="N009"/>and not beyond history. In this,... an either revolutionary or more progressivistic socialism
+               <lb facs="#facs_116_tr_1_tl_12" n="N010"/>was in political <rs type="keyword" ref="#Power">power,</rs> while the <church>churches</church> and all those directly or indirectly influenced by them
+               <lb facs="#facs_116_tr_1_tl_13" n="N011"/>were looking above, towards the transcendent fulfillment.
+               <lb facs="#facs_116_tr_1_tl_14" n="N012"/>Now how could this situation be bridged? This was a question we had to face when
+               <lb facs="#facs_116_tr_1_tl_15" n="N013"/>we came out of the <rs type="keyword" ref="#First_World_War">First World War.</rs> This was the radical conflict which tore the whole <rs type="keyword" ref="#Nation">nation</rs> to
+               <lb facs="#facs_116_tr_1_tl_16" n="N014"/>pieces--at least two parts in radical conflict with each other. It was the idea of <rs type="keyword" ref="#Religious_socialism">religious socialism</rs>
+               <lb facs="#facs_116_tr_1_tl_17" n="N015"/>to overcome this situation. In doing so, we introduced a large amount of fundamental <rs type="keyword" ref="#Concept">concepts</rs> which
+               <lb facs="#facs_116_tr_1_tl_18" n="N016"/>expressed the valuation of our situation. First of all we criticized the <rs type="keyword" ref="#Luther">Lutheran</rs> solution that the
+               <lb facs="#facs_116_tr_1_tl_19" n="N017"/>world remains unchanged in the <rs type="keyword" ref="#Power">power</rs> of the<rs type="keyword" ref="#Devil"> Devil.</rs> We accepted this as a universal <rs type="keyword" ref="#Truth">truth</rs>,
+               <lb facs="#facs_116_tr_1_tl_20" n="N018"/>but we refused to accept it with respect to ANY SPECIAL <rs type="keyword" ref="#Demonic">demonic</rs> power. We said:
+               <lb facs="#facs_116_tr_1_tl_21" n="N019"/>OF COURSE there will be no utopian actualization of the <rs type="keyword" ref="#Kingdom_of_God">kingdom of God</rs> in <rs type="keyword" ref="#Time">time</rs> and <space/>space.
+               <lb facs="#facs_116_tr_1_tl_22" n="N020"/>In this we were in the line of universally <rs type="keyword" ref="#Christianity">Christia</rs>n thinking. But we believed that it is possible,
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

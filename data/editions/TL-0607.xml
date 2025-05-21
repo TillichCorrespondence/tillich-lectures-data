@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLV (Nr. 0607)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p133</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-05-01">1956-05-01</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_133">
+         <graphic url="TL-0607.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MIBRNELGJIYIZYUNFIQSNJGS&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="143,282 143,3443 2341,3433 2316,282" rendition="TextRegion" xml:id="facs_133_tr_2">
+            <zone points="1134,348 1146,348 1156,358 1186,353 1188,358 1223,358 1228,353 1256,358 1261,283 1218,283 1203,288 1196,283 1171,303 1136,303" rendition="Line" xml:id="facs_133_tr_2_tl_1"/>
+            <zone points="323,512 2019,492 2019,455 1892,423 1847,457 1780,423 1696,460 1300,430 898,467 848,430 813,465 607,433 323,470" rendition="Line" xml:id="facs_133_tr_2_tl_2"/>
+            <zone points="313,651 1278,654 1367,711 1449,674 2250,679 2250,594 313,627" rendition="Line" xml:id="facs_133_tr_2_tl_3"/>
+            <zone points="313,808 763,811 833,868 2151,838 2121,743 313,771" rendition="Line" xml:id="facs_133_tr_2_tl_4"/>
+            <zone points="311,1002 1208,1012 1266,955 1330,997 2178,994 2178,895 2108,890 311,930" rendition="Line" xml:id="facs_133_tr_2_tl_5"/>
+            <zone points="313,1119 363,1156 895,1159 1131,1106 2312,1104 2312,1052 2175,1042 313,1079" rendition="Line" xml:id="facs_133_tr_2_tl_6"/>
+            <zone points="306,1261 438,1275 492,1333 751,1333 875,1266 2148,1256 2148,1203 2081,1198 306,1218" rendition="Line" xml:id="facs_133_tr_2_tl_7"/>
+            <zone points="306,1437 353,1474 1795,1415 2292,1437 2292,1348 2079,1353 2036,1315 1907,1357 306,1367" rendition="Line" xml:id="facs_133_tr_2_tl_8"/>
+            <zone points="311,1596 373,1636 579,1599 893,1633 1183,1556 2148,1554 2148,1512 2064,1497 311,1517" rendition="Line" xml:id="facs_133_tr_2_tl_9"/>
+            <zone points="311,1711 1435,1708 1519,1750 1561,1708 2285,1703 2250,1648 311,1681" rendition="Line" xml:id="facs_133_tr_2_tl_10"/>
+            <zone points="313,1870 2200,1852 2153,1790 1812,1827 1420,1795 313,1820" rendition="Line" xml:id="facs_133_tr_2_tl_11"/>
+            <zone points="303,2014 2185,2006 2185,1954 2136,1939 303,1982" rendition="Line" xml:id="facs_133_tr_2_tl_12"/>
+            <zone points="306,2183 552,2213 776,2208 858,2156 1484,2161 1616,2228 1760,2180 1984,2213 2061,2158 2218,2163 2218,2108 1987,2088 306,2136" rendition="Line" xml:id="facs_133_tr_2_tl_13"/>
+            <zone points="303,2315 2230,2307 2220,2255 1964,2248 303,2270" rendition="Line" xml:id="facs_133_tr_2_tl_14"/>
+            <zone points="296,2461 2024,2466 2026,2412 296,2439" rendition="Line" xml:id="facs_133_tr_2_tl_15"/>
+            <zone points="303,2625 1362,2616 1430,2660 2079,2628 2079,2561 1778,2546 303,2573" rendition="Line" xml:id="facs_133_tr_2_tl_16"/>
+            <zone points="520,2767 2113,2755 2113,2700 520,2742" rendition="Line" xml:id="facs_133_tr_2_tl_17" subtype="paragraph"/>
+            <zone points="293,2914 781,2911 900,2956 1390,2909 2258,2919 2253,2852 293,2889" rendition="Line" xml:id="facs_133_tr_2_tl_18"/>
+            <zone points="303,3073 2056,3068 2056,3018 1987,2998 303,3023" rendition="Line" xml:id="facs_133_tr_2_tl_19"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0607.jpg" n="part4_p133.jpg" xml:id="img_0133" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p133.jpg"/>
+            
+            <p facs="#facs_133_tr_2">
+               <lb facs="#facs_133_tr_2_tl_1" n="N001"/>[602]
+               <lb facs="#facs_133_tr_2_tl_2" n="N002"/>dimension of <rs type="keyword" ref="#Art">artistic</rs> <rs type="keyword" ref="#Creativity">creaivity</rs> [sic.], or <rs type="keyword" ref="#Cognitive">cognition</rs>, or <rs type="keyword" ref="#Ethics">ethical </rs>organization, or <rs type="keyword" ref="#Politics">political</rs> form--
+               <lb facs="#facs_133_tr_2_tl_3" n="N003"/>they see at the same <rs type="keyword" ref="#Time">time</rs> the <ultimate_concern>ultimate concern</ultimate_concern> and are for that very reason able to produce, out of
+               <lb facs="#facs_133_tr_2_tl_4" n="N004"/>the depth of this vision, <rs type="keyword" ref="#Symbols">symbols </rs>of the ultimate concern which are not imposed from outside
+               <lb facs="#facs_133_tr_2_tl_5" n="N005"/>upon them but which express their actual life. Now of course, if this were completely fulfilled,
+               <lb facs="#facs_133_tr_2_tl_6" n="N006"/>we would be in the <rs type="keyword" ref="#Kingdom_of_God">kingdom of God</rs>, and this is not the case and is not a possibility in time and <space/>space.
+               <lb facs="#facs_133_tr_2_tl_7" n="N007"/>But the approximation to it is more, or less, in the different periods of <rs type="keyword" ref="#History">history</rs>. And I believe
+               <lb facs="#facs_133_tr_2_tl_8" n="N008"/>that in one thing we were VERY right, in our <rs type="keyword" ref="#Religious_socialism">religious-socialist movmeent </rs>[sic.]: it was NOT a movement
+               <lb facs="#facs_133_tr_2_tl_9" n="N009"/>which tried to give higher wages to labor, or to organize a centralized <rs type="keyword" ref="#Economy">economy</rs>--these things
+               <lb facs="#facs_133_tr_2_tl_10" n="N010"/>were very much in [the] periphery, or lacking it completely; perhaps we even rejected them. But the
+               <lb facs="#facs_133_tr_2_tl_11" n="N011"/>question was: what does a <rs type="keyword" ref="#Theonomy">theonomous</rs> <rs type="keyword" ref="#Culture">culture</rs>, in the Western world, mean, on the basis of the
+               <lb facs="#facs_133_tr_2_tl_12" n="N012"/><rs type="keyword" ref="#Autonomy">autonomous</rs> development, its emptiness, and its self-destructive tendencies? This was the
+               <lb facs="#facs_133_tr_2_tl_13" n="N013"/>meaning of our movement. And in THIS sense, it was <hi style="font-style: italic;">en kairo</hi>, it was in the <rs type="keyword" ref="#Kairos"><hi style="font-style: italic;">kairos</hi></rs>, ''in the right
+               <lb facs="#facs_133_tr_2_tl_14" n="N014"/>time,'' in the moment in which <rs type="keyword" ref="#Eternity">eternity</rs> breaks into time. In relating it to the special problems of
+               <lb facs="#facs_133_tr_2_tl_15" n="N015"/>the proletarian <rs type="keyword" ref="#Revolution">revolution</rs>, it was already too late, from the point of view of the <hi style="font-style: italic;">kairos</hi>,
+               <lb facs="#facs_133_tr_2_tl_16" n="N016"/>and today it is NOT that which, in my opinion, can be the symbol of transforming reality.
+               <lb facs="#facs_133_tr_2_tl_17" n="N017"/>After the <rs type="keyword" ref="#Second_World_War">Second World War,</rs> I gave a lecture at Chicago, which is printed in
+               <lb facs="#facs_133_tr_2_tl_18" n="N018"/><hi style="font-style: italic;">The Protestant Era</hi>, on ''<religion>Religion</religion> and <rs type="keyword" ref="#Secular">Secula</rs>r <rs type="keyword" ref="#Culture">Culture.</rs>'' There I described briefly the development,
+               <lb facs="#facs_133_tr_2_tl_19" n="N019"/>from the situation after the <rs type="keyword" ref="#First_World_War">First World War</rs> to the situation after the Second World War,
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLIV (Nr. 0585)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p111</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-26">1956-04-26</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_111">
+         <graphic url="TL-0585.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UNESBJCONHNVWEVTMHNXGKNG&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="47,236 47,3461 2343,3461 2343,236" rendition="TextRegion" xml:id="facs_111_tr_1">
+            <zone points="1098,300 1114,300 1136,318 1185,308 1218,308 1220,239 1187,239 1167,257 1149,259 1142,252 1131,257 1101,257" rendition="Line" xml:id="facs_111_tr_1_tl_1"/>
+            <zone points="292,460 2115,460 2115,407 2034,369 1996,407 735,425 592,369 488,427 455,392 292,425" rendition="Line" xml:id="facs_111_tr_1_tl_2"/>
+            <zone points="303,613 1884,646 1960,597 2235,608 2235,542 303,562" rendition="Line" xml:id="facs_111_tr_1_tl_3"/>
+            <zone points="303,773 1116,803 1470,750 2126,750 2128,702 303,725" rendition="Line" xml:id="facs_111_tr_1_tl_4"/>
+            <zone points="305,918 2197,903 2199,844 305,887" rendition="Line" xml:id="facs_111_tr_1_tl_5"/>
+            <zone points="292,1065 2011,1060 2047,1014 292,1037" rendition="Line" xml:id="facs_111_tr_1_tl_6"/>
+            <zone points="295,1210 2151,1200 2151,1144 1986,1129 297,1185" rendition="Line" xml:id="facs_111_tr_1_tl_7"/>
+            <zone points="295,1363 2100,1348 2100,1294 295,1320" rendition="Line" xml:id="facs_111_tr_1_tl_8"/>
+            <zone points="295,1518 2006,1520 2153,1500 2156,1447 295,1492" rendition="Line" xml:id="facs_111_tr_1_tl_9"/>
+            <zone points="295,1668 2194,1653 2194,1597 1851,1594 295,1637" rendition="Line" xml:id="facs_111_tr_1_tl_10"/>
+            <zone points="300,1826 2169,1803 2169,1752 1889,1737 303,1792" rendition="Line" xml:id="facs_111_tr_1_tl_11"/>
+            <zone points="305,1968 2143,1958 2143,1904 2047,1897 308,1922" rendition="Line" xml:id="facs_111_tr_1_tl_12"/>
+            <zone points="300,2120 2253,2098 2253,2044 303,2092" rendition="Line" xml:id="facs_111_tr_1_tl_13"/>
+            <zone points="300,2270 2143,2253 2103,2194 303,2227" rendition="Line" xml:id="facs_111_tr_1_tl_14"/>
+            <zone points="295,2413 2176,2413 2339,2400 2342,2344 295,2387" rendition="Line" xml:id="facs_111_tr_1_tl_15"/>
+            <zone points="300,2570 2080,2581 2301,2548 2301,2502 2237,2492 300,2545" rendition="Line" xml:id="facs_111_tr_1_tl_16"/>
+            <zone points="305,2731 2220,2700 2220,2647 2021,2639 308,2682" rendition="Line" xml:id="facs_111_tr_1_tl_17"/>
+            <zone points="305,2817 1904,2837 2184,2804 2184,2751 1953,2746 305,2779" rendition="Line" xml:id="facs_111_tr_1_tl_18" subtype="footnote"/>
+            <zone points="325,2878 1322,2870 1304,2817 325,2830" rendition="Line" xml:id="facs_111_tr_1_tl_19"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0585.jpg" n="part4_p111.jpg" xml:id="img_0111" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p111.jpg"/>
+            
+            <p facs="#facs_111_tr_1">
+               <lb facs="#facs_111_tr_1_tl_1" n="N001"/>[580]
+               <lb facs="#facs_111_tr_1_tl_2" n="N002"/>within the limits of this special estate, be it the king, be it the beggar, and everything
+               <lb facs="#facs_111_tr_1_tl_3" n="N003"/>in between. Now these are what I could call <rs type="keyword" ref="#Economy">economic</rs> will, or economic valuation, not in terms of
+               <lb facs="#facs_111_tr_1_tl_4" n="N004"/>prices but in terms of expressions of the meaning of life. So if you discuss these things, don't
+               <lb facs="#facs_111_tr_1_tl_5" n="N005"/>complain, with a kind of complaining sentimentality, that this bad <rs type="keyword" ref="#Materialism">materialistic</rs> interpretation of
+               <lb facs="#facs_111_tr_1_tl_6" n="N006"/><rs type="keyword" ref="#History">history</rs> devaluates all the wonderful high values which we have in our wonderful society--
+               <lb facs="#facs_111_tr_1_tl_7" n="N007"/>don't say THIS, especially that it is <rs type="keyword" ref="#Atheism">atheistic</rs> and has many other <rs type="keyword" ref="#Morals">moral </rs>failures from the point
+               <lb facs="#facs_111_tr_1_tl_8" n="N008"/>of view of suburban bourgeoisie, but use your academic <rs type="keyword" ref="#Mind">mind</rs> and criticize, not in terms of
+               <lb facs="#facs_111_tr_1_tl_9" n="N009"/>sentimental complaint about these bad people, but criticize in terms of logical analysis and
+               <lb facs="#facs_111_tr_1_tl_10" n="N010"/>show them what actually the <rs type="keyword" ref="#Concept">concept</rs> of the economic means. And if you do this, then you also
+               <lb facs="#facs_111_tr_1_tl_11" n="N011"/>do something else: you show how RIGHT they are IN their analysis; that actually you cannot
+               <lb facs="#facs_111_tr_1_tl_12" n="N012"/>write a history of the <rs type="keyword" ref="#Artist">artistic</rs> interpretation of the human face, in the <rs type="keyword" ref="#Western_Culture">Western</rs> world, without
+               <lb facs="#facs_111_tr_1_tl_13" n="N013"/>continuous references to the economic foundation. I once have written an article, in a collective work
+               <lb facs="#facs_111_tr_1_tl_14" n="N014"/>called <hi style="font-style: italic;">The Christian Answer</hi> (1945)--''The Analysis of Our Time''*--and to show the way in
+               <lb facs="#facs_111_tr_1_tl_15" n="N015"/>which the idea of <rs type="keyword" ref="#Personality">personality</rs> (which I have discussed in the last hours) has developed, I added pictures:
+               <lb facs="#facs_111_tr_1_tl_16" n="N016"/>the personality in a man like Giotto, in a man like Titian, in a man like Rembrandt, and in a man like
+               <lb facs="#facs_111_tr_1_tl_17" n="N017"/>American 19th-century Sargent, showing the differences, not looking so much at the valuation or
+               <lb facs="#facs_111_tr_1_tl_18" n="N018"/>*The actual title is ''The World Situation,'' in the book edited by H. P. Van Dusen. Note that in
+               <lb facs="#facs_111_tr_1_tl_19" n="N019"/>later republication, the pictures are omitted.--Ed.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

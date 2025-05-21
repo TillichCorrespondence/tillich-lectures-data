@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLIII (Nr. 0577)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p103</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-24">1956-04-24</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_103">
+         <graphic url="TL-0577.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZCVVOIGVRVWSAUOWODJDZWZY&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="23,216 23,3464 2337,3464 2337,216" rendition="TextRegion" xml:id="facs_103_tr_1">
+            <zone points="1106,281 1119,281 1124,286 1218,286 1216,209 1200,212 1177,232 1167,232 1129,197 1116,189 1101,189" rendition="Line" xml:id="facs_103_tr_1_tl_1"/>
+            <zone points="301,447 2201,434 2201,388 2117,365 347,393 301,360" rendition="Line" xml:id="facs_103_tr_1_tl_2"/>
+            <zone points="299,582 2178,582 2178,534 2043,516 299,539" rendition="Line" xml:id="facs_103_tr_1_tl_3"/>
+            <zone points="291,730 1129,730 1241,776 1586,774 1775,725 2166,743 2166,672 2005,667 1862,702 1389,667 291,700" rendition="Line" xml:id="facs_103_tr_1_tl_4"/>
+            <zone points="291,889 2166,886 2166,833 2046,825 442,822 291,856" rendition="Line" xml:id="facs_103_tr_1_tl_5"/>
+            <zone points="291,1034 2102,1029 2102,978 2012,960 1747,1001 291,986" rendition="Line" xml:id="facs_103_tr_1_tl_6"/>
+            <zone points="296,1187 2030,1182 2030,1131 1971,1124 296,1134" rendition="Line" xml:id="facs_103_tr_1_tl_7"/>
+            <zone points="291,1338 2212,1331 2212,1277 1859,1264 291,1290" rendition="Line" xml:id="facs_103_tr_1_tl_8"/>
+            <zone points="283,1481 2224,1484 2224,1433 1923,1420 1767,1456 1285,1422 283,1458" rendition="Line" xml:id="facs_103_tr_1_tl_9"/>
+            <zone points="283,1632 2306,1637 2309,1583 2135,1573 286,1591" rendition="Line" xml:id="facs_103_tr_1_tl_10"/>
+            <zone points="281,1790 2222,1785 2222,1729 2056,1719 281,1760" rendition="Line" xml:id="facs_103_tr_1_tl_11"/>
+            <zone points="283,1946 2214,1941 2214,1887 1680,1874 283,1895" rendition="Line" xml:id="facs_103_tr_1_tl_12"/>
+            <zone points="281,2089 2334,2086 2334,2017 281,2061" rendition="Line" xml:id="facs_103_tr_1_tl_13"/>
+            <zone points="429,2240 2181,2237 2181,2191 2089,2178 429,2196" rendition="Line" xml:id="facs_103_tr_1_tl_14" subtype="paragraph"/>
+            <zone points="271,2390 2235,2388 2237,2319 273,2349" rendition="Line" xml:id="facs_103_tr_1_tl_15"/>
+            <zone points="271,2538 1765,2567 2196,2536 2196,2482 2074,2475 1826,2515 1292,2475 271,2515" rendition="Line" xml:id="facs_103_tr_1_tl_17"/>
+            <zone points="281,2704 2183,2692 2183,2641 2076,2638 281,2656" rendition="Line" xml:id="facs_103_tr_1_tl_18"/>
+            <zone points="271,2850 1767,2850 1767,2794 271,2807" rendition="Line" xml:id="facs_103_tr_1_tl_20"/>
+            <zone points="266,3006 2217,2996 2217,2944 2007,2937 266,2978" rendition="Line" xml:id="facs_103_tr_1_tl_21"/>
+            <zone points="268,3154 2247,3156 2247,3098 1662,3103 1624,3067 1583,3103 1032,3131 268,3131" rendition="Line" xml:id="facs_103_tr_1_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0577.jpg" n="part4_p103.jpg" xml:id="img_0103" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p103.jpg"/>
+            
+            <p facs="#facs_103_tr_1">
+               <lb facs="#facs_103_tr_1_tl_1" n="N001"/>[572]
+               <lb facs="#facs_103_tr_1_tl_2" n="N002"/>just as the same sects did in the <rs type="keyword" ref="#Reformation">Reformation</rs> period, to participate in the revolution. In all these
+               <lb facs="#facs_103_tr_1_tl_3" n="N003"/>cases, one idea was extremely important, namely the idea of the third stage of history. This is a
+               <lb facs="#facs_103_tr_1_tl_4" n="N004"/>very old idea, and its origin can be sought in <rs type="person" ref="#tillich_person_id__983">Joachim di Fiore </rs>(whose name you all know),
+               <lb facs="#facs_103_tr_1_tl_5" n="N005"/>a monk of the 12th century. This man wrote, in the beginning of the 12th century, prophecies
+               <lb facs="#facs_103_tr_1_tl_6" n="N006"/>on the basis of which he gave the first---not the first, but a very important---anti-<rs type="keyword" ref="#Augustinian">Augustinian</rs>
+               <lb facs="#facs_103_tr_1_tl_7" n="N007"/>sectarian interpretation of <rs type="keyword" ref="#History">history</rs>, namely that the Trinity is not only eternal but is also
+               <lb facs="#facs_103_tr_1_tl_8" n="N008"/>HISTORICALLY relevant, that there is an age of the Father, and an age of the Son, and an age of
+               <lb facs="#facs_103_tr_1_tl_9" n="N009"/>the Holy Spirit; that the Old Testament and all before it, represents the age of the Father, that the
+               <lb facs="#facs_103_tr_1_tl_10" n="N010"/>thousand years of church history represents the age of the Son, and that now the age of the Spirit will
+               <lb facs="#facs_103_tr_1_tl_11" n="N011"/>come in which the whole society will be transformed, the earthly and ecclesiastical authorities will
+               <lb facs="#facs_103_tr_1_tl_12" n="N012"/>disappear; every <rs type="keyword" ref="#Individual">individual</rs> will be taught directly by the Divine Spirit; everybody will become a
+               <lb facs="#facs_103_tr_1_tl_13" n="N013"/>monk. And by abstinence from <rs type="keyword" ref="#Sex">sexual relationships</rs>, mankind and, with it, history, will come to an end.
+               <lb facs="#facs_103_tr_1_tl_14" n="N014"/>Now these prophecies had a tremendous influence on the Franciscan movement, and the
+               <lb facs="#facs_103_tr_1_tl_15" n="N015"/>later Franciscans <rs type="keyword" ref="#Revolution">revolted</rs> against the papal hierarchies in the name of the prophecies of J<rs type="person" ref="#tillich_person_id__983">oachim di
+               <lb break="no" facs="#facs_103_tr_1_tl_17" n="N016"/>Fiore</rs>, in the hope that the third stage of <rs type="keyword" ref="#History">history</rs> will now start with the Order of Saint Francis.
+               <lb facs="#facs_103_tr_1_tl_18" n="N017"/>They were suppressed by the power of the <rs type="keyword" ref="#Pope">popes</rs>, and their ideas remained in a more <rs type="keyword" ref="#Secular">secularized</rs>
+               <lb facs="#facs_103_tr_1_tl_20" n="N018"/>form. And the idea of a third stage of history is from now on a continuous symbol, as
+               <lb facs="#facs_103_tr_1_tl_21" n="N019"/>you can call it, for such ideas---for all revolutionary movements in the Western world. The sects of
+               <lb facs="#facs_103_tr_1_tl_22" n="N020"/>the <rs type="keyword" ref="#Reformation">Reformation</rs> period used the idea, and later on the bourgeois fulfillers, largely dependent on the
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

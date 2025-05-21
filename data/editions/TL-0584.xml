@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLIV (Nr. 0584)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p110</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-26">1956-04-26</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_110">
+         <graphic url="TL-0584.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=EYRNSASHLWKMMOWFAXVAAKVP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="20,239 20,3478 2245,3478 2245,239" rendition="TextRegion" xml:id="facs_110_tr_1">
+            <zone points="1078,300 1090,300 1100,310 1132,317 1175,317 1190,307 1205,307 1205,244 1168,244 1154,229 1117,266 1078,266" rendition="Line" xml:id="facs_110_tr_1_tl_1"/>
+            <zone points="285,458 2058,461 2058,402 1988,393 1497,422 1449,380 1402,422 1085,424 1046,385 1007,424 849,393 800,424 722,356 632,424 285,422" rendition="Line" xml:id="facs_110_tr_1_tl_2"/>
+            <zone points="285,612 2161,629 2161,566 1814,551 285,566" rendition="Line" xml:id="facs_110_tr_1_tl_3"/>
+            <zone points="298,758 571,797 2183,780 2200,719 300,702" rendition="Line" xml:id="facs_110_tr_1_tl_4"/>
+            <zone points="278,912 2068,917 2068,866 1895,856 278,868" rendition="Line" xml:id="facs_110_tr_1_tl_5"/>
+            <zone points="280,1068 2188,1071 2188,1017 2095,1005 280,1039" rendition="Line" xml:id="facs_110_tr_1_tl_6"/>
+            <zone points="280,1210 2241,1212 2241,1168 2170,1154 280,1171" rendition="Line" xml:id="facs_110_tr_1_tl_7"/>
+            <zone points="273,1363 1922,1366 1922,1317 1756,1307 273,1341" rendition="Line" xml:id="facs_110_tr_1_tl_8"/>
+            <zone points="527,1517 2197,1517 2197,1461 1892,1449 527,1463" rendition="Line" xml:id="facs_110_tr_1_tl_9" subtype="paragraph"/>
+            <zone points="276,1671 2200,1671 2200,1617 2056,1607 276,1641" rendition="Line" xml:id="facs_110_tr_1_tl_10"/>
+            <zone points="276,1819 2129,1822 2129,1749 276,1775" rendition="Line" xml:id="facs_110_tr_1_tl_11"/>
+            <zone points="266,1958 2173,1963 2131,1905 1217,1941 266,1917" rendition="Line" xml:id="facs_110_tr_1_tl_12"/>
+            <zone points="271,2114 1846,2114 1902,2158 1978,2112 2163,2117 2163,2061 271,2068" rendition="Line" xml:id="facs_110_tr_1_tl_14"/>
+            <zone points="666,2268 2158,2268 2158,2217 2061,2212 666,2239" rendition="Line" xml:id="facs_110_tr_1_tl_15"/>
+            <zone points="271,2424 2078,2427 2078,2373 2005,2358 271,2375" rendition="Line" xml:id="facs_110_tr_1_tl_17"/>
+            <zone points="271,2585 2170,2573 2136,2514 271,2527" rendition="Line" xml:id="facs_110_tr_1_tl_18"/>
+            <zone points="273,2741 2039,2712 2141,2753 2210,2717 2210,2666 2122,2658 273,2678" rendition="Line" xml:id="facs_110_tr_1_tl_19"/>
+            <zone points="261,2873 2185,2868 2185,2817 2075,2814 261,2829" rendition="Line" xml:id="facs_110_tr_1_tl_20"/>
+            <zone points="263,3026 2188,3022 2188,2968 1873,2951 263,2983" rendition="Line" xml:id="facs_110_tr_1_tl_21"/>
+            <zone points="261,3187 1873,3253 2212,3246 2210,3170 1549,3202 1171,3141 259,3153" rendition="Line" xml:id="facs_110_tr_1_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0584.jpg" n="part4_p110.jpg" xml:id="img_0110" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p110.jpg"/>
+            
+            <p facs="#facs_110_tr_1">
+               <lb facs="#facs_110_tr_1_tl_1" n="N001"/>[579]
+               <lb facs="#facs_110_tr_1_tl_2" n="N002"/>is a declaration of <rs type="keyword" ref="#Philosophy">philosophical</rs> stupidity in the way in which this <rs type="keyword" ref="#Materialism">materialism</rs> was carried
+               <lb facs="#facs_110_tr_1_tl_3" n="N003"/>through, at the end of the 19th century. So if you call Marx himself, or the Marxist movement,
+               <lb facs="#facs_110_tr_1_tl_4" n="N004"/>''materialist,'' you have the great advantage that besides the genuine meaning of the word, namely
+               <lb facs="#facs_110_tr_1_tl_5" n="N005"/>historical materialism (where it should be applied), you have the coloring coming from the
+               <lb facs="#facs_110_tr_1_tl_6" n="N006"/><rs type="keyword" ref="#Ethics">ethical </rs>and the <rs type="keyword" ref="#Metaphysics">metaphysical </rs>materialism, which has nothing to do with the Marxian materialism.
+               <lb facs="#facs_110_tr_1_tl_7" n="N007"/>That is the first thing we must say, and this is a fair statement and a statement of protection against
+               <lb facs="#facs_110_tr_1_tl_8" n="N008"/>a kind of propagandistic attitude which is beneath the dignity of academic honesty.
+               <lb facs="#facs_110_tr_1_tl_9" n="N009"/>Then the second point, a critical one: how valid is this derivation? There l gave you
+               <lb facs="#facs_110_tr_1_tl_10" n="N010"/>at the end of the last hour the I think basic logical criticism which must be applied to this form of
+               <lb facs="#facs_110_tr_1_tl_11" n="N011"/>deriving all in life on [i.e. from] the <rs type="keyword" ref="#Economy">economic</rs>, namely that that from which these things shall
+               <lb facs="#facs_110_tr_1_tl_12" n="N012"/>be derived is already a summary of these things, so that the whole thing becomes a vicious circle.
+               <lb facs="#facs_110_tr_1_tl_14" n="N013"/>You have, in what one calls the economic, not only special activities of production, you have also
+               <lb facs="#facs_110_tr_1_tl_15" n="N014"/>special techniques which are results of special <rs type="keyword" ref="#Science">scientific</rs> analysis of nature, and you
+               <lb facs="#facs_110_tr_1_tl_17" n="N015"/>have further a special system of <rs type="keyword" ref="#Law">law</rs> and right which makes this kind of production possible,
+               <lb facs="#facs_110_tr_1_tl_18" n="N016"/>you have special forms of <ultimate_concern>ultimate concern</ultimate_concern>--and this means, of <religion>religion</religion>--which valuate the goods
+               <lb facs="#facs_110_tr_1_tl_19" n="N017"/>produced by this economy in different ways. The tremendous valuation of gadgets which we have
+               <lb facs="#facs_110_tr_1_tl_20" n="N018"/>in this country is a RELIGIOUS phenomenon because it expresses an ultimate concern. And the
+               <lb facs="#facs_110_tr_1_tl_21" n="N019"/>opposite--which would make a kind of dynamic economy, as we have it, impossible--is based also
+               <lb facs="#facs_110_tr_1_tl_22" n="N020"/>on the religious idea of being born into a special estate and to be asked by <rs type="keyword" ref="#Destiny">destiny</rs> to fulfill oneself
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

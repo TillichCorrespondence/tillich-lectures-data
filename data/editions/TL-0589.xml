@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLIV (Nr. 0589)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p115</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-26">1956-04-26</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_115">
+         <graphic url="TL-0589.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=BPYNSVXFFAFBTAFLBSQQQZHJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="319,208 319,3476 2313,3476 2313,208" rendition="TextRegion" xml:id="facs_115_tr_2">
+            <zone points="1135,285 1147,285 1154,293 1206,293 1214,285 1246,285 1249,213 1234,213 1211,233 1137,231" rendition="Line" xml:id="facs_115_tr_2_tl_1"/>
+            <zone points="335,429 439,487 573,432 2008,427 2113,467 2172,437 2120,370 496,392 457,355 335,395" rendition="Line" xml:id="facs_115_tr_2_tl_2"/>
+            <zone points="338,586 2185,593 2185,534 338,539" rendition="Line" xml:id="facs_115_tr_2_tl_3"/>
+            <zone points="335,730 2135,737 2135,683 2036,675 335,683" rendition="Line" xml:id="facs_115_tr_2_tl_4"/>
+            <zone points="325,879 2214,896 2214,842 2048,824 325,856" rendition="Line" xml:id="facs_115_tr_2_tl_5"/>
+            <zone points="330,1038 2207,1045 2207,983 330,988" rendition="Line" xml:id="facs_115_tr_2_tl_6"/>
+            <zone points="325,1187 2222,1189 2222,1132 325,1157" rendition="Line" xml:id="facs_115_tr_2_tl_7"/>
+            <zone points="323,1328 2212,1343 2212,1288 1879,1271 323,1306" rendition="Line" xml:id="facs_115_tr_2_tl_8"/>
+            <zone points="323,1485 2150,1502 2175,1437 323,1460" rendition="Line" xml:id="facs_115_tr_2_tl_9"/>
+            <zone points="956,1633 2175,1646 2135,1571 956,1594" rendition="Line" xml:id="facs_115_tr_2_tl_10"/>
+            <zone points="323,1792 1281,1797 1281,1740 1127,1728 323,1745" rendition="Line" xml:id="facs_115_tr_2_tl_12"/>
+            <zone points="566,1939 2217,1941 2217,1874 566,1884" rendition="Line" xml:id="facs_115_tr_2_tl_13" subtype="paragraph"/>
+            <zone points="315,2085 2306,2083 2306,2036 2234,2028 524,2063 452,2023 315,2063" rendition="Line" xml:id="facs_115_tr_2_tl_14"/>
+            <zone points="320,2237 2257,2239 2257,2192 1849,2175 320,2195" rendition="Line" xml:id="facs_115_tr_2_tl_15"/>
+            <zone points="320,2396 2093,2388 2095,2341 1954,2326 323,2343" rendition="Line" xml:id="facs_115_tr_2_tl_16"/>
+            <zone points="318,2550 2190,2542 2190,2487 1929,2473 1527,2478 1485,2512 318,2495" rendition="Line" xml:id="facs_115_tr_2_tl_17"/>
+            <zone points="310,2694 2195,2698 2197,2641 2088,2636 313,2654" rendition="Line" xml:id="facs_115_tr_2_tl_18"/>
+            <zone points="305,2845 2115,2847 2115,2793 2053,2783 305,2800" rendition="Line" xml:id="facs_115_tr_2_tl_19"/>
+            <zone points="308,2991 794,3026 1174,2996 1174,2944 1090,2932 308,2964" rendition="Line" xml:id="facs_115_tr_2_tl_20"/>
+            <zone points="566,3158 2165,3155 2165,3083 566,3093" rendition="Line" xml:id="facs_115_tr_2_tl_21" subtype="paragraph"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0589.jpg" n="part4_p115.jpg" xml:id="img_0115" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p115.jpg"/>
+            
+            <p facs="#facs_115_tr_2">
+               <lb facs="#facs_115_tr_2_tl_1" n="N001"/>[584]
+               <lb facs="#facs_115_tr_2_tl_2" n="N002"/>the idea of suffering obedience--since anyhow the world is in the<rs type="keyword" ref="#Power"> power</rs> of the <rs type="keyword" ref="#Devil">Devil-</rs>-was the
+               <lb facs="#facs_115_tr_2_tl_3" n="N003"/>attitude of almost all Germans who were influenced by this <rs type="keyword" ref="#Luther">Lutheran</rs> attitude. <rs type="keyword" ref="#Authority">Authority</rs> was
+               <lb facs="#facs_115_tr_2_tl_4" n="N004"/><rs type="keyword" ref="#God">God</rs>-sent. If the authority is bad, you have to pray for a better one, but there is no right of
+               <lb facs="#facs_115_tr_2_tl_5" n="N005"/>resistance or <rs type="keyword" ref="#Revolution">revolution</rs> except if they command something which is, in your personal situation,
+               <lb facs="#facs_115_tr_2_tl_6" n="N006"/>against the <rs type="keyword" ref="#Law">law </rs>of God: then you have to suffer. This point of view never was out, in <rs type="keyword" ref="#Germany">Germany</rs>,
+               <lb facs="#facs_115_tr_2_tl_7" n="N007"/>and you cannot understand <rs type="keyword" ref="#Nazism">Nazism</rs>, for instance, without this point of view--not the CONTENT
+               <lb facs="#facs_115_tr_2_tl_8" n="N008"/>of Nazism (this has nothing to do with Lutheranism or, as some people think, Hegelianism), but
+               <lb facs="#facs_115_tr_2_tl_9" n="N009"/>the authoritarian acceptance of it without a serious resistance and revolt in the beginning,
+               <lb facs="#facs_115_tr_2_tl_10" n="N010"/>before it came to <rs type="keyword" ref="#Power">power</rs>--later on, it was impossible anyhow.--This is historical guilt,
+               <lb facs="#facs_115_tr_2_tl_12" n="N011"/>tragic guilt, connected with the German <rs type="keyword" ref="#History">history</rs>.
+               <lb facs="#facs_115_tr_2_tl_13" n="N012"/>In Karl Barth, there was in these days a <rs type="keyword" ref="#Theologian">theologian</rs> who himself came from <rs type="keyword" ref="#Religious_socialism">religious
+               <lb break="no" facs="#facs_115_tr_2_tl_14" n="N013"/>socialism</rs>, who was a member of the Swiss religious socialist movement, but who turned transcenden-
+               <lb facs="#facs_115_tr_2_tl_15" n="N014"/>talist in the beginning of the twenties; who gave up the combination of the <religion>religious</religion> principle with
+               <lb facs="#facs_115_tr_2_tl_16" n="N015"/>the socialist principle, and was, as l once told him, largely responsible for the fact that the
+               <lb facs="#facs_115_tr_2_tl_17" n="N016"/><rs type="keyword" ref="#Theology">theology</rs> students who in the BEGINNING of the twenties, after the <rs type="keyword" ref="#First_World_War">First World War,</rs> were still
+               <lb facs="#facs_115_tr_2_tl_18" n="N017"/>in sympathy for religious socialism and able to resist the coming of Hitlerism, were not able any
+               <lb facs="#facs_115_tr_2_tl_19" n="N018"/>more because the relationship to the <rs type="keyword" ref="#History">history</rs>, to the historical responsibility of a theologian,
+               <lb facs="#facs_115_tr_2_tl_20" n="N019"/>was undercut by Barth's transcendentalism.
+               <lb facs="#facs_115_tr_2_tl_21" n="N020"/>Now this was the one position: <rs type="keyword" ref="#Luther">Lutheranism</rs>, pessimistic about changing history,
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLIV (Nr. 0594)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p120</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-26">1956-04-26</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_120">
+         <graphic url="TL-0594.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KPTMWOXTCDPHWEVJQHSZITJF&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="26,240 26,3466 2292,3466 2292,240" rendition="TextRegion" xml:id="facs_120_tr_1">
+            <zone points="1123,302 1140,307 1148,317 1225,317 1229,312 1242,312 1244,245 1210,250 1202,243 1182,258 1165,258 1153,270 1123,268" rendition="Line" xml:id="facs_120_tr_1_tl_1"/>
+            <zone points="320,468 2246,468 2201,409 1901,392 320,421" rendition="Line" xml:id="facs_120_tr_1_tl_2"/>
+            <zone points="327,610 2137,615 2104,563 1805,583 1767,550 327,580" rendition="Line" xml:id="facs_120_tr_1_tl_3"/>
+            <zone points="322,766 2191,773 2191,719 1943,701 322,724" rendition="Line" xml:id="facs_120_tr_1_tl_4"/>
+            <zone points="317,907 2236,917 2236,858 2149,855 317,868" rendition="Line" xml:id="facs_120_tr_1_tl_5"/>
+            <zone points="317,1056 2104,1068 2104,1011 317,1029" rendition="Line" xml:id="facs_120_tr_1_tl_6"/>
+            <zone points="327,1220 2109,1222 2109,1167 1931,1158 327,1150" rendition="Line" xml:id="facs_120_tr_1_tl_7"/>
+            <zone points="307,1358 1522,1373 1522,1324 1398,1311 414,1306 307,1336" rendition="Line" xml:id="facs_120_tr_1_tl_8"/>
+            <zone points="533,1515 1740,1512 1832,1569 2248,1557 2248,1467 533,1482" rendition="Line" xml:id="facs_120_tr_1_tl_9" subtype="paragraph"/>
+            <zone points="315,1663 367,1678 803,1678 803,1616 350,1614 315,1633" rendition="Line" xml:id="facs_120_tr_1_tl_10"/>
+            <zone points="530,1814 2256,1822 2256,1772 2174,1760 530,1760" rendition="Line" xml:id="facs_120_tr_1_tl_11" subtype="paragraph"/>
+            <zone points="312,1973 1534,1968 2042,2020 2137,1976 2095,1916 312,1926" rendition="Line" xml:id="facs_120_tr_1_tl_12"/>
+            <zone points="302,2114 451,2134 796,2124 796,2077 704,2080 687,2062 669,2080 597,2080 580,2062 518,2062 501,2080 399,2080 382,2062 302,2077" rendition="Line" xml:id="facs_120_tr_1_tl_13"/>
+            <zone points="773,2179 2189,2189 2144,2112 2057,2147 1703,2112 1653,2144 1356,2112 870,2144 773,2087" rendition="Line" xml:id="facs_120_tr_1_tl_14" subtype="paragraph"/>
+            <zone points="297,2320 2285,2342 2285,2285 2038,2263 297,2275" rendition="Line" xml:id="facs_120_tr_1_tl_15"/>
+            <zone points="297,2479 2231,2486 2231,2432 1750,2417 297,2434" rendition="Line" xml:id="facs_120_tr_1_tl_16"/>
+            <zone points="290,2625 511,2660 2221,2627 2221,2573 2035,2570 290,2600" rendition="Line" xml:id="facs_120_tr_1_tl_17"/>
+            <zone points="290,2776 414,2853 476,2818 1019,2823 1195,2789 1195,2734 290,2749" rendition="Line" xml:id="facs_120_tr_1_tl_18"/>
+            <zone points="511,2932 1668,2965 2209,2932 2209,2873 511,2880" rendition="Line" xml:id="facs_120_tr_1_tl_19" subtype="paragraph"/>
+            <zone points="290,3084 920,3091 969,3138 2263,3089 2263,3041 2181,3027 290,3041" rendition="Line" xml:id="facs_120_tr_1_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0594.jpg" n="part4_p120.jpg" xml:id="img_0120" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p120.jpg"/>
+            
+            <p facs="#facs_120_tr_1">
+               <lb facs="#facs_120_tr_1_tl_1" n="N001"/>[589]
+               <lb facs="#facs_120_tr_1_tl_2" n="N002"/>of <rs type="keyword" ref="#Marxism">Marx’</rs>s analysis. His analysis shows structures in which everybody is involved, but in which also
+               <lb facs="#facs_120_tr_1_tl_3" n="N003"/>saving elements can be discovered, and he saw them in an almost <rs type="keyword" ref="#Christ">Christ</rs>-like character of the
+               <lb facs="#facs_120_tr_1_tl_4" n="N004"/>proletariat of the 19th century--a phenomenon which you don’t know because it doesn't exist
+               <lb facs="#facs_120_tr_1_tl_5" n="N005"/>in this way in this country, but it certainly did exist in the middle of the 19th century in England
+               <lb facs="#facs_120_tr_1_tl_6" n="N006"/>and <rs type="keyword" ref="#Europe">Europe</rs>. There he saw the saving possibilities and gave an analysis so convincing of the
+               <lb facs="#facs_120_tr_1_tl_7" n="N007"/>inescapable structure WITHIN the capitalist system that it changed the surface of the world
+               <lb facs="#facs_120_tr_1_tl_8" n="N008"/>in ALL sections of the world, as the 20th century has shown.
+               <lb facs="#facs_120_tr_1_tl_9" n="N009"/>Now this is the other side of the rediscovery of the <rs type="keyword" ref="#Demonic">demonic</rs>: structures of destruction
+               <lb facs="#facs_120_tr_1_tl_10" n="N010"/>which we cannot escape.
+               <lb facs="#facs_120_tr_1_tl_11" n="N011"/>Now this sounds again very much pessimistic-<rs type="keyword" ref="#Luther">Lutheran</rs>-negativistic, and seems to exhort
+               <lb facs="#facs_120_tr_1_tl_12" n="N012"/>us to look up and not forward. But this was not our attitude. We said: No, there is a special
+               <lb facs="#facs_120_tr_1_tl_13" n="N013"/>demon, which we know.
+               <lb facs="#facs_120_tr_1_tl_14" n="N014"/>It is one SPECIAL, only--others will follow. But this, we have to fight.
+               <lb facs="#facs_120_tr_1_tl_15" n="N015"/>This is the way in which the presence of the divine <rs type="keyword" ref="#Power">power </rs>in the world must express itself, in fighting
+               <lb facs="#facs_120_tr_1_tl_16" n="N016"/>a concrete <rs type="keyword" ref="#Demonic">demonic</rs> force. We saw it first mostly in the capitalism of the 19th century, then more
+               <lb facs="#facs_120_tr_1_tl_17" n="N017"/>in the <rs type="keyword" ref="#Nationalism">nationalism</rs> of the early 20th century, which led to <rs type="keyword" ref="#Nazism">Nazism</rs> where we had a fully developed
+               <lb facs="#facs_120_tr_1_tl_18" n="N018"/>UNAMBIGUOUS expression of the demonic.
+               <lb facs="#facs_120_tr_1_tl_19" n="N019"/>Now all this meant something which we find <rs type="keyword" ref="#Mythological">mythologically</rs> expressed in the last book
+               <lb facs="#facs_120_tr_1_tl_20" n="N020"/>of the <rs type="keyword" ref="#Bible">Bible</rs>. There we find that the fight of the angelic <rs type="keyword" ref="#Power">powers</rs> against the <rs type="keyword" ref="#Demonic">demonic </rs>powers leads to
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

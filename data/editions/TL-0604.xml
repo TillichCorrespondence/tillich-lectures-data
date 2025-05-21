@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLV (Nr. 0604)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p130</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-05-01">1956-05-01</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_130">
+         <graphic url="TL-0604.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=JKOZNRHHTMBDWNDGJGUPUTEX&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="203,0 194,3229 2324,3268 2319,0" rendition="TextRegion" xml:id="facs_130_tr_4">
+            <zone points="1149,327 1175,324 1198,332 1250,332 1261,322 1276,322 1274,280 1242,280 1219,259 1209,270 1193,270 1183,280 1146,283" rendition="Line" xml:id="facs_130_tr_4_tl_2"/>
+            <zone points="316,459 2171,501 2168,454 1989,451 1950,412 1912,449 1364,436 1261,397 1185,436 316,420" rendition="Line" xml:id="facs_130_tr_4_tl_3"/>
+            <zone points="314,604 2127,654 2127,591 1810,576 1730,607 1331,568 1209,597 1172,563 314,581" rendition="Line" xml:id="facs_130_tr_4_tl_4"/>
+            <zone points="309,752 2220,807 2264,804 2264,747 306,721" rendition="Line" xml:id="facs_130_tr_4_tl_5"/>
+            <zone points="303,908 656,947 2251,949 2251,895 2212,892 303,882" rendition="Line" xml:id="facs_130_tr_4_tl_6"/>
+            <zone points="301,1061 1219,1082 1489,1165 1611,1110 2129,1139 2127,1043 1561,1040 1390,934 1235,1032 301,1030" rendition="Line" xml:id="facs_130_tr_4_tl_7"/>
+            <zone points="296,1219 2129,1261 2233,1253 2233,1198 293,1167" rendition="Line" xml:id="facs_130_tr_4_tl_8"/>
+            <zone points="296,1377 2215,1401 2212,1351 2049,1320 1930,1351 296,1315" rendition="Line" xml:id="facs_130_tr_4_tl_9"/>
+            <zone points="293,1574 1761,1606 1857,1541 2163,1551 2163,1504 290,1473" rendition="Line" xml:id="facs_130_tr_4_tl_10"/>
+            <zone points="278,1670 1582,1699 1580,1631 278,1629" rendition="Line" xml:id="facs_130_tr_4_tl_11"/>
+            <zone points="189,1855 288,1816 2176,1865 2270,1860 2270,1800 272,1790 187,1751" rendition="Line" xml:id="facs_130_tr_4_tl_13"/>
+            <zone points="272,1969 2223,2013 2220,1943 272,1925" rendition="Line" xml:id="facs_130_tr_4_tl_14"/>
+            <zone points="270,2124 1556,2150 1554,2096 1380,2083 270,2075" rendition="Line" xml:id="facs_130_tr_4_tl_15"/>
+            <zone points="485,2270 2207,2306 2207,2267 2129,2244 485,2244" rendition="Line" xml:id="facs_130_tr_4_tl_16" subtype="paragraph"/>
+            <zone points="257,2415 2244,2461 2241,2402 257,2386" rendition="Line" xml:id="facs_130_tr_4_tl_17"/>
+            <zone points="1149,2607 2233,2614 2231,2557 2155,2547 1756,2544 1696,2573 1434,2532 1149,2542" rendition="Line" xml:id="facs_130_tr_4_tl_19"/>
+            <zone points="249,2760 897,2731 1696,2791 1764,2747 2028,2757 2028,2700 249,2692" rendition="Line" xml:id="facs_130_tr_4_tl_20"/>
+            <zone points="244,2874 2026,2918 2023,2856 1746,2840 244,2851" rendition="Line" xml:id="facs_130_tr_4_tl_21"/>
+            <zone points="233,3019 2254,3061 2254,3006 1842,2991 233,2993" rendition="Line" xml:id="facs_130_tr_4_tl_22"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0604.jpg" n="part4_p130.jpg" xml:id="img_0130" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p130.jpg"/>
+            
+            <p facs="#facs_130_tr_4">
+               <lb facs="#facs_130_tr_4_tl_2" n="N001"/>[599]
+               <lb facs="#facs_130_tr_4_tl_3" n="N002"/>half-consciously alive: not ''What shall we do?'' (I think this question belongs to 20 years ago
+               <lb facs="#facs_130_tr_4_tl_4" n="N003"/>also), but the question ''How could the <rs type="keyword" ref="#State">state</rs> of disintegration, the state of dehumanization,
+               <lb facs="#facs_130_tr_4_tl_5" n="N004"/>the state of becoming into an object, which threatens everybody today, how can this be overcome?
+               <lb facs="#facs_130_tr_4_tl_6" n="N005"/>Is there a picture of a state of society which, differs from our presently given society and which
+               <lb facs="#facs_130_tr_4_tl_7" n="N006"/>nevertheless does not have the character of utopia?'' Utopia means: to do just what I called
+               <lb facs="#facs_130_tr_4_tl_8" n="N007"/>legalistic socialism or legalistic <rs type="keyword" ref="#Pacifism">pacifism</rs>. But there is a possibility of the <rs type="keyword" ref="#Ultimacy">ultimate</rs> present in all
+               <lb facs="#facs_130_tr_4_tl_9" n="N008"/>cultural realms without transforming the <rs type="keyword" ref="#Culture">culture</rs> in terms of a utopian ideal which, as such, never
+               <lb facs="#facs_130_tr_4_tl_10" n="N009"/>can be actualized in <rs type="keyword" ref="#Time">time </rs>and <space/>space, and which therefore leads (and I can speak in this year
+               <lb facs="#facs_130_tr_4_tl_11" n="N010"/>[1956] of 70 years of experience, from my first year of life on) [1886] [smiling]--the result
+               <lb facs="#facs_130_tr_4_tl_13" n="N011"/>is always <rs type="keyword" ref="#Metaphysics">metaphysical</rs> disappointment! Every utopia had this consequence, that after a certain time
+               <lb facs="#facs_130_tr_4_tl_14" n="N012"/>it will be revealed in its erroneous character; one will SEE that one had believed in a WRONG <rs type="keyword" ref="#God">god,</rs>
+               <lb facs="#facs_130_tr_4_tl_15" n="N013"/>and had tried to avoid what <rs type="keyword" ref="#Christianity">Christianity</rs> symbolizes in the <rs type="keyword" ref="#Cross_of_Christ">Cross</rs>.
+               <lb facs="#facs_130_tr_4_tl_16" n="N014"/>Now if this is so, then a <rs type="keyword" ref="#Culture">culture</rs> which is neither utopian nor cynical--these are the two
+               <lb facs="#facs_130_tr_4_tl_17" n="N015"/>things--which neither leaves things go according to the <rs type="keyword" ref="#Power">power</rs> structures, nor believes in a fulfillment
+               <lb facs="#facs_130_tr_4_tl_19" n="N016"/>in <rs type="keyword" ref="#Time">time</rs> and <space/>space--could be called a THEONOMOUS structure. This word is derived from
+               <lb facs="#facs_130_tr_4_tl_20" n="N017"/><hi style="font-style: italic;">theos</hi> (God) and <hi style="font-style: italic;">nomos</hi> (law). The word <rs type="keyword" ref="#Theonomy">theonomy</rs> is in parallelism to two other words:
+               <lb facs="#facs_130_tr_4_tl_21" n="N018"/><rs type="keyword" ref="#Autonomy">autonomy</rs> (from <hi style="font-style: italic;">autos</hi>, being oneself the law to oneself), and <rs type="keyword" ref="#Heteronomy">heteronomy</rs> (from <hi style="font-style: italic;">heteros</hi>,
+               <lb facs="#facs_130_tr_4_tl_22" n="N019"/>strange, foreign, outside, a law which doesn’t come from inside but from outside). <religion>Religion</religion>--and this
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

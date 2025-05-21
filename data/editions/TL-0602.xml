@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLV (Nr. 0602)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p128</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-05-01">1956-05-01</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_128">
+         <graphic url="TL-0602.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=IWEQNBPTEGKJPGJFKAHHTQNW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="44,231 49,3255 2252,3265 2277,231" rendition="TextRegion" xml:id="facs_128_tr_1">
+            <zone points="1132,297 1145,297 1157,309 1231,309 1239,302 1256,302 1254,232 1219,237 1202,227 1187,242 1179,245 1174,240 1165,250 1130,250" rendition="Line" xml:id="facs_128_tr_1_tl_1"/>
+            <zone points="314,448 2178,470 2121,393 314,418" rendition="Line" xml:id="facs_128_tr_1_tl_2"/>
+            <zone points="312,601 1303,606 1404,645 1476,611 2191,618 2191,566 2035,551 312,576" rendition="Line" xml:id="facs_128_tr_1_tl_3"/>
+            <zone points="314,762 2223,781 2220,724 312,734" rendition="Line" xml:id="facs_128_tr_1_tl_4"/>
+            <zone points="312,915 2245,932 2245,880 2114,863 2079,895 312,870" rendition="Line" xml:id="facs_128_tr_1_tl_5"/>
+            <zone points="312,1061 497,1103 623,1068 1854,1078 1854,1021 312,1029" rendition="Line" xml:id="facs_128_tr_1_tl_6"/>
+            <zone points="519,1214 2267,1229 2267,1174 2030,1157 519,1172" rendition="Line" xml:id="facs_128_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="297,1360 1145,1375 1179,1409 1315,1372 2205,1375 2205,1328 1929,1310 297,1338" rendition="Line" xml:id="facs_128_tr_1_tl_8"/>
+            <zone points="297,1513 2151,1526 2151,1479 1973,1461 297,1469" rendition="Line" xml:id="facs_128_tr_1_tl_9"/>
+            <zone points="299,1671 2270,1676 2270,1629 2134,1619 299,1624" rendition="Line" xml:id="facs_128_tr_1_tl_10"/>
+            <zone points="289,1820 2146,1830 2146,1773 289,1778" rendition="Line" xml:id="facs_128_tr_1_tl_11"/>
+            <zone points="289,1973 2119,1973 2020,1921 289,1926" rendition="Line" xml:id="facs_128_tr_1_tl_12"/>
+            <zone points="284,2116 2163,2134 2163,2087 2094,2069 2008,2104 1637,2065 284,2079" rendition="Line" xml:id="facs_128_tr_1_tl_13"/>
+            <zone points="287,2272 804,2309 2092,2285 2092,2233 1889,2218 287,2230" rendition="Line" xml:id="facs_128_tr_1_tl_14"/>
+            <zone points="279,2418 2107,2438 2107,2391 2023,2374 279,2396" rendition="Line" xml:id="facs_128_tr_1_tl_15"/>
+            <zone points="272,2571 2260,2586 2260,2534 2124,2524 272,2549" rendition="Line" xml:id="facs_128_tr_1_tl_16"/>
+            <zone points="494,2725 2156,2737 2156,2668 1278,2702 494,2675" rendition="Line" xml:id="facs_128_tr_1_tl_17" subtype="paragraph"/>
+            <zone points="272,2876 2129,2880 2129,2833 1835,2826 272,2851" rendition="Line" xml:id="facs_128_tr_1_tl_18"/>
+            <zone points="274,3029 2215,3039 2215,2982 2176,2977 1899,3009 1864,2977 274,2989" rendition="Line" xml:id="facs_128_tr_1_tl_19"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0602.jpg" n="part4_p128.jpg" xml:id="img_0128" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p128.jpg"/>
+            
+            <p facs="#facs_128_tr_1">
+               <lb facs="#facs_128_tr_1_tl_1" n="N001"/>[597]
+               <lb facs="#facs_128_tr_1_tl_2" n="N002"/>tendency in Prussian militarism to glorify war, not to see that it is in itself an expression of the
+               <lb facs="#facs_128_tr_1_tl_3" n="N003"/><rs type="keyword" ref="#Demonic">demonic</rs> possession of mankind as a whole, but to call it a glorious thing in itself. Now of course
+               <lb facs="#facs_128_tr_1_tl_4" n="N004"/>every evil can produce virtues which otherwise never would come into existence, as diseases often
+               <lb facs="#facs_128_tr_1_tl_5" n="N005"/>do to people. But a disease is a disease even if has a wholesome effect on a special person. And so,
+               <lb facs="#facs_128_tr_1_tl_6" n="N006"/>war is EVIL, even if it produces [something] which can be considered as good.
+               <lb facs="#facs_128_tr_1_tl_7" n="N007"/>Now let’s look at the second type, the legalistic. It says: ''If this is true, if the <rs type="keyword" ref="#Kingdom_of_God">kingdom
+               <lb break="no" facs="#facs_128_tr_1_tl_8" n="N008"/>of God </rs>implies the universal peace, because everything is rooted in the same eternal ground, then
+               <lb facs="#facs_128_tr_1_tl_9" n="N009"/>let’s try to do that, and everybody MUST be a pacifist, and everybody must REFUSE to go to
+               <lb facs="#facs_128_tr_1_tl_10" n="N010"/>war.'' This legalistic form of <rs type="keyword" ref="#Pacifism">pacifism</rs> ALSO overlooks the separation of essence and existence.
+               <lb facs="#facs_128_tr_1_tl_11" n="N011"/>It doesn’t see that under the conditions of existence, of human <rs type="keyword" ref="#Estrangement">estrangement</rs>, estrangement of
+               <lb facs="#facs_128_tr_1_tl_12" n="N012"/>everything FROM everything and from ITSELF, the <rs type="keyword" ref="#Power">power</rs> which is the <rs type="keyword" ref="#Structure_of_reality">structure of reality</rs>--
+               <lb facs="#facs_128_tr_1_tl_13" n="N013"/><rs type="keyword" ref="#God">God</rs> Himself is <rs type="keyword" ref="#Ultimacy">ultimate</rs> power--actualizes itself in terms of compulsion, through force. This is
+               <lb facs="#facs_128_tr_1_tl_14" n="N014"/>the situation which we have in [the] inner-political realm--without the inner application, or
+               <lb facs="#facs_128_tr_1_tl_15" n="N015"/>at least the threat of force, no <community>community</community>, even the smallest, could exist. And we have it in
+               <lb facs="#facs_128_tr_1_tl_16" n="N016"/>relation of the great groups to each other. This is man's <rs type="keyword" ref="#Predicament">predicament</rs>, and it is impossible to deny it.
+               <lb facs="#facs_128_tr_1_tl_17" n="N017"/>But then there is a third consideration, namely the consideration that IF the idea of
+               <lb facs="#facs_128_tr_1_tl_18" n="N018"/>the <rs type="keyword" ref="#Kingdom_of_God">kingdom of Go</rs>d is the universal unity, and IF there are saving powers in existence so that
+               <lb facs="#facs_128_tr_1_tl_19" n="N019"/>existence is not thoroughly self-destructive, then these saving powers should work, and one should
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

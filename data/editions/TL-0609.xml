@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLV (Nr. 0609)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p135</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-05-01">1956-05-01</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_135">
+         <graphic url="TL-0609.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=OPLEXYHDBJPUKKAHWBBQRIHQ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="146,195 34,3189 2246,3178 2266,251" rendition="TextRegion" xml:id="facs_135_tr_2">
+            <zone points="1171,292 1183,292 1205,306 1217,306 1221,301 1233,306 1257,301 1264,308 1288,304 1288,246 1255,246 1238,234 1219,246 1212,241 1188,265 1171,265" rendition="Line" xml:id="facs_135_tr_2_tl_1"/>
+            <zone points="318,483 394,437 2184,468 2184,413 2094,411 2032,354 1965,411 1695,423 531,404 315,347" rendition="Line" xml:id="facs_135_tr_2_tl_2"/>
+            <zone points="342,590 2266,619 2263,569 1998,540 1874,581 342,535" rendition="Line" xml:id="facs_135_tr_2_tl_3"/>
+            <zone points="337,736 619,739 705,803 1126,820 1422,772 1773,817 2115,805 2115,715 335,691" rendition="Line" xml:id="facs_135_tr_2_tl_4"/>
+            <zone points="332,882 2151,920 2149,865 332,839" rendition="Line" xml:id="facs_135_tr_2_tl_5"/>
+            <zone points="320,1035 2032,1073 2029,1013 1692,999 320,1009" rendition="Line" xml:id="facs_135_tr_2_tl_6"/>
+            <zone points="320,1185 2070,1221 2067,1164 320,1138" rendition="Line" xml:id="facs_135_tr_2_tl_7"/>
+            <zone points="315,1336 1704,1365 1702,1307 315,1286" rendition="Line" xml:id="facs_135_tr_2_tl_9"/>
+            <zone points="1135,1499 1785,1518 1783,1467 1706,1448 1372,1460 1353,1441 1329,1460 1310,1441 1286,1460 1133,1456" rendition="Line" xml:id="facs_135_tr_2_tl_10"/>
+            <zone points="308,1642 411,1644 421,1654 473,1644 504,1654 643,1654 643,1599 526,1604 308,1589" rendition="Line" xml:id="facs_135_tr_2_tl_11"/>
+         </zone>
+      </surface>
+   
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0609.jpg" n="part4_p135.jpg" xml:id="img_0135" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p135.jpg"/>
+            
+            <p facs="#facs_135_tr_2">
+               <lb facs="#facs_135_tr_2_tl_1" n="N001"/>[604]
+               <lb facs="#facs_135_tr_2_tl_2" n="N002"/>whole lecture[s] summed up in a few words. We have discussed, in ALL realms the conflict
+               <lb facs="#facs_135_tr_2_tl_3" n="N003"/>between <rs type="keyword" ref="#Heteronomy">heteronomy</rs> and <rs type="keyword" ref="#Autonomy">autonomy,</rs> the danger of a disintegrating autonomy, and of a tyrannical
+               <lb facs="#facs_135_tr_2_tl_4" n="N004"/>heteronomy. We must open ourselves for the coming of a new <rs type="keyword" ref="#Theonomy">theonomy</rs> by realizing that
+               <lb facs="#facs_135_tr_2_tl_5" n="N005"/>we cannot escape it anyhow, that the depth-dimension is IN us, and either we are aware of it
+               <lb facs="#facs_135_tr_2_tl_6" n="N006"/>and express it, or it will destroy us AGAINST our will! And I think this insight makes
+               <lb facs="#facs_135_tr_2_tl_7" n="N007"/>EVEN the period of EMPTINESS, and of <rs type="keyword" ref="#Anxiety">anxiety</rs>, or <hi style="font-style: italic;">Wasteland</hi>, or <hi style="font-style: italic;">No Exit</hi>, a period of
+               <lb facs="#facs_135_tr_2_tl_9" n="N008"/>highest possibilities, of openness to that which ULTIMATELY counts:
+               <lb facs="#facs_135_tr_2_tl_10" n="N009"/>OUR <ultimate_concern>ULTIMATE CONCERN</ultimate_concern>!
+               <lb facs="#facs_135_tr_2_tl_11" n="N010"/>End of Lectures
+            </p>
+         
+        </div>
+      </body>
+    </text>
+</TEI>

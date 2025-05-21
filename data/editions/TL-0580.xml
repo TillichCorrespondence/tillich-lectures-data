@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLIII (Nr. 0580)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p106</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-24">1956-04-24</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_106">
+         <graphic url="TL-0580.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZOVBWPXOGVYXKQAOZYZBXOKQ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="283,273 283,3485 2277,3485 2277,273" rendition="TextRegion" xml:id="facs_106_tr_3">
+            <zone points="1081,349 1103,349 1126,356 1148,356 1157,351 1177,356 1202,354 1202,292 1167,295 1150,280 1140,290 1128,290 1116,302 1081,302" rendition="Line" xml:id="facs_106_tr_3_tl_1"/>
+            <zone points="437,499 2271,494 2271,450 2172,410 2050,452 1912,413 1873,452 1487,423 1207,457 1170,420 1074,462 924,383 836,464 632,467 437,428" rendition="Line" xml:id="facs_106_tr_3_tl_2" subtype="paragraph"/>
+            <zone points="283,654 895,649 1162,708 1273,624 2241,624 2241,570 2027,565 285,602" rendition="Line" xml:id="facs_106_tr_3_tl_3"/>
+            <zone points="285,791 2077,789 2077,730 1801,720 285,750" rendition="Line" xml:id="facs_106_tr_3_tl_4"/>
+            <zone points="285,939 2182,924 2182,872 1799,860 285,907" rendition="Line" xml:id="facs_106_tr_3_tl_5"/>
+            <zone points="555,1094 2214,1071 2214,1020 558,1040" rendition="Line" xml:id="facs_106_tr_3_tl_6"/>
+            <zone points="283,1246 2128,1229 2128,1167 283,1212" rendition="Line" xml:id="facs_106_tr_3_tl_8"/>
+            <zone points="283,1406 2020,1366 1656,1315 1499,1354 1330,1322 283,1354" rendition="Line" xml:id="facs_106_tr_3_tl_9"/>
+            <zone points="285,1543 2101,1536 2101,1470 285,1497" rendition="Line" xml:id="facs_106_tr_3_tl_10"/>
+            <zone points="275,1703 2099,1686 2079,1624 278,1669" rendition="Line" xml:id="facs_106_tr_3_tl_11"/>
+            <zone points="283,1848 2116,1831 2116,1777 283,1819" rendition="Line" xml:id="facs_106_tr_3_tl_12"/>
+            <zone points="273,1993 1706,1986 1760,2020 2106,1983 2106,1927 1450,1917 273,1968" rendition="Line" xml:id="facs_106_tr_3_tl_13"/>
+            <zone points="278,2145 2000,2131 2000,2067 278,2118" rendition="Line" xml:id="facs_106_tr_3_tl_14"/>
+            <zone points="428,2295 2101,2285 2101,2226 428,2249" rendition="Line" xml:id="facs_106_tr_3_tl_15" subtype="paragraph"/>
+            <zone points="283,2450 2254,2428 2254,2374 283,2399" rendition="Line" xml:id="facs_106_tr_3_tl_16"/>
+            <zone points="283,2598 2254,2578 2254,2521 285,2548" rendition="Line" xml:id="facs_106_tr_3_tl_17"/>
+            <zone points="273,2750 2153,2733 2121,2674 273,2723" rendition="Line" xml:id="facs_106_tr_3_tl_18"/>
+            <zone points="275,2902 2190,2885 2190,2821 275,2856" rendition="Line" xml:id="facs_106_tr_3_tl_19"/>
+            <zone points="270,3062 359,3077 374,3062 632,3060 632,3013 543,3013 528,2998 494,3015 457,3006 447,3015 305,3015 270,3035" rendition="Line" xml:id="facs_106_tr_3_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0580.jpg" n="part4_p106.jpg" xml:id="img_0106" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p106.jpg"/>
+            
+            <p facs="#facs_106_tr_3">
+               <lb facs="#facs_106_tr_3_tl_1" n="N001"/>[575]
+               <lb facs="#facs_106_tr_3_tl_2" n="N002"/>The first mistake is the definition of the <rs type="keyword" ref="#Economy">economic</rs>. What is that? Economy means building a
+               <lb facs="#facs_106_tr_3_tl_3" n="N003"/>house, originally. It is derived from οἶκος, house. So economy means the whole structure in which
+               <lb facs="#facs_106_tr_3_tl_4" n="N004"/>man builds its house on earth. This of course is limited, in the <rs type="keyword" ref="#Language">language</rs> which we now use,
+               <lb facs="#facs_106_tr_3_tl_5" n="N005"/>to those productions which are basic for human existence, to fill the needs which arise in human
+               <lb facs="#facs_106_tr_3_tl_6" n="N006"/>life. All this is economy. Now if you say that this economy is the basis, and that the arts
+               <lb facs="#facs_106_tr_3_tl_8" n="N007"/>and the <rs type="keyword" ref="#Philosophy">philosophies</rs> and the <religion>religions</religion> are only the expression of this basis, then you must ask
+               <lb facs="#facs_106_tr_3_tl_9" n="N008"/>yourselves: let's look a little bit more intimately at this basis. What IS the economy?
+               <lb facs="#facs_106_tr_3_tl_10" n="N009"/>Then you discover it is not only WORK done, but it is also work done with special technical
+               <lb facs="#facs_106_tr_3_tl_11" n="N010"/>possibilities. Now these technical possibilities come out of the autonomous development of
+               <lb facs="#facs_106_tr_3_tl_12" n="N011"/>sciences---and technical sciences. They cannot be derived from that which SHALL be derived
+               <lb facs="#facs_106_tr_3_tl_13" n="N012"/>from them. This is simply a vicious circle. If economy INCLUDES already the realm of the
+               <lb facs="#facs_106_tr_3_tl_14" n="N013"/>scientific and technical development, then this development cannot be derived from it.
+               <lb facs="#facs_106_tr_3_tl_15" n="N014"/>But the same is true in other respects: the problem of want. What does one WANT
+               <lb facs="#facs_106_tr_3_tl_16" n="N015"/>to have? The Medieval Church wanted something ELSE than the American suburban man of today.
+               <lb facs="#facs_106_tr_3_tl_17" n="N016"/>They are two completely different societies, with respect to WANT. If you DERIVE culture
+               <lb facs="#facs_106_tr_3_tl_18" n="N017"/>from WANT, then you must see that the KIND of want is already a PRODUCT of culture. So
+               <lb facs="#facs_106_tr_3_tl_19" n="N018"/>it is again a vicious circle to derive the culture from want, if want is already an EXPRESSION of
+               <lb facs="#facs_106_tr_3_tl_20" n="N019"/>a special culture.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

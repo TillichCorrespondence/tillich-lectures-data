@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLV (Nr. 0603)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p129</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-05-01">1956-05-01</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_129">
+         <graphic url="TL-0603.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UVOEXWUKGTEWGPJAQZGHGTST&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="274,259 274,3463 2304,3463 2304,259" rendition="TextRegion" xml:id="facs_129_tr_2">
+            <zone points="1148,330 1160,330 1170,340 1185,342 1237,337 1247,345 1262,345 1262,270 1225,270 1215,260 1182,285 1148,285" rendition="Line" xml:id="facs_129_tr_2_tl_1"/>
+            <zone points="322,471 2194,491 2191,416 2142,451 2100,416 2057,451 1562,449 1282,411 1041,439 1004,404 873,436 835,402 322,439" rendition="Line" xml:id="facs_129_tr_2_tl_2"/>
+            <zone points="315,620 2233,647 2233,595 2164,578 1859,610 1522,573 1383,607 1222,565 315,578" rendition="Line" xml:id="facs_129_tr_2_tl_3"/>
+            <zone points="320,771 1948,806 2184,798 2181,746 317,746" rendition="Line" xml:id="facs_129_tr_2_tl_4"/>
+            <zone points="315,949 2241,939 2241,892 2085,885 315,900" rendition="Line" xml:id="facs_129_tr_2_tl_5"/>
+            <zone points="307,1073 2159,1103 2157,1051 1809,1049 1772,1011 1720,1049 1336,1061 528,1019 307,1051" rendition="Line" xml:id="facs_129_tr_2_tl_6"/>
+            <zone points="312,1229 2184,1249 2184,1177 312,1182" rendition="Line" xml:id="facs_129_tr_2_tl_7"/>
+            <zone points="302,1383 2090,1398 2030,1316 1745,1363 1549,1329 302,1334" rendition="Line" xml:id="facs_129_tr_2_tl_8"/>
+            <zone points="302,1532 2179,1549 2137,1482 302,1485" rendition="Line" xml:id="facs_129_tr_2_tl_9"/>
+            <zone points="300,1683 2169,1693 2169,1643 1842,1633 300,1653" rendition="Line" xml:id="facs_129_tr_2_tl_10"/>
+            <zone points="290,1824 2283,1854 2283,1797 290,1782" rendition="Line" xml:id="facs_129_tr_2_tl_11"/>
+            <zone points="292,1985 2060,2013 2149,2000 2149,1946 290,1933" rendition="Line" xml:id="facs_129_tr_2_tl_12"/>
+            <zone points="290,2137 2080,2157 2080,2104 1906,2080 290,2102" rendition="Line" xml:id="facs_129_tr_2_tl_13"/>
+            <zone points="285,2283 2142,2298 2142,2248 2087,2243 285,2231" rendition="Line" xml:id="facs_129_tr_2_tl_14"/>
+            <zone points="285,2434 2134,2454 2134,2407 1775,2390 285,2390" rendition="Line" xml:id="facs_129_tr_2_tl_15"/>
+            <zone points="273,2578 337,2595 377,2585 491,2605 508,2595 533,2598 530,2546 362,2541 352,2531 342,2541 327,2528 290,2556 273,2556" rendition="Line" xml:id="facs_129_tr_2_tl_16"/>
+            <zone points="503,2662 2095,2684 2092,2635 2018,2613 845,2635 503,2598" rendition="Line" xml:id="facs_129_tr_2_tl_17" subtype="paragraph"/>
+            <zone points="270,2818 2176,2826 2176,2774 270,2769" rendition="Line" xml:id="facs_129_tr_2_tl_18"/>
+            <zone points="273,2962 2142,2979 2142,2932 2055,2922 273,2917" rendition="Line" xml:id="facs_129_tr_2_tl_19"/>
+            <zone points="260,3106 2104,3133 2104,3076 260,3064" rendition="Line" xml:id="facs_129_tr_2_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0603.jpg" n="part4_p129.jpg" xml:id="img_0129" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p129.jpg"/>
+            
+            <p facs="#facs_129_tr_2">
+               <lb facs="#facs_129_tr_2_tl_1" n="N001"/>[598]
+               <lb facs="#facs_129_tr_2_tl_2" n="N002"/>let them work, not to OVERCOME existence--this can never happen, in <rs type="keyword" ref="#Time">time</rs> and <space/>space--but to
+               <lb facs="#facs_129_tr_2_tl_3" n="N003"/>balance the saving <rs type="keyword" ref="#Power">power</rs> against the <rs type="keyword" ref="#Demonic">demonic</rs> powers. And in order to do this, a type of <rs type="keyword" ref="#Pacifism">pacifism</rs>
+               <lb facs="#facs_129_tr_2_tl_4" n="N004"/>can occur, in groups and <rs type="keyword" ref="#Individual">individuals</rs>, which can be called <rs type="keyword" ref="#Symbols">symbolic</rs> pacifism, namely individuals
+               <lb facs="#facs_129_tr_2_tl_5" n="N005"/>or groups resigning themselves, or for their group, of the application of compulsion; not of power--
+               <lb facs="#facs_129_tr_2_tl_6" n="N006"/>that would mean non-existence--but of compulsion. These symbolic pacifists--as I would say
+               <lb facs="#facs_129_tr_2_tl_7" n="N007"/>the Quakers are, in their basic principles, and the <church>Church</church> always must be, AS CHURCH, even if
+               <lb facs="#facs_129_tr_2_tl_8" n="N008"/>it doesn’t demand pacifism legalistically of the state; and individuals who, as conscientious
+               <lb facs="#facs_129_tr_2_tl_9" n="N009"/>objectors, point to the <rs type="keyword" ref="#Ultimacy">ultimate</rs> unity of everything which is alive, but DO NOT MAKE A <rs type="keyword" ref="#Law">LAW</rs>
+               <lb facs="#facs_129_tr_2_tl_10" n="N010"/>out of it. Now this is a third form, and a form of which I only want that it wouldn't disappear
+               <lb facs="#facs_129_tr_2_tl_11" n="N011"/>from the surface of the earth, and not from the surface of this country which was on a wrong way, in
+               <lb facs="#facs_129_tr_2_tl_12" n="N012"/>the period in which LEGALISTIC pacifism was predominant, but which now should not go to
+               <lb facs="#facs_129_tr_2_tl_13" n="N013"/>the other extreme to a simple affirmation of military power, as it sometimes SEEMS to be,
+               <lb facs="#facs_129_tr_2_tl_14" n="N014"/>in <rs type="keyword" ref="#Politics">political</rs> utterances of the leaders of this country. But there should always be the symbolic
+               <lb facs="#facs_129_tr_2_tl_15" n="N015"/>representatives of the <rs type="keyword" ref="#Eternity">eternal</rs> peace in some individuals and some acts in which they represent
+               <lb facs="#facs_129_tr_2_tl_16" n="N016"/>this reality.
+               <lb facs="#facs_129_tr_2_tl_17" n="N017"/>Now I think this makes it clear what one could say in the relationship of such a
+               <lb facs="#facs_129_tr_2_tl_18" n="N018"/>problem. And I would believe that this is true of many other problems too. This brings me to a
+               <lb facs="#facs_129_tr_2_tl_19" n="N019"/>last consideration in this whole lecture, which in some way is supposed to sum p [sic.] up this whole
+               <lb facs="#facs_129_tr_2_tl_20" n="N020"/>lecture [i.e. course of lectures]. I believe that in many of you the question is, consciously or
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

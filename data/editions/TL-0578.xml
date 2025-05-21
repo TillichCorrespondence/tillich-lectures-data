@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLIII (Nr. 0578)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p104</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-24">1956-04-24</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_104">
+         <graphic url="TL-0578.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QVRRVZTLXEGROMGPJKGCAYYX&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="59,9 59,3487 2289,3487 2289,9" rendition="TextRegion" xml:id="facs_104_tr_1">
+            <zone points="1072,316 1095,318 1102,326 1130,323 1150,328 1175,326 1187,316 1200,316 1200,263 1165,266 1145,253 1135,263 1117,258 1107,266 1072,266" rendition="Line" xml:id="facs_104_tr_1_tl_2"/>
+            <zone points="281,483 2164,461 2164,408 1708,421 1676,388 1611,426 1007,433 947,371 882,433 281,441" rendition="Line" xml:id="facs_104_tr_1_tl_3"/>
+            <zone points="273,631 1147,631 1150,576 924,564 659,571 606,599 276,586" rendition="Line" xml:id="facs_104_tr_1_tl_4"/>
+            <zone points="436,784 2137,764 2137,699 847,746 436,716" rendition="Line" xml:id="facs_104_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="271,934 2094,917 2094,862 1864,849 1666,889 273,884" rendition="Line" xml:id="facs_104_tr_1_tl_6"/>
+            <zone points="273,1077 1979,1075 2119,1070 2122,1012 273,1050" rendition="Line" xml:id="facs_104_tr_1_tl_7"/>
+            <zone points="276,1235 2117,1220 2117,1157 2054,1150 278,1175" rendition="Line" xml:id="facs_104_tr_1_tl_8"/>
+            <zone points="273,1383 2117,1365 2117,1313 1984,1308 273,1335" rendition="Line" xml:id="facs_104_tr_1_tl_9"/>
+            <zone points="273,1531 2182,1516 2169,1458 273,1480" rendition="Line" xml:id="facs_104_tr_1_tl_10"/>
+            <zone points="276,1688 2154,1673 2157,1621 276,1643" rendition="Line" xml:id="facs_104_tr_1_tl_11"/>
+            <zone points="273,1836 2187,1829 2187,1769 2104,1751 273,1789" rendition="Line" xml:id="facs_104_tr_1_tl_12"/>
+            <zone points="273,1984 2262,1966 2262,1911 273,1956" rendition="Line" xml:id="facs_104_tr_1_tl_13"/>
+            <zone points="273,2144 2199,2119 2199,2059 273,2094" rendition="Line" xml:id="facs_104_tr_1_tl_14"/>
+            <zone points="273,2287 2202,2270 2202,2217 273,2244" rendition="Line" xml:id="facs_104_tr_1_tl_15"/>
+            <zone points="273,2447 2212,2422 2212,2367 2064,2357 1881,2395 1686,2360 273,2395" rendition="Line" xml:id="facs_104_tr_1_tl_16"/>
+            <zone points="268,2583 2177,2573 2177,2518 1886,2515 268,2558" rendition="Line" xml:id="facs_104_tr_1_tl_17"/>
+            <zone points="423,2735 1293,2733 1293,2685 1177,2665 746,2685 724,2708 701,2685 423,2688" rendition="Line" xml:id="facs_104_tr_1_tl_20" subtype="paragraph"/>
+            <zone points="266,2891 1736,2873 1736,2823 266,2866" rendition="Line" xml:id="facs_104_tr_1_tl_21"/>
+            <zone points="413,3059 2132,3051 2132,2981 413,3034" rendition="Line" xml:id="facs_104_tr_1_tl_22" subtype="paragraph"/>
+            <zone points="273,3221 1150,3277 2282,3254 2282,3189 1340,3231 812,3174 273,3194" rendition="Line" xml:id="facs_104_tr_1_tl_23"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0578.jpg" n="part4_p104.jpg" xml:id="img_0104" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p104.jpg"/>
+            
+            <p facs="#facs_104_tr_1">
+               <lb facs="#facs_104_tr_1_tl_2" n="N001"/>[573]
+               <lb facs="#facs_104_tr_1_tl_3" n="N002"/>sects of the Reformation period, also construed their age as the Age of Reason, which is the last
+               <lb facs="#facs_104_tr_1_tl_4" n="N003"/>age after all the others are only preparatory.
+               <lb facs="#facs_104_tr_1_tl_5" n="N004"/>The same idea, then, was finally taken over by the proletariat, and the idea of the third
+               <lb facs="#facs_104_tr_1_tl_6" n="N005"/>stage of <rs type="keyword" ref="#History">history</rs>, the final <rs type="keyword" ref="#Revolution">revolution</rs>, the revolution of the lowest class, which will abolish all
+               <lb facs="#facs_104_tr_1_tl_7" n="N006"/>classes, was the religious impetus behind the proletarian revolutions. And this is even the case
+               <lb facs="#facs_104_tr_1_tl_8" n="N007"/>in <rs type="person" ref="#tillich_person_id__1275">Karl Marx</rs>, who is usually accused by sometimes very questionable <rs type="keyword" ref="#Christianity">Christianity</rs> as "<rs type="keyword" ref="#Atheism">atheist</rs>,"
+               <lb facs="#facs_104_tr_1_tl_9" n="N008"/>but who, in spite of his so-called atheism, was grasped by the idea of a completely <rs type="keyword" ref="#Secular">secularized</rs>
+               <lb facs="#facs_104_tr_1_tl_10" n="N009"/>kingdom of God, which has very similar structures to the religious idea of the kingdom of God
+               <lb facs="#facs_104_tr_1_tl_11" n="N010"/>IN HISTORY, only in a secularized form without the traditional religious symbolism. For him,
+               <lb facs="#facs_104_tr_1_tl_12" n="N011"/>in SOME of his utterances at least, there was a kind of original <rs type="keyword" ref="#Communism">communism</rs>---<hi style="font-style: italic;">Urkommunismus</hi>,
+               <lb facs="#facs_104_tr_1_tl_13" n="N012"/>as he called it---or at least a state of things like in <rs type="person" ref="#tillich_person_id__1652">Rousseau</rs>, in which the separation of classes did not
+               <lb facs="#facs_104_tr_1_tl_14" n="N013"/>exist. Then, with the establishment of private property, the differentiation of classes started, and
+               <lb facs="#facs_104_tr_1_tl_15" n="N014"/>at the same time the tremendous economic development which <rs type="person" ref="#tillich_person_id__1275">Marx</rs> describes in the <hi style="font-style: italic;">Communist</hi>
+               <lb facs="#facs_104_tr_1_tl_16" n="N015"/><hi style="font-style: italic;">Manifesto</hi>, almost in hymnic praises of the bourgeois society and its achievement. But at the same
+               <lb facs="#facs_104_tr_1_tl_17" n="N016"/>time, it was the period of the class wars, and now a third period will come: the classless society.
+               <lb facs="#facs_104_tr_1_tl_20" n="N017"/>This structure of thinking gave the religious impetus without which no strong movement
+               <lb facs="#facs_104_tr_1_tl_21" n="N018"/>can exist---if you interpret <religion>religion</religion>, as I do, as being <ultimate_concern>ultimately concerned</ultimate_concern>.
+               <lb facs="#facs_104_tr_1_tl_22" n="N019"/>In all these cases, the problem was the <rs type="keyword" ref="#Economy">economic</rs> situation of the <rs type="keyword" ref="#Revolution">revolutionary</rs>
+               <lb facs="#facs_104_tr_1_tl_23" n="N020"/>classes. Fist the economic situation of the peasants, and partly the lower nobility, who also revolted
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

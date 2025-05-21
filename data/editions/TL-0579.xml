@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLIII (Nr. 0579)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p105</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-24">1956-04-24</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_105">
+         <graphic url="TL-0579.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZIPGCHFQRKBQXUFDCVYCEURP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="29,253 29,3470 2289,3470 2289,253" rendition="TextRegion" xml:id="facs_105_tr_1">
+            <zone points="1102,325 1114,322 1122,330 1141,332 1218,327 1218,273 1176,271 1166,280 1146,280 1134,271 1102,273" rendition="Line" xml:id="facs_105_tr_1_tl_1"/>
+            <zone points="303,482 2192,480 2212,421 1016,433 950,381 898,433 303,438" rendition="Line" xml:id="facs_105_tr_1_tl_2"/>
+            <zone points="300,632 2219,635 2219,568 1887,561 300,603" rendition="Line" xml:id="facs_105_tr_1_tl_3"/>
+            <zone points="300,785 2145,782 2145,726 2047,721 300,736" rendition="Line" xml:id="facs_105_tr_1_tl_4"/>
+            <zone points="298,937 374,950 566,932 753,942 753,886 600,886 571,903 551,886 298,888" rendition="Line" xml:id="facs_105_tr_1_tl_5"/>
+            <zone points="440,1077 2221,1077 2221,1033 2150,1001 2089,1038 1803,1004 1769,1038 1636,1006 1437,1041 1392,1006 1358,1041 1166,1009 1132,1043 440,1046" rendition="Line" xml:id="facs_105_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="303,1237 2165,1230 2165,1176 1941,1166 303,1191" rendition="Line" xml:id="facs_105_tr_1_tl_7"/>
+            <zone points="285,1383 2192,1390 2192,1326 285,1358" rendition="Line" xml:id="facs_105_tr_1_tl_8"/>
+            <zone points="288,1533 2234,1528 2199,1471 1919,1461 1882,1496 288,1506" rendition="Line" xml:id="facs_105_tr_1_tl_9"/>
+            <zone points="300,1692 2229,1678 2229,1626 2143,1614 1449,1619 1392,1653 300,1629" rendition="Line" xml:id="facs_105_tr_1_tl_10"/>
+            <zone points="288,1838 844,1870 915,1835 2253,1838 2253,1776 1988,1764 288,1811" rendition="Line" xml:id="facs_105_tr_1_tl_11"/>
+            <zone points="290,1993 2010,1990 2157,1980 2160,1931 293,1943" rendition="Line" xml:id="facs_105_tr_1_tl_12"/>
+            <zone points="290,2135 2157,2130 2157,2076 290,2091" rendition="Line" xml:id="facs_105_tr_1_tl_13"/>
+            <zone points="288,2303 2194,2278 2145,2221 288,2266" rendition="Line" xml:id="facs_105_tr_1_tl_14"/>
+            <zone points="290,2448 2157,2435 2157,2386 2057,2376 290,2398" rendition="Line" xml:id="facs_105_tr_1_tl_15"/>
+            <zone points="435,2593 2160,2581 2160,2529 2103,2526 435,2546" rendition="Line" xml:id="facs_105_tr_1_tl_16" subtype="paragraph"/>
+            <zone points="288,2748 2123,2733 2123,2672 2039,2659 288,2699" rendition="Line" xml:id="facs_105_tr_1_tl_17"/>
+            <zone points="308,2898 2283,2886 2283,2819 1343,2861 310,2841" rendition="Line" xml:id="facs_105_tr_1_tl_18"/>
+            <zone points="288,3055 2172,3041 2175,2977 288,3001" rendition="Line" xml:id="facs_105_tr_1_tl_19"/>
+            <zone points="278,3198 1759,3267 1830,3262 1828,3193 1653,3223 1262,3168 276,3144" rendition="Line" xml:id="facs_105_tr_1_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0579.jpg" n="part4_p105.jpg" xml:id="img_0105" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p105.jpg"/>
+            
+            <p facs="#facs_105_tr_1">
+               <lb facs="#facs_105_tr_1_tl_1" n="N001"/>[574]
+               <lb facs="#facs_105_tr_1_tl_2" n="N002"/>against the aristocratic structure of society. Then secondly the bourgeois society, which revolted
+               <lb facs="#facs_105_tr_1_tl_3" n="N003"/>against the two other classes in the name of their economic interests and possibilities. And finally
+               <lb facs="#facs_105_tr_1_tl_4" n="N004"/>the proletarian groups, who followed the same lead and opposed the bourgeois society after it
+               <lb facs="#facs_105_tr_1_tl_5" n="N005"/>had come to a victory.
+               <lb facs="#facs_105_tr_1_tl_6" n="N006"/>A very interesting cooperation of philosophical thought and this sociological development
+               <lb facs="#facs_105_tr_1_tl_7" n="N007"/>can be mentioned here, namely the development from the rationalism (which is critical) to the
+               <lb facs="#facs_105_tr_1_tl_8" n="N008"/>bourgeois victory (which is positivistic); the <rs type="keyword" ref="#Revolution">revolution</rs> of which <rs type="person" ref="#tillich_person_id__1652">Rousseau</rs>, <rs type="person" ref="#tillich_person_id__2007">Voltaire</rs>, <rs type="person" ref="#tillich_person_id__461">Diderot</rs>,
+               <lb facs="#facs_105_tr_1_tl_9" n="N009"/>the Encyclopedists of the 18th century gave the formulas, was done in the name of critical reason.
+               <lb facs="#facs_105_tr_1_tl_10" n="N010"/>In the moment in which the bourgeoisie was victorious, critical reason was replaced by positivistic
+               <lb facs="#facs_105_tr_1_tl_11" n="N011"/>reason, by calculating reason, because now, that which is positively given should be RECOGNIZED,
+               <lb facs="#facs_105_tr_1_tl_12" n="N012"/>but it shouldn't be transformed any more. Positivism is the function of victorious bourgeoisie.
+               <lb facs="#facs_105_tr_1_tl_13" n="N013"/>Therefore the revolutions of the proletariat were again done in the name of natural law, in the
+               <lb facs="#facs_105_tr_1_tl_14" n="N014"/>name of CRITICAL reason, not in the name of a given positivism. I cannot go further into this---
+               <lb facs="#facs_105_tr_1_tl_15" n="N015"/>this is only a footnote which shows the relationship of intellectual problems to such problems.
+               <lb facs="#facs_105_tr_1_tl_16" n="N016"/>Now I said that in all these things the <rs type="keyword" ref="#Economy">economic</rs> was very important. Let me come to a
+               <lb facs="#facs_105_tr_1_tl_17" n="N017"/>conclusion today only with preparing the next lecture by saying a few words about this term
+               <lb facs="#facs_105_tr_1_tl_18" n="N018"/>"economic," because it betrays innumerable people. If you say that the economic realm is the basis
+               <lb facs="#facs_105_tr_1_tl_19" n="N019"/>(as the Marxists say) and everything else is the consequence, is CAUSED by this basis, then you
+               <lb facs="#facs_105_tr_1_tl_21" n="N020"/>make half a dozen primitive logical mistakes, and mistakes which can easily be discovered.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

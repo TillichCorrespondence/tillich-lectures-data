@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLIII (Nr. 0581)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p107</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-24">1956-04-24</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_107">
+         <graphic url="TL-0581.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FBMYIBWBYHOEETFRVEPRZHKM&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="23,257 23,3467 2227,3467 2227,257" rendition="TextRegion" xml:id="facs_107_tr_1">
+            <zone points="1082,317 1135,332 1207,332 1210,269 1174,269 1159,255 1140,269 1128,267 1118,277 1085,277" rendition="Line" xml:id="facs_107_tr_1_tl_1"/>
+            <zone points="452,481 2109,476 2059,404 1299,438 1210,402 962,443 878,440 806,375 741,438 452,411" rendition="Line" xml:id="facs_107_tr_1_tl_2" subtype="paragraph"/>
+            <zone points="296,637 2102,637 2102,584 2011,577 296,587" rendition="Line" xml:id="facs_107_tr_1_tl_3"/>
+            <zone points="289,784 2006,789 2001,731 1849,721 289,746" rendition="Line" xml:id="facs_107_tr_1_tl_4"/>
+            <zone points="291,936 2220,933 2220,880 291,892" rendition="Line" xml:id="facs_107_tr_1_tl_5"/>
+            <zone points="289,1082 1395,1085 1395,1034 1354,1025 289,1039" rendition="Line" xml:id="facs_107_tr_1_tl_6"/>
+            <zone points="440,1236 2174,1229 2177,1171 443,1181" rendition="Line" xml:id="facs_107_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="281,1383 2169,1380 2126,1320 281,1342" rendition="Line" xml:id="facs_107_tr_1_tl_8"/>
+            <zone points="289,1539 2143,1530 2143,1481 2006,1472 289,1498" rendition="Line" xml:id="facs_107_tr_1_tl_9"/>
+            <zone points="279,1686 2104,1693 2107,1623 281,1645" rendition="Line" xml:id="facs_107_tr_1_tl_10"/>
+            <zone points="272,1837 2073,1835 2073,1782 1878,1777 346,1780 272,1816" rendition="Line" xml:id="facs_107_tr_1_tl_11"/>
+            <zone points="281,1989 945,1996 945,1941 281,1941" rendition="Line" xml:id="facs_107_tr_1_tl_12"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0581.jpg" n="part4_p107.jpg" xml:id="img_0107" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p107.jpg"/>
+            
+            <p facs="#facs_107_tr_1">
+               <lb facs="#facs_107_tr_1_tl_1" n="N001"/>[576]
+               <lb facs="#facs_107_tr_1_tl_2" n="N002"/>The same is true of the legal forms within which <rs type="keyword" ref="#Economy">economy</rs> is always going on. If you
+               <lb facs="#facs_107_tr_1_tl_3" n="N003"/>derive the system of <rs type="keyword" ref="#Law">law </rs>from the economy, then you must see that economy never goes on,
+               <lb facs="#facs_107_tr_1_tl_4" n="N004"/>not even if two people work together, without some laws regulating their togetherness,
+               <lb facs="#facs_107_tr_1_tl_5" n="N005"/>regulating the division of what is produced by them, etc. So law is ALREADY presupposed and
+               <lb facs="#facs_107_tr_1_tl_6" n="N006"/>cannot be derived from that which IS presupposed in it.
+               <lb facs="#facs_107_tr_1_tl_7" n="N007"/>Now all this does not mean we must turn the whole situation around: that would be an
+               <lb facs="#facs_107_tr_1_tl_8" n="N008"/>idealistic interpretation of <rs type="keyword" ref="#Economy">economy</rs> which is equally wrong as a materialistic interpretation of a
+               <lb facs="#facs_107_tr_1_tl_9" n="N009"/>culture OUT of economy. The whole thing is a TOTAL STRUCTURE in which every element
+               <lb facs="#facs_107_tr_1_tl_10" n="N010"/>is mutually dependent on all other elements. Only if we consider society as such a <rs type="keyword" ref="#Gestalt"><hi style="font-style: italic;">Gestalt</hi></rs>,
+               <lb facs="#facs_107_tr_1_tl_11" n="N011"/>a living structure, are we able to understand the relationship of the economic to the others.
+               <lb facs="#facs_107_tr_1_tl_12" n="N012"/>On this basis we go on next time.
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

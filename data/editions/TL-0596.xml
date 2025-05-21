@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLIV (Nr. 0596)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p122</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-04-26">1956-04-26</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_122">
+         <graphic url="TL-0596.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=JKULBCKJPGZSHUJXZGZPGUBJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="286,0 286,3455 2310,3455 2310,0" rendition="TextRegion" xml:id="facs_122_tr_3">
+            <zone points="1082,312 1102,309 1110,317 1135,320 1150,320 1152,315 1183,320 1185,315 1198,312 1195,244 1180,249 1163,267 1152,259 1145,262 1135,252 1115,267 1102,262 1079,264" rendition="Line" xml:id="facs_122_tr_3_tl_2"/>
+            <zone points="317,458 639,478 918,466 918,408 893,405 317,420" rendition="Line" xml:id="facs_122_tr_3_tl_3"/>
+            <zone points="544,614 1132,622 1203,679 1897,677 2000,614 2290,627 2290,564 544,551" rendition="Line" xml:id="facs_122_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="284,818 355,770 523,765 2146,790 2307,780 2307,732 282,702" rendition="Line" xml:id="facs_122_tr_3_tl_5"/>
+            <zone points="307,908 2277,954 2275,871 2239,868 307,866" rendition="Line" xml:id="facs_122_tr_3_tl_6"/>
+            <zone points="315,1059 1673,1067 1673,1009 315,1014" rendition="Line" xml:id="facs_122_tr_3_tl_7"/>
+            <zone points="538,1238 2275,1228 2275,1175 1905,1157 538,1165" rendition="Line" xml:id="facs_122_tr_3_tl_8" subtype="paragraph"/>
+            <zone points="297,1369 2222,1379 2222,1311 297,1313" rendition="Line" xml:id="facs_122_tr_3_tl_9"/>
+            <zone points="304,1532 352,1517 385,1537 486,1520 667,1532 788,1520 788,1472 408,1472 377,1452 357,1472 304,1475" rendition="Line" xml:id="facs_122_tr_3_tl_10"/>
+            <zone points="526,1671 2229,1676 2229,1638 2046,1608 883,1636 526,1605" rendition="Line" xml:id="facs_122_tr_3_tl_11" subtype="paragraph"/>
+            <zone points="294,1824 1281,1875 1568,1860 1613,1819 2209,1827 2209,1779 2119,1764 294,1774" rendition="Line" xml:id="facs_122_tr_3_tl_12"/>
+            <zone points="284,1963 2172,1980 2172,1925 2056,1910 1746,1948 1341,1915 284,1940" rendition="Line" xml:id="facs_122_tr_3_tl_13"/>
+            <zone points="282,2111 2172,2131 2172,2086 2010,2068 282,2073" rendition="Line" xml:id="facs_122_tr_3_tl_14"/>
+            <zone points="282,2270 2182,2282 2182,2232 2028,2219 282,2227" rendition="Line" xml:id="facs_122_tr_3_tl_15"/>
+            <zone points="279,2413 2151,2438 2101,2368 279,2390" rendition="Line" xml:id="facs_122_tr_3_tl_16"/>
+            <zone points="284,2567 2182,2589 2182,2536 2058,2516 284,2524" rendition="Line" xml:id="facs_122_tr_3_tl_17"/>
+            <zone points="274,2718 2222,2740 2222,2665 274,2677" rendition="Line" xml:id="facs_122_tr_3_tl_18"/>
+            <zone points="272,2866 2094,2876 2094,2833 1945,2816 272,2828" rendition="Line" xml:id="facs_122_tr_3_tl_19"/>
+            <zone points="272,3020 2121,3035 2121,2984 1965,2969 272,2994" rendition="Line" xml:id="facs_122_tr_3_tl_20"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0596.jpg" n="part4_p122.jpg" xml:id="img_0122" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p122.jpg"/>
+            
+            <p facs="#facs_122_tr_3">
+               <lb facs="#facs_122_tr_3_tl_2" n="N001"/>[591]
+               <lb facs="#facs_122_tr_3_tl_3" n="N002"/>socialist, in his younger years.
+               <lb facs="#facs_122_tr_3_tl_4" n="N003"/>Now this shows that we have here a double answer, not a utopian answer: ''The <rs type="keyword" ref="#Demonic">demonic</rs>
+               <lb facs="#facs_122_tr_3_tl_5" n="N004"/>will never be banned from earth completely,'' and on the other hand, the preliminary answer, ''In the
+               <lb facs="#facs_122_tr_3_tl_6" n="N005"/>fight of the <church>Church</church> and of every individual <rs type="keyword" ref="#Christianity">Christian</rs> AGAINST this, we will have a victory, a partial
+               <lb facs="#facs_122_tr_3_tl_7" n="N006"/>victory, and will become GREATER in <rs type="keyword" ref="#Spirit">Spiritual</rs> <rs type="keyword" ref="#Power">power </rs>by this fight.''
+               <lb facs="#facs_122_tr_3_tl_8" n="N007"/>These were the fundamental ideas. And with these ideas I believe we have actually done
+               <lb facs="#facs_122_tr_3_tl_9" n="N008"/>something which should be done ALWAYS, if such controversies between <religion>religion</religion> and social and
+               <lb facs="#facs_122_tr_3_tl_10" n="N009"/>political <rs type="keyword" ref="#Culture">culture</rs> appear.
+               <lb facs="#facs_122_tr_3_tl_11" n="N010"/>Now let me add something which I don’t want to forget--although it is already time to
+               <lb facs="#facs_122_tr_3_tl_12" n="N011"/>stop--namely, <rs type="keyword" ref="#Religious_socialism">religious socialism</rs> was not a matter of the <church>churches</church>. We always kept it away from
+               <lb facs="#facs_122_tr_3_tl_13" n="N012"/>the claim to be official message of the churches, for the following reason: the word ''socialism''
+               <lb facs="#facs_122_tr_3_tl_14" n="N013"/>is not only a word of <rs type="keyword" ref="#Prophets">prophetic</rs> criticism, but it is also a word in which concrete suggestions are
+               <lb facs="#facs_122_tr_3_tl_15" n="N014"/>implied, and these suggestions may be erroneous. And the Church canNOT go into the situation
+               <lb facs="#facs_122_tr_3_tl_16" n="N015"/>of positive suggestions about social transformation. As [a] minister, I can criticize very badly,
+               <lb facs="#facs_122_tr_3_tl_17" n="N016"/>when milk is officially spilled, if children are hungry--as a preacher in Chicago did--[I can] give,
+               <lb facs="#facs_122_tr_3_tl_18" n="N017"/>in the name of my pulpit, or what the pulpit stands for, a suggestion how this best can be avoided,
+               <lb facs="#facs_122_tr_3_tl_19" n="N018"/>by a better organization of trucking. That is not the matter of<rs type="keyword" ref="#Christianity"> Christianity</rs>. Now this was a
+               <lb facs="#facs_122_tr_3_tl_20" n="N019"/>very important protection against a pitfall of American Christianity when it believed that it is
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>

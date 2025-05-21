@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lecture XLV (Nr. 0606)</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">271480</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>part4_p132</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <abstract>
+            <p>Transcript of a Lecture by <persName>Paul Tillich</persName> by <persName>Peter H. John</persName></p>
+          </abstract>
+          <settingDesc>
+             <setting>
+                <date when-iso="1956-05-01">1956-05-01</date>
+                <date type="term">Semester II</date>
+                <placeName>Harvard University</placeName>
+             </setting>
+          </settingDesc>
+       </profileDesc>
+   </teiHeader>
+   <facsimile>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_132">
+         <graphic url="TL-0606.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LDRIIQUVMNBSJWDLLJPEJDNU&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="45,20 20,3437 2382,3437 2382,0" rendition="TextRegion" xml:id="facs_132_tr_2">
+            <zone points="1149,321 1165,321 1191,341 1212,336 1220,341 1233,336 1238,341 1259,341 1277,336 1274,255 1246,255 1228,266 1220,263 1207,274 1194,271 1186,279 1149,279" rendition="Line" xml:id="facs_132_tr_2_tl_2"/>
+            <zone points="334,472 1110,519 1290,480 2309,498 2307,446 2153,438 334,427" rendition="Line" xml:id="facs_132_tr_2_tl_3"/>
+            <zone points="331,623 1222,636 1360,691 2187,654 2187,592 331,576" rendition="Line" xml:id="facs_132_tr_2_tl_4"/>
+            <zone points="323,774 2309,803 2309,745 2056,764 1830,719 1470,758 323,743" rendition="Line" xml:id="facs_132_tr_2_tl_5"/>
+            <zone points="321,928 2273,954 2273,915 2181,894 321,894" rendition="Line" xml:id="facs_132_tr_2_tl_6"/>
+            <zone points="313,1074 365,1087 464,1082 474,1092 503,1095 529,1084 571,1084 568,1029 414,1032 352,1024 334,1045 313,1048" rendition="Line" xml:id="facs_132_tr_2_tl_7"/>
+            <zone points="545,1165 2346,1217 2346,1123 2267,1105 2228,1139 1723,1100 1186,1129 545,1087" rendition="Line" xml:id="facs_132_tr_2_tl_8" subtype="paragraph"/>
+            <zone points="308,1321 1381,1366 1720,1311 2333,1340 2307,1272 308,1269" rendition="Line" xml:id="facs_132_tr_2_tl_9"/>
+            <zone points="305,1457 1069,1493 1418,1460 1488,1522 1598,1527 1671,1462 2322,1496 2322,1428 302,1405" rendition="Line" xml:id="facs_132_tr_2_tl_10"/>
+            <zone points="295,1598 1840,1624 1884,1668 2184,1668 2181,1574 373,1538 292,1572" rendition="Line" xml:id="facs_132_tr_2_tl_11"/>
+            <zone points="295,1830 618,1757 672,1811 1929,1827 2304,1783 2304,1723 2213,1720 295,1720" rendition="Line" xml:id="facs_132_tr_2_tl_12"/>
+            <zone points="292,1905 628,1910 688,1957 2374,1934 2374,1877 292,1874" rendition="Line" xml:id="facs_132_tr_2_tl_13"/>
+            <zone points="284,2051 2374,2085 2374,2025 284,2025" rendition="Line" xml:id="facs_132_tr_2_tl_14"/>
+            <zone points="287,2207 2356,2236 2356,2181 287,2161" rendition="Line" xml:id="facs_132_tr_2_tl_15"/>
+            <zone points="284,2359 2200,2398 2200,2327 284,2304" rendition="Line" xml:id="facs_132_tr_2_tl_16"/>
+            <zone points="281,2510 1246,2520 1363,2565 2176,2531 2176,2473 281,2473" rendition="Line" xml:id="facs_132_tr_2_tl_17"/>
+            <zone points="284,2677 2236,2682 2236,2624 284,2611" rendition="Line" xml:id="facs_132_tr_2_tl_18"/>
+            <zone points="274,2812 2202,2843 2200,2778 274,2757" rendition="Line" xml:id="facs_132_tr_2_tl_19"/>
+            <zone points="268,2963 1444,2982 1493,3028 1647,3041 1746,2982 2223,2989 2223,2927 268,2932" rendition="Line" xml:id="facs_132_tr_2_tl_20"/>
+            <zone points="261,3114 2142,3141 2142,3081 261,3083" rendition="Line" xml:id="facs_132_tr_2_tl_21"/>
+         </zone>
+      </surface>
+      
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            <pb facs="#TL-0606.jpg" n="part4_p132.jpg" xml:id="img_0132" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p132.jpg"/>
+            
+            <p facs="#facs_132_tr_2">
+               <lb facs="#facs_132_tr_2_tl_2" n="N001"/>[601]
+               <lb facs="#facs_132_tr_2_tl_3" n="N002"/>dimension of <rs type="keyword" ref="#Ultimacy">ultimacy</rs>. It loses the <rs type="keyword" ref="#Substance">substance </rs>of <ultimate_concern>ultimate concern</ultimate_concern> step by step, becomes shallow and
+               <lb facs="#facs_132_tr_2_tl_4" n="N003"/>empty, and then becomes desperate about itself. This is the moment where new heteronomies
+               <lb facs="#facs_132_tr_2_tl_5" n="N004"/>enter into the vacuum, as for instance in the modern time, the <rs type="keyword" ref="#Totalitarian">totalitarian</rs> heteronomies coming from
+               <lb facs="#facs_132_tr_2_tl_6" n="N005"/>the <rs type="keyword" ref="#State">states</rs>; or being represented still by the churches in their authoritarian or <rs type="keyword" ref="#Fundamentalism">fundamentalistic</rs> ways
+               <lb facs="#facs_132_tr_2_tl_7" n="N006"/>of thought.
+               <lb facs="#facs_132_tr_2_tl_8" n="N007"/>Now if this is so, then nothing is more urgent than the question: is there something beyond
+               <lb facs="#facs_132_tr_2_tl_9" n="N008"/>the alternative of a repressive <rs type="keyword" ref="#Heteronomy">heteronomy</rs> and an emptying <rs type="keyword" ref="#Autonomy">autonomy</rs>? To this fundamental question,
+               <lb facs="#facs_132_tr_2_tl_10" n="N009"/>l answer: Yes, there is something; let's give it the name ''theonomy''--it is not a quite adequate name,
+               <lb facs="#facs_132_tr_2_tl_11" n="N010"/>but it is so well related to ''heteronomy'' and ''autonomy'' that one might use it. But then one
+               <lb facs="#facs_132_tr_2_tl_12" n="N011"/>must define it. It is not a divine law represented by the <church>Church</church> and put upon the <rs type="keyword" ref="#Culture">culture</rs>--that would
+               <lb facs="#facs_132_tr_2_tl_13" n="N012"/>be heteronomy. <rs type="keyword" ref="#Theonomy">THEOnomy</rs> is autonomy, but aware of its depth-dimension; is autonomy moving on the
+               <lb facs="#facs_132_tr_2_tl_14" n="N013"/>basis of an <ultimate_concern>ultimate concern</ultimate_concern>. Now the question of course is: how far is this possible? Is it possible at all?
+               <lb facs="#facs_132_tr_2_tl_15" n="N014"/>It IS possible, if we look at human <rs type="keyword" ref="#History">history</rs>. It is never completely actualized. There is always the one or
+               <lb facs="#facs_132_tr_2_tl_16" n="N015"/>the other predominant, either the autonomous element or the heteronomy element. In any case,
+               <lb facs="#facs_132_tr_2_tl_17" n="N016"/>we have periods of history in which the forms of life, the <rs type="keyword" ref="#Art">artistic </rs>forms, the <rs type="keyword" ref="#Cognitive">cognitive</rs> forms, the
+               <lb facs="#facs_132_tr_2_tl_18" n="N017"/><rs type="keyword" ref="#Politics">political</rs> forms, expressed ultimate concern, with or against the churches. And such periods, as for
+               <lb facs="#facs_132_tr_2_tl_19" n="N018"/>instance the archaic-Greek <rs type="keyword" ref="#Philosophy">philosophical</rs> period, or the 11th or 12th centuries in the <rs type="keyword" ref="#Middle_Ages">Middle Ages</rs>,
+               <lb facs="#facs_132_tr_2_tl_20" n="N019"/>or the <rs type="keyword" ref="#Reformation">Reformation</rs> period--such periods are, in some way, theonomous. They do not separate the
+               <lb facs="#facs_132_tr_2_tl_21" n="N020"/>ultimate concern and the preliminary concerns. They see, in their preliminary concerns, in the
+            </p>
+            
+        </div>
+      </body>
+    </text>
+</TEI>
