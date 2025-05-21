@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
          <graphic url="TL-0286.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=QQEZEKDNHGWVPKFDILCPQNMR&amp;amp;amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QQEZEKDNHGWVPKFDILCPQNMR&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="188,245 1865,245 1865,783 188,783" rendition="TextRegion" xml:id="facs_2_tr_2">
             <zone points="989,295 1002,295 1020,308 1035,311 1110,311 1107,254 1071,254 1066,259 1053,254 1038,254 1033,259 1025,254 1012,267 989,267" rendition="Line" xml:id="facs_2_tr_2_tl_1"/>
             <zone points="175,452 1731,437 1734,357 175,393" rendition="Line" xml:id="facs_2_tr_2_tl_2"/>
@@ -135,8 +135,8 @@
             <p facs="#facs_2_tr_1">
                <lb facs="#facs_2_tr_1_tl_1" n="N001"/>11. Religion and <rs type="keyword" ref="#Ethics">Ethics</rs>: General (Formal ethics). The source of the moral "ought" and the source
                <lb facs="#facs_2_tr_1_tl_2" n="N002"/>of the content. The unconditional character and the question of guilt.
-               <lb facs="#facs_2_tr_1_tl_3" n="N003"/>12. Ethical relativism, love and kairos.
-               <lb facs="#facs_2_tr_1_tl_4" n="N004"/>13. Ethics of being and ethics of law (ought to be)- (law, grace and depth psychology, demonic structure)
+               <lb facs="#facs_2_tr_1_tl_3" n="N003"/>12. Ethical relativism, <rs type="keyword" ref="#Love">love</rs> and kairos.
+               <lb facs="#facs_2_tr_1_tl_4" n="N004"/>13. Ethics of being and ethics of law (<rs type="keyword" ref="#Ought-to-be">ought to be</rs>)- (law, grace and depth psychology, demonic structure)
                <lb facs="#facs_2_tr_1_tl_5" n="N005"/><rs type="person" ref="#tillich_person_id__1928">*Tillich, P. </rs>"Ethics in a Changing World," in THE PROTESTANT ERA
                <lb facs="#facs_2_tr_1_tl_7" n="N006"/><rs type="person" ref="#tillich_person_id__3000">Ramsey, P. </rs>BASIC CHRISTIAN ETHICS
                <lb facs="#facs_2_tr_1_tl_10" n="N007"/>*<rs type="person" ref="#tillich_person_id__250">Bonhoeffer, D.</rs> ethics
@@ -154,7 +154,7 @@
                <lb facs="#facs_2_tr_1_tl_31" n="N019"/>*<rs type="person" ref="#tillich_person_id__306">Buber, M.</rs> I AND THOU
                <lb facs="#facs_2_tr_1_tl_33" n="N020"/><rs type="person" ref="#tillich_person_id__1928">Tillich</rs> "Psychotherapy and a Christian Interpretation of Human Nature," Rev. of Religion
                <lb facs="#facs_2_tr_1_tl_35" n="N021"/>March 1943.
-               <lb facs="#facs_2_tr_1_tl_37" n="N022"/>15. Community and collective. We-consciousness, conformity, patternization: The non-personal
+               <lb facs="#facs_2_tr_1_tl_37" n="N022"/>15. Community and collective. <rs type="keyword" ref="#We-consciousness">We-consciousness</rs>, conformity, <rs type="keyword" ref="#Patternization">patternization</rs>: The non-personal
                <lb facs="#facs_2_tr_1_tl_38" n="N023"/>character of the group (non-conformism).
                <lb facs="#facs_2_tr_1_tl_39" n="N024"/>*<rs type="person" ref="#tillich_person_id__3001">Ortega y Gasset</rs> THE REVOLT OF THE MASSES
                <lb facs="#facs_2_tr_1_tl_41" n="N025"/><rs type="person" ref="#tillich_person_id__2996">Mumford, L.</rs> THE CULTURE OF CITIES

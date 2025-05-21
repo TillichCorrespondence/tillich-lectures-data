@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
          <graphic url="TL-0287.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=AZMLZJSNDBDGZRRXVJBKPAAM&amp;amp;amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AZMLZJSNDBDGZRRXVJBKPAAM&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="167,272 2328,272 2328,3446 167,3446" rendition="TextRegion" xml:id="facs_3_tr_1">
             <zone points="1066,330 1089,334 1095,340 1138,342 1182,338 1184,281 1161,276 1140,293 1134,293 1124,281 1105,281 1089,297 1068,295" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
             <zone points="206,509 1728,476 1730,402 206,448" rendition="Line" xml:id="facs_3_tr_1_tl_2"/>
@@ -122,7 +122,7 @@
             
             <p facs="#facs_3_tr_1">
                <lb facs="#facs_3_tr_1_tl_1" n="N001"/>[283]
-               <lb facs="#facs_3_tr_1_tl_2" n="N002"/>17. Family and sex relations. (Historical relativity. The two meanings of sex)
+               <lb facs="#facs_3_tr_1_tl_2" n="N002"/>17. Family and <rs type="keyword" ref="#Sex">sex</rs> relations. (Historical relativity. The two meanings of sex)
                <lb facs="#facs_3_tr_1_tl_3" n="N003"/><rs type="person" ref="#tillich_person_id__3077">Russell, G.</rs> MEN AND WOMEN
                <lb facs="#facs_3_tr_1_tl_5" n="N004"/><rs type="person" ref="#tillich_person_id__3078">*Cole, W. </rs>CHRISTIANITY AND SEX
                <lb facs="#facs_3_tr_1_tl_7" n="N005"/><rs type="person" ref="#tillich_person_id__3079">Bailey, D.S.</rs> MYSTERY OF LOVE AND MARRIAGE
@@ -155,7 +155,7 @@
                <lb facs="#facs_3_tr_1_tl_53" n="N032"/><rs type="person" ref="#tillich_person_id__1390">*Niebuhr, R.</rs> CHRISTIANITY AND POWER POLITICS
                <lb facs="#facs_3_tr_1_tl_55" n="N033"/><rs type="person" ref="#tillich_person_id__3082">*Bennett, J.</rs> CHRISTIANITY AND COMMUNISM
                <lb facs="#facs_3_tr_1_tl_57" n="N034"/>Miller, A. THE CHRISTIAN SIGNIFICANCE OF KARL MARX
-               <lb facs="#facs_3_tr_1_tl_59" n="N035"/>HEIMann [sic.], E. COMMUNISM, FASCISM OR DEMOCRACY?
+               <lb facs="#facs_3_tr_1_tl_59" n="N035"/>HEIMann [sic.], E. <rs type="keyword" ref="#Communism">COMMUNISM</rs>, <rs type="keyword" ref="#Fascism">FASCISM</rs> OR DEMOCRACY?
                <lb facs="#facs_3_tr_1_tl_61" n="N036"/>22. Religious pacifism. (Its right and wrong)
                <lb facs="#facs_3_tr_1_tl_62" n="N037"/>*<rs type="person" ref="#tillich_person_id__3082">Bennett, J.</rs> CHRISTIANITY AT WAR
                <lb facs="#facs_3_tr_1_tl_64" n="N038"/><rs type="person" ref="#tillich_person_id__1390">Niebuhr, R. </rs>CHRISTIAN REALISM AND POLITICAL PROBLEMS
