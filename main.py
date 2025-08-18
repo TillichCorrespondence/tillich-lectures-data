@@ -24,10 +24,11 @@ def main():
         doc = TeiReader(x)
         for y in to_change:
             rs_type = "_".join([y.capitalize() for y in y.split("_")])
-            for el in doc.any_xpath(f"tei:{y}"):
+            for el in doc.any_xpath(f".//tei:{y}"):
+                print(el)
                 el.tag = "{http://www.tei-c.org/ns/1.0}rs"
                 el.attrib["type"] = "keyword"
-                el.attrib["type"] = f"#{rs_type}"
+                el.attrib["ref"] = f"#{rs_type}"
         doc.tree_to_file(x)
 
 
