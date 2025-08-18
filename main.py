@@ -28,6 +28,7 @@ def main():
                 el.tag = "{http://www.tei-c.org/ns/1.0}rs"
                 el.attrib["type"] = "keyword"
                 el.attrib["type"] = f"#{rs_type}"
+        doc.tree_to_file(x)
 
 
 if __name__ == "__main__":
