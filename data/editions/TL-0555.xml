@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -100,14 +99,14 @@
         <div>
             <pb facs="#TL-0555.jpg" n="part4_p081.jpg" xml:id="img_0081" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p081.jpg"/>
             
-            <p facs="#facs_81_tr_2">
-               <lb facs="#facs_81_tr_2_tl_3" n="N001"/>[550]</p>
+            <fw facs="#facs_81_tr_2">
+               <lb facs="#facs_81_tr_2_tl_3" n="N001"/>[550]</fw>
            <p>
                <lb facs="#facs_81_tr_2_tl_4" n="N002"/>the <rs type="keyword" ref="#Authority">authority</rs> in principle and the authority in fact. Let's use these two distinctions,
                <lb facs="#facs_81_tr_2_tl_5" n="N003"/>which can both be used---the word "rational" has connotations which make it very difficult today
                <lb facs="#facs_81_tr_2_tl_6" n="N004"/>to use it. In <rs type="place">Williams College</rs>, two days ago, I had a discussion with the students and someone asked
                <lb facs="#facs_81_tr_2_tl_7" n="N005"/>me about the relation of <rs type="keyword" ref="#Reason">reason</rs> and <rs type="keyword" ref="#Faith">faith</rs>, and I asked back with the words, "Whenever I hear
-               <lb facs="#facs_81_tr_2_tl_8" n="N006"/>somebody ask such a question, I ask back, 'What do you mean with "reason" '?" And he
+              <lb facs="#facs_81_tr_2_tl_8" n="N006"/>somebody ask such a question, I ask back, 'What do you mean with "reason" '?" And he
                <lb facs="#facs_81_tr_2_tl_9" n="N007"/>reacted almost immediately, he was not shocked, because he knew exactly what reason is, namely
                <lb facs="#facs_81_tr_2_tl_10" n="N008"/>intellectual endeavor: that was his definition of reason. Now of course, if this is reason, then
                <lb facs="#facs_81_tr_2_tl_11" n="N009"/>it doesn't cover what <rs type="person" ref="#tillich_person_id__647">Fromm </rs>means at all, and it never covers what <hi style="text-decoration: underline;">I</hi> mean with reason,
@@ -124,7 +123,7 @@
            <p>
                <lb facs="#facs_81_tr_1_tl_8" n="N008"/>Now let's use my own, namely <rs type="keyword" ref="#Authority">authority</rs> in principle and authority in fact. The first
                <lb facs="#facs_81_tr_1_tl_9" n="N009"/>thing is authority in fact. None of you would be in this room, in this moment, if I were not for you,
-               <lb facs="#facs_81_tr_1_tl_10" n="N010"/>in a limited realm, an authority in fact. But I HOPE nobody is in this room who considers me to be
+               <lb facs="#facs_81_tr_1_tl_10" n="N010"/>in a limited realm, an authority in fact. But I <emph rend="allcaps">hope</emph> nobody is in this room who considers me to be
             </p>
             
         </div>

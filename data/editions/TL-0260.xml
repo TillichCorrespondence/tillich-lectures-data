@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -97,12 +96,12 @@
         <div>
             <pb facs="#TL-0260.jpg" n="part1_p260.jpg" xml:id="img_0260" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p260.jpg"/>
             
-            <p facs="#facs_260_tr_1">
-               <lb facs="#facs_260_tr_1_tl_1" n="N001"/>[256]</p>
+            <fw facs="#facs_260_tr_1">
+               <lb facs="#facs_260_tr_1_tl_1" n="N001"/>[256]</fw>
            <p>
               <lb facs="#facs_260_tr_1_tl_2" n="N002"/>later on, in terms of seemingly miraculous ways, but actually in terms of tricks.</p>
            <p>
-               <lb facs="#facs_260_tr_1_tl_3" n="N003"/>The <rs type="keyword" ref="#Reductionism">reductionist philosophers</rs> became aware that IN REALITY they did this trick
+               <lb facs="#facs_260_tr_1_tl_3" n="N003"/>The <rs type="keyword" ref="#Reductionism">reductionist philosophers</rs> became aware that <emph rend="allcaps">in reality</emph> they did this trick
                <lb facs="#facs_260_tr_1_tl_4" n="N004"/>and that it is not dignified to stick to it, after they had seen the tricky character of the
                <lb facs="#facs_260_tr_1_tl_5" n="N005"/>reductionist method. So they accepted a concept of nature ("<rs type="keyword" ref="#Naturalism">naturalism</rs>" is derived from "nature")
                <lb facs="#facs_260_tr_1_tl_6" n="N006"/>which could keep their claim to be naturalists. But we can now call this not reductionism, but

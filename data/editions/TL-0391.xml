@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -102,10 +101,10 @@
         <div>
             <pb facs="#TL-0391.jpg" n="part2_p107.jpg" xml:id="img_0107" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p107.jpg"/>
             
-            <p facs="#facs_107_tr_3">
-               <lb facs="#facs_107_tr_3_tl_1" n="N001"/>[386]</p>
+            <fw facs="#facs_107_tr_3">
+               <lb facs="#facs_107_tr_3_tl_1" n="N001"/>[386]</fw>
            <p>
-              <lb facs="#facs_107_tr_3_tl_2" n="N002"/>with respect to the time which is given to them and which now COULD be used by them.</p>
+              <lb facs="#facs_107_tr_3_tl_2" n="N002"/>with respect to the time which is given to them and which now <emph rend="allcaps">could</emph> be used by them.</p>
            <p>
                <lb facs="#facs_107_tr_3_tl_3" n="N003"/>The <rs type="keyword" ref="#Industrialism">industrial</rs> way has another side, namely the commercial side. This side has the
                <lb facs="#facs_107_tr_3_tl_5" n="N004"/>problem of competition. When I spoke of <rs type="keyword" ref="#Objectivation">objectivation</rs>, and mass society, I again come down

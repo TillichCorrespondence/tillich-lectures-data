@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -97,8 +96,8 @@
         <div>
             <pb facs="#TL-0115.jpg" n="part1_p115.jpg" xml:id="img_0115" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p115.jpg"/>
             
-            <p facs="#facs_115_tr_2">
-               <lb facs="#facs_115_tr_2_tl_1" n="N001"/>[112]</p>
+            <fw facs="#facs_115_tr_2">
+               <lb facs="#facs_115_tr_2_tl_1" n="N001"/>[112]</fw>
            <p>
               <lb facs="#facs_115_tr_2_tl_2" n="N002"/><rs type="keyword" ref="#Astronomy">astronomy</rs> decentralized the earth and made it a small piece in an infinite universe.</p>
            <p>
@@ -107,7 +106,7 @@
                <lb facs="#facs_115_tr_2_tl_5" n="N005"/>What was the reason for this excitement? It has two reasons. The one reason was that the develop-
                <lb facs="#facs_115_tr_2_tl_6" n="N006"/>mental interpretation of reality and its mechanistic form seemed to contradict the symbol of <rs type="keyword" ref="#Creation">creation</rs>.
                <lb facs="#facs_115_tr_2_tl_7" n="N007"/>Creation, in traditional thinking, was understood as a divine act "in the beginning," and even if the
-               <lb facs="#facs_115_tr_2_tl_8" n="N008"/>biblical story was not taken literalistically [sic.]--as it, however, very often WAS taken--but even then it
+               <lb facs="#facs_115_tr_2_tl_8" n="N008"/>biblical story was not taken literalistically [sic.]--as it, however, very often <emph rend="allcaps">was</emph> taken--but even then it
                <lb facs="#facs_115_tr_2_tl_9" n="N009"/>was considered as an expression of a divine act with which the world process has started, and in which
                <lb facs="#facs_115_tr_2_tl_10" n="N010"/>the divine forms of life have been produced so that they could develop independently and in mutual
                <lb facs="#facs_115_tr_2_tl_11" n="N011"/>interdependence on earth. But the idea of a development of one of them, or all of them, out of the

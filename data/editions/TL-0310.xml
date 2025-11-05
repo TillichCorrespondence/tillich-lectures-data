@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -101,10 +100,10 @@
         <div>
             <pb facs="#TL-0310.jpg" n="part2_p026.jpg" xml:id="img_0026" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p026.jpg"/>
             
-            <p facs="#facs_26_tr_2">
-               <lb facs="#facs_26_tr_2_tl_1" n="N001"/>[306]</p>
+            <fw facs="#facs_26_tr_2">
+               <lb facs="#facs_26_tr_2_tl_1" n="N001"/>[306]</fw>
            <p>
-              <lb facs="#facs_26_tr_2_tl_2" n="N002"/>LECTURE XXV, Feb. 9, 1956</p>
+              <lb facs="#facs_26_tr_2_tl_2" n="N002"/><title>Lecture XXV</title>, Feb. 9, 1956</p>
            <p>
                <lb facs="#facs_26_tr_2_tl_3" n="N003"/>We spoke about symbols and characteristics of the representative, in contrast to the
                <lb facs="#facs_26_tr_2_tl_4" n="N004"/>non-representative, symbols (the reflective symbols), and also in contrast to the psychological
@@ -120,7 +119,7 @@
                <lb facs="#facs_26_tr_3_tl_8" n="N006"/>There is symbolistic poetry; there is symbolistic drama, whereby not elements of the ordinary
                <lb facs="#facs_26_tr_3_tl_9" n="N007"/>reality are used in order to symbolize something beyond this ordinary reality, but where special
                <lb facs="#facs_26_tr_1_tl_1" n="N001"/>symbols are invented which are especially characterized as symbols---angelic figures, forms in which
-               <lb facs="#facs_26_tr_1_tl_2" n="N002"/>the NON-realistic element is intentionally expressed. It was always my feeling that such a kind of
+               <lb facs="#facs_26_tr_1_tl_2" n="N002"/>the <emph rend="allcaps">non</emph>-realistic element is intentionally expressed. It was always my feeling that such a kind of
                <lb facs="#facs_26_tr_1_tl_3" n="N003"/>art is bad art. For this reason I was hesitating to speak in terms of symbols at all, when I spoke of
                <lb facs="#facs_26_tr_1_tl_4" n="N004"/>art, but this was a more accidental reason. There was another reason, more substantial, namely
                <lb facs="#facs_26_tr_1_tl_5" n="N005"/>the experience that if you are, in a picture or in a piece of music or in a poem or in a drama,

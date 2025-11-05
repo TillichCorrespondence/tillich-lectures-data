@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -82,10 +81,10 @@
         <div>
             <pb facs="#TL-0212.jpg" n="part1_p212.jpg" xml:id="img_0212" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p212.jpg"/>
             
-            <p facs="#facs_212_tr_2">
-               <lb facs="#facs_212_tr_2_tl_1" n="N001"/>[208]</p>
+            <fw facs="#facs_212_tr_2">
+               <lb facs="#facs_212_tr_2_tl_1" n="N001"/>[208]</fw>
            <p>
-               <lb facs="#facs_212_tr_2_tl_3" n="N002"/>more than after any other lecture, NOT TO BE SATISFIED with these examples, but to get
+               <lb facs="#facs_212_tr_2_tl_3" n="N002"/>more than after any other lecture, <emph rend="allcaps">not to be satisfied</emph> with these examples, but to get
                <lb facs="#facs_212_tr_2_tl_5" n="N003"/>more of them and, in your work as philosophers or economists or psychologists or anthropologists
                <lb facs="#facs_212_tr_2_tl_6" n="N004"/>or whatever you study, to try to find out where the dimension of the <rs type="keyword" ref="#Ultimacy">ultimate</rs> appears, makes itself
                <lb facs="#facs_212_tr_2_tl_7" n="N005"/>felt, and where therefore these realms themselves have entered the dimension of ultimate concern.

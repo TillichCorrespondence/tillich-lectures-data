@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -101,12 +100,12 @@
         <div>
             <pb facs="#TL-0150.jpg" n="part1_p150.jpg" xml:id="img_0150" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p150.jpg"/>
             
-            <p facs="#facs_150_tr_2">
-               <lb facs="#facs_150_tr_2_tl_1" n="N001"/>[147]</p>
+            <fw facs="#facs_150_tr_2">
+               <lb facs="#facs_150_tr_2_tl_1" n="N001"/>[147]</fw>
            <p>
                <lb facs="#facs_150_tr_2_tl_2" n="N002"/>Now this produces the mystery of <rs type="keyword" ref="#Understanding">understanding</rs>, which is one of the most important things in all
-               <lb facs="#facs_150_tr_2_tl_3" n="N003"/>humanities. And this is not only a matter of us sitting here, 3000 or 2400 years AFTER PLATO,
-               <lb facs="#facs_150_tr_2_tl_4" n="N004"/>but it is also a matter of <rs type="person" ref="#Plato">Plato</rs> himself: when he tried to understand his OWN texts, he never understood
+               <lb facs="#facs_150_tr_2_tl_3" n="N003"/>humanities. And this is not only a matter of us sitting here, 3000 or 2400 years <emph rend="allcaps">after plato</emph>,
+               <lb facs="#facs_150_tr_2_tl_4" n="N004"/>but it is also a matter of <rs type="person" ref="#Plato">Plato</rs> himself: when he tried to understand his <emph rend="allcaps">own</emph> texts, he never understood
                <lb facs="#facs_150_tr_2_tl_5" n="N005"/>them---of course it is humanly impossible---exactly as he had written them. All of us who ever have
                <lb facs="#facs_150_tr_2_tl_6" n="N006"/>written books or papers which they have preserved, and read them again after a certain reasonable time,
                <lb facs="#facs_150_tr_2_tl_7" n="N007"/>in which something happens in their own development, will realize that these texts do not mean
@@ -116,8 +115,8 @@
                <lb facs="#facs_150_tr_2_tl_11" n="N011"/>other <hi style="font-style: italic;">doctorandus</hi>, would sit down for two years, or ten years, and look at the more important
                <lb facs="#facs_150_tr_2_tl_12" n="N012"/>philosophers who had a development, and show the self-interpretation of their own texts by these
                <lb facs="#facs_150_tr_2_tl_13" n="N013"/>philosophers in the later stages of their development. And they will find astonishing results! They
-               <lb facs="#facs_150_tr_2_tl_14" n="N014"/>are the FIRST one to create a "third" out of the text and out of their own means of understanding.
-               <lb facs="#facs_150_tr_2_tl_15" n="N015"/>Then their disciples follow---and how DISCIPLES understand masters, or teachers, is very well
+               <lb facs="#facs_150_tr_2_tl_14" n="N014"/>are the <emph rend="allcaps">first</emph> one to create a "third" out of the text and out of their own means of understanding.
+               <lb facs="#facs_150_tr_2_tl_15" n="N015"/>Then their disciples follow---and how <emph rend="allcaps">disciples</emph> understand masters, or teachers, is very well
                <lb facs="#facs_150_tr_2_tl_16" n="N016"/>exemplified in that saying by <rs type="person" ref="#tillich_person_id__839">Hegel</rs> which is probably apocryphal, but in any case is very good,
                <lb facs="#facs_150_tr_2_tl_17" n="N017"/>as most apocryphal sayings are: "I have only one pupil who has understood me, and he has
                <lb facs="#facs_150_tr_2_tl_18" n="N018"/>misunderstood me!"* Now this kind of thing is something which one should not take in terms of
@@ -128,7 +127,7 @@
                <lb facs="#facs_150_tr_2_tl_20" n="N021"/>* In private conversation, with myself and <rs type="person" ref="#tillich_person_id__3083">Horst Bürkle</rs>, then a Union Seminary colleague student, now
                <lb facs="#facs_150_tr_2_tl_21" n="N022"/>a specialist in world religions in Germany, Prof Tillich expressed a doubt whether even Prof. <rs type="person" ref="#tillich_person_id__8">James Luther
                <lb break="no" facs="#facs_150_tr_2_tl_22" n="N023"/>Adams</rs> had understood him rightly. --Ed.
-               <lb facs="#facs_150_tr_2_tl_23" n="N024"/>My substitution for PT's "cryptic". – Ed.
+               <lb facs="#facs_150_tr_2_tl_23" n="N024"/>My substitution for <rs type="person" ref="#tillich_person_id__1928">PT</rs>'s "cryptic". – Ed.
             </p>
             
         </div>

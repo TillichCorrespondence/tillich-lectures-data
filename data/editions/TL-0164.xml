@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -97,11 +96,11 @@
         <div>
             <pb facs="#TL-0164.jpg" n="part1_p164.jpg" xml:id="img_0164" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p164.jpg"/>
             
-            <p facs="#facs_164_tr_1">
-               <lb facs="#facs_164_tr_1_tl_1" n="N001"/>[161]</p>
+            <fw facs="#facs_164_tr_1">
+               <lb facs="#facs_164_tr_1_tl_1" n="N001"/>[161]</fw>
            <p>
                <lb facs="#facs_164_tr_1_tl_2" n="N002"/>to guide you here, with my radical statements, to the boundary line of historical possibilities.
-               <lb facs="#facs_164_tr_1_tl_3" n="N003"/>Nothing else than this. But this must be done. And in academic work we ALWAYS must exhaust the
+               <lb facs="#facs_164_tr_1_tl_3" n="N003"/>Nothing else than this. But this must be done. And in academic work we <emph rend="allcaps">always</emph> must exhaust the
                <lb facs="#facs_164_tr_1_tl_4" n="N004"/>possibilities of a problem to its bitter and---and it is a bitter end to which I brought it, at this moment.
               <lb facs="#facs_164_tr_1_tl_5" n="N005"/>But that, we must do!</p>
            <p>
@@ -111,7 +110,7 @@
                <lb facs="#facs_164_tr_1_tl_11" n="N009"/>who was called the <rs type="keyword" ref="#Buddah">Buddha</rs>. But faith cannot assert the historical conditions which made it possible
                <lb facs="#facs_164_tr_1_tl_12" n="N010"/>that these men became matters of <rs type="keyword" ref="#Ultimate_Concern">ultimate concern</rs> for large sections of humanity. Faith includes
                <lb facs="#facs_164_tr_1_tl_13" n="N011"/>certainty about its own foundation, for instance, about an event in <rs type="keyword" ref="#History">history</rs> which has transformed
-               <lb facs="#facs_164_tr_1_tl_14" n="N012"/>and is continuously transforming life and history for the faithful. But faith does NOT include
+               <lb facs="#facs_164_tr_1_tl_14" n="N012"/>and is continuously transforming life and history for the faithful. But faith does <emph rend="allcaps">not</emph> include
                <lb facs="#facs_164_tr_1_tl_15" n="N013"/>historical knowledge about the way in which this event took place. Therefore faith cannot be
                <lb facs="#facs_164_tr_1_tl_16" n="N014"/>shaken by historical research. And that is the main point to which I wanted to guide you.
                <lb facs="#facs_164_tr_1_tl_18" n="N015"/>After we have reached the boundary line and its bitterness of ultimate possibilities, we can now

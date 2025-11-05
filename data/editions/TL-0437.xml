@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -101,10 +100,10 @@
         <div>
             <pb facs="#TL-0437.jpg" n="part3_p045.jpg" xml:id="img_0045" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p045.jpg"/>
             
-            <p facs="#facs_45_tr_2">
-               <lb facs="#facs_45_tr_2_tl_4" n="N001"/>[432]</p>
+            <fw facs="#facs_45_tr_2">
+               <lb facs="#facs_45_tr_2_tl_4" n="N001"/>[432]</fw>
            <p>
-              <lb facs="#facs_45_tr_2_tl_5" n="N002"/>LECTURE XXXIV, March 10, 1956</p>
+              <lb facs="#facs_45_tr_2_tl_5" n="N002"/><title>Lecture XXXIV</title>, March 10, 1956</p>
            <p>
                <lb facs="#facs_45_tr_2_tl_6" n="N003"/>We have discussed the formal <rs type="keyword" ref="#Ethics">ethics</rs>, so to speak--the fundamental problem of
                <lb facs="#facs_45_tr_2_tl_7" n="N004"/>ethics and religion. Today I come to a special section of the general ethical realm, namely
@@ -115,13 +114,13 @@
            <p>
                <lb facs="#facs_45_tr_3_tl_4" n="N004"/>The word ''<rs type="keyword" ref="#Individualism">individualism</rs>'' is used very much as a critical word against special forms of
                <lb facs="#facs_45_tr_3_tl_5" n="N005"/>behavior or special structures of society, in our period of <rs type="keyword" ref="#History">history</rs>. This word is valid to a certain
-               <lb facs="#facs_45_tr_3_tl_6" n="N006"/>extent--one CAN speak of modern individualism--but it is valid only in a limited way, because
+               <lb facs="#facs_45_tr_3_tl_6" n="N006"/>extent--one <emph rend="allcaps">can</emph> speak of modern individualism--but it is valid only in a limited way, because
                <lb facs="#facs_45_tr_1_tl_1" n="N001"/>it uses the word ''individual'' in an undifferentiated, unqualified way. The first thing we must do,
               <lb facs="#facs_45_tr_1_tl_4" n="N002"/>when we deal with such a concept as individualism, is to make the qualifications referring to such a term.</p>
            <p>
                <lb facs="#facs_45_tr_1_tl_5" n="N003"/>Individualism can mean three different things. Let me call the one the <rs type="keyword" ref="#Religion">religious</rs> concept,
                <lb facs="#facs_45_tr_1_tl_6" n="N004"/>the other the <rs type="keyword" ref="#Rationality">rational</rs> concept, and the third the <rs type="keyword" ref="#Renaissance">Renaissance</rs> concept. These three are by no means
-               <lb facs="#facs_45_tr_1_tl_7" n="N005"/>identical and must be discussed in a special way, and it is quite possible that SOME of these concepts
+               <lb facs="#facs_45_tr_1_tl_7" n="N005"/>identical and must be discussed in a special way, and it is quite possible that <emph rend="allcaps">some</emph> of these concepts
               <lb facs="#facs_45_tr_1_tl_8" n="N006"/>are to be combined with opposite concepts in different structures.</p>
            <p>
                <lb facs="#facs_45_tr_1_tl_9" n="N007"/>The religious concept is the concept of the infinite value of the individual <rs type="keyword" ref="#Soul">soul</rs> in the

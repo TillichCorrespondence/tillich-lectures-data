@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -97,8 +96,8 @@
         <div>
             <pb facs="#TL-0261.jpg" n="part1_p261.jpg" xml:id="img_0261" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p261.jpg"/>
             
-            <p facs="#facs_261_tr_1">
-               <lb facs="#facs_261_tr_1_tl_1" n="N001"/>[257]</p>
+            <fw facs="#facs_261_tr_1">
+               <lb facs="#facs_261_tr_1_tl_1" n="N001"/>[257]</fw>
            <p>
                <lb facs="#facs_261_tr_1_tl_2" n="N002"/>machine has a structure, and there are many structural forms in a living gestalt. Therefore we
                <lb facs="#facs_261_tr_1_tl_3" n="N003"/>do better to accept this foreign word---as the English language was always able to accept many

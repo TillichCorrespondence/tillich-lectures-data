@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -97,8 +96,8 @@
         <div>
             <pb facs="#TL-0148.jpg" n="part1_p148.jpg" xml:id="img_0148" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p148.jpg"/>
             
-            <p facs="#facs_148_tr_2">
-               <lb facs="#facs_148_tr_2_tl_1" n="N001"/>[145]</p>
+            <fw facs="#facs_148_tr_2">
+               <lb facs="#facs_148_tr_2_tl_1" n="N001"/>[145]</fw>
            <p>
                <lb facs="#facs_148_tr_2_tl_2" n="N002"/>and if he doesn’t do these three things, he is not a good historian, and I will give you immediately
                <lb facs="#facs_148_tr_2_tl_3" n="N003"/>the consequences of this... The first and basic is that he tries to state those verifiable facts which
@@ -110,9 +109,9 @@
                <lb facs="#facs_148_tr_2_tl_8" n="N008"/>The second thing he does is: explaining. Explaining means to give an account about the
               <lb facs="#facs_148_tr_2_tl_9" n="N009"/>origin of the facts, of the way they came into existence, of their relations.</p>
            <p>
-               <lb facs="#facs_148_tr_2_tl_10" n="N010"/>The third: he must UNDERSTAND them. This is the most discussed point in historical
+               <lb facs="#facs_148_tr_2_tl_10" n="N010"/>The third: he must <emph rend="allcaps">understand</emph> them. This is the most discussed point in historical
                <lb facs="#facs_148_tr_2_tl_11" n="N011"/>work, and the only really worthwhile point in all historical enterprise, namely to understand the
-              <lb facs="#facs_148_tr_2_tl_12" n="N012"/>MEANING of the explained facts.</p>
+              <lb facs="#facs_148_tr_2_tl_12" n="N012"/><emph rend="allcaps">meaning</emph> of the explained facts.</p>
            <p>
                <lb facs="#facs_148_tr_2_tl_13" n="N013"/>So we have three things: describing---as it actually has been; explaining---how it came
               <lb facs="#facs_148_tr_2_tl_14" n="N014"/>to this; and understanding---what it means.</p>

@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -110,8 +109,8 @@
         <div>
             <pb facs="#TL-0045.jpg" n="part1_p045.jpg" xml:id="img_0045" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p045.jpg"/>
             
-            <p facs="#facs_45_tr_2">
-               <lb facs="#facs_45_tr_2_tl_1" n="N001"/>[42]</p>
+            <fw facs="#facs_45_tr_2">
+               <lb facs="#facs_45_tr_2_tl_1" n="N001"/>[42]</fw>
            <p rend="tei-p-no-indent">
                <lb facs="#facs_45_tr_2_tl_2" n="N002"/>thing in common: they point beyond themselves. The sound of the word "desk" points
                <lb facs="#facs_45_tr_2_tl_3" n="N003"/>to the thing "desk," which I can also touch, look at, smell, and throw away, if I am
@@ -119,7 +118,7 @@
                <lb facs="#facs_45_tr_2_tl_5" n="N005"/>very clear; for instance, there are signs which are very important because they are matters
                <lb facs="#facs_45_tr_2_tl_6" n="N006"/>of life and death for all of us, namely the signs at the street corner: "red" and "green."
                <lb facs="#facs_45_tr_2_tl_7" n="N007"/>But they are signs, they are not symbols; they point to something else. "Green" means
-               <lb facs="#facs_45_tr_2_tl_8" n="N008"/>"GO" and "red" means "STOP." But "greenhood" and "going", and "redhood" and
+               <lb facs="#facs_45_tr_2_tl_8" n="N008"/>"<emph rend="allcaps">go</emph>" and "red" means "<emph rend="allcaps">stop</emph>." But "greenhood" and "going", and "redhood" and
                <lb facs="#facs_45_tr_2_tl_9" n="N009"/>"stopping," have nothing to do with each other. This means this is a mere matter of
                <lb facs="#facs_45_tr_2_tl_10" n="N010"/>expediency and convention. For expedient reasons, convention has decided to use these
                <lb facs="#facs_45_tr_2_tl_11" n="N011"/>lights for these different purposes. In this way signs are always matters of convention,
@@ -145,7 +144,7 @@
                <lb facs="#facs_45_tr_2_tl_29" n="N028"/>different and can be changed if a congress of mathematicians of the world would decide [so].
                <lb facs="#facs_45_tr_2_tl_30" n="N029"/>They don’t decide about the older signs, which are now so much used that it would be almost
                <lb facs="#facs_45_tr_2_tl_31" n="N030"/>a catastrophe to change them. But if something new comes out, someone suggests,
-               <lb facs="#facs_45_tr_2_tl_32" n="N031"/>"Let us call it 'I'--[?] (one of the most mystical mathematical signs) [?]--the others
+              <lb facs="#facs_45_tr_2_tl_32" n="N031"/>"Let us call it 'I'--[?] (one of the most mystical mathematical signs) [?]--the others
                <lb facs="#facs_45_tr_2_tl_33" n="N032"/>follow and convention is established. Others could say "No, there is something better," and
                <lb facs="#facs_45_tr_2_tl_34" n="N033"/>they don’t follow. But if a symbol has grown, you cannot do that with it.
             </p>

@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -105,8 +104,8 @@
         <div>
             <pb facs="#TL-0030.jpg" n="part1_p030.jpg" xml:id="img_0030" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p030.jpg"/>
             
-           <p facs="#facs_30_tr_1">
-              <lb facs="#facs_30_tr_1_tl_1" n="N001"/>[27]</p>
+           <fw facs="#facs_30_tr_1">
+              <lb facs="#facs_30_tr_1_tl_1" n="N001"/>[27]</fw>
            <p rend="tei-p-no-indent">
               <lb facs="#facs_30_tr_1_tl_3" n="N002"/>Oct. 11, 1955</p>
            <p>
@@ -114,11 +113,11 @@
                <lb facs="#facs_30_tr_1_tl_5" n="N004"/>very interesting questions were raised. I want to read them, but I will answer only one,
               <lb facs="#facs_30_tr_1_tl_6" n="N005"/>because they will be answered later.</p>
            <p>
-               <lb facs="#facs_30_tr_1_tl_7" n="N006"/>QUESTION: Is not the nature of Biblical revelation opposed to philosophy?
+               <lb facs="#facs_30_tr_1_tl_7" n="N006"/><emph rend="allcaps">Question</emph>: Is not the nature of Biblical revelation opposed to philosophy?
                <lb facs="#facs_30_tr_1_tl_8" n="N007"/>Has not <rs type="person" ref="#tillich_person_id__137">Karl Barth</rs> shown that a synthesis between Christianity and <rs type="keyword" ref="#Culture">culture</rs>, Christianity
               <lb facs="#facs_30_tr_1_tl_9" n="N008"/>and humanism, is [not possible]?</p>
            <p>
-               <lb facs="#facs_30_tr_1_tl_10" n="N009"/>TILLICH: The answer to this cannot be given in one word. In any case,
+               <lb facs="#facs_30_tr_1_tl_10" n="N009"/><emph rend="allcaps"><rs type="person" ref="#tillich_person_id__1928">Tillich</rs></emph>: The answer to this cannot be given in one word. In any case,
                <lb facs="#facs_30_tr_1_tl_11" n="N010"/>the formulation I gave to this problem shows that it is not a matter of synthesis but a
                <lb facs="#facs_30_tr_1_tl_12" n="N011"/>matter of mutual immanence, of being-within-each-other--for instance, the fact (to which
                <lb facs="#facs_30_tr_1_tl_13" n="N012"/>we will refer very soon) that even Karl Barth has to use a language, which has developed
@@ -129,20 +128,20 @@
                <lb facs="#facs_30_tr_1_tl_19" n="N017"/><hi style="font-style: italic;">Biblical Religion and the Search for Ultimate Reality</hi>, from the Chicago University Press.
               <lb facs="#facs_30_tr_1_tl_20" n="N018"/>There I try to answer this question more fully.</p>
            <p>
-               <lb facs="#facs_30_tr_1_tl_21" n="N019"/>QUESTION: If we interpret religion in ontological terms--for instance, the
+               <lb facs="#facs_30_tr_1_tl_21" n="N019"/><emph rend="allcaps">Question</emph>: If we interpret religion in ontological terms--for instance, the
                <lb facs="#facs_30_tr_1_tl_22" n="N020"/>participation of our being in absolute Being--can we still speak of God as our Creator,
               <lb facs="#facs_30_tr_1_tl_23" n="N021"/>and the Creator of the world?</p>
            <p>
-               <lb facs="#facs_30_tr_1_tl_24" n="N022"/>TILLICH: Now this is the next subject, namely the problem of symbols, and
+               <lb facs="#facs_30_tr_1_tl_24" n="N022"/><emph rend="allcaps"><rs type="person" ref="#tillich_person_id__1928">Tillich</rs></emph>: Now this is the next subject, namely the problem of symbols, and
               <lb facs="#facs_30_tr_1_tl_25" n="N023"/>there I will answer this in discussing the meaning and the significance of symbolic language.</p>
            <p>
-               <lb facs="#facs_30_tr_1_tl_26" n="N024"/>QUESTION: Is the aesthetic intuition of reality the function of human culture?
+               <lb facs="#facs_30_tr_1_tl_26" n="N024"/><emph rend="allcaps">Question</emph>: Is the aesthetic intuition of reality the function of human culture?
               <lb facs="#facs_30_tr_1_tl_27" n="N025"/>Is this intuition a form of revelation?</p>
            <p>
-               <lb facs="#facs_30_tr_1_tl_28" n="N026"/>TILLICH: This again I must postpone--this will be the problem of the two ways
+               <lb facs="#facs_30_tr_1_tl_28" n="N026"/><emph rend="allcaps"><rs type="person" ref="#tillich_person_id__1928">Tillich</rs></emph>: This again I must postpone--this will be the problem of the two ways
               <lb facs="#facs_30_tr_1_tl_29" n="N027"/>of looking at a painting--until we come to the section on Religion and the Arts.</p>
            <p>
-               <lb facs="#facs_30_tr_1_tl_30" n="N028"/>QUESTION: What is the criterion of a true <rs type="keyword" ref="#Ultimate_Concern">ultimate concern</rs>? The answer
+               <lb facs="#facs_30_tr_1_tl_30" n="N028"/><emph rend="allcaps">Question</emph>: What is the criterion of a true <rs type="keyword" ref="#Ultimate_Concern">ultimate concern</rs>? The answer
             </p>
             
         </div>

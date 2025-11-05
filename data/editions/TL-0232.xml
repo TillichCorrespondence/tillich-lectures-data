@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -96,8 +95,8 @@
         <div>
             <pb facs="#TL-0232.jpg" n="part1_p232.jpg" xml:id="img_0232" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p232.jpg"/>
             
-            <p facs="#facs_232_tr_1">
-               <lb facs="#facs_232_tr_1_tl_1" n="N001"/>[228]</p>
+            <fw facs="#facs_232_tr_1">
+               <lb facs="#facs_232_tr_1_tl_1" n="N001"/>[228]</fw>
            <p>
                <lb facs="#facs_232_tr_1_tl_2" n="N002"/>reality of everything, except some biological or physical facts. If you discuss with him, then you
                <lb facs="#facs_232_tr_1_tl_3" n="N003"/>can easily notice (if you once have started to notice such things) the two levels: the level of argument
@@ -106,7 +105,7 @@
                <lb facs="#facs_232_tr_1_tl_9" n="N006"/>But since you meet in the arena of philosophy, you discuss in terms of arguments.
                <lb facs="#facs_232_tr_1_tl_11" n="N007"/>And the great difficulty of many such discussions---of small and large groups---is the non-distinction
                <lb facs="#facs_232_tr_1_tl_12" n="N008"/>of argument and will-to-conversion. You very often can find out exactly in which moment---even
-               <lb facs="#facs_232_tr_1_tl_14" n="N009"/>psychological, in the kind of voice, in the kind of inner movement---which is the REAL meaning of
+               <lb facs="#facs_232_tr_1_tl_14" n="N009"/>psychological, in the kind of voice, in the kind of inner movement---which is the <emph rend="allcaps">real</emph> meaning of
                <lb facs="#facs_232_tr_1_tl_15" n="N010"/>the statements of this man with whom I talk, or of myself when I talk with myself: is it
                <lb facs="#facs_232_tr_1_tl_16" n="N011"/>really argument, or is it desire of one side of my being to convert the other side of my being?
               <lb facs="#facs_232_tr_1_tl_17" n="N012"/>And that, we must be able to understand.</p>
@@ -114,8 +113,8 @@
                <lb facs="#facs_232_tr_1_tl_18" n="N013"/>From this follows another question, namely if in every philosophy there is an <rs type="keyword" ref="#Ultimate_Concern">ultimate
                <lb break="no" facs="#facs_232_tr_1_tl_19" n="N014"/>concern, and this ultimate concern</rs> has been expressed in the symbols of classical religions
                <lb facs="#facs_232_tr_1_tl_20" n="N015"/>(for instance Christianity), then the question can arise, and has arisen and is much discussed:
-               <lb facs="#facs_232_tr_1_tl_21" n="N016"/>can there be a <rs type="keyword" ref="#Christian_philosophy">Christian philosophy?</rs> Some people say we SHOULD have a Christian philosophy;
-               <lb facs="#facs_232_tr_1_tl_22" n="N017"/>others say---and I belong to the second group---there should NOT be Christian philosophy. Now
+               <lb facs="#facs_232_tr_1_tl_21" n="N016"/>can there be a <rs type="keyword" ref="#Christian_philosophy">Christian philosophy?</rs> Some people say we <emph rend="allcaps">should</emph> have a Christian philosophy;
+               <lb facs="#facs_232_tr_1_tl_22" n="N017"/>others say---and I belong to the second group---there should <emph rend="allcaps">not</emph> be Christian philosophy. Now
                <lb facs="#facs_232_tr_1_tl_23" n="N018"/>what does this word mean? "Christian philosophy" is a term which can have two meanings:
                <lb facs="#facs_232_tr_1_tl_24" n="N019"/>philosophy arising on the cultural soil which is cultivated for thousands of years by the Christian
             </p>

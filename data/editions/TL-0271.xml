@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -97,10 +96,10 @@
         <div>
             <pb facs="#TL-0271.jpg" n="part1_p271.jpg" xml:id="img_0271" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p271.jpg"/>
             
-            <p facs="#facs_271_tr_1">
-               <lb facs="#facs_271_tr_1_tl_1" n="N001"/>[267]</p>
+            <fw facs="#facs_271_tr_1">
+               <lb facs="#facs_271_tr_1_tl_1" n="N001"/>[267]</fw>
            <p>
-              <lb facs="#facs_271_tr_1_tl_2" n="N002"/>LECTURE XXII, Dec. 20, 1955</p>
+              <lb facs="#facs_271_tr_1_tl_2" n="N002"/><title>Lecture XXII</title>, Dec. 20, 1955</p>
            <p>
                <lb facs="#facs_271_tr_1_tl_3" n="N003"/>Since this is the last lecture, let me remind you of the idea of the whole lecture [course]
               <lb facs="#facs_271_tr_1_tl_4" n="N004"/>as we had it, and look forward to the lecture starting the beginning of February.</p>

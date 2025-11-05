@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -108,8 +107,8 @@
         <div>
             <pb facs="#TL-0080.jpg" n="part1_p080.jpg" xml:id="img_0080" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p080.jpg"/>
             
-            <p facs="#facs_80_tr_2">
-               <lb facs="#facs_80_tr_2_tl_1" n="N001"/>[77]</p>
+            <fw facs="#facs_80_tr_2">
+               <lb facs="#facs_80_tr_2_tl_1" n="N001"/>[77]</fw>
            <p>
                <lb facs="#facs_80_tr_2_tl_2" n="N002"/>happened in a moment of intuition, in a moment in which something happened to a
                <lb facs="#facs_80_tr_2_tl_3" n="N003"/>mind, two or more things suddenly came together; and that is the same thing with the
@@ -131,8 +130,8 @@
            <p>
                <lb facs="#facs_80_tr_2_tl_19" n="N018"/>I know that this is not an easy thing. When I came to this country 22 years
                <lb facs="#facs_80_tr_2_tl_20" n="N019"/>ago and talked to my theological students in Union Theological Seminary, and told them
-               <lb facs="#facs_80_tr_2_tl_21" n="N020"/>that I don't believe in the idea of progress as a universal law of history, then THESE
-               <lb facs="#facs_80_tr_2_tl_22" n="N021"/>THEOLOGIANS, please, told me: "then you take all faith away from us!" That means:
+               <lb facs="#facs_80_tr_2_tl_21" n="N020"/>that I don't believe in the idea of progress as a universal law of history, then <emph rend="allcaps">these</emph>
+               <lb facs="#facs_80_tr_2_tl_22" n="N021"/><emph rend="allcaps">theologians</emph>, please, told me: "then you take all faith away from us!" That means:
                <lb facs="#facs_80_tr_2_tl_23" n="N022"/>not God, not eternity, not salvation (or whatever the great religious symbols are)
                <lb facs="#facs_80_tr_2_tl_24" n="N023"/>are that in which they believe, but progress! And this shows actually the character of
               <lb facs="#facs_80_tr_2_tl_25" n="N024"/><rs type="keyword" ref="#Protestantism">Protestantism</rs> in that time.</p>

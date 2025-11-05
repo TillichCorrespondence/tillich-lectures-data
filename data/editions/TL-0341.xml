@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -100,8 +99,8 @@
         <div>
             <pb facs="#TL-0341.jpg" n="part2_p057.jpg" xml:id="img_0057" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p057.jpg"/>
             
-            <p facs="#facs_57_tr_3">
-               <lb facs="#facs_57_tr_3_tl_1" n="N001"/>[336]</p>
+            <fw facs="#facs_57_tr_3">
+               <lb facs="#facs_57_tr_3_tl_1" n="N001"/>[336]</fw>
            <p>
                <lb facs="#facs_57_tr_3_tl_2" n="N002"/>that I didn't immediately realize that in these peasant scenes, pointed by the Dutch painters, there is
                <lb facs="#facs_57_tr_3_tl_3" n="N003"/>one element of <rs type="keyword" ref="#Power_of_Being">power of being</rs>, which I always praise in my lectures, namely vitality, besides
@@ -116,7 +115,7 @@
                <lb facs="#facs_57_tr_1_tl_6" n="N006"/>10) <rs type="person" ref="#tillich_person_id__1580">Rembrandt</rs>: <hi style="font-style: italic;">DESCENT FROM THE <rs type="keyword" ref="#Cross_of_Christ">CROSS</rs></hi>--Here we come to another kind of vitality--
               <lb facs="#facs_57_tr_1_tl_7" n="N007"/>something soldierly--perhaps his most famous, most understandable picture of Rembrandt,</p>
            <p>
-               <lb facs="#facs_57_tr_1_tl_9" n="N008"/>11) the <hi style="font-style: italic;">NIGHT WATCH</hi>, it is usually called, and is something which gives, in the same way as the
+               <lb facs="#facs_57_tr_1_tl_9" n="N008"/>11) the <emph rend="allcaps italic">NIGHT WATCH</emph>, it is usually called, and is something which gives, in the same way as the
                <lb facs="#facs_57_tr_1_tl_10" n="N009"/>others (but on a level of a not festival [?] direct[ly?], but anyhow something very near to it,
                <lb facs="#facs_57_tr_1_tl_11" n="N010"/>although it has a solder soldier element in it) the same kind of vitality expressed in the tremendous
                <lb facs="#facs_57_tr_1_tl_12" n="N011"/>power of light and shadow, as used by Rembrandt in most of his great pictures. It is as if the

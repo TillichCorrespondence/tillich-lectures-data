@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -108,8 +107,8 @@
         <div>
             <pb facs="#TL-0036.jpg" n="part1_p036.jpg" xml:id="img_0036" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p036.jpg"/>
             
-            <p facs="#facs_36_tr_1">
-               <lb facs="#facs_36_tr_1_tl_4" n="N001"/>[33]</p>
+            <fw facs="#facs_36_tr_1">
+               <lb facs="#facs_36_tr_1_tl_4" n="N001"/>[33]</fw>
            <p rend="tei-p-no-indent">
               <lb facs="#facs_36_tr_1_tl_6" n="N002"/>communication, which use great words and deteriorize them.</p>
            <p>
@@ -135,7 +134,7 @@
                <lb facs="#facs_36_tr_1_tl_25" n="N020"/>the original creation of language shows different forms of <rs type="keyword" ref="#Ultimate_Concern">ultimate concern</rs> in basic
               <lb facs="#facs_36_tr_1_tl_27" n="N021"/>characteristics of the different languages. And I will give you a few examples for this.</p>
            <p>
-               <lb facs="#facs_36_tr_1_tl_28" n="N022"/><rs type="keyword" ref="#Ontology">It was always astonishing for me that the Greek language, BEFORE the
+               <lb facs="#facs_36_tr_1_tl_28" n="N022"/><rs type="keyword" ref="#Ontology">It was always astonishing for me that the Greek language, <emph rend="allcaps">before</emph> the
                <lb facs="#facs_36_tr_1_tl_30" n="N023"/>philosophers came into the picture, produced the concept τα οντα, that which is being
                <lb facs="#facs_36_tr_1_tl_32" n="N024"/>(meaning "things"), that which is, that which has, being. Even today it is difficult to
                <lb facs="#facs_36_tr_1_tl_33" n="N025"/>communicate the meaning of these two Greek words, τα οντα ("the," "beings"); but the
@@ -143,7 +142,7 @@
                <lb facs="#facs_36_tr_1_tl_35" n="N027"/>enter, through this door opened by the Greek language, into the fundamental problems
                <lb facs="#facs_36_tr_1_tl_36" n="N028"/>of philosophy, namely the problems of being and non-being. In this way, one can say the
                <lb facs="#facs_36_tr_1_tl_37" n="N029"/>greatest philosophy in Greece was the Greek language. Greek philosophy was created
-               <lb facs="#facs_36_tr_1_tl_38" n="N030"/>POTENTIALLY in the moment in which the Greek language created words like "<hi style="text-decoration: underline;">ta onta</hi>,"
+               <lb facs="#facs_36_tr_1_tl_38" n="N030"/><emph rend="allcaps">potentially</emph> in the moment in which the Greek language created words like "<hi style="text-decoration: underline;">ta onta</hi>,"
                <lb facs="#facs_36_tr_1_tl_39" n="N031"/>or "<hi style="text-decoration: underline;">eidos</hi>" ("idea"), later used by <rs type="person" ref="#tillich_person_id__3063">Plato</rs>.</rs>
             </p>
             

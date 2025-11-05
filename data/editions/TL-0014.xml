@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -108,15 +107,15 @@
         <div>
             <pb facs="#TL-0014.jpg" n="part1_p014.jpg" xml:id="img_0014" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p014.jpg"/>
             
-            <p facs="#facs_14_tr_2">
-               <lb facs="#facs_14_tr_2_tl_1" n="N001"/>[11]</p>
+            <fw facs="#facs_14_tr_2">
+               <lb facs="#facs_14_tr_2_tl_1" n="N001"/>[11]</fw>
            <p rend="tei-p-no-indent">
                <lb facs="#facs_14_tr_2_tl_2" n="N002"/>starts [sic.] with the theoretical or cognitive function, but with language and the technical function.
-               <lb facs="#facs_14_tr_2_tl_3" n="N003"/>The reasons for this is that man is not first of all somebody who LOOKS at reality, who
+               <lb facs="#facs_14_tr_2_tl_3" n="N003"/>The reasons for this is that man is not first of all somebody who <emph rend="allcaps">looks</emph> at reality, who
                <lb facs="#facs_14_tr_2_tl_4" n="N004"/>contemplates reality, and then makes <rs type="keyword" ref="#Signs">signs </rs>out of it, but man is first of all a being who
                <lb facs="#facs_14_tr_2_tl_5" n="N005"/>usess [sic.] tools for ends. The <rs type="keyword" ref="#Technical_Function">technical function</rs> is, so to speak, metaphysically older than the
                <lb facs="#facs_14_tr_2_tl_6" n="N006"/>theoretical or cognitive function. Therefore the existentialist philosopher <rs type="person" ref="#tillich_person_id__841">Heidegger </rs>has
-               <lb facs="#facs_14_tr_2_tl_7" n="N007"/>rightly emphasized that man meets reality first in terms of tools, of things FOR SOMETHING,
+               <lb facs="#facs_14_tr_2_tl_7" n="N007"/>rightly emphasized that man meets reality first in terms of tools, of things <emph rend="allcaps">for something</emph>,
               <lb facs="#facs_14_tr_2_tl_8" n="N008"/>but not as objects of contemplation.</p>
            <p>
                <lb facs="#facs_14_tr_2_tl_9" n="N009"/>But of course, the moment in which you make tools, you must have the

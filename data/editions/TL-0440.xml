@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -99,8 +98,8 @@
         <div>
             <pb facs="#TL-0440.jpg" n="part3_p048.jpg" xml:id="img_0048" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p048.jpg"/>
             
-            <p facs="#facs_48_tr_2">
-               <lb facs="#facs_48_tr_2_tl_1" n="N001"/>[435]</p>
+            <fw facs="#facs_48_tr_2">
+               <lb facs="#facs_48_tr_2_tl_1" n="N001"/>[435]</fw>
            <p>
                <lb facs="#facs_48_tr_2_tl_2" n="N002"/>that every <rs type="keyword" ref="#Individual">individual</rs> is ultimately isolated from the other one, in the development of his own
                <lb facs="#facs_48_tr_2_tl_3" n="N003"/><rs type="keyword" ref="#Rationality">rationality</rs>. The classical philosophical expression of this situation is <rs type="person" ref="#tillich_person_id__1159">Leibniz’s</rs> monadology, his

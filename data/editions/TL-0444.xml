@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -101,8 +100,8 @@
         <div>
             <pb facs="#TL-0444.jpg" n="part3_p052.jpg" xml:id="img_0052" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p052.jpg"/>
             
-            <p facs="#facs_52_tr_2">
-               <lb facs="#facs_52_tr_2_tl_3" n="N001"/>[439]</p>
+            <fw facs="#facs_52_tr_2">
+               <lb facs="#facs_52_tr_2_tl_3" n="N001"/>[439]</fw>
            <p>
                <lb facs="#facs_52_tr_2_tl_4" n="N002"/>Now when you have these three <rs type="keyword" ref="#Concept">concepts</rs> of the <rs type="keyword" ref="#Individual">individual</rs>, it would be good if you
                <lb facs="#facs_52_tr_2_tl_5" n="N003"/>always keep them asunder and don’t fall into the many traps and confusions which will immediately
@@ -120,7 +119,7 @@
                <lb facs="#facs_52_tr_3_tl_5" n="N005"/>to a set of <rs type="keyword" ref="#Law">laws</rs> whereby one would ask ''Why?'' ''Where do the laws come from?'' ''Why do I have
                <lb facs="#facs_52_tr_3_tl_6" n="N006"/>to be obedient to them?'' If, however, we say that the principle of morality is the principle of the
                <lb facs="#facs_52_tr_1_tl_1" n="N001"/>self-establishment of the <hi style="font-style: italic;">persona</hi> as <hi style="font-style: italic;">persona</hi>, then the situation is different; then it isn’t estranged
-              <lb facs="#facs_52_tr_1_tl_2" n="N002"/>law; then it is WE OURSELVES who are centrally involved in the acts of morality.</p>
+              <lb facs="#facs_52_tr_1_tl_2" n="N002"/>law; then it is <emph rend="allcaps">we ourselves</emph> who are centrally involved in the acts of morality.</p>
            <p>
                <lb facs="#facs_52_tr_1_tl_3" n="N003"/><hi style="font-style: italic;">Persona</hi>--person: where does it come from? The word has a long <rs type="keyword" ref="#History">history</rs>, and it is
                <lb facs="#facs_52_tr_1_tl_5" n="N004"/>very important to know it in order especially to avoid pitfalls in the <rs type="keyword" ref="#Philosophy_of_Religion">philosophy of religion</rs>

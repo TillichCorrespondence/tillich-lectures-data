@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -101,8 +100,8 @@
         <div>
             <pb facs="#TL-0568.jpg" n="part4_p094.jpg" xml:id="img_0094" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p094.jpg"/>
             
-            <p facs="#facs_94_tr_2">
-               <lb facs="#facs_94_tr_2_tl_1" n="N001"/>[563]</p>
+            <fw facs="#facs_94_tr_2">
+               <lb facs="#facs_94_tr_2_tl_1" n="N001"/>[563]</fw>
            <p>
                <lb facs="#facs_94_tr_2_tl_2" n="N002"/>In contrast to this, the idea became predominant that the individual who did
                <lb facs="#facs_94_tr_2_tl_3" n="N003"/>something against the <rs type="keyword" ref="#Law">laws</rs> of his own being and the being of the group, is responsible for it

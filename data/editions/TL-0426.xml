@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -101,10 +100,10 @@
         <div>
             <pb facs="#TL-0426.jpg" n="part3_p034.jpg" xml:id="img_0034" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p034.jpg"/>
             
-            <p facs="#facs_34_tr_3">
-               <lb facs="#facs_34_tr_3_tl_1" n="N001"/>[421]</p>
+            <fw facs="#facs_34_tr_3">
+               <lb facs="#facs_34_tr_3_tl_1" n="N001"/>[421]</fw>
            <p>
-               <lb facs="#facs_34_tr_3_tl_2" n="N002"/>then of course the education IS NOT BETTER, although much smoother and softer than the education
+               <lb facs="#facs_34_tr_3_tl_2" n="N002"/>then of course the education <emph rend="allcaps">is not better</emph>, although much smoother and softer than the education
               <lb facs="#facs_34_tr_3_tl_3" n="N003"/>to a <rs type="keyword" ref="#Totalitarian">totalitarian</rs> ideal. It is in both cases the education to the impossibility to say No!</p>
            <p>
                <lb facs="#facs_34_tr_3_tl_4" n="N004"/>This <rs type="keyword" ref="#Form">form</rs> of education to <rs type="keyword" ref="#Adjustment">adjustment</rs> is always going on, and expresses itself
@@ -117,7 +116,7 @@
                <lb facs="#facs_34_tr_1_tl_5" n="N003"/>development of potentialities--which I called the introductory type; namely introducing into a
                <lb facs="#facs_34_tr_1_tl_6" n="N004"/>group which by its very nature unites concrete symbols with the necessity of protest. For me this is
                <lb facs="#facs_34_tr_1_tl_7" n="N005"/>the <rs type="keyword" ref="#Meaning">meaning</rs> of a Protestant education, which does not necessarily have to be done by the
-               <lb facs="#facs_34_tr_1_tl_8" n="N006"/>Protestant <rs type="keyword" ref="#Church">churches</rs>, although it SHOULD be done by them, but it can be done also by other
+               <lb facs="#facs_34_tr_1_tl_8" n="N006"/>Protestant <rs type="keyword" ref="#Church">churches</rs>, although it <emph rend="allcaps">should</emph> be done by them, but it can be done also by other
                <lb facs="#facs_34_tr_1_tl_9" n="N007"/>agents--home, schools, universities, etc. It is the introduction into something which is in itself
               <lb facs="#facs_34_tr_1_tl_10" n="N008"/>possible only if the <rs type="keyword" ref="#Spirit">spirit</rs> of protest is preserved, and that's what we call <rs type="keyword" ref="#Protestantism">Protestantism</rs>...</p>
            <p>

@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -96,25 +95,25 @@
         <div>
             <pb facs="#TL-0180.jpg" n="part1_p180.jpg" xml:id="img_0180" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p180.jpg"/>
             
-            <p facs="#facs_180_tr_1">
-               <lb facs="#facs_180_tr_1_tl_1" n="N001"/>[176]</p>
+            <fw facs="#facs_180_tr_1">
+               <lb facs="#facs_180_tr_1_tl_1" n="N001"/>[176]</fw>
            <p>
                <lb facs="#facs_180_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Truth_philosophical">Philosophical truth</rs> consists in true <rs type="keyword" ref="#Concept"><rs type="keyword" ref="#Truth_conceptual">concepts</rs> </rs>concerning the manifestation of the ultimate
-               <lb facs="#facs_180_tr_1_tl_3" n="N003"/>in the universe. The <rs type="keyword" ref="#Truth_of_faith">truth of faith</rs> consists in true <rs type="keyword" ref="#Symbols"><rs type="keyword" ref="#Truth_symbolic">symbols</rs> </rs>concerning our existential RELATION
+               <lb facs="#facs_180_tr_1_tl_3" n="N003"/>in the universe. The <rs type="keyword" ref="#Truth_of_faith">truth of faith</rs> consists in true <rs type="keyword" ref="#Symbols"><rs type="keyword" ref="#Truth_symbolic">symbols</rs> </rs>concerning our existential <emph rend="allcaps">relation</emph>
               <lb facs="#facs_180_tr_1_tl_4" n="N004"/>to the ultimate.</p>
            <p>
                <lb facs="#facs_180_tr_1_tl_5" n="N005"/>Now here we are in the center of the problem. The relation between these two is the
                <lb facs="#facs_180_tr_1_tl_6" n="N006"/>problem with which we have to deal; the relation between these two is the problem which has
-               <lb facs="#facs_180_tr_1_tl_7" n="N007"/>ALWAYS been discussed. The first question you will probably raise is, "Why does <rs type="keyword" ref="#Philosophy">philosophy</rs>
+               <lb facs="#facs_180_tr_1_tl_7" n="N007"/><emph rend="allcaps">always</emph> been discussed. The first question you will probably raise is, "Why does <rs type="keyword" ref="#Philosophy">philosophy</rs>
                <lb facs="#facs_180_tr_1_tl_8" n="N008"/>use <rs type="keyword" ref="#Concept">concepts</rs>, and why does <rs type="keyword" ref="#Faith">faith</rs> use <rs type="keyword" ref="#Symbols">symbols,</rs> if both try to express the same <rs type="keyword" ref="#Ultimacy">ultimate</rs>?" The
-               <lb facs="#facs_180_tr_1_tl_9" n="N009"/>answer is, "The DIFFERENCE of the RELATION to the ultimate." In the case of philosophy,
+               <lb facs="#facs_180_tr_1_tl_9" n="N009"/>answer is, "The <emph rend="allcaps">difference</emph> of the <emph rend="allcaps">relation</emph> to the ultimate." In the case of philosophy,
                <lb facs="#facs_180_tr_1_tl_10" n="N010"/>the relation is <rs type="keyword" ref="#Detached_observation">detached description </rs>of the basic structure in which the ultimate manifests itself in
-               <lb facs="#facs_180_tr_1_tl_11" n="N011"/>the universe; in the case of faith, it is the <rs type="keyword" ref="#Involved_expression">INVOLVED expression</rs> of our CONCERN of the
-              <lb facs="#facs_180_tr_1_tl_12" n="N012"/>meaning of ultimate reality FOR US.</p>
+               <lb facs="#facs_180_tr_1_tl_11" n="N011"/>the universe; in the case of faith, it is the <rs type="keyword" ref="#Involved_expression"><emph rend="allcaps">involved</emph> expression</rs> of our <emph rend="allcaps">concern</emph> of the
+              <lb facs="#facs_180_tr_1_tl_12" n="N012"/>meaning of ultimate reality <emph rend="allcaps">for us</emph>.</p>
            <p>
                <lb facs="#facs_180_tr_1_tl_13" n="N013"/>Some of you have read or know <rs type="person" ref="#tillich_person_id__1228">Luther</rs>'s catechisms. In Luther's catechisms, there is
                <lb facs="#facs_180_tr_1_tl_14" n="N014"/>always the phrase "for you," and he says the "for you" demands faithful hearts. Now this
-               <lb facs="#facs_180_tr_1_tl_15" n="N015"/>can lead us to the difference. In the moment in which the relationship has a "FOR YOU" character,
+               <lb facs="#facs_180_tr_1_tl_15" n="N015"/>can lead us to the difference. In the moment in which the relationship has a "<emph rend="allcaps">for you</emph>" character,
                <lb facs="#facs_180_tr_1_tl_17" n="N016"/>it becomes existential. And then we are in the realm of <rs type="keyword" ref="#Faith">faith,</rs> and it is a matter of decision, of daring,
                <lb facs="#facs_180_tr_1_tl_18" n="N017"/>of risk, of doubt, but not of <rs type="keyword" ref="#Detached_observation">detached description.</rs> The philosopher, as a philosopher, gives a detached
                <lb facs="#facs_180_tr_1_tl_20" n="N018"/>description. He speaks of essential and existential being, he speaks of being and becoming, dynamics

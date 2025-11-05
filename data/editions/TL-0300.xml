@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -100,16 +99,16 @@
         <div>
             <pb facs="#TL-0300.jpg" n="part2_p016.jpg" xml:id="img_0016" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p016.jpg"/>
             
-            <p facs="#facs_16_tr_3">
-               <lb facs="#facs_16_tr_3_tl_1" n="N001"/>[296]</p>
+            <fw facs="#facs_16_tr_3">
+               <lb facs="#facs_16_tr_3_tl_1" n="N001"/>[296]</fw>
            <p>
-               <lb facs="#facs_16_tr_3_tl_2" n="N002"/>scientific work; it is a work of <rs type="keyword" ref="#Art">art</rs>. And by the work of art, if it is really a work of ART---and there are
+               <lb facs="#facs_16_tr_3_tl_2" n="N002"/>scientific work; it is a work of <rs type="keyword" ref="#Art">art</rs>. And by the work of art, if it is really a work of <emph rend="allcaps">art</emph>---and there are
                <lb facs="#facs_16_tr_3_tl_3" n="N003"/>great works of art in the naturalistic line---it becomes something else. This "something else" is the
                <lb facs="#facs_16_tr_3_tl_4" n="N004"/>discovery of the artistic dimension, about which I will speak later.</p>
            <p>
                <lb facs="#facs_16_tr_3_tl_5" n="N005"/>The <rs type="keyword" ref="#Naturalism">naturalistic</rs><rs type="keyword" ref="#Art">art</rs> has the predominant emphasis on the <rs type="keyword" ref="#Cognitive">cognitive</rs> element of art,
                <lb facs="#facs_16_tr_3_tl_6" n="N006"/>on grasping reality, and fog forgets (this is the criticism which has often been made against it---and rightly)
-               <lb facs="#facs_16_tr_2_tl_1" n="N001"/>that the ARTISTIC form of grasping reality is not the ordinary form of scientific or daily-life approach
+               <lb facs="#facs_16_tr_2_tl_1" n="N001"/>that the <emph rend="allcaps">artistic</emph> form of grasping reality is not the ordinary form of scientific or daily-life approach
                <lb facs="#facs_16_tr_2_tl_2" n="N002"/>but is another one, which is determined and should be determined by the artistic dimension. Now what this is
               <lb facs="#facs_16_tr_2_tl_3" n="N003"/>I will discuss later when I come to artistic symbols.</p>
            <p>

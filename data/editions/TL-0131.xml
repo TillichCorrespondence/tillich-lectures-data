@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -97,8 +96,8 @@
         <div>
             <pb facs="#TL-0131.jpg" n="part1_p131.jpg" xml:id="img_0131" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p131.jpg"/>
             
-           <p facs="#facs_131_tr_2">
-              <lb facs="#facs_131_tr_2_tl_1" n="N001"/>[128]</p>
+           <fw facs="#facs_131_tr_2">
+              <lb facs="#facs_131_tr_2_tl_1" n="N001"/>[128]</fw>
            <p>
                <lb facs="#facs_131_tr_2_tl_2" n="N002"/>many periods whereby the present is usually considered to be the last, and the first one is considered
                <lb facs="#facs_131_tr_2_tl_3" n="N003"/>as the Golden Age, or the period of the Paradise, and after this worst-of-all periods will come to an

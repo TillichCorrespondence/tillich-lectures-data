@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -108,8 +107,8 @@
         <div>
             <pb facs="#TL-0064.jpg" n="part1_p064.jpg" xml:id="img_0064" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p064.jpg"/>
             
-            <p facs="#facs_64_tr_1">
-               <lb facs="#facs_64_tr_1_tl_1" n="N001"/>[61]</p>
+            <fw facs="#facs_64_tr_1">
+               <lb facs="#facs_64_tr_1_tl_1" n="N001"/>[61]</fw>
            <p>
                <lb facs="#facs_64_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Literalism">Literalism</rs> deprives <rs type="keyword" ref="#God">God</rs> of His <rs type="keyword" ref="#Ultimacy">ultimacy</rs>; religiously speaking, of His majesty.
                <lb facs="#facs_64_tr_1_tl_3" n="N003"/>It draws Him down to the level of that which is, by its very nature, not ultimate:
@@ -126,7 +125,7 @@
                <lb facs="#facs_64_tr_1_tl_16" n="N013"/>undistinguishable for human consciousness. The primitive period of human groups and of
                <lb facs="#facs_64_tr_1_tl_17" n="N014"/>individuals in all periods consists in the inability to separate the creations of symbolic
                <lb facs="#facs_64_tr_1_tl_18" n="N015"/>imagination from the facts which can be verified through observation and experiment.
-               <lb facs="#facs_64_tr_1_tl_19" n="N016"/>This stage of the human mind is FULLY JUSTIFIED, and should not be disturbed
+               <lb facs="#facs_64_tr_1_tl_19" n="N016"/>This stage of the human mind is <emph rend="allcaps">fully justified</emph>, and should not be disturbed
                <lb facs="#facs_64_tr_1_tl_20" n="N017"/>artificially, if somebody lives in it. It should not be disturbed, either in individuals or
                <lb facs="#facs_64_tr_1_tl_21" n="N018"/>groups, up to the decisive moment in which man's questioning mind breaks the natural
                <lb facs="#facs_64_tr_1_tl_22" n="N019"/>acceptance of the mythological visions as literal in their meaning. If this moment has
@@ -137,7 +136,7 @@
                <lb facs="#facs_64_tr_1_tl_27" n="N024"/>symbolic character of the <rs type="keyword" ref="#Mythological">mythological</rs> symbols. This is the way which is objectively
                <lb facs="#facs_64_tr_1_tl_28" n="N025"/>demanded, although it is impossible for many people who prefer the repression of
                <lb facs="#facs_64_tr_1_tl_29" n="N026"/>their questions to any kind of unsafety which appears with the breaking of the myth. People
-               <lb facs="#facs_64_tr_1_tl_30" n="N027"/>who WANT to remain safe, they are forced into the second stage of literalism--the
+               <lb facs="#facs_64_tr_1_tl_30" n="N027"/>who <emph rend="allcaps">want</emph> to remain safe, they are forced into the second stage of literalism--the
                <lb facs="#facs_64_tr_1_tl_31" n="N028"/>conscious one--in which they repress the questions which have come up in their minds.
                <lb facs="#facs_64_tr_1_tl_32" n="N029"/>And this is the wrong way, the way of <rs type="keyword" ref="#Repression">repression</rs>. The tool of repression is usually
                <lb facs="#facs_64_tr_1_tl_33" n="N030"/>an acknowledged authority--the sacred qualities (like Church or <rs type="keyword" ref="#Bible">Bible</rs>) to which one

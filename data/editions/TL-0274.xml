@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -96,8 +95,8 @@
         <div>
             <pb facs="#TL-0274.jpg" n="part1_p274.jpg" xml:id="img_0274" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p274.jpg"/>
             
-            <p facs="#facs_274_tr_1">
-               <lb facs="#facs_274_tr_1_tl_1" n="N001"/>[270]</p>
+            <fw facs="#facs_274_tr_1">
+               <lb facs="#facs_274_tr_1_tl_1" n="N001"/>[270]</fw>
            <p>
               <lb facs="#facs_274_tr_1_tl_2" n="N002"/>in connection with the <rs type="keyword" ref="#Doctrine_of_man">doctrine of man.</rs></p>
            <p>
@@ -107,18 +106,18 @@
            <p>
                <lb facs="#facs_274_tr_1_tl_6" n="N006"/>I prefer this word to "<rs type="keyword" ref="#Psychology">psychology</rs>." My friend <rs type="person" ref="#tillich_person_id__697">Kurt Goldstein</rs>, to whom I have referred several
                <lb facs="#facs_274_tr_1_tl_7" n="N007"/>times in these lectures, says there is no such a thing as "psychology" because if you speak of "psychology,"
-               <lb facs="#facs_274_tr_1_tl_8" n="N008"/>you assume that that which is the object of psychology is something which in NO way can be separated
+               <lb facs="#facs_274_tr_1_tl_8" n="N008"/>you assume that that which is the object of psychology is something which in <emph rend="allcaps">no</emph> way can be separated
                <lb facs="#facs_274_tr_1_tl_9" n="N009"/>from the totality of man's biological and physical reality, and that, he believes, cannot be done. I think
-               <lb facs="#facs_274_tr_1_tl_10" n="N010"/>he is right in this. Of course there are always abstract relations which CAN be separated, but if they
-               <lb facs="#facs_274_tr_1_tl_11" n="N011"/>are, they are not only true but also wrong JUST BECAUSE they are separated. Remember when I
-               <lb facs="#facs_274_tr_1_tl_12" n="N012"/>spoke about <rs type="keyword" ref="#Gestalt">gestalt</rs>, that this was the decisive point, that the ANTI-gestalt thinking is always based
+               <lb facs="#facs_274_tr_1_tl_10" n="N010"/>he is right in this. Of course there are always abstract relations which <emph rend="allcaps">can</emph> be separated, but if they
+               <lb facs="#facs_274_tr_1_tl_11" n="N011"/>are, they are not only true but also wrong <emph rend="allcaps">just because</emph> they are separated. Remember when I
+               <lb facs="#facs_274_tr_1_tl_12" n="N012"/>spoke about <rs type="keyword" ref="#Gestalt">gestalt</rs>, that this was the decisive point, that the <emph rend="allcaps">anti</emph>-gestalt thinking is always based
                <lb facs="#facs_274_tr_1_tl_13" n="N013"/>on separating functions or parts from the whole and then subjecting itself to partial analysis in terms
-               <lb facs="#facs_274_tr_1_tl_14" n="N014"/>of stimulus and response, of COURSE coming to results which SEEM to reduce man, in the <rs type="keyword" ref="#Cartesian_philosophy">Cartesian</rs>
+               <lb facs="#facs_274_tr_1_tl_14" n="N014"/>of stimulus and response, of <emph rend="allcaps">course</emph> coming to results which <emph rend="allcaps">seem</emph> to reduce man, in the <rs type="keyword" ref="#Cartesian_philosophy">Cartesian</rs>
                <lb facs="#facs_274_tr_1_tl_15" n="N015"/>sense, to a machine. If you realize, however, that this is an abstract procedure which must be re-integrated
                <lb facs="#facs_274_tr_1_tl_16" n="N016"/>into the whole of the living gestalt, then you immediately see that here a methodological prejudice
               <lb facs="#facs_274_tr_1_tl_17" n="N017"/>ruins the real understanding of what man is.</p>
            <p>
-               <lb facs="#facs_274_tr_1_tl_18" n="N018"/>Now on this basis I want to say what I believe are the important INdirect contributions of
+               <lb facs="#facs_274_tr_1_tl_18" n="N018"/>Now on this basis I want to say what I believe are the important <emph rend="allcaps">in</emph>direct contributions of
                <lb facs="#facs_274_tr_1_tl_19" n="N019"/><rs type="keyword" ref="#Depth_psychology">depth psychology</rs> to the whole of our understanding of man and world, and especially to the <rs type="keyword" ref="#Doctrine_of_man">doctrine of man</rs>..
             </p>
             

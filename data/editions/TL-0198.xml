@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -91,8 +90,8 @@
         <div>
             <pb facs="#TL-0198.jpg" n="part1_p198.jpg" xml:id="img_0198" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p198.jpg"/>
             
-            <p facs="#facs_198_tr_1">
-               <lb facs="#facs_198_tr_1_tl_1" n="N001"/>[194]</p>
+            <fw facs="#facs_198_tr_1">
+               <lb facs="#facs_198_tr_1_tl_1" n="N001"/>[194]</fw>
            <p>
                <lb facs="#facs_198_tr_1_tl_2" n="N002"/>and are of great importance for the relation of philosophy and theology. This is the one problem,
                <lb facs="#facs_198_tr_1_tl_3" n="N003"/>with which we have to deal. The other problem is an application of what l said in principle, and
@@ -100,14 +99,14 @@
                <lb facs="#facs_198_tr_1_tl_5" n="N005"/>special philosophies, and special philosophical problems (naturalism and idealism, nominalism and
                <lb facs="#facs_198_tr_1_tl_6" n="N006"/>realism, static and dynamic philosophy, etc.)---how in the solutions given by the philosophers to
                <lb facs="#facs_198_tr_1_tl_7" n="N007"/>these mere philosophical problems the two elements which l have distinguished in the beginning of
-               <lb facs="#facs_198_tr_1_tl_8" n="N008"/>this lecture, APPEAR, ARE MANIFEST, and can be seen, namely the element of <rs type="keyword" ref="#Detached_observation">detached observation,</rs>
+               <lb facs="#facs_198_tr_1_tl_8" n="N008"/>this lecture, <emph rend="allcaps">appear</emph>, <emph rend="allcaps">are manifest</emph>, and can be seen, namely the element of <rs type="keyword" ref="#Detached_observation">detached observation,</rs>
                <lb facs="#facs_198_tr_1_tl_9" n="N009"/>in [the] special sense <rs type="keyword" ref="#Philosophy">philosophical</rs> element, and on the other hand the element of <rs type="keyword" ref="#Ultimate_Concern">ultimate concern,</rs>
                <lb facs="#facs_198_tr_1_tl_10" n="N010"/>the element of <rs type="keyword" ref="#Faith">faith. </rs>Now l believe that it is possible, almost page by page, to analyze a philosopher
               <lb facs="#facs_198_tr_1_tl_11" n="N011"/>from the point of view of this distinction.</p>
            <p>
                <lb facs="#facs_198_tr_1_tl_12" n="N012"/>I will close with a personal experience. When I first read <rs type="person" ref="#tillich_person_id__457">John Dewey,</rs> l was told, "Now here
                <lb facs="#facs_198_tr_1_tl_13" n="N013"/>you have a philosopher without any religious and metaphysical presuppositions." After two pages,
-               <lb facs="#facs_198_tr_1_tl_14" n="N014"/>I had discovered a DOZEN---and that, I will show next time.
+               <lb facs="#facs_198_tr_1_tl_14" n="N014"/>I had discovered a <emph rend="allcaps">dozen</emph>---and that, I will show next time.
             </p>
             
         </div>

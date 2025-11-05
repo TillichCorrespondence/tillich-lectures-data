@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -102,35 +101,35 @@
         <div>
             <pb facs="#TL-0151.jpg" n="part1_p151.jpg" xml:id="img_0151" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p151.jpg"/>
             
-            <p facs="#facs_151_tr_2">
-               <lb facs="#facs_151_tr_2_tl_1" n="N001"/>[148]</p>
+            <fw facs="#facs_151_tr_2">
+               <lb facs="#facs_151_tr_2_tl_1" n="N001"/>[148]</fw>
            <p>
               <lb facs="#facs_151_tr_2_tl_2" n="N002"/>but have made something "third" out of him, [by] their own organs of reception.</p>
            <p>
                <lb facs="#facs_151_tr_2_tl_3" n="N003"/>The same is true, of course, of the biblical literature. And since l have to speak anyhow
                <lb facs="#facs_151_tr_2_tl_4" n="N004"/>about it more than in my former lectures, in these [remarks] on history let me say immediately the
-               <lb facs="#facs_151_tr_2_tl_5" n="N005"/>following: THERE IS NO ONE WHO HAS NOT MADE SOMETHING "THIRD" OUT OF THE
-               <lb facs="#facs_151_tr_2_tl_6" n="N006"/>BIBLICAL TEXTS AND HIS PARTICIPATION OF UNDERSTANDING IN THEM. Therefore
+               <lb facs="#facs_151_tr_2_tl_5" n="N005"/>following: <emph rend="allcaps">there is no one who has not made something</emph> "<emph rend="allcaps">third</emph>" <emph rend="allcaps">out of the</emph>
+               <lb facs="#facs_151_tr_2_tl_6" n="N006"/><emph rend="allcaps">biblical texts and his participation of understanding in them</emph>. Therefore
                <lb facs="#facs_151_tr_2_tl_7" n="N007"/>the history of commentaries is a continuous history going on through all centuries, and the present-
                <lb facs="#facs_151_tr_2_tl_8" n="N008"/>day commentaries contain the same texts---almost the same, with very few changes---and in most
-               <lb facs="#facs_151_tr_2_tl_9" n="N009"/>cases where EXACTLY the same texts are used, the commentaries today say something quite different
+               <lb facs="#facs_151_tr_2_tl_9" n="N009"/>cases where <emph rend="allcaps">exactly</emph> the same texts are used, the commentaries today say something quite different
                <lb facs="#facs_151_tr_2_tl_10" n="N010"/>than the commentaries by <rs type="person" ref="#tillich_person_id__1429">Origen</rs> or <rs type="person" ref="#tillich_person_id__100">Augustine</rs> or earlier commentaries. Now this means that
                <lb facs="#facs_151_tr_2_tl_11" n="N011"/>the commentary to a text is a creation of a special type of truth: it is the truth of <rs type="keyword" ref="#Understanding">understanding</rs>.
-               <lb facs="#facs_151_tr_2_tl_12" n="N012"/>But don’t misunderstand ME, now! I do NOT mean to say that the commentator, the interpreter
-               <lb facs="#facs_151_tr_2_tl_13" n="N013"/>of a text, simply makes something new out of it, says his OWN thought, in terms of a commentary.
+               <lb facs="#facs_151_tr_2_tl_12" n="N012"/>But don’t misunderstand <emph rend="allcaps">me</emph>, now! I do <emph rend="allcaps">not</emph> mean to say that the commentator, the interpreter
+               <lb facs="#facs_151_tr_2_tl_13" n="N013"/>of a text, simply makes something new out of it, says his <emph rend="allcaps">own</emph> thought, in terms of a commentary.
                <lb facs="#facs_151_tr_2_tl_14" n="N014"/>Then he is not a commentator---then he is a systematic theologian <hi style="font-style: italic;">[some laughter]</hi>. And I know
                <lb facs="#facs_151_tr_2_tl_15" n="N015"/>some commentators who were systematic theologians and who used---for instance <rs type="person" ref="#tillich_person_id__137">Karl Barth</rs> on
-               <lb facs="#facs_151_tr_2_tl_16" n="N016"/>Paul's <hi style="font-style: italic;">Letter to the Romans</hi>, [written] IN ORDER TO EXPRESS Barth’s THEOLOGY, using the
-               <lb facs="#facs_151_tr_2_tl_17" n="N017"/>Pauline text but not even INTENDING to give a real commentary, in terms of understanding of
+               <lb facs="#facs_151_tr_2_tl_16" n="N016"/>Paul's <hi style="font-style: italic;">Letter to the Romans</hi>, [written] <emph rend="allcaps">in order to express</emph> Barth’s <emph rend="allcaps">theology</emph>, using the
+               <lb facs="#facs_151_tr_2_tl_17" n="N017"/>Pauline text but not even <emph rend="allcaps">intending</emph> to give a real commentary, in terms of understanding of
                <lb facs="#facs_151_tr_2_tl_18" n="N018"/>Paul. Now this is an extreme case, and we have other people who did the same thing, and
                <lb facs="#facs_151_tr_2_tl_19" n="N019"/>sometimes a very fruitful case---I still believe that this commentary on Romans is Karl Barth's
               <lb facs="#facs_151_tr_2_tl_20" n="N020"/>by far the best book. But you shouldn’t take it if you want to understand Paul.</p>
            <p>
-               <lb facs="#facs_151_tr_2_tl_21" n="N021"/>Now the same was done, for instance, by another very good book, which l ALSO
+               <lb facs="#facs_151_tr_2_tl_21" n="N021"/>Now the same was done, for instance, by another very good book, which l <emph rend="allcaps">also</emph>
                <lb facs="#facs_151_tr_2_tl_22" n="N022"/>would call perhaps his best book, namely <rs type="person" ref="#tillich_person_id__841">Heidegger's</rs> commentary on <rs type="person" ref="#tillich_person_id__1020">Kant</rs>, which is a really
                <lb facs="#facs_151_tr_2_tl_23" n="N023"/>great book, in which he interprets Kant existentially, or existentialistically, and this interpretation
-               <lb facs="#facs_151_tr_2_tl_24" n="N024"/>is a GREAT WORK of philosophy, a tremendous thought. But if you want to know what Kant
-               <lb facs="#facs_151_tr_2_tl_25" n="N025"/>HAS SAID, please don't use it and quote it in your papers about Kant. But if you want to RELATE
+               <lb facs="#facs_151_tr_2_tl_24" n="N024"/>is a <emph rend="allcaps">great work</emph> of philosophy, a tremendous thought. But if you want to know what Kant
+               <lb facs="#facs_151_tr_2_tl_25" n="N025"/><emph rend="allcaps">has said</emph>, please don't use it and quote it in your papers about Kant. But if you want to <emph rend="allcaps">relate</emph>
             </p>
             
         </div>

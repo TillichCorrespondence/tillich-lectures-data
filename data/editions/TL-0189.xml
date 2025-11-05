@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -97,8 +96,8 @@
         <div>
             <pb facs="#TL-0189.jpg" n="part1_p189.jpg" xml:id="img_0189" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p189.jpg"/>
             
-            <p facs="#facs_189_tr_2">
-               <lb facs="#facs_189_tr_2_tl_1" n="N001"/>[185]</p>
+            <fw facs="#facs_189_tr_2">
+               <lb facs="#facs_189_tr_2_tl_1" n="N001"/>[185]</fw>
            <p>
                <lb facs="#facs_189_tr_2_tl_2" n="N002"/>But if this is the case, then this also includes the element of metaphysical passion, which you can
               <lb facs="#facs_189_tr_2_tl_3" n="N003"/>observe in all the great <rs type="keyword" ref="#Physics">physicists</rs> beginning with <rs type="person" ref="#tillich_person_id__1384">Newton</rs> himself, and all the following physicists.</p>
@@ -114,11 +113,11 @@
               <lb facs="#facs_189_tr_2_tl_11" n="N011"/>doing---and they could be pardoned if they were primitive, but unfortunately they are not.</p>
            <p>
                <lb facs="#facs_189_tr_2_tl_12" n="N012"/>It's quite obvious that every task of the historian, beyond the finding of facts,
-               <lb facs="#facs_189_tr_2_tl_13" n="N013"/>is dependent on valuations of historical factors. What has EFFECT [a fact?] on man as acting
+               <lb facs="#facs_189_tr_2_tl_13" n="N013"/>is dependent on valuations of historical factors. What has <emph rend="allcaps">effect</emph> [a fact?] on man as acting
                <lb facs="#facs_189_tr_2_tl_14" n="N014"/>in history? [?] To answer such a question, you must consciously or unconsciously have a doctrine
                <lb facs="#facs_189_tr_2_tl_15" n="N015"/>of the nature of man. Many presentday factual historians, in all realms of life---take simply the
-               <lb facs="#facs_189_tr_2_tl_16" n="N016"/>history of <rs type="keyword" ref="#Economy">economics:</rs> there you HAVE presuppositions about the nature of man, and it was the
-               <lb facs="#facs_189_tr_2_tl_17" n="N017"/>false presupposition of classical economics to believe that man can ECONOMICALLY be defined
+               <lb facs="#facs_189_tr_2_tl_16" n="N016"/>history of <rs type="keyword" ref="#Economy">economics:</rs> there you <emph rend="allcaps">have</emph> presuppositions about the nature of man, and it was the
+               <lb facs="#facs_189_tr_2_tl_17" n="N017"/>false presupposition of classical economics to believe that man can <emph rend="allcaps">economically</emph> be defined
                <lb facs="#facs_189_tr_2_tl_18" n="N018"/>as that being which follows the laws of the market, buying at the lowest possible price and selling
                <lb facs="#facs_189_tr_2_tl_19" n="N019"/>at the highest. Actually, the psychology of man is absolutely different from this law, which is a
                <lb facs="#facs_189_tr_2_tl_20" n="N020"/>mere abstraction and can be used for mathematical equations as they appear in economics today.

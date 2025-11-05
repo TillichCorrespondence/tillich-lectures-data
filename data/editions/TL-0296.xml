@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -98,31 +97,31 @@
         <div>
             <pb facs="#TL-0296.jpg" n="part2_p012.jpg" xml:id="img_0012" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p012.jpg"/>
             
-            <p facs="#facs_12_tr_2">
-               <lb facs="#facs_12_tr_2_tl_1" n="N001"/>[292]</p>
+            <fw facs="#facs_12_tr_2">
+               <lb facs="#facs_12_tr_2_tl_1" n="N001"/>[292]</fw>
            <p>
                <lb facs="#facs_12_tr_2_tl_2" n="N002"/>You will receive one or two books [i.e. book titles] for each of these subjects. I wanted to
                <lb facs="#facs_12_tr_2_tl_3" n="N003"/>cover, if possible, all realms of study at a university ---at least the larger realms; or [sic.] course one cannot
               <lb facs="#facs_12_tr_2_tl_4" n="N004"/>go into every specialty.</p>
            <p>
-              <lb facs="#facs_12_tr_2_tl_5" n="N005"/>QN: <hi style="font-style: italic;">[On medicine]</hi> ---</p>
+              <lb facs="#facs_12_tr_2_tl_5" n="N005"/><emph rend="allcaps">QN</emph>:<hi style="font-style: italic;">[On medicine]</hi> ---</p>
            <p>
-              <lb facs="#facs_12_tr_2_tl_6" n="N006"/>PT: Yes, but I discussed it at the end of last semester in the connection of the problem of healing.</p>
+              <lb facs="#facs_12_tr_2_tl_6" n="N006"/><emph rend="allcaps"><rs type="person" ref="#tillich_person_id__1928">PT</rs></emph>: Yes, but I discussed it at the end of last semester in the connection of the problem of healing.</p>
            <p>
-              <lb facs="#facs_12_tr_2_tl_7" n="N007"/>QN: But it was too short!</p>
+              <lb facs="#facs_12_tr_2_tl_7" n="N007"/><emph rend="allcaps">QN</emph>:But it was too short!</p>
            <p>
-               <lb facs="#facs_12_tr_2_tl_8" n="N008"/>PT: I accept this criticism wholeheartedly, and I will see what can be done about it. Please keep
+               <lb facs="#facs_12_tr_2_tl_8" n="N008"/><emph rend="allcaps"><rs type="person" ref="#tillich_person_id__1928">PT</rs></emph>: I accept this criticism wholeheartedly, and I will see what can be done about it. Please keep
                <lb facs="#facs_12_tr_2_tl_9" n="N009"/>reminding me of it. . . A group of medical students have invited me to discuss with them. . .
                <lb facs="#facs_12_tr_2_tl_10" n="N010"/>Any other question? Of course these things should be existential, ie. [sic.], they should concern your
               <lb facs="#facs_12_tr_2_tl_11" n="N011"/>real academic existence.</p>
            <p>
                <lb facs="#facs_12_tr_3_tl_1" n="N001"/>Let me say a few words in the last two minutes. The <rs type="keyword" ref="#Art">artistic </rs>realm belongs in one sense to
-               <lb facs="#facs_12_tr_3_tl_2" n="N002"/>the realm of RECEIVING reality. I had many discussions in philosophical groups how much cognitive
+               <lb facs="#facs_12_tr_3_tl_2" n="N002"/>the realm of <emph rend="allcaps">receiving</emph> reality. I had many discussions in philosophical groups how much cognitive
                <lb facs="#facs_12_tr_3_tl_3" n="N003"/>elements are in arts. And I believe there are some; reality is grasped in a dimension which is different,
                <lb facs="#facs_12_tr_3_tl_4" n="N004"/>of course, from the other cognitive realms. But that is only the one side of art; there are two more.
-               <lb facs="#facs_12_tr_3_tl_5" n="N005"/>The one is the expressive power of art. Before being anything else, art is EXPRESSION, expression in a
+               <lb facs="#facs_12_tr_3_tl_5" n="N005"/>The one is the expressive power of art. Before being anything else, art is <emph rend="allcaps">expression</emph>, expression in a
                <lb facs="#facs_12_tr_3_tl_6" n="N006"/>form which is the special artistic form. In former centuries one called that "beautiful." Today,
-               <lb facs="#facs_12_tr_3_tl_7" n="N007"/>"beautiful" is identified with a special type of beautifying naturalism, which is a LESS valuable style
+               <lb facs="#facs_12_tr_3_tl_7" n="N007"/>"beautiful" is identified with a special type of beautifying naturalism, which is a <emph rend="allcaps">less</emph> valuable style
                <lb facs="#facs_12_tr_3_tl_8" n="N008"/>of all styles of art. Therefore we avoid the term today.
             </p>
             

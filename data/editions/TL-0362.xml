@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -101,12 +100,12 @@
         <div>
             <pb facs="#TL-0362.jpg" n="part2_p078.jpg" xml:id="img_0078" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p078.jpg"/>
             
-            <p facs="#facs_78_tr_1">
-               <lb facs="#facs_78_tr_1_tl_1" n="N001"/>[357]</p>
+            <fw facs="#facs_78_tr_1">
+               <lb facs="#facs_78_tr_1_tl_1" n="N001"/>[357]</fw>
            <p>
               <lb facs="#facs_78_tr_1_tl_2" n="N002"/>--not a visible triumph as such.</p>
            <p>
-               <lb facs="#facs_78_tr_1_tl_3" n="N003"/>31) <rs type="person" ref="#tillich_person_id__1580">REMBRANDT</rs>, <hi style="font-style: italic;">DESCENT FROM THE CROSS</hi>--Now here I only ask you to look at it,
+               <lb facs="#facs_78_tr_1_tl_3" n="N003"/>31) <rs type="person" ref="#tillich_person_id__1580">REMBRANDT</rs>, <emph rend="allcaps italic">DESCENT FROM THE CROSS</emph>--Now here I only ask you to look at it,
                <lb facs="#facs_78_tr_1_tl_4" n="N004"/>to compare it with this beautifying <rs type="keyword" ref="#Naturalism">naturalism</rs> which we have seen, and the infinite superiority,
               <lb facs="#facs_78_tr_1_tl_5" n="N005"/>religiously speaking, of such a picture.</p>
            <p>
@@ -123,8 +122,8 @@
                <lb facs="#facs_78_tr_3_tl_6" n="N006"/>of what I called expressionism is united with <rs type="keyword" ref="#Understanding">understanding</rs> of the natural forms in a way which cannot
               <lb facs="#facs_78_tr_2_tl_1" n="N001"/>artificially be produced and certainly not imitated.</p>
            <p>
-               <lb facs="#facs_78_tr_2_tl_2" n="N002"/>33) GRÜNEWALD, <hi style="font-style: italic;">RESURRECTION</hi>--It is on the same [Isenheim] altarpiece--and I want to
-               <lb facs="#facs_78_tr_2_tl_3" n="N003"/>say this is almost the ONLY picture of <rs type="keyword" ref="#Resurrection">resurrection</rs> which I personally can accept because it doesn't
+               <lb facs="#facs_78_tr_2_tl_2" n="N002"/>33) GRÜNEWALD, <emph rend="allcaps italic">RESURRECTION</emph>--It is on the same [Isenheim] altarpiece--and I want to
+               <lb facs="#facs_78_tr_2_tl_3" n="N003"/>say this is almost the <emph rend="allcaps">only</emph> picture of <rs type="keyword" ref="#Resurrection">resurrection</rs> which I personally can accept because it doesn't
                <lb facs="#facs_78_tr_2_tl_4" n="N004"/>make the resurrection into a physical event of special events of a special <rs type="keyword" ref="#Body">body</rs>, but it puts the body
             </p>
             

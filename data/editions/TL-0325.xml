@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -100,8 +99,8 @@
         <div>
             <pb facs="#TL-0325.jpg" n="part2_p041.jpg" xml:id="img_0041" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p041.jpg"/>
             
-            <p facs="#facs_41_tr_1">
-               <lb facs="#facs_41_tr_1_tl_1" n="N001"/>[321]</p>
+            <fw facs="#facs_41_tr_1">
+               <lb facs="#facs_41_tr_1_tl_1" n="N001"/>[321]</fw>
            <p>
                <lb facs="#facs_41_tr_1_tl_2" n="N002"/>The phenomenon of <rs type="keyword" ref="#Double_symbolization">double symbolization</rs>: – You have the holy legend, the story of [the]
                <lb facs="#facs_41_tr_1_tl_3" n="N003"/><rs type="keyword" ref="#Passion">Passion</rs>, of Jesus as the Christ. It is a ritual legend with, [like] all legend, a strong historical foundation,
@@ -118,9 +117,9 @@
                <lb facs="#facs_41_tr_3_tl_5" n="N005"/>demands or not. This is the aesthetic experience many people have who go to religious music. But
                <lb facs="#facs_41_tr_3_tl_6" n="N006"/>when the churches started to ask people to come into the churches, when <rs type="person" ref="#tillich_person_id__107">Bach</rs>'s <hi style="font-style: italic;">Passion</hi> or
                <lb facs="#facs_41_tr_2_tl_3" n="N001"/>others were performed, then another idea was behind them: they wanted at the same time to mediate
-               <lb facs="#facs_41_tr_2_tl_4" n="N002"/>the religious power of the <rs type="keyword" ref="#Symbols_religious">RELIGIOUS symbols,</rs> which appear doubly symbolized in the MUSICAL
+               <lb facs="#facs_41_tr_2_tl_4" n="N002"/>the religious power of the <rs type="keyword" ref="#Symbols_religious"><emph rend="allcaps">religious</emph> symbols,</rs> which appear doubly symbolized in the <emph rend="allcaps">musical</emph>
                <lb facs="#facs_41_tr_2_tl_5" n="N003"/>symbols. And the question in every visitor is always: do you listen in terms of your <rs type="keyword" ref="#Ultimate_Concern">ultimate concern</rs>
-               <lb facs="#facs_41_tr_2_tl_6" n="N004"/>and DISregard the aesthetic form?---or do you listen in terms of an aesthetic judge who perhaps has
+              <lb facs="#facs_41_tr_2_tl_6" n="N004"/>and <emph rend="allcaps">dis</emph>regard the aesthetic form?---or do you listen in terms of an aesthetic judge who perhaps has
             </p>
             
         </div>

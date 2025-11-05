@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -97,8 +96,8 @@
         <div>
             <pb facs="#TL-0246.jpg" n="part1_p246.jpg" xml:id="img_0246" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p246.jpg"/>
             
-            <p facs="#facs_246_tr_1">
-               <lb facs="#facs_246_tr_1_tl_1" n="N001"/>[242]</p>
+            <fw facs="#facs_246_tr_1">
+               <lb facs="#facs_246_tr_1_tl_1" n="N001"/>[242]</fw>
            <p>
                <lb facs="#facs_246_tr_1_tl_2" n="N002"/>each other in all history, which come to a turning point with the appearance of <rs type="person" ref="#tillich_person_id__2979">Zoroaster</rs> as
                <lb facs="#facs_246_tr_1_tl_3" n="N003"/>prophet, and which comes to an end, a final catastrophe, in the burning of the world by the
@@ -120,7 +119,7 @@
            <p>
                <lb facs="#facs_246_tr_1_tl_17" n="N016"/>I want to return to the more poetic-dramatic form, namely man losing himself and finding
                <lb facs="#facs_246_tr_1_tl_18" n="N017"/>himself again, which is repeated more than once in Western history. Let me describe it fully.
-               <lb facs="#facs_246_tr_1_tl_19" n="N018"/>Man is that being which is DEFINED by the possibility of asking the question of himself. Man
+               <lb facs="#facs_246_tr_1_tl_19" n="N018"/>Man is that being which is <emph rend="allcaps">defined</emph> by the possibility of asking the question of himself. Man
                <lb facs="#facs_246_tr_1_tl_20" n="N019"/>asks "What am I? and what is the world which l encounter in relation to me?" This is the
                <lb facs="#facs_246_tr_1_tl_21" n="N020"/>question of children, this is the question of the primitive mythologically creative mind.
             </p>

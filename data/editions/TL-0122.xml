@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -97,13 +96,13 @@
         <div>
             <pb facs="#TL-0122.jpg" n="part1_p122.jpg" xml:id="img_0122" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p122.jpg"/>
             
-            <p facs="#facs_122_tr_3">
-               <lb facs="#facs_122_tr_3_tl_1" n="N001"/>[119]</p>
+            <fw facs="#facs_122_tr_3">
+               <lb facs="#facs_122_tr_3_tl_1" n="N001"/>[119]</fw>
            <p>
                <lb facs="#facs_122_tr_3_tl_2" n="N002"/>to distinguish the scientific probabilities which are confirmed or refuted by continously-going-on [sic.]
                <lb facs="#facs_122_tr_3_tl_3" n="N003"/>experimentation--on the one side, where nobody or nothing is allowed to interfere, neither a
                <lb facs="#facs_122_tr_3_tl_4" n="N004"/>totalitarian state nor authoritarian religion; and that, on the other hand, there is the dimension of
-               <lb facs="#facs_122_tr_3_tl_5" n="N005"/><rs type="keyword" ref="#Ultimate_Concern">ultimate concern</rs>, its experiences and its <rs type="keyword" ref="#Symbols">symbols</rs>. These experiences cannot be denied EITHER,
+               <lb facs="#facs_122_tr_3_tl_5" n="N005"/><rs type="keyword" ref="#Ultimate_Concern">ultimate concern</rs>, its experiences and its <rs type="keyword" ref="#Symbols">symbols</rs>. These experiences cannot be denied <emph rend="allcaps">either</emph>,
                <lb facs="#facs_122_tr_3_tl_6" n="N006"/>and if they are, then you must show to the people who do so that they don’t deny them in the name
                <lb facs="#facs_122_tr_3_tl_7" n="N007"/>of their scientific method but in the name of their theological or metaphysical presuppositions of
               <lb facs="#facs_122_tr_3_tl_8" n="N008"/>which they are not aware.</p>

@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -97,10 +96,10 @@
         <div>
             <pb facs="#TL-0252.jpg" n="part1_p252.jpg" xml:id="img_0252" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p252.jpg"/>
             
-            <p facs="#facs_252_tr_1">
-               <lb facs="#facs_252_tr_1_tl_1" n="N001"/>[248]</p>
+            <fw facs="#facs_252_tr_1">
+               <lb facs="#facs_252_tr_1_tl_1" n="N001"/>[248]</fw>
            <p>
-               <lb facs="#facs_252_tr_1_tl_2" n="N002"/>But is this MAN? This is the question. Is this not a self-loss of man, in his own creation?
+               <lb facs="#facs_252_tr_1_tl_2" n="N002"/>But is this <emph rend="allcaps">man</emph>? This is the question. Is this not a self-loss of man, in his own creation?
                <lb facs="#facs_252_tr_1_tl_3" n="N003"/>Now the question of a name is not a very important one----it is a symptomatic one. You can
                <lb facs="#facs_252_tr_1_tl_4" n="N004"/>call everything what[ever] you want, if there is a common convention about it---and if you call
                <lb facs="#facs_252_tr_1_tl_5" n="N005"/>the doctrine of human bones "<rs type="keyword" ref="#Anthropology">anthropology</rs>," it is alright; and the <rs type="keyword" ref="#Doctrine_of_man">doctrine of man</rs> in primitive
@@ -111,15 +110,15 @@
                <lb facs="#facs_252_tr_1_tl_10" n="N010"/>for "doctrine of man," so I couldn't use sentences in which the abbreviation of a good adjective
                <lb facs="#facs_252_tr_1_tl_11" n="N011"/>did appear. Of course, if I used "anthropological," one of my students would immediately raise
                <lb facs="#facs_252_tr_1_tl_12" n="N012"/>his finger and say, "That means, in our language, the doctrine of bones!" <hi style="font-style: italic;">[laughter]</hi>. Now
-               <lb facs="#facs_252_tr_1_tl_13" n="N013"/>however this may be, we need another name, namely of that being which HAS CREATED the
-               <lb facs="#facs_252_tr_1_tl_14" n="N014"/>doctrine of bones and of sociological intercourse, etc., and which is MORE than all this,
+               <lb facs="#facs_252_tr_1_tl_13" n="N013"/>however this may be, we need another name, namely of that being which <emph rend="allcaps">has created</emph> the
+               <lb facs="#facs_252_tr_1_tl_14" n="N014"/>doctrine of bones and of sociological intercourse, etc., and which is <emph rend="allcaps">more</emph> than all this,
                <lb facs="#facs_252_tr_1_tl_15" n="N015"/>because he has created them. And that, I would call the "doctrine of man" and don't know
                <lb facs="#facs_252_tr_1_tl_16" n="N016"/>how perhaps some time the word "anthropology" will become imperialistic---I hope it will;
                <lb facs="#facs_252_tr_1_tl_17" n="N017"/>I am not always for imperialism, but in this case I am for it---and swallow the doctrine of man,
                <lb facs="#facs_252_tr_1_tl_18" n="N018"/>philosophical as well as theological, so that we can use the word "anthropological" again
               <lb facs="#facs_252_tr_1_tl_19" n="N019"/>for real statements about man as man, and not about man as lost in his creations.</p>
            <p>
-               <lb facs="#facs_252_tr_1_tl_20" n="N020"/>This situation demands a <rs type="keyword" ref="#Doctrine_of_man">doctrine of man,</rs> which is NEITHER <rs type="keyword" ref="#Physics">physics</rs> NOR<rs type="keyword" ref="#Biology"> biology </rs>NOR <rs type="keyword" ref="#Psychology">psychology</rs>
+               <lb facs="#facs_252_tr_1_tl_20" n="N020"/>This situation demands a <rs type="keyword" ref="#Doctrine_of_man">doctrine of man,</rs> which is <emph rend="allcaps">neither</emph> <rs type="keyword" ref="#Physics">physics</rs> <emph rend="allcaps">nor</emph><rs type="keyword" ref="#Biology"> biology </rs><emph rend="allcaps">nor</emph> <rs type="keyword" ref="#Psychology">psychology</rs>
             </p>
             
         </div>

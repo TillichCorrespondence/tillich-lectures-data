@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -96,8 +95,8 @@
         <div>
             <pb facs="#TL-0249.jpg" n="part1_p249.jpg" xml:id="img_0249" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p249.jpg"/>
             
-            <p facs="#facs_249_tr_2">
-               <lb facs="#facs_249_tr_2_tl_1" n="N001"/>[245]</p>
+            <fw facs="#facs_249_tr_2">
+               <lb facs="#facs_249_tr_2_tl_1" n="N001"/>[245]</fw>
            <p>
                <lb facs="#facs_249_tr_2_tl_2" n="N002"/>If man looks at his world---and we can see this in the earliest beginnings of the scientific
                <lb facs="#facs_249_tr_2_tl_3" n="N003"/>consciousness, namely in the pre-Socratic analysis of reality---he discovers in his world different
@@ -110,7 +109,7 @@
                <lb facs="#facs_249_tr_2_tl_10" n="N010"/>physics, where mathematical equations have replaced the concept of matter. Or there is a third
                <lb facs="#facs_249_tr_2_tl_11" n="N011"/>possibility: one does not start with either matter or form, but with quality, and structure,
                <lb facs="#facs_249_tr_2_tl_12" n="N012"/>and believes that the fundamental level of reality is the qualities or essences of things---
-               <lb facs="#facs_249_tr_2_tl_13" n="N013"/>what I called potentialities (in answer to the question) which BECOME actualized, with the
+               <lb facs="#facs_249_tr_2_tl_13" n="N013"/>what I called potentialities (in answer to the question) which <emph rend="allcaps">become</emph> actualized, with the
               <lb facs="#facs_249_tr_2_tl_14" n="N014"/>help of matter and mathematical form. This is the <rs type="person" ref="#tillich_person_id__1510">Platonic </rs>answer.</p>
            <p>
                <lb facs="#facs_249_tr_2_tl_15" n="N015"/>There are other possible answers---the <rs type="keyword" ref="#Neoplatonism">Neoplatonic</rs>, in which it is the spiritual life

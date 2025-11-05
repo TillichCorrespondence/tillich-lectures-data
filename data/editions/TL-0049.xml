@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -106,8 +105,8 @@
         <div>
             <pb facs="#TL-0049.jpg" n="part1_p049.jpg" xml:id="img_0049" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p049.jpg"/>
             
-            <p facs="#facs_49_tr_1">
-               <lb facs="#facs_49_tr_1_tl_1" n="N001"/>[46]</p>
+            <fw facs="#facs_49_tr_1">
+               <lb facs="#facs_49_tr_1_tl_1" n="N001"/>[46]</fw>
            <p rend="tei-p-no-indent">
                <lb facs="#facs_49_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Poetry">poem</rs>, can never be opened up in any other way than by a poem. The same is true
                <lb facs="#facs_49_tr_1_tl_3" n="N003"/>with those levels of reality opened up by music, for instance. Music is not only an
@@ -121,7 +120,7 @@
                <lb facs="#facs_49_tr_1_tl_11" n="N011"/>opening-up: they open up reality, and they open up the soul. And in the encounter
                <lb facs="#facs_49_tr_1_tl_12" n="N012"/>of reality and mind, both experience something which cannot be experienced in any
                <lb facs="#facs_49_tr_1_tl_13" n="N013"/>other way than through these symbols. And I think this is the most important part
-               <lb facs="#facs_49_tr_1_tl_14" n="N014"/>of it. Genuine symbols have revelatory character. And ALL <rs type="keyword" ref="#Revelation">revelation</rs> is correlate between
+               <lb facs="#facs_49_tr_1_tl_14" n="N014"/>of it. Genuine symbols have revelatory character. And <emph rend="allcaps">all</emph> <rs type="keyword" ref="#Revelation">revelation</rs> is correlate between
                <lb facs="#facs_49_tr_1_tl_15" n="N015"/>an objective structure and [a] subjective one. And so also, therefore, is all genuine
                <lb facs="#facs_49_tr_1_tl_16" n="N016"/>symbolism: it is always objective and subjective at the same time. It has <rs type="keyword" ref="#Encounter">"encounter"</rs>
               <lb facs="#facs_49_tr_1_tl_17" n="N017"/>character.</p>

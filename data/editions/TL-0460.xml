@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -102,8 +101,8 @@
         <div>
             <pb facs="#TL-0460.jpg" n="part3_p068.jpg" xml:id="img_0068" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p068.jpg"/>
             
-            <p facs="#facs_68_tr_1">
-               <lb facs="#facs_68_tr_1_tl_1" n="N001"/>[455]</p>
+            <fw facs="#facs_68_tr_1">
+               <lb facs="#facs_68_tr_1_tl_1" n="N001"/>[455]</fw>
            <p>
                <lb facs="#facs_68_tr_1_tl_2" n="N002"/>I am now very near to the psychopathological problematic, which we have discussed at the end of the
                <lb facs="#facs_68_tr_1_tl_3" n="N003"/>first semester. What the psychoanalysts tried to do--if you take that word in the largest sense--
@@ -114,8 +113,8 @@
            <p>
                <lb facs="#facs_68_tr_1_tl_9" n="N008"/>Now in all these groups we have a strong development of the ideal of <rs type="keyword" ref="#Personality">personality</rs>, and for
                <lb facs="#facs_68_tr_1_tl_10" n="N009"/>this reason something has happened which is characteristic for it: the more the personality ideal
-               <lb facs="#facs_68_tr_1_tl_11" n="N010"/>was predominant, the more psychoanalysis was needed. It is LEAST needed in <rs type="keyword" ref="#Roman_Catholicism">Roman</rs>
-               <lb facs="#facs_68_tr_3_tl_1" n="N001"/><rs type="keyword" ref="#Roman_Catholicism">Catholic</rs> sections; it is MOST needed, at least statistically, in <rs type="keyword" ref="#Judaism">Jewish</rs> groups; and again nearer to it,
+               <lb facs="#facs_68_tr_1_tl_11" n="N010"/>was predominant, the more psychoanalysis was needed. It is <emph rend="allcaps">least</emph> needed in <rs type="keyword" ref="#Roman_Catholicism">Roman</rs>
+               <lb facs="#facs_68_tr_3_tl_1" n="N001"/><rs type="keyword" ref="#Roman_Catholicism">Catholic</rs> sections; it is <emph rend="allcaps">most</emph> needed, at least statistically, in <rs type="keyword" ref="#Judaism">Jewish</rs> groups; and again nearer to it,
                <lb facs="#facs_68_tr_3_tl_2" n="N002"/>in <rs type="keyword" ref="#Protestantism">Protestant</rs> groups. This means that this picture [?], which makes the situation especially clear,
                <lb facs="#facs_68_tr_3_tl_3" n="N003"/>cut off from the vital sources of life by the commandments which come from the <rs type="keyword" ref="#Law">law</rs>, be it
                <lb facs="#facs_68_tr_3_tl_4" n="N004"/><rs type="keyword" ref="#Humanism">humanistic</rs> or <rs type="keyword" ref="#Religion">religious</rs>. [??] This is the reason for a large amount of mental disease, or

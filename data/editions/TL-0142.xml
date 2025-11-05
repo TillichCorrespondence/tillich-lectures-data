@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -96,8 +95,8 @@
         <div>
             <pb facs="#TL-0142.jpg" n="part1_p142.jpg" xml:id="img_0142" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p142.jpg"/>
             
-            <p facs="#facs_142_tr_3">
-               <lb facs="#facs_142_tr_3_tl_1" n="N001"/>[139]</p>
+            <fw facs="#facs_142_tr_3">
+               <lb facs="#facs_142_tr_3_tl_1" n="N001"/>[139]</fw>
            <p>
                <lb facs="#facs_142_tr_3_tl_2" n="N002"/>as it is described in depth psychology, which for sociological reasons projects a special type of <rs type="keyword" ref="#RELIGION">religion</rs>
                <lb facs="#facs_142_tr_3_tl_3" n="N003"/>in order to escape the miserable situation in this world, or in order to maintain the power of a ruling
@@ -110,9 +109,9 @@
                <lb facs="#facs_142_tr_3_tl_11" n="N009"/>have images of the ultimate without the material of your daily experience, and if the <rs type="keyword" ref="#Collective_unconscious">collective
                <lb break="no" facs="#facs_142_tr_3_tl_12" n="N010"/>unconscious</rs> creates such images, then it is the experience of the individual and collective unconscious
                <lb facs="#facs_142_tr_3_tl_13" n="N011"/>which produces them. In this point, all the projectionists are right. But in the moment in which they
-               <lb facs="#facs_142_tr_3_tl_14" n="N012"/>mean that this is an explaining-away of that which is MEANT, in the religious act, in the act of
+               <lb facs="#facs_142_tr_3_tl_14" n="N012"/>mean that this is an explaining-away of that which is <emph rend="allcaps">meant</emph>, in the religious act, in the act of
                <lb facs="#facs_142_tr_3_tl_15" n="N013"/>faith, or<rs type="keyword" ref="#Ultimate_Concern"> ultimate concern</rs> (as I have called it), then they are completely wrong, and they are not even
-               <lb facs="#facs_142_tr_3_tl_16" n="N014"/>adequate to their technical job, namely to show WHY these projections are made by human beings
+               <lb facs="#facs_142_tr_3_tl_16" n="N014"/>adequate to their technical job, namely to show <emph rend="allcaps">why</emph> these projections are made by human beings
               <lb facs="#facs_142_tr_3_tl_17" n="N015"/>unconsciously, in all periods of human history, and what the impact behind it is.</p>
            <p>
                <lb facs="#facs_142_tr_3_tl_18" n="N016"/>Now this again is a matter of <rs type="keyword" ref="#Genesis">genesis</rs> and <rs type="keyword" ref="#Validity">validity</rs>. The genesis of the concrete

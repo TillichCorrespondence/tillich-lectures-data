@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -96,8 +95,8 @@
         <div>
             <pb facs="#TL-0233.jpg" n="part1_p233.jpg" xml:id="img_0233" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p233.jpg"/>
             
-            <p facs="#facs_233_tr_2">
-               <lb facs="#facs_233_tr_2_tl_1" n="N001"/>[229]</p>
+            <fw facs="#facs_233_tr_2">
+               <lb facs="#facs_233_tr_2_tl_1" n="N001"/>[229]</fw>
            <p>
                <lb facs="#facs_233_tr_2_tl_2" n="N002"/>tradition---language, life forms, everything. If <rs type="keyword" ref="#Christian_philosophy">Christian philosophy</rs> means this, then there are no
                <lb facs="#facs_233_tr_2_tl_3" n="N003"/>philosophers any more in the Western world, after the victory of Christianity, who are not Christian

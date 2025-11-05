@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -97,8 +96,8 @@
         <div>
             <pb facs="#TL-0202.jpg" n="part1_p202.jpg" xml:id="img_0202" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p202.jpg"/>
             
-            <p facs="#facs_202_tr_1">
-               <lb facs="#facs_202_tr_1_tl_1" n="N001"/>[198]</p>
+            <fw facs="#facs_202_tr_1">
+               <lb facs="#facs_202_tr_1_tl_1" n="N001"/>[198]</fw>
            <p>
                <lb facs="#facs_202_tr_1_tl_2" n="N002"/>absurdity, did a great service: they vere the <hi style="font-style: italic;">reductio ad absurdum</hi> of extreme <rs type="keyword" ref="#Nominalism">nominalism</rs>. They
                <lb facs="#facs_202_tr_1_tl_3" n="N003"/>showed that if you radically give up <rs type="keyword" ref="#Universal_category">universals,</rs> you necessarily have to give up language, because
@@ -110,7 +109,7 @@
                <lb facs="#facs_202_tr_1_tl_9" n="N008"/>the meaning of universals is valid as a philosophical argument and has always been defended by
                <lb facs="#facs_202_tr_1_tl_10" n="N009"/>rationalist idealists or, in the Neothomistic school, realists in the medieval sense. This definition,
                <lb facs="#facs_202_tr_1_tl_11" n="N010"/>I would say, is valid. Even those who attack this definition use universals in a way which they
-              <lb facs="#facs_202_tr_1_tl_12" n="N011"/>canNOT defend from their own presuppositions.</p>
+              <lb facs="#facs_202_tr_1_tl_12" n="N011"/>can<emph rend="allcaps">not</emph> defend from their own presuppositions.</p>
            <p>
                <lb facs="#facs_202_tr_1_tl_13" n="N012"/>Now this is the inner philosophical struggle. Here the theologian, or the religious observer,
                <lb facs="#facs_202_tr_1_tl_14" n="N013"/>can sit in the ranks and look down into the arena where the philosophers fight with each other---
@@ -119,7 +118,7 @@
                <lb facs="#facs_202_tr_1_tl_16" n="N015"/>But then the <rs type="keyword" ref="#Nominalism">nominalists</rs> answer, and although they cannot defend the attack against
                <lb facs="#facs_202_tr_1_tl_17" n="N016"/>their <rs type="keyword" ref="#Dadaism">dadaistic</rs> implications, they can attack <rs type="keyword" ref="#Realism">realism</rs> with the same fundamental argument which
                <lb facs="#facs_202_tr_1_tl_18" n="N017"/><rs type="person" ref="#tillich_person_id__80">Aristotle</rs> used against <rs type="person" ref="#tillich_person_id__1510">Plato,</rs> namely that if you give to the <rs type="keyword" ref="#Universal_category">universals</rs> an <rs type="keyword" ref="#Ontology">ontological standing</rs> of
-               <lb facs="#facs_202_tr_1_tl_19" n="N018"/>their own, BESIDES the individual things, that you then reduplicate reality. <rs type="person">Aristotle</rs> called this
+               <lb facs="#facs_202_tr_1_tl_19" n="N018"/>their own, <emph rend="allcaps">besides</emph> the individual things, that you then reduplicate reality. <rs type="person">Aristotle</rs> called this
                <lb facs="#facs_202_tr_1_tl_21" n="N019"/>argument <rs type="keyword" ref="#Tritos_Anthropos">the <hi style="font-style: italic;">tritos anthropos</hi>, </rs>which means that here is the individual Paul and there is the
                <lb facs="#facs_202_tr_1_tl_23" n="N020"/>individual John, they have something in common: both of them are men. Now man himself becomes
             </p>

@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -101,8 +100,8 @@
         <div>
             <pb facs="#TL-0468.jpg" n="part3_p076.jpg" xml:id="img_0076" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p076.jpg"/>
             
-            <p facs="#facs_76_tr_1">
-               <lb facs="#facs_76_tr_1_tl_2" n="N001"/>[463]</p>
+            <fw facs="#facs_76_tr_1">
+               <lb facs="#facs_76_tr_1_tl_2" n="N001"/>[463]</fw>
            <p>
                <lb facs="#facs_76_tr_1_tl_3" n="N002"/>Introducing must be the first step, in order to avoid the situation of emptiness, of which
                <lb facs="#facs_76_tr_1_tl_4" n="N003"/>I was speaking. <rs type="keyword" ref="#Symbols">Symbols</rs> have the character of opening up realities even to the most primitive mind,
@@ -116,7 +115,7 @@
            <p>
                <lb facs="#facs_76_tr_3_tl_1" n="N001"/>We don't prevent our children from singing very early, and hearing <rs type="keyword" ref="#Music">music</rs> very early
                <lb facs="#facs_76_tr_3_tl_2" n="N002"/>and considering nature very early, before a full <rs type="keyword" ref="#Understanding">understanding</rs> of all this. The <rs type="keyword" ref="#Symbols">symbols</rs>, in this case
-               <lb facs="#facs_76_tr_3_tl_3" n="N003"/>the artistic symbols, PRECEDE the understanding, the FULL understanding. And let me add:
+               <lb facs="#facs_76_tr_3_tl_3" n="N003"/>the artistic symbols, <emph rend="allcaps">precede</emph> the understanding, the <emph rend="allcaps">full</emph> understanding. And let me add:
                <lb facs="#facs_76_tr_3_tl_4" n="N004"/>they precede the understanding to the last days of our life--great works of <rs type="keyword" ref="#Art">art</rs> are inexhaustible.
                <lb facs="#facs_76_tr_3_tl_5" n="N005"/>So we should start with the <rs type="keyword" ref="#Symbols_religious">religious symbol</rs>s also, as early as possible, where words and visions
               <lb facs="#facs_76_tr_3_tl_6" n="N006"/>are given to the child already.</p>

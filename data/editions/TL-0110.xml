@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -106,8 +105,8 @@
         <div>
             <pb facs="#TL-0110.jpg" n="part1_p110.jpg" xml:id="img_0110" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p110.jpg"/>
             
-            <p facs="#facs_110_tr_1">
-               <lb facs="#facs_110_tr_1_tl_1" n="N001"/>[107]</p>
+            <fw facs="#facs_110_tr_1">
+               <lb facs="#facs_110_tr_1_tl_1" n="N001"/>[107]</fw>
            <p>
                <lb facs="#facs_110_tr_1_tl_2" n="N002"/>the most sharp-minded of all medieval theologians and philosophers, <rs type="person" ref="#tillich_person_id__494">Duns Scotus</rs>, tried to show
                <lb facs="#facs_110_tr_1_tl_3" n="N003"/>the inadequacy of the Thomistic synthesis and tried to put the religious insights to the one side,

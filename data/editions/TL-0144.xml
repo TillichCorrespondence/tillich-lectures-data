@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -97,12 +96,12 @@
         <div>
             <pb facs="#TL-0144.jpg" n="part1_p144.jpg" xml:id="img_0144" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p144.jpg"/>
             
-            <p facs="#facs_144_tr_1">
-               <lb facs="#facs_144_tr_1_tl_1" n="N001"/>[141]</p>
+            <fw facs="#facs_144_tr_1">
+               <lb facs="#facs_144_tr_1_tl_1" n="N001"/>[141]</fw>
            <p>
                <lb facs="#facs_144_tr_1_tl_2" n="N002"/>value? My answer was, it cannot. There are many ways in which an idea can come into existence,
-               <lb facs="#facs_144_tr_1_tl_3" n="N003"/>but no way as such refutes or confirms the truth WITHIN ITSELF. For this reason, I warn you,
-               <lb facs="#facs_144_tr_1_tl_4" n="N004"/>ALWAYS, [not] to confuse these two questions, of <rs type="keyword" ref="#Genesis">genesis</rs> and <rs type="keyword" ref="#Validity">validity</rs>. I may add here perhaps one
+               <lb facs="#facs_144_tr_1_tl_3" n="N003"/>but no way as such refutes or confirms the truth <emph rend="allcaps">within itself</emph>. For this reason, I warn you,
+               <lb facs="#facs_144_tr_1_tl_4" n="N004"/><emph rend="allcaps">always</emph>, [not] to confuse these two questions, of <rs type="keyword" ref="#Genesis">genesis</rs> and <rs type="keyword" ref="#Validity">validity</rs>. I may add here perhaps one
               <lb facs="#facs_144_tr_1_tl_5" n="N005"/>thing because it is of such practical importance for our thought in our daily lives:</p>
            <p>
                <lb facs="#facs_144_tr_1_tl_6" n="N006"/>Let us imagine that you discuss a problem of a life decision, an ethical or vocational
@@ -113,8 +112,8 @@
                <lb facs="#facs_144_tr_1_tl_11" n="N011"/>that one of the two says to the other, "So let's stop this and have a drink!" <hi style="font-style: italic;">[laughter]</hi> Now this is
                <lb facs="#facs_144_tr_1_tl_12" n="N012"/>a caricature of the method which confuses genesis and validity. Probably he is right when he tells
                <lb facs="#facs_144_tr_1_tl_13" n="N013"/>you that the fact of your coming from a special suburban surroundings enforces your ethical judgments.
-               <lb facs="#facs_144_tr_1_tl_14" n="N014"/>And probably YOU are right when you tell HIM that the neurotic elements (everybody has some)
-               <lb facs="#facs_144_tr_1_tl_15" n="N015"/>in his character structure enforce HIS theoretical---political or theological---judgments. But you
+               <lb facs="#facs_144_tr_1_tl_14" n="N014"/>And probably <emph rend="allcaps">you</emph> are right when you tell <emph rend="allcaps">him</emph> that the neurotic elements (everybody has some)
+               <lb facs="#facs_144_tr_1_tl_15" n="N015"/>in his character structure enforce <emph rend="allcaps">his</emph> theoretical---political or theological---judgments. But you
                <lb facs="#facs_144_tr_1_tl_16" n="N016"/>only can continue asking: So what? That is the situation. That is all our situation. And you can,
                <lb facs="#facs_144_tr_1_tl_17" n="N017"/>if it were not for grades, deal with me in the same way and say, "We don’t come any more because
                <lb facs="#facs_144_tr_1_tl_18" n="N018"/>we can deduce this from your being born in the year 1886, in the middle of the High-Capitalist

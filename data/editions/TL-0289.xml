@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -101,8 +100,8 @@
         <div>
             <pb facs="#TL-0289.jpg" n="part2_p005.jpg" xml:id="img_0005" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p005.jpg"/>
             
-            <p facs="#facs_5_tr_3">
-               <lb facs="#facs_5_tr_3_tl_1" n="N001"/>[285]</p>
+            <fw facs="#facs_5_tr_3">
+               <lb facs="#facs_5_tr_3_tl_1" n="N001"/>[285]</fw>
            <p>
                <lb facs="#facs_5_tr_3_tl_2" n="N002"/>activity, theoretical or practical, or aesthetic, is based on a hidden or open <rs type="keyword" ref="#Ultimate_Concern">ultimate concern</rs>, and,
                <lb facs="#facs_5_tr_3_tl_3" n="N003"/>in this sense, on a religious attitude, on an element of <rs type="keyword" ref="#Faith">faith</rs>. On this basis we want to proceed in this
@@ -123,8 +122,8 @@
                <lb facs="#facs_5_tr_2_tl_9" n="N009"/>cultural activity. I divided them into two, according to the two semesters: the theoretical and the
                <lb facs="#facs_5_tr_1_tl_1" n="N001"/>practical ones---"theory" meaning receiving reality, and "practice" meaning transforming reality.
                <lb facs="#facs_5_tr_1_tl_2" n="N002"/>In the first semester, all our interest was directed towards human creative activities, cultural activities,
-               <lb facs="#facs_5_tr_1_tl_3" n="N003"/>in which man LOOKS at reality—<hi style="font-style: italic;">theoria</hi> means looking at something, envisaging, seeing, contemplating it,
-               <lb facs="#facs_5_tr_1_tl_4" n="N004"/>i.e., receiving it in its structures and forms. We started with the foundation of BOTH cultural activities,
+               <lb facs="#facs_5_tr_1_tl_3" n="N003"/>in which man <emph rend="allcaps">looks</emph> at reality—<hi style="font-style: italic;">theoria</hi> means looking at something, envisaging, seeing, contemplating it,
+               <lb facs="#facs_5_tr_1_tl_4" n="N004"/>i.e., receiving it in its structures and forms. We started with the foundation of <emph rend="allcaps">both</emph> cultural activities,
             </p>
             
         </div>

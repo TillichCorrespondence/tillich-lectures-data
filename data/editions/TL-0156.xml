@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -101,10 +100,10 @@
         <div>
             <pb facs="#TL-0156.jpg" n="part1_p156.jpg" xml:id="img_0156" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p156.jpg"/>
             
-            <p facs="#facs_156_tr_1">
-               <lb facs="#facs_156_tr_1_tl_1" n="N001"/>[153]</p>
+            <fw facs="#facs_156_tr_1">
+               <lb facs="#facs_156_tr_1_tl_1" n="N001"/>[153]</fw>
            <p>
-              <lb facs="#facs_156_tr_1_tl_2" n="N002"/>LECTURE XIV, Nov. 17, 1955</p>
+              <lb facs="#facs_156_tr_1_tl_2" n="N002"/><title>Lecture XIV</title>, Nov. 17, 1955</p>
            <p>
                <lb facs="#facs_156_tr_1_tl_3" n="N003"/>We have begun the discussion of the relationship of religion and historical research and
                <lb facs="#facs_156_tr_1_tl_4" n="N004"/><rs type="keyword" ref="#Historiography">historiography</rs>. I tried first to show three elements in the work of the historian: the statement of the
@@ -113,7 +112,7 @@
                <lb facs="#facs_156_tr_1_tl_7" n="N007"/>of <rs type="keyword" ref="#Participation">participation</rs>. And the nearer we are to the factual, the more it is a method of detachment.
                <lb facs="#facs_156_tr_1_tl_8" n="N008"/>History, like science, has methods of verification which are analogous with each other; the documentation
                <lb facs="#facs_156_tr_1_tl_9" n="N009"/>in history, and the repeating experimentation in science, have an analogous character. Of course,
-               <lb facs="#facs_156_tr_1_tl_10" n="N010"/>history cannot be repeated, cannot be subjected to an experiment in THIS sense. But one can
+               <lb facs="#facs_156_tr_1_tl_10" n="N010"/>history cannot be repeated, cannot be subjected to an experiment in <emph rend="allcaps">this</emph> sense. But one can
                <lb facs="#facs_156_tr_1_tl_11" n="N011"/>verify statements of one document by statements of an independent document which agrees with
               <lb facs="#facs_156_tr_1_tl_12" n="N012"/>the first one.</p>
            <p>

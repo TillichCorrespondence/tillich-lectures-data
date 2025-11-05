@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -102,11 +101,11 @@
         <div>
             <pb facs="#TL-0417.jpg" n="part3_p025.jpg" xml:id="img_0025" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p025.jpg"/>
             
-            <p facs="#facs_25_tr_1">
-               <lb facs="#facs_25_tr_1_tl_1" n="N001"/>[412]</p>
+            <fw facs="#facs_25_tr_1">
+               <lb facs="#facs_25_tr_1_tl_1" n="N001"/>[412]</fw>
            <p>
-               <lb facs="#facs_25_tr_1_tl_2" n="N002"/>and an ability to look on THIS basis into the <rs type="keyword" ref="#Humanism">humanistic</rs> values with a <rs type="keyword" ref="#New">new</rs> eye. And we PERFORMED
-               <lb facs="#facs_25_tr_1_tl_3" n="N003"/>this, to a certain extent--it was possible to understand what happens in Greece or in Rome MUCH
+               <lb facs="#facs_25_tr_1_tl_2" n="N002"/>and an ability to look on <emph rend="allcaps">this</emph> basis into the <rs type="keyword" ref="#Humanism">humanistic</rs> values with a <rs type="keyword" ref="#New">new</rs> eye. And we <emph rend="allcaps">performed</emph>
+               <lb facs="#facs_25_tr_1_tl_3" n="N003"/>this, to a certain extent--it was possible to understand what happens in Greece or in Rome <emph rend="allcaps">much</emph>
                <lb facs="#facs_25_tr_1_tl_4" n="N004"/>better in the light of the conflicts of the social situation in the twenties and, before that, in <rs type="keyword" ref="#Germany">Germany</rs>
               <lb facs="#facs_25_tr_1_tl_5" n="N005"/>and <rs type="keyword" ref="#Europe">Europe</rs> generally.</p>
            <p>
@@ -126,8 +125,8 @@
                <lb facs="#facs_25_tr_2_tl_1" n="N001"/>has two <rs type="keyword" ref="#Meaning">meanings</rs>: to overcome a-social tendencies which are simply negative, in a pupil; and to
                <lb facs="#facs_25_tr_2_tl_2" n="N002"/>introduce the pupil into the norms and conventions of a given society. The danger is that while
                <lb facs="#facs_25_tr_2_tl_3" n="N003"/>the teachers, especially in this country, try to adjust the children into the necessities of life,
-               <lb facs="#facs_25_tr_2_tl_4" n="N004"/>the <rs type="keyword" ref="#Unconditional">unconditional</rs> necessities--not to become an outlaw, etc., which is right--THEY ALSO adjust
-               <lb facs="#facs_25_tr_2_tl_5" n="N005"/>to the conventions and take away from them the possibility to say No to ANY convention,
+               <lb facs="#facs_25_tr_2_tl_4" n="N004"/>the <rs type="keyword" ref="#Unconditional">unconditional</rs> necessities--not to become an outlaw, etc., which is right--<emph rend="allcaps">they also</emph> adjust
+               <lb facs="#facs_25_tr_2_tl_5" n="N005"/>to the conventions and take away from them the possibility to say No to <emph rend="allcaps">any</emph> convention,
             </p>
             
         </div>

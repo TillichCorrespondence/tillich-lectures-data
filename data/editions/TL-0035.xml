@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -106,8 +105,8 @@
         <div>
             <pb facs="#TL-0035.jpg" n="part1_p035.jpg" xml:id="img_0035" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p035.jpg"/>
             
-            <p facs="#facs_35_tr_1">
-               <lb facs="#facs_35_tr_1_tl_1" n="N001"/>[32]</p>
+            <fw facs="#facs_35_tr_1">
+               <lb facs="#facs_35_tr_1_tl_1" n="N001"/>[32]</fw>
            <p rend="tei-p-no-indent">
                <lb facs="#facs_35_tr_1_tl_2" n="N002"/>(I will speak briefly later about the extreme of this development in what we call
               <lb facs="#facs_35_tr_1_tl_3" n="N003"/>l<rs type="keyword" ref="#Logical_Positivism">ogical positivism</rs>; but this demands a special consideration.)</p>
@@ -132,7 +131,7 @@
                <lb facs="#facs_35_tr_1_tl_21" n="N020"/>to be used. Psychologically, under the impact of this advertisement and the power behind it,
                <lb facs="#facs_35_tr_1_tl_22" n="N021"/>they lose their creative personal center. They are dissolved into pieces. The extreme of this is
                <lb facs="#facs_35_tr_1_tl_23" n="N022"/>the dehumanization intentionally going on in institutions like concentration camps. But the
-               <lb facs="#facs_35_tr_1_tl_24" n="N023"/>WHOLE nation is under this pressure. And if man is not able to speak any more in terms of
+               <lb facs="#facs_35_tr_1_tl_24" n="N023"/><emph rend="allcaps">whole</emph> nation is under this pressure. And if man is not able to speak any more in terms of
                <lb facs="#facs_35_tr_1_tl_25" n="N024"/>his free subjectivity, if he becomes a piece of the world of objects and only objects, then
                <lb facs="#facs_35_tr_1_tl_26" n="N025"/>he also loses his <rs type="keyword" ref="#Language">language</rs>. He accepts the language of the dictators, which is a completely
                <lb facs="#facs_35_tr_1_tl_27" n="N026"/>corrupted language. And the danger of course is that even in <rs type="keyword" ref="#Democracy">democracy</rs>, something like

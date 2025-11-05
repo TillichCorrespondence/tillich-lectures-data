@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -101,16 +100,16 @@
         <div>
             <pb facs="#TL-0382.jpg" n="part2_p098.jpg" xml:id="img_0098" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p098.jpg"/>
             
-            <p facs="#facs_98_tr_1">
-               <lb facs="#facs_98_tr_1_tl_1" n="N001"/>[377]</p>
+            <fw facs="#facs_98_tr_1">
+               <lb facs="#facs_98_tr_1_tl_1" n="N001"/>[377]</fw>
            <p>
-               <lb facs="#facs_98_tr_1_tl_2" n="N002"/>The witness before the court TESTS something. But the test method uses those elements of man
+               <lb facs="#facs_98_tr_1_tl_2" n="N002"/>The witness before the court <emph rend="allcaps">tests</emph> something. But the test method uses those elements of man
                <lb facs="#facs_98_tr_1_tl_3" n="N003"/>which can be mechanized, which can be brought down to the functions of an <rs type="keyword" ref="#Artificial_Intelligence">artificial brain</rs>, or
                <lb facs="#facs_98_tr_1_tl_4" n="N004"/>of a Frankenstein, or of a product which acts like a man but does not have the elements of <rs type="keyword" ref="#Spontaneity">spontaneity</rs>.
                <lb facs="#facs_98_tr_1_tl_5" n="N005"/>Now there are many of these elements, and by skillful order of the test you can find out the quickness
                <lb facs="#facs_98_tr_1_tl_6" n="N006"/>of reaction, the ability of perception, and many other things like that; but if you don't count on one
                <lb facs="#facs_98_tr_1_tl_7" n="N007"/>thing, in all these test methods: you don’t count on the possibility of man, in the next moment
-               <lb facs="#facs_98_tr_3_tl_1" n="N001"/>AFTER the test, to <rs type="keyword" ref="#Creativity">create</rs> in himself something which had not been reached before by the test
+               <lb facs="#facs_98_tr_3_tl_1" n="N001"/><emph rend="allcaps">after</emph> the test, to <rs type="keyword" ref="#Creativity">create</rs> in himself something which had not been reached before by the test
                <lb facs="#facs_98_tr_3_tl_2" n="N002"/>method and which changes all the results of the test method. If you, as business executive, accept
                <lb facs="#facs_98_tr_3_tl_3" n="N003"/>some worker for a difficult task and have him tested by the work-<rs type="keyword" ref="#Psychology">psychologist</rs>, then you can see
                <lb facs="#facs_98_tr_3_tl_4" n="N004"/>tendencies in him which in this moment are predominant. But it may be that the same day,

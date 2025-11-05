@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -103,8 +102,8 @@
         <div>
             <pb facs="#TL-0414.jpg" n="part3_p022.jpg" xml:id="img_0022" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p022.jpg"/>
             
-            <p facs="#facs_22_tr_1">
-               <lb facs="#facs_22_tr_1_tl_2" n="N001"/>[409]</p>
+            <fw facs="#facs_22_tr_1">
+               <lb facs="#facs_22_tr_1_tl_2" n="N001"/>[409]</fw>
            <p>
                <lb facs="#facs_22_tr_1_tl_3" n="N002"/>development of one’s unique <rs type="keyword" ref="#Individual">individual</rs> potentialities, in the process of one's life. This is the
               <lb facs="#facs_22_tr_1_tl_4" n="N003"/>second reason for the <rs type="keyword" ref="#Humanism">humanistic</rs> ideal of <rs type="keyword" ref="#Education">education</rs>.</p>
@@ -119,7 +118,7 @@
                <lb facs="#facs_22_tr_1_tl_15" n="N011"/>universe which is embodied in man and reality as a whole. Autonomy in Kant is just the opposite
                <lb facs="#facs_22_tr_1_tl_16" n="N012"/>of willfulness: Kant construes willfulness as heteronomy, as dependent on one's whims, desires, fears,
                <lb facs="#facs_22_tr_2_tl_1" n="N001"/><rs type="keyword" ref="#Anxiety">anxiety</rs>, etc. That’s heteronomy, and that's used by ecclesiastical and political authorities in order
-               <lb facs="#facs_22_tr_2_tl_2" n="N002"/>to impose STRANGE laws, HETERONOMOUS laws, upon people. Nothing of this is implied
+               <lb facs="#facs_22_tr_2_tl_2" n="N002"/>to impose <emph rend="allcaps">strange</emph> laws, <emph rend="allcaps">heteronomous</emph> laws, upon people. Nothing of this is implied
               <lb facs="#facs_22_tr_2_tl_3" n="N003"/>in the concept of autonomy.</p>
            <p>
                <lb facs="#facs_22_tr_2_tl_4" n="N004"/>So we have these three ideas: 1) Man can recognize the law of the <rs type="keyword" ref="#Universe">universe</rs> in himself and

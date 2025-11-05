@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -107,8 +106,8 @@
         <div>
             <pb facs="#TL-0018.jpg" n="part1_p018.jpg" xml:id="img_0018" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p018.jpg"/>
             
-            <p facs="#facs_18_tr_1">
-               <lb facs="#facs_18_tr_1_tl_1" n="N001"/>[15]</p>
+            <fw facs="#facs_18_tr_1">
+               <lb facs="#facs_18_tr_1_tl_1" n="N001"/>[15]</fw>
            <p rend="tei-p-no-indent">
                <lb facs="#facs_18_tr_1_tl_2" n="N002"/>societys [sic.] and on the other hand, <rs type="keyword" ref="#Natural_Law">natural law</rs>. Again natural law is used in two ways:
                <lb facs="#facs_18_tr_1_tl_3" n="N003"/>as physical law, and law for morals. What is the original meaning of the law? Certainly

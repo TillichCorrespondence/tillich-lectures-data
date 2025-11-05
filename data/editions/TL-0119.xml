@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -97,8 +96,8 @@
         <div>
             <pb facs="#TL-0119.jpg" n="part1_p119.jpg" xml:id="img_0119" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p119.jpg"/>
             
-            <p facs="#facs_119_tr_1">
-               <lb facs="#facs_119_tr_1_tl_1" n="N001"/>[116]</p>
+            <fw facs="#facs_119_tr_1">
+               <lb facs="#facs_119_tr_1_tl_1" n="N001"/>[116]</fw>
            <p>
                <lb facs="#facs_119_tr_1_tl_2" n="N002"/>and induced the unconscious <rs type="keyword" ref="#Mythological">mythological</rs> thinking, to identify the development of the universe
                <lb facs="#facs_119_tr_1_tl_3" n="N003"/>with the comparatively known world-history. Now that of course is again something where one
@@ -112,7 +111,7 @@
                <lb facs="#facs_119_tr_1_tl_11" n="N011"/>country, the so-called "Bible Belt", where <rs type="keyword" ref="#Fundamentalism">Fundamentalism</rs> still resists the scientific hypothesis about the
                <lb facs="#facs_119_tr_1_tl_12" n="N012"/>development of the universe in the name of the register given in the Book of Genesis, about the
                <lb facs="#facs_119_tr_1_tl_13" n="N013"/>descendants of Adam up to Abraham and Moses. Now if this is done, then we have a conflict
-               <lb facs="#facs_119_tr_1_tl_14" n="N014"/>which is NOT a conflict of religion and science, but which is a conflict of people who are not able to
+               <lb facs="#facs_119_tr_1_tl_14" n="N014"/>which is <emph rend="allcaps">not</emph> a conflict of religion and science, but which is a conflict of people who are not able to
               <lb facs="#facs_119_tr_1_tl_15" n="N015"/>see the difference of the dimensions.</p>
            <p>
                <lb facs="#facs_119_tr_1_tl_16" n="N016"/>The last point of resistance is that even if everything is left to development, in the sense

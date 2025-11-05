@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -97,10 +96,10 @@
         <div>
             <pb facs="#TL-0199.jpg" n="part1_p199.jpg" xml:id="img_0199" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p199.jpg"/>
             
-            <p facs="#facs_199_tr_2">
-               <lb facs="#facs_199_tr_2_tl_1" n="N001"/>[195]</p>
+            <fw facs="#facs_199_tr_2">
+               <lb facs="#facs_199_tr_2_tl_1" n="N001"/>[195]</fw>
            <p>
-              <lb facs="#facs_199_tr_2_tl_2" n="N002"/>LECTURE XVII, Thurs., Dec. 1, 1955</p>
+              <lb facs="#facs_199_tr_2_tl_2" n="N002"/><title>Lecture XVII</title>, Thurs., Dec. 1, 1955</p>
            <p>
                <lb facs="#facs_199_tr_2_tl_3" n="N003"/>Tuesday I started the discussion of <rs type="keyword" ref="#Religion">religion </rs>and <rs type="keyword" ref="#Philosophy">philosophy </rs>and gave as the basic solution
                <lb facs="#facs_199_tr_2_tl_4" n="N004"/>that the philosopher, as human being, has an <rs type="keyword" ref="#Ultimate_Concern">ultimate concern</rs> which expresses itself in his philosophy;
@@ -112,7 +111,7 @@
                <lb facs="#facs_199_tr_2_tl_9" n="N009"/><rs type="keyword" ref="#Ultimate_Concern">ultimate concern</rs> is manifest---or in other terms, in which sense the philosophers are consciously
                <lb facs="#facs_199_tr_2_tl_10" n="N010"/>or unconsciously theologians, by their very being philosophers. Only if this can be shown concretely,
                <lb facs="#facs_199_tr_2_tl_11" n="N011"/>in relation to special philosophical attitudes, is the argument carried through. But I warn you: this is not
-              <lb facs="#facs_199_tr_2_tl_12" n="N012"/>easy, and it demands SOME kind of philosophical knowledge.</p>
+              <lb facs="#facs_199_tr_2_tl_12" n="N012"/>easy, and it demands <emph rend="allcaps">some</emph> kind of philosophical knowledge.</p>
            <p>
                <lb facs="#facs_199_tr_2_tl_13" n="N013"/>Let's first take the classical discussion between <rs type="keyword" ref="#Nominalism">nominalism</rs> and <rs type="keyword" ref="#Realism">realism </rs>as it was going on
                <lb facs="#facs_199_tr_2_tl_14" n="N014"/>in the Middle Ages at the end and the beginning of the medieval philosophy, while in the middle development,

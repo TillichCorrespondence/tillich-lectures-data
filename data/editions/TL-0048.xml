@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -108,14 +107,14 @@
         <div>
             <pb facs="#TL-0048.jpg" n="part1_p048.jpg" xml:id="img_0048" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p048.jpg"/>
             
-            <p facs="#facs_48_tr_1">
-               <lb facs="#facs_48_tr_1_tl_1" n="N001"/>[45]</p>
+            <fw facs="#facs_48_tr_1">
+               <lb facs="#facs_48_tr_1_tl_1" n="N001"/>[45]</fw>
            <p rend="tei-p-no-indent">
                <lb facs="#facs_48_tr_1_tl_2" n="N002"/>my life-long experience with this phrase "only a symbol" brings me to this very strong
-               <lb facs="#facs_48_tr_1_tl_3" n="N003"/>warning never to combine these two words! There is no language which is TRUER to
+               <lb facs="#facs_48_tr_1_tl_3" n="N003"/>warning never to combine these two words! There is no language which is <emph rend="allcaps">truer</emph> to
                <lb facs="#facs_48_tr_1_tl_4" n="N004"/>some levels or dimensions of reality than the language of <rs type="keyword" ref="#Symbols">symbols</rs>. All non-symbolic
-               <lb facs="#facs_48_tr_1_tl_5" n="N005"/>language is UNTRUE, with respect to SOME levels and dimensions of reality. It is
-               <lb facs="#facs_48_tr_1_tl_6" n="N006"/>true with respect to OTHER levels of reality, but it is untrue to SOME levels of
+               <lb facs="#facs_48_tr_1_tl_5" n="N005"/>language is <emph rend="allcaps">untrue</emph>, with respect to <emph rend="allcaps">some</emph> levels and dimensions of reality. It is
+               <lb facs="#facs_48_tr_1_tl_6" n="N006"/>true with respect to <emph rend="allcaps">other</emph> levels of reality, but it is untrue to <emph rend="allcaps">some</emph> levels of
                <lb facs="#facs_48_tr_1_tl_7" n="N007"/>reality. Therefore the question is not whether the one language, the directly significatory
               <lb facs="#facs_48_tr_1_tl_8" n="N008"/>language, is truer, but the question is to which level of reality do you apply it?</p>
            <p>

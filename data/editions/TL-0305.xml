@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -98,10 +97,10 @@
         <div>
             <pb facs="#TL-0305.jpg" n="part2_p021.jpg" xml:id="img_0021" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p021.jpg"/>
             
-            <p facs="#facs_21_tr_2">
-               <lb facs="#facs_21_tr_2_tl_1" n="N001"/>[301]</p>
+            <fw facs="#facs_21_tr_2">
+               <lb facs="#facs_21_tr_2_tl_1" n="N001"/>[301]</fw>
            <p>
-               <lb facs="#facs_21_tr_2_tl_2" n="N002"/><rs type="keyword" ref="#Ultimacy">reality</rs> is expressed is the <rs type="keyword" ref="#Style">STYLE</rs> of a work of <rs type="keyword" ref="#Art">art</rs>. I will come to this; style is of fundamental
+               <lb facs="#facs_21_tr_2_tl_2" n="N002"/><rs type="keyword" ref="#Ultimacy">reality</rs> is expressed is the <rs type="keyword" ref="#Style"><emph rend="allcaps">style</emph></rs> of a work of <rs type="keyword" ref="#Art">art</rs>. I will come to this; style is of fundamental
                <lb facs="#facs_21_tr_2_tl_5" n="N003"/>importance. The style of a work of art is an expression of the encounter of the artist with ultimate
               <lb facs="#facs_21_tr_2_tl_6" n="N004"/>reality, even if he expresses ultimate reality in atheistic terms.</p>
            <p>
@@ -110,7 +109,7 @@
               <lb facs="#facs_21_tr_2_tl_9" n="N007"/>of its expressive power is the encounter between the creative artist and the reality which he encounters.</p>
            <p>
                <lb facs="#facs_21_tr_2_tl_10" n="N008"/>This is the first consideration which I want to make. Now I come on this basis to the way
-               <lb facs="#facs_21_tr_2_tl_11" n="N009"/>in which the expression is done. This is <rs type="keyword" ref="#Symbols">SYMBOL</rs>. I have already spoken last semester about religious
+               <lb facs="#facs_21_tr_2_tl_11" n="N009"/>in which the expression is done. This is <rs type="keyword" ref="#Symbols"><emph rend="allcaps">symbol</emph></rs>. I have already spoken last semester about religious
                <lb facs="#facs_21_tr_1_tl_1" n="N001"/>symbols. We have to come back to them if we relate them to artistic ones. But I didn't speak
                <lb facs="#facs_21_tr_1_tl_2" n="N002"/>about <rs type="keyword" ref="#Art">artistic</rs> symbols and their relation to religious ones. That is the next thing we must do,
                <lb facs="#facs_21_tr_1_tl_3" n="N003"/>especially if we agree that the <rs type="keyword" ref="#Expressive_function">expressive function</rs> of art is its basic function and its most

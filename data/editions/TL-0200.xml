@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -97,8 +96,8 @@
         <div>
             <pb facs="#TL-0200.jpg" n="part1_p200.jpg" xml:id="img_0200" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part1_p200.jpg"/>
             
-            <p facs="#facs_200_tr_1">
-               <lb facs="#facs_200_tr_1_tl_1" n="N001"/>[196]</p>
+            <fw facs="#facs_200_tr_1">
+               <lb facs="#facs_200_tr_1_tl_1" n="N001"/>[196]</fw>
            <p>
                <lb facs="#facs_200_tr_1_tl_2" n="N002"/>English <rs type="keyword" ref="#Nominalism">nominalism</rs> became powerful in the 18th century and were very willing to receive those elements
                <lb facs="#facs_200_tr_1_tl_4" n="N003"/>of nominalism which came from the Continent in our century, especially the <rs type="keyword" ref="#School_of_Vienna">school of Vienna,</rs> which
@@ -106,8 +105,8 @@
            <p>
                <lb facs="#facs_200_tr_1_tl_7" n="N005"/>Now this situation has consequences for the whole philosophical discussion in the Western
                <lb facs="#facs_200_tr_1_tl_8" n="N006"/>world today. Let me first tell you what the main point is. The question is whether there are only
-               <lb facs="#facs_200_tr_1_tl_9" n="N007"/>individual trees or whether treehood, the quality of BEING a tree, has an ontological standing, a
-               <lb facs="#facs_200_tr_1_tl_10" n="N008"/>"BESIDES" the individual tree. <rs type="keyword" ref="#Realism">REALISM</rs> in the Middle Ages means that the <rs type="keyword" ref="#Universal_category">universals</rs> have some kind
+               <lb facs="#facs_200_tr_1_tl_9" n="N007"/>individual trees or whether treehood, the quality of <emph rend="allcaps">being</emph> a tree, has an ontological standing, a
+               <lb facs="#facs_200_tr_1_tl_10" n="N008"/>"<emph rend="allcaps">besides</emph>" the individual tree. <rs type="keyword" ref="#Realism"><emph rend="allcaps">realism</emph></rs> in the Middle Ages means that the <rs type="keyword" ref="#Universal_category">universals</rs> have some kind
                <lb facs="#facs_200_tr_1_tl_11" n="N009"/>of reality. Certainly, they do not have the kind of reality which the individual things have; they are
                <lb facs="#facs_200_tr_1_tl_12" n="N010"/>not a second world beside the given world. But they have the reality of determining the growth of
                <lb facs="#facs_200_tr_1_tl_13" n="N011"/>every tree into the <hi style="font-style: italic;">eidos</hi>, the image, of a tree. This was called realism. To make the understanding easier

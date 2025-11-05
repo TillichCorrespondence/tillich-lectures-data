@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -101,8 +100,8 @@
         <div>
             <pb facs="#TL-0517.jpg" n="part4_p043.jpg" xml:id="img_0043" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p043.jpg"/>
             
-            <p facs="#facs_43_tr_1">
-               <lb facs="#facs_43_tr_1_tl_1" n="N001"/>[512]</p>
+            <fw facs="#facs_43_tr_1">
+               <lb facs="#facs_43_tr_1_tl_1" n="N001"/>[512]</fw>
            <p>
                <lb facs="#facs_43_tr_1_tl_2" n="N002"/>and behaviors of a society. This word, however, has received a negative context [i.e. connotation].
                <lb facs="#facs_43_tr_1_tl_3" n="N003"/>Today, if one speaks of morals, then in <rs type="place">Germany</rs>---as I experienced in my lectures in <rs type="place">Hamburg</rs> two
@@ -122,7 +121,7 @@
                <lb facs="#facs_43_tr_2_tl_1" n="N001"/>suggestion that when we (and you, later on) speak about these two words, reestablish the old word
                <lb facs="#facs_43_tr_2_tl_2" n="N002"/>"morals," which in English is still possible, in German is not possible any more, I am afraid, and
                <lb facs="#facs_43_tr_2_tl_3" n="N003"/>which is easy in France---namely as the reality itself, the moral behavior, the moral act, the moral
-               <lb facs="#facs_43_tr_2_tl_4" n="N004"/>imperative, the moral contents; and that you use the word "ethics" for the SCIENCE of morals,
+               <lb facs="#facs_43_tr_2_tl_4" n="N004"/>imperative, the moral contents; and that you use the word "ethics" for the <emph rend="allcaps">science</emph> of morals,
             </p>
             
         </div>
