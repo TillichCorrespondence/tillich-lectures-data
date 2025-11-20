@@ -119,19 +119,19 @@
             <fw facs="#facs_1_tr_3">
                <lb facs="#facs_1_tr_3_tl_1" n="N001"/>[281]</fw>
             
-            <p><lb facs="#facs_1_tr_3_tl_2" n="N002"/>RELIGION and CULTURE — Semester II *</p>
+            <p rend="tei-p-no-indent"><lb facs="#facs_1_tr_3_tl_2" n="N002"/><emph rend="allcaps">Religion</emph> and <emph rend="allcaps">Culture</emph> — Semester II *</p>
             
             <list>
-               <item><lb facs="#facs_1_tr_3_tl_3" n="N003"/>1. The special character of <rs type="keyword" ref="#Art">art</rs> between theory and practice.</item>
+               <item rend="tei-p-no-indent"><lb facs="#facs_1_tr_3_tl_3" n="N003"/>1. The special character of <rs type="keyword" ref="#Art">art</rs> between theory and practice.</item>
                
-               <item><lb facs="#facs_1_tr_3_tl_4" n="N004"/>2. The doctrine of <rs type="keyword" ref="#Symbols_Artistic">artistic symbols</rs>. (Reflective and representative symbols, psychological symbols,
+               <item rend="tei-p-no-indent"><lb facs="#facs_1_tr_3_tl_4" n="N004"/>2. The doctrine of <rs type="keyword" ref="#Symbols_Artistic">artistic symbols</rs>. (Reflective and representative symbols, psychological symbols,
                   <lb facs="#facs_1_tr_3_tl_5" n="N005"/>symbols in the different arts---music, architecture)</item>
                
-               <item><lb facs="#facs_1_tr_3_tl_6" n="N006"/>3. Theory of the four levels in the different arts. (The problem of subject matter in music)</item>
+               <item rend="tei-p-no-indent"><lb facs="#facs_1_tr_3_tl_6" n="N006"/>3. Theory of the four levels in the different arts. (The problem of subject matter in music)</item>
                
-               <item><lb facs="#facs_1_tr_3_tl_7" n="N007"/>4. Examples of the four levels in the visual arts. (Slides)</item>
+               <item rend="tei-p-no-indent"><lb facs="#facs_1_tr_3_tl_7" n="N007"/>4. Examples of the four levels in the visual arts. (Slides)</item>
                
-               <item><lb facs="#facs_1_tr_3_tl_8" n="N008"/>5. Discussion and beginning analysis of the present period in the light of the arts.
+               <item rend="tei-p-no-indent"><lb facs="#facs_1_tr_3_tl_8" n="N008"/>5. Discussion and beginning analysis of the present period in the light of the arts.
                   <list>
                      <item><rs type="bibl"><lb facs="#facs_1_l" n="N009"/>*<rs type="person" ref="#tillich_person_id__2988">Malraux</rs>, A. The Twilight of the Absolute</rs></item>
                      <item><rs type="bibl"><lb facs="#facs_1_l_165" n="N010"/>Psychology of Art (1950)</rs></item>
@@ -146,7 +146,7 @@
                   </list>
                </item>
                
-               <item><lb facs="#facs_1_l_232" n="N019"/>6. Total analysis of the present situaion [sic.] in the light of preceding periods.
+               <item rend="tei-p-no-indent"><lb facs="#facs_1_l_232" n="N019"/>6. Total analysis of the present situaion [sic.] in the light of preceding periods.
                   <list>
                      <item><rs type="bibl"><lb facs="#facs_1_l_239" n="N020"/><rs type="person" ref="#tillich_person_id__188">Berdyaev, N. </rs>The Faith of Man in the Modern World</rs></item>
                      <item><rs type="bibl"><lb facs="#facs_1_l_246" n="N021"/>*<rs type="person" ref="#tillich_person_id__1757">Schweitzer, A</rs>. The Decay and Restoration of Civilization</rs></item>
@@ -160,16 +160,16 @@
                   </list>
                </item>
                
-               <item><lb facs="#facs_1_l_302" n="N029"/>7. Continuation of the analysis of present day industrial society. Its relation to religion.
+               <item rend="tei-p-no-indent"><lb facs="#facs_1_l_302" n="N029"/>7. Continuation of the analysis of present day industrial society. Its relation to religion.
                   <list>
                      <item><rs type="bibl"><lb facs="#facs_1_l_309" n="N030"/><rs type="person" ref="#tillich_person_id__1255">Mannheim, K.</rs> Diagnosis of Our Time</rs></item>
                      <item><rs type="bibl"><lb facs="#facs_1_l_316" n="N031"/>*<rs type="person" ref="#tillich_person_id__2996">Mumford, L</rs>. Technics and Civilization</rs></item>
                   </list>
                </item>
                
-               <item><lb facs="#facs_1_l_323" n="N032"/>8. Religion and <rs type="keyword" ref="#Education">Education</rs>. The meaning of education (the wherefrom and the whereto)</item>
+               <item rend="tei-p-no-indent"><lb facs="#facs_1_l_323" n="N032"/>8. Religion and <rs type="keyword" ref="#Education">Education</rs>. The meaning of education (the wherefrom and the whereto)</item>
                
-               <item><lb facs="#facs_1_l_330" n="N033"/>9. The meaning and method of religious education. (Question and answer. Symbols and interpretation.)
+               <item rend="tei-p-no-indent"><lb facs="#facs_1_l_330" n="N033"/>9. The meaning and method of religious education. (Question and answer. Symbols and interpretation.)
                   <list>
                      <item><rs type="bibl"><lb facs="#facs_1_l_337" n="N034"/>*<rs type="person" ref="#tillich_person_id__1965">Ulich</rs> History of Educational Thought</rs></item>
                      <item><rs type="bibl"><lb facs="#facs_1_l_344" n="N035"/>*The Meaning of Education</rs></item>
@@ -180,8 +180,8 @@
                </item>
             </list>
             
-            <p><lb facs="#facs_1_l_372" n="N039"/>--------------------</p>
-            <p><lb facs="#facs_1_l_379" n="N040"/>* Names with asterisk refer to books involved in exam topics. -Ed.</p>
+            <p rend="tei-p-no-indent"><lb facs="#facs_1_l_372" n="N039"/>--------------------</p>
+            <p rend="tei-p-no-indent"><lb facs="#facs_1_l_379" n="N040"/>* Names with asterisk refer to books involved in exam topics. -Ed.</p>
             
          </div>
       </body>
