@@ -154,14 +154,14 @@
          <div>
             <pb facs="#TL-0349.jpg" n="part2_p065.jpg" xml:id="img_0065" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part2_p065.jpg"/>
             
-            <p facs="#facs_65_r_5">
+            <p  rend="tei-p-no-indent" facs="#facs_65_r_5">
                <lb facs="#facs_65_l" n="N001"/>[The following is the listing of slides in the “Religion and Art” section.--Ed.]</p>
             <fw>
                <lb facs="#facs_65_l_23" n="N002"/>[344]</fw>
-            <p>
+            <p rend="tei-p-no-indent">
                <lb facs="#facs_65_l_30" n="N003"/><emph rend="allcaps">Appendix</emph></p>
-            <p>
-               <lb facs="#facs_65_l_37" n="N001"/>FIRST GROUP (Naturalistic style, secular subject matter)</p>
+            <p rend="tei-p-no-indent">
+               <lb facs="#facs_65_l_37" n="N001"/><emph rend="allcaps">First Group</emph> (Naturalistic style, secular subject matter)</p>
             <p>
                <lb facs="#facs_65_l_44" n="N002"/><rs type="painting"><rs type="person">Rubens</rs>: <emph rend="italic">Landscape with Women</emph></rs></p>
             <p>
@@ -206,7 +206,7 @@
                <lb facs="#facs_65_l_189" n="N022"/><rs type="painting"><rs type="person">Hals, Frans</rs>: <emph rend="italic">La Bohémienne</emph></rs></p>
             <p>
                <lb facs="#facs_65_l_196" n="N023"/><rs type="painting"><rs type="person">Sargent, J.S.</rs>: <emph rend="italic">Portrait of Henry James</emph></rs></p>
-            <p>
+            <p rend="tei-p-no-indent">
                <lb facs="#facs_65_l_203" n="N024"/><emph rend="allcaps">Second group</emph> (Non-naturalistic style, secular subject matter)</p>
             <p>
                <lb facs="#facs_65_l_210" n="N025"/><rs type="painting"><rs type="person">El Greco</rs>: <emph rend="italic">View of Toledo</emph></rs></p>
@@ -242,7 +242,7 @@
                <lb facs="#facs_65_l_318" n="N004"/><rs type="painting"><rs type="person">Moore, Henry</rs>: <emph rend="italic">Family Group</emph></rs></p>
             <p>
                <lb facs="#facs_65_l_325" n="N005"/><rs type="painting"><rs type="person">Moore, Henry</rs>: <emph rend="italic">Reclining Figure</emph></rs></p>
-            <p>
+            <p rend="tei-p-no-indent">
                <lb facs="#facs_65_l_332" n="N006"/><emph rend="allcaps">Third group</emph> (Naturalistic style, religious subject matter)</p>
             <p>
                <lb facs="#facs_65_l_339" n="N007"/><rs type="painting"><rs type="person">Giotto</rs>: <emph rend="italic">St. Francis and the Birds</emph></rs></p>
@@ -260,7 +260,7 @@
                <lb facs="#facs_65_l_381" n="N013"/><rs type="painting"><rs type="person">Uhde, Fritz von</rs>: <emph rend="italic">The Christ with the Peasants</emph></rs></p>
             <p>
                <lb facs="#facs_65_l_388" n="N014"/><rs type="painting"><rs type="person">Manet, Edouard</rs>: <emph rend="italic">Ecce Homo (The mocking of Christ)</emph></rs></p>
-            <p>
+            <p rend="tei-p-no-indent">
                <lb facs="#facs_65_l_395" n="N015"/><emph rend="allcaps">Fourth group</emph> (Non-naturalistic style, religious subject matter)</p>
             <p>
                <lb facs="#facs_65_l_402" n="N016"/><rs type="painting">Greek Sculpture: <emph rend="italic">Apollo</emph></rs></p>
