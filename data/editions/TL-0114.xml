@@ -99,12 +99,14 @@
             <fw facs="#facs_114_tr_2">
                <lb facs="#facs_114_tr_2_tl_1" n="N001"/>[111]</fw>
            <p rend="tei-p-no-indent">
-              <lb facs="#facs_114_tr_2_tl_3" n="N002"/><emph rend="allcaps">Lecture XII[a]</emph>, Nov. 8, 1955</p>
-           <p><supplied resp="editor"><hi rend="italic">Discussion with students:</hi></supplied></p>
+              <lb facs="#facs_114_tr_2_tl_3" n="N002"/>
+              <title><emph rend="allcaps">Lecture XII[a]</emph></title>
+              <date when-iso="1955-11-08">Nov. 8, 1955</date></p>
+           <p><supplied resp="editor"><hi rend="italic"><emph rend="allcaps">Questions from students:</emph></hi></supplied></p>
            <p rend="tei-p-no-indent">
               <lb facs="#facs_114_tr_2_tl_4" n="N003"/><emph rend="allcaps">Question</emph>: Please comment on the architecture of Memorial Hall.</p>
            <p rend="tei-p-no-indent">
-              <lb facs="#facs_114_tr_2_tl_5" n="N004"/><emph rend="allcaps"><rs type="person" ref="#tillich_person_id__1928">Answer (Paul Tillich)</rs></emph>: No comment! <hi style="font-style: italic;">[Smiling – pause – sotto voce]</hi>: The worst would be too good!</p>
+              <lb facs="#facs_114_tr_2_tl_5" n="N004"/><emph rend="allcaps"><rs type="person" ref="#tillich_person_id__1928">Answer (Paul Tillich)</rs></emph>: No comment! [Smiling – pause – sotto voce]: The worst would be too good!</p>
       
            <p rend="tei-p-no-indent">
                <lb facs="#facs_114_tr_2_tl_7" n="N006"/><emph rend="allcaps">Lecture</emph>: We have started the discussion on religion and that part of culture which we call science.
