@@ -1,0 +1,852 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Zusatzmaterial I Box 38, 39, 46</title>
+                <title type="sub">Religion and Culture Project</title>
+                <principal>
+                    <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <idno type="transkribus_col_id">1956124</idno>
+                    <idno type="transkribus_doc_id">7266331</idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>changme</institution>
+                        <repository>changme</repository>
+                        <idno type="archive">changme</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <locus>Zusatzmaterial I Box 38, 39, 46</locus>
+                            <p/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+<facsimile>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_1">
+         <graphic url="TLx-0043_bMS 649_46 (20)-01.jpg" width="3024px" height="4032px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_2">
+         <graphic url="TLx-0043_bMS 649_46 (20)-02.jpg" width="3024px" height="4032px"/>
+         <zone points="99,728 2543,728 2543,3815 99,3815" rendition="TextRegion" xml:id="facs_2_r">
+            <zone points="629,1103 2066,1092 2066,1062 628,1073" rendition="Line" xml:id="facs_2_l"/>
+            <zone points="343,1523 2419,1557 2419,1527 344,1493" rendition="Line" xml:id="facs_2_l_13"/>
+            <zone points="377,1973 2490,1996 2490,1966 377,1943" rendition="Line" xml:id="facs_2_l_20"/>
+            <zone points="212,2221 2501,2266 2502,2236 213,2191" rendition="Line" xml:id="facs_2_l_27"/>
+            <zone points="246,2480 1916,2483 1916,2453 246,2450" rendition="Line" xml:id="facs_2_l_34"/>
+            <zone points="403,2735 2130,2761 2130,2731 404,2705" rendition="Line" xml:id="facs_2_l_41"/>
+            <zone points="362,3001 1477,2986 1476,2956 362,2971" rendition="Line" xml:id="facs_2_l_48"/>
+            <zone points="340,3282 2520,3286 2520,3256 340,3252" rendition="Line" xml:id="facs_2_l_55"/>
+            <zone points="178,3470 2494,3524 2494,3494 179,3440" rendition="Line" xml:id="facs_2_l_62"/>
+            <zone points="205,3678 865,3678 865,3648 205,3648" rendition="Line" xml:id="facs_2_l_69"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_3">
+         <graphic url="TLx-0043_bMS 649_46 (20)-06.jpg" width="3024px" height="4032px"/>
+         <zone points="97,642 2656,642 2656,3835 97,3835" rendition="TextRegion" xml:id="facs_3_r">
+            <zone points="1306,767 1512,773 1513,743 1307,737" rendition="Line" xml:id="facs_3_l_113"/>
+            <zone points="604,1088 2156,1003 2155,973 602,1058" rendition="Line" xml:id="facs_3_l"/>
+            <zone points="337,1496 2538,1339 2536,1309 335,1466" rendition="Line" xml:id="facs_3_l_17"/>
+            <zone points="483,1807 2541,1693 2539,1663 481,1777" rendition="Line" xml:id="facs_3_l_24"/>
+            <zone points="169,2065 2476,1911 2474,1881 167,2035" rendition="Line" xml:id="facs_3_l_32"/>
+            <zone points="194,2283 2548,2110 2546,2081 192,2253" rendition="Line" xml:id="facs_3_l_39"/>
+            <zone points="194,2495 2542,2304 2540,2274 191,2465" rendition="Line" xml:id="facs_3_l_46"/>
+            <zone points="171,2688 2503,2492 2500,2462 168,2658" rendition="Line" xml:id="facs_3_l_53"/>
+            <zone points="163,2885 2562,2673 2559,2643 161,2855" rendition="Line" xml:id="facs_3_l_60"/>
+            <zone points="162,3060 2532,2897 2530,2867 160,3030" rendition="Line" xml:id="facs_3_l_67"/>
+            <zone points="189,3211 2526,3012 2523,2982 187,3182" rendition="Line" xml:id="facs_3_l_74"/>
+            <zone points="189,3393 2517,3213 2514,3183 187,3363" rendition="Line" xml:id="facs_3_l_81"/>
+            <zone points="189,3573 2535,3428 2533,3398 187,3543" rendition="Line" xml:id="facs_3_l_88"/>
+            <zone points="241,3715 2535,3603 2533,3573 239,3685" rendition="Line" xml:id="facs_3_l_95"/>
+            <zone points="1814,3779 2529,3760 2528,3730 1814,3749" rendition="Line" xml:id="facs_3_l_102"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_4">
+         <graphic url="TLx-0043_bMS 649_46 (20)-05.jpg" width="3024px" height="4032px"/>
+         <zone points="115,646 2632,646 2632,3727 115,3727" rendition="TextRegion" xml:id="facs_4_r">
+            <zone points="1142,810 1286,807 1285,777 1142,780" rendition="Line" xml:id="facs_4_l"/>
+            <zone points="177,1077 2504,948 2502,918 176,1047" rendition="Line" xml:id="facs_4_l_13"/>
+            <zone points="191,1305 2504,1125 2502,1095 189,1275" rendition="Line" xml:id="facs_4_l_20"/>
+            <zone points="173,1541 2562,1378 2560,1348 171,1511" rendition="Line" xml:id="facs_4_l_27"/>
+            <zone points="176,1729 2525,1564 2523,1534 174,1700" rendition="Line" xml:id="facs_4_l_34"/>
+            <zone points="198,1938 2570,1783 2568,1753 196,1908" rendition="Line" xml:id="facs_4_l_41"/>
+            <zone points="187,2129 2522,1988 2520,1958 185,2099" rendition="Line" xml:id="facs_4_l_48"/>
+            <zone points="180,2329 2569,2214 2567,2184 179,2299" rendition="Line" xml:id="facs_4_l_65"/>
+            <zone points="152,2576 2560,2430 2558,2400 150,2547" rendition="Line" xml:id="facs_4_l_72"/>
+            <zone points="186,2765 2518,2658 2517,2628 184,2735" rendition="Line" xml:id="facs_4_l_79"/>
+            <zone points="177,2962 2563,2886 2562,2856 176,2932" rendition="Line" xml:id="facs_4_l_86"/>
+            <zone points="191,3128 2569,3032 2567,3002 190,3098" rendition="Line" xml:id="facs_4_l_93"/>
+            <zone points="188,3327 2569,3237 2568,3207 187,3297" rendition="Line" xml:id="facs_4_l_100"/>
+            <zone points="172,3524 2563,3437 2562,3407 171,3494" rendition="Line" xml:id="facs_4_l_107"/>
+            <zone points="174,3676 1283,3653 1282,3623 174,3646" rendition="Line" xml:id="facs_4_l_114"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_5">
+         <graphic url="TLx-0043_bMS 649_46 (20)-03.jpg" width="3024px" height="4032px"/>
+         <zone points="120,737 2556,737 2556,3700 120,3700" rendition="TextRegion" xml:id="facs_5_r">
+            <zone points="1051,854 1250,857 1250,827 1051,824" rendition="Line" xml:id="facs_5_l"/>
+            <zone points="499,1240 1623,1169 1621,1139 497,1210" rendition="Line" xml:id="facs_5_l_13"/>
+            <zone points="358,1544 2524,1439 2522,1409 357,1514" rendition="Line" xml:id="facs_5_l_20"/>
+            <zone points="159,1795 2546,1701 2545,1671 158,1765" rendition="Line" xml:id="facs_5_l_27"/>
+            <zone points="144,2009 2513,1938 2512,1908 144,1979" rendition="Line" xml:id="facs_5_l_34"/>
+            <zone points="152,2223 2537,2136 2536,2106 151,2193" rendition="Line" xml:id="facs_5_l_41"/>
+            <zone points="169,2444 2548,2367 2547,2337 168,2414" rendition="Line" xml:id="facs_5_l_48"/>
+            <zone points="364,2660 2499,2566 2498,2536 363,2630" rendition="Line" xml:id="facs_5_l_55"/>
+            <zone points="188,2892 2458,2768 2456,2738 186,2862" rendition="Line" xml:id="facs_5_l_62"/>
+            <zone points="195,3065 2552,2978 2551,2948 194,3035" rendition="Line" xml:id="facs_5_l_69"/>
+            <zone points="214,3275 2503,3188 2502,3159 213,3245" rendition="Line" xml:id="facs_5_l_76"/>
+            <zone points="218,3455 2481,3376 2480,3346 217,3425" rendition="Line" xml:id="facs_5_l_83"/>
+            <zone points="221,3657 2391,3605 2390,3575 221,3627" rendition="Line" xml:id="facs_5_l_90"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_6">
+         <graphic url="TLx-0043_bMS 649_46 (20)-04.jpg" width="3024px" height="4032px"/>
+         <zone points="105,652 2644,652 2644,3763 105,3763" rendition="TextRegion" xml:id="facs_6_r_21">
+            <zone points="1092,797 1250,788 1248,758 1090,767" rendition="Line" xml:id="facs_6_l_37"/>
+            <zone points="881,1085 2193,1014 2191,984 879,1055" rendition="Line" xml:id="facs_6_l_44"/>
+            <zone points="355,1372 2582,1217 2580,1187 353,1342" rendition="Line" xml:id="facs_6_l_51"/>
+            <zone points="185,1561 2548,1412 2546,1382 183,1531" rendition="Line" xml:id="facs_6_l_58"/>
+            <zone points="169,1725 2573,1601 2571,1571 167,1695" rendition="Line" xml:id="facs_6_l_65"/>
+            <zone points="166,1964 2545,1818 2543,1788 164,1934" rendition="Line" xml:id="facs_6_l_72"/>
+            <zone points="166,2162 2610,1989 2608,1959 164,2132" rendition="Line" xml:id="facs_6_l_79"/>
+            <zone points="144,2370 2545,2196 2543,2167 142,2340" rendition="Line" xml:id="facs_6_l_86"/>
+            <zone points="138,2565 2579,2423 2577,2393 136,2535" rendition="Line" xml:id="facs_6_l_93"/>
+            <zone points="138,2764 2570,2625 2568,2595 136,2734" rendition="Line" xml:id="facs_6_l_118"/>
+            <zone points="147,2956 2588,2823 2587,2793 146,2926" rendition="Line" xml:id="facs_6_l_125"/>
+            <zone points="717,2905 2577,2841 2576,2811 716,2875" rendition="Line" xml:id="facs_6_l_67"/>
+            <zone points="216,3152 2148,3028 2146,2998 214,3122" rendition="Line" xml:id="facs_6_l_132"/>
+            <zone points="355,3409 2526,3338 2525,3308 354,3379" rendition="Line" xml:id="facs_6_l_139"/>
+            <zone points="188,3604 2610,3530 2609,3500 187,3574" rendition="Line" xml:id="facs_6_l_146"/>
+            <zone points="185,3731 2585,3700 2585,3670 184,3701" rendition="Line" xml:id="facs_6_l_153"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_7">
+         <graphic url="TLx-0043_bMS 649_46 (20)-07.jpg" width="3024px" height="4032px"/>
+         <zone points="193,577 2641,577 2641,3826 193,3826" rendition="TextRegion" xml:id="facs_7_r">
+            <zone points="1247,760 1393,744 1389,714 1244,730" rendition="Line" xml:id="facs_7_l_111"/>
+            <zone points="297,1003 2600,867 2598,837 296,973" rendition="Line" xml:id="facs_7_l"/>
+            <zone points="229,1226 2609,1058 2607,1028 227,1196" rendition="Line" xml:id="facs_7_l_13"/>
+            <zone points="243,1434 2622,1235 2620,1205 240,1404" rendition="Line" xml:id="facs_7_l_20"/>
+            <zone points="247,1652 2557,1450 2554,1420 245,1622" rendition="Line" xml:id="facs_7_l_27"/>
+            <zone points="223,1831 2570,1673 2568,1643 220,1802" rendition="Line" xml:id="facs_7_l_34"/>
+            <zone points="213,2013 2584,1959 2583,1929 213,1983" rendition="Line" xml:id="facs_7_l_41"/>
+            <zone points="254,2213 2611,2190 2611,2160 254,2183" rendition="Line" xml:id="facs_7_l_48"/>
+            <zone points="236,2421 2588,2362 2588,2332 235,2391" rendition="Line" xml:id="facs_7_l_55"/>
+            <zone points="450,2676 2584,2626 2583,2596 449,2646" rendition="Line" xml:id="facs_7_l_62"/>
+            <zone points="218,2853 2534,2794 2533,2764 217,2823" rendition="Line" xml:id="facs_7_l_69"/>
+            <zone points="223,3061 2493,3007 2492,2977 222,3031" rendition="Line" xml:id="facs_7_l_76"/>
+            <zone points="204,3247 2557,3184 2556,3154 204,3217" rendition="Line" xml:id="facs_7_l_83"/>
+            <zone points="209,3411 2543,3365 2542,3335 208,3381" rendition="Line" xml:id="facs_7_l_90"/>
+            <zone points="209,3565 2588,3542 2588,3512 209,3535" rendition="Line" xml:id="facs_7_l_97"/>
+            <zone points="209,3697 2616,3683 2615,3653 209,3667" rendition="Line" xml:id="facs_7_l_104"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_8">
+         <graphic url="TLx-0043_bMS 649_46 (20)-08.jpg" width="3024px" height="4032px"/>
+         <zone points="32,649 2723,649 2723,3766 32,3766" rendition="TextRegion" xml:id="facs_8_r">
+            <zone points="1146,733 1300,699 1294,670 1140,704" rendition="Line" xml:id="facs_8_l"/>
+            <zone points="133,1011 2619,814 2617,784 131,981" rendition="Line" xml:id="facs_8_l_17"/>
+            <zone points="158,1208 2601,975 2598,945 155,1178" rendition="Line" xml:id="facs_8_l_24"/>
+            <zone points="113,1433 2635,1202 2632,1172 110,1403" rendition="Line" xml:id="facs_8_l_31"/>
+            <zone points="195,1615 2574,1412 2572,1382 193,1585" rendition="Line" xml:id="facs_8_l_38"/>
+            <zone points="184,1821 653,1791 826,1637 2586,1528 2584,1498 814,1609 641,1763 182,1791" rendition="Line" xml:id="facs_8_l_54"/>
+            <zone points="665,1833 2557,1623 2554,1593 662,1803" rendition="Line" xml:id="facs_8_l_160"/>
+            <zone points="709,1866 2539,1742 2537,1712 707,1836" rendition="Line" xml:id="facs_8_l_68"/>
+            <zone points="201,1993 1661,1877 1658,1847 198,1964" rendition="Line" xml:id="facs_8_l_75"/>
+            <zone points="190,2076 2606,1892 2604,1862 187,2046" rendition="Line" xml:id="facs_8_l_82"/>
+            <zone points="212,2226 2610,2072 2608,2042 210,2196" rendition="Line" xml:id="facs_8_l_89"/>
+            <zone points="242,2402 2618,2203 2615,2174 240,2372" rendition="Line" xml:id="facs_8_l_96"/>
+            <zone points="212,2582 2539,2391 2536,2361 210,2552" rendition="Line" xml:id="facs_8_l_103"/>
+            <zone points="197,2796 1308,2736 1306,2706 195,2766" rendition="Line" xml:id="facs_8_l_110"/>
+            <zone points="531,2943 2614,2872 2613,2842 530,2913" rendition="Line" xml:id="facs_8_l_117"/>
+            <zone points="246,3112 2546,3033 2545,3003 245,3082" rendition="Line" xml:id="facs_8_l_124"/>
+            <zone points="242,3311 2610,3239 2609,3210 241,3281" rendition="Line" xml:id="facs_8_l_131"/>
+            <zone points="250,3510 2636,3476 2636,3446 249,3480" rendition="Line" xml:id="facs_8_l_138"/>
+            <zone points="396,3630 2043,3656 2044,3626 396,3600" rendition="Line" xml:id="facs_8_l_145"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_9">
+         <graphic url="TLx-0043_bMS 649_46 (20)-09.jpg" width="3024px" height="4032px"/>
+         <zone points="99,613 2737,613 2737,3819 99,3819" rendition="TextRegion" xml:id="facs_9_r_2">
+            <zone points="1098,869 1358,840 1355,810 1095,839" rendition="Line" xml:id="facs_9_l"/>
+            <zone points="147,1116 2562,1001 2560,971 145,1086" rendition="Line" xml:id="facs_9_l_14"/>
+            <zone points="188,1310 2578,1211 2577,1181 187,1280" rendition="Line" xml:id="facs_9_l_21"/>
+            <zone points="134,1492 2615,1380 2614,1350 133,1462" rendition="Line" xml:id="facs_9_l_28"/>
+            <zone points="171,1694 2595,1574 2593,1544 170,1664" rendition="Line" xml:id="facs_9_l_35"/>
+            <zone points="175,1880 2578,1776 2577,1746 174,1850" rendition="Line" xml:id="facs_9_l_42"/>
+            <zone points="155,2073 2520,1962 2519,1932 153,2043" rendition="Line" xml:id="facs_9_l_49"/>
+            <zone points="188,2280 2169,2201 2168,2171 187,2250" rendition="Line" xml:id="facs_9_l_56"/>
+            <zone points="361,2457 2533,2379 2532,2349 360,2427" rendition="Line" xml:id="facs_9_l_63"/>
+            <zone points="159,2651 2541,2536 2539,2506 157,2621" rendition="Line" xml:id="facs_9_l_70"/>
+            <zone points="130,2849 2636,2696 2634,2666 128,2819" rendition="Line" xml:id="facs_9_l_77"/>
+            <zone points="159,3026 2615,2923 2614,2893 158,2997" rendition="Line" xml:id="facs_9_l_84"/>
+            <zone points="147,3200 2578,3125 2577,3096 146,3170" rendition="Line" xml:id="facs_9_l_91"/>
+            <zone points="188,3373 749,3377 749,3347 188,3343" rendition="Line" xml:id="facs_9_l_98"/>
+            <zone points="456,3588 2562,3559 2561,3529 456,3558" rendition="Line" xml:id="facs_9_l_105"/>
+            <zone points="303,3707 2623,3744 2624,3714 304,3677" rendition="Line" xml:id="facs_9_l_112"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_10">
+         <graphic url="TLx-0043_bMS 649_46 (20)-12.jpg" width="3024px" height="4032px"/>
+         <zone points="69,647 2633,647 2633,3742 69,3742" rendition="TextRegion" xml:id="facs_10_r">
+            <zone points="970,764 1143,764 1143,734 970,734" rendition="Line" xml:id="facs_10_l"/>
+            <zone points="696,1082 2156,985 2154,955 694,1053" rendition="Line" xml:id="facs_10_l_13"/>
+            <zone points="321,1367 2456,1176 2454,1146 318,1338" rendition="Line" xml:id="facs_10_l_20"/>
+            <zone points="114,1619 2456,1382 2453,1353 111,1589" rendition="Line" xml:id="facs_10_l_27"/>
+            <zone points="118,1799 2513,1589 2510,1559 116,1769" rendition="Line" xml:id="facs_10_l_34"/>
+            <zone points="122,1986 2501,1750 2498,1720 119,1957" rendition="Line" xml:id="facs_10_l_41"/>
+            <zone points="122,2148 2483,1885 2479,1855 119,2118" rendition="Line" xml:id="facs_10_l_48"/>
+            <zone points="122,2316 2535,2088 2532,2058 119,2287" rendition="Line" xml:id="facs_10_l_55"/>
+            <zone points="103,2470 2531,2286 2529,2256 101,2440" rendition="Line" xml:id="facs_10_l_62"/>
+            <zone points="122,2703 2531,2463 2528,2433 119,2673" rendition="Line" xml:id="facs_10_l_69"/>
+            <zone points="129,2853 2531,2665 2529,2635 127,2823" rendition="Line" xml:id="facs_10_l_76"/>
+            <zone points="122,3029 2558,2834 2555,2804 120,2999" rendition="Line" xml:id="facs_10_l_83"/>
+            <zone points="99,3213 2498,3007 2495,2977 97,3183" rendition="Line" xml:id="facs_10_l_90"/>
+            <zone points="92,3374 2516,3205 2514,3175 90,3344" rendition="Line" xml:id="facs_10_l_97"/>
+            <zone points="88,3535 2505,3382 2503,3352 86,3505" rendition="Line" xml:id="facs_10_l_104"/>
+            <zone points="99,3723 2558,3550 2555,3520 97,3693" rendition="Line" xml:id="facs_10_l_111"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_11">
+         <graphic url="TLx-0043_bMS 649_46 (20)-11.jpg" width="3024px" height="4032px"/>
+         <zone points="-35,654 2681,654 2685,3852 -18,3835" rendition="TextRegion" xml:id="facs_11_r">
+            <zone points="1084,786 1265,807 1269,777 1087,756" rendition="Line" xml:id="facs_11_l"/>
+            <zone points="208,1013 2520,972 2520,942 208,983" rendition="Line" xml:id="facs_11_l_13"/>
+            <zone points="382,1252 2545,1166 2544,1136 381,1222" rendition="Line" xml:id="facs_11_l_20"/>
+            <zone points="175,1442 2533,1430 2532,1400 175,1412" rendition="Line" xml:id="facs_11_l_27"/>
+            <zone points="159,1628 2508,1599 2507,1569 159,1598" rendition="Line" xml:id="facs_11_l_34"/>
+            <zone points="142,1797 2487,1768 2487,1738 142,1767" rendition="Line" xml:id="facs_11_l_41"/>
+            <zone points="134,1995 2500,1925 2499,1895 133,1965" rendition="Line" xml:id="facs_11_l_48"/>
+            <zone points="134,2148 2495,2111 2495,2081 134,2118" rendition="Line" xml:id="facs_11_l_55"/>
+            <zone points="122,2346 2479,2296 2478,2266 121,2316" rendition="Line" xml:id="facs_11_l_62"/>
+            <zone points="97,2507 2524,2498 2524,2468 97,2477" rendition="Line" xml:id="facs_11_l_69"/>
+            <zone points="109,2705 2471,2655 2470,2625 109,2675" rendition="Line" xml:id="facs_11_l_76"/>
+            <zone points="68,2882 2421,2845 2421,2815 68,2852" rendition="Line" xml:id="facs_11_l_83"/>
+            <zone points="114,3018 2483,3014 2483,2984 113,2988" rendition="Line" xml:id="facs_11_l_90"/>
+            <zone points="96,3086 1191,3097 1191,3067 97,3056" rendition="Line" xml:id="facs_11_l_17"/>
+            <zone points="109,3249 2388,3208 2388,3178 109,3219" rendition="Line" xml:id="facs_11_l_97"/>
+            <zone points="76,3398 2434,3414 2434,3384 77,3368" rendition="Line" xml:id="facs_11_l_104"/>
+            <zone points="126,3584 2409,3633 2409,3603 127,3554" rendition="Line" xml:id="facs_11_l_111"/>
+            <zone points="60,3707 2417,3749 2418,3719 60,3677" rendition="Line" xml:id="facs_11_l_118"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_12">
+         <graphic url="TLx-0043_bMS 649_46 (20)-10.jpg" width="3024px" height="4032px"/>
+         <zone points="45,667 2613,667 2613,3819 45,3819" rendition="TextRegion" xml:id="facs_12_r">
+            <zone points="1036,852 1201,852 1201,822 1036,822" rendition="Line" xml:id="facs_12_l"/>
+            <zone points="640,992 2403,918 2401,888 639,963" rendition="Line" xml:id="facs_12_l_13"/>
+            <zone points="153,1178 764,1133 761,1103 151,1148" rendition="Line" xml:id="facs_12_l_20"/>
+            <zone points="384,1426 2473,1314 2471,1284 382,1396" rendition="Line" xml:id="facs_12_l_27"/>
+            <zone points="128,1611 2506,1475 2504,1445 126,1581" rendition="Line" xml:id="facs_12_l_34"/>
+            <zone points="128,1789 2423,1648 2421,1619 126,1759" rendition="Line" xml:id="facs_12_l_41"/>
+            <zone points="111,1937 2543,1830 2542,1800 110,1907" rendition="Line" xml:id="facs_12_l_48"/>
+            <zone points="116,2148 2477,2012 2475,1982 114,2118" rendition="Line" xml:id="facs_12_l_55"/>
+            <zone points="116,2342 2440,2197 2438,2167 114,2312" rendition="Line" xml:id="facs_12_l_62"/>
+            <zone points="140,2515 2493,2383 2492,2353 139,2485" rendition="Line" xml:id="facs_12_l_69"/>
+            <zone points="132,2771 2576,2626 2574,2596 130,2741" rendition="Line" xml:id="facs_12_l_76"/>
+            <zone points="124,2927 2386,2820 2385,2790 122,2898" rendition="Line" xml:id="facs_12_l_83"/>
+            <zone points="425,3159 2502,3055 2500,3025 424,3129" rendition="Line" xml:id="facs_12_l_97"/>
+            <zone points="194,3377 2477,3253 2475,3223 192,3347" rendition="Line" xml:id="facs_12_l_104"/>
+            <zone points="173,3530 2473,3451 2472,3421 172,3500" rendition="Line" xml:id="facs_12_l_111"/>
+            <zone points="202,3724 2539,3654 2538,3624 201,3694" rendition="Line" xml:id="facs_12_l_118"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_13">
+         <graphic url="TLx-0043_bMS 649_46 (20)-13.jpg" width="3024px" height="4032px"/>
+         <zone points="118,648 2599,648 2599,3858 118,3858" rendition="TextRegion" xml:id="facs_13_r">
+            <zone points="1026,838 1203,830 1202,800 1024,808" rendition="Line" xml:id="facs_13_l"/>
+            <zone points="155,1135 2425,904 2422,874 152,1105" rendition="Line" xml:id="facs_13_l_13"/>
+            <zone points="138,1358 2413,1098 2409,1068 135,1328" rendition="Line" xml:id="facs_13_l_20"/>
+            <zone points="142,1535 2434,1329 2431,1299 140,1505" rendition="Line" xml:id="facs_13_l_27"/>
+            <zone points="159,1750 2434,1494 2430,1464 156,1720" rendition="Line" xml:id="facs_13_l_34"/>
+            <zone points="138,1948 2421,1700 2418,1670 135,1918" rendition="Line" xml:id="facs_13_l_41"/>
+            <zone points="114,2187 2454,1948 2451,1918 110,2157" rendition="Line" xml:id="facs_13_l_48"/>
+            <zone points="163,2426 2487,2142 2484,2112 159,2397" rendition="Line" xml:id="facs_13_l_55"/>
+            <zone points="184,2579 2483,2369 2480,2339 181,2549" rendition="Line" xml:id="facs_13_l_62"/>
+            <zone points="196,2798 2557,2546 2554,2516 193,2768" rendition="Line" xml:id="facs_13_l_69"/>
+            <zone points="221,2979 2557,2765 2555,2735 218,2949" rendition="Line" xml:id="facs_13_l_76"/>
+            <zone points="196,3144 2541,2971 2539,2941 194,3114" rendition="Line" xml:id="facs_13_l_83"/>
+            <zone points="221,3367 2549,3231 2547,3201 219,3337" rendition="Line" xml:id="facs_13_l_90"/>
+            <zone points="208,3581 2508,3429 2506,3399 206,3552" rendition="Line" xml:id="facs_13_l_97"/>
+            <zone points="200,3784 2504,3660 2502,3630 199,3754" rendition="Line" xml:id="facs_13_l_104"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_14">
+         <graphic url="TLx-0043_bMS 649_46 (20)-14 (1).jpg" width="3024px" height="4032px"/>
+         <zone points="111,681 2753,681 2753,3809 111,3809" rendition="TextRegion" xml:id="facs_14_r">
+            <zone points="1109,824 1357,805 1354,775 1107,794" rendition="Line" xml:id="facs_14_l"/>
+            <zone points="159,1101 2513,944 2511,914 157,1071" rendition="Line" xml:id="facs_14_l_13"/>
+            <zone points="186,1315 1222,1232 1219,1203 183,1285" rendition="Line" xml:id="facs_14_l_20"/>
+            <zone points="741,1630 2040,1568 2038,1538 740,1600" rendition="Line" xml:id="facs_14_l_27"/>
+            <zone points="400,1902 2584,1748 2582,1718 398,1872" rendition="Line" xml:id="facs_14_l_34"/>
+            <zone points="178,2101 2558,1951 2556,1921 176,2071" rendition="Line" xml:id="facs_14_l_41"/>
+            <zone points="167,2345 2610,2142 2608,2112 165,2315" rendition="Line" xml:id="facs_14_l_48"/>
+            <zone points="167,2525 2559,2354 2557,2324 165,2495" rendition="Line" xml:id="facs_14_l_55"/>
+            <zone points="195,2733 2499,2485 2496,2455 192,2703" rendition="Line" xml:id="facs_14_l_62"/>
+            <zone points="210,2932 2543,2721 2540,2692 207,2902" rendition="Line" xml:id="facs_14_l_69"/>
+            <zone points="220,3123 2535,2928 2533,2898 217,3093" rendition="Line" xml:id="facs_14_l_76"/>
+            <zone points="212,3325 2606,3100 2604,3070 209,3295" rendition="Line" xml:id="facs_14_l_83"/>
+            <zone points="216,3502 2573,3295 2570,3265 213,3472" rendition="Line" xml:id="facs_14_l_90"/>
+            <zone points="227,3712 2565,3547 2563,3517 225,3682" rendition="Line" xml:id="facs_14_l_97"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_15">
+         <graphic url="TLx-0043_bMS 649_46 (20)-15.jpg" width="3024px" height="4032px"/>
+         <zone points="118,584 2628,584 2628,3810 118,3810" rendition="TextRegion" xml:id="facs_15_r">
+            <zone points="1038,865 1203,848 1200,818 1035,835" rendition="Line" xml:id="facs_15_l"/>
+            <zone points="151,1166 2467,902 2463,872 147,1136" rendition="Line" xml:id="facs_15_l_13"/>
+            <zone points="142,1376 2545,1100 2542,1070 139,1346" rendition="Line" xml:id="facs_15_l_20"/>
+            <zone points="147,1628 2231,1323 2227,1293 142,1598" rendition="Line" xml:id="facs_15_l_27"/>
+            <zone points="832,1661 2483,1397 2478,1367 827,1631" rendition="Line" xml:id="facs_15_l_34"/>
+            <zone points="477,1826 2465,1578 2461,1549 473,1796" rendition="Line" xml:id="facs_15_l_41"/>
+            <zone points="198,2082 2485,1719 2480,1689 193,2052" rendition="Line" xml:id="facs_15_l_48"/>
+            <zone points="392,2288 2485,1958 2480,1928 388,2258" rendition="Line" xml:id="facs_15_l_55"/>
+            <zone points="215,2465 2531,2106 2526,2077 210,2436" rendition="Line" xml:id="facs_15_l_62"/>
+            <zone points="219,2663 2547,2325 2543,2295 214,2634" rendition="Line" xml:id="facs_15_l_69"/>
+            <zone points="244,2866 2539,2550 2535,2520 239,2836" rendition="Line" xml:id="facs_15_l_76"/>
+            <zone points="260,3086 2564,2769 2559,2739 256,3057" rendition="Line" xml:id="facs_15_l_83"/>
+            <zone points="285,3255 2584,2963 2580,2933 281,3226" rendition="Line" xml:id="facs_15_l_90"/>
+            <zone points="285,3354 2444,3062 2440,3032 281,3325" rendition="Line" xml:id="facs_15_l_97"/>
+            <zone points="264,3491 2601,3247 2598,3217 261,3461" rendition="Line" xml:id="facs_15_l_104"/>
+            <zone points="219,3713 2564,3503 2561,3473 216,3684" rendition="Line" xml:id="facs_15_l_111"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_16">
+         <graphic url="TLx-0043_bMS 649_46 (20)-18.jpg" width="3024px" height="4032px"/>
+         <zone points="116,584 2659,584 2659,3868 116,3868" rendition="TextRegion" xml:id="facs_16_r">
+            <zone points="1113,822 1222,822 1222,792 1113,792" rendition="Line" xml:id="facs_16_l"/>
+            <zone points="190,1114 2434,855 2430,826 186,1084" rendition="Line" xml:id="facs_16_l_13"/>
+            <zone points="201,1339 2437,1077 2434,1047 197,1310" rendition="Line" xml:id="facs_16_l_20"/>
+            <zone points="206,1553 2462,1276 2458,1246 203,1523" rendition="Line" xml:id="facs_16_l_33"/>
+            <zone points="413,1801 2473,1546 2469,1516 409,1771" rendition="Line" xml:id="facs_16_l_40"/>
+            <zone points="210,1996 2522,1705 2518,1675 206,1966" rendition="Line" xml:id="facs_16_l_47"/>
+            <zone points="195,2215 2511,1915 2507,1885 191,2185" rendition="Line" xml:id="facs_16_l_54"/>
+            <zone points="229,2433 2552,2159 2548,2129 225,2403" rendition="Line" xml:id="facs_16_l_61"/>
+            <zone points="240,2665 2544,2388 2541,2358 237,2635" rendition="Line" xml:id="facs_16_l_68"/>
+            <zone points="233,2845 2522,2609 2519,2579 230,2815" rendition="Line" xml:id="facs_16_l_75"/>
+            <zone points="255,3074 2589,2856 2587,2827 252,3044" rendition="Line" xml:id="facs_16_l_82"/>
+            <zone points="287,3260 2591,3031 2588,3002 284,3230" rendition="Line" xml:id="facs_16_l_89"/>
+            <zone points="298,3433 2589,3253 2587,3223 296,3403" rendition="Line" xml:id="facs_16_l_96"/>
+            <zone points="285,3688 2653,3497 2651,3467 283,3658" rendition="Line" xml:id="facs_16_l_103"/>
+            <zone points="330,3834 2567,3695 2565,3665 328,3804" rendition="Line" xml:id="facs_16_l_110"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_17">
+         <graphic url="TLx-0043_bMS 649_46 (20)-17.jpg" width="3024px" height="4032px"/>
+         <zone points="152,745 2625,745 2625,3805 152,3805" rendition="TextRegion" xml:id="facs_17_r">
+            <zone points="1177,872 1411,865 1410,835 1176,842" rendition="Line" xml:id="facs_17_l"/>
+            <zone points="199,1188 2488,1019 2486,989 197,1158" rendition="Line" xml:id="facs_17_l_13"/>
+            <zone points="199,1375 2466,1225 2464,1195 197,1345" rendition="Line" xml:id="facs_17_l_20"/>
+            <zone points="405,1653 2473,1503 2471,1473 403,1623" rendition="Line" xml:id="facs_17_l_27"/>
+            <zone points="188,1863 2499,1735 2498,1705 186,1833" rendition="Line" xml:id="facs_17_l_34"/>
+            <zone points="173,2136 2398,1983 2396,1953 171,2106" rendition="Line" xml:id="facs_17_l_41"/>
+            <zone points="199,2346 2413,2208 2411,2178 197,2317" rendition="Line" xml:id="facs_17_l_48"/>
+            <zone points="375,2609 2526,2504 2524,2474 374,2579" rendition="Line" xml:id="facs_17_l_55"/>
+            <zone points="206,2819 2597,2684 2595,2654 205,2789" rendition="Line" xml:id="facs_17_l_62"/>
+            <zone points="195,3014 2533,2834 2531,2804 193,2984" rendition="Line" xml:id="facs_17_l_69"/>
+            <zone points="161,3202 2518,3029 2516,2999 159,3172" rendition="Line" xml:id="facs_17_l_76"/>
+            <zone points="206,3370 2473,3213 2471,3183 204,3340" rendition="Line" xml:id="facs_17_l_83"/>
+            <zone points="199,3607 2511,3445 2509,3415 197,3577" rendition="Line" xml:id="facs_17_l_90"/>
+            <zone points="218,3779 2529,3618 2527,3588 216,3749" rendition="Line" xml:id="facs_17_l_97"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_18">
+         <graphic url="TLx-0043_bMS 649_46 (20)-16.jpg" width="3024px" height="4032px"/>
+         <zone points="194,691 2613,691 2613,1336 194,1336" rendition="TextRegion" xml:id="facs_18_r">
+            <zone points="1087,908 1236,915 1237,885 1088,878" rendition="Line" xml:id="facs_18_l"/>
+            <zone points="203,1240 2331,989 2327,959 200,1210" rendition="Line" xml:id="facs_18_l_13"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_19">
+         <graphic url="TLx-0043_bMS 649_46 (20)-19.jpg" width="3024px" height="4032px"/>
+         <zone points="193,844 2680,844 2680,3903 193,3903" rendition="TextRegion" xml:id="facs_19_r">
+            <zone points="1280,1078 1349,1069 1345,1039 1276,1048" rendition="Line" xml:id="facs_19_l"/>
+            <zone points="395,1161 2432,1243 2433,1213 396,1131" rendition="Line" xml:id="facs_19_l_13"/>
+            <zone points="381,1243 2382,1335 2383,1305 382,1213" rendition="Line" xml:id="facs_19_l_20"/>
+            <zone points="367,1344 2457,1449 2459,1419 369,1314" rendition="Line" xml:id="facs_19_l_27"/>
+            <zone points="383,1449 2416,1514 2417,1484 384,1419" rendition="Line" xml:id="facs_19_l_34"/>
+            <zone points="383,1555 2466,1633 2468,1603 384,1525" rendition="Line" xml:id="facs_19_l_41"/>
+            <zone points="356,1633 2499,1738 2500,1708 357,1603" rendition="Line" xml:id="facs_19_l_48"/>
+            <zone points="374,1738 2384,1812 2385,1782 375,1708" rendition="Line" xml:id="facs_19_l_55"/>
+            <zone points="369,1839 2421,1908 2422,1878 370,1809" rendition="Line" xml:id="facs_19_l_62"/>
+            <zone points="346,1936 2402,1986 2403,1956 347,1906" rendition="Line" xml:id="facs_19_l_69"/>
+            <zone points="328,2027 2512,2105 2513,2075 329,1997" rendition="Line" xml:id="facs_19_l_76"/>
+            <zone points="365,2110 2347,2183 2348,2153 366,2080" rendition="Line" xml:id="facs_19_l_83"/>
+            <zone points="337,2224 2315,2275 2316,2245 338,2194" rendition="Line" xml:id="facs_19_l_90"/>
+            <zone points="342,2293 2384,2380 2385,2350 343,2263" rendition="Line" xml:id="facs_19_l_97"/>
+            <zone points="346,2390 2278,2486 2280,2456 348,2360" rendition="Line" xml:id="facs_19_l_104"/>
+            <zone points="342,2490 2347,2587 2349,2557 343,2460" rendition="Line" xml:id="facs_19_l_111"/>
+            <zone points="328,2591 2329,2674 2330,2644 329,2561" rendition="Line" xml:id="facs_19_l_118"/>
+            <zone points="333,2688 2361,2756 2362,2726 334,2658" rendition="Line" xml:id="facs_19_l_125"/>
+            <zone points="360,2793 2347,2867 2348,2837 361,2763" rendition="Line" xml:id="facs_19_l_132"/>
+            <zone points="883,2899 2283,2977 2285,2947 885,2869" rendition="Line" xml:id="facs_19_l_139"/>
+            <zone points="310,2958 2315,3073 2317,3043 311,2928" rendition="Line" xml:id="facs_19_l_146"/>
+            <zone points="314,3050 2347,3169 2349,3139 316,3020" rendition="Line" xml:id="facs_19_l_153"/>
+            <zone points="324,3160 2356,3252 2358,3222 325,3130" rendition="Line" xml:id="facs_19_l_160"/>
+            <zone points="314,3256 2306,3339 2307,3309 316,3226" rendition="Line" xml:id="facs_19_l_167"/>
+            <zone points="310,3369 2411,3460 2413,3430 311,3339" rendition="Line" xml:id="facs_19_l_174"/>
+            <zone points="305,3447 2361,3566 2363,3536 307,3417" rendition="Line" xml:id="facs_19_l_181"/>
+            <zone points="328,3548 2329,3658 2330,3628 330,3518" rendition="Line" xml:id="facs_19_l_188"/>
+            <zone points="314,3635 2320,3731 2321,3701 316,3605" rendition="Line" xml:id="facs_19_l_195"/>
+            <zone points="319,3713 2265,3832 2266,3802 321,3683" rendition="Line" xml:id="facs_19_l_202"/>
+            <zone points="305,3795 553,3804 554,3774 306,3765" rendition="Line" xml:id="facs_19_l_209"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_20">
+         <graphic url="TLx-0043_bMS 649_46 (20)-20.jpg" width="3024px" height="4032px"/>
+         <zone points="270,710 2648,710 2648,3784 270,3784" rendition="TextRegion" xml:id="facs_20_r_7">
+            <zone points="1270,981 1679,973 1678,943 1270,951" rendition="Line" xml:id="facs_20_l_14"/>
+            <zone points="351,1094 2381,1097 2381,1067 351,1064" rendition="Line" xml:id="facs_20_l_21"/>
+            <zone points="331,1209 2325,1192 2324,1162 331,1179" rendition="Line" xml:id="facs_20_l_28"/>
+            <zone points="309,1311 2412,1305 2412,1275 309,1281" rendition="Line" xml:id="facs_20_l_35"/>
+            <zone points="337,1384 2313,1387 2314,1357 337,1354" rendition="Line" xml:id="facs_20_l_42"/>
+            <zone points="328,1483 2370,1469 2370,1439 328,1453" rendition="Line" xml:id="facs_20_l_49"/>
+            <zone points="334,1573 2356,1573 2356,1543 334,1543" rendition="Line" xml:id="facs_20_l_56"/>
+            <zone points="300,1685 2330,1694 2331,1664 300,1655" rendition="Line" xml:id="facs_20_l_63"/>
+            <zone points="320,1767 2330,1770 2330,1740 320,1737" rendition="Line" xml:id="facs_20_l_70"/>
+            <zone points="348,1863 2277,1869 2277,1839 348,1833" rendition="Line" xml:id="facs_20_l_77"/>
+            <zone points="323,1973 2268,1979 2268,1949 323,1943" rendition="Line" xml:id="facs_20_l_84"/>
+            <zone points="328,2049 2277,2066 2277,2036 329,2019" rendition="Line" xml:id="facs_20_l_91"/>
+            <zone points="309,2153 2271,2156 2271,2126 309,2123" rendition="Line" xml:id="facs_20_l_98"/>
+            <zone points="352,2241 2315,2261 2315,2231 353,2211" rendition="Line" xml:id="facs_20_l_105"/>
+            <zone points="324,2323 2329,2365 2330,2335 325,2293" rendition="Line" xml:id="facs_20_l_112"/>
+            <zone points="321,2438 2374,2450 2374,2420 322,2408" rendition="Line" xml:id="facs_20_l_119"/>
+            <zone points="324,2531 2315,2554 2315,2524 325,2501" rendition="Line" xml:id="facs_20_l_126"/>
+            <zone points="245,2627 2349,2633 2349,2603 245,2597" rendition="Line" xml:id="facs_20_l_133"/>
+            <zone points="276,2716 2370,2747 2370,2717 276,2686" rendition="Line" xml:id="facs_20_l"/>
+            <zone points="310,2809 2357,2831 2357,2801 310,2779" rendition="Line" xml:id="facs_20_l_13"/>
+            <zone points="341,2915 2363,2939 2364,2909 342,2885" rendition="Line" xml:id="facs_20_l_20"/>
+            <zone points="307,2992 2320,3026 2320,2996 308,2962" rendition="Line" xml:id="facs_20_l_27"/>
+            <zone points="304,3098 2354,3122 2354,3092 304,3068" rendition="Line" xml:id="facs_20_l_34"/>
+            <zone points="304,3178 2329,3231 2330,3201 305,3148" rendition="Line" xml:id="facs_20_l_41"/>
+            <zone points="310,3284 2298,3321 2299,3291 311,3254" rendition="Line" xml:id="facs_20_l_48"/>
+            <zone points="301,3380 2311,3417 2311,3387 301,3350" rendition="Line" xml:id="facs_20_l_58"/>
+            <zone points="292,3470 2277,3507 2277,3477 292,3440" rendition="Line" xml:id="facs_20_l_65"/>
+            <zone points="295,3569 2242,3612 2243,3582 295,3539" rendition="Line" xml:id="facs_20_l_72"/>
+            <zone points="338,3649 633,3668 635,3638 340,3619" rendition="Line" xml:id="facs_20_l_79"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_21">
+         <graphic url="TLx-0043_bMS 649_46 (20)-21.jpg" width="3024px" height="4032px"/>
+         <zone points="304,999 2729,999 2729,2877 304,2877" rendition="TextRegion" xml:id="facs_21_r">
+            <zone points="1107,1234 1414,1234 1414,1204 1107,1204" rendition="Line" xml:id="facs_21_l"/>
+            <zone points="422,1501 2354,1417 2353,1387 421,1471" rendition="Line" xml:id="facs_21_l_13"/>
+            <zone points="419,1761 2525,1629 2523,1599 417,1731" rendition="Line" xml:id="facs_21_l_20"/>
+            <zone points="440,1983 1811,1921 1810,1891 439,1953" rendition="Line" xml:id="facs_21_l_27"/>
+            <zone points="409,2231 2526,2097 2524,2067 408,2201" rendition="Line" xml:id="facs_21_l_34"/>
+            <zone points="448,2457 2529,2324 2527,2294 446,2427" rendition="Line" xml:id="facs_21_l_41"/>
+            <zone points="426,2655 2529,2538 2528,2508 425,2625" rendition="Line" xml:id="facs_21_l_48"/>
+            <zone points="436,2848 2498,2758 2497,2728 434,2818" rendition="Line" xml:id="facs_21_l_55"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="TLx-0043_bMS 649_46 (20)-01.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0043_bMS 649_46 (20)-01.jpg"/>
+            <pb facs="#facs_2" n="TLx-0043_bMS 649_46 (20)-02.jpg" xml:id="img_0002"/>
+            <p facs="#facs_2_r">
+               <lb facs="#facs_2_l" n="N001"/><hi style="text-decoration: underline;">Religion and Culture.</hi>
+               <lb facs="#facs_2_l_13" n="N002"/><hi style="text-decoration: underline;">First Seminar: Religion and <rs type="keyword" ref="#Philosophy">Philosophy</rs>.</hi>
+               <lb facs="#facs_2_l_20" n="N003"/>Intr. The vastness and the limitation of the
+               <lb facs="#facs_2_l_27" n="N004"/>subject, both generally and in all special seminars.
+               <lb facs="#facs_2_l_34" n="N005"/>Restriction to the following points:
+               <lb facs="#facs_2_l_41" n="N006"/>{1. The two basic aspects of religion}
+               <lb facs="#facs_2_l_48" n="N007"/>{2. The nature of t}
+               <lb facs="#facs_2_l_55" n="N008"/>2: The immanence of the religious dimension in
+               <lb facs="#facs_2_l_62" n="N009"/>the creative functions of man's <rs type="keyword" ref="#Spirit">spirit</rs>: Religion in the
+               <lb facs="#facs_2_l_69" n="N010"/>larger sense. 
+            </p>
+            <pb facs="#facs_3" n="TLx-0043_bMS 649_46 (20)-06.jpg" xml:id="img_0003"/>
+            <p facs="#facs_3_r">
+               <lb facs="#facs_3_l_113" n="N001"/>[1]
+               <lb facs="#facs_3_l" n="N002"/><hi style="text-decoration: underline;">Religion and Culture II.</hi>
+               <lb facs="#facs_3_l_17" n="N003"/><hi style="text-decoration: underline;">Second Lecture: Religion, Science and Philosophy</hi>
+               <lb facs="#facs_3_l_24" n="N004"/>Ref. to the first lecture and its distinction
+               <lb facs="#facs_3_l_32" n="N005"/>between the two concepts of <rs type="keyword" ref="#Religion">religion</rs>: Terms for the
+               <lb facs="#facs_3_l_39" n="N006"/>first, basic and larger concept: "Being unconditionally con-
+               <lb facs="#facs_3_l_46" n="N007"/>cerned about the meaning of existence, taking something absolu-
+               <lb facs="#facs_3_l_53" n="N008"/>tely seriously, being grasped by an infinite interest and passion, 
+               <lb facs="#facs_3_l_60" n="N009"/>experiencing the selftranscendence of life towards an ultimately sub-
+               <lb facs="#facs_3_l_67" n="N010"/>lime or <rs type="keyword" ref="#Holy">holy</rs>", abbreviation: "<rs type="keyword" ref="#Ultimate_concern">Ultimate Concern</rs>." _ The second con-
+               <lb facs="#facs_3_l_74" n="N011"/>cept: "A {movement or} social group with symbols of thought
+               <lb facs="#facs_3_l_81" n="N012"/>(myth and its theological and philosophical conceptualisation) and of 
+               <lb facs="#facs_3_l_88" n="N013"/>action (ritual and ethical activities) expressing a particular
+               <lb facs="#facs_3_l_95" n="N014"/>direction of the ultimate concern (churches, sects, monastic groups,
+               <lb facs="#facs_3_l_102" n="N015"/>ecstatic movements).
+            </p>
+            <pb facs="#facs_4" n="TLx-0043_bMS 649_46 (20)-05.jpg" xml:id="img_0004"/>
+            <p facs="#facs_4_r">
+               <lb facs="#facs_4_l" n="N001"/>[2]
+               <lb facs="#facs_4_l_13" n="N002"/>{The} All <rs type="keyword" ref="#Culture">cultural</rs> conflicts with religion are dependent on the {identification} reduction of re-
+               <lb facs="#facs_4_l_20" n="N003"/>ligion with the narrower concept of religion. Since
+               <lb facs="#facs_4_l_27" n="N004"/>this narrower concept {covers} refers to religious groups which are a part of cultur{al}e
+               <lb facs="#facs_4_l_34" n="N005"/>{activities} themselves, the conflict occurs with <hi style="text-decoration: underline;">them</hi>: Church as a
+               <lb facs="#facs_4_l_41" n="N006"/>{centered} social group with power against the state {with the} on the basis of its religious
+               <lb facs="#facs_4_l_48" n="N007"/>claim of ultimacy, {because of ultimate concern} based on revelatory and
+               <lb facs="#facs_4_l_65" n="N008"/>saving experiences: The same {with} conflict about legal and political ideas,
+               <lb facs="#facs_4_l_72" n="N009"/>with educational aims and artistic styles. And the same
+               <lb facs="#facs_4_l_79" n="N010"/>conflict about {its} affirmations of truth in religion, science and philoso-
+               <lb facs="#facs_4_l_86" n="N011"/>phy. This brings us directly to our subject of today.
+               <lb facs="#facs_4_l_93" n="N012"/>And it gives us not only the weapon to overcome the
+               <lb facs="#facs_4_l_100" n="N013"/>conflicts, but also a way of reunion of {activities} functions of
+               <lb facs="#facs_4_l_107" n="N014"/>the human <rs type="keyword" ref="#Spirit">spirit </rs>which belong together and are separated
+               <lb facs="#facs_4_l_114" n="N015"/>by man's estrangement.
+            </p>
+            <pb facs="#facs_5" n="TLx-0043_bMS 649_46 (20)-03.jpg" xml:id="img_0005"/>
+            <p facs="#facs_5_r">
+               <lb facs="#facs_5_l" n="N001"/>[2]
+               <lb facs="#facs_5_l_13" n="N002"/><hi style="text-decoration: underline;">I. Philosophy </hi>{as such}
+               <lb facs="#facs_5_l_20" n="N003"/>1. The precise definition of <rs type="keyword" ref="#Philosophy">philosophy</rs> [...] is identical
+               <lb facs="#facs_5_l_27" n="N004"/>with the philosophical creation itself. Nevertheless: Depart-
+               <lb facs="#facs_5_l_34" n="N005"/>ments, {an} histories and even textbooks of philosophy: A
+               <lb facs="#facs_5_l_41" n="N006"/>common sense circumscription: Most universal problems.
+               <lb facs="#facs_5_l_48" n="N007"/>But this can lead to <hi style="text-decoration: underline;">the</hi> most universal problem: <rs type="keyword" ref="#Being">Being</rs>.
+               <lb facs="#facs_5_l_55" n="N008"/>2. The rise of the question out of man's power to
+               <lb facs="#facs_5_l_62" n="N009"/>face non-<rs type="keyword" ref="#Being">being</rs>, in concreto: The change and transitoriness and one's own non-being (not
+               <lb facs="#facs_5_l_69" n="N010"/>having been and not to be sometime), in abstracto: the
+               <lb facs="#facs_5_l_76" n="N011"/>question of possible non-being universally (not a ques-
+               <lb facs="#facs_5_l_83" n="N012"/>tion but a shock.): {What makes being being?} {The question is:} {What}    
+               <lb facs="#facs_5_l_90" n="N013"/>{in being is itself?} Why is there something not nothing?
+            </p>
+            <pb facs="#facs_6" n="TLx-0043_bMS 649_46 (20)-04.jpg" xml:id="img_0006"/>
+            <p facs="#facs_6_r_21">
+               <lb facs="#facs_6_l_37" n="N001"/>[3]
+               <lb facs="#facs_6_l_44" n="N002"/><hi style="text-decoration: underline;">I. The sciences and religion</hi>
+               <lb facs="#facs_6_l_51" n="N003"/>1. The term <rs type="keyword" ref="#Science">science</rs> {is} shall not be restricted to natural scien-
+               <lb facs="#facs_6_l_58" n="N004"/>ces but shall include every methodologically disciplined
+               <lb facs="#facs_6_l_65" n="N005"/>scholarly research as e.g. psychology, sociology and history.
+               <lb facs="#facs_6_l_72" n="N006"/><rs type="keyword" ref="#Philosophy">Philosophy</rs> shall not be treated as a particular science,
+               <lb facs="#facs_6_l_79" n="N007"/>but as the <hi style="text-decoration: underline;">cognitive eros towards the whole</hi>, {which of}
+               <lb facs="#facs_6_l_86" n="N008"/>{course.} The whole is effective in all its parts and the philosophical eros therefore reaches
+               <lb facs="#facs_6_l_93" n="N009"/>into all particulars. This leads to questions about {not only of the}
+               <lb facs="#facs_6_l_118" n="N010"/>{relation of the philosophical to the theological attitude but}
+               <lb facs="#facs_6_l_125" n="N011"/>{also to} the relation of philosophy to science and {we ma} to the place
+               <lb facs="#facs_6_l_67" n="N012"/>{problem of the ethical problems} {of the} of the scien-
+               <lb facs="#facs_6_l_132" n="N013"/>tist in the whole of human existence, especially in the present situation. {N}
+               <lb facs="#facs_6_l_139" n="N014"/>2. {A} The great problem of the past {ment in and up to now and} which is almost obsolet today is
+               <lb facs="#facs_6_l_146" n="N015"/>that about the relation of theological and scientific sta-
+               <lb facs="#facs_6_l_153" n="N016"/>tements. Here the language analysis, done from both sides
+            </p>
+            <pb facs="#facs_7" n="TLx-0043_bMS 649_46 (20)-07.jpg" xml:id="img_0007"/>
+            <p facs="#facs_7_r">
+               <lb facs="#facs_7_l_111" n="N001"/>[4]
+               <lb facs="#facs_7_l" n="N002"/>has helped: One knows: The <rs type="keyword" ref="#Science">scientific</rs> language is predominantly calculating = detached,
+               <lb facs="#facs_7_l_13" n="N003"/>the religious language predominantly existential _ involved. (The progress
+               <lb facs="#facs_7_l_20" n="N004"/>in the analytic school in acknowledging this). From this
+               <lb facs="#facs_7_l_27" n="N005"/>follows that all religious statements are analogous or
+               <lb facs="#facs_7_l_34" n="N006"/>symbolic, and are distorted if taken litterally. One
+               <lb facs="#facs_7_l_41" n="N007"/>can, more directly, say that {the two lie} {in} they belong to different di-
+               <lb facs="#facs_7_l_48" n="N008"/>mensions, the dimension of finite interrelations and the
+               <lb facs="#facs_7_l_55" n="N009"/>dimension of the meaning of being, our infinite concern.
+               <lb facs="#facs_7_l_62" n="N010"/>3. This can be forgotten from both sides: <rs type="keyword" ref="#Theology">Theology</rs> can
+               <lb facs="#facs_7_l_69" n="N011"/>take, {mostly} on ecclesiastical or Biblical authority, state-
+               <lb facs="#facs_7_l_76" n="N012"/>ments about things and events as religiously authorised: e.g. physical,
+               <lb facs="#facs_7_l_83" n="N013"/>biological, psychological or historical statements. ({the crea-}
+               <lb facs="#facs_7_l_90" n="N014"/>{tion and consummation, stories, myths, miracle stories,} astrono-
+               <lb facs="#facs_7_l_97" n="N015"/>mical views, biological statements about man, psycholo-
+               <lb facs="#facs_7_l_104" n="N016"/>gical theories about human nature etc.). In all these
+            </p>
+            <pb facs="#facs_8" n="TLx-0043_bMS 649_46 (20)-08.jpg" xml:id="img_0008"/>
+            <p facs="#facs_8_r">
+               <lb facs="#facs_8_l" n="N001"/>[5]
+               <lb facs="#facs_8_l_17" n="N002"/>cases science has to reject any such claim if it lies
+               <lb facs="#facs_8_l_24" n="N003"/>in the realm of verifyable statements about facts
+               <lb facs="#facs_8_l_31" n="N004"/>and {the} relations including historical ones (Fundamentalism). _ On the other hand, <rs type="keyword" ref="#Science">science </rs>should {can}not inter-
+               <lb facs="#facs_8_l_38" n="N005"/>fer in the world of religious <rs type="keyword" ref="#Symbol">symbols</rs>, denie religion
+               <lb facs="#facs_8_l_54" n="N006"/>because of taking litterally, what is in reality symbolic.
+               <lb facs="#facs_8_l_160" n="N007"/>{literally denying the stories of creation, fall,}
+               <lb facs="#facs_8_l_68" n="N008"/>{salvation, consummation, in its}  (The fight against theology in its primitive-suprana-
+               <lb facs="#facs_8_l_75" n="N009"/><hi/>
+               <lb facs="#facs_8_l_82" n="N010"/>turalistic forms instead of its latest, selfreflective and selflimiting forms).
+               <lb facs="#facs_8_l_89" n="N011"/>{highly}  [And even more, science should {can}not denie{s} {to have}
+               <lb facs="#facs_8_l_96" n="N012"/>that there is a dimension {and accordingly} of <rs type="keyword" ref="#Ultimate_concern">ulti-
+               <lb break="no" facs="#facs_8_l_103" n="N013"/>mate concern </rs>(as it cannot denie the artistic and
+               <lb facs="#facs_8_l_110" n="N014"/>ethical dimensions).]
+               <lb facs="#facs_8_l_117" n="N015"/><hi style="text-decoration: underline;">There is no religious statement which can con-</hi>
+               <lb facs="#facs_8_l_124" n="N016"/><hi style="text-decoration: underline;">tradict a scientific statement and vice versa</hi>, although [...] there
+               <lb facs="#facs_8_l_131" n="N017"/>are {many} scientists and theologians (laymen), unaware of this situation {what}
+               <lb facs="#facs_8_l_138" n="N018"/>{they} {are supposed to} {can and cannot} {do},  who can contradict each other {and do so}
+               <lb facs="#facs_8_l_145" n="N019"/>by confusing the dimensions.
+            </p>
+            <pb facs="#facs_9" n="TLx-0043_bMS 649_46 (20)-09.jpg" xml:id="img_0009"/>
+            <p facs="#facs_9_r_2">
+               <lb facs="#facs_9_l" n="N001"/>[5a]
+               <lb facs="#facs_9_l_14" n="N002"/>4. But there remains still the question of the
+               <lb facs="#facs_9_l_21" n="N003"/>basic attitudes and their contrast. The attitude of the
+               <lb facs="#facs_9_l_28" n="N004"/>scientist, detached, calculating, counting on many possible errors in
+               <lb facs="#facs_9_l_35" n="N005"/>observation, cautious in making statements which preliminary
+               <lb facs="#facs_9_l_42" n="N006"/>assertions only, separating his scientific work from the other
+               <lb facs="#facs_9_l_49" n="N007"/>concerns of life in which emotion and will, moral 
+               <lb facs="#facs_9_l_56" n="N008"/>tradition and religious or political loyalty are included.
+               <lb facs="#facs_9_l_63" n="N009"/>The <rs type="keyword" ref="#Religion">religious </rs>man living in the tradition of a
+               <lb facs="#facs_9_l_70" n="N010"/>particular set of <rs type="keyword" ref="#Symbol">symbols</rs> in which he moves as {a} the
+               <lb facs="#facs_9_l_77" n="N011"/>{foundation of his existence} expressions of the meaning {of} life, has for him, resisting doubt,
+               <lb facs="#facs_9_l_84" n="N012"/>accepting Biblical or ecclesiastical <rs type="keyword" ref="#Authority">authority</rs>, giving un-
+               <lb facs="#facs_9_l_91" n="N013"/>conditional loyalty to the manifestation of the <rs type="keyword" ref="#Holy">holy</rs> in his religious
+               <lb facs="#facs_9_l_98" n="N014"/>tradition.
+               <lb facs="#facs_9_l_105" n="N015"/>But is this the real situation? Certainly it is felt so {like}
+               <lb facs="#facs_9_l_112" n="N016"/>{it} by innumerable people [young scientists!]. The scientist claims not to under-
+            </p>
+            <pb facs="#facs_10" n="TLx-0043_bMS 649_46 (20)-12.jpg" xml:id="img_0010"/>
+            <p facs="#facs_10_r">
+               <lb facs="#facs_10_l" n="N001"/>[6]
+               <lb facs="#facs_10_l_13" n="N002"/><hi style="text-decoration: underline;">II. Philosophy and the sciences</hi>
+               <lb facs="#facs_10_l_20" n="N003"/>1. The first step in relating religion and the <rs type="keyword" ref="#Science">sciences</rs>
+               <lb facs="#facs_10_l_27" n="N004"/>has been done: The boundary line has been drawn. This is
+               <lb facs="#facs_10_l_34" n="N005"/>extremely important in view of the history of the conflicts from
+               <lb facs="#facs_10_l_41" n="N006"/><rs type="person" ref="#tillich_person_id__654">Galileo</rs> to <rs type="person" ref="#tillich_person_id__428">Darwin</rs> and <rs type="person" ref="#tillich_person_id__619">Freud</rs>. It is still important in 
+               <lb facs="#facs_10_l_48" n="N007"/>theology where church <rs type="keyword" ref="#Authority">authorities</rs> as well as Christian laymen
+               <lb facs="#facs_10_l_55" n="N008"/> resist, e.g. historical research into the Biblical books, and the discovery of {showing} the
+               <lb facs="#facs_10_l_62" n="N009"/>mixture of historical, legendary and mythical elements in them.
+               <lb facs="#facs_10_l_69" n="N010"/>(The dangers of hiding these inquiries from the congregations, thus 
+               <lb facs="#facs_10_l_76" n="N011"/>producing shocks, if people encounter the procedures of historical
+               <lb facs="#facs_10_l_83" n="N012"/>research and cannot honestly deny their methodological va-
+               <lb facs="#facs_10_l_90" n="N013"/>lidity.) _ On the other hand, these scholars themselves should
+               <lb facs="#facs_10_l_97" n="N014"/>not derive from their work alone negative or positive judgments
+               <lb facs="#facs_10_l_104" n="N015"/>about the validity of the Christian message of the appearance of
+               <lb facs="#facs_10_l_111" n="N016"/> a healing or saving reality in a personal life. {This example}
+            </p>
+            <pb facs="#facs_11" n="TLx-0043_bMS 649_46 (20)-11.jpg" xml:id="img_0011"/>
+            <p facs="#facs_11_r">
+               <lb facs="#facs_11_l" n="N001"/>[7]
+               <lb facs="#facs_11_l_13" n="N002"/>{the lasting importance of the drawing of the boundary line.} 
+               <lb facs="#facs_11_l_20" n="N003"/>2. But this is not all what can be said. The re-
+               <lb facs="#facs_11_l_27" n="N004"/>volt of the scientists in Harvard against only this. They see {saw}
+               <lb facs="#facs_11_l_34" n="N005"/>in their own work a religious dimension and so did the 
+               <lb facs="#facs_11_l_41" n="N006"/>psychologists and physicians who {now work togeth} call 
+               <lb facs="#facs_11_l_48" n="N007"/>theologians for exchange. _ {This leads to the relation of}
+               <lb facs="#facs_11_l_55" n="N008"/>{<rs type="keyword" ref="#Philosophy">philosophy</rs> and the <rs type="keyword" ref="#Science">sciences</rs>.} Those scientists did their work with
+               <lb facs="#facs_11_l_62" n="N009"/>philosophical <rs type="keyword" ref="#Eros">eros</rs> and with consciousness of their own phi-
+               <lb facs="#facs_11_l_69" n="N010"/>losophical presuppositions. The sciences are born out of philoso-
+               <lb facs="#facs_11_l_76" n="N011"/>phy, which asked the question of the universe, the whole
+               <lb facs="#facs_11_l_83" n="N012"/>of being, or simply: <rs type="keyword" ref="#Being">being</rs>; and {it} philosophy the formed some main univer-
+               <lb facs="#facs_11_l_90" n="N013"/>sal characteristics of being like the categories (time, space, causality), the polarities,
+               <lb facs="#facs_11_l_17" n="N014"/>form and matter, {potentiality and actuality,} 
+               <lb facs="#facs_11_l_97" n="N015"/>the relation of potentiality and actuality, essence and existence, of subject
+               <lb facs="#facs_11_l_104" n="N016"/>and object, of knowledge, {etc} of logical and linguistic struc-
+               <lb facs="#facs_11_l_111" n="N017"/>tures, as being and ought to be, as the different dimensions of
+               <lb facs="#facs_11_l_118" n="N018"/>reality and their relations, concepts like, nature, life, history,
+            </p>
+            <pb facs="#facs_12" n="TLx-0043_bMS 649_46 (20)-10.jpg" xml:id="img_0012"/>
+            <p facs="#facs_12_r">
+               <lb facs="#facs_12_l" n="N001"/>[8]
+               <lb facs="#facs_12_l_13" n="N002"/>*(The religious element in teaching the <rs type="keyword" ref="#Science">sciences</rs>.) 
+               <lb facs="#facs_12_l_20" n="N003"/>mind ...)
+               <lb facs="#facs_12_l_27" n="N004"/>3. No scientific inquiry is possible without the use
+               <lb facs="#facs_12_l_34" n="N005"/>of these concepts, openly or hiddenly [conference with <rs type="person" ref="#tillich_person_id__3860">Hutchins</rs>]. They {introduce} point
+               <lb facs="#facs_12_l_41" n="N006"/>to an element in science which transcends science, the
+               <lb facs="#facs_12_l_48" n="N007"/>cognitive <rs type="keyword" ref="#Eros">eros</rs>, directed to the <rs type="keyword" ref="#Whole">whole</rs>. This element is effec-
+               <lb facs="#facs_12_l_55" n="N008"/>tive in the scientific procedures * which, conversly, contri-
+               <lb facs="#facs_12_l_62" n="N009"/>bute to the vision of the whole. _ (-) Most of the {scie}
+               <lb facs="#facs_12_l_69" n="N010"/>creative scientists [...] in the past were driven by the eros towards
+               <lb facs="#facs_12_l_76" n="N011"/>the universal within their particular field; they were more than
+               <lb facs="#facs_12_l_83" n="N012"/>scientific technicians or solvers of logical riddles.
+               <lb facs="#facs_12_l_97" n="N013"/>4. Qualifications of the "whole": The<rs type="keyword" ref="#Eros"> eros</rs> for the whole, the cosmos, the uni-
+               <lb facs="#facs_12_l_104" n="N014"/>verse, is not directed {to the} towards the sum-total
+               <lb facs="#facs_12_l_111" n="N015"/>of all particulars, but towards the underlying unity{,}
+               <lb facs="#facs_12_l_118" n="N016"/>within the diversity. Philosophy, in asking this question,
+            </p>
+            <pb facs="#facs_13" n="TLx-0043_bMS 649_46 (20)-13.jpg" xml:id="img_0013"/>
+            <p facs="#facs_13_r">
+               <lb facs="#facs_13_l" n="N001"/>[9]
+               <lb facs="#facs_13_l_13" n="N002"/>was driven by the experience that what seems to
+               <lb facs="#facs_13_l_20" n="N003"/>be real {was} proved not to be <rs type="keyword" ref="#Real">real</rs>; and so the 
+               <lb facs="#facs_13_l_27" n="N004"/>question arose for the really real, {the ground of every-}
+               <lb facs="#facs_13_l_34" n="N005"/>{thing that is,} that which underlies and transcends 
+               <lb facs="#facs_13_l_41" n="N006"/>everything that seems to be real, but which oscillates
+               <lb facs="#facs_13_l_48" n="N007"/>between real and only seeming. So the question of ulti-
+               <lb facs="#facs_13_l_55" n="N008"/>mate reality arose with the beginning of philosophy, and in it the ground of both,
+               <lb facs="#facs_13_l_62" n="N009"/>the unity and the manifoldness of the <rs type="keyword" ref="#Whole">whole</rs> was seen.
+               <lb facs="#facs_13_l_69" n="N010"/>So the <rs type="keyword" ref="#Eros">eros</rs> for the whole became the passionate de-
+               <lb facs="#facs_13_l_76" n="N011"/>sire to find cognitively the ultimately real, the truly
+               <lb facs="#facs_13_l_83" n="N012"/>real itself. Even in logical analysis an image of the real is present. This eros and passion has led to contradic-
+               <lb facs="#facs_13_l_90" n="N013"/>tory answers. {In this} But in the eros for the whole all philosophers, (and not only those
+               <lb facs="#facs_13_l_97" n="N014"/>of the West) are united. Their answers divide them,
+               <lb facs="#facs_13_l_104" n="N015"/>their eros and the inner force of reality itself unites them. _ And insofar as the philosophical
+            </p>
+            <pb facs="#facs_14" n="TLx-0043_bMS 649_46 (20)-14 (1).jpg" xml:id="img_0014"/>
+            <p facs="#facs_14_r">
+               <lb facs="#facs_14_l" n="N001"/>[10]
+               <lb facs="#facs_14_l_13" n="N002"/>element is effective in all sciences this <rs type="keyword" ref="#Eros">eros</rs> is
+               <lb facs="#facs_14_l_20" n="N003"/>also effective in them.
+               <lb facs="#facs_14_l_27" n="N004"/><hi style="text-decoration: underline;">III. <rs type="keyword" ref="#Philosophy">Philosophy</rs> and <rs type="keyword" ref="#Religion">Religion</rs></hi>
+               <lb facs="#facs_14_l_34" n="N005"/>1. The search for the unity of the {appearing} existing in and for <rs type="keyword" ref="#Ultimate">ulti-
+               <lb break="no" facs="#facs_14_l_41" n="N006"/>mate</rs> reality is an element in the religious concern;
+               <lb facs="#facs_14_l_48" n="N007"/>for the <hi style="text-decoration: underline;">cognitive <rs type="keyword" ref="#Eros">eros</rs></hi><rs type="keyword" ref="#Eros"/> is never missing in {the} religion, but 
+               <lb facs="#facs_14_l_55" n="N008"/>the religious concern is {all} more embracing. It will not 
+               <lb facs="#facs_14_l_62" n="N009"/>only recognize ultimate reality, it will reunite
+               <lb facs="#facs_14_l_69" n="N010"/>with it, {in all sides of the him who is grasped by} and shape himself and his world accordingly
+               <lb facs="#facs_14_l_76" n="N011"/>{the ultimate, the religious concern.}  {Lea} This leads to
+               <lb facs="#facs_14_l_83" n="N012"/>the assertion of a point of identity between philoso-
+               <lb facs="#facs_14_l_90" n="N013"/>phy (and by implication of all sciences) and religion: The
+               <lb facs="#facs_14_l_97" n="N014"/>desire to unite cognitively with ultimate reality, in
+            </p>
+            <pb facs="#facs_15" n="TLx-0043_bMS 649_46 (20)-15.jpg" xml:id="img_0015"/>
+            <p facs="#facs_15_r">
+               <lb facs="#facs_15_l" n="N001"/>[11]
+               <lb facs="#facs_15_l_13" n="N002"/>Traditional <rs type="keyword" ref="#Symbol">symbols</rs>: The {l} longing of the human soul 
+               <lb facs="#facs_15_l_20" n="N003"/>to "know" God (in uniting knowledge.) {(Thomas: He who knows anything knows God,"}
+               <lb facs="#facs_15_l_27" n="N004"/>{because everything is a divine selfmanifestation.)}
+               <lb facs="#facs_15_l_34" n="N005"/>This is understandable out of the birth-story of philosophy.
+               <lb facs="#facs_15_l_41" n="N006"/>2. {On this basis the relation of philosophy and}
+               <lb facs="#facs_15_l_48" n="N007"/>{religion can be expressed in the following statements:}
+               <lb facs="#facs_15_l_55" n="N008"/>a] The background {and predecessor} of <rs type="keyword" ref="#Philosophy">philosophy</rs> is
+               <lb facs="#facs_15_l_62" n="N009"/><rs type="keyword" ref="#Myth">mythology</rs>, in which the experience of ultimate rea-
+               <lb facs="#facs_15_l_69" n="N010"/>lity {is} is expressed in powerful symbols. These myths combines an aesthetic, {intuiti} and a cognitive
+               <lb facs="#facs_15_l_76" n="N011"/>element. Slowly (comp. Greek theology and cosmogony) the
+               <lb facs="#facs_15_l_83" n="N012"/>conceptual element becomes {predominant} independent {and} makes
+               <lb facs="#facs_15_l_90" n="N013"/>out of mythical symbols rational concepts and leaves
+               <lb facs="#facs_15_l_97" n="N014"/>the myth to poetry. _ The {quest} process of "demythologization."
+               <lb facs="#facs_15_l_104" n="N015"/>b] These philosophical concepts are now conversely being used by
+               <lb facs="#facs_15_l_111" n="N016"/>theology in order to interpret partly demythologized {the} but still powerful religious symbols
+            </p>
+            <pb facs="#facs_16" n="TLx-0043_bMS 649_46 (20)-18.jpg" xml:id="img_0016"/>
+            <p facs="#facs_16_r">
+               <lb facs="#facs_16_l" n="N001"/>[12]
+               <lb facs="#facs_16_l_13" n="N002"/>{to} in a culture which {does not live unbrokenly in} has both experiences
+               <lb facs="#facs_16_l_20" n="N003"/>{the symbolic realm.} This is the way in which the
+               <lb facs="#facs_16_l_33" n="N004"/>Christian dogma was created with Greek concepts.
+               <lb facs="#facs_16_l_40" n="N005"/>e] Conflicts between <rs type="keyword" ref="#Theology">theology </rs>and <rs type="keyword" ref="#Philosophy">philosophy</rs> are
+               <lb facs="#facs_16_l_47" n="N006"/>based on a lack of distinguishing the elements in
+               <lb facs="#facs_16_l_54" n="N007"/>both: The mythical background and the religious substance in the philosophical concepts,
+               <lb facs="#facs_16_l_61" n="N008"/>and the philosophical concepts in {the cognitive self-} expressing the religious
+               <lb facs="#facs_16_l_68" n="N009"/>{expression of religion, in} substance through the "logos." Genuine conflicts are pos-
+               <lb facs="#facs_16_l_75" n="N010"/>sible only if either the religious substance in a
+               <lb facs="#facs_16_l_82" n="N011"/>particular philosophy contradicts the religious substance
+               <lb facs="#facs_16_l_89" n="N012"/>in a particular theology. (a Dionysian philosophy like
+               <lb facs="#facs_16_l_96" n="N013"/><rs type="person" ref="#tillich_person_id__1394">Nietzsche</rs>'s and {the Christian theology of agape} strict moralist Calvinism of Old Testament Char. Or
+               <lb facs="#facs_16_l_103" n="N014"/>the conceptualisation of a particular philosophical school
+               <lb facs="#facs_16_l_110" n="N015"/>contradicts the conceptualisation, used in a particular
+            </p>
+            <pb facs="#facs_17" n="TLx-0043_bMS 649_46 (20)-17.jpg" xml:id="img_0017"/>
+            <p facs="#facs_17_r">
+               <lb facs="#facs_17_l" n="N001"/>[13]
+               <lb facs="#facs_17_l_13" n="N002"/>theology. But in all these cases: {No} conflict be-
+               <lb facs="#facs_17_l_20" n="N003"/>tween {theolo} <rs type="keyword" ref="#Philosophy">philosophy </rs>as such and religion as such.
+               <lb facs="#facs_17_l_27" n="N004"/>d] The idea of a "theology of <rs type="keyword" ref="#Culture">culture</rs>," par-
+               <lb facs="#facs_17_l_34" n="N005"/>ticularly of science and philosophy. The question: Which
+               <lb facs="#facs_17_l_41" n="N006"/>kind of <rs type="keyword" ref="#Ultimate_concern">ultimate concern </rs>or of selfinterpretation of
+               <lb facs="#facs_17_l_48" n="N007"/>man is hidden within the conceptual system?
+               <lb facs="#facs_17_l_55" n="N008"/>[e] The freedom of <rs type="keyword" ref="#Theology">theology</rs> from and for particular phi-
+               <lb facs="#facs_17_l_62" n="N009"/>losophical concepts.] A common question of theology
+               <lb facs="#facs_17_l_69" n="N010"/>and philosophy is the position of the scientist, the question of ...
+               <lb facs="#facs_17_l_76" n="N011"/>_ _ _ 3. <hi style="text-decoration: underline;">Scientific <rs type="keyword" ref="#Ethics">ethics</rs>:</hi> The question of the <hi style="text-decoration: underline;">paradise</hi>
+               <lb facs="#facs_17_l_83" n="N012"/>about the knowledge of the good and evil powers. The 
+               <lb facs="#facs_17_l_90" n="N013"/>tragic implications of the transition of dreaming inno-
+               <lb facs="#facs_17_l_97" n="N014"/>cence into tragic existence. (The discussion in Chicago
+            </p>
+            <pb facs="#facs_18" n="TLx-0043_bMS 649_46 (20)-16.jpg" xml:id="img_0018"/>
+            <p facs="#facs_18_r">
+               <lb facs="#facs_18_l" n="N001"/>[14]
+               <lb facs="#facs_18_l_13" n="N002"/>and the article in "Great Ideas." pp. 8. 9.)
+            </p>
+            <pb facs="#facs_19" n="TLx-0043_bMS 649_46 (20)-19.jpg" xml:id="img_0019"/>
+            <p facs="#facs_19_r">
+               <lb facs="#facs_19_l" n="N001"/>[8] (15)
+               <lb facs="#facs_19_l_13" n="N002"/>duction of means.: mashines, tools, gadgets! It has been asked in connection with
+               <lb facs="#facs_19_l_20" n="N003"/>the question of the meaning of life; and it has been asked, when the ways of mo-
+               <lb facs="#facs_19_l_27" n="N004"/>dern civilizationin [sic.] technicology [sic.] and business were subject to <rs type="keyword" ref="#Prophet">prophetic</rs> criti-
+               <lb facs="#facs_19_l_34" n="N005"/>cism, be it in religious, be it in secular terms. If the question is now askedin [sic.]
+               <lb facs="#facs_19_l_41" n="N006"/>connection with space exploration, it becomes more abstract and more urgent than
+               <lb facs="#facs_19_l_48" n="N007"/>before. For here the horizontal line is almost completly formalized. The task is:
+               <lb facs="#facs_19_l_55" n="N008"/>to go forward for the sake of going forward, endlessly without a concrete focus.
+               <lb facs="#facs_19_l_62" n="N009"/>Of course, one could call the desire to learn more about the cosmic space and a-
+               <lb facs="#facs_19_l_69" n="N010"/>bout the astronomical bodies in it, a concrete aim, but this is only an accidental
+               <lb facs="#facs_19_l_76" n="N011"/>sto p. [sic.] The desire to go ahead whatever may be encounteted [sic.] gives the real impetus.
+               <lb facs="#facs_19_l_83" n="N012"/>But as the e x c l u s i v e surrender to the vertical line in mysticism leads
+               <lb facs="#facs_19_l_90" n="N013"/>to the impossibility of expressing anything and acting, in any direction, so the
+               <lb facs="#facs_19_l_97" n="N014"/>e x c l u s i v e surrender to the horizontal line . (in what one could call "for-
+               <lb facs="#facs_19_l_104" n="N015"/>wardism") leads to the loss of any meaningful content and to complete emptiness.
+               <lb facs="#facs_19_l_111" n="N016"/>The symptoms of this emptiness are already conspicuously amongst us in form of
+               <lb facs="#facs_19_l_118" n="N017"/>indifference, cynicism, and despair. And the space exploration is not the means of
+               <lb facs="#facs_19_l_125" n="N018"/>healing it, but it may ecome [sic.] a factor in deepening it after the first enthusiasm
+               <lb facs="#facs_19_l_132" n="N019"/>has evaporated and the pride about man's almost divine power (Ps.8() has receded.
+               <lb facs="#facs_19_l_139" n="N020"/>These spiritual dangers, however, should never lead to a
+               <lb facs="#facs_19_l_146" n="N021"/>decision to give up either the production of technical tools or the attempt to
+               <lb facs="#facs_19_l_153" n="N022"/>penetrate into the outer-terrestial [sic.] space (as the danger [...] of radical mysticism
+               <lb facs="#facs_19_l_160" n="N023"/>should not lead to a rejection of the mystical element in every religious experi-
+               <lb facs="#facs_19_l_167" n="N024"/>ence) For danger is not a reason to prevent life from actualizing its potentiali-
+               <lb facs="#facs_19_l_174" n="N025"/>ties.--This leads to another problem, connected indirectly with our subject, the
+               <lb facs="#facs_19_l_181" n="N026"/>problem of the responsibility of the scientist for dangerous possibilities implied
+               <lb facs="#facs_19_l_188" n="N027"/>in his discoveries. The problem is as old as scholarly thought and was for mille-
+               <lb facs="#facs_19_l_195" n="N028"/>nia a source of conflict between the priestly guardians of the holy and the pro-
+               <lb facs="#facs_19_l_202" n="N029"/>phetic or philosophical critics of the traditional beliefs. Even if the socio-
+               <lb facs="#facs_19_l_209" n="N030"/>logical
+            </p>
+            <pb facs="#facs_20" n="TLx-0043_bMS 649_46 (20)-20.jpg" xml:id="img_0020"/>
+            <p facs="#facs_20_r_7">
+               <lb facs="#facs_20_l_14" n="N001"/>[9] (16)
+               <lb facs="#facs_20_l_21" n="N002"/>logical, political and economic causes of such conflicts are taken into account,
+               <lb facs="#facs_20_l_28" n="N003"/>a genuine tragic element remains. The priest is aware of the catastrophic conse-
+               <lb facs="#facs_20_l_35" n="N004"/>quences, which criticism of holy traditions can have on the spirit of many people.
+               <lb facs="#facs_20_l_42" n="N005"/>But neither the <rs type="keyword" ref="#Prophet">prophet </rs>nor the philosopher can resign his vocation to fight for
+               <lb facs="#facs_20_l_49" n="N006"/>justice and <rs type="keyword" ref="#Truth">truth</rs>, even if sacred [...] beliefs must be destroyed.--This is pro-
+               <lb facs="#facs_20_l_56" n="N007"/>bably the earliest example of the conflict between the safety of the given and {th}
+               <lb facs="#facs_20_l_63" n="N008"/>the risk of the new. The dangers connected with present scientific discoveries{do}
+               <lb facs="#facs_20_l_70" n="N009"/>do not refer to the "salvation of souls" but to the very existence of mankind. But t
+               <lb facs="#facs_20_l_77" n="N010"/>the problem itself and the tragic implications of any possible solution are the
+               <lb facs="#facs_20_l_84" n="N011"/>same. Tragic consequences of the discovery and expression of truth are no reason
+               <lb facs="#facs_20_l_91" n="N012"/>for giving up the attempts to discover and the obligation to express truth. The
+               <lb facs="#facs_20_l_98" n="N013"/>danger for the soul of the believer should not stop the profetx [sic.] or the Reformer
+               <lb facs="#facs_20_l_105" n="N014"/>to pronounce truth in the vertical dimension; and the danger of destructive con-
+               <lb facs="#facs_20_l_112" n="N015"/>sequences of scientific discoveries (including those in social sc{h}iences and psy-
+               <lb facs="#facs_20_l_119" n="N016"/>chology) should not stop the scientists to search for and to express truth in
+               <lb facs="#facs_20_l_126" n="N017"/>the horizontal dimension. It is bad to try to avoid tragedy if the prize is to
+               <lb facs="#facs_20_l_133" n="N018"/>avoid truth. [controversial] [Therefore, even if space explorationm [sic.] through its military implications
+               <lb facs="#facs_20_l" n="N019"/>increased the chances of tragedy, this would not be a reason for stopping it. But
+               <lb facs="#facs_20_l_13" n="N020"/>such danger would be a powerful motive to balance the horizontal by the vertical
+               <lb facs="#facs_20_l_20" n="N021"/>line, to receive weapons againstg [sic.] ultimate tragedy. In other words: The answer to th
+               <lb facs="#facs_20_l_27" n="N022"/>the tragic implication of the pursuit of the horizontal line is not to break off
+               <lb facs="#facs_20_l_34" n="N023"/>this pursuit but to continue it under the criteria coming from the vertical line.
+               <lb facs="#facs_20_l_41" n="N024"/>But, one asks, is this still a possibility? Has not the power of the horizontal
+               <lb facs="#facs_20_l_48" n="N025"/>drive, especiallyin [sic.] its scientific expressions almost cut off the relation to
+               <lb facs="#facs_20_l_58" n="N026"/>what transcends the universe and its scientific exploration? Has not man’s image
+               <lb facs="#facs_20_l_65" n="N027"/>of himself in all Western religions become obsolete by the horizontal dynamics
+               <lb facs="#facs_20_l_72" n="N028"/>of the last 500 years? And does not space exploration say the last word in this
+               <lb facs="#facs_20_l_79" n="N029"/>respect?]
+            </p>
+            <pb facs="#facs_21" n="TLx-0043_bMS 649_46 (20)-21.jpg" xml:id="img_0021"/>
+            <p facs="#facs_21_r">
+               <lb facs="#facs_21_l" n="N001"/>[17]
+               <lb facs="#facs_21_l_13" n="N002"/>The period of conflicts is in principle over.
+               <lb facs="#facs_21_l_20" n="N003"/>The period of tolerance is not satisfactory be-
+               <lb facs="#facs_21_l_27" n="N004"/>cause it splits the consciousness.
+               <lb facs="#facs_21_l_34" n="N005"/>A period of cooperation is possible. It has started
+               <lb facs="#facs_21_l_41" n="N006"/>on many places and I want to express {in this}
+               <lb facs="#facs_21_l_48" n="N007"/>{great center of scientific creativity} my hope that
+               <lb facs="#facs_21_l_55" n="N008"/>it {will} may become a reality in increasing power.
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

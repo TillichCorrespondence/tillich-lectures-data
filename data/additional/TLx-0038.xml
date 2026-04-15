@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Zusatzmaterial I Box 38, 39, 46</title>
+                <title type="sub">Religion and Culture Project</title>
+                <principal>
+                    <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <idno type="transkribus_col_id">1956124</idno>
+                    <idno type="transkribus_doc_id">7266254</idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>changme</institution>
+                        <repository>changme</repository>
+                        <idno type="archive">changme</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <locus>Zusatzmaterial I Box 38, 39, 46</locus>
+                            <p/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+<facsimile>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
+         <graphic url="TLx-0038_p001.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YSNGBYPVJRMWOHRGYKTYXWFJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="119,560 119,3021 2313,3021 2313,560" rendition="TextRegion" xml:id="facs_1_tr_1">
+            <zone points="809,659 885,697 984,656 1041,708 1186,628 2241,669 2238,544 2055,541 1978,601 1842,533 1670,609 1577,527 1517,579 1435,516 1347,577 1134,514 806,527" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+            <zone points="440,792 675,907 784,902 877,822 1107,874 1224,806 1593,863 1656,820 1784,894 1935,833 2071,910 2241,861 2241,708 2115,686 2030,730 1872,675 1172,656 1093,708 965,683 915,724 680,618 607,667 549,615 437,609" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+            <zone points="462,1057 790,1030 913,1077 1112,1027 1358,1148 1506,1033 1683,1107 1869,1033 2243,1055 2243,948 1987,869 1880,945 1667,877 1500,932 1333,863 1107,935 462,894" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+            <zone points="377,1260 582,1284 650,1227 924,1254 1317,1210 1435,1282 1522,1219 1620,1268 1823,1202 2038,1205 2191,1298 2197,1066 1989,1027 1798,1107 1467,1074 1358,1148 1213,1082 1139,1104 1049,1060 945,1098 787,1033 596,1191 380,1161" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+            <zone points="227,1503 393,1456 481,1506 620,1402 820,1506 1134,1385 1333,1407 1385,1456 1489,1385 1631,1410 1735,1372 1858,1437 1910,1426 1915,1260 1836,1227 1429,1298 1353,1265 1167,1342 1082,1282 956,1301 858,1227 618,1369 555,1328 486,1358 402,1284 230,1358" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+            <zone points="333,1691 675,1678 773,1752 1038,1650 1101,1683 1238,1659 1361,1762 1577,1634 1741,1727 1891,1626 2014,1670 2260,1653 2263,1476 2115,1536 2030,1489 1965,1547 1670,1486 1568,1552 1426,1522 1325,1585 1246,1511 1038,1541 885,1489 530,1555 339,1476" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+            <zone points="213,1989 317,1924 448,1984 634,1858 751,1847 1301,1874 1415,1828 1680,1825 1855,1842 1951,1929 2049,1850 2273,1839 2276,1724 2235,1702 1989,1691 1844,1773 1517,1680 1410,1765 1262,1779 1101,1702 1011,1741 877,1683 751,1776 642,1678 380,1711 224,1618" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+            <zone points="183,2099 410,2134 495,2093 683,2148 915,2038 1164,2077 1219,2028 1383,2019 1525,2123 1858,2017 1896,2047 2071,2006 2257,2112 2268,1872 2019,1874 1951,1929 1883,1880 1757,1929 1653,1885 1552,1915 1470,1864 1328,1943 1172,1896 943,1962 787,1861 697,1921 546,1907 445,1981 320,1924 186,1984" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+            <zone points="246,2383 448,2432 587,2358 754,2353 803,2391 1186,2353 1358,2462 1489,2358 1629,2413 1749,2309 1828,2342 1902,2309 2041,2325 2150,2405 2295,2331 2303,2156 2191,2142 2071,2238 1956,2170 1861,2208 1768,2167 1645,2227 1541,2197 1473,2235 1429,2197 1366,2254 1271,2216 1175,2257 962,2109 667,2331 601,2331 519,2243 456,2282 388,2243 251,2263" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+            <zone points="109,2640 519,2593 612,2631 839,2582 1118,2637 1235,2566 1508,2588 1842,2547 1959,2648 2090,2569 2306,2530 2309,2429 2096,2399 1713,2495 1579,2410 1506,2440 1440,2391 1336,2481 1221,2487 1044,2344 735,2560 465,2536 393,2465 257,2563 115,2495" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+            <zone points="115,2817 372,2798 601,2894 768,2809 945,2902 1068,2814 1134,2850 1251,2779 1489,2804 1604,2771 1749,2869 1896,2752 2044,2853 2183,2743 2282,2746 2284,2661 2148,2596 1997,2692 1913,2604 1697,2697 1519,2610 1372,2697 1251,2631 1164,2661 1071,2620 907,2763 577,2765 415,2656 301,2743 117,2746" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+            <zone points="104,3118 410,2989 801,3044 932,3008 1038,3074 1194,3090 1197,2847 1038,2845 951,2787 735,2927 380,2888 290,2825 107,2866" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
+         <graphic url="TLx-0038_p002.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WJITIHZPMKXRRBTJXXDJNFZB&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="197,808 197,2653 2280,2653 2280,808" rendition="TextRegion" xml:id="facs_2_tr_1">
+            <zone points="760,882 1468,923 1504,887 1757,905 1821,862 1880,893 1931,852 2107,877 2230,857 2233,739 2156,716 2026,780 1831,675 1545,762 1394,719 1115,765 887,714 762,754" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
+            <zone points="202,1199 320,1187 463,1089 2179,1023 2182,916 2133,941 1995,877 1903,923 1821,870 1650,936 1560,908 1453,990 1378,916 1228,1000 1069,905 939,1013 729,969 634,1013 588,964 506,1018 353,885 220,857" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+            <zone points="210,1335 299,1381 391,1299 442,1338 627,1286 754,1343 872,1261 1092,1338 1340,1243 1427,1322 1568,1230 1749,1315 1893,1217 2215,1199 2222,1049 2182,1036 1933,1115 1793,1072 1478,1205 1110,1120 852,1123 752,1074 560,1089 399,1192 217,1197" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+            <zone points="194,1494 256,1522 363,1483 504,1611 701,1563 880,1442 1182,1540 1192,1338 1023,1312 946,1355 854,1297 749,1297 514,1315 258,1412 199,1391" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+            <zone points="422,1803 685,1813 780,1872 928,1765 1187,1880 1386,1757 1581,1813 1691,1742 1849,1721 1962,1816 2049,1790 2061,1588 1985,1552 1381,1701 1215,1591 1020,1673 913,1596 675,1685 606,1629 514,1667 432,1639" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+            <zone points="220,2023 614,1982 660,2036 747,1969 875,1995 944,1949 1138,1946 1312,2082 1432,1982 1511,2023 1634,1962 1747,2023 1859,1921 1962,1923 2046,1985 2274,1880 2279,1808 2184,1775 1923,1852 1747,1760 1611,1826 1563,1793 1458,1844 1350,1803 1240,1875 1115,1882 1033,1798 941,1785 780,1872 547,1790 386,1836 240,1737" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+            <zone points="197,2230 322,2261 527,2205 675,2299 754,2228 811,2243 969,2164 1095,2187 1161,2148 1192,2182 1425,2138 1637,2146 1726,2225 2031,2115 2248,2128 2256,1962 2110,2049 2036,2000 1703,2026 1619,2100 1422,1997 1312,2082 1225,2003 1113,2074 939,1997 877,2041 496,1997 276,2092 205,2051" rendition="Line" xml:id="facs_2_tr_1_tl_10"/>
+            <zone points="182,2414 345,2437 427,2506 517,2453 670,2573 959,2366 1547,2320 1598,2355 1752,2330 1875,2391 2015,2299 2233,2284 2243,2130 2179,2123 2110,2174 2010,2156 1923,2225 1813,2171 1731,2228 1675,2179 1596,2240 1537,2189 1355,2258 1271,2194 1095,2243 967,2166 644,2309 435,2261 187,2373" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
+            <zone points="197,2652 279,2621 414,2657 601,2588 696,2614 857,2570 918,2604 1563,2560 1698,2506 1916,2583 2003,2522 2105,2545 2115,2414 2020,2350 1903,2427 1772,2361 1517,2432 1450,2394 1322,2460 1061,2345 931,2376 698,2563 205,2565" rendition="Line" xml:id="facs_2_tr_1_tl_12"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
+         <graphic url="TLx-0038_p003.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VZHKALMLFTLFTFUXTQPWBLTD&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="417,636 417,2625 2218,2625 2218,636" rendition="TextRegion" xml:id="facs_3_tr_1">
+            <zone points="1289,848 1329,848 1512,716 1549,732 1618,710 1800,723 1851,707 1858,628 1609,639 1549,591 1428,674 1349,615 1307,626" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
+            <zone points="1311,976 1516,926 1809,908 1917,954 1950,932 2021,1005 2052,992 2063,789 1968,771 1864,842 1783,778 1507,875 1432,822 1318,826" rendition="Line" xml:id="facs_3_tr_1_tl_5"/>
+            <zone points="465,1199 588,1227 674,1183 802,1203 994,1142 1201,1164 1324,1126 1435,1201 1602,1135 1653,1181 1825,1082 2087,1064 2085,945 2019,1003 1946,952 1728,1027 1673,978 1307,1049 1192,1014 981,1117 895,1060 804,1095 740,1047 476,1078" rendition="Line" xml:id="facs_3_tr_1_tl_8"/>
+            <zone points="1344,1298 1512,1311 1657,1225 1743,1250 1937,1219 2089,1300 2109,1082 2078,1069 1798,1155 1734,1133 1662,1177 1593,1146 1432,1201 1358,1148" rendition="Line" xml:id="facs_3_tr_1_tl_9"/>
+            <zone points="441,1501 617,1529 734,1472 782,1505 1523,1415 1684,1470 1860,1395 2019,1417 2008,1296 1853,1338 1745,1276 1637,1283 1443,1369 1291,1309 1214,1342 943,1148 756,1267 562,1265 454,1320" rendition="Line" xml:id="facs_3_tr_1_tl_10"/>
+            <zone points="1261,1631 1305,1618 1331,1642 1402,1604 1558,1591 1635,1609 1690,1584 1847,1668 1869,1459 1778,1448 1715,1488 1633,1461 1543,1499 1499,1468 1274,1494" rendition="Line" xml:id="facs_3_tr_1_tl_11"/>
+            <zone points="1346,1754 1397,1761 1432,1734 1470,1750 1503,1730 1518,1741 1578,1726 1677,1774 1686,1648 1629,1673 1578,1618 1518,1633 1485,1613 1437,1640 1355,1637" rendition="Line" xml:id="facs_3_tr_1_tl_12"/>
+            <zone points="443,1968 522,2003 769,1933 826,1975 1038,1906 1203,2019 1311,1924 1391,1970 1457,1908 1644,1871 2213,1869 2221,1726 2076,1763 1884,1721 1699,1807 1584,1748 1232,1811 985,1703 908,1728 762,1629 597,1754 456,1721" rendition="Line" xml:id="facs_3_tr_1_tl_13"/>
+            <zone points="1197,2072 1419,2067 1492,2034 1781,2041 1827,2014 1968,2032 1972,1961 1919,1959 1860,1904 1723,1964 1618,1915 1391,2001 1263,1990 1208,1944" rendition="Line" xml:id="facs_3_tr_1_tl_14"/>
+            <zone points="1329,2168 1432,2186 1501,2131 1558,2155 1657,2113 1695,2140 1772,2105 1895,2124 1950,2089 2153,2080 2157,2045 2023,1968 1860,2052 1820,2021 1670,2061 1340,2058" rendition="Line" xml:id="facs_3_tr_1_tl_15"/>
+            <zone points="432,2237 540,2261 643,2228 674,2241 732,2206 785,2228 837,2215 895,2232 904,2069 774,2089 639,2078 586,2109 527,2089 441,2105" rendition="Line" xml:id="facs_3_tr_1_tl_16"/>
+            <zone points="906,2323 1108,2268 1157,2323 1311,2299 1426,2380 1609,2246 1983,2208 2122,2283 2138,2096 2063,2135 1950,2089 1836,2149 1770,2105 1646,2166 1503,2131 1373,2191 1291,2160 1060,1919 939,1922" rendition="Line" xml:id="facs_3_tr_1_tl_17"/>
+            <zone points="1752,2400 1827,2395 1933,2486 1997,2503 2014,2261 1990,2268 1964,2243 1942,2261 1917,2248 1827,2303 1794,2314 1759,2307" rendition="Line" xml:id="facs_3_tr_1_tl_18"/>
+            <zone points="1296,2607 1419,2609 1452,2589 1591,2669 1703,2587 1798,2583 1807,2464 1763,2437 1503,2470 1474,2453 1305,2488" rendition="Line" xml:id="facs_3_tr_1_tl_19"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_4">
+         <graphic url="TLx-0038_p004.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DZHQYLLWUIGBXAEZIASGANVJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="316,716 316,2885 2063,2885 2063,716" rendition="TextRegion" xml:id="facs_4_tr_1">
+            <zone points="481,800 593,819 666,886 821,810 983,880 1066,812 1404,812 1404,719 1286,658 1158,733 1026,717 934,650 786,731 660,668 481,674" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
+            <zone points="514,985 861,967 987,1003 1142,965 1215,1024 1341,957 1540,947 1694,973 1781,1056 1903,979 1964,1018 2031,979 2033,890 1913,831 1708,896 1365,800 1133,932 1087,884 1005,918 932,843 851,865 715,804 516,794" rendition="Line" xml:id="facs_4_tr_1_tl_2"/>
+            <zone points="366,1274 827,1245 969,1339 1083,1249 1168,1241 1253,1300 1375,1247 1473,1259 1475,1202 1211,1121 1093,1156 916,1103 739,1168 628,1115 506,1150 368,1127" rendition="Line" xml:id="facs_4_tr_1_tl_3"/>
+            <zone points="494,1422 841,1440 993,1540 1247,1414 1450,1487 1625,1387 1930,1418 1934,1284 1859,1263 1704,1324 1276,1288 1097,1339 971,1241 808,1308 654,1243 498,1312" rendition="Line" xml:id="facs_4_tr_1_tl_4"/>
+            <zone points="321,1722 542,1727 650,1794 764,1692 869,1690 953,1767 1044,1773 1154,1712 1235,1757 1328,1676 1477,1761 1678,1651 1952,1649 1954,1611 1755,1528 1544,1572 1460,1544 1387,1586 1229,1540 1115,1623 938,1509 768,1609 335,1412" rendition="Line" xml:id="facs_4_tr_1_tl_5"/>
+            <zone points="1194,1964 1347,1954 1450,1875 1487,1907 1558,1885 1643,1960 1751,1881 1852,1936 1930,1875 1932,1765 1869,1785 1761,1731 1613,1796 1414,1739 1322,1749 1278,1788 1196,1777" rendition="Line" xml:id="facs_4_tr_1_tl_6"/>
+            <zone points="488,2171 1042,2173 1225,2117 1684,2092 1686,2039 1544,1993 1434,2058 1243,2015 1125,2080 942,1966 835,1978 782,1918 504,1940" rendition="Line" xml:id="facs_4_tr_1_tl_8"/>
+            <zone points="514,2370 664,2397 930,2356 1036,2405 1111,2346 1158,2379 1330,2320 1462,2385 1548,2314 1674,2310 1753,2372 1893,2287 1956,2352 2056,2301 2066,2192 2031,2212 1920,2131 1678,2238 1509,2184 1369,2242 1276,2202 1182,2230 1072,2143 788,2222 695,2155 532,2159" rendition="Line" xml:id="facs_4_tr_1_tl_10"/>
+            <zone points="544,2630 727,2673 798,2622 1121,2649 1300,2584 1395,2667 1515,2582 1749,2561 1753,2517 1404,2417 1200,2523 1089,2440 1024,2466 875,2421 713,2513 555,2484" rendition="Line" xml:id="facs_4_tr_1_tl_11"/>
+            <zone points="546,2846 640,2868 880,2807 1032,2897 1349,2783 1515,2874 1692,2748 1867,2842 2056,2767 2060,2706 1928,2626 1578,2673 1477,2645 1410,2683 1221,2612 1066,2689 940,2626 782,2667 561,2630" rendition="Line" xml:id="facs_4_tr_1_tl_12"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="TLx-0038_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0038_p001.jpg"/>
+            <p facs="#facs_1_tr_1">
+               <lb facs="#facs_1_tr_1_tl_1" n="N001"/><hi style="text-decoration: underline;">Fife stylistic elements in which ultimate</hi>
+               <lb facs="#facs_1_tr_1_tl_2" n="N002"/><hi style="text-decoration: underline;">{I.}Reality is manifest. Derived from <rs type="keyword" ref="#Religion">religious</rs> types</hi>
+               <lb facs="#facs_1_tr_1_tl_3" n="N003"/>I. The sacramental basis of all <rs type="keyword" ref="#Religion">religious</rs> types and
+               <lb facs="#facs_1_tr_1_tl_5" n="N004"/>the {magic} numinous <rs type="keyword" ref="#Realism">realistic</rs> element in a style. (Ultimate Reality
+               <lb facs="#facs_1_tr_1_tl_7" n="N005"/>appearing as mysterious power in the particular thing)
+               <lb facs="#facs_1_tr_1_tl_9" n="N006"/>II. The mystical penetration of or elevation {of} over all particular ob-
+               <lb facs="#facs_1_tr_1_tl_10" n="N007"/>jects and the abstract - cosmic element in a style (Ulti-
+               <lb facs="#facs_1_tr_1_tl_11" n="N008"/>mate Reality appearing as the removal of the particular thing)
+               <lb facs="#facs_1_tr_1_tl_12" n="N009"/>III. The prophetic criticism of all particular objects
+               <lb facs="#facs_1_tr_1_tl_13" n="N010"/>and the critical - realistic element in a style (Ulti-
+               <lb facs="#facs_1_tr_1_tl_14" n="N011"/>mate Reality appearing as the revelation of the ugliness
+               <lb facs="#facs_1_tr_1_tl_15" n="N012"/>of {the rea} encountered reality)
+            </p>
+            <pb facs="#facs_2" n="TLx-0038_p002.jpg" xml:id="img_0002"/>
+            <p facs="#facs_2_tr_1">
+               <lb facs="#facs_2_tr_1_tl_1" n="N001"/>IV. The humanist anticipation of the essential
+               <lb facs="#facs_2_tr_1_tl_5" n="N002"/>fulfilment of the particular things and the classic - idealistic element in a
+               <lb facs="#facs_2_tr_1_tl_6" n="N003"/>style (Ultimate Reality appearing as perfect actuali-
+               <lb facs="#facs_2_tr_1_tl_7" n="N004"/>sation of all potentialities.)
+               <lb facs="#facs_2_tr_1_tl_8" n="N005"/>V. The {Spiritual dynamic} {spiritual type}
+               <lb facs="#facs_2_tr_1_tl_9" n="N006"/>{Spiritual} Spirito-dynamic type of <rs type="keyword" ref="#Religion">religious</rs> experience
+               <lb facs="#facs_2_tr_1_tl_10" n="N007"/>and the <rs type="keyword" ref="#Expressionism">expressionistic</rs> element in a style (Ultimate
+               <lb facs="#facs_2_tr_1_tl_11" n="N008"/>reality {appearing as the shaking and} breaking into the
+               <lb facs="#facs_2_tr_1_tl_12" n="N009"/>particular things, shaking and {elevat} {t}driving them)
+            </p>
+            <pb facs="#facs_3" n="TLx-0038_p003.jpg" xml:id="img_0003"/>
+            <p facs="#facs_3_tr_1">
+               <lb facs="#facs_3_tr_1_tl_1" n="N001"/><hi style="text-decoration: underline;">Polarities</hi>: {Naturalism} of predominance.
+               <lb facs="#facs_3_tr_1_tl_5" n="N002"/>The ultimate within the objectively encountered reality <rs type="keyword" ref="#Realism">(realism)</rs>
+               <lb facs="#facs_3_tr_1_tl_8" n="N003"/>The ultimate within the subjectively encountered
+               <lb facs="#facs_3_tr_1_tl_9" n="N004"/><rs type="keyword" ref="#Impressionism">(impressionism)</rs> reality
+               <lb facs="#facs_3_tr_1_tl_10" n="N005"/>The ultimate within the {encountered} essence of
+               <lb facs="#facs_3_tr_1_tl_11" n="N006"/>encountered reality
+               <lb facs="#facs_3_tr_1_tl_12" n="N007"/>(idealism)
+               <lb facs="#facs_3_tr_1_tl_13" n="N008"/>The ultimate breaking through the encountered reality
+               <lb facs="#facs_3_tr_1_tl_14" n="N009"/>(essence and existence)
+               <lb facs="#facs_3_tr_1_tl_15" n="N010"/>(<rs type="keyword" ref="#Expressionism">expressionism</rs> and <rs type="keyword" ref="#Surrealism">surrealism</rs>)
+               <lb facs="#facs_3_tr_1_tl_16" n="N011"/>The ultimate
+               <lb facs="#facs_3_tr_1_tl_17" n="N012"/>in the sub - surface - elements of
+               <lb facs="#facs_3_tr_1_tl_18" n="N013"/>reality
+               <lb facs="#facs_3_tr_1_tl_19" n="N014"/>(non-objective)
+            </p>
+            <pb facs="#facs_4" n="TLx-0038_p004.jpg" xml:id="img_0004"/>
+            <p facs="#facs_4_tr_1">
+               <lb facs="#facs_4_tr_1_tl_1" n="N001"/>I. <rs type="keyword" ref="#Religion">Religious</rs> danger: idolatry
+               <lb facs="#facs_4_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Arts">Artistic</rs> danger: <rs type="keyword" ref="#Symbol">symbolistic</rs> misuse of things
+               <lb facs="#facs_4_tr_1_tl_3" n="N003"/>II. <rs type="keyword" ref="#Religion">Religious</rs> danger: Emptiness
+               <lb facs="#facs_4_tr_1_tl_4" n="N004"/><rs type="keyword" ref="#Arts">Artistic</rs> danger: without expression {in th}
+               <lb facs="#facs_4_tr_1_tl_5" n="N005"/>III. <rs type="keyword" ref="#Religion">Religious</rs> danger: Negativity of criticism
+               <lb facs="#facs_4_tr_1_tl_6" n="N006"/><rs type="keyword" ref="#Arts">Artistic </rs>danger: Uglification of things
+               <lb facs="#facs_4_tr_1_tl_8" n="N007"/>IV. <rs type="keyword" ref="#Religion">Religious</rs> danger: Immanentism.
+               <lb facs="#facs_4_tr_1_tl_10" n="N008"/><rs type="keyword" ref="#Arts">Artistic</rs> danger: Beautification of things.
+               <lb facs="#facs_4_tr_1_tl_11" n="N009"/>V. <rs type="keyword" ref="#Religion">Religious</rs> danger: Subjectivism
+               <lb facs="#facs_4_tr_1_tl_12" n="N010"/><rs type="keyword" ref="#Arts">Artistic</rs> danger: Loss of pictorial form.
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

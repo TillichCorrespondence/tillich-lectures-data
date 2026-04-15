@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Zusatzmaterial I Box 38, 39, 46</title>
+                <title type="sub">Religion and Culture Project</title>
+                <principal>
+                    <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <idno type="transkribus_col_id">1956124</idno>
+                    <idno type="transkribus_doc_id">7266216</idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>changme</institution>
+                        <repository>changme</repository>
+                        <idno type="archive">changme</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <locus>Zusatzmaterial I Box 38, 39, 46</locus>
+                            <p/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+<facsimile>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_1">
+         <graphic url="TLx-0033_bMS 649_46 (15)-1.jpg" width="3024px" height="4032px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_2">
+         <graphic url="TLx-0033_bMS 649_46 (15)-2.jpg" width="3024px" height="4032px"/>
+         <zone points="298,764 2809,764 2809,3880 298,3880" rendition="TextRegion" xml:id="facs_2_r">
+            <zone points="757,1187 2469,1083 2467,1053 755,1157" rendition="Line" xml:id="facs_2_l"/>
+            <zone points="468,1480 2706,1331 2704,1301 466,1450" rendition="Line" xml:id="facs_2_l_13"/>
+            <zone points="375,1840 2665,1673 2663,1643 373,1810" rendition="Line" xml:id="facs_2_l_20"/>
+            <zone points="327,2033 2703,1903 2701,1873 325,2003" rendition="Line" xml:id="facs_2_l_27"/>
+            <zone points="319,2241 2669,2081 2667,2051 317,2211" rendition="Line" xml:id="facs_2_l_34"/>
+            <zone points="315,2445 2673,2263 2671,2233 313,2415" rendition="Line" xml:id="facs_2_l_41"/>
+            <zone points="315,2631 2651,2497 2649,2467 314,2601" rendition="Line" xml:id="facs_2_l_48"/>
+            <zone points="609,2920 2736,2872 2735,2842 608,2890" rendition="Line" xml:id="facs_2_l_55"/>
+            <zone points="542,3128 2610,3095 2609,3065 541,3098" rendition="Line" xml:id="facs_2_l_62"/>
+            <zone points="330,3303 2706,3239 2705,3210 329,3273" rendition="Line" xml:id="facs_2_l_69"/>
+            <zone points="356,3492 2714,3433 2713,3403 356,3462" rendition="Line" xml:id="facs_2_l_76"/>
+            <zone points="386,3644 2758,3607 2758,3577 385,3614" rendition="Line" xml:id="facs_2_l_83"/>
+            <zone points="360,3830 2740,3793 2739,3763 360,3800" rendition="Line" xml:id="facs_2_l_90"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_3">
+         <graphic url="TLx-0033_bMS 649_46 (15)-3.jpg" width="3024px" height="4032px"/>
+         <zone points="114,793 2740,793 2740,3953 114,3953" rendition="TextRegion" xml:id="facs_3_r_2">
+            <zone points="1194,949 1361,952 1362,922 1194,919" rendition="Line" xml:id="facs_3_l"/>
+            <zone points="263,1220 2656,1112 2655,1082 262,1190" rendition="Line" xml:id="facs_3_l_20"/>
+            <zone points="240,1443 2680,1295 2678,1265 238,1413" rendition="Line" xml:id="facs_3_l_27"/>
+            <zone points="246,1612 2632,1521 2631,1491 245,1582" rendition="Line" xml:id="facs_3_l_34"/>
+            <zone points="246,1835 2680,1713 2678,1683 245,1805" rendition="Line" xml:id="facs_3_l_41"/>
+            <zone points="260,2054 2656,1885 2654,1855 258,2024" rendition="Line" xml:id="facs_3_l_48"/>
+            <zone points="236,2250 2656,2067 2654,2038 234,2220" rendition="Line" xml:id="facs_3_l_55"/>
+            <zone points="304,2412 2653,2209 2650,2179 301,2382" rendition="Line" xml:id="facs_3_l_62"/>
+            <zone points="273,2510 2643,2307 2640,2277 271,2480" rendition="Line" xml:id="facs_3_l_69"/>
+            <zone points="256,2567 2457,2395 2455,2365 254,2537" rendition="Line" xml:id="facs_3_l_76"/>
+            <zone points="533,2641 2680,2533 2678,2503 532,2611" rendition="Line" xml:id="facs_3_l_83"/>
+            <zone points="272,2873 2692,2728 2690,2698 270,2843" rendition="Line" xml:id="facs_3_l_90"/>
+            <zone points="272,3052 2678,2913 2676,2883 270,3022" rendition="Line" xml:id="facs_3_l_97"/>
+            <zone points="278,3224 2688,3042 2686,3012 276,3194" rendition="Line" xml:id="facs_3_l_104"/>
+            <zone points="285,3389 2656,3193 2654,3164 283,3359" rendition="Line" xml:id="facs_3_l_111"/>
+            <zone points="287,3561 2724,3376 2721,3346 285,3531" rendition="Line" xml:id="facs_3_l_118"/>
+            <zone points="297,3713 2700,3568 2698,3538 295,3683" rendition="Line" xml:id="facs_3_l_125"/>
+            <zone points="297,3872 2713,3771 2712,3741 296,3842" rendition="Line" xml:id="facs_3_l_132"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_4">
+         <graphic url="TLx-0033_bMS 649_46 (15)-4.jpg" width="3024px" height="4032px"/>
+         <zone points="218,717 2787,717 2787,3837 218,3837" rendition="TextRegion" xml:id="facs_4_r_2">
+            <zone points="1144,838 1313,838 1313,808 1144,808" rendition="Line" xml:id="facs_4_l"/>
+            <zone points="825,1016 2049,955 2048,925 824,986" rendition="Line" xml:id="facs_4_l_15"/>
+            <zone points="469,1203 2626,1105 2625,1075 468,1173" rendition="Line" xml:id="facs_4_l_22"/>
+            <zone points="282,1418 2715,1323 2714,1293 281,1388" rendition="Line" xml:id="facs_4_l_29"/>
+            <zone points="276,1608 2697,1488 2695,1458 275,1578" rendition="Line" xml:id="facs_4_l_36"/>
+            <zone points="261,1780 2688,1700 2687,1670 260,1750" rendition="Line" xml:id="facs_4_l_43"/>
+            <zone points="264,1976 2706,1872 2705,1842 263,1946" rendition="Line" xml:id="facs_4_l_50"/>
+            <zone points="295,2148 2682,2050 2680,2020 293,2118" rendition="Line" xml:id="facs_4_l_57"/>
+            <zone points="255,2357 2685,2271 2684,2241 254,2327" rendition="Line" xml:id="facs_4_l_64"/>
+            <zone points="279,2528 2669,2467 2669,2437 278,2498" rendition="Line" xml:id="facs_4_l_71"/>
+            <zone points="795,2605 2679,2587 2678,2557 794,2575" rendition="Line" xml:id="facs_4_l_78"/>
+            <zone points="804,2697 2666,2663 2666,2633 803,2667" rendition="Line" xml:id="facs_4_l_85"/>
+            <zone points="331,2875 1942,2771 1940,2741 329,2845" rendition="Line" xml:id="facs_4_l_92"/>
+            <zone points="635,2940 2722,2903 2721,2873 635,2910" rendition="Line" xml:id="facs_4_l_99"/>
+            <zone points="328,3115 2709,3081 2709,3051 328,3085" rendition="Line" xml:id="facs_4_l_106"/>
+            <zone points="328,3192 979,3180 978,3150 328,3162" rendition="Line" xml:id="facs_4_l_113"/>
+            <zone points="328,3315 2691,3235 2690,3205 327,3285" rendition="Line" xml:id="facs_4_l_120"/>
+            <zone points="344,3477 2697,3422 2696,3392 343,3447" rendition="Line" xml:id="facs_4_l_127"/>
+            <zone points="344,3661 2731,3612 2730,3582 343,3631" rendition="Line" xml:id="facs_4_l_134"/>
+            <zone points="325,3824 2712,3790 2712,3760 325,3794" rendition="Line" xml:id="facs_4_l_141"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_5">
+         <graphic url="TLx-0033_bMS 649_46 (15)-5.jpg" width="3024px" height="4032px"/>
+         <zone points="273,705 2830,705 2830,3837 273,3837" rendition="TextRegion" xml:id="facs_5_r">
+            <zone points="1102,778 1323,776 1323,746 1102,748" rendition="Line" xml:id="facs_5_l"/>
+            <zone points="298,1066 2683,988 2682,959 297,1036" rendition="Line" xml:id="facs_5_l_13"/>
+            <zone points="296,1262 2697,1172 2696,1142 295,1232" rendition="Line" xml:id="facs_5_l_20"/>
+            <zone points="288,1446 2685,1348 2684,1318 286,1416" rendition="Line" xml:id="facs_5_l_27"/>
+            <zone points="292,1634 2681,1503 2679,1473 290,1604" rendition="Line" xml:id="facs_5_l_34"/>
+            <zone points="296,1777 2301,1638 2299,1608 294,1747" rendition="Line" xml:id="facs_5_l_41"/>
+            <zone points="512,1895 2689,1785 2687,1755 511,1865" rendition="Line" xml:id="facs_5_l_48"/>
+            <zone points="296,2132 2701,2038 2700,2008 295,2102" rendition="Line" xml:id="facs_5_l_55"/>
+            <zone points="316,2328 2652,2210 2651,2180 315,2298" rendition="Line" xml:id="facs_5_l_62"/>
+            <zone points="304,2508 2705,2397 2704,2367 303,2478" rendition="Line" xml:id="facs_5_l_69"/>
+            <zone points="316,2667 2689,2597 2688,2567 315,2637" rendition="Line" xml:id="facs_5_l_76"/>
+            <zone points="296,2863 2701,2777 2700,2747 295,2833" rendition="Line" xml:id="facs_5_l_83"/>
+            <zone points="308,3043 2726,2969 2725,2939 307,3013" rendition="Line" xml:id="facs_5_l_90"/>
+            <zone points="304,3210 2705,3177 2705,3147 304,3180" rendition="Line" xml:id="facs_5_l_97"/>
+            <zone points="292,3386 2689,3345 2688,3315 291,3356" rendition="Line" xml:id="facs_5_l_104"/>
+            <zone points="316,3553 2705,3512 2705,3482 316,3523" rendition="Line" xml:id="facs_5_l_111"/>
+            <zone points="345,3712 2734,3716 2734,3686 345,3682" rendition="Line" xml:id="facs_5_l_118"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="TLx-0033_bMS 649_46 (15)-1.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0033_bMS 649_46 (15)-1.jpg"/>
+            <pb facs="#facs_2" n="TLx-0033_bMS 649_46 (15)-2.jpg" xml:id="img_0002"/>
+            <p facs="#facs_2_r">
+               <lb facs="#facs_2_l" n="N001"/><hi style="text-decoration: underline;">Religion and Culture (first draft)</hi>
+               <lb facs="#facs_2_l_13" n="N002"/><hi style="text-decoration: underline;">First Lecture: Fundamental Concepts and their relations.</hi>
+               <lb facs="#facs_2_l_20" n="N003"/><hi style="text-decoration: underline;">Intr.</hi> {The infinity of the <rs type="keyword" ref="#Subject">subject</rs> and the necessity
+               <lb facs="#facs_2_l_27" n="N004"/>of restriction to fundamental concepts and selected appli-
+               <lb facs="#facs_2_l_34" n="N005"/>cations. The first in the first, the second in the second lecture.
+               <lb facs="#facs_2_l_41" n="N006"/>The necessity of revising the concepts become of their loose
+               <lb facs="#facs_2_l_48" n="N007"/>{t} usage in daily life as well as in learned writings.}
+               <lb facs="#facs_2_l_55" n="N008"/><hi style="text-decoration: underline;">I. The three functions of man's spiritual life</hi>
+               <lb facs="#facs_2_l_62" n="N009"/>1. The <hi style="text-decoration: underline;">life of man's <rs type="keyword" ref="#Spirit">spirit</rs></hi><rs type="keyword" ref="#Spirit"/> (a word to be saved from
+               <lb facs="#facs_2_l_69" n="N010"/>its loss in English .. It is more than mind and necessary to under-
+               <lb facs="#facs_2_l_76" n="N011"/>stand both the Western and the Eastern traditions) contains both,
+               <lb facs="#facs_2_l_83" n="N012"/>religion and culture. But it contains a third function, fundamen-
+               <lb facs="#facs_2_l_90" n="N013"/>tal for both: <rs type="keyword" ref="#Morality">morality</rs>. _ In order to understand them we must be
+            </p>
+            <pb facs="#facs_3" n="TLx-0033_bMS 649_46 (15)-3.jpg" xml:id="img_0003"/>
+            <p facs="#facs_3_r_2">
+               <lb facs="#facs_3_l" n="N001"/>[4]
+               <lb facs="#facs_3_l_20" n="N002"/>{of both} {Christianity} {<rs type="keyword" ref="#Religion">religion</rs> and <rs type="keyword" ref="#Morality">morals</rs>, if they make of the [...] good news a new}
+               <lb facs="#facs_3_l_27" n="N003"/>{law, based on the so called teachings of <rs type="person" ref="#tillich_person_id__981">Jesus</rs> and on absurd [willfull] prescriptions or prohibitions}
+               <lb facs="#facs_3_l_34" n="N004"/>{beyond it.} All moral <rs type="keyword" ref="#Law">laws</rs> are changing advices, born out of revelatory wisdom, about
+               <lb facs="#facs_3_l_41" n="N005"/>{the} They show maps of becoming {creation of the of} a centered self in the encounter with other
+               <lb facs="#facs_3_l_48" n="N006"/>centered selfs. Here the only ultimate {principle} law appears, na-
+               <lb facs="#facs_3_l_55" n="N007"/>mely <rs type="keyword" ref="#Love">love</rs> whose inner form is {<rs type="keyword" ref="#Justice">justice</rs>} reverence for the other one or justice and which transcends every law. {This is the second}
+               <lb facs="#facs_3_l_62" n="N008"/>{point where the religious dimension appears,} because it is the di-
+               <lb facs="#facs_3_l_69" n="N009"/>vine reality itself {(later more)}. Man tries to escape the responsibility
+               <lb facs="#facs_3_l_76" n="N010"/>of freedom and hide under the protective roof of laws.
+               <lb facs="#facs_3_l_83" n="N011"/>3. This leads to a [...] third element in the un-
+               <lb facs="#facs_3_l_90" n="N012"/>derstanding of morality and religion. The question must be
+               <lb facs="#facs_3_l_97" n="N013"/>raised: How can we become a centered self, a <rs type="keyword" ref="#Person">person</rs>? Which
+               <lb facs="#facs_3_l_104" n="N014"/>agent is able to achieve it. If we answer: We ourselves we
+               <lb facs="#facs_3_l_111" n="N015"/>escape the problem. For the question in which "we", which "I". The
+               <lb facs="#facs_3_l_118" n="N016"/>{person} person as centered self? But this person does not yet exist,
+               <lb facs="#facs_3_l_125" n="N017"/>we shall become a person; then: can something that is less then
+               <lb facs="#facs_3_l_132" n="N018"/>a person {produce a person}?, namely you and I, create a person?
+            </p>
+            <pb facs="#facs_4" n="TLx-0033_bMS 649_46 (15)-4.jpg" xml:id="img_0004"/>
+            <p facs="#facs_4_r_2">
+               <lb facs="#facs_4_l" n="N001"/>[3]
+               <lb facs="#facs_4_l_15" n="N002"/><hi style="text-decoration: underline;">II. The function of <rs type="keyword" ref="#Morality">morality</rs></hi>
+               <lb facs="#facs_4_l_22" n="N003"/>1. The first act of man's <rs type="keyword" ref="#Spiritual_life">spiritual life</rs> is, what
+               <lb facs="#facs_4_l_29" n="N004"/>in all being is selfintegration, centerednes. And this is
+               <lb facs="#facs_4_l_36" n="N005"/>the moral act. In every single moral act man constitutes
+               <lb facs="#facs_4_l_43" n="N006"/>himself as a centered self; and every act of selfintegration
+               <lb facs="#facs_4_l_50" n="N007"/>of a centered self is a moral act. We call such a centered
+               <lb facs="#facs_4_l_57" n="N008"/>self a <rs type="keyword" ref="#Person">person</rs> and call morality the selfconstitution of a
+               <lb facs="#facs_4_l_64" n="N009"/>person as a person. This gives morality its greatness, its
+               <lb facs="#facs_4_l_71" n="N010"/>dignity, its absolute seriousness {and <hi style="text-decoration: underline;">this</hi> means} its first relation
+               <lb facs="#facs_4_l_78" n="N011"/>to religion \\ But where there is integration there is also desintegration and man
+               <lb facs="#facs_4_l_85" n="N012"/>{(Later more)} is inclined to make the moral act conditional 
+               <lb facs="#facs_4_l_92" n="N013"/>The religious functions represents the unconditional
+               <lb facs="#facs_4_l_99" n="N014"/>2. This concept of morals has a liberating power, {both}
+               <lb facs="#facs_4_l_106" n="N015"/>{in the sense of the good news of the Christian message and the}
+               <lb facs="#facs_4_l_113" n="N016"/>{freedom from<rs type="keyword" ref="#Law"> law</rs>, as}
+               <lb facs="#facs_4_l_120" n="N017"/>{liberation experienced in some forms of mystical experience} {piety.} - - -
+               <lb facs="#facs_4_l_127" n="N018"/><rs type="keyword" ref="#Morality">Morality </rs>is not the subjection to {a <rs type="keyword" ref="#Law">law</rs>} tables of laws, be
+               <lb facs="#facs_4_l_134" n="N019"/>they divine or human, be they sacred traditions or social conventions. {And}
+               <lb facs="#facs_4_l_141" n="N020"/>{the Christians should understand how they diminish the meaning}
+            </p>
+            <pb facs="#facs_5" n="TLx-0033_bMS 649_46 (15)-5.jpg" xml:id="img_0005"/>
+            <p facs="#facs_5_r">
+               <lb facs="#facs_5_l" n="N001"/>[2]
+               <lb facs="#facs_5_l_13" n="N002"/>aware of the fact, that man's <rs type="keyword" ref="#Spiritual_life">spiritual life</rs> is a process in
+               <lb facs="#facs_5_l_20" n="N003"/>unity with the whole of life and that in the whole of life
+               <lb facs="#facs_5_l_27" n="N004"/>the same basic processes are going on: Life integrates it-
+               <lb facs="#facs_5_l_34" n="N005"/>self, life creates itself, life sublimates itself. In the dimen-
+               <lb facs="#facs_5_l_41" n="N006"/>sion of the <rs type="keyword" ref="#Spirit">spirit</rs> this is <rs type="keyword" ref="#Morality">morality</rs>, <rs type="keyword" ref="#Culture">culture</rs> and <rs type="keyword" ref="#Religion">religion</rs>.
+               <lb facs="#facs_5_l_48" n="N007"/>2. My desire would be to show this in atoms and stars, in plants
+               <lb facs="#facs_5_l_55" n="N008"/>and animals, especially in a notion with a most developped [sic.] relation
+               <lb facs="#facs_5_l_62" n="N009"/>to nature. But this is impossible, and there is anyhow something
+               <lb facs="#facs_5_l_69" n="N010"/>new in the dimension of the human spirit: It is life in mea-
+               <lb facs="#facs_5_l_76" n="N011"/>nings, in language and thought, in the awareness of laws and norms, of
+               <lb facs="#facs_5_l_83" n="N012"/>questions and answers, of commandments and decisions, of a
+               <lb facs="#facs_5_l_90" n="N013"/>selfconscious self with will and emotions. {All} This life in mea-
+               <lb facs="#facs_5_l_97" n="N014"/>nings is not separated from {the} all other life. all dimensions of life are
+               <lb facs="#facs_5_l_104" n="N015"/>in man, the inorganic and organic, the {veg} biological and the
+               <lb facs="#facs_5_l_111" n="N016"/>psychological; they add {give the} life-power to {his} the life in meanings, spirit
+               <lb facs="#facs_5_l_118" n="N017"/>is the unity of power and meaning, of vital life and {the consciousness of} rational life.
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

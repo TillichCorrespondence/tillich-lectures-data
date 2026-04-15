@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Zusatzmaterial I Box 38, 39, 46</title>
+                <title type="sub">Religion and Culture Project</title>
+                <principal>
+                    <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <idno type="transkribus_col_id">1956124</idno>
+                    <idno type="transkribus_doc_id">7266192</idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>changme</institution>
+                        <repository>changme</repository>
+                        <idno type="archive">changme</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <locus>Zusatzmaterial I Box 38, 39, 46</locus>
+                            <p/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+<facsimile>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
+         <graphic url="TLx-0028_p001.jpg" width="2479px" height="3508px"/>
+         <zone points="178,638 2260,638 2260,3239 178,3239" rendition="TextRegion" xml:id="facs_1_r">
+            <zone points="1676,746 2040,728 2039,698 1675,716" rendition="Line" xml:id="facs_1_l_1"/>
+            <zone points="357,1156 1473,1156 1473,1126 357,1126" rendition="Line" xml:id="facs_1_l"/>
+            <zone points="468,1335 2123,1293 2122,1263 467,1305" rendition="Line" xml:id="facs_1_l_2"/>
+            <zone points="1563,1470 2120,1461 2120,1431 1563,1440" rendition="Line" xml:id="facs_1_l_3"/>
+            <zone points="420,1688 2066,1643 2065,1613 419,1658" rendition="Line" xml:id="facs_1_l_4"/>
+            <zone points="612,1847 2081,1799 2080,1769 611,1817" rendition="Line" xml:id="facs_1_l_5"/>
+            <zone points="313,2329 687,2320 686,2290 312,2299" rendition="Line" xml:id="facs_1_l_6"/>
+            <zone points="390,2539 2146,2485 2145,2455 389,2509" rendition="Line" xml:id="facs_1_l_7"/>
+            <zone points="564,2721 1518,2655 1516,2625 562,2691" rendition="Line" xml:id="facs_1_l_8"/>
+            <zone points="319,2931 1946,2832 1944,2802 317,2901" rendition="Line" xml:id="facs_1_l_9"/>
+            <zone points="537,3065 1581,3026 1580,2996 536,3035" rendition="Line" xml:id="facs_1_l_10"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
+         <graphic url="TLx-0028_p002.jpg" width="2479px" height="3508px"/>
+         <zone points="-9,547 2192,547 2192,2922 -9,2922" rendition="TextRegion" xml:id="facs_2_r">
+            <zone points="284,990 1675,975 1675,945 284,960" rendition="Line" xml:id="facs_2_l"/>
+            <zone points="170,1178 1932,1145 1931,1115 169,1148" rendition="Line" xml:id="facs_2_l_1"/>
+            <zone points="125,1402 2016,1382 2016,1352 125,1372" rendition="Line" xml:id="facs_2_l_2"/>
+            <zone points="128,1633 2091,1561 2090,1531 127,1603" rendition="Line" xml:id="facs_2_l_3"/>
+            <zone points="1570,1750 2100,1714 2098,1684 1568,1720" rendition="Line" xml:id="facs_2_l_4"/>
+            <zone points="173,2336 718,2297 716,2267 171,2306" rendition="Line" xml:id="facs_2_l_5"/>
+            <zone points="296,2488 2103,2435 2102,2405 295,2458" rendition="Line" xml:id="facs_2_l_6"/>
+            <zone points="359,2770 1956,2716 1955,2686 358,2740" rendition="Line" xml:id="facs_2_l_7"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
+         <graphic url="TLx-0028_p003.jpg" width="2479px" height="3508px"/>
+         <zone points="170,511 2309,511 2309,2728 170,2728" rendition="TextRegion" xml:id="facs_3_r">
+            <zone points="481,1071 1663,1050 1662,1020 480,1041" rendition="Line" xml:id="facs_3_l"/>
+            <zone points="520,1220 2267,1241 2267,1211 520,1190" rendition="Line" xml:id="facs_3_l_1"/>
+            <zone points="532,1466 2249,1433 2248,1403 531,1436" rendition="Line" xml:id="facs_3_l_2"/>
+            <zone points="1780,1534 2175,1522 2174,1492 1779,1504" rendition="Line" xml:id="facs_3_l_3"/>
+            <zone points="460,1693 2261,1714 2261,1684 460,1663" rendition="Line" xml:id="facs_3_l_4"/>
+            <zone points="406,2249 768,2249 768,2219 406,2219" rendition="Line" xml:id="facs_3_l_5"/>
+            <zone points="718,2396 2255,2369 2254,2339 717,2366" rendition="Line" xml:id="facs_3_l_6"/>
+            <zone points="858,2543 1860,2561 1861,2531 859,2513" rendition="Line" xml:id="facs_3_l_7"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_4">
+         <graphic url="TLx-0028_p004.jpg" width="2479px" height="3508px"/>
+         <zone points="71,434 2309,434 2309,3126 71,3126" rendition="TextRegion" xml:id="facs_4_r">
+            <zone points="292,819 1045,799 1044,769 291,789" rendition="Line" xml:id="facs_4_l"/>
+            <zone points="334,1066 2013,1069 2013,1039 334,1036" rendition="Line" xml:id="facs_4_l_1"/>
+            <zone points="914,1316 2161,1306 2161,1276 914,1286" rendition="Line" xml:id="facs_4_l_2"/>
+            <zone points="338,1596 2181,1606 2181,1576 338,1566" rendition="Line" xml:id="facs_4_l_3"/>
+            <zone points="203,1948 2223,1895 2222,1865 202,1918" rendition="Line" xml:id="facs_4_l_4"/>
+            <zone points="209,2224 2233,2191 2233,2161 209,2194" rendition="Line" xml:id="facs_4_l_5"/>
+            <zone points="403,2471 2111,2432 2110,2402 402,2441" rendition="Line" xml:id="facs_4_l_6"/>
+            <zone points="246,2708 2253,2626 2252,2596 245,2678" rendition="Line" xml:id="facs_4_l_7"/>
+            <zone points="236,2928 2240,2846 2239,2816 235,2898" rendition="Line" xml:id="facs_4_l_8"/>
+            <zone points="259,3090 2171,3044 2170,3014 258,3060" rendition="Line" xml:id="facs_4_l_9"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_5">
+         <graphic url="TLx-0028_p005.jpg" width="2479px" height="3508px"/>
+         <zone points="97,416 2246,416 2246,1360 97,1360" rendition="TextRegion" xml:id="facs_5_r">
+            <zone points="1084,626 1292,616 1291,586 1083,596" rendition="Line" xml:id="facs_5_l"/>
+            <zone points="196,870 2183,847 2183,817 196,840" rendition="Line" xml:id="facs_5_l_1"/>
+            <zone points="229,1123 2183,1070 2182,1040 228,1093" rendition="Line" xml:id="facs_5_l_2"/>
+            <zone points="255,1324 759,1317 759,1287 255,1294" rendition="Line" xml:id="facs_5_l_3"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="TLx-0028_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0028_p001.jpg"/>
+            <p facs="#facs_1_r">
+               <lb facs="#facs_1_l_1" n="N001"/><rs type="keyword" ref="#Religion">Religion</rs> + <rs type="keyword" ref="#Arts">art</rs>
+               <lb facs="#facs_1_l" n="N002"/>I. <hi style="text-decoration: underline;">Human nature and <rs type="keyword" ref="#Arts">art</rs>.</hi>
+               <lb facs="#facs_1_l_2" n="N003"/>A. <rs type="keyword" ref="#Philosophy">Philosophy</rs>, {and} the question of man and the
+               <lb facs="#facs_1_l_3" n="N004"/>question of <rs type="keyword" ref="#Being">being</rs>.
+               <lb facs="#facs_1_l_4" n="N005"/>B. Expression as an <rs type="keyword" ref="#Ontology">ontological</rs> category.
+               <lb facs="#facs_1_l_5" n="N006"/><rs type="keyword" ref="#Arts">Artistic</rs> expression. Eros and expression.
+               <lb facs="#facs_1_l_6" n="N007"/>I. cont.
+               <lb facs="#facs_1_l_7" n="N008"/>C. Transformation as an anthropological category.
+               <lb facs="#facs_1_l_8" n="N009"/><rs type="keyword" ref="#Arts">Artistic</rs> transformation.
+               <lb facs="#facs_1_l_9" n="N010"/>D. Anticipation as an <rs type="keyword" ref="#Ethics">ethical </rs>category.
+               <lb facs="#facs_1_l_10" n="N011"/><rs type="keyword" ref="#Arts">Artistic</rs> anticipation.
+            </p>
+            <pb facs="#facs_2" n="TLx-0028_p002.jpg" xml:id="img_0002"/>
+            <p facs="#facs_2_r">
+               <lb facs="#facs_2_l" n="N001"/><hi style="text-decoration: underline;">II.<rs type="keyword" ref="#Culture"> Culture</rs>, <rs type="keyword" ref="#Society">society</rs> and <rs type="keyword" ref="#Arts">art</rs></hi>
+               <lb facs="#facs_2_l_1" n="N002"/>A. <rs type="keyword" ref="#Arts">Art</rs> and homo Faber (so called pure art)
+               <lb facs="#facs_2_l_2" n="N003"/>B. <rs type="keyword" ref="#Arts">Art </rs>and knowledge (awareness and emotion)
+               <lb facs="#facs_2_l_3" n="N004"/>C. <rs type="keyword" ref="#Arts">Art</rs> and<rs type="keyword" ref="#Ethics"> ethics</rs> (The aesthetic and the ethical
+               <lb facs="#facs_2_l_4" n="N005"/>point of view.)
+               <lb facs="#facs_2_l_5" n="N006"/>II. cont.
+               <lb facs="#facs_2_l_6" n="N007"/>D. <rs type="keyword" ref="#Arts">Art</rs> and <rs type="keyword" ref="#Society">social structures </rs>(Interdependence)
+               <lb facs="#facs_2_l_7" n="N008"/>E. Social <rs type="keyword" ref="#Symbol">symbols</rs> and anticipation.
+            </p>
+            <pb facs="#facs_3" n="TLx-0028_p003.jpg" xml:id="img_0003"/>
+            <p facs="#facs_3_r">
+               <lb facs="#facs_3_l" n="N001"/><hi style="text-decoration: underline;">III. <rs type="keyword" ref="#Religion">Religion</rs> and <rs type="keyword" ref="#Arts">Art</rs>.</hi>
+               <lb facs="#facs_3_l_1" n="N002"/><hi style="text-decoration: underline;">A. </hi>The first level: <rs type="keyword" ref="#Religion">Religion</rs> and expression universally
+               <lb facs="#facs_3_l_2" n="N003"/>B. The second level: <rs type="keyword" ref="#Religion">Religion</rs> and <rs type="keyword" ref="#Expressionism">expressionistic</rs>
+               <lb facs="#facs_3_l_3" n="N004"/>expression
+               <lb facs="#facs_3_l_4" n="N005"/>C. The third level. <rs type="keyword" ref="#Religion">Religion</rs> expressed in its <rs type="keyword" ref="#Symbol">symbols</rs>
+               <lb facs="#facs_3_l_5" n="N006"/>III. cont.
+               <lb facs="#facs_3_l_6" n="N007"/>D. The 4 level: <rs type="keyword" ref="#Religion">Religious</rs> style and <rs type="keyword" ref="#Religion">religious</rs>
+               <lb facs="#facs_3_l_7" n="N008"/>content. (The cult picture
+            </p>
+            <pb facs="#facs_4" n="TLx-0028_p004.jpg" xml:id="img_0004"/>
+            <p facs="#facs_4_r">
+               <lb facs="#facs_4_l" n="N001"/><hi style="text-decoration: underline;">Intr. Remarks</hi>
+               <lb facs="#facs_4_l_1" n="N002"/>3. The double purpose: a] <rs type="keyword" ref="#Religion">Religion</rs> and <rs type="keyword" ref="#Arts">Art</rs>
+               <lb facs="#facs_4_l_2" n="N003"/>b] <rs type="keyword" ref="#Religion">Religious </rs>and<rs type="keyword" ref="#Arts"> artistic</rs> symbols.
+               <lb facs="#facs_4_l_3" n="N004"/>1. The situation in the National Council and in Union 
+               <lb facs="#facs_4_l_4" n="N005"/>2. Difference to former lectures: The double purpose
+               <lb facs="#facs_4_l_5" n="N006"/>4 The infinity of material and the difficulty
+               <lb facs="#facs_4_l_6" n="N007"/>of choice. (Each evening differently)
+               <lb facs="#facs_4_l_7" n="N008"/>5. Three types of students a] Those who are interested.
+               <lb facs="#facs_4_l_8" n="N009"/>b] Those who want to help {and to be helped}. c] Those
+               <lb facs="#facs_4_l_9" n="N010"/>who work on problems of <rs type="keyword" ref="#Symbol">symbolism </rs>and be helped.
+            </p>
+            <pb facs="#facs_5" n="TLx-0028_p005.jpg" xml:id="img_0005"/>
+            <p facs="#facs_5_r">
+               <lb facs="#facs_5_l" n="N001"/><hi style="text-decoration: underline;">2</hi>
+               <lb facs="#facs_5_l_1" n="N002"/>(Possibility of a smaller group. - <rs type="person" ref="#tillich_person_id__1923">Hannah</rs>'s guiding trips)
+               <lb facs="#facs_5_l_2" n="N003"/>6. Today the meaning of <rs type="keyword" ref="#Religion">religious</rs> <rs type="keyword" ref="#Arts">art</rs>. Pictures
+               <lb facs="#facs_5_l_3" n="N004"/>{at random}.
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">ALT Box 38</title>
+                <title type="sub">Religion and Culture Project</title>
+                <principal>
+                    <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <idno type="transkribus_col_id">1956124</idno>
+                    <idno type="transkribus_doc_id">7265998</idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>changme</institution>
+                        <repository>changme</repository>
+                        <idno type="archive">changme</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <locus>ALT Box 38</locus>
+                            <p/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+<facsimile>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
+         <graphic url="TLx-0001_p001.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VNVVWAZAJPTHVLTUULBMHQAS&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="197,648 197,2765 2140,2765 2140,648" rendition="TextRegion" xml:id="facs_1_tr_1">
+            <zone points="1702,714 1730,698 1782,718 1923,700 1953,722 2005,706 2031,730 2135,714 2133,646 2045,604 1921,638 1833,624 1770,636 1700,612" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+            <zone points="513,814 587,844 748,798 816,824 984,800 1207,810 1251,844 1247,688 990,744 830,676 602,744 511,720" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+            <zone points="876,876 1486,900 1526,892 1526,836 1385,814 1297,842 1097,806 954,840 874,824" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+            <zone points="810,926 948,958 1081,922 1197,984 1385,958 1574,988 1652,944 1732,956 1730,896 1680,872 1003,896 808,864" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+            <zone points="493,1107 523,1109 543,1091 571,1099 624,1089 644,1099 740,1097 736,1017 708,1021 692,1037 646,1031 608,1005 585,1005 545,1027 517,1005 489,1017" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+            <zone points="233,1181 485,1157 1434,1225 1480,1215 1478,1119 676,1131 597,1091 421,1133 315,1075 231,1105" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+            <zone points="678,1271 1871,1291 1869,1235 1797,1209 676,1209" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+            <zone points="672,1361 1883,1393 1863,1291 1726,1331 1624,1295 1422,1321 1173,1273 1081,1315 670,1275" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+            <zone points="674,1448 708,1456 740,1480 786,1468 800,1476 816,1466 860,1470 882,1454 894,1462 908,1452 926,1456 924,1359 856,1379 804,1371 774,1351 712,1373 672,1361" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+            <zone points="457,1630 485,1628 519,1646 575,1616 658,1636 738,1618 736,1504 696,1482 648,1480 634,1492 595,1482 527,1532 513,1526 455,1544" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+            <zone points="674,1732 1145,1736 1143,1660 1099,1658 1049,1624 992,1656 946,1638 894,1650 828,1620 772,1652 670,1642" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+            <zone points="654,1807 1570,1805 1628,1843 1734,1809 1923,1849 1995,1833 1993,1750 1588,1724 1383,1774 1209,1704 652,1732" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+            <zone points="650,1909 1039,1881 1385,1949 1572,1905 1917,1941 1957,1929 1955,1841 1528,1855 1349,1811 1205,1843 950,1794 648,1845" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+            <zone points="646,1997 724,2009 778,1989 792,2003 812,1993 860,2013 904,1995 900,1899 864,1903 844,1923 820,1901 790,1893 764,1919 740,1903 686,1917 670,1907 644,1911" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+            <zone points="415,2274 1829,2332 1931,2324 1929,2246 848,2248 411,2196" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+            <zone points="413,2326 1939,2378 1937,2324 411,2274" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
+            <zone points="415,2380 1742,2402 1923,2442 2013,2430 2011,2370 413,2326" rendition="Line" xml:id="facs_1_tr_1_tl_20"/>
+            <zone points="409,2418 1851,2472 1869,2422 407,2376" rendition="Line" xml:id="facs_1_tr_1_tl_21"/>
+            <zone points="407,2476 1799,2550 1949,2530 1947,2456 405,2420" rendition="Line" xml:id="facs_1_tr_1_tl_22"/>
+            <zone points="413,2562 463,2562 495,2542 563,2568 602,2544 636,2548 666,2526 704,2532 702,2478 626,2482 583,2470 475,2478 451,2466 409,2482" rendition="Line" xml:id="facs_1_tr_1_tl_23"/>
+            <zone points="1452,2687 1500,2703 1572,2705 1598,2687 1634,2707 1790,2695 1835,2717 1939,2711 1937,2651 1861,2659 1801,2623 1630,2635 1522,2615 1502,2635 1450,2631" rendition="Line" xml:id="facs_1_tr_1_tl_24"/>
+            <zone points="1448,2789 1512,2799 1632,2759 1803,2795 1881,2771 2047,2773 2045,2707 2021,2699 1835,2717 1788,2695 1700,2719 1598,2687 1572,2705 1446,2689" rendition="Line" xml:id="facs_1_tr_1_tl_25"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="TLx-0001_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0001_p001.jpg"/>
+            <p facs="#facs_1_tr_1">
+               <lb facs="#facs_1_tr_1_tl_1" n="N001"/>Prof. <rs type="person" key="Tillich, Paul">Paul Tillich</rs>
+               <lb facs="#facs_1_tr_1_tl_2" n="N002"/>Course Announcements for 1957-58.
+               <lb facs="#facs_1_tr_1_tl_3" n="N003"/>Lectures in General Education
+               <lb facs="#facs_1_tr_1_tl_4" n="N004"/>Tuesday, Thursday, (Saturday) 11-12 a.m.
+               <lb facs="#facs_1_tr_1_tl_5" n="N005"/>Semester I
+               <lb facs="#facs_1_tr_1_tl_6" n="N006"/><rs wikiData="Q9174" type="keyword" ref="#Religion">Religion</rs>, <rs wikiData="Q2018526" type="keyword" ref="#Arts">the Arts</rs> and <rs wikiData="Q7762580" type="keyword" ref="#Science">the Sciences</rs>
+               <lb facs="#facs_1_tr_1_tl_7" n="N007"/>The relation of religion to the arts and sciences in
+               <lb facs="#facs_1_tr_1_tl_9" n="N008"/>general, with special reference to their contemporary
+               <lb facs="#facs_1_tr_1_tl_10" n="N009"/>situation.
+               <lb facs="#facs_1_tr_1_tl_11" n="N010"/>Semester II
+               <lb facs="#facs_1_tr_1_tl_12" n="N011"/><rs wikiData="Q9174" type="keyword" ref="#Religion">Religion</rs> and <rs wikiData="Q48204" type="keyword" ref="#Society">Society</rs>
+               <lb facs="#facs_1_tr_1_tl_14" n="N012"/>The relation of religion to the social, legal, educational
+               <lb facs="#facs_1_tr_1_tl_16" n="N013"/>and political problems, including the present historical
+               <lb facs="#facs_1_tr_1_tl_17" n="N014"/>situation.
+               <lb facs="#facs_1_tr_1_tl_18" n="N015"/>Note: Although much of this is the same material covered in the
+               <lb facs="#facs_1_tr_1_tl_19" n="N016"/><rs wikiData="Q9174" type="keyword" ref="#Religion">Religion</rs> and <rs wikiData="Q11042" type="keyword" ref="#Culture">Culture</rs> course offered in 1955-56 as Humanities 127,
+               <lb facs="#facs_1_tr_1_tl_20" n="N017"/>Professor Tillich plans to offer these as two completely independent
+               <lb facs="#facs_1_tr_1_tl_21" n="N018"/>half courses and suggests that probably two entirely different
+               <lb facs="#facs_1_tr_1_tl_22" n="N019"/>course numbers be used. If there is any question on this, please
+               <lb facs="#facs_1_tr_1_tl_23" n="N020"/>contact him.
+               <lb facs="#facs_1_tr_1_tl_24" n="N021"/><rs type="person" key="Leonard, G.C.">G. C. Leonard</rs> (Mrs.)
+               <lb facs="#facs_1_tr_1_tl_25" n="N022"/>Secretary to <rs type="person" key="Tillich, Paul">Dr. Tillich</rs>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

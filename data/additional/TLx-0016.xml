@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Zusatzmaterial I Box 38, 39, 46</title>
+                <title type="sub">Religion and Culture Project</title>
+                <principal>
+                    <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <idno type="transkribus_col_id">1956124</idno>
+                    <idno type="transkribus_doc_id">7266037</idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>changme</institution>
+                        <repository>changme</repository>
+                        <idno type="archive">changme</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <locus>Zusatzmaterial I Box 38, 39, 46</locus>
+                            <p/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+<facsimile>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_1">
+         <graphic url="TLx-0016_bMS 649_46 (14)-1.jpg" width="3024px" height="4032px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_2">
+         <graphic url="TLx-0016_bMS 649_46 (14)-2.jpg" width="3024px" height="4032px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SAKOPLDYMPRLKIYLIAOSURTY&amp;fileType=view" width="3024px" height="4032px"/>
+         <zone points="385,818 385,3541 2613,3541 2613,818" rendition="TextRegion" xml:id="facs_2_tr_1">
+            <zone points="791,1036 907,1039 1006,992 1673,965 1676,763 1400,775 1207,617 1105,620 970,703 874,667 797,697" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
+            <zone points="477,1304 700,1306 838,1367 1039,1287 1260,1320 1483,1293 1692,1216 1698,1130 1513,1067 1279,1119 1221,1083 1050,1114 907,1061 802,1119 485,1116" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+            <zone points="612,1712 1009,1709 1163,1665 1323,1714 1521,1676 1645,1714 1720,1665 2018,1692 2290,1645 2301,1403 1943,1384 1739,1480 1640,1392 1199,1442 1003,1373 626,1389" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
+            <zone points="543,2078 639,2106 1108,2040 1342,2095 1480,2040 1761,2131 1962,2037 2249,2078 2263,1841 2098,1794 1973,1858 1899,1816 1836,1858 1612,1838 1422,1902 1276,1849 1138,1907 846,1871 548,1924" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+            <zone points="620,2279 976,2307 1386,2252 1491,2351 1657,2246 1866,2257 1987,2326 2070,2249 2219,2274 2357,2205 2607,2216 2613,2045 2539,2037 2288,2109 2183,2042 1998,2095 1896,2059 1758,2153 1532,2084 1218,2098 1119,2153 901,2095 744,2186 626,2142" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+            <zone points="386,2503 518,2494 645,2558 841,2475 1045,2519 1199,2428 1475,2478 1747,2428 1960,2497 2056,2437 2194,2464 2566,2414 2574,2224 2541,2213 2368,2255 2285,2227 2216,2274 2070,2252 1987,2329 1767,2238 1488,2351 1392,2282 1251,2266 1053,2346 868,2301 752,2362 568,2324 394,2362" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+            <zone points="369,2698 1177,2607 1502,2646 1651,2616 1805,2674 1910,2607 2070,2657 2120,2621 2158,2660 2235,2618 2348,2674 2583,2629 2585,2516 2439,2508 2329,2442 2086,2503 1902,2470 1772,2527 1670,2439 1475,2503 1213,2431 926,2547 813,2483 650,2558 378,2511" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+            <zone points="369,2922 598,2844 711,2886 978,2817 1293,2803 1574,2855 1673,2778 2001,2806 2122,2740 2340,2789 2390,2762 2505,2831 2572,2800 2580,2632 2442,2632 2318,2698 2164,2674 2120,2624 2070,2665 1921,2640 1805,2687 1634,2632 1469,2685 1240,2607 824,2685 697,2652 378,2685" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+            <zone points="380,3073 639,3035 797,3062 1050,2966 1238,3035 1444,2941 1629,2963 1717,3029 1833,2935 2051,2916 2448,2993 2561,2963 2569,2795 2470,2836 2376,2792 2288,2839 2029,2784 1863,2875 1626,2814 1367,2872 1227,2806 893,2833 763,2891 598,2847 386,2919" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
+            <zone points="386,3274 513,3274 650,3186 849,3156 1171,3222 1243,3175 1491,3197 1571,3156 1643,3211 1849,3115 2177,3120 2293,3214 2558,3120 2563,2952 2324,3007 2144,2944 2007,3026 1921,2985 1720,3032 1665,2988 1505,3026 1406,2971 1235,3035 1056,2963 769,3101 573,3046 496,3090 391,3073" rendition="Line" xml:id="facs_2_tr_1_tl_12"/>
+            <zone points="378,3357 576,3357 667,3412 929,3321 1105,3407 1389,3285 1519,3291 1637,3385 2114,3288 2238,3327 2483,3285 2585,3338 2591,3183 2379,3153 2293,3214 2051,3239 1808,3153 1728,3203 1623,3208 1571,3156 1430,3208 1243,3178 1177,3219 1017,3170 775,3252 604,3197 510,3277 378,3272" rendition="Line" xml:id="facs_2_tr_1_tl_13"/>
+            <zone points="369,3506 733,3539 907,3498 1009,3553 1293,3487 2552,3484 2555,3321 2197,3338 1984,3296 1601,3418 1243,3365 1053,3454 943,3456 832,3398 617,3382 369,3454" rendition="Line" xml:id="facs_2_tr_1_tl_14"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_3">
+         <graphic url="TLx-0016_bMS 649_46 (14)-3.jpg" width="3024px" height="4032px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HJKYLPULPPOEREZYSVVPFXZI&amp;fileType=view" width="3024px" height="4032px"/>
+         <zone points="262,757 262,3654 2598,3654 2598,757" rendition="TextRegion" xml:id="facs_3_tr_1">
+            <zone points="370,801 451,793 448,763 367,771" rendition="Line" xml:id="facs_3_l"/>
+            <zone points="282,945 538,878 657,918 927,886 1070,974 1334,860 2560,884 2592,674 2459,654 2270,741 2180,695 1790,724 1395,666 1238,718 1145,680 1049,732 965,686 773,712 668,671 555,744 282,785" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
+            <zone points="267,1099 947,1032 1087,1116 1215,1032 1782,1017 2061,1101 2273,1040 2340,1099 2424,1043 2578,1046 2581,881 2223,854 2034,889 1680,843 1354,945 1177,901 1055,974 881,875 634,927 541,878 398,988 267,994" rendition="Line" xml:id="facs_3_tr_1_tl_2"/>
+            <zone points="262,1282 1029,1212 1253,1293 1569,1250 1654,1290 1982,1293 2084,1351 2302,1194 2589,1192 2592,1035 2534,1026 2409,1104 2273,1040 2090,1107 1953,1049 1811,1104 1534,1026 1380,1113 1194,1046 1075,1133 1035,1101 898,1125 799,1072 709,1110 607,1064 517,1116 267,1139" rendition="Line" xml:id="facs_3_tr_1_tl_3"/>
+            <zone points="250,1532 308,1543 372,1505 398,1534 552,1529 593,1555 668,1543 686,1293 581,1279 532,1314 509,1305 448,1343 363,1360 308,1325 264,1331" rendition="Line" xml:id="facs_3_tr_1_tl_4"/>
+            <zone points="503,1744 619,1697 834,1718 947,1784 1078,1668 1398,1718 1508,1677 1752,1750 1886,1686 1991,1752 2101,1680 2212,1718 2334,1657 2560,1683 2566,1488 2241,1471 2151,1508 2098,1462 1959,1494 1773,1444 1636,1537 1575,1511 1424,1555 1363,1523 1104,1558 1052,1520 997,1555 509,1537" rendition="Line" xml:id="facs_3_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="250,1973 378,2005 512,1915 764,1950 1165,1840 2543,1825 2581,1816 2584,1741 2488,1750 2290,1674 2177,1738 2090,1689 1979,1750 1886,1686 1773,1750 1552,1706 1447,1747 1366,1694 1087,1662 945,1784 814,1700 613,1782 549,1741 256,1816" rendition="Line" xml:id="facs_3_tr_1_tl_6"/>
+            <zone points="250,2078 360,2081 459,2162 1008,2116 1131,2052 1267,2049 1412,2110 1561,2029 1729,2110 2194,2017 2322,2095 2543,2087 2549,1901 2473,1866 2232,1947 1497,1933 1194,1985 1075,1933 1006,1973 927,1909 741,1976 514,1912 384,2002 253,1982" rendition="Line" xml:id="facs_3_tr_1_tl_8"/>
+            <zone points="267,2325 398,2287 666,2372 956,2267 1113,2372 1273,2249 1372,2319 1543,2281 1691,2340 1750,2299 1799,2345 1880,2284 2168,2226 2555,2267 2558,2127 2395,2084 2249,2122 2145,2061 1938,2049 1773,2113 1465,2113 1308,2191 892,2127 718,2220 442,2186 378,2133 270,2165" rendition="Line" xml:id="facs_3_tr_1_tl_10"/>
+            <zone points="264,2482 924,2494 1183,2433 1305,2467 1537,2430 1622,2467 1784,2424 2252,2453 2357,2421 2549,2476 2578,2296 2380,2328 2241,2284 2142,2348 1880,2284 1805,2348 1747,2299 1633,2337 1546,2284 1372,2322 1322,2276 1194,2305 1119,2377 822,2296 735,2366 500,2354 442,2398 264,2403" rendition="Line" xml:id="facs_3_tr_1_tl_11"/>
+            <zone points="256,2668 811,2627 974,2665 1101,2613 1180,2642 1505,2595 1700,2662 1869,2604 2247,2598 2409,2662 2523,2650 2528,2462 2453,2444 2284,2528 2154,2447 1997,2494 1898,2430 1604,2526 1322,2470 1157,2523 1043,2456 907,2534 785,2499 636,2563 573,2514 375,2528 262,2488" rendition="Line" xml:id="facs_3_tr_1_tl_12"/>
+            <zone points="250,2961 462,2889 570,2932 753,2857 822,2889 1279,2810 1415,2866 1549,2807 1657,2834 1936,2775 2110,2784 2302,2863 2389,2816 2520,2863 2526,2688 2450,2703 2328,2636 2046,2714 1654,2627 1389,2688 1215,2662 1067,2697 959,2650 773,2697 593,2645 262,2682" rendition="Line" xml:id="facs_3_tr_1_tl_13"/>
+            <zone points="256,3116 387,3145 543,3052 721,3034 1008,3081 1174,3037 1389,3104 1764,3043 1825,3095 2023,3002 2560,2996 2566,2880 2098,2816 1880,2912 1645,2871 1421,2927 1145,2857 1000,2895 799,2866 474,2956 366,2895 262,2938" rendition="Line" xml:id="facs_3_tr_1_tl_14"/>
+            <zone points="247,3302 462,3307 666,3229 1148,3214 1378,3310 1590,3200 1703,3238 1796,3185 1962,3223 2116,3174 2342,3238 2345,3121 2008,3057 1767,3098 1668,3046 1421,3113 1029,3060 715,3177 526,3072 372,3156 253,3133" rendition="Line" xml:id="facs_3_tr_1_tl_15"/>
+            <zone points="488,3505 895,3511 1055,3441 1343,3543 1479,3464 1622,3528 1723,3444 2078,3464 2299,3400 2494,3458 2499,3258 2380,3235 2122,3261 2026,3331 1814,3197 1546,3322 1447,3284 1287,3339 1139,3281 1032,3348 747,3267 494,3310" rendition="Line" xml:id="facs_3_tr_1_tl_16" subtype="paragraph"/>
+            <zone points="247,3601 497,3665 573,3604 674,3607 921,3685 1253,3612 1659,3650 1840,3592 2148,3674 2284,3601 2496,3694 2540,3685 2546,3456 2293,3485 2127,3435 1921,3540 1738,3470 1619,3531 1415,3493 1357,3546 1128,3453 927,3537 828,3490 686,3531 497,3479 250,3485" rendition="Line" xml:id="facs_3_tr_1_tl_17"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="TLx-0016_bMS 649_46 (14)-1.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0016_bMS 649_46 (14)-1.jpg"/>
+            <pb facs="#facs_2" n="TLx-0016_bMS 649_46 (14)-2.jpg" xml:id="img_0002"/>
+            <p facs="#facs_2_tr_1">
+               <lb facs="#facs_2_tr_1_tl_1" n="N001"/><hi style="text-decoration: underline;">Religion and Culture</hi>
+               <lb facs="#facs_2_tr_1_tl_2" n="N002"/><hi style="text-decoration: underline;">First semester: 24 lectures.</hi>
+               <lb facs="#facs_2_tr_1_tl_3" n="N003"/><hi style="text-decoration: underline;">I. Introduction and Preliminary Definitions.</hi>
+               <lb facs="#facs_2_tr_1_tl_5" n="N004"/><hi style="text-decoration: underline;">1. The character and organisation of the lectures</hi>
+               <lb facs="#facs_2_tr_1_tl_6" n="N005"/>a] The toil and labor of serious thought is demanded
+               <lb facs="#facs_2_tr_1_tl_7" n="N006"/>in every academic work. This must be emphasized <hi style="text-decoration: underline;">first</hi>
+               <lb facs="#facs_2_tr_1_tl_8" n="N007"/>because of the universality of the title, promising perhaps po-
+               <lb facs="#facs_2_tr_1_tl_9" n="N008"/>pular lectures about interesting subjects. <hi style="text-decoration: underline;">Second</hi>, because of the
+               <lb facs="#facs_2_tr_1_tl_11" n="N009"/>popularising tendency of our culture, against which the academic
+               <lb facs="#facs_2_tr_1_tl_12" n="N010"/>position must be defended. – If water must be spread
+               <lb facs="#facs_2_tr_1_tl_13" n="N011"/>over large stretches of land, a deep fountain is needed or an
+               <lb facs="#facs_2_tr_1_tl_14" n="N012"/>ever streaming river. We are responsible for it. This is a
+            </p>
+            <pb facs="#facs_3" n="TLx-0016_bMS 649_46 (14)-3.jpg" xml:id="img_0003"/>
+            <p facs="#facs_3_tr_1">
+               <lb facs="#facs_3_l" n="N001"/>[2]
+               <lb facs="#facs_3_tr_1_tl_1" n="N002"/>warning that thinking cannot avoid abstractions, and that
+               <lb facs="#facs_3_tr_1_tl_2" n="N003"/>even the concrete example serves the abstract concepts. Complaints
+               <lb facs="#facs_3_tr_1_tl_3" n="N004"/>about abstractions in thought are like complaints about colours
+               <lb facs="#facs_3_tr_1_tl_4" n="N005"/>in painting.
+               <lb facs="#facs_3_tr_1_tl_5" n="N006"/>b] An example of this {situati} character of thought is the
+               <lb facs="#facs_3_tr_1_tl_6" n="N007"/>organisation of the {whole} lecture. We must anticipate some
+               <lb facs="#facs_3_tr_1_tl_8" n="N008"/>concepts, although their {full meaning will appear later.} development is the task of the whole lecture. {After
+               <lb facs="#facs_3_tr_1_tl_10" n="N009"/>discussing preliminary} The concepts of <rs type="keyword" ref="#Religion">religion</rs> and <rs type="keyword" ref="#Culture">culture</rs>
+               <lb facs="#facs_3_tr_1_tl_11" n="N010"/>{I intend to} are most abstract in the beginning. They shall
+               <lb facs="#facs_3_tr_1_tl_12" n="N011"/>be filled with content without ceasing to be abstract. {The
+               <lb facs="#facs_3_tr_1_tl_13" n="N012"/>first step to give them concrete content is an analysis of
+               <lb facs="#facs_3_tr_1_tl_14" n="N013"/>the present situation with respect to our problem. This then
+               <lb facs="#facs_3_tr_1_tl_15" n="N014"/>must be our second task. Out of it the basic question arises.
+               <lb facs="#facs_3_tr_1_tl_16" n="N015"/>c] After this laying of the foundations, the lecture
+               <lb facs="#facs_3_tr_1_tl_17" n="N016"/>must go into the special functions of man's cultural life.}
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

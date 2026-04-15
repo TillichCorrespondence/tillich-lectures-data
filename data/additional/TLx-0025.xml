@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Zusatzmaterial I Box 38, 39, 46</title>
+                <title type="sub">Religion and Culture Project</title>
+                <principal>
+                    <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <idno type="transkribus_col_id">1956124</idno>
+                    <idno type="transkribus_doc_id">7266172</idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>changme</institution>
+                        <repository>changme</repository>
+                        <idno type="archive">changme</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <locus>Zusatzmaterial I Box 38, 39, 46</locus>
+                            <p/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+<facsimile>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_1">
+         <graphic url="TLx-0025_bMS 649_46 (16)-1.jpg" width="3024px" height="4032px"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_2">
+         <graphic url="TLx-0025_bMS 649_46 (16)-2.jpg" width="3024px" height="4032px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=IELCKYUOVVVIPMWZNRFZSRVA&amp;fileType=view" width="3024px" height="4032px"/>
+         <zone points="301,890 301,3717 2640,3717 2640,890" rendition="TextRegion" xml:id="facs_2_tr_1">
+            <zone points="692,1008 1720,1003 1729,782 1407,828 1293,790 1067,837 698,825" rendition="Line" xml:id="facs_2_tr_1_tl_1" subtype="heading"/>
+            <zone points="654,1619 1177,1625 1439,1540 1517,1575 2002,1569 2049,1558 2055,1328 1712,1351 1555,1308 1389,1360 1282,1322 1174,1363 660,1372" rendition="Line" xml:id="facs_2_tr_1_tl_4" subtype="heading"/>
+            <zone points="1261,1822 1843,1854 1921,1814 1988,1860 2188,1796 2337,1816 2406,1779 2415,1604 2252,1549 1747,1555 1494,1654 1404,1590 1267,1590" rendition="Line" xml:id="facs_2_tr_1_tl_5" subtype="heading"/>
+            <zone points="485,1939 781,1944 782,1914 486,1909" rendition="Line" xml:id="facs_2_l"/>
+            <zone points="599,2252 1029,2206 1360,2278 1424,2229 1735,2261 1909,2200 1985,2235 2252,2145 2581,2168 2589,1941 2491,1924 2369,2000 2171,1953 1988,2005 1732,1970 1601,2043 1514,1991 1369,1997 1241,2061 884,1956 727,2008 698,1973 607,1994" rendition="Line" xml:id="facs_2_tr_1_tl_6" subtype="heading"/>
+            <zone points="453,2549 779,2485 942,2537 1482,2450 1898,2435 2113,2473 2633,2386 2642,2220 2601,2215 2305,2258 2203,2232 2133,2273 2014,2212 1604,2392 1488,2389 1354,2276 1128,2331 1035,2296 907,2357 814,2319 575,2377 465,2348" rendition="Line" xml:id="facs_2_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="296,2717 421,2755 756,2630 1113,2656 1253,2616 1549,2682 1773,2601 1869,2592 2014,2656 2156,2581 2624,2575 2630,2389 2110,2479 1546,2450 1360,2473 1290,2526 1058,2488 901,2543 788,2482 674,2549 622,2508 410,2537 305,2485" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+            <zone points="291,2915 372,2941 500,2836 756,2886 913,2810 1067,2880 1232,2813 1410,2836 1584,2773 1883,2834 2177,2775 2560,2807 2610,2799 2616,2578 2305,2682 2159,2610 2037,2656 1906,2604 1761,2691 1601,2703 1476,2645 1229,2636 1125,2682 991,2636 549,2752 296,2717" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+            <zone points="282,3078 450,3043 619,3072 808,3002 1128,3057 1267,2976 1430,3031 1683,2976 1767,3014 2174,2970 2383,3040 2619,2964 2604,2796 2462,2848 2377,2807 2011,2807 1875,2866 1584,2773 1308,2918 863,2825 744,2886 509,2842 372,2941 291,2915" rendition="Line" xml:id="facs_2_tr_1_tl_10"/>
+            <zone points="294,3240 482,3293 846,3168 1311,3188 1526,3145 1706,3214 2014,3110 2130,3159 2601,3095 2607,2961 2348,3052 2171,2970 1956,3031 1901,2996 1694,3043 1622,2993 1430,3031 1194,2999 1058,3072 965,3028 884,3066 776,3037 625,3113 430,3107 369,3057 302,3092" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
+            <zone points="296,3418 357,3453 456,3374 692,3444 817,3374 965,3363 1485,3447 2014,3345 2215,3432 2322,3365 2621,3354 2630,3150 2479,3214 2296,3156 1991,3232 1845,3174 1700,3238 1476,3197 1337,3284 1244,3255 1090,3299 962,3217 811,3299 700,3226 482,3290 427,3261 299,3333" rendition="Line" xml:id="facs_2_tr_1_tl_12"/>
+            <zone points="299,3557 721,3580 825,3537 968,3572 1148,3525 1380,3598 1540,3528 1628,3607 1796,3537 1982,3592 2063,3540 2139,3612 2322,3519 2459,3519 2572,3595 2621,3580 2624,3368 2531,3351 2403,3429 1814,3380 1491,3447 1285,3389 1162,3450 910,3418 750,3456 404,3406 302,3476" rendition="Line" xml:id="facs_2_tr_1_tl_13"/>
+            <zone points="311,3705 648,3674 764,3735 872,3685 930,3717 1203,3665 1578,3737 1863,3674 2014,3737 2247,3682 2380,3717 2633,3679 2633,3583 2572,3601 2424,3519 2273,3601 2139,3612 2061,3557 1947,3583 1845,3543 1630,3610 1532,3525 1351,3615 1148,3525 968,3575 793,3537 692,3615 558,3557 491,3610 369,3566 311,3598" rendition="Line" xml:id="facs_2_tr_1_tl_14"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_3">
+         <graphic url="TLx-0025_bMS 649_46 (16)-3.jpg" width="3024px" height="4032px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QVEDGRTGROWTPAMSFUVWMYLT&amp;fileType=view" width="3024px" height="4032px"/>
+         <zone points="302,911 436,911 436,941 302,941" rendition="TextRegion" xml:id="facs_3_r">
+            <zone points="302,941 436,941 436,911 302,911" rendition="Line" xml:id="facs_3_l"/>
+         </zone>
+         <zone points="283,968 283,3731 2664,3731 2664,968" rendition="TextRegion" xml:id="facs_3_tr_1">
+            <zone points="330,1035 428,1030 426,1000 328,1005" rendition="Line" xml:id="facs_3_l_1"/>
+            <zone points="291,1211 514,1129 744,1185 920,1088 1117,1053 1261,1147 1452,1047 1676,1067 1717,1035 1770,1073 1905,1020 2267,1114 2420,1023 2649,1026 2652,941 2440,870 2211,938 1946,882 1864,935 1790,900 1705,950 1544,953 1470,908 1258,973 1082,911 891,911 747,823 300,926" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
+            <zone points="279,1282 512,1317 1532,1191 1729,1244 1958,1211 2073,1288 2208,1214 2281,1238 2384,1194 2564,1247 2617,1238 2625,1047 2417,1023 2255,1114 1952,1026 1767,1073 1582,1041 1273,1147 1126,1053 1026,1105 870,1105 744,1185 514,1129 282,1205" rendition="Line" xml:id="facs_3_tr_1_tl_2"/>
+            <zone points="291,1473 373,1464 441,1532 585,1444 923,1402 1391,1464 1605,1367 2023,1396 2170,1461 2328,1396 2646,1382 2652,1232 2493,1252 2340,1205 2073,1288 1926,1211 1499,1291 1311,1258 964,1326 885,1288 835,1326 732,1270 629,1326 438,1288 294,1341" rendition="Line" xml:id="facs_3_tr_1_tl_3"/>
+            <zone points="279,1658 444,1702 612,1611 1020,1593 1058,1626 1108,1585 2046,1552 2034,1388 1758,1479 1505,1429 1408,1479 1235,1446 1070,1514 814,1473 664,1555 376,1576 285,1523" rendition="Line" xml:id="facs_3_tr_1_tl_4"/>
+            <zone points="288,1823 1000,1755 1055,1799 1155,1758 1238,1793 1429,1738 1502,1782 1605,1729 1840,1840 2037,1749 2143,1782 2193,1746 2608,1738 2611,1599 2464,1582 2231,1690 2090,1658 1914,1696 1802,1635 1682,1688 1444,1643 1402,1682 1102,1661 970,1735 294,1693" rendition="Line" xml:id="facs_3_tr_1_tl_7"/>
+            <zone points="294,1982 420,2049 626,1943 759,1993 1176,2005 1358,1917 1511,1899 1599,1940 1735,1899 2052,1993 2287,1920 2655,1932 2661,1773 2087,1770 1964,1855 1649,1785 1564,1843 1435,1820 1297,1876 944,1846 817,1890 297,1899" rendition="Line" xml:id="facs_3_tr_1_tl_9"/>
+            <zone points="291,2223 429,2240 562,2190 691,2243 744,2196 911,2202 1023,2114 1167,2108 1370,2179 1702,2090 1838,2137 2231,2073 2523,2123 2528,1917 2481,1902 2084,2005 1984,1946 1846,1976 1667,1940 1444,2020 1344,1964 932,2029 685,2005 535,2076 365,1993 300,2023" rendition="Line" xml:id="facs_3_tr_1_tl_10"/>
+            <zone points="309,2355 373,2390 629,2337 694,2378 800,2326 982,2323 1126,2426 1264,2346 1444,2393 1567,2287 2537,2284 2546,2132 2470,2114 2317,2205 2184,2120 1935,2102 1758,2179 1446,2155 1297,2237 1176,2170 1005,2155 729,2261 315,2234" rendition="Line" xml:id="facs_3_tr_1_tl_11"/>
+            <zone points="300,2558 544,2525 597,2578 638,2540 1047,2543 1455,2478 1979,2628 2073,2567 2314,2575 2475,2478 2593,2496 2599,2378 2443,2393 2234,2314 1993,2299 1696,2390 1514,2358 1152,2428 1003,2378 853,2458 306,2431" rendition="Line" xml:id="facs_3_tr_1_tl_14"/>
+            <zone points="320,2790 429,2840 617,2805 691,2852 847,2775 920,2802 1226,2740 1496,2825 1917,2822 2146,2699 2584,2711 2590,2581 2352,2543 2293,2587 2084,2575 1826,2643 1446,2590 1258,2646 1182,2596 885,2670 811,2622 703,2684 626,2611 326,2628" rendition="Line" xml:id="facs_3_tr_1_tl_16"/>
+            <zone points="291,2990 453,3043 617,2958 900,3058 1061,2984 1167,3063 1317,2964 1399,2969 1505,3052 1646,2966 1946,2919 2093,2922 2170,2996 2270,2940 2646,2964 2617,2749 2402,2758 2349,2802 2076,2752 1917,2819 1455,2805 1247,2908 1100,2825 997,2869 838,2805 544,2887 297,2784" rendition="Line" xml:id="facs_3_tr_1_tl_17"/>
+            <zone points="265,3243 470,3158 700,3213 838,3160 1041,3184 1314,3137 1441,3152 1558,3237 1873,3134 1993,3178 2082,3128 2173,3196 2234,3143 2443,3155 2564,3205 2602,3193 2608,3025 2234,2975 2132,3034 2049,2978 1843,3022 1717,2966 1508,3052 1244,3011 1152,3066 1061,2981 820,3063 673,2996 550,3072 273,2981" rendition="Line" xml:id="facs_3_tr_1_tl_18"/>
+            <zone points="294,3387 941,3346 1220,3460 1326,3399 1476,3422 1890,3305 2058,3346 2146,3313 2326,3428 2478,3434 2546,3413 2552,3190 2426,3213 2231,3152 2173,3196 1882,3140 1602,3234 1476,3181 1126,3225 1003,3169 900,3222 612,3237 462,3237 388,3190 297,3252" rendition="Line" xml:id="facs_3_tr_1_tl_19"/>
+            <zone points="309,3578 562,3540 853,3602 1017,3540 1200,3604 1520,3522 1658,3563 1796,3504 2014,3493 2093,3531 2402,3481 2602,3522 2605,3413 2184,3443 2064,3360 1964,3360 1761,3434 1658,3366 1549,3428 1341,3410 1250,3463 997,3422 573,3478 447,3405 312,3457" rendition="Line" xml:id="facs_3_tr_1_tl_22"/>
+            <zone points="282,3760 423,3740 635,3798 744,3751 832,3784 1005,3734 1097,3787 1202,3743 1467,3816 1655,3743 1846,3790 2029,3748 2123,3784 2273,3693 2420,3693 2423,3575 2102,3528 1967,3610 1796,3596 1567,3672 1426,3640 1332,3563 1150,3660 891,3596 653,3610 526,3669 435,3575 285,3593" rendition="Line" xml:id="facs_3_tr_1_tl_25"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="TLx-0025_bMS 649_46 (16)-1.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0025_bMS 649_46 (16)-1.jpg"/>
+            <pb facs="#facs_2" n="TLx-0025_bMS 649_46 (16)-2.jpg" xml:id="img_0002"/>
+            <p facs="#facs_2_tr_1">
+               <lb facs="#facs_2_tr_1_tl_1" n="N001"/><hi style="text-decoration: underline;">Religion and Culture.</hi>
+               <lb facs="#facs_2_tr_1_tl_4" n="N002"/><hi style="text-decoration: underline;">First Lecture. Problems and concepts. [<rs type="keyword" ref="#Religion">Religion</rs>, <rs type="keyword" ref="#Science">scien-</rs></hi>
+               <lb facs="#facs_2_tr_1_tl_5" n="N003"/><hi style="text-decoration: underline;"><rs type="keyword" ref="#Science">tific and technical culture]</rs></hi>
+               <lb facs="#facs_2_l" n="N004"/>[p. 3]
+               <lb facs="#facs_2_tr_1_tl_6" n="N005"/><hi style="text-decoration: underline;">I. The Problem and the particular {problems} realms.</hi>
+               <lb facs="#facs_2_tr_1_tl_7" n="N006"/>1). <rs type="keyword" ref="#Religion">Religion </rs>and <rs type="keyword" ref="#Culture">culture</rs> are so interwoven that it may
+               <lb facs="#facs_2_tr_1_tl_8" n="N007"/>be questionable wether there is a problem at all. Is not reli-
+               <lb facs="#facs_2_tr_1_tl_9" n="N008"/>gion simply a part of the general culture and de-
+               <lb facs="#facs_2_tr_1_tl_10" n="N009"/>pendent on the history of a particular culture? Many scho-
+               <lb facs="#facs_2_tr_1_tl_11" n="N010"/>lars, especially those who deal with primitive cultures would
+               <lb facs="#facs_2_tr_1_tl_12" n="N011"/>give an affirmative answer. But would somebody do so who
+               <lb facs="#facs_2_tr_1_tl_13" n="N012"/>deals with Roman or Indian or German or Japanese history?
+               <lb facs="#facs_2_tr_1_tl_14" n="N013"/>Are the conflicts between religion and culture not a ma-
+            </p>
+            <pb facs="#facs_3" n="TLx-0025_bMS 649_46 (16)-3.jpg" xml:id="img_0003"/>
+            <p facs="#facs_3_r">
+               <lb facs="#facs_3_l" n="N001"/>
+            </p>
+            <p facs="#facs_3_tr_1">
+               <lb facs="#facs_3_l_1" n="N001"/>[p. 4] <hi style="text-decoration: underline;">2</hi>
+               <lb facs="#facs_3_tr_1_tl_1" n="N002"/>jor part of the history of these countries? Certainly, they are.
+               <lb facs="#facs_3_tr_1_tl_2" n="N003"/>and this means that | {there must be something special about}
+               <lb facs="#facs_3_tr_1_tl_3" n="N004"/>{<rs type="keyword" ref="#Religion">religion</rs> that it can [...]} | religion has a foundation above
+               <lb facs="#facs_3_tr_1_tl_4" n="N005"/>a given <rs type="keyword" ref="#Culture">culture</rs> and is able to attack {or} to trans-
+               <lb facs="#facs_3_tr_1_tl_7" n="N006"/>form {a culture} {it} or to destroy it. As in culture a religion may be almost eradicated. Although both, religion and culture
+               <lb facs="#facs_3_tr_1_tl_9" n="N007"/>{appear} {in man's spirit} are functions of the human <rs type="keyword" ref="#Spirit">spirit</rs>, they can fall ino dead-
+               <lb facs="#facs_3_tr_1_tl_10" n="N008"/>ly enmity, trying to subject and enslave each other. –
+               <lb facs="#facs_3_tr_1_tl_11" n="N009"/>But the fact that they can fight {each other} shows also
+               <lb facs="#facs_3_tr_1_tl_14" n="N010"/>that {you} they cannot be separated {them} from each other {completely. If you one}
+               <lb facs="#facs_3_tr_1_tl_16" n="N011"/>{They belong to each other} Neither is possible without the other and, therefore, you cannot end
+               <lb facs="#facs_3_tr_1_tl_17" n="N012"/>their wars by putting each of them on a different island.
+               <lb facs="#facs_3_tr_1_tl_18" n="N013"/>This situation leads to some of the most difficult pro-
+               <lb facs="#facs_3_tr_1_tl_19" n="N014"/>blems of the philosophy of religion and of the philosophy of
+               <lb facs="#facs_3_tr_1_tl_22" n="N015"/>culture. {But} And it leads not only to theoretical [...], but {even more im-}
+               <lb facs="#facs_3_tr_1_tl_25" n="N016"/>{portant}, also to most serious and {dangerous} {profound} difficult practical problems.
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

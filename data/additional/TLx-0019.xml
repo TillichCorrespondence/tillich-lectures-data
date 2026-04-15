@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">ALT Box 38</title>
+                <title type="sub">Religion and Culture Project</title>
+                <principal>
+                    <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <idno type="transkribus_col_id">1956124</idno>
+                    <idno type="transkribus_doc_id">7266094</idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>changme</institution>
+                        <repository>changme</repository>
+                        <idno type="archive">changme</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <locus>ALT Box 38</locus>
+                            <p/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+<facsimile>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
+         <graphic url="TLx-0019_p001.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YPTFYJMZFDKCGWGWBJPJAJOW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="167,511 167,921 1851,921 1851,511" rendition="TextRegion" xml:id="facs_1_tr_1">
+            <zone points="183,571 388,651 567,567 1407,586 1460,571 1462,512 1236,535 973,482 744,537 604,482 379,541 185,510" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+            <zone points="154,714 1845,666 1847,569 1485,626 1335,567 1011,619 811,583 691,638 506,592 396,663 310,592 156,632" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+            <zone points="154,790 352,802 400,845 562,765 659,794 963,760 1083,798 1211,737 1329,756 1333,659 1238,655 996,706 527,689 413,750 310,712 158,733" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+            <zone points="162,914 318,969 430,910 600,933 737,883 1356,923 1399,918 1403,794 1171,765 889,843 821,792 744,847 674,788 465,855 350,817 164,843" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+         </zone>
+         <zone points="1997,636 2250,636 2250,743 1997,743" rendition="TextRegion" xml:id="facs_1_r">
+            <zone points="2008,716 2245,716 2245,686 2008,686" rendition="Line" xml:id="facs_1_l"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="TLx-0019_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0019_p001.jpg"/>
+            <p facs="#facs_1_tr_1">
+               <lb facs="#facs_1_tr_1_tl_1" n="N001"/><rs type="person" key="Forsyth, ">Forsyth</rs>--T. Church &amp; The Sacraments
+               <lb facs="#facs_1_tr_1_tl_2" n="N002"/><rs type="person" key="Vidler, ">Vidler</rs>--Modernist Movements in The Roman Church
+               <lb facs="#facs_1_tr_1_tl_3" n="N003"/><rs type="person" key="D'Arcy, ">D'Arcy</rs>--T. Mind &amp; Heart of Love
+               <lb facs="#facs_1_tr_1_tl_4" n="N004"/><rs type="person" key="Berdyaev, ">Berdyaev</rs>--Freedom &amp; The Spirit
+            </p>
+            <p facs="#facs_1_r">
+               <lb facs="#facs_1_l" n="N001"/>on shelf
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

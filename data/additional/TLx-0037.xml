@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Zusatzmaterial I Box 38, 39, 46</title>
+                <title type="sub">Religion and Culture Project</title>
+                <principal>
+                    <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <idno type="transkribus_col_id">1956124</idno>
+                    <idno type="transkribus_doc_id">7266253</idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>changme</institution>
+                        <repository>changme</repository>
+                        <idno type="archive">changme</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <locus>Zusatzmaterial I Box 38, 39, 46</locus>
+                            <p/>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+<facsimile>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
+         <graphic url="TLx-0037_p001.jpg" width="2479px" height="3508px"/>
+         <zone points="166,466 2236,466 2236,1886 166,1886" rendition="TextRegion" xml:id="facs_1_r">
+            <zone points="364,817 1526,812 1526,782 364,787" rendition="Line" xml:id="facs_1_l"/>
+            <zone points="362,1046 2013,1027 2013,997 362,1016" rendition="Line" xml:id="facs_1_l_1"/>
+            <zone points="291,1277 1833,1261 1833,1231 291,1247" rendition="Line" xml:id="facs_1_l_2"/>
+            <zone points="310,1560 2184,1465 2182,1435 308,1530" rendition="Line" xml:id="facs_1_l_3"/>
+            <zone points="277,1813 1705,1753 1704,1723 276,1783" rendition="Line" xml:id="facs_1_l_4"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
+         <graphic url="TLx-0037_p002.jpg" width="2479px" height="3508px"/>
+         <zone points="298,476 1659,476 1659,856 298,856" rendition="TextRegion" xml:id="facs_2_r">
+            <zone points="508,766 1348,755 1348,725 508,736" rendition="Line" xml:id="facs_2_l"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
+         <graphic url="TLx-0037_p003.jpg" width="2479px" height="3508px"/>
+         <zone points="95,556 2253,556 2253,2029 95,2029" rendition="TextRegion" xml:id="facs_3_r">
+            <zone points="262,918 1507,842 1505,812 260,888" rendition="Line" xml:id="facs_3_l"/>
+            <zone points="273,1164 1811,1062 1809,1032 271,1134" rendition="Line" xml:id="facs_3_l_1"/>
+            <zone points="229,1381 1616,1305 1614,1275 227,1351" rendition="Line" xml:id="facs_3_l_2"/>
+            <zone points="128,1638 1348,1548 1346,1518 126,1608" rendition="Line" xml:id="facs_3_l_3"/>
+            <zone points="121,1899 2119,1761 2117,1731 119,1869" rendition="Line" xml:id="facs_3_l_4"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_4">
+         <graphic url="TLx-0037_p004.jpg" width="2479px" height="3508px"/>
+         <zone points="92,661 2072,661 2072,1124 92,1124" rendition="TextRegion" xml:id="facs_4_r">
+            <zone points="186,1001 1909,965 1908,935 185,971" rendition="Line" xml:id="facs_4_l"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_5">
+         <graphic url="TLx-0037_p005.jpg" width="2479px" height="3508px"/>
+         <zone points="23,472 2296,472 2296,2438 23,2438" rendition="TextRegion" xml:id="facs_5_r">
+            <zone points="584,842 2188,813 2187,783 583,812" rendition="Line" xml:id="facs_5_l"/>
+            <zone points="200,1062 2065,1023 2064,993 199,1032" rendition="Line" xml:id="facs_5_l_1"/>
+            <zone points="157,1316 2170,1233 2169,1203 156,1286" rendition="Line" xml:id="facs_5_l_2"/>
+            <zone points="135,1562 1261,1511 1260,1481 134,1532" rendition="Line" xml:id="facs_5_l_3"/>
+            <zone points="132,1812 1181,1779 1180,1749 131,1782" rendition="Line" xml:id="facs_5_l_4"/>
+            <zone points="153,2051 780,2029 779,1999 152,2021" rendition="Line" xml:id="facs_5_l_5"/>
+            <zone points="182,2384 1134,2373 1134,2343 182,2354" rendition="Line" xml:id="facs_5_l_6"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_6">
+         <graphic url="TLx-0037_p006.jpg" width="2479px" height="3508px"/>
+         <zone points="81,635 2003,635 2003,968 81,968" rendition="TextRegion" xml:id="facs_6_r">
+            <zone points="179,900 1913,842 1912,812 178,870" rendition="Line" xml:id="facs_6_l"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <pb facs="#facs_1" n="TLx-0037_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0037_p001.jpg"/>
+            <p facs="#facs_1_r">
+               <lb facs="#facs_1_l" n="N001"/>I. The human situation
+               <lb facs="#facs_1_l_1" n="N002"/>1. <rs type="person" ref="#tillich_person_id__295">Breughel </rs>(10). The triumph of death
+               <lb facs="#facs_1_l_2" n="N003"/>2. <rs type="person" ref="#tillich_person_id__1326">Michelangelo </rs>{(71)} {Even} Unknown.
+               <lb facs="#facs_1_l_3" n="N004"/>4. <rs type="person" ref="#tillich_person_id__496">Dürer</rs> (37) The knight, death and the devil
+               <lb facs="#facs_1_l_4" n="N005"/>3. <rs type="person" ref="#tillich_person_id__4038">Sasetta</rs> (35) St. Antony.
+            </p>
+            <pb facs="#facs_2" n="TLx-0037_p002.jpg" xml:id="img_0002"/>
+            <p facs="#facs_2_r">
+               <lb facs="#facs_2_l" n="N001"/>5. Opening up.
+            </p>
+            <pb facs="#facs_3" n="TLx-0037_p003.jpg" xml:id="img_0003"/>
+            <p facs="#facs_3_r">
+               <lb facs="#facs_3_l" n="N001"/><hi style="text-decoration: underline;">II. Transcendent Scenes</hi>
+               <lb facs="#facs_3_l_1" n="N002"/>1. <rs type="person" ref="#tillich_person_id__496">Dürer</rs>: 2 eschatological pictures
+               <lb facs="#facs_3_l_2" n="N003"/>2. <rs type="person" ref="#tillich_person_id__4039">Giovanni di Paolo</rs>. Paradise
+               <lb facs="#facs_3_l_3" n="N004"/>3. Christ as shepherd
+               <lb facs="#facs_3_l_4" n="N005"/>4. <rs type="person" ref="#tillich_person_id__3888">Fra Angelico</rs>: Coronation of the Virgin.
+            </p>
+            <pb facs="#facs_4" n="TLx-0037_p004.jpg" xml:id="img_0004"/>
+            <p facs="#facs_4_r">
+               <lb facs="#facs_4_l" n="N001"/>2. Painting beyond {oneself} themselves.
+            </p>
+            <pb facs="#facs_5" n="TLx-0037_p005.jpg" xml:id="img_0005"/>
+            <p facs="#facs_5_r">
+               <lb facs="#facs_5_l" n="N001"/><hi style="text-decoration: underline;">III. Immanent-transcendent Scenes</hi>
+               <lb facs="#facs_5_l_1" n="N002"/>1. Annunciations (Table X and XI) Table 19.
+               <lb facs="#facs_5_l_2" n="N003"/>2. {Virginities} Birth of Jesus (<rs type="person" ref="#tillich_person_id__4040">Mantegna</rs>, <rs type="person" ref="#tillich_person_id__3970">Philippo Lippi</rs>),
+               <lb facs="#facs_5_l_3" n="N004"/>{3.} <rs type="person" ref="#tillich_person_id__3891">Roger v. d. Weyden</rs>
+               <lb facs="#facs_5_l_4" n="N005"/>3. Crucifixions etc.
+               <lb facs="#facs_5_l_5" n="N006"/>Baptisms.
+               <lb facs="#facs_5_l_6" n="N007"/>Mary with Child
+            </p>
+            <pb facs="#facs_6" n="TLx-0037_p006.jpg" xml:id="img_0006"/>
+            <p facs="#facs_6_r">
+               <lb facs="#facs_6_l" n="N001"/>3. Participating in the <rs type="keyword" ref="#Symbol">symbolized</rs>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
