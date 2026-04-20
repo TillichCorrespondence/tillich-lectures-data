@@ -53,10 +53,10 @@
     </teiHeader>
 <facsimile>
       <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_1">
-         <graphic url="TLx-0015_bMS 649_46 (13)-1.jpg" width="3024px" height="4032px"/>
+         <graphic url="TLx-0015-1.jpg" width="3024px" height="4032px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_2">
-         <graphic url="TLx-0015_bMS 649_46 (13)-2.jpg" width="3024px" height="4032px"/>
+         <graphic url="TLx-0015-2.jpg" width="3024px" height="4032px"/>
          <graphic url="https://files.transkribus.eu/Get?id=TBIMOAUFYQRPTSMRSMUFUDEO&amp;fileType=view" width="3024px" height="4032px"/>
          <zone points="835,764 935,764 935,802 835,802" rendition="TextRegion" xml:id="facs_2_r">
             <zone points="837,802 935,794 933,764 835,772" rendition="Line" xml:id="facs_2_l"/>
@@ -79,7 +79,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_3">
-         <graphic url="TLx-0015_bMS 649_46 (13)-3.jpg" width="3024px" height="4032px"/>
+         <graphic url="TLx-0015-3.jpg" width="3024px" height="4032px"/>
          <graphic url="https://files.transkribus.eu/Get?id=GQHPNOEKITQBELFDEGYLXVCO&amp;fileType=view" width="3024px" height="4032px"/>
          <zone points="340,757 340,3691 2723,3691 2723,757" rendition="TextRegion" xml:id="facs_3_tr_1">
             <zone points="618,838 704,825 700,795 614,808" rendition="Line" xml:id="facs_3_l"/>
@@ -103,8 +103,8 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="TLx-0015_bMS 649_46 (13)-1.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0015_bMS 649_46 (13)-1.jpg"/>
-            <pb facs="#facs_2" n="TLx-0015_bMS 649_46 (13)-2.jpg" xml:id="img_0002"/>
+            <pb facs="#facs_1" n="TLx-0015-1.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0015-1.jpg"/>
+            <pb facs="#facs_2" n="TLx-0015-2.jpg" xml:id="img_0002"/>
             <p facs="#facs_2_r">
                <lb facs="#facs_2_l" n="N001"/>
             </p>
@@ -124,7 +124,7 @@
                <lb facs="#facs_2_tr_1_tl_12" n="N013"/>work in the first semester; and the postponement of many
                <lb facs="#facs_2_tr_1_tl_13" n="N014"/>answers to the second semester.
             </p>
-            <pb facs="#facs_3" n="TLx-0015_bMS 649_46 (13)-3.jpg" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="TLx-0015-3.jpg" xml:id="img_0003"/>
             <p facs="#facs_3_tr_1">
                <lb facs="#facs_3_l" n="N001"/>[II.]
                <lb facs="#facs_3_tr_1_tl_1" n="N002"/>5. The plan for the first half of the first semester.

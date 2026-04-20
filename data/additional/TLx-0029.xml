@@ -53,10 +53,10 @@
     </teiHeader>
 <facsimile>
       <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_1">
-         <graphic url="TLx-0029_bMS 649_46 (17)-1.jpg" width="3024px" height="4032px"/>
+         <graphic url="TLx-0029-1.jpg" width="3024px" height="4032px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_2">
-         <graphic url="TLx-0029_bMS 649_46 (17)-2.jpg" width="3024px" height="4032px"/>
+         <graphic url="TLx-0029-2.jpg" width="3024px" height="4032px"/>
          <graphic url="https://files.transkribus.eu/Get?id=RXKVJEACEPIWQHMYXFVVPZUH&amp;fileType=view" width="3024px" height="4032px"/>
          <zone points="468,935 468,3726 2637,3726 2637,935" rendition="TextRegion" xml:id="facs_2_tr_1">
             <zone points="588,1151 751,1146 781,1164 833,1146 863,1166 896,1146 996,1179 1099,1174 1099,908 966,983 851,923 818,938 693,888 588,876" rendition="Line" xml:id="facs_2_tr_1_tl_3" subtype="heading"/>
@@ -75,7 +75,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_3">
-         <graphic url="TLx-0029_bMS 649_46 (17)-3.jpg" width="3024px" height="4032px"/>
+         <graphic url="TLx-0029-3.jpg" width="3024px" height="4032px"/>
          <graphic url="https://files.transkribus.eu/Get?id=OUQQSWUNBAMSKXTUXMAEBPVF&amp;fileType=view" width="3024px" height="4032px"/>
          <zone points="397,978 397,3665 2562,3665 2562,978" rendition="TextRegion" xml:id="facs_3_tr_1">
             <zone points="435,1216 741,1168 860,1224 1350,1176 1498,1221 1656,1163 1794,1216 2284,1158 2556,1203 2561,1002 2366,952 2202,1018 1801,934 1511,1042 1303,965 1192,997 1092,955 918,1015 820,952 562,1005 440,947" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
@@ -96,8 +96,8 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="TLx-0029_bMS 649_46 (17)-1.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0029_bMS 649_46 (17)-1.jpg"/>
-            <pb facs="#facs_2" n="TLx-0029_bMS 649_46 (17)-2.jpg" xml:id="img_0002"/>
+            <pb facs="#facs_1" n="TLx-0029-1.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0029-1.jpg"/>
+            <pb facs="#facs_2" n="TLx-0029-2.jpg" xml:id="img_0002"/>
             <p facs="#facs_2_tr_1">
                <lb facs="#facs_2_tr_1_tl_3" n="N001"/><hi style="text-decoration: underline;">Religion and Culture</hi> (possible outline I)
                <lb facs="#facs_2_tr_1_tl_5" n="N002"/><hi style="text-decoration: underline;">First Lecture: The processes of <rs type="keyword" ref="#Life">life </rs>and the functions</hi>
@@ -113,7 +113,7 @@
                <lb facs="#facs_2_tr_1_tl_15" n="N012"/>4. The process of selftranscendence and the sublime-
                <lb facs="#facs_2_tr_1_tl_16" n="N013"/>ness of life.
             </p>
-            <pb facs="#facs_3" n="TLx-0029_bMS 649_46 (17)-3.jpg" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="TLx-0029-3.jpg" xml:id="img_0003"/>
             <p facs="#facs_3_tr_1">
                <lb facs="#facs_3_tr_1_tl_1" n="N001"/><hi style="text-decoration: underline;">II. The <rs type="keyword" ref="#Spirit">spirit</rs> of man and its three main func-</hi>
                <lb facs="#facs_3_tr_1_tl_2" n="N002"/><hi style="text-decoration: underline;">tions.</hi>
