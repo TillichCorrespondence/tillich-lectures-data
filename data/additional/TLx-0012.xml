@@ -3,7 +3,7 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">bMS 649/39 (27): Religion and Culture – Religion and Art; Artistic Styles, Examples: Gottische Plastik, Humanities 127; Harvard University, handwritten n. d.</title>
+                <title type="main">bMS 649/39 (19): Religion and the Visual Arts: Sculptures and Paintings, course of lectures, n. d.</title>
                 <title type="sub">Religion and Culture Project</title>
                 <principal>
                     <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -31,7 +31,7 @@
             <publicationStmt>
                 <p>
                     <idno type="transkribus_col_id">1956124</idno>
-                    <idno type="transkribus_doc_id">7266010</idno>
+                    <idno type="transkribus_doc_id">7266120</idno>
                 </p>
             </publicationStmt>
             <sourceDesc>
@@ -53,174 +53,144 @@
     </teiHeader>
 <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="TLx-0012_p001.jpg" width="2479px" height="3508px"/>
-         <zone points="87,270 2429,270 2429,2848 87,2848" rendition="TextRegion" xml:id="facs_1_r">
-            <zone points="250,625 1158,636 1158,606 250,595" rendition="Line" xml:id="facs_1_l"/>
-            <zone points="228,828 1987,849 1987,819 228,798" rendition="Line" xml:id="facs_1_l_1"/>
-            <zone points="232,1121 1184,1074 1183,1044 231,1091" rendition="Line" xml:id="facs_1_l_2"/>
-            <zone points="217,1378 1698,1331 1697,1301 216,1348" rendition="Line" xml:id="facs_1_l_3"/>
-            <zone points="206,1577 2172,1530 2171,1500 205,1547" rendition="Line" xml:id="facs_1_l_4"/>
-            <zone points="228,1758 1745,1729 1744,1699 227,1728" rendition="Line" xml:id="facs_1_l_5"/>
-            <zone points="181,1990 1900,1979 1900,1949 181,1960" rendition="Line" xml:id="facs_1_l_6"/>
-            <zone points="188,2218 1868,2200 1868,2170 188,2188" rendition="Line" xml:id="facs_1_l_7"/>
-            <zone points="166,2449 1792,2420 1791,2390 165,2419" rendition="Line" xml:id="facs_1_l_8"/>
-            <zone points="185,2706 1433,2663 1432,2633 184,2676" rendition="Line" xml:id="facs_1_l_9"/>
+         <graphic url="TLx-0021_p001.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XJMLKZHFPJAEXWNWHCTRLDOG&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="569,483 591,3064 2271,3064 2263,483" rendition="TextRegion" xml:id="facs_1_tr_2">
+            <zone points="1252,585 1379,591 1381,561 1253,555" rendition="Line" xml:id="facs_1_l"/>
+            <zone points="677,783 717,765 802,777 938,708 961,725 1052,692 1192,723 1238,698 1240,581 1050,661 881,565 823,608 738,598 679,623" rendition="Line" xml:id="facs_1_tr_2_tl_2"/>
+            <zone points="683,904 1123,927 1917,871 1925,690 1869,675 1705,769 1479,746 1202,829 1138,783 936,859 690,777" rendition="Line" xml:id="facs_1_tr_2_tl_4" subtype="heading"/>
+            <zone points="658,1284 1646,1250 1657,1009 1594,996 1473,992 1311,1054 1234,1006 965,1096 669,1056" rendition="Line" xml:id="facs_1_tr_2_tl_5"/>
+            <zone points="736,1438 779,1469 848,1427 1123,1419 1325,1504 1554,1404 1719,1438 1907,1371 2069,1392 2075,1284 1988,1265 1836,1323 1688,1284 1598,1336 1482,1265 1354,1338 1136,1286 1073,1325 954,1252 744,1267" rendition="Line" xml:id="facs_1_tr_2_tl_6"/>
+            <zone points="748,1648 1213,1613 1417,1692 1521,1613 1815,1590 2121,1696 2265,1625 2267,1517 2121,1454 2061,1507 1977,1507 1882,1436 1759,1507 1629,1515 1561,1471 1434,1552 1284,1482 1086,1532 1011,1465 846,1500 754,1469" rendition="Line" xml:id="facs_1_tr_2_tl_7"/>
+            <zone points="852,1715 884,1723 923,1696 986,1709 1017,1690 1040,1702 1092,1688 1150,1723 1225,1732 1229,1619 1177,1609 1104,1627 1065,1613 1019,1634 998,1617 854,1650" rendition="Line" xml:id="facs_1_tr_2_tl_9"/>
+            <zone points="604,1880 756,1859 867,1892 1023,1842 1100,1859 1319,1809 1411,1830 1415,1775 1371,1757 1234,1782 1134,1707 1040,1711 956,1765 829,1650 621,1659" rendition="Line" xml:id="facs_1_tr_2_tl_14"/>
+            <zone points="708,2086 956,2121 1127,2073 1238,2159 1404,2052 1623,2052 1715,2119 1919,2023 2063,2098 2215,2021 2203,1877 2090,1955 1765,1944 1654,2015 1427,1913 1173,1952 1059,1850 721,1907" rendition="Line" xml:id="facs_1_tr_2_tl_15"/>
+            <zone points="1715,2188 1780,2180 1857,2223 1921,2173 1944,2188 1996,2159 2069,2171 2142,2140 2232,2169 2244,2023 2167,2025 2036,2107 1990,2084 1869,2094 1794,2030 1727,2048" rendition="Line" xml:id="facs_1_tr_2_tl_16"/>
+            <zone points="573,2444 727,2382 909,2423 1075,2344 1159,2371 1302,2325 2032,2282 2005,2169 1892,2223 1617,2173 1238,2200 1065,2071 915,2111 746,2248 588,2273" rendition="Line" xml:id="facs_1_tr_2_tl_17"/>
+            <zone points="996,2528 1181,2505 1267,2540 1388,2467 2032,2438 2038,2325 1888,2361 1534,2340 1304,2388 1215,2334 1106,2386 1009,2359" rendition="Line" xml:id="facs_1_tr_2_tl_18"/>
+            <zone points="708,2680 877,2715 1111,2623 1394,2607 1552,2678 1715,2588 1892,2646 2082,2567 2192,2598 2198,2482 2075,2440 1975,2519 1792,2446 1619,2488 1382,2467 1307,2538 1206,2530 1152,2573 1071,2573 992,2488 715,2526" rendition="Line" xml:id="facs_1_tr_2_tl_19"/>
+            <zone points="844,2792 1025,2821 1134,2736 1227,2786 1315,2728 1444,2751 1515,2713 1838,2736 1840,2638 1782,2605 1686,2655 1600,2632 1548,2680 1434,2623 1246,2617 1146,2659 1109,2626 981,2703 846,2686" rendition="Line" xml:id="facs_1_tr_2_tl_20"/>
+            <zone points="579,2865 829,2905 911,2853 1148,2886 1302,2857 1402,2919 1484,2863 1646,2903 1748,2846 2253,2828 2250,2748 1967,2707 1786,2794 1442,2748 1209,2798 1125,2773 975,2836 909,2790 813,2826 581,2788" rendition="Line" xml:id="facs_1_tr_2_tl_21"/>
+            <zone points="675,3121 886,3024 963,3040 1021,3013 1200,3057 1363,3040 1367,2873 1100,2882 979,2940 679,2946" rendition="Line" xml:id="facs_1_tr_2_tl_22"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
-         <graphic url="TLx-0012_p002.jpg" width="2479px" height="3508px"/>
-         <zone points="36,422 2346,422 2346,2551 36,2551" rendition="TextRegion" xml:id="facs_2_r">
-            <zone points="232,650 662,657 662,627 232,620" rendition="Line" xml:id="facs_2_l"/>
-            <zone points="174,846 1770,806 1769,776 173,816" rendition="Line" xml:id="facs_2_l_1"/>
-            <zone points="177,1077 2179,1027 2178,997 176,1047" rendition="Line" xml:id="facs_2_l_2"/>
-            <zone points="127,1436 1962,1352 1961,1322 126,1406" rendition="Line" xml:id="facs_2_l_3"/>
-            <zone points="134,1646 2161,1552 2160,1522 133,1616" rendition="Line" xml:id="facs_2_l_4"/>
-            <zone points="90,1935 2262,1877 2261,1847 89,1905" rendition="Line" xml:id="facs_2_l_5"/>
-            <zone points="94,2189 1556,2098 1554,2068 92,2159" rendition="Line" xml:id="facs_2_l_6"/>
-            <zone points="623,2449 1575,2391 1573,2361 621,2419" rendition="Line" xml:id="facs_2_l_7"/>
+         <graphic url="TLx-0021_p002.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AUYQLSGVNVZCFXFBFSUGACKS&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="420,386 459,3099 2418,3099 2400,352" rendition="TextRegion" xml:id="facs_2_tr_2">
+            <zone points="1141,484 1350,475 1348,445 1140,454" rendition="Line" xml:id="facs_2_l"/>
+            <zone points="631,760 808,765 942,674 1066,664 1178,743 1439,638 1530,686 1709,648 1714,528 1573,504 1360,562 1171,504 1056,559 901,526 641,612" rendition="Line" xml:id="facs_2_tr_2_tl_1"/>
+            <zone points="633,918 1424,887 1561,970 1702,872 1881,923 2000,865 2132,875 2189,925 2335,872 2342,741 2170,700 1955,758 1919,719 1329,739 1071,817 987,762 731,796 643,760" rendition="Line" xml:id="facs_2_tr_2_tl_2"/>
+            <zone points="748,1119 913,1159 1068,1111 1358,1193 1539,1111 1738,1104 1819,1159 1957,1078 2285,1102 2330,1080 2333,1006 2189,954 1563,973 1451,1042 1195,997 980,896 755,918" rendition="Line" xml:id="facs_2_tr_2_tl_3"/>
+            <zone points="511,1384 698,1355 930,1408 999,1350 1142,1424 1248,1338 1355,1331 1582,1422 1757,1355 1761,1255 1135,1252 956,1140 762,1119 619,968 528,963" rendition="Line" xml:id="facs_2_tr_2_tl_4"/>
+            <zone points="480,1642 1212,1558 1379,1649 1773,1477 2065,1477 2067,1429 1902,1336 1802,1396 1726,1353 1542,1451 1300,1415 1248,1448 1073,1381 882,1412 681,1358 502,1391" rendition="Line" xml:id="facs_2_tr_2_tl_5"/>
+            <zone points="447,1807 619,1847 789,1804 853,1845 1066,1766 1248,1859 1384,1761 1513,1821 1697,1797 1745,1831 1876,1716 2261,1702 2268,1620 2153,1561 1996,1556 1769,1659 1613,1592 1424,1699 1052,1582 978,1640 459,1656" rendition="Line" xml:id="facs_2_tr_2_tl_6"/>
+            <zone points="531,2091 770,2192 1142,2034 1243,2041 1341,2113 1577,1986 2158,1981 2165,1893 2024,1824 1945,1862 1850,1833 1565,1938 1422,1886 1293,1924 1159,1852 832,2015 681,2010 543,1941" rendition="Line" xml:id="facs_2_tr_2_tl_7"/>
+            <zone points="631,2239 750,2275 880,2206 978,2263 1073,2270 1171,2223 1207,2237 1214,2103 1095,2098 1054,2063 1021,2060 951,2122 808,2070 729,2122 641,2115" rendition="Line" xml:id="facs_2_tr_2_tl_8"/>
+            <zone points="449,2450 595,2471 767,2627 942,2627 1362,2404 1604,2402 1656,2445 1857,2352 2022,2342 2118,2388 2263,2318 2371,2323 2364,2182 2285,2232 2127,2220 2043,2280 1905,2230 1702,2306 1475,2297 1410,2232 1224,2180 961,2371 853,2385 765,2333 686,2395 559,2335 456,2364" rendition="Line" xml:id="facs_2_tr_2_tl_9"/>
+            <zone points="459,2787 586,2756 655,2813 884,2839 1169,2653 1238,2682 1338,2624 1499,2624 1597,2660 1675,2607 1924,2576 1929,2531 1821,2517 1733,2445 1499,2538 1381,2447 1279,2495 1212,2459 980,2615 631,2631 559,2576 473,2584" rendition="Line" xml:id="facs_2_tr_2_tl_10"/>
+            <zone points="598,2875 698,2913 887,2861 987,2906 1056,2849 1128,2839 1188,2875 1214,2863 1228,2689 1181,2701 1159,2679 1097,2717 1037,2686 951,2727 853,2682 798,2708 753,2682 612,2696" rendition="Line" xml:id="facs_2_tr_2_tl_11"/>
+            <zone points="521,3066 715,3078 815,3023 930,3059 1252,2999 1439,3040 1687,3009 1883,3090 2139,2942 2309,3026 2407,3007 2426,2715 2189,2770 1993,2756 1613,2944 1350,2930 1209,2856 1023,2925 944,2887 531,2892" rendition="Line" xml:id="facs_2_tr_2_tl_12"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
-         <graphic url="TLx-0012_p003.jpg" width="2479px" height="3508px"/>
-         <zone points="134,451 2259,451 2259,3141 134,3141" rendition="TextRegion" xml:id="facs_3_r">
-            <zone points="351,784 1531,697 1529,667 349,754" rendition="Line" xml:id="facs_3_l"/>
-            <zone points="326,954 1734,882 1732,852 324,924" rendition="Line" xml:id="facs_3_l_1"/>
-            <zone points="290,1291 1625,1219 1623,1189 288,1261" rendition="Line" xml:id="facs_3_l_2"/>
-            <zone points="297,1577 1814,1432 1811,1402 294,1547" rendition="Line" xml:id="facs_3_l_3"/>
-            <zone points="300,1751 1683,1700 1682,1670 299,1721" rendition="Line" xml:id="facs_3_l_4"/>
-            <zone points="329,2185 1394,2091 1391,2061 326,2155" rendition="Line" xml:id="facs_3_l_5"/>
-            <zone points="282,2522 1448,2446 1446,2416 280,2492" rendition="Line" xml:id="facs_3_l_6"/>
-            <zone points="211,2857 276,2857 276,2827 211,2827" rendition="Line" xml:id="facs_3_l_9"/>
-            <zone points="257,2916 836,2916 836,2886 257,2886" rendition="Line" xml:id="facs_3_l_7"/>
-            <zone points="235,3130 1842,3021 1840,2991 233,3100" rendition="Line" xml:id="facs_3_l_8"/>
+         <graphic url="TLx-0021_p003.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PXHVMLDJUVWQGIJEGXCOOCWJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="1366,968 1799,968 1799,1174 1366,1174" rendition="TextRegion" xml:id="facs_3_r">
+            <zone points="1402,1133 1735,1119 1734,1089 1401,1103" rendition="Line" xml:id="facs_3_l"/>
+         </zone>
+         <zone points="275,570 280,3136 2128,3136 2108,568" rendition="TextRegion" xml:id="facs_3_tr_1">
+            <zone points="965,656 1086,656 1086,626 965,626" rendition="Line" xml:id="facs_3_l_19"/>
+            <zone points="399,900 595,856 662,904 968,820 1047,856 1233,808 1331,852 1510,788 1600,852 1636,714 1498,670 1209,762 1069,680 932,780 778,770 698,714 407,738" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
+            <zone points="435,1115 513,1095 708,1217 926,1083 1031,1069 1071,1099 1159,1073 1169,900 914,1013 702,922 561,1013 443,988" rendition="Line" xml:id="facs_3_tr_1_tl_2"/>
+            <zone points="429,1349 838,1313 998,1410 1165,1317 1161,1127 938,1269 698,1235 630,1185 507,1245 437,1231" rendition="Line" xml:id="facs_3_tr_1_tl_4"/>
+            <zone points="389,1592 547,1612 618,1582 744,1622 868,1582 914,1610 1003,1562 1139,1638 1225,1606 1227,1470 1151,1482 1059,1402 589,1428 501,1488 391,1480" rendition="Line" xml:id="facs_3_tr_1_tl_5"/>
+            <zone points="551,1863 892,1825 1247,1887 1592,1784 1811,1861 1939,1764 2123,1788 2129,1684 2051,1656 1867,1712 1662,1646 1546,1708 1424,1638 1221,1718 948,1592 642,1736 559,1728" rendition="Line" xml:id="facs_3_tr_1_tl_6"/>
+            <zone points="267,2175 405,2165 537,2258 714,2250 900,2306 1073,2220 1183,2232 1191,1921 1155,1905 974,2027 824,2055 593,1979 273,1983" rendition="Line" xml:id="facs_3_tr_1_tl_8"/>
+            <zone points="407,2514 622,2468 942,2486 1055,2432 1460,2390 1702,2454 1861,2360 2007,2372 2023,2220 1877,2220 1748,2298 1620,2240 1448,2330 1341,2278 1249,2330 1073,2208 435,2234" rendition="Line" xml:id="facs_3_tr_1_tl_9"/>
+            <zone points="329,2771 433,2809 501,2769 620,2789 772,2851 916,2739 1081,2695 1219,2731 1492,2647 1831,2641 1843,2524 1728,2480 1648,2542 1410,2574 1341,2536 1191,2603 1107,2534 806,2697 598,2729 337,2685" rendition="Line" xml:id="facs_3_tr_1_tl_10"/>
+            <zone points="672,3116 716,3106 740,3122 756,3110 780,3118 818,3100 832,3110 882,3074 934,3084 922,2865 866,2875 780,2815 748,2811 710,2851 658,2855" rendition="Line" xml:id="facs_3_tr_1_tl_11"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_4">
-         <graphic url="TLx-0012_p004.jpg" width="2479px" height="3508px"/>
-         <zone points="170,513 2291,513 2291,2174 170,2174" rendition="TextRegion" xml:id="facs_4_r">
-            <zone points="268,954 1433,875 1431,845 266,924" rendition="Line" xml:id="facs_4_l"/>
-            <zone points="257,1255 1585,1132 1582,1102 254,1225" rendition="Line" xml:id="facs_4_l_1"/>
-            <zone points="268,1530 2204,1432 2202,1402 266,1500" rendition="Line" xml:id="facs_4_l_2"/>
-            <zone points="286,1856 2081,1805 2080,1775 285,1826" rendition="Line" xml:id="facs_4_l_3"/>
-            <zone points="308,2095 1560,2055 1559,2025 307,2065" rendition="Line" xml:id="facs_4_l_4"/>
-         </zone>
-      </surface>
-      <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_5">
-         <graphic url="TLx-0012_p005.jpg" width="2479px" height="3508px"/>
-         <zone points="262,490 975,490 975,3125 262,3125" rendition="TextRegion" xml:id="facs_5_r">
-            <zone points="453,653 733,653 733,623 453,623" rendition="Line" xml:id="facs_5_l"/>
-            <zone points="423,765 762,773 763,743 424,735" rendition="Line" xml:id="facs_5_l_1"/>
-            <zone points="411,920 706,952 709,922 414,890" rendition="Line" xml:id="facs_5_l_2"/>
-            <zone points="418,1079 725,1077 725,1047 418,1049" rendition="Line" xml:id="facs_5_l_3"/>
-            <zone points="428,1234 706,1227 705,1197 427,1204" rendition="Line" xml:id="facs_5_l_4"/>
-            <zone points="436,1356 950,1339 949,1309 435,1326" rendition="Line" xml:id="facs_5_l_5"/>
-            <zone points="456,1449 941,1444 941,1414 456,1419" rendition="Line" xml:id="facs_5_l_6"/>
-            <zone points="402,1665 865,1636 863,1606 400,1635" rendition="Line" xml:id="facs_5_l_7"/>
-            <zone points="347,2018 702,1988 699,1958 344,1988" rendition="Line" xml:id="facs_5_l_8"/>
-            <zone points="364,2126 697,2126 697,2096 364,2096" rendition="Line" xml:id="facs_5_l_9"/>
-            <zone points="308,2385 634,2324 628,2295 302,2356" rendition="Line" xml:id="facs_5_l_10"/>
-            <zone points="325,2500 678,2474 676,2444 323,2470" rendition="Line" xml:id="facs_5_l_11"/>
-            <zone points="339,2712 732,2687 730,2657 337,2682" rendition="Line" xml:id="facs_5_l_12"/>
-            <zone points="305,2921 943,2860 940,2830 302,2891" rendition="Line" xml:id="facs_5_l_13"/>
-            <zone points="359,3074 955,3039 953,3009 357,3044" rendition="Line" xml:id="facs_5_l_14"/>
-         </zone>
-         <zone points="1026,505 2362,505 2362,2662 1026,2662" rendition="TextRegion" xml:id="facs_5_r_1">
-            <zone points="1038,683 1339,668 1338,638 1037,653" rendition="Line" xml:id="facs_5_l_15"/>
-            <zone points="1043,785 1472,780 1472,750 1043,755" rendition="Line" xml:id="facs_5_l_16"/>
-            <zone points="1053,911 1401,889 1399,859 1051,881" rendition="Line" xml:id="facs_5_l_17"/>
-            <zone points="1050,1062 1244,1057 1243,1027 1049,1032" rendition="Line" xml:id="facs_5_l_18"/>
-            <zone points="1073,1185 1330,1175 1329,1145 1072,1155" rendition="Line" xml:id="facs_5_l_19"/>
-            <zone points="1048,1354 1281,1339 1279,1309 1046,1324" rendition="Line" xml:id="facs_5_l_20"/>
-            <zone points="1043,1447 1806,1438 1806,1408 1043,1417" rendition="Line" xml:id="facs_5_l_21"/>
-            <zone points="1035,1570 1572,1560 1571,1530 1034,1540" rendition="Line" xml:id="facs_5_l_22"/>
-            <zone points="1045,1724 1700,1678 1698,1648 1043,1694" rendition="Line" xml:id="facs_5_l_23"/>
-            <zone points="1074,1901 1620,1852 1617,1822 1071,1871" rendition="Line" xml:id="facs_5_l_24"/>
-            <zone points="1079,2089 1885,2068 1884,2038 1078,2059" rendition="Line" xml:id="facs_5_l_25"/>
-            <zone points="1050,2352 1904,2348 1904,2318 1050,2322" rendition="Line" xml:id="facs_5_l_26"/>
-            <zone points="1058,2514 1633,2488 1632,2458 1057,2484" rendition="Line" xml:id="facs_5_l_27"/>
+         <graphic url="TLx-0021_p004.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QADZIYBCXOWAPMVKNCDIOVTO&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="349,453 367,2117 2269,2117 2269,456" rendition="TextRegion" xml:id="facs_4_tr_1">
+            <zone points="970,585 1124,580 1123,550 969,555" rendition="Line" xml:id="facs_4_l"/>
+            <zone points="448,775 831,765 997,831 1169,742 1368,845 1524,723 1739,742 1746,632 1452,644 1368,586 1246,684 1160,630 1029,656 976,618 821,623 742,674 453,665" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
+            <zone points="413,1083 782,1057 845,1099 985,1050 1134,1118 1244,1032 1419,1074 1445,917 1349,934 1300,887 1237,908 1088,856 894,924 782,901 695,826 427,859" rendition="Line" xml:id="facs_4_tr_1_tl_3"/>
+            <zone points="530,1321 891,1312 1053,1412 1307,1260 1979,1230 1988,1088 1935,1055 1482,1188 1368,1127 1214,1165 1095,1095 845,1165 630,1064 548,1085" rendition="Line" xml:id="facs_4_tr_1_tl_4"/>
+            <zone points="390,1592 555,1571 625,1617 870,1547 901,1575 1008,1536 1067,1578 1144,1522 1356,1540 1746,1463 1893,1491 2042,1440 2247,1454 2268,1386 2012,1358 1939,1396 1610,1314 1419,1442 1263,1368 1104,1447 1011,1384 938,1426 740,1300 518,1363 411,1335" rendition="Line" xml:id="facs_4_tr_1_tl_6"/>
+            <zone points="558,1827 616,1837 688,1778 777,1785 999,1704 1085,1708 1172,1783 1410,1652 1424,1505 1253,1580 1120,1531 1050,1585 976,1554 856,1641 716,1552 581,1596" rendition="Line" xml:id="facs_4_tr_1_tl_8"/>
+            <zone points="355,1960 502,1967 632,2068 1050,1897 1090,1932 1351,1865 1496,1935 1734,1799 1907,1869 2075,1760 2156,1760 2147,1659 1879,1711 1799,1645 1648,1727 1573,1685 1407,1753 1235,1734 1167,1783 1090,1718 919,1792 749,1769 632,1841 497,1837 378,1769" rendition="Line" xml:id="facs_4_tr_1_tl_9"/>
+            <zone points="579,2117 681,2124 751,2093 796,2110 898,2072 1034,2159 1144,2156 1174,1981 1060,1995 1013,1965 891,1993 814,1935 763,1979 674,1930 590,1946" rendition="Line" xml:id="facs_4_tr_1_tl_10"/>
          </zone>
       </surface>
    </facsimile>
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="TLx-0012_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0012_p001.jpg"/>
-            <p facs="#facs_1_r">
-               <lb facs="#facs_1_l" n="N001"/>"Gothische Plastik"
-               <lb facs="#facs_1_l_1" n="N002"/>p. 15 . p. 16. p. 17. p. 35. (p. 29)
-               <lb facs="#facs_1_l_2" n="N003"/>"Piero..." fig. 41
-               <lb facs="#facs_1_l_3" n="N004"/><rs type="person">Malreaux</rs> II. S. 97. 98 (<rs type="person" ref="#tillich_person_id__681">Giotto</rs>)
-               <lb facs="#facs_1_l_4" n="N005"/>Virtutum... 255-258     "     [<rs type="person" ref="#tillich_person_id__681">Giotto</rs>] (272 Simone)
-               <lb facs="#facs_1_l_5" n="N006"/>Photograph (Joachim and St. Anne)
-               <lb facs="#facs_1_l_6" n="N007"/>Weise 136 (Villeneuve-Pietá)
-               <lb facs="#facs_1_l_7" n="N008"/>A Treasury etc ... (<rs type="person" ref="#tillich_person_id__3892">Grünewald</rs>)
-               <lb facs="#facs_1_l_8" n="N009"/>[     "     "     "(<rs type="person" ref="#tillich_person_id__3099">Masaccio</rs>)]
-               <lb facs="#facs_1_l_9" n="N010"/>Burger III <rs type="person" ref="#tillich_person_id__3892">Grünewald</rs>
+            <pb facs="#facs_1" n="TLx-0021_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0021_p001.jpg"/>
+            <p facs="#facs_1_tr_2">
+               <lb facs="#facs_1_l" n="N001"/>[1]
+               <lb facs="#facs_1_tr_2_tl_2" n="N002"/>Sculptures and Painting for:
+               <lb facs="#facs_1_tr_2_tl_4" n="N003"/><hi style="text-decoration: underline;"><rs type="keyword" ref="#Religion">Religion</rs> and the Visual <rs type="keyword" ref="#Arts">Arts</rs></hi>
+               <lb facs="#facs_1_tr_2_tl_5" n="N004"/><hi style="text-decoration: underline;">I. The Circle of <rs type="keyword" ref="#Ancient_Greece">Greek Art</rs>:</hi>
+               <lb facs="#facs_1_tr_2_tl_6" n="N005"/>1. Archaic god or goddess. (<rs type="keyword" ref="#Expressionism">Expressionistic</rs>)
+               <lb facs="#facs_1_tr_2_tl_7" n="N006"/>2. Classical god or goddess <hi style="text-decoration: underline;">and</hi> human figure.
+               <lb facs="#facs_1_tr_2_tl_9" n="N007"/>(Idealistic)
+               <lb facs="#facs_1_tr_2_tl_14" n="N008"/>3. <rs type="keyword" ref="#Naturalism">Naturalistic</rs>     "     "     "     "     "     "
+               <lb facs="#facs_1_tr_2_tl_15" n="N009"/>4. Archa-istic Greek: Roman figure or god.
+               <lb facs="#facs_1_tr_2_tl_16" n="N010"/>(<rs type="keyword" ref="#Expressionism">Expressionistic</rs>)
+               <lb facs="#facs_1_tr_2_tl_17" n="N011"/><hi style="text-decoration: underline;">II. Analogies in the West till 1900</hi>
+               <lb facs="#facs_1_tr_2_tl_18" n="N012"/>a] <rs type="keyword" ref="#Expressionism">Expressionistic</rs> predominance
+               <lb facs="#facs_1_tr_2_tl_19" n="N013"/>1. A Catacomb and a Byzantine picture
+               <lb facs="#facs_1_tr_2_tl_20" n="N014"/>(<rs type="keyword" ref="#Ancient_Greece">classical</rs>-idealistic elements)
+               <lb facs="#facs_1_tr_2_tl_21" n="N015"/>2. A Romanesc crucifixion (or similarly ex-
+               <lb facs="#facs_1_tr_2_tl_22" n="N016"/>pressive = distorted.)
             </p>
-            <pb facs="#facs_2" n="TLx-0012_p002.jpg" xml:id="img_0002"/>
-            <p facs="#facs_2_r">
-               <lb facs="#facs_2_l" n="N001"/>[-]
-               <lb facs="#facs_2_l_1" n="N002"/>Guide a. Picture Book 76-78
-               <lb facs="#facs_2_l_2" n="N003"/>Pensner-Granthof (Tafel I-Tafel III)
-               <lb facs="#facs_2_l_3" n="N004"/>[Barockskulptur (<rs type="person" ref="#tillich_person_id__1326">Michelangelo</rs>)]
-               <lb facs="#facs_2_l_4" n="N005"/>Brinkmann II, 242 (<rs type="person" ref="#tillich_person_id__4021">Bernini</rs> - Theresa)
-               <lb facs="#facs_2_l_5" n="N006"/><hi style="text-decoration: underline;">Drost T. 16 ({...} page 292) <rs type="person" ref="#tillich_person_id__4029">Asam</rs>, Maria</hi>
-               <lb facs="#facs_2_l_6" n="N007"/><rs type="person" ref="#tillich_person_id__1653">Rubens</rs>, Art-News Sept. 50
-               <lb facs="#facs_2_l_7" n="N008"/>Rosenhag 91
+            <pb facs="#facs_2" n="TLx-0021_p002.jpg" xml:id="img_0002"/>
+            <p facs="#facs_2_tr_2">
+               <lb facs="#facs_2_l" n="N001"/>[2]
+               <lb facs="#facs_2_tr_2_tl_1" n="N002"/>3. A Gothic <rs type="keyword" ref="#Religion">religious</rs> sculpture.
+               <lb facs="#facs_2_tr_2_tl_2" n="N003"/>4. A Francis-scene by <rs type="person" ref="#tillich_person_id__681">Giotto</rs> (Beyond the categories)
+               <lb facs="#facs_2_tr_2_tl_3" n="N004"/>b] <rs type="keyword" ref="#Naturalism">Naturalistic</rs>-idealistic predominance.
+               <lb facs="#facs_2_tr_2_tl_4" n="N005"/>1. <rs type="person" ref="#tillich_person_id__3099">Masaccio</rs> or/and <rs type="person" ref="#tillich_person_id__3889">Perugino</rs>
+               <lb facs="#facs_2_tr_2_tl_5" n="N006"/>2. <rs type="person" ref="#tillich_person_id__3965">Dolci </rs>as "beautifying <rs type="keyword" ref="#Naturalism">naturalism</rs>".
+               <lb facs="#facs_2_tr_2_tl_6" n="N007"/>3. <rs type="person" ref="#tillich_person_id__3086">Watteau</rs> (or <rs type="person" ref="#tillich_person_id__3966">Fragonard</rs>) as "playing <rs type="keyword" ref="#Naturalism">naturalism</rs>"
+               <lb facs="#facs_2_tr_2_tl_7" n="N008"/>4. <rs type="person" ref="#tillich_person_id__3967">Caravaggio</rs> as "aggressive <rs type="keyword" ref="#Naturalism">naturalism</rs>".
+               <lb facs="#facs_2_tr_2_tl_8" n="N009"/>(or/and <rs type="person" ref="#tillich_person_id__3090">Goya</rs>)
+               <lb facs="#facs_2_tr_2_tl_9" n="N010"/>5. Optical <rs type="keyword" ref="#Naturalism">naturalism</rs> or <rs type="keyword" ref="#Impressionism">impressionism</rs> (<rs type="person" ref="#tillich_person_id__1343">Monet</rs>)
+               <lb facs="#facs_2_tr_2_tl_10" n="N011"/>6. American <rs type="keyword" ref="#Naturalism">naturalism</rs> (<rs type="person" ref="#tillich_person_id__926">Homer</rs>?)
+               <lb facs="#facs_2_tr_2_tl_11" n="N012"/>7. <rs type="person" ref="#tillich_person_id__406">Courbet</rs> (<rs type="person" ref="#tillich_person_id__2574">Corot</rs>)
+               <lb facs="#facs_2_tr_2_tl_12" n="N013"/>8. <rs type="person" ref="#tillich_person_id__1580">Rembrandt</rs> old man or woman. (Beyond the categories)
             </p>
-            <pb facs="#facs_3" n="TLx-0012_p003.jpg" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="TLx-0021_p003.jpg" xml:id="img_0003"/>
             <p facs="#facs_3_r">
-               <lb facs="#facs_3_l" n="N001"/><hi style="text-decoration: underline;"><rs type="person" ref="#tillich_person_id__2575">Cézanne</rs>:</hi> Still Life
-               <lb facs="#facs_3_l_1" n="N002"/>     "     Pines and Rocks
-               <lb facs="#facs_3_l_2" n="N003"/><hi style="text-decoration: underline;">{<rs type="person" ref="#tillich_person_id__1404">Nolde</rs></hi> The Magic}
-               <lb facs="#facs_3_l_3" n="N004"/><rs type="person" ref="#tillich_person_id__1984"><hi style="text-decoration: underline;">Van Gogh</hi></rs> Starry Night
-               <lb facs="#facs_3_l_4" n="N005"/>Night Café
-               <lb facs="#facs_3_l_5" n="N006"/><rs type="person"><hi style="text-decoration: underline;">Picasso</hi></rs> Studio
-               <lb facs="#facs_3_l_6" n="N007"/><rs type="person"><hi style="text-decoration: underline;">Braque</hi></rs> Table
-               <lb facs="#facs_3_l_9" n="N008"/>{Mendrino}
-               <lb facs="#facs_3_l_7" n="N009"/><rs type="person" ref="#tillich_person_id__3912">{Mondrian</rs>}
-               <lb facs="#facs_3_l_8" n="N010"/><rs type="person" ref="#tillich_person_id__3095"><hi style="text-decoration: underline;">Chirico</hi> </rs>Toys of a Prince 
+               <lb facs="#facs_3_l" n="N001"/><rs type="keyword" ref="#Expressionism">expressive </rs>[regarding 1., 2., 3.]
             </p>
-            <pb facs="#facs_4" n="TLx-0012_p004.jpg" xml:id="img_0004"/>
-            <p facs="#facs_4_r">
-               <lb facs="#facs_4_l" n="N001"/><rs type="person" ref="#tillich_person_id__3912"><hi style="text-decoration: underline;">Mondrian</hi> </rs>Composition
-               <lb facs="#facs_4_l_1" n="N002"/><rs type="person" ref="#tillich_person_id__1404"><hi style="text-decoration: underline;">Nolde</hi></rs> The magicians
-               <lb facs="#facs_4_l_2" n="N003"/><rs type="person" ref="#tillich_person_id__3875"><hi style="text-decoration: underline;">Chagall</hi></rs> Time is a river without banks
-               <lb facs="#facs_4_l_3" n="N004"/><rs type="person" ref="#tillich_person_id__3094"><hi style="text-decoration: underline;">Rouault</hi></rs> Christ mocked by soldiers
-               <lb facs="#facs_4_l_4" n="N005"/>     "     Crucifixion
+            <p facs="#facs_3_tr_1">
+               <lb facs="#facs_3_l_19" n="N001"/>[3]
+               <lb facs="#facs_3_tr_1_tl_1" n="N002"/><hi style="text-decoration: underline;">III. African-Asian analogies</hi>
+               <lb facs="#facs_3_tr_1_tl_2" n="N003"/>1. Negro mask.
+               <lb facs="#facs_3_tr_1_tl_4" n="N004"/>2. Mexican <rs type="keyword" ref="#Religion">god</rs>.                       } expressive
+               <lb facs="#facs_3_tr_1_tl_5" n="N005"/>3. Chinese landscape.
+               <lb facs="#facs_3_tr_1_tl_6" n="N006"/>4. Buddha statue (classical=<rs type="keyword" ref="#Expressionism">expressive</rs>)
+               <lb facs="#facs_3_tr_1_tl_8" n="N007"/>IV. <hi style="text-decoration: underline;">Contemporary Art</hi>
+               <lb facs="#facs_3_tr_1_tl_9" n="N008"/>1. <rs type="person" ref="#tillich_person_id__2575">Cézanne</rs> (if possible self-portrait)
+               <lb facs="#facs_3_tr_1_tl_10" n="N009"/>2. <rs type="person" ref="#tillich_person_id__1984">Van Gogh</rs> (if possible: the chair.)
+               <lb facs="#facs_3_tr_1_tl_11" n="N010"/>3.  A Fauve.
             </p>
-            <pb facs="#facs_5" n="TLx-0012_p005.jpg" xml:id="img_0005"/>
-            <p facs="#facs_5_r">
-               <lb facs="#facs_5_l" n="N001"/><rs type="person" ref="#tillich_person_id__1495"><hi style="text-decoration: underline;">Picasso</hi></rs>
-               <lb facs="#facs_5_l_1" n="N002"/>Harlequin
-               <lb facs="#facs_5_l_2" n="N003"/>Clown
-               <lb facs="#facs_5_l_3" n="N004"/>Pierrot
-               <lb facs="#facs_5_l_4" n="N005"/>Acrobat
-               <lb facs="#facs_5_l_5" n="N006"/>Harlequin and his
-               <lb facs="#facs_5_l_6" n="N007"/>family
-               <lb facs="#facs_5_l_7" n="N008"/>Guernica
-               <lb facs="#facs_5_l_8" n="N009"/><rs type="person" ref="#tillich_person_id__3878"><hi style="text-decoration: underline;">Léger</hi></rs>
-               <lb facs="#facs_5_l_9" n="N010"/>Circus
-               <lb facs="#facs_5_l_10" n="N011"/><rs type="person" ref="#tillich_person_id__3879"><hi style="text-decoration: underline;">Mir</hi></rs>o
-               <lb facs="#facs_5_l_11" n="N012"/>Circus
-               <lb facs="#facs_5_l_12" n="N013"/><rs type="person" ref="#tillich_person_id__4030"><hi style="text-decoration: underline;">Picabia</hi></rs>
-               <lb facs="#facs_5_l_13" n="N014"/>"Non-figurative Orphism"
-               <lb facs="#facs_5_l_14" n="N015"/>Procession in Seville
-            </p>
-            <p facs="#facs_5_r_1">
-               <lb facs="#facs_5_l_15" n="N001"/><rs type="person" ref="#tillich_person_id__3875"><hi style="text-decoration: underline;">Chagall</hi></rs>
-               <lb facs="#facs_5_l_16" n="N002"/>Fall of the angel
-               <lb facs="#facs_5_l_17" n="N003"/>Harlequin
-               <lb facs="#facs_5_l_18" n="N004"/><rs type="person" ref="#tillich_person_id__3877"><hi style="text-decoration: underline;">Gris</hi></rs>
-               <lb facs="#facs_5_l_19" n="N005"/>Pierrot
-               <lb facs="#facs_5_l_20" n="N006"/><rs type="person" ref="#tillich_person_id__3876"><hi style="text-decoration: underline;">Klee</hi></rs>
-               <lb facs="#facs_5_l_21" n="N007"/>Stars above evil houses
-               <lb facs="#facs_5_l_22" n="N008"/>Ceramic = mystic.
-               <lb facs="#facs_5_l_23" n="N009"/>The order of the high.
-               <lb facs="#facs_5_l_24" n="N010"/><rs type="person" ref="#tillich_person_id__1773"><hi style="text-decoration: underline;">Seurat</hi> </rs>Circus
-               <lb facs="#facs_5_l_25" n="N011"/><rs type="person" ref="#tillich_person_id__3919"><hi style="text-decoration: underline;">Rousseau</hi></rs> Sleeping gipsy
-               <lb facs="#facs_5_l_26" n="N012"/>Metaphysical painting
-               <lb facs="#facs_5_l_27" n="N013"/>(<rs type="person" ref="#tillich_person_id__3095">Chirico</rs>, <rs type="person" ref="#tillich_person_id__4031">Carrà</rs>)
+            <pb facs="#facs_4" n="TLx-0021_p004.jpg" xml:id="img_0004"/>
+            <p facs="#facs_4_tr_1">
+               <lb facs="#facs_4_l" n="N001"/>[4]
+               <lb facs="#facs_4_tr_1_tl_1" n="N002"/>4. A <rs type="keyword" ref="#Cubism">cubist</rs> picture by <rs type="person" ref="#tillich_person_id__1495">Picasso</rs>
+               <lb facs="#facs_4_tr_1_tl_3" n="N003"/>5. A <rs type="keyword" ref="#Surrealism">surrealist </rs>picture (<rs type="person" ref="#tillich_person_id__3881">Dali</rs>: The watches?)
+               <lb facs="#facs_4_tr_1_tl_4" n="N004"/>6. A memory of primitive art: <rs type="person" ref="#tillich_person_id__3876">Klee</rs>.
+               <lb facs="#facs_4_tr_1_tl_6" n="N005"/>7. Non-objective art or "abstract <rs type="keyword" ref="#Expressionism">expressionism</rs>"
+               <lb facs="#facs_4_tr_1_tl_8" n="N006"/>(Honest acknowlegment of a predicament.)
+               <lb facs="#facs_4_tr_1_tl_9" n="N007"/>8. The attempts to become figural again.
+               <lb facs="#facs_4_tr_1_tl_10" n="N008"/>(<rs type="person" ref="#tillich_person_id__3968">De Kooning</rs>?)
             </p>
          </div>
       </body>
