@@ -5,6 +5,7 @@
             <titleStmt>
                 <title type="main">bMS 649/39 (25): Religion and Culture – Religion and Art; Artistic Styles Examples; Humanities 127; typescript n. d.</title>
                 <title type="sub">Religion and Culture Project</title>
+                <title type="order">18</title>
                 <principal>
                     <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
                 </principal>
@@ -43,7 +44,7 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <locus>Zusatzmaterial I Box 38, 39, 46</locus>
+                            <locus>bMS 649/39 (25): Religion and Culture – Religion and Art; Artistic Styles Examples; Humanities 127; typescript n. d.</locus>
                             <p/>
                         </msItem>
                     </msContents>
@@ -53,8 +54,7 @@
     </teiHeader>
 <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="TLx-0010_p001.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=WUZCXCHDQVEBYHLFONDXBQSK&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=WUZCXCHDQVEBYHLFONDXBQSK" width="2479px" height="3508px"/>
          <zone points="331,634 263,3125 2260,2967 2260,634" rendition="TextRegion" xml:id="facs_1_tr_1">
             <zone points="428,673 492,710 621,688 872,714 1189,699 1186,618 857,645 806,621 428,612" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
             <zone points="435,760 1331,780 1328,721 1263,708 773,728 658,690 433,693" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
@@ -89,8 +89,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
-         <graphic url="TLx-0010_p002.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=GVRCFBQUVYUGLFGDPSSLHBFJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=GVRCFBQUVYUGLFGDPSSLHBFJ" width="2479px" height="3508px"/>
          <zone points="325,586 325,2601 1591,2601 1591,586" rendition="TextRegion" xml:id="facs_2_tr_1">
             <zone points="773,657 800,648 811,657 852,651 887,660 920,641 938,653 966,645 965,580 945,580 928,569 874,591 844,583 771,589" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
             <zone points="385,667 521,664 545,675 651,618 697,622 697,602 673,607 592,584 578,594 554,583 529,592 496,576 475,595 437,572 383,567" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
@@ -120,8 +119,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
-         <graphic url="TLx-0010_p003.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=YTSDICVCQTLIEVSUCOGACZEJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=YTSDICVCQTLIEVSUCOGACZEJ" width="2479px" height="3508px"/>
          <zone points="265,616 265,1617 1373,1617 1373,616" rendition="TextRegion" xml:id="facs_3_tr_1">
             <zone points="234,617 297,621 299,591 236,587" rendition="Line" xml:id="facs_3_l"/>
             <zone points="276,699 1018,691 1053,662 1157,674 1158,618 525,607 277,640" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
@@ -142,7 +140,7 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="TLx-0010_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0010_p001.jpg"/>
+            <pb facs="#facs_1" n="TLx-0018_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=WUZCXCHDQVEBYHLFONDXBQSK"/>
             <p facs="#facs_1_tr_1">
                <lb facs="#facs_1_tr_1_tl_1" n="N001"/>1 Pompejanisches Wandgemaelde
                <lb facs="#facs_1_tr_1_tl_2" n="N002"/>2. Domitilla, catacombs, III Century
@@ -175,7 +173,7 @@
                <lb facs="#facs_1_tr_1_tl_32" n="N029"/>5. sculptures
                <lb facs="#facs_1_tr_1_tl_33" n="N030"/>6. Christ in glory (Tympanon, half circle over the door)
             </p>
-            <pb facs="#facs_2" n="TLx-0010_p002.jpg" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="TLx-0018_p002.jpg" xml:id="img_0002" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=GVRCFBQUVYUGLFGDPSSLHBFJ"/>
             <p facs="#facs_2_tr_1">
                <lb facs="#facs_2_tr_1_tl_1" n="N001"/>page 2
                <lb facs="#facs_2_tr_1_tl_2" n="N002"/>Chartres
@@ -203,7 +201,7 @@
                <lb facs="#facs_2_tr_1_tl_25" n="N024"/>5. Chartres cathedral, nave West, north-window
                <lb facs="#facs_2_tr_1_tl_26" n="N025"/>Tree of Jesse
             </p>
-            <pb facs="#facs_3" n="TLx-0010_p003.jpg" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="TLx-0018_p003.jpg" xml:id="img_0003" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=YTSDICVCQTLIEVSUCOGACZEJ"/>
             <p facs="#facs_3_tr_1">
                <lb facs="#facs_3_l" n="N001"/>[3]
                <lb facs="#facs_3_tr_1_tl_1" n="N002"/>virgin and child Italian painting

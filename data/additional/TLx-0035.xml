@@ -3,8 +3,9 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-               <title type="main">bMS 649/46 (12): Religion and Culture II: Applications to Science and the Arts, handwritten, n.d.</title>
+                <title type="main">bMS 649/46 (12): Religion and Culture II: Applications to Science and the Arts, handwritten, n.d.</title>
                 <title type="sub">Religion and Culture Project</title>
+                <title type="order">35</title>
                 <principal>
                     <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
                 </principal>
@@ -43,7 +44,7 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <locus>Zusatzmaterial I Box 38, 39, 46</locus>
+                            <locus>bMS 649/46 (12): Religion and Culture II: Applications to Science and the Arts, handwritten, n.d.</locus>
                             <p/>
                         </msItem>
                     </msContents>
@@ -53,11 +54,10 @@
     </teiHeader>
 <facsimile>
       <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_1">
-         <graphic url="TLx-0032-4.jpg" width="3024px" height="4032px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=KIASXIXNQUJCXZHIGEPSCGXF" width="3024px" height="4032px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_2">
-         <graphic url="TLx-0032-1.jpg" width="3024px" height="4032px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=LEHYQEDVURBZEZYBPWYYVHVX&amp;fileType=view" width="3024px" height="4032px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=LEHYQEDVURBZEZYBPWYYVHVX" width="3024px" height="4032px"/>
          <zone points="469,1429 655,1429 655,1465 469,1465" rendition="TextRegion" xml:id="facs_2_r_1">
             <zone points="469,1459 654,1465 655,1435 470,1429" rendition="Line" xml:id="facs_2_l_1"/>
          </zone>
@@ -94,8 +94,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_3">
-         <graphic url="TLx-0032-2.jpg" width="3024px" height="4032px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=RCRLPXYSFPQMNMTHNORUHIZQ&amp;fileType=view" width="3024px" height="4032px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=RCRLPXYSFPQMNMTHNORUHIZQ" width="3024px" height="4032px"/>
          <zone points="241,928 241,2912 2547,2912 2547,928" rendition="TextRegion" xml:id="facs_3_tr_1">
             <zone points="447,1039 621,1079 743,1042 946,1050 954,886 788,894 693,865 653,894 457,817" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
             <zone points="357,1282 637,1327 952,1198 1142,1221 1195,1182 1309,1229 1406,1190 1985,1182 1988,1058 1922,1036 1515,1095 1319,1010 1208,1079 783,1055 624,1124 582,1081 365,1076" rendition="Line" xml:id="facs_3_tr_1_tl_2"/>
@@ -108,8 +107,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_4">
-         <graphic url="TLx-0032-3.jpg" width="3024px" height="4032px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=ZULEMMHFBFDELSSFQGKBGYRF&amp;fileType=view" width="3024px" height="4032px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=ZULEMMHFBFDELSSFQGKBGYRF" width="3024px" height="4032px"/>
          <zone points="492,902 492,2722 2523,2722 2523,902" rendition="TextRegion" xml:id="facs_4_tr_1">
             <zone points="522,1087 747,1091 748,1061 523,1057" rendition="Line" xml:id="facs_4_l"/>
             <zone points="476,1356 547,1384 665,1337 823,1346 978,1473 1117,1374 1433,1306 1881,1339 1893,1092 1846,1077 1620,1148 1455,1148 1304,1080 488,1134" rendition="Line" xml:id="facs_4_tr_1_tl_4"/>
@@ -118,8 +116,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_5">
-         <graphic url="TLx-0032-5.jpg" width="3024px" height="4032px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=FKVJDEOTZPBCEFWFZWUAIFZY&amp;fileType=view" width="3024px" height="4032px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=FKVJDEOTZPBCEFWFZWUAIFZY" width="3024px" height="4032px"/>
          <zone points="253,864 253,3739 2598,3739 2598,864" rendition="TextRegion" xml:id="facs_5_tr_1">
             <zone points="950,1126 1457,1073 1545,1117 1727,1067 1897,1117 2129,1056 2311,1103 2440,1056 2531,1106 2534,845 2176,871 1947,809 1496,827 1369,792 1053,804 953,853" rendition="Line" xml:id="facs_5_tr_1_tl_1" subtype="heading"/>
             <zone points="1897,1340 1968,1349 2012,1328 2032,1343 2062,1325 2126,1325 2144,1337 2188,1325 2182,1123 2147,1120 2123,1138 2070,1144 2023,1108 1953,1091 1891,1117" rendition="Line" xml:id="facs_5_tr_1_tl_3" subtype="heading"/>
@@ -137,8 +134,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_6">
-         <graphic url="TLx-0032-6.jpg" width="3024px" height="4032px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=ODPRCTJJMXCQFCFLAIGBOXKH&amp;fileType=view" width="3024px" height="4032px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=ODPRCTJJMXCQFCFLAIGBOXKH" width="3024px" height="4032px"/>
          <zone points="224,967 224,3644 2592,3644 2592,967" rendition="TextRegion" xml:id="facs_6_tr_1">
             <zone points="310,967 417,967 417,937 310,937" rendition="Line" xml:id="facs_6_l"/>
             <zone points="539,1182 743,1182 874,1078 1028,1113 1916,1054 2197,1108 2396,1045 2490,1090 2553,1078 2553,891 1818,859 1567,903 811,853 634,909 536,874" rendition="Line" xml:id="facs_6_tr_1_tl_1" subtype="paragraph"/>
@@ -157,8 +153,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_7">
-         <graphic url="TLx-0032-7.jpg" width="3024px" height="4032px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=WIHSEKDIIFWENKBESTBDHBDD&amp;fileType=view" width="3024px" height="4032px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=WIHSEKDIIFWENKBESTBDHBDD" width="3024px" height="4032px"/>
          <zone points="191,933 191,3624 2544,3624 2544,933" rendition="TextRegion" xml:id="facs_7_tr_1">
             <zone points="370,935 467,913 460,884 363,906" rendition="Line" xml:id="facs_7_l"/>
             <zone points="420,1089 762,1077 829,1034 1037,1092 1200,1025 1571,1031 2076,1118 2172,1037 2517,1045 2520,821 2470,800 2342,885 2129,844 1688,899 1524,818 1218,914 905,923 765,847 558,934 423,920" rendition="Line" xml:id="facs_7_tr_1_tl_1" subtype="paragraph"/>
@@ -176,8 +171,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_8">
-         <graphic url="TLx-0032-8.jpg" width="3024px" height="4032px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=FEJOKEABAZTXBXCCOXIOCFEG&amp;fileType=view" width="3024px" height="4032px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=FEJOKEABAZTXBXCCOXIOCFEG" width="3024px" height="4032px"/>
          <zone points="182,933 182,3218 2565,3218 2565,933" rendition="TextRegion" xml:id="facs_8_tr_1">
             <zone points="275,936 404,922 401,892 272,906" rendition="Line" xml:id="facs_8_l"/>
             <zone points="201,1115 445,1092 602,1165 746,1100 1168,1059 1451,1089 1493,1056 1732,1148 1915,1086 2094,1177 2508,1109 2490,900 1856,932 1566,873 1274,932 1065,888 926,935 782,891 549,947 395,864 204,903" rendition="Line" xml:id="facs_8_tr_1_tl_1"/>
@@ -195,8 +189,8 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="TLx-0032-4.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0032-4.jpg"/>
-            <pb facs="#facs_2" n="TLx-0032-1.jpg" xml:id="img_0002"/>
+            <pb facs="#facs_1" n="TLx-0035_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=KIASXIXNQUJCXZHIGEPSCGXF"/>
+            <pb facs="#facs_2" n="TLx-0035_p002.jpg" xml:id="img_0002" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=LEHYQEDVURBZEZYBPWYYVHVX"/>
             <p facs="#facs_2_r_1">
                <lb facs="#facs_2_l_1" n="N001"/>[I]
             </p>
@@ -231,7 +225,7 @@
             <p facs="#facs_2_r_21">
                <lb facs="#facs_2_l_20" n="N001"/>
             </p>
-            <pb facs="#facs_3" n="TLx-0032-2.jpg" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="TLx-0035_p003.jpg" xml:id="img_0003" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=RCRLPXYSFPQMNMTHNORUHIZQ"/>
             <p facs="#facs_3_tr_1">
                <lb facs="#facs_3_tr_1_tl_1" n="N001"/>Possibilities:
                <lb facs="#facs_3_tr_1_tl_2" n="N002"/>Reading of <rs type="person" ref="#tillich_person_id__520">Einstein</rs>'s discussion with me.
@@ -242,14 +236,14 @@
                <lb facs="#facs_3_tr_1_tl_10" n="N007"/><rs type="keyword" ref="#History">History</rs>: Facts – interrelations [valuating], understan-
                <lb facs="#facs_3_tr_1_tl_11" n="N008"/>ding, interpreting.
             </p>
-            <pb facs="#facs_4" n="TLx-0032-3.jpg" xml:id="img_0004"/>
+            <pb facs="#facs_4" n="TLx-0035_p004.jpg" xml:id="img_0004" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=ZULEMMHFBFDELSSFQGKBGYRF"/>
             <p facs="#facs_4_tr_1">
                <lb facs="#facs_4_l" n="N001"/>[III]
                <lb facs="#facs_4_tr_1_tl_4" n="N002"/>The answer of the <rs type="keyword" ref="#Arts">arts:</rs> The question
                <lb facs="#facs_4_tr_1_tl_6" n="N003"/>(and positive philosophy)
                <lb facs="#facs_4_tr_1_tl_7" n="N004"/>The limits of this answer and the quest for religion.
             </p>
-            <pb facs="#facs_5" n="TLx-0032-5.jpg" xml:id="img_0005"/>
+            <pb facs="#facs_5" n="TLx-0035_p005.jpg" xml:id="img_0005" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=FKVJDEOTZPBCEFWFZWUAIFZY"/>
             <p facs="#facs_5_tr_1">
                <lb facs="#facs_5_tr_1_tl_1" n="N001"/><hi style="text-decoration: underline;">Religion and Culture II Applications to <rs type="keyword" ref="#Science">science</rs> and</hi>
                <lb facs="#facs_5_tr_1_tl_3" n="N002"/><hi style="text-decoration: underline;">the <rs type="keyword" ref="#Arts">arts.</rs></hi>
@@ -265,7 +259,7 @@
                <lb facs="#facs_5_tr_1_tl_13" n="N012"/>expression of man's selfinterpretation, concerning the
                <lb facs="#facs_5_tr_1_tl_14" n="N013"/>meaning of his world and himself.
             </p>
-            <pb facs="#facs_6" n="TLx-0032-6.jpg" xml:id="img_0006"/>
+            <pb facs="#facs_6" n="TLx-0035_p006.jpg" xml:id="img_0006" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=ODPRCTJJMXCQFCFLAIGBOXKH"/>
             <p facs="#facs_6_tr_1">
                <lb facs="#facs_6_l" n="N001"/>[2]
                <lb facs="#facs_6_tr_1_tl_1" n="N002"/>4. <rs type="keyword" ref="#Style">Stylistic</rs> elements. The natural, the ideal, the
@@ -282,7 +276,7 @@
                <lb facs="#facs_6_tr_1_tl_13" n="N013"/>realism, non-objective, expressionistic: The sacramen-
                <lb facs="#facs_6_tr_1_tl_14" n="N014"/>tal, the mystical, the Spiritual style.
             </p>
-            <pb facs="#facs_7" n="TLx-0032-7.jpg" xml:id="img_0007"/>
+            <pb facs="#facs_7" n="TLx-0035_p007.jpg" xml:id="img_0007" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=WIHSEKDIIFWENKBESTBDHBDD"/>
             <p facs="#facs_7_tr_1">
                <lb facs="#facs_7_l" n="N001"/>[3]
                <lb facs="#facs_7_tr_1_tl_1" n="N002"/>5. The religious underground of all <rs type="keyword" ref="#Style">styles</rs> in the
@@ -298,7 +292,7 @@
                <lb facs="#facs_7_tr_1_tl_11" n="N012"/>about the autonomy of style – but the right to chose by the
                <lb facs="#facs_7_tr_1_tl_13" n="N013"/>churches for cult. This is implicit heteronomy and destinctive if not
             </p>
-            <pb facs="#facs_8" n="TLx-0032-8.jpg" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="TLx-0035_p008.jpg" xml:id="img_0008" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=FEJOKEABAZTXBXCCOXIOCFEG"/>
             <p facs="#facs_8_tr_1">
                <lb facs="#facs_8_l" n="N001"/>[4]
                <lb facs="#facs_8_tr_1_tl_1" n="N002"/>authentic for the <rs type="keyword" ref="#Arts">artists:</rs> Imitated icons (or Gothic churches)

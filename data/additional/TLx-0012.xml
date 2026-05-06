@@ -5,6 +5,7 @@
             <titleStmt>
                 <title type="main">bMS 649/39 (19): Religion and the Visual Arts: Sculptures and Paintings, course of lectures, n. d.</title>
                 <title type="sub">Religion and Culture Project</title>
+                <title type="order">12</title>
                 <principal>
                     <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
                 </principal>
@@ -43,7 +44,7 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <locus>Zusatzmaterial I Box 38, 39, 46</locus>
+                            <locus>bMS 649/39 (19): Religion and the Visual Arts: Sculptures and Paintings, course of lectures, n. d.</locus>
                             <p/>
                         </msItem>
                     </msContents>
@@ -53,8 +54,7 @@
     </teiHeader>
 <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="TLx-0021_p001.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=XJMLKZHFPJAEXWNWHCTRLDOG&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=XJMLKZHFPJAEXWNWHCTRLDOG" width="2479px" height="3508px"/>
          <zone points="569,483 591,3064 2271,3064 2263,483" rendition="TextRegion" xml:id="facs_1_tr_2">
             <zone points="1252,585 1379,591 1381,561 1253,555" rendition="Line" xml:id="facs_1_l"/>
             <zone points="677,783 717,765 802,777 938,708 961,725 1052,692 1192,723 1238,698 1240,581 1050,661 881,565 823,608 738,598 679,623" rendition="Line" xml:id="facs_1_tr_2_tl_2"/>
@@ -75,8 +75,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
-         <graphic url="TLx-0021_p002.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=AUYQLSGVNVZCFXFBFSUGACKS&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=AUYQLSGVNVZCFXFBFSUGACKS" width="2479px" height="3508px"/>
          <zone points="420,386 459,3099 2418,3099 2400,352" rendition="TextRegion" xml:id="facs_2_tr_2">
             <zone points="1141,484 1350,475 1348,445 1140,454" rendition="Line" xml:id="facs_2_l"/>
             <zone points="631,760 808,765 942,674 1066,664 1178,743 1439,638 1530,686 1709,648 1714,528 1573,504 1360,562 1171,504 1056,559 901,526 641,612" rendition="Line" xml:id="facs_2_tr_2_tl_1"/>
@@ -94,8 +93,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
-         <graphic url="TLx-0021_p003.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=PXHVMLDJUVWQGIJEGXCOOCWJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=PXHVMLDJUVWQGIJEGXCOOCWJ" width="2479px" height="3508px"/>
          <zone points="1366,968 1799,968 1799,1174 1366,1174" rendition="TextRegion" xml:id="facs_3_r">
             <zone points="1402,1133 1735,1119 1734,1089 1401,1103" rendition="Line" xml:id="facs_3_l"/>
          </zone>
@@ -113,8 +111,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_4">
-         <graphic url="TLx-0021_p004.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=QADZIYBCXOWAPMVKNCDIOVTO&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=QADZIYBCXOWAPMVKNCDIOVTO" width="2479px" height="3508px"/>
          <zone points="349,453 367,2117 2269,2117 2269,456" rendition="TextRegion" xml:id="facs_4_tr_1">
             <zone points="970,585 1124,580 1123,550 969,555" rendition="Line" xml:id="facs_4_l"/>
             <zone points="448,775 831,765 997,831 1169,742 1368,845 1524,723 1739,742 1746,632 1452,644 1368,586 1246,684 1160,630 1029,656 976,618 821,623 742,674 453,665" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
@@ -130,7 +127,7 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="TLx-0021_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0021_p001.jpg"/>
+            <pb facs="#facs_1" n="TLx-0012_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=XJMLKZHFPJAEXWNWHCTRLDOG"/>
             <p facs="#facs_1_tr_2">
                <lb facs="#facs_1_l" n="N001"/>[1]
                <lb facs="#facs_1_tr_2_tl_2" n="N002"/>Sculptures and Painting for:
@@ -149,7 +146,7 @@
                <lb facs="#facs_1_tr_2_tl_21" n="N015"/>2. A Romanesc crucifixion (or similarly ex-
                <lb facs="#facs_1_tr_2_tl_22" n="N016"/>pressive = distorted.)
             </p>
-            <pb facs="#facs_2" n="TLx-0021_p002.jpg" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="TLx-0012_p002.jpg" xml:id="img_0002" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=AUYQLSGVNVZCFXFBFSUGACKS"/>
             <p facs="#facs_2_tr_2">
                <lb facs="#facs_2_l" n="N001"/>[2]
                <lb facs="#facs_2_tr_2_tl_1" n="N002"/>3. A Gothic <rs type="keyword" ref="#Religion">religious</rs> sculpture.
@@ -165,7 +162,7 @@
                <lb facs="#facs_2_tr_2_tl_11" n="N012"/>7. <rs type="person" ref="#tillich_person_id__406">Courbet</rs> (<rs type="person" ref="#tillich_person_id__2574">Corot</rs>)
                <lb facs="#facs_2_tr_2_tl_12" n="N013"/>8. <rs type="person" ref="#tillich_person_id__1580">Rembrandt</rs> old man or woman. (Beyond the categories)
             </p>
-            <pb facs="#facs_3" n="TLx-0021_p003.jpg" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="TLx-0012_p003.jpg" xml:id="img_0003" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=PXHVMLDJUVWQGIJEGXCOOCWJ"/>
             <p facs="#facs_3_r">
                <lb facs="#facs_3_l" n="N001"/><rs type="keyword" ref="#Expressionism">expressive </rs>[regarding 1., 2., 3.]
             </p>
@@ -181,7 +178,7 @@
                <lb facs="#facs_3_tr_1_tl_10" n="N009"/>2. <rs type="person" ref="#tillich_person_id__1984">Van Gogh</rs> (if possible: the chair.)
                <lb facs="#facs_3_tr_1_tl_11" n="N010"/>3.  A Fauve.
             </p>
-            <pb facs="#facs_4" n="TLx-0021_p004.jpg" xml:id="img_0004"/>
+            <pb facs="#facs_4" n="TLx-0012_p004.jpg" xml:id="img_0004" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=QADZIYBCXOWAPMVKNCDIOVTO"/>
             <p facs="#facs_4_tr_1">
                <lb facs="#facs_4_l" n="N001"/>[4]
                <lb facs="#facs_4_tr_1_tl_1" n="N002"/>4. A <rs type="keyword" ref="#Cubism">cubist</rs> picture by <rs type="person" ref="#tillich_person_id__1495">Picasso</rs>

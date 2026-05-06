@@ -5,6 +5,7 @@
             <titleStmt>
                 <title type="main">bMS 649/38 (10)-Rückseite: Bibliography</title>
                 <title type="sub">Religion and Culture Project</title>
+                <title type="order">4</title>
                 <principal>
                     <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
                 </principal>
@@ -43,7 +44,7 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <locus>ALT Box 38</locus>
+                            <locus>bMS 649/38 (10)-Rückseite: Bibliography</locus>
                             <p/>
                         </msItem>
                     </msContents>
@@ -53,8 +54,7 @@
     </teiHeader>
 <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="TLx-0019_p001.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=YPTFYJMZFDKCGWGWBJPJAJOW&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=YPTFYJMZFDKCGWGWBJPJAJOW" width="2479px" height="3508px"/>
          <zone points="167,511 167,921 1851,921 1851,511" rendition="TextRegion" xml:id="facs_1_tr_1">
             <zone points="183,571 388,651 567,567 1407,586 1460,571 1462,512 1236,535 973,482 744,537 604,482 379,541 185,510" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
             <zone points="154,714 1845,666 1847,569 1485,626 1335,567 1011,619 811,583 691,638 506,592 396,663 310,592 156,632" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
@@ -69,7 +69,7 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="TLx-0019_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0019_p001.jpg"/>
+            <pb facs="#facs_1" n="TLx-0004_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=YPTFYJMZFDKCGWGWBJPJAJOW"/>
             <p facs="#facs_1_tr_1">
                <lb facs="#facs_1_tr_1_tl_1" n="N001"/><rs type="person" key="Forsyth, ">Forsyth</rs>--T. Church &amp; The Sacraments
                <lb facs="#facs_1_tr_1_tl_2" n="N002"/><rs type="person" key="Vidler, ">Vidler</rs>--Modernist Movements in The Roman Church

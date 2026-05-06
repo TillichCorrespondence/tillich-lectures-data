@@ -5,6 +5,7 @@
             <titleStmt>
                 <title type="main">bMS 649/39 (17): Religion and Art, Introduction, Course lecture n. d.</title>
                 <title type="sub">Religion and Culture Project</title>
+                <title type="order">10</title>
                 <principal>
                     <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
                 </principal>
@@ -43,7 +44,7 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <locus>Zusatzmaterial I Box 38, 39, 46</locus>
+                            <locus>bMS 649/39 (17): Religion and Art, Introduction, Course lecture n. d.</locus>
                             <p/>
                         </msItem>
                     </msContents>
@@ -53,8 +54,7 @@
     </teiHeader>
 <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="TLx-0022_p001.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=EMLWHGWGUOQNHRDLVACMQBCL&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=EMLWHGWGUOQNHRDLVACMQBCL" width="2479px" height="3508px"/>
          <zone points="220,512 220,3024 2283,3024 2283,512" rendition="TextRegion" xml:id="facs_1_tr_1">
             <zone points="953,749 1014,741 1052,718 1062,729 1075,721 1098,729 1095,540 1083,540 1044,571 1027,563 1019,571 1006,558 981,571 950,568" rendition="Line" xml:id="facs_1_tr_1_tl_2" subtype="heading"/>
             <zone points="377,902 604,902 673,963 731,912 963,902 1055,981 1095,948 1174,991 1297,894 1363,958 1452,899 1635,894 1641,746 1500,729 1434,785 1292,754 1095,820 988,774 792,787 695,726 540,780 380,774" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
@@ -74,8 +74,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
-         <graphic url="TLx-0022_p002.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=PEJHJIHQFBJHSELXDQIBILPK&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=PEJHJIHQFBJHSELXDQIBILPK" width="2479px" height="3508px"/>
          <zone points="341,582 313,3142 2334,3142 2340,554" rendition="TextRegion" xml:id="facs_2_tr_1">
             <zone points="1159,689 1332,695 1333,665 1160,659" rendition="Line" xml:id="facs_2_l"/>
             <zone points="514,958 600,956 725,871 908,893 953,861 1054,866 1232,988 1583,936 1591,788 1435,715 1209,795 1011,803 788,723 524,760" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
@@ -96,8 +95,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
-         <graphic url="TLx-0022_p003.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=AEIMNLYNYRYKRZEEDCWSJCGC&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=AEIMNLYNYRYKRZEEDCWSJCGC" width="2479px" height="3508px"/>
          <zone points="63,436 71,2046 2257,2046 2246,408" rendition="TextRegion" xml:id="facs_3_tr_1">
             <zone points="936,521 1093,521 1093,491 936,491" rendition="Line" xml:id="facs_3_l"/>
             <zone points="103,805 246,805 381,742 518,840 578,788 632,837 770,740 886,807 1013,713 1148,802 1412,691 1706,745 1944,694 2074,778 2155,713 2241,716 2246,529 1947,537 1868,613 1771,540 1515,548 1358,662 1096,567 934,645 810,572 440,602 113,459" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
@@ -114,7 +112,7 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="TLx-0022_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0022_p001.jpg"/>
+            <pb facs="#facs_1" n="TLx-0010_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=EMLWHGWGUOQNHRDLVACMQBCL"/>
             <p facs="#facs_1_tr_1">
                <lb facs="#facs_1_tr_1_tl_2" n="N001"/><hi style="text-decoration: underline;">Intr.</hi>
                <lb facs="#facs_1_tr_1_tl_3" n="N002"/>1) The threefold meaning of <rs type="keyword" ref="#Religion">religious <rs type="keyword" ref="#Arts"/></rs><rs type="keyword" ref="#Arts">art</rs>.
@@ -132,7 +130,7 @@
                <lb facs="#facs_1_tr_1_tl_20" n="N014"/>This demands a distinction in the concepts of <rs type="keyword" ref="#Religion">religious</rs> and
                <lb facs="#facs_1_tr_1_tl_21" n="N015"/><rs type="keyword" ref="#Secular">secular</rs>.
             </p>
-            <pb facs="#facs_2" n="TLx-0022_p002.jpg" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="TLx-0010_p002.jpg" xml:id="img_0002" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=PEJHJIHQFBJHSELXDQIBILPK"/>
             <p facs="#facs_2_tr_1">
                <lb facs="#facs_2_l" n="N001"/>[2]
                <lb facs="#facs_2_tr_1_tl_1" n="N002"/>2) The double meaning of <rs type="keyword" ref="#Religion">religious</rs>.
@@ -151,7 +149,7 @@
                <lb facs="#facs_2_tr_1_tl_15" n="N015"/>The substantially {character of} <rs type="keyword" ref="#Religion">religious </rs>character of all
                <lb facs="#facs_2_tr_1_tl_16" n="N016"/>culture. But the intention towards the finite forms. Therefore
             </p>
-            <pb facs="#facs_3" n="TLx-0022_p003.jpg" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="TLx-0010_p003.jpg" xml:id="img_0003" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=AEIMNLYNYRYKRZEEDCWSJCGC"/>
             <p facs="#facs_3_tr_1">
                <lb facs="#facs_3_l" n="N001"/>[3]
                <lb facs="#facs_3_tr_1_tl_1" n="N002"/>the possibilities of being {transparen} directed towards its ground

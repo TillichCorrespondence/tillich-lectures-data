@@ -3,8 +3,9 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">bMS 649/38 (6): Course Announcements for 1957/58, Harvard University</title> 
+                <title type="main">bMS 649/38 (6): Course Announcements for 1957/58, Harvard University</title>
                 <title type="sub">Religion and Culture Project</title>
+                <title type="order">3</title>
                 <principal>
                     <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
                 </principal>
@@ -43,7 +44,7 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <locus>ALT Box 38</locus>
+                            <locus>bMS 649/38 (6): Course Announcements for 1957/58, Harvard University</locus>
                             <p/>
                         </msItem>
                     </msContents>
@@ -53,8 +54,7 @@
     </teiHeader>
 <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="TLx-0001_p001.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=VNVVWAZAJPTHVLTUULBMHQAS&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=VNVVWAZAJPTHVLTUULBMHQAS" width="2479px" height="3508px"/>
          <zone points="197,648 197,2765 2140,2765 2140,648" rendition="TextRegion" xml:id="facs_1_tr_1">
             <zone points="1702,714 1730,698 1782,718 1923,700 1953,722 2005,706 2031,730 2135,714 2133,646 2045,604 1921,638 1833,624 1770,636 1700,612" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
             <zone points="513,814 587,844 748,798 816,824 984,800 1207,810 1251,844 1247,688 990,744 830,676 602,744 511,720" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
@@ -84,51 +84,31 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="TLx-0001_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0001_p001.jpg"/>
+            <pb facs="#facs_1" n="TLx-0003_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=VNVVWAZAJPTHVLTUULBMHQAS"/>
             <p facs="#facs_1_tr_1">
-                <lb facs="#facs_1_tr_1_tl_1" n="N001"/>Prof. <rs type="person" key="Tillich, Paul">Paul Tillich</rs></p><note type="ea">In these lectures, Tillich draws on material from the “Religion and Culture” lecture; see the note.</note>
-             <p>
-               <lb facs="#facs_1_tr_1_tl_2" n="N002"/>Course Announcements for 1957-58.</p>
-             <p>
-               <lb facs="#facs_1_tr_1_tl_3" n="N003"/>Lectures in General Education</p>
-             <p>
-               <lb facs="#facs_1_tr_1_tl_4" n="N004"/>Tuesday, Thursday, (Saturday) 11-12 a.m.</p>
-             <p>
-               <lb facs="#facs_1_tr_1_tl_5" n="N005"/>Semester I</p>
-             <p>
-               <lb facs="#facs_1_tr_1_tl_6" n="N006"/><rs wikiData="Q9174" type="keyword" ref="#Religion">Religion</rs>, <rs wikiData="Q2018526" type="keyword" ref="#Arts">the Arts</rs> and <rs wikiData="Q7762580" type="keyword" ref="#Science">the Sciences [Humanities 127a Theol. 185a]</rs></p>
-             <p>
-               <lb facs="#facs_1_tr_1_tl_7" n="N007"/>The relation of religion to the arts and sciences in</p>
-             <p>
-               <lb facs="#facs_1_tr_1_tl_9" n="N008"/>general, with special reference to their contemporary</p>
-             <p>
-               <lb facs="#facs_1_tr_1_tl_10" n="N009"/>situation.</p>
-             <p>
-               <lb facs="#facs_1_tr_1_tl_11" n="N010"/>Semester II</p>
-             <p>
-               <lb facs="#facs_1_tr_1_tl_12" n="N011"/><rs wikiData="Q9174" type="keyword" ref="#Religion">Religion</rs> and <rs wikiData="Q48204" type="keyword" ref="#Society">Society [Humanities 127b Theol. 185b]</rs></p>
-             <p>
-               <lb facs="#facs_1_tr_1_tl_14" n="N012"/>The relation of religion to the social, legal, educational</p>
-             <p>
-               <lb facs="#facs_1_tr_1_tl_16" n="N013"/>and political problems, including the present historical</p>
-             <p>
-               <lb facs="#facs_1_tr_1_tl_17" n="N014"/>situation.</p>
-             <p>
-               <lb facs="#facs_1_tr_1_tl_18" n="N015"/>Note: Although much of this is the same material covered in the</p>
-             <p>
-             <lb facs="#facs_1_tr_1_tl_19" n="N016"/><rs wikiData="Q9174" type="keyword" ref="#Religion">Religion</rs> and <rs wikiData="Q11042" type="keyword" ref="#Culture">Culture</rs> course offered in 1955-56 as Humanities 127,</p>
-             <p>
-             <lb facs="#facs_1_tr_1_tl_20" n="N017"/>Professor Tillich plans to offer these as two completely independent</p>
-             <p>
-             <lb facs="#facs_1_tr_1_tl_21" n="N018"/>half courses and suggests that probably two entirely different</p>
-             <p>
-             <lb facs="#facs_1_tr_1_tl_22" n="N019"/>course numbers be used. If there is any question on this, please</p>
-             <p>
-             <lb facs="#facs_1_tr_1_tl_23" n="N020"/>contact him.</p>
-             <p>
-             <lb facs="#facs_1_tr_1_tl_24" n="N021"/><rs type="person" key="Leonard, G.C.">G. C. Leonard</rs> (Mrs.)</p>
-             <p>
-             <lb facs="#facs_1_tr_1_tl_25" n="N022"/>Secretary to <rs type="person" key="Tillich, Paul">Dr. Tillich</rs></p>
+               <lb facs="#facs_1_tr_1_tl_1" n="N001"/>Prof. <rs type="person" key="Tillich, Paul">Paul Tillich</rs>
+               <lb facs="#facs_1_tr_1_tl_2" n="N002"/>Course Announcements for 1957-58.
+               <lb facs="#facs_1_tr_1_tl_3" n="N003"/>Lectures in General Education
+               <lb facs="#facs_1_tr_1_tl_4" n="N004"/>Tuesday, Thursday, (Saturday) 11-12 a.m.
+               <lb facs="#facs_1_tr_1_tl_5" n="N005"/>Semester I
+               <lb facs="#facs_1_tr_1_tl_6" n="N006"/><rs wikiData="Q9174" type="keyword" ref="#Religion">Religion</rs>, <rs wikiData="Q2018526" type="keyword" ref="#Arts">the Arts</rs> and <rs wikiData="Q7762580" type="keyword" ref="#Science">the Sciences</rs>
+               <lb facs="#facs_1_tr_1_tl_7" n="N007"/>The relation of religion to the arts and sciences in
+               <lb facs="#facs_1_tr_1_tl_9" n="N008"/>general, with special reference to their contemporary
+               <lb facs="#facs_1_tr_1_tl_10" n="N009"/>situation.
+               <lb facs="#facs_1_tr_1_tl_11" n="N010"/>Semester II
+               <lb facs="#facs_1_tr_1_tl_12" n="N011"/><rs wikiData="Q9174" type="keyword" ref="#Religion">Religion</rs> and <rs wikiData="Q48204" type="keyword" ref="#Society">Society</rs>
+               <lb facs="#facs_1_tr_1_tl_14" n="N012"/>The relation of religion to the social, legal, educational
+               <lb facs="#facs_1_tr_1_tl_16" n="N013"/>and political problems, including the present historical
+               <lb facs="#facs_1_tr_1_tl_17" n="N014"/>situation.
+               <lb facs="#facs_1_tr_1_tl_18" n="N015"/>Note: Although much of this is the same material covered in the
+               <lb facs="#facs_1_tr_1_tl_19" n="N016"/><rs wikiData="Q9174" type="keyword" ref="#Religion">Religion</rs> and <rs wikiData="Q11042" type="keyword" ref="#Culture">Culture</rs> course offered in 1955-56 as Humanities 127,
+               <lb facs="#facs_1_tr_1_tl_20" n="N017"/>Professor Tillich plans to offer these as two completely independent
+               <lb facs="#facs_1_tr_1_tl_21" n="N018"/>half courses and suggests that probably two entirely different
+               <lb facs="#facs_1_tr_1_tl_22" n="N019"/>course numbers be used. If there is any question on this, please
+               <lb facs="#facs_1_tr_1_tl_23" n="N020"/>contact him.
+               <lb facs="#facs_1_tr_1_tl_24" n="N021"/><rs type="person" key="Leonard, G.C.">G. C. Leonard</rs> (Mrs.)
+               <lb facs="#facs_1_tr_1_tl_25" n="N022"/>Secretary to <rs type="person" key="Tillich, Paul">Dr. Tillich</rs>
+            </p>
          </div>
       </body>
    </text>

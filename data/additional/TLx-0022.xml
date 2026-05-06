@@ -5,6 +5,7 @@
             <titleStmt>
                 <title type="main">bMS 649/39 (29): Religion and Cultures – Religion and Art, Artistic Styles Examples, Humanities, Harvard University, handwritten n. d.</title>
                 <title type="sub">Religion and Culture Project</title>
+                <title type="order">22</title>
                 <principal>
                     <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
                 </principal>
@@ -43,7 +44,7 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <locus>Zusatzmaterial I Box 38, 39, 46</locus>
+                            <locus>bMS 649/39 (29): Religion and Cultures – Religion and Art, Artistic Styles Examples, Humanities, Harvard University, handwritten n. d.</locus>
                             <p/>
                         </msItem>
                     </msContents>
@@ -53,7 +54,7 @@
     </teiHeader>
 <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="TLx-0036_p001.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=WHXUUZOAMDJFTCYASWFEXUVZ" width="2479px" height="3508px"/>
          <zone points="15,342 2341,342 2341,3229 15,3229" rendition="TextRegion" xml:id="facs_1_r">
             <zone points="206,575 2239,625 2240,595 207,545" rendition="Line" xml:id="facs_1_l"/>
             <zone points="196,731 2263,746 2263,716 196,701" rendition="Line" xml:id="facs_1_l_1"/>
@@ -72,7 +73,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
-         <graphic url="TLx-0036_p002.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=UIRGSJTVYWBENUNKBOLVKAAP" width="2479px" height="3508px"/>
          <zone points="168,496 2277,496 2277,1841 168,1841" rendition="TextRegion" xml:id="facs_2_r">
             <zone points="346,746 2244,749 2244,719 346,716" rendition="Line" xml:id="facs_2_l"/>
             <zone points="227,934 1574,912 1574,882 227,904" rendition="Line" xml:id="facs_2_l_1"/>
@@ -86,7 +87,7 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="TLx-0036_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0036_p001.jpg"/>
+            <pb facs="#facs_1" n="TLx-0022_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=WHXUUZOAMDJFTCYASWFEXUVZ"/>
             <p facs="#facs_1_r">
                <lb facs="#facs_1_l" n="N001"/>1905/6=Fauvism - <rs type="person" ref="#tillich_person_id__1343">Monet</rs>, <rs type="person" ref="#tillich_person_id__1984">V. Gogh</rs>, <rs type="person" ref="#tillich_person_id__658">Gauguin</rs>, <rs type="person" ref="#tillich_person_id__1368">Munch</rs>, <rs type="person">Cusa</rs>
                <lb facs="#facs_1_l_1" n="N002"/>Colour in late {exp} <rs type="keyword" ref="#Impressionism">impressionism</rs> (<rs type="person" ref="#tillich_person_id__1343">Monet</rs>) and<rs type="person" ref="#tillich_person_id__1404"> Nolde</rs>. Ecstasy under refinement
@@ -103,7 +104,7 @@
                <lb facs="#facs_1_l_12" n="N013"/>and expression. Hieroglyphs of eroticism. Hallucinatory
                <lb facs="#facs_1_l_13" n="N014"/>Anti-reproductive picture Encounter
             </p>
-            <pb facs="#facs_2" n="TLx-0036_p002.jpg" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="TLx-0022_p002.jpg" xml:id="img_0002" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=UIRGSJTVYWBENUNKBOLVKAAP"/>
             <p facs="#facs_2_r">
                <lb facs="#facs_2_l" n="N001"/><rs type="person" ref="#tillich_person_id__4036">Barlach</rs>, power of the <rs type="keyword" ref="#Myth">mythical</rs>, a world of pilgrims
                <lb facs="#facs_2_l_1" n="N002"/>created by himself (Southern Russia)

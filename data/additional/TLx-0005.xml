@@ -5,6 +5,7 @@
             <titleStmt>
                 <title type="main">bMS 649/38 (10): Bibliography</title>
                 <title type="sub">Religion and Culture Project</title>
+                <title type="order">5</title>
                 <principal>
                     <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
                 </principal>
@@ -43,7 +44,7 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <locus>ALT Box 38</locus>
+                            <locus>bMS 649/38 (10): Bibliography</locus>
                             <p/>
                         </msItem>
                     </msContents>
@@ -53,8 +54,7 @@
     </teiHeader>
 <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="TLx-0002_p001.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=ZWHWKPUDPQNQWYJNZHIFQRKS&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=ZWHWKPUDPQNQWYJNZHIFQRKS" width="2479px" height="3508px"/>
          <zone points="273,526 2211,526 2211,3027 273,3027" rendition="TextRegion" xml:id="facs_1_r">
             <zone points="1001,608 1459,616 1459,586 1002,578" rendition="Line" xml:id="facs_1_l_18" subtype="heading"/>
             <zone points="776,651 1097,658 1097,628 777,621" rendition="Line" xml:id="facs_1_l_25"/>
@@ -105,8 +105,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
-         <graphic url="TLx-0002_p002.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=SRODWUPLWFIZCEVLGWGKSKMY&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=SRODWUPLWFIZCEVLGWGKSKMY" width="2479px" height="3508px"/>
          <zone points="487,570 1957,570 1957,775 487,775" rendition="TextRegion" xml:id="facs_2_r_289">
             <zone points="985,665 1457,667 1457,637 985,635" rendition="Line" xml:id="facs_2_l_453" subtype="heading"/>
             <zone points="1531,701 1919,705 1920,675 1531,671" rendition="Line" xml:id="facs_2_l_467"/>
@@ -226,7 +225,7 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="TLx-0002_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0002_p001.jpg"/>
+            <pb facs="#facs_1" n="TLx-0005_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=ZWHWKPUDPQNQWYJNZHIFQRKS"/>
             <p facs="#facs_1_r">
                <lb facs="#facs_1_l_18" n="N001"/><rs type="keyword" ref="#Religion">Religion</rs> and <rs type="keyword" ref="#Culture">Culture</rs>
                <lb facs="#facs_1_l_25" n="N002"/><rs type="keyword" ref="#Humanities">Humanities </rs>127
@@ -275,7 +274,7 @@
                <lb facs="#facs_1_l_322" n="N045"/><rs type="person" key="Ellul, T.">Ellul, T.</rs>--THE THEOLOGICAL FOUNDATION OF JUSTICE (in French)
                <lb facs="#facs_1_l_329" n="N046"/><rs type="person" key="Heimann, E.">Heimann, E.</rs>--FREEDOM AND ORDER
             </p>
-            <pb facs="#facs_2" n="TLx-0002_p002.jpg" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="TLx-0005_p002.jpg" xml:id="img_0002" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=SRODWUPLWFIZCEVLGWGKSKMY"/>
             <p facs="#facs_2_r_289">
                <lb facs="#facs_2_l_453" n="N001"/><rs type="keyword" ref="#Religion">RELIGION</rs> AND <rs type="keyword" ref="#Culture">CULTURE</rs>
                <lb facs="#facs_2_l_467" n="N002"/>Prof. <rs type="person" key="Tillich, Paul">Paul Tillich</rs>

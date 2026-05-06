@@ -5,6 +5,7 @@
             <titleStmt>
                 <title type="main">bMS 649/39 (26): Religion and Culture – Religion and Art; Artistic Styles, Examples; Humanities 127; Harvard University, handwritten n. d.</title>
                 <title type="sub">Religion and Culture Project</title>
+                <title type="order">19</title>
                 <principal>
                     <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
                 </principal>
@@ -43,7 +44,7 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <locus>Zusatzmaterial I Box 38, 39, 46</locus>
+                            <locus>bMS 649/39 (26): Religion and Culture – Religion and Art; Artistic Styles, Examples; Humanities 127; Harvard University, handwritten n. d.</locus>
                             <p/>
                         </msItem>
                     </msContents>
@@ -53,8 +54,7 @@
     </teiHeader>
 <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="TLx-0011_p001.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=GBHYTFQMLYZTNZARDVUKUHRR&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=GBHYTFQMLYZTNZARDVUKUHRR" width="2479px" height="3508px"/>
          <zone points="343,699 343,3159 2182,3159 2182,699" rendition="TextRegion" xml:id="facs_1_tr_1">
             <zone points="363,887 405,905 430,887 468,907 560,896 643,838 869,856 878,652 755,659 656,620 374,643" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
             <zone points="332,1066 941,1037 1127,1075 1404,1037 1539,1111 1669,1015 1931,1008 2126,1120 2130,950 1978,878 1676,963 1393,903 1288,972 1140,918 1042,983 809,849 338,867" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
@@ -72,8 +72,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
-         <graphic url="TLx-0011_p002.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=RIRVPVWKSEAMUROYJCAGIDIN&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=RIRVPVWKSEAMUROYJCAGIDIN" width="2479px" height="3508px"/>
          <zone points="232,484 232,2068 2098,2068 2098,484" rendition="TextRegion" xml:id="facs_2_tr_1">
             <zone points="219,672 384,634 663,727 825,621 1014,687 1367,669 1552,575 1670,678 1782,608 1785,538 1655,474 1453,540 1376,503 1280,555 1067,498 689,586 590,518 472,577 406,540 351,577 224,562" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
             <zone points="323,1062 437,1113 832,1029 979,1098 1078,1027 1282,983 1387,1012 1506,959 1609,997 1708,946 1785,1021 1888,939 2081,909 2065,834 1736,869 1600,764 1475,828 1216,797 970,882 768,838 503,937 336,928" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
@@ -91,8 +90,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
-         <graphic url="TLx-0011_p003.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=EQMUHOMGTZQSTTDYVZQOSCKW&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=EQMUHOMGTZQSTTDYVZQOSCKW" width="2479px" height="3508px"/>
          <zone points="266,580 57,2907 2230,2727 2226,760" rendition="TextRegion" xml:id="facs_3_tr_3">
             <zone points="359,761 839,769 839,739 359,731" rendition="Line" xml:id="facs_3_l"/>
             <zone points="930,921 999,960 1136,905 1322,1005 1612,884 1764,960 1835,917 1932,970 2108,878 2225,888 2229,776 1794,758 1673,844 1438,771 1293,818 1217,776 934,792" rendition="Line" xml:id="facs_3_tr_3_tl_1"/>
@@ -111,7 +109,7 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="TLx-0011_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0011_p001.jpg"/>
+            <pb facs="#facs_1" n="TLx-0019_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=GBHYTFQMLYZTNZARDVUKUHRR"/>
             <p facs="#facs_1_tr_1">
                <lb facs="#facs_1_tr_1_tl_1" n="N001"/><hi style="text-decoration: underline;">Religious Art:</hi>
                <lb facs="#facs_1_tr_1_tl_3" n="N002"/>I. Level: Every {Art} Style as the expression of Being.
@@ -127,7 +125,7 @@
                <lb facs="#facs_1_tr_1_tl_14" n="N012"/>9. <rs type="person" ref="#tillich_person_id__1773">Seurat</rs>: La Grande Jatte
                <lb facs="#facs_1_tr_1_tl_15" n="N013"/>10. <rs type="person" ref="#tillich_person_id__1276">Matise:</rs> Lemons against Pinc Background.
             </p>
-            <pb facs="#facs_2" n="TLx-0011_p002.jpg" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="TLx-0019_p002.jpg" xml:id="img_0002" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=RIRVPVWKSEAMUROYJCAGIDIN"/>
             <p facs="#facs_2_tr_1">
                <lb facs="#facs_2_tr_1_tl_1" n="N001"/>11. etc. <rs type="keyword" ref="#Impressionism">Impressionists</rs> (<rs type="person" ref="#tillich_person_id__1583">Renoir</rs>, <rs type="person" ref="#tillich_person_id__1343">Monet</rs>, <rs type="person" ref="#tillich_person_id__442">Degas</rs>)
                <lb facs="#facs_2_tr_1_tl_2" n="N002"/>II Level: The style which aims at expression
@@ -143,7 +141,7 @@
             <p facs="#facs_2_r">
                <lb facs="#facs_2_l" n="N001"/>
             </p>
-            <pb facs="#facs_3" n="TLx-0011_p003.jpg" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="TLx-0019_p003.jpg" xml:id="img_0003" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=EQMUHOMGTZQSTTDYVZQOSCKW"/>
             <p facs="#facs_3_tr_3">
                <lb facs="#facs_3_l" n="N001"/><hi style="text-decoration: underline;">Wednesday</hi>
                <lb facs="#facs_3_tr_3_tl_1" n="N002"/>Oct 8. Exploration of basic concepts: <rs type="keyword" ref="#Symbol">Symbol</rs> and <rs type="keyword" ref="#Language">Sign</rs>.

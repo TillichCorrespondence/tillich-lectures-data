@@ -5,6 +5,7 @@
             <titleStmt>
                 <title type="main">bMS 649/38 (12): Religion and Society, humanities 127b (Theology 185b), (1959/60)</title>
                 <title type="sub">Religion and Culture Project</title>
+                <title type="order">7</title>
                 <principal>
                     <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
                 </principal>
@@ -43,7 +44,7 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <locus>ALT Box 38</locus>
+                            <locus>bMS 649/38 (12): Religion and Society, humanities 127b (Theology 185b), (1959/60)</locus>
                             <p/>
                         </msItem>
                     </msContents>
@@ -53,8 +54,7 @@
     </teiHeader>
 <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="TLx-0014_p001.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=IAKIRAJXIEVUPADJPKTAAUSH&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=IAKIRAJXIEVUPADJPKTAAUSH" width="2479px" height="3508px"/>
          <zone points="349,597 330,1288 2255,1324 2269,597" rendition="TextRegion" xml:id="facs_1_tr_1">
             <zone points="1665,711 1704,728 1727,715 1759,724 1826,698 1842,715 1890,721 1934,707 2006,724 2008,642 1859,634 1813,648 1769,629 1723,644 1690,625 1665,632" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
             <zone points="1069,784 1487,803 1485,749 1418,755 1393,738 1320,742 1248,721 1234,738 1148,736 1123,715 1102,738 1069,738" rendition="Line" xml:id="facs_1_tr_1_tl_3" subtype="heading"/>
@@ -106,8 +106,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
-         <graphic url="TLx-0014_p002.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=KKUJWZMXEVHYJCZDZFXKHWIG&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=KKUJWZMXEVHYJCZDZFXKHWIG" width="2479px" height="3508px"/>
          <zone points="211,836 241,1201 2051,1210 2063,836" rendition="TextRegion" xml:id="facs_2_tr_1">
             <zone points="279,875 908,890 890,825 646,830 589,804 487,836 448,812 420,830 279,797" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
             <zone points="1516,888 1640,901 1703,877 1759,895 1885,879 1941,892 1941,812 1926,806 1856,836 1798,804 1724,843 1709,830 1668,849 1601,849 1579,830 1516,843" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
@@ -159,9 +158,9 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="TLx-0014_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0014_p001.jpg"/>
+            <pb facs="#facs_1" n="TLx-0007_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=IAKIRAJXIEVUPADJPKTAAUSH"/>
             <p facs="#facs_1_tr_1">
-               <lb facs="#facs_1_tr_1_tl_2" n="N001"/><date when="1960-01-07">JAN--7 1960</date>
+               <lb facs="#facs_1_tr_1_tl_2" n="N001"/><date when="7 January 1960">JAN--7 1960</date>
                <lb facs="#facs_1_tr_1_tl_3" n="N002"/><rs type="keyword" ref="#Religion">RELIGION</rs> AND <rs type="keyword" ref="#Society">SOCIETY</rs>
                <lb facs="#facs_1_tr_1_tl_4" n="N003"/><rs type="keyword" ref="#Humanities">Humanities</rs> 127b (<rs type="keyword" ref="#Theology">Theology</rs> 185b)
                <lb facs="#facs_1_tr_1_tl_5" n="N004"/><rs type="person" key="Tillich, Paul">Professor Paul Tillich</rs>
@@ -209,7 +208,7 @@
                <lb facs="#facs_1_l_284" n="N031"/>Harvard University
                <lb facs="#facs_1_l_291" n="N032"/>Spring semester--1959-60
             </p>
-            <pb facs="#facs_2" n="TLx-0014_p002.jpg" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="TLx-0007_p002.jpg" xml:id="img_0002" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=KKUJWZMXEVHYJCZDZFXKHWIG"/>
             <p facs="#facs_2_tr_1">
                <lb facs="#facs_2_tr_1_tl_1" n="N001"/><rs type="keyword" ref="#Humanities">Humanities</rs> 127b (<rs type="keyword" ref="#Theology">Theol.</rs> 185b)
                <lb facs="#facs_2_tr_1_tl_2" n="N002"/>Semester II, 1957-58

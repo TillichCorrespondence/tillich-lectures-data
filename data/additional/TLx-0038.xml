@@ -5,6 +5,7 @@
             <titleStmt>
                 <title type="main">bMS 649/46 (15): Religion and Culture, Lecture 1: Fundamental Concepts and their Relations (first draft), handwritten, n.d.</title>
                 <title type="sub">Religion and Culture Project</title>
+                <title type="order">38</title>
                 <principal>
                     <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
                 </principal>
@@ -43,7 +44,7 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <locus>Zusatzmaterial I Box 38, 39, 46</locus>
+                            <locus>bMS 649/46 (15): Religion and Culture, Lecture 1: Fundamental Concepts and their Relations (first draft), handwritten, n.d.</locus>
                             <p/>
                         </msItem>
                     </msContents>
@@ -53,11 +54,10 @@
     </teiHeader>
 <facsimile>
       <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_1">
-         <graphic url="TLx-0025-1.jpg" width="3024px" height="4032px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=ZEYYMOJGAHBQBPVWTHSKMEML" width="3024px" height="4032px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_2">
-         <graphic url="TLx-0025-2.jpg" width="3024px" height="4032px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=IELCKYUOVVVIPMWZNRFZSRVA&amp;fileType=view" width="3024px" height="4032px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=IELCKYUOVVVIPMWZNRFZSRVA" width="3024px" height="4032px"/>
          <zone points="301,890 301,3717 2640,3717 2640,890" rendition="TextRegion" xml:id="facs_2_tr_1">
             <zone points="692,1008 1720,1003 1729,782 1407,828 1293,790 1067,837 698,825" rendition="Line" xml:id="facs_2_tr_1_tl_1" subtype="heading"/>
             <zone points="654,1619 1177,1625 1439,1540 1517,1575 2002,1569 2049,1558 2055,1328 1712,1351 1555,1308 1389,1360 1282,1322 1174,1363 660,1372" rendition="Line" xml:id="facs_2_tr_1_tl_4" subtype="heading"/>
@@ -75,8 +75,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="3024" lry="4032" xml:id="facs_3">
-         <graphic url="TLx-0025-3.jpg" width="3024px" height="4032px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=QVEDGRTGROWTPAMSFUVWMYLT&amp;fileType=view" width="3024px" height="4032px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=QVEDGRTGROWTPAMSFUVWMYLT" width="3024px" height="4032px"/>
          <zone points="302,911 436,911 436,941 302,941" rendition="TextRegion" xml:id="facs_3_r">
             <zone points="302,941 436,941 436,911 302,911" rendition="Line" xml:id="facs_3_l"/>
          </zone>
@@ -103,8 +102,8 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="TLx-0025-1.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0025-1.jpg"/>
-            <pb facs="#facs_2" n="TLx-0025-2.jpg" xml:id="img_0002"/>
+            <pb facs="#facs_1" n="TLx-0038_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=ZEYYMOJGAHBQBPVWTHSKMEML"/>
+            <pb facs="#facs_2" n="TLx-0038_p002.jpg" xml:id="img_0002" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=IELCKYUOVVVIPMWZNRFZSRVA"/>
             <p facs="#facs_2_tr_1">
                <lb facs="#facs_2_tr_1_tl_1" n="N001"/><hi style="text-decoration: underline;">Religion and Culture.</hi>
                <lb facs="#facs_2_tr_1_tl_4" n="N002"/><hi style="text-decoration: underline;">First Lecture. Problems and concepts. [<rs type="keyword" ref="#Religion">Religion</rs>, <rs type="keyword" ref="#Science">scien-</rs></hi>
@@ -120,7 +119,7 @@
                <lb facs="#facs_2_tr_1_tl_13" n="N012"/>deals with Roman or Indian or German or Japanese history?
                <lb facs="#facs_2_tr_1_tl_14" n="N013"/>Are the conflicts between religion and culture not a ma-
             </p>
-            <pb facs="#facs_3" n="TLx-0025-3.jpg" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="TLx-0038_p003.jpg" xml:id="img_0003" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=QVEDGRTGROWTPAMSFUVWMYLT"/>
             <p facs="#facs_3_r">
                <lb facs="#facs_3_l" n="N001"/>
             </p>

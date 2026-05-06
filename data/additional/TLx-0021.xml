@@ -5,6 +5,7 @@
             <titleStmt>
                 <title type="main">bMS 649/39 (28): ) Religion and Culture – Religion and Art, Artistic Styles: Examples of Historcal Styles, Humanities 127, Harvard University, handwritten n.d.</title>
                 <title type="sub">Religion and Culture Project</title>
+                <title type="order">21</title>
                 <principal>
                     <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
                 </principal>
@@ -43,7 +44,7 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <locus>Zusatzmaterial I Box 38, 39, 46</locus>
+                            <locus>bMS 649/39 (28): ) Religion and Culture – Religion and Art, Artistic Styles: Examples of Historcal Styles, Humanities 127, Harvard University, handwritten n.d.</locus>
                             <p/>
                         </msItem>
                     </msContents>
@@ -53,8 +54,7 @@
     </teiHeader>
 <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="TLx-0035_p001.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=LQQAAWPUHDHEVEAVEGXRFHVK&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=LQQAAWPUHDHEVEAVEGXRFHVK" width="2479px" height="3508px"/>
          <zone points="322,521 -6,3207 2261,3061 2176,521" rendition="TextRegion" xml:id="facs_1_tr_1">
             <zone points="877,663 1217,717 1313,667 1344,694 1509,652 1679,665 1724,699 1835,668 1835,505 1790,485 1634,484 1561,540 1483,480 1411,482 1235,549 1157,485 1014,542 877,489" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
             <zone points="877,824 1163,828 1270,911 1463,813 1583,871 1684,804 1907,819 1927,705 1608,743 1541,706 1465,752 1290,705 880,710" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
@@ -71,8 +71,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
-         <graphic url="TLx-0035_p002.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=GTSQRSAUYZSSCPNRVDXXXFIT&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=GTSQRSAUYZSSCPNRVDXXXFIT" width="2479px" height="3508px"/>
          <zone points="101,519 27,2385 2307,2322 2259,486" rendition="TextRegion" xml:id="facs_2_tr_2">
             <zone points="516,764 725,803 1088,740 1192,809 1437,731 1589,829 1815,744 1873,778 1981,748 1987,601 1852,591 1551,695 1365,591 1212,601 1084,709 518,668" rendition="Line" xml:id="facs_2_tr_2_tl_1"/>
             <zone points="526,976 666,1011 829,937 1247,950 1298,917 1528,1013 1655,907 1818,895 1822,746 1551,862 1353,870 1253,793 1070,870 888,821 760,821 621,892 530,850" rendition="Line" xml:id="facs_2_tr_2_tl_2"/>
@@ -94,7 +93,7 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="TLx-0035_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0035_p001.jpg"/>
+            <pb facs="#facs_1" n="TLx-0021_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=LQQAAWPUHDHEVEAVEGXRFHVK"/>
             <p facs="#facs_1_tr_1">
                <lb facs="#facs_1_tr_1_tl_1" n="N001"/><hi style="text-decoration: underline;">Examples of historical styles</hi>
                <lb facs="#facs_1_tr_1_tl_2" n="N002"/>I. Primitives, Stilo metaphysico, {Impressionism}
@@ -109,7 +108,7 @@
                <lb facs="#facs_1_l_1" n="N011"/><rs type="person" key=", Rembrandt">Rembrandt</rs>, {late Gothic}, Romanticism, Orphism
                <lb facs="#facs_1_l_2" n="N012"/>Futurism.
             </p>
-            <pb facs="#facs_2" n="TLx-0035_p002.jpg" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="TLx-0021_p002.jpg" xml:id="img_0002" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=GTSQRSAUYZSSCPNRVDXXXFIT"/>
             <p facs="#facs_2_tr_2">
                <lb facs="#facs_2_tr_2_tl_1" n="N001"/>ad I. The numinous element in primitives.
                <lb facs="#facs_2_tr_2_tl_2" n="N002"/>a primitive mask or magic tool.

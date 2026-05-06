@@ -5,6 +5,7 @@
             <titleStmt>
                 <title type="main">bMS 649/38 (11): Religion, the arts, and the Sciences, 15. Juli 1959</title>
                 <title type="sub">Religion and Culture Project</title>
+                <title type="order">6</title>
                 <principal>
                     <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
                 </principal>
@@ -43,7 +44,7 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <locus>ALT Box 38</locus>
+                            <locus>bMS 649/38 (11): Religion, the arts, and the Sciences, 15. Juli 1959</locus>
                             <p/>
                         </msItem>
                     </msContents>
@@ -53,8 +54,7 @@
     </teiHeader>
 <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="TLx-0020_p001.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=FEFHAFFVGGICBWPOXUYWOUFT&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=FEFHAFFVGGICBWPOXUYWOUFT" width="2479px" height="3508px"/>
          <zone points="259,756 237,1265 2157,1287 2113,756" rendition="TextRegion" xml:id="facs_1_tr_1">
             <zone points="1776,800 1814,806 1843,791 1887,804 1923,793 1973,808 2033,787 2094,802 2096,737 2048,722 2000,714 1908,724 1898,735 1879,720 1862,726 1843,714 1802,726 1779,714" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
             <zone points="941,822 1138,816 1394,850 1620,837 1618,781 1528,789 1484,764 1415,789 1250,783 1217,754 1050,781 941,760" rendition="Line" xml:id="facs_1_tr_1_tl_2" subtype="heading"/>
@@ -119,11 +119,10 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="TLx-0020_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0020_p001.jpg"/>
+            <pb facs="#facs_1" n="TLx-0006_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=FEFHAFFVGGICBWPOXUYWOUFT"/>
             <p facs="#facs_1_tr_1">
-               <lb facs="#facs_1_tr_1_tl_1" n="N001"/><date when="1959-07-15">JUL 15 1959</date>
-               <lb facs="#facs_1_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Religion">RELIGION</rs>, <rs type="keyword" ref="#Arts">THE ARTS</rs> AND <rs type="keyword" ref="#Science">THE SCIENCES</rs></p>
-             <p>
+               <lb facs="#facs_1_tr_1_tl_1" n="N001"/><date when="15 July 1959">JUL 15 1959</date>
+               <lb facs="#facs_1_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Religion">RELIGION</rs>, <rs type="keyword" ref="#Arts">THE ARTS</rs> AND <rs type="keyword" ref="#Science">THE SCIENCES</rs>
                <lb facs="#facs_1_tr_1_tl_3" n="N003"/><rs type="keyword" ref="#Humanities">Humanities</rs> 127a
                <lb facs="#facs_1_tr_1_tl_4" n="N004"/><rs type="keyword" ref="#Theology">Theology</rs> 185a
                <lb facs="#facs_1_tr_1_tl_5" n="N005"/><rs type="person" key="Tillich, Paul">Prof. Paul Tillich</rs>
