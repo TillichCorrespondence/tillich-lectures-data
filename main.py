@@ -1,36 +1,22 @@
 import glob
+import json
+import os
 
 from acdh_tei_pyutils.tei import TeiReader
 
-to_change = [
-    "religion",
-    "ultimate_concern",
-    "unconscious",
-    "biology",
-    "monistic_theory",
-    "genesis",
-    "language",
-    "community",
-    "church",
-    "nation",
-    "individualism",
-]
+files = sorted(glob.glob("./data/additional/*.xml"))
 
+data = {}
 
-def main():
-    print("Hello from tillich-lectures-data!")
-    files = glob.glob("data/editions/*.xml")
-    for x in sorted(files):
-        doc = TeiReader(x)
-        for y in to_change:
-            rs_type = "_".join([y.capitalize() for y in y.split("_")])
-            for el in doc.any_xpath(f".//tei:{y}"):
-                print(el)
-                el.tag = "{http://www.tei-c.org/ns/1.0}rs"
-                el.attrib["type"] = "keyword"
-                el.attrib["ref"] = f"#{rs_type}"
-        doc.tree_to_file(x)
+for i, x in enumerate(files, start=1):
+    doc = TeiReader(x)
+    transkribus_id = doc.any_xpath(".//tei:idno[@type='transkribus_doc_id']/text()")[0]
+    title = doc.any_xpath(".//tei:title")[0].text
+    data[transkribus_id] = {
+        "title": title,
+        "order": i,
+        "file_name": os.path.split(x)[-1],
+    }
 
-
-if __name__ == "__main__":
-    main()
+with open("title.json", "w", encoding="utf-8") as fp:
+    json.dump(data, fp, indent=2, ensure_ascii=False)
