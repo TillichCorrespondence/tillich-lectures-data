@@ -70,13 +70,19 @@
       <body>
          <div>
             <pb facs="#facs_1" n="TLx-0004_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=YPTFYJMZFDKCGWGWBJPJAJOW"/>
-            <p facs="#facs_1_tr_1">
-               <lb facs="#facs_1_tr_1_tl_1" n="N001"/><rs type="person" key="Forsyth, ">Forsyth</rs>--T. Church &amp; The Sacraments
-               <lb facs="#facs_1_tr_1_tl_2" n="N002"/><rs type="person" key="Vidler, ">Vidler</rs>--Modernist Movements in The Roman Church
-               <lb facs="#facs_1_tr_1_tl_3" n="N003"/><rs type="person" key="D'Arcy, ">D'Arcy</rs>--T. Mind &amp; Heart of Love
-               <lb facs="#facs_1_tr_1_tl_4" n="N004"/><rs type="person" key="Berdyaev, ">Berdyaev</rs>--Freedom &amp; The Spirit
+            <p facs="#facs_1_tr_1" rend="handwritten">
+               <lb facs="#facs_1_tr_1_tl_1" n="N001"/><rs type="person" ref="#Forsyth, ">Forsyth</rs> - T. Church &amp; The Sacraments
             </p>
-            <p facs="#facs_1_r">
+             <p rend="handwritten">
+               <lb facs="#facs_1_tr_1_tl_2" n="N002"/><rs type="person" ref="#Vidler, ">Vidler</rs> - Modernist Movements in The Roman Church
+             </p>
+             <p rend="handwritten">
+               <lb facs="#facs_1_tr_1_tl_3" n="N003"/><rs type="person" ref="#D'Arcy, ">D'Arcy</rs> - T. Mind &amp; Heart of Love
+             </p>
+             <p rend="handwritten">
+               <lb facs="#facs_1_tr_1_tl_4" n="N004"/><rs type="person" ref="#Berdyaev, ">Berdyaev</rs> - Freedom &amp; The Spirit
+            </p>
+            <p facs="#facs_1_r" rend="note">
                <lb facs="#facs_1_l" n="N001"/>on shelf
             </p>
          </div>

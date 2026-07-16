@@ -120,64 +120,140 @@
       <body>
          <div>
             <pb facs="#facs_1" n="TLx-0006_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=FEFHAFFVGGICBWPOXUYWOUFT"/>
-            <p facs="#facs_1_tr_1">
-               <lb facs="#facs_1_tr_1_tl_1" n="N001"/><date when="15 July 1959">JUL 15 1959</date>
-               <lb facs="#facs_1_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Religion">RELIGION</rs>, <rs type="keyword" ref="#Arts">THE ARTS</rs> AND <rs type="keyword" ref="#Science">THE SCIENCES</rs>
-               <lb facs="#facs_1_tr_1_tl_3" n="N003"/><rs type="keyword" ref="#Humanities">Humanities</rs> 127a
-               <lb facs="#facs_1_tr_1_tl_4" n="N004"/><rs type="keyword" ref="#Theology">Theology</rs> 185a
-               <lb facs="#facs_1_tr_1_tl_5" n="N005"/><rs type="person" key="Tillich, Paul">Prof. Paul Tillich</rs>
-               <lb facs="#facs_1_tr_1_tl_6" n="N006"/>Tues. and Thurs., 11-12, (Sat.)
-               <lb facs="#facs_1_tr_1_tl_7" n="N007"/>Assistant--<rs type="person" key="Kimball, Robert">Mr. Robert Kimball</rs>
-               <lb facs="#facs_1_tr_1_tl_8" n="N008"/>Office hours by appointment. Phone Secretary, <rs type="person" key="Leonard, Grace">Mrs. Grace Leonard</rs>, UN. 8-7600, Ext. 769
-               <lb facs="#facs_1_tr_1_tl_9" n="N009"/>The required work for this semester course will consist of:
-               <lb facs="#facs_1_tr_1_tl_10" n="N010"/>A minimum of 2800 pages of outside reading. The starred selections are
-               <lb facs="#facs_1_tr_1_tl_11" n="N011"/>required and will be covered on the final examination. The remainder (ca. 800 pp.)
-               <lb facs="#facs_1_tr_1_tl_12" n="N012"/>of the reading may be selected at the discretion of the student.
-               <lb facs="#facs_1_tr_1_tl_13" n="N013"/>A final examination. At the time of the examination the student should submit
-               <lb facs="#facs_1_tr_1_tl_14" n="N014"/>an annotated bibliography of the reading done during the semester.
+            <p facs="#facs_1_tr_1" style="text-align: right;">
+               <lb facs="#facs_1_tr_1_tl_1" n="N001"/><date when="1959-07-15">JUL 15 1959</date>
             </p>
-            <p facs="#facs_1_r_27">
+             <p rend="heading" style="text-align: center;">
+               <lb facs="#facs_1_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Religion">RELIGION</rs>, <rs type="keyword" ref="#Arts">THE ARTS</rs> AND <rs type="keyword" ref="#Science">THE SCIENCES</rs>
+             </p>
+             <p style="text-align: center;">
+               <lb facs="#facs_1_tr_1_tl_3" n="N003"/><rs type="keyword" ref="#Humanities">Humanities</rs> 127a
+             </p>
+             <p style="text-align: center;">
+               <lb facs="#facs_1_tr_1_tl_4" n="N004"/><rs type="keyword" ref="#Theology">Theology</rs> 185a
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_tr_1_tl_5" n="N005"/><rs type="person" ref="#Tillich, Paul">Prof. Paul Tillich</rs>
+             </p>
+             <p style="text-align: right;">
+               <lb facs="#facs_1_tr_1_tl_6" n="N006"/>Tues. and Thurs., 11-12, (Sat.)
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_tr_1_tl_7" n="N007"/>Assistant - <rs type="person" ref="#Kimball, Robert">Mr. Robert Kimball</rs>
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_tr_1_tl_8" n="N008"/>Office hours by appointment. Phone Secretary, <rs type="person" ref="#Leonard, Grace">Mrs. Grace Leonard</rs>, UN. 8-7600, Ext. 769
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_tr_1_tl_9" n="N009"/>The required work for this semester course will consist of:
+             </p>
+             <list type="index" rend="number-arabic">
+               <item><lb facs="#facs_1_tr_1_tl_10" n="N010"/>A minimum of 2800 pages of outside reading. The starred selections are
+               <lb facs="#facs_1_tr_1_tl_11" n="N011"/>required and will be covered on the final examination. The remainder (ca. 800 pp.)
+               <lb facs="#facs_1_tr_1_tl_12" n="N012"/>of the reading may be selected at the discretion of the student.</item>
+               <item><lb facs="#facs_1_tr_1_tl_13" n="N013"/>A final examination. At the time of the examination the student should submit
+               <lb facs="#facs_1_tr_1_tl_14" n="N014"/>an annotated bibliography of the reading done during the semester.</item>
+             </list>
+            <p facs="#facs_1_r_27" rend="heading" style="text-align: center;">
                <lb facs="#facs_1_l" n="N001"/>BIBLIOGRAPHY
+            </p>
+             <p rend="heading">
                <lb facs="#facs_1_l_13" n="N002"/><hi style="text-decoration: underline;">General material</hi>
-               <lb facs="#facs_1_l_20" n="N003"/><rs type="person" key="Buber, Martin">Buber, Martin</rs>--*The Eclipse of God
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_20" n="N003"/><rs type="person" ref="#Buber, Martin">Buber, Martin</rs> *The Eclipse of God
                <lb facs="#facs_1_l_27" n="N004"/>*I and Thou
-               <lb facs="#facs_1_l_34" n="N005"/><rs type="person" key="Brunner, Emil">Brunner, Emil</rs>--Christianity and Civilization
-               <lb facs="#facs_1_l_41" n="N006"/><rs type="person" key="Eliot, T.S.">Eliot, T. S.-</rs>-Notes on the Definition of Culture
-               <lb facs="#facs_1_l_48" n="N007"/><rs type="person" key="Frank, Erich">Frank, Erich</rs>--*Philosophical Understanding and Religious Truth
-               <lb facs="#facs_1_l_55" n="N008"/><rs type="person" key="Jaspers, Karl">Jaspers, Karl</rs>--Man in the Modern Age
-               <lb facs="#facs_1_l_62" n="N009"/><rs type="person" key="Kroner, Richard">Kroner, Richard</rs>--Culture and Faith
-               <lb facs="#facs_1_l_69" n="N010"/><rs type="person" key="Niebuhr, Richard H.">Niebuhr, H. Richard</rs>--*Christ and Culture
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_34" n="N005"/><rs type="person" ref="#Brunner, Emil">Brunner, Emil</rs> Christianity and Civilization
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_41" n="N006"/><rs type="person" ref="#Eliot, T.S.">Eliot, T. S.</rs> Notes on the Definition of Culture
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_48" n="N007"/><rs type="person" ref="#Frank, Erich">Frank, Erich</rs> *Philosophical Understanding and Religious Truth
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_55" n="N008"/><rs type="person" ref="#Jaspers, Karl">Jaspers, Karl</rs> Man in the Modern Age
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_62" n="N009"/><rs type="person" ref="#Kroner, Richard">Kroner, Richard</rs> Culture and Faith
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_69" n="N010"/><rs type="person" ref="#Niebuhr, Richard H.">Niebuhr, H. Richard</rs> *Christ and Culture
                <lb facs="#facs_1_l_76" n="N011"/>The Meaning of Revelation
-               <lb facs="#facs_1_l_83" n="N012"/><rs type="person" key="Otto, Rudolf">Otto, Rudolf</rs>--The Idea of the Holy
-               <lb facs="#facs_1_l_90" n="N013"/><rs type="person" key="Randall, John H.">Randall, John H.</rs>--The Making of the Modern Mind
-               <lb facs="#facs_1_l_97" n="N014"/><rs type="person" key="Schleiermacher, Friedrich">Schleiermacher, F.</rs>--*On Religion
-               <lb facs="#facs_1_l_104" n="N015"/><rs type="person" key="Tillich, Paul">Tillich, Paul</rs>--The Protestant Era
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_83" n="N012"/><rs type="person" ref="#Otto, Rudolf">Otto, Rudolf</rs> The Idea of the Holy
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_90" n="N013"/><rs type="person" ref="#Randall, John H.">Randall, John H.</rs> The Making of the Modern Mind
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_97" n="N014"/><rs type="person" ref="#Schleiermacher, Friedrich">Schleiermacher, F.</rs> *On Religion
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_104" n="N015"/><rs type="person" ref="#Tillich, Paul">Tillich, Paul</rs> The Protestant Era
                <lb facs="#facs_1_l_111" n="N016"/>The Religious Situation
                <lb facs="#facs_1_l_118" n="N017"/>*Theology of Culture
+             </p>
+             <p rend="heading">
                <lb facs="#facs_1_l_125" n="N018"/><hi style="text-decoration: underline;"><rs type="keyword" ref="#Religion">Religion</rs> and <rs type="keyword" ref="#Language">Language</rs></hi>
-               <lb facs="#facs_1_l_132" n="N019"/><rs type="person" key="Buber, Martin">Buber, Martin</rs>--Between Man and Man
-               <lb facs="#facs_1_l_139" n="N020"/><rs type="person" key="Bultmann, Rudolf">Bultmann, Rudolf</rs>--*Kerygma and Myth (The opening essay by <rs type="person" key="Bultmann, Rudolf">Bultmann</rs>)
-               <lb facs="#facs_1_l_146" n="N021"/><rs type="person" key="Cassirer, Ernst">Cassirer, Ernst-</rs>-Language and Myth
-               <lb facs="#facs_1_l_153" n="N022"/><rs type="person" key="Flew, A.">Flew, A.</rs> and <rs type="person" key="MacIntyre, ">MacIntyre</rs>--*New Essays in Philosophical Theology (Ch. I, VI, VII)
-               <lb facs="#facs_1_l_160" n="N023"/><rs type="person" key="Tillich, Paul">Tillich, Paul</rs>--*Dynamics of Faith
-               <lb facs="#facs_1_l_167" n="N024"/><rs type="person" key="Urban, Wilbur M.">Urban, Wilbur M.</rs>--Language and Reality
-               <lb facs="#facs_1_l_174" n="N025"/><hi style="text-decoration: underline;"><rs type="keyword" ref="#Religion">Religion</rs> and <rs type="keyword" ref="#Science">Science</rs></hi>
-               <lb facs="#facs_1_l_181" n="N026"/><rs type="person" key="Burtt, E.A.">Burtt, E. A.</rs>--The Metaphysical Foundations of Modern Science
-               <lb facs="#facs_1_l_188" n="N027"/><rs type="person" key="Fromm, E.">Fromm, E.</rs>--Psychoanalysis and Religion
-               <lb facs="#facs_1_l_195" n="N028"/><rs type="person" key="Heim, Karl">Heim, Karl</rs>--*Christian Faith and Natural Science
-               <lb facs="#facs_1_l_202" n="N029"/><rs type="person" key="May, Rollo">May, Rollo</rs>--*Man's Search for Himself
-               <lb facs="#facs_1_l_209" n="N030"/><rs type="person" key="Outler, Albert">Outler, Albert</rs>--Psychotherapy and the Christian Message
-               <lb facs="#facs_1_l_216" n="N031"/><rs type="person" key="Roberts, David E.">Roberts, David E.</rs>--*Psychotherapy and the Christian View of Man
-               <lb facs="#facs_1_l_223" n="N032"/><rs type="person" key="Sartre, Jean Paul">Sartre, Jean Paul</rs>--Existential Psychoanalysis
-               <lb facs="#facs_1_l_230" n="N033"/><rs type="person" key="Stern, Karl">Stern, Karl</rs>--The Third Revolution
-               <lb facs="#facs_1_l_237" n="N034"/><rs type="person" key="Tillich, Paul">Tillich, Paul</rs>--The Courage to Be
+             </p>
+               <lb facs="#facs_1_l_132" n="N019"/><rs type="person" ref="#Buber, Martin">Buber, Martin</rs> Between Man and Man
+               <lb facs="#facs_1_l_139" n="N020"/><rs type="person" ref="#Bultmann, Rudolf">Bultmann, Rudolf</rs> *Kerygma and Myth (The opening essay by <rs type="person" ref="#Bultmann, Rudolf">Bultmann</rs>)
+               <lb facs="#facs_1_l_146" n="N021"/><rs type="person" ref="#Cassirer, Ernst">Cassirer, Ernst</rs> Language and Myth
+               <lb facs="#facs_1_l_153" n="N022"/><rs type="person" ref="#Flew, A.">Flew, A.</rs> and <rs type="person" ref="#MacIntyre, ">MacIntyre</rs> *New Essays in Philosophical Theology (Ch. I, VI, VII)
+               <lb facs="#facs_1_l_160" n="N023"/><rs type="person" ref="#Tillich, Paul">Tillich, Paul</rs> *Dynamics of Faith
+               <lb facs="#facs_1_l_167" n="N024"/><rs type="person" ref="#Urban, Wilbur M.">Urban, Wilbur M.</rs> Language and Reality
+             <p rend="heading">
+                 <lb facs="#facs_1_l_174" n="N025"/><hi style="text-decoration: underline;"><rs type="keyword" ref="#Religion">Religion</rs> and <rs type="keyword" ref="#Science">Science</rs></hi>
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_181" n="N026"/><rs type="person" ref="#Burtt, E.A.">Burtt, E. A.</rs> The Metaphysical Foundations of Modern Science
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_188" n="N027"/><rs type="person" ref="#Fromm, E.">Fromm, E.</rs> Psychoanalysis and Religion
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_195" n="N028"/><rs type="person" ref="#Heim, Karl">Heim, Karl</rs> *Christian Faith and Natural Science
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_202" n="N029"/><rs type="person" ref="#May, Rollo">May, Rollo</rs> *Man's Search for Himself
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_209" n="N030"/><rs type="person" ref="#Outler, Albert">Outler, Albert</rs> Psychotherapy and the Christian Message
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_216" n="N031"/><rs type="person" ref="#Roberts, David E.">Roberts, David E.</rs> *Psychotherapy and the Christian View of Man
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_223" n="N032"/><rs type="person" ref="#Sartre, Jean Paul">Sartre, Jean Paul</rs> Existential Psychoanalysis
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_230" n="N033"/><rs type="person" ref="#Stern, Karl">Stern, Karl</rs> The Third Revolution
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_237" n="N034"/><rs type="person" ref="#Tillich, Paul">Tillich, Paul</rs> The Courage to Be
                <lb facs="#facs_1_l_244" n="N035"/>Love, Power and Justice
+             </p>
+             <p rend="heading">
                <lb facs="#facs_1_l_251" n="N036"/><hi style="text-decoration: underline;"><rs type="keyword" ref="#Religion">Religion</rs> and <rs type="keyword" ref="#Arts">the Arts</rs></hi>
-               <lb facs="#facs_1_l_258" n="N037"/><rs type="person" key="Ferguson, Francis">Fergusson, Francis</rs>--The Idea of a Theatre
-               <lb facs="#facs_1_l_265" n="N038"/><rs type="person" key="Goddard, Harold">Goddard, Harold</rs>--The Meaning of Shakespeare
-               <lb facs="#facs_1_l_272" n="N039"/><rs type="person" key="Maritain, Jacques">Maritain, Jacques</rs>--Creative Intuition in Art and Poetry
-               <lb facs="#facs_1_l_279" n="N040"/><rs type="person" key="Michalson, Carl">Michalson, Carl</rs>--Christianity and the Existentialists
-               <lb facs="#facs_1_l_286" n="N041"/><rs type="person" key="Ortega y Gasset, ">Ortega y Gasset</rs>--*The Dehumanization of Art
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_258" n="N037"/><rs type="person" ref="#Ferguson, Francis">Fergusson, Francis</rs> The Idea of a Theatre
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_265" n="N038"/><rs type="person" ref="#Goddard, Harold">Goddard, Harold</rs> The Meaning of Shakespeare
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_272" n="N039"/><rs type="person" ref="#Maritain, Jacques">Maritain, Jacques</rs> Creative Intuition in Art and Poetry
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_279" n="N040"/><rs type="person" ref="#Michalson, Carl">Michalson, Carl</rs> Christianity and the Existentialists
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_286" n="N041"/><rs type="person" ref="#Ortega y Gasset, ">Ortega y Gasset</rs> *The Dehumanization of Art
             </p>
          </div>
       </body>

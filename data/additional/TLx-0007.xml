@@ -159,100 +159,230 @@
       <body>
          <div>
             <pb facs="#facs_1" n="TLx-0007_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=IAKIRAJXIEVUPADJPKTAAUSH"/>
-            <p facs="#facs_1_tr_1">
-               <lb facs="#facs_1_tr_1_tl_2" n="N001"/><date when="7 January 1960">JAN--7 1960</date>
-               <lb facs="#facs_1_tr_1_tl_3" n="N002"/><rs type="keyword" ref="#Religion">RELIGION</rs> AND <rs type="keyword" ref="#Society">SOCIETY</rs>
-               <lb facs="#facs_1_tr_1_tl_4" n="N003"/><rs type="keyword" ref="#Humanities">Humanities</rs> 127b (<rs type="keyword" ref="#Theology">Theology</rs> 185b)
-               <lb facs="#facs_1_tr_1_tl_5" n="N004"/><rs type="person" key="Tillich, Paul">Professor Paul Tillich</rs>
-               <lb facs="#facs_1_tr_1_tl_6" n="N005"/>Tues. and Thurs., 11-12, (Sat.)
-               <lb facs="#facs_1_tr_1_tl_7" n="N006"/>Assistant--<rs type="person" key="Kimball, Robert">Mr. Robert Kimball</rs>
-               <lb facs="#facs_1_tr_1_tl_8" n="N007"/>Office hours by appointment. Phone Secretary, <rs type="person" key="Leonard, Grace">Mrs. G. Leonard</rs>, UN. 8-7600, Ext. 769
-               <lb facs="#facs_1_tr_1_tl_9" n="N008"/>The assignments for this semester are:
-               <lb facs="#facs_1_tr_1_tl_10" n="N009"/>a) 2000 pages of reading which include the starred selections below. (A bibli-
-               <lb facs="#facs_1_tr_1_tl_11" n="N010"/>ography of all reading done for the course should be turned in with the
-               <lb facs="#facs_1_tr_1_tl_12" n="N011"/>final examination. The books selected by the student should be annotated.)
-               <lb facs="#facs_1_tr_1_tl_13" n="N012"/>b) A final examination dealing with the lectures and the starred selections in
-               <lb facs="#facs_1_tr_1_tl_14" n="N013"/>the bibliography.
+            <p facs="#facs_1_tr_1" style="text-align: right;">
+               <lb facs="#facs_1_tr_1_tl_2" n="N001"/><date when="1960-01-07">JAN-7 1960</date>
             </p>
-            <p facs="#facs_1_r_41">
+             <p rend="heading" style="text-align: center;">
+               <lb facs="#facs_1_tr_1_tl_3" n="N002"/><rs type="keyword" ref="#Religion">RELIGION</rs> AND <rs type="keyword" ref="#Society">SOCIETY</rs>
+             </p>
+             <p rend="without-space" style="text-align: center;">
+               <lb facs="#facs_1_tr_1_tl_4" n="N003"/><rs type="keyword" ref="#Humanities">Humanities</rs> 127b (<rs type="keyword" ref="#Theology">Theology</rs> 185b)
+             </p>
+             <p rend="without-space-after">
+               <lb facs="#facs_1_tr_1_tl_5" n="N004"/><rs type="person" ref="#Tillich, Paul">Professor Paul Tillich</rs>
+               <lb facs="#facs_1_tr_1_tl_6" n="N005"/>Tues. and Thurs., 11-12, (Sat.)
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_tr_1_tl_7" n="N006"/>Assistant - <rs type="person" ref="#Kimball, Robert">Mr. Robert Kimball</rs>
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_tr_1_tl_8" n="N007"/>Office hours by appointment. Phone Secretary, <rs type="person" ref="#Leonard, Grace">Mrs. G. Leonard</rs>, UN. 8-7600, Ext. 769
+             </p>
+             <p>
+               <lb facs="#facs_1_tr_1_tl_9" n="N008"/>The assignments for this semester are:
+             </p>
+             <list type="index" rend="none">
+               <item><lb facs="#facs_1_tr_1_tl_10" n="N009"/>a) 2000 pages of reading which include the starred selections below. (A bibli-
+               <lb facs="#facs_1_tr_1_tl_11" n="N010"/>ography of all reading done for the course should be turned in with the
+               <lb facs="#facs_1_tr_1_tl_12" n="N011"/>final examination. The books selected by the student should be annotated.)</item>
+               <item><lb facs="#facs_1_tr_1_tl_13" n="N012"/>b) A final examination dealing with the lectures and the starred selections in
+               <lb facs="#facs_1_tr_1_tl_14" n="N013"/>the bibliography.</item>
+             </list>
+            <p facs="#facs_1_r_41" rend="heading" style="text-align: center;">
                <lb facs="#facs_1_l_323" n="N001"/>BIBLIOGRAPHY
-               <lb facs="#facs_1_l_57" n="N002"/><rs type="person" key="Barth, Karl">Barth, Karl-</rs>-Against the Stream
-               <lb facs="#facs_1_l_64" n="N003"/><rs type="person" key="Bennett, John">Bennett, John</rs>--Christian Ethics and Social Policy
+            </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_57" n="N002"/><rs type="person" ref="#Barth, Karl">Barth, Karl</rs> Against the Stream
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_64" n="N003"/><rs type="person" ref="#Bennett, John">Bennett, John</rs> Christian Ethics and Social Policy
                <lb facs="#facs_1_l_71" n="N004"/>Christianity and Communism
-               <lb facs="#facs_1_l_78" n="N005"/><rs type="person" key="Bonhoeffer, D.">Bonhoeffer D.</rs>--Ethics
-               <lb facs="#facs_1_l_85" n="N006"/><rs type="person" key="Buber, Martin">Buber, Martin</rs>--*Between Man and Man (Parts, I, III, IV)
-               <lb facs="#facs_1_l_92" n="N007"/><rs type="person" key="Brunner, Emil">Brunner, Emil</rs>--*Christianity and Civilization (Vol. I &amp; II)
-               <lb facs="#facs_1_l_99" n="N008"/><rs type="person" key="Cole, W.G.">Cole, W. G.</rs>--Sex in Christianity and Psychoanalysis
-               <lb facs="#facs_1_l_106" n="N009"/><rs type="person" key="Fromm, Erich">Fromm, Erich</rs>--*Man for Himself
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_78" n="N005"/><rs type="person" ref="#Bonhoeffer, D.">Bonhoeffer D.</rs> Ethics
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_85" n="N006"/><rs type="person" ref="#Buber, Martin">Buber, Martin</rs> *Between Man and Man (Parts, I, III, IV)
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_92" n="N007"/><rs type="person" ref="#Brunner, Emil">Brunner, Emil</rs> *Christianity and Civilization (Vol. I &amp; II)
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_99" n="N008"/><rs type="person" ref="#Cole, W.G.">Cole, W. G.</rs> Sex in Christianity and Psychoanalysis
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_106" n="N009"/><rs type="person" ref="#Fromm, Erich">Fromm, Erich</rs> *Man for Himself
                <lb facs="#facs_1_l_113" n="N010"/>Escape from Freedom
-               <lb facs="#facs_1_l_120" n="N011"/><rs type="person" key="Jaspers, Karl">Jaspers, Karl</rs>--The Idea of the University
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_120" n="N011"/><rs type="person" ref="#Jaspers, Karl">Jaspers, Karl</rs> The Idea of the University
                <lb facs="#facs_1_l_127" n="N012"/>Man in the Modern Age
-               <lb facs="#facs_1_l_134" n="N013"/><rs type="person" key="Kegley, C.W.">Kegley, C. W.</rs> and
-               <lb facs="#facs_1_l_141" n="N014"/><rs type="person" key="Bretall, R.W.">Bretall, R. W.</rs>--*The Theology of Paul Tillich (Chs. 1, 2, 3, 13, 14)
-               <lb facs="#facs_1_l_148" n="N015"/><rs type="person" key="Kroner, Richard">Kroner, Richard</rs>--Culture and Faith
-               <lb facs="#facs_1_l_155" n="N016"/><rs type="person" key="May, Rollo">May, Rollo</rs>--Man's Search for Himself
-               <lb facs="#facs_1_l_162" n="N017"/><rs type="person" key="Miller, Alexander">Miller, Alexander</rs>--*The Christian Significance of Karl Marx
-               <lb facs="#facs_1_l_169" n="N018"/><rs type="person" key="Moberly, W.H.">Moberly, W. H.</rs>--Crisis in the University
-               <lb facs="#facs_1_l_176" n="N019"/><rs type="person" key="Niebuhr, Reinhold">Niebuhr, Reinhold</rs>--*Christian Realism and Political Problems
-               <lb facs="#facs_1_l_183" n="N020"/><rs type="person" key="Ortega y Gasset, ">Ortega y Gasset</rs>--The Revolt of the Masses
-               <lb facs="#facs_1_l_190" n="N021"/><rs type="person" key="Randall, John H.">Randall, John H.</rs>--The Making of the Modern Mind
-               <lb facs="#facs_1_l_197" n="N022"/><rs type="person" key="Riesman, David">Riesman, David</rs>--The Lonely Crowd
-               <lb facs="#facs_1_l_204" n="N023"/><rs type="person" key="Sherill, Lewis">Sherill, Lewis</rs>--The Struggle of the Soul
-               <lb facs="#facs_1_l_211" n="N024"/><rs type="person" key="Tawney, R.H.">Tawney, R. H.</rs>--Christianity and the Rise of Capitalism
-               <lb facs="#facs_1_l_222" n="N025"/><rs type="person" key="Tillich, Paul">Tillich, Paul</rs>--*The Protestant Era (Chs. II, IV, IX, XIII thru XVIII)
+             </p>
+             <p>
+               <lb facs="#facs_1_l_134" n="N013"/><rs type="person" ref="#Kegley, C.W.">Kegley, C. W.</rs> and
+               <lb facs="#facs_1_l_141" n="N014"/><rs type="person" ref="#Bretall, R.W.">Bretall, R. W.</rs> *The Theology of Paul Tillich (Chs. 1, 2, 3, 13, 14)
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_148" n="N015"/><rs type="person" ref="#Kroner, Richard">Kroner, Richard</rs> Culture and Faith
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_155" n="N016"/><rs type="person" ref="#May, Rollo">May, Rollo</rs> Man's Search for Himself
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_162" n="N017"/><rs type="person" ref="#Miller, Alexander">Miller, Alexander</rs> *The Christian Significance of Karl Marx
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_169" n="N018"/><rs type="person" ref="#Moberly, W.H.">Moberly, W. H.</rs> Crisis in the University
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_176" n="N019"/><rs type="person" ref="#Niebuhr, Reinhold">Niebuhr, Reinhold</rs> *Christian Realism and Political Problems
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_183" n="N020"/><rs type="person" ref="#Ortega y Gasset, ">Ortega y Gasset</rs> The Revolt of the Masses
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_190" n="N021"/><rs type="person" ref="#Randall, John H.">Randall, John H.</rs> The Making of the Modern Mind
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_197" n="N022"/><rs type="person" ref="#Riesman, David">Riesman, David</rs> The Lonely Crowd
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_204" n="N023"/><rs type="person" ref="#Sherill, Lewis">Sherill, Lewis</rs> The Struggle of the Soul
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_211" n="N024"/><rs type="person" ref="#Tawney, R.H.">Tawney, R. H.</rs> Christianity and the Rise of Capitalism
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_222" n="N025"/><rs type="person" ref="#Tillich, Paul">Tillich, Paul</rs> *The Protestant Era (Chs. II, IV, IX, XIII thru XVIII)
                <lb facs="#facs_1_l_239" n="N026"/>*Theology of Culture
-               <lb facs="#facs_1_l_246" n="N027"/><rs type="person" key="Tolstoy, Leo">Tolstoy, Leo</rs>--The Law of Love and the Law of Violence
-               <lb facs="#facs_1_l_253" n="N028"/><rs type="person" key="Toynbee, Arnold J.">Toynbee, Arnold J.</rs>--An Historian's Approach to Religion
-               <lb facs="#facs_1_l_260" n="N029"/><rs type="person" key="Troeltsch, Ernst">Troeltsch, Ernst</rs>--*Christian Thought
-               <lb facs="#facs_1_l_277" n="N030"/><rs type="person" key="Ulich, Robert">Ulich, Robert</rs>--The Meaning of Education
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_246" n="N027"/><rs type="person" ref="#Tolstoy, Leo">Tolstoy, Leo</rs> The Law of Love and the Law of Violence
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_253" n="N028"/><rs type="person" ref="#Toynbee, Arnold J.">Toynbee, Arnold J.</rs> An Historian's Approach to Religion
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_260" n="N029"/><rs type="person" ref="#Troeltsch, Ernst">Troeltsch, Ernst</rs> *Christian Thought
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_277" n="N030"/><rs type="person" ref="#Ulich, Robert">Ulich, Robert</rs> The Meaning of Education
+             </p>
+             <p rend="without-space-after">
                <lb facs="#facs_1_l_284" n="N031"/>Harvard University
-               <lb facs="#facs_1_l_291" n="N032"/>Spring semester--1959-60
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_1_l_291" n="N032"/>Spring semester 1959-60
             </p>
             <pb facs="#facs_2" n="TLx-0007_p002.jpg" xml:id="img_0002" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=KKUJWZMXEVHYJCZDZFXKHWIG"/>
-            <p facs="#facs_2_tr_1">
+            <p facs="#facs_2_tr_1" rend="without-space">
                <lb facs="#facs_2_tr_1_tl_1" n="N001"/><rs type="keyword" ref="#Humanities">Humanities</rs> 127b (<rs type="keyword" ref="#Theology">Theol.</rs> 185b)
-               <lb facs="#facs_2_tr_1_tl_2" n="N002"/>Semester II, 1957-58
-               <lb facs="#facs_2_tr_1_tl_3" n="N003"/>''<rs type="keyword" ref="#Religion">Religion</rs> and <rs type="keyword" ref="#Society">Society</rs>''
-               <lb facs="#facs_2_tr_1_tl_4" n="N004"/>Tues., Thurs. 11-12 (Sat.)
-               <lb facs="#facs_2_tr_1_tl_5" n="N005"/>The assignments for this semester are:
-               <lb facs="#facs_2_tr_1_tl_6" n="N006"/>a) 1600 pages of reading which include the starred selections below. (A bibli-
-               <lb facs="#facs_2_tr_1_tl_7" n="N007"/>ography of all reading done for the course should be turned in with the
-               <lb facs="#facs_2_tr_1_tl_8" n="N008"/>final examination. The books selected by the student should be annotated.)
-               <lb facs="#facs_2_tr_1_tl_9" n="N009"/>b) A final examination dealing with the lectures and the starred selections in
-               <lb facs="#facs_2_tr_1_tl_10" n="N010"/>the bibliography.
             </p>
-            <p facs="#facs_2_r_48">
+             <p rend="without-space">
+               <lb facs="#facs_2_tr_1_tl_3" n="N003"/>"<rs type="keyword" ref="#Religion">Religion</rs> and <rs type="keyword" ref="#Society">Society</rs>"
+             </p>
+             <p rend="without-space" style="text-align: right;">
+                 <lb facs="#facs_2_tr_1_tl_2" n="N002"/>Semester II, 1957-58
+             </p>
+             <p rend="without-space" style="text-align: right;">
+               <lb facs="#facs_2_tr_1_tl_4" n="N004"/>Tues., Thurs. 11-12 (Sat.)
+             </p>
+             <p rend="without-space-after">
+               <lb facs="#facs_2_tr_1_tl_5" n="N005"/>The assignments for this semester are:
+             </p>
+             <list type="index" rend="none">
+               <item><lb facs="#facs_2_tr_1_tl_6" n="N006"/>a) 1600 pages of reading which include the starred selections below. (A bibli-
+               <lb facs="#facs_2_tr_1_tl_7" n="N007"/>ography of all reading done for the course should be turned in with the
+               <lb facs="#facs_2_tr_1_tl_8" n="N008"/>final examination. The books selected by the student should be annotated.)</item>
+               <item><lb facs="#facs_2_tr_1_tl_9" n="N009"/>b) A final examination dealing with the lectures and the starred selections in
+               <lb facs="#facs_2_tr_1_tl_10" n="N010"/>the bibliography.</item>
+            </list>
+            <p facs="#facs_2_r_48" rend="heading" style="text-align: center;">
                <lb facs="#facs_2_l" n="N001"/>BIBLIOGRAPHY
-               <lb facs="#facs_2_l_61" n="N002"/><rs type="person" key="Barth, Karl">Barth, Karl</rs>--Against the Stream
-               <lb facs="#facs_2_l_68" n="N003"/><rs type="person" key="Bennett, John">Bennett, John</rs>--Christian Ethics and Social Policy
+            </p>
+             <p rend="without-space-after">
+               <lb facs="#facs_2_l_61" n="N002"/><rs type="person" ref="#Barth, Karl">Barth, Karl</rs> Against the Stream
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_68" n="N003"/><rs type="person" ref="#Bennett, John">Bennett, John</rs> Christian Ethics and Social Policy
                <lb facs="#facs_2_l_76" n="N004"/>Christianity and Communism
-               <lb facs="#facs_2_l_83" n="N005"/><rs type="person" key="Bonhoeffer, D.">Bonhoeffer D.</rs>--Ethics
-               <lb facs="#facs_2_l_90" n="N006"/><rs type="person" key="Buber, Martin">Buber, Martin</rs>--*Between Man and Man (Parts, I, III, IV)
-               <lb facs="#facs_2_l_97" n="N007"/><rs type="person" key="Brunner, Emil">Brunner, E.</rs>--*Christianity and Civilization (Vol. I &amp; II)
-               <lb facs="#facs_2_l_104" n="N008"/><rs type="person" key="Cole, W.G.">Cole, W. G.</rs>--Sex in Christianity and Psychoanalysis
-               <lb facs="#facs_2_l_111" n="N009"/><rs type="person" key="Fromm, Erich">Fromm, Erich</rs>--*Man for Himself
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_83" n="N005"/><rs type="person" ref="#Bonhoeffer, D.">Bonhoeffer D.</rs> Ethics
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_90" n="N006"/><rs type="person" ref="#Buber, Martin">Buber, Martin</rs> *Between Man and Man (Parts, I, III, IV)
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_97" n="N007"/><rs type="person" ref="#Brunner, Emil">Brunner, E.</rs> *Christianity and Civilization (Vol. I &amp; II)
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_104" n="N008"/><rs type="person" ref="#Cole, W.G.">Cole, W. G.</rs> Sex in Christianity and Psychoanalysis
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_111" n="N009"/><rs type="person" ref="#Fromm, Erich">Fromm, Erich</rs> *Man for Himself
                <lb facs="#facs_2_l_118" n="N010"/>Escape from Freedom
-               <lb facs="#facs_2_l_125" n="N011"/><rs type="person" key="Jaspers, Karl">Jaspers, K.</rs>--The Idea of the University
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_125" n="N011"/><rs type="person" ref="#Jaspers, Karl">Jaspers, K.</rs> The Idea of the University
                <lb facs="#facs_2_l_132" n="N012"/>Man in the Modern Age
-               <lb facs="#facs_2_l_139" n="N013"/><rs type="person" key="Kegley, C.W.">Kegley, C. W.</rs> and
-               <lb facs="#facs_2_l_146" n="N014"/><rs type="person" key="Bretall, R.W.">Bretall, R. W.</rs>--*The Theology of Paul Tillich (Chs. 1, 2, 3, 13, 14)
-               <lb facs="#facs_2_l_165" n="N015"/><rs type="person" key="Kroner, Richard">Kroner, Richard</rs>--Culture and Faith
-               <lb facs="#facs_2_l_172" n="N016"/><rs type="person" key="May, Rollo">May, Rollo</rs>--Man's Search for Himself
-               <lb facs="#facs_2_l_179" n="N017"/><rs type="person" key="Miller, Alexander">Miller, Alexander</rs>--*The Christian Significance of Karl Marx
-               <lb facs="#facs_2_l_186" n="N018"/><rs type="person" key="Moberly, W.H.">Moberly, W. H.</rs>--Crisis in the University
-               <lb facs="#facs_2_l_193" n="N019"/><rs type="person" key="Niebuhr, Reinhold">Niebuhr, Reinhold</rs>--*Christian Realism and Political Problems
-               <lb facs="#facs_2_l_200" n="N020"/><rs type="person" key="Ortega y Gasset, ">Ortega y Gasset</rs>--The Revolt of the Masses
-               <lb facs="#facs_2_l_207" n="N021"/><rs type="person" key="Randall, John H.">Randall, John H.</rs>--The Making of the Modern Mind
-               <lb facs="#facs_2_l_214" n="N022"/><rs type="person" key="Riesman, David">Riesman, David</rs>--The Lonely Crowd
-               <lb facs="#facs_2_l_221" n="N023"/><rs type="person" key="Sherill, Lewis">Sherill, Lewis</rs>--The Struggle of the Soul
-               <lb facs="#facs_2_l_228" n="N024"/><rs type="person" key="Tawney, R.H.">Tawney, R. H.</rs>--Christianity and the Rise of Capitalism
-               <lb facs="#facs_2_l_235" n="N025"/><rs type="person" key="Tillich, Paul">Tillich, Paul</rs>--*The Protestant Era (Chs. II, IV, IX, XIII thru XVIII)
-               <lb facs="#facs_2_l_242" n="N026"/><rs type="person" key="Tolstoy, L.">Tolstoy, L.</rs>--The Law of Love and the Law of Violence
-               <lb facs="#facs_2_l_249" n="N027"/><rs type="person" key="Toynbee, A.J.">Toynbee, A. J.</rs>--An Historian's Approach to Religion
-               <lb facs="#facs_2_l_256" n="N028"/><rs type="person" key="Troeltsch, Ernst">Troeltsch, Ernst</rs>--*Christian Thought
-               <lb facs="#facs_2_l_263" n="N029"/><rs type="person" key="Ulich, Robert">Ulich, Robert</rs>--The Meaning of Education
-               <lb facs="#facs_2_l_270" n="N030"/><rs type="person" key="Tillich, Paul">Prof. Paul Tillich</rs>, Semitic Museum, Room 13. Office hours by appointment.
-               <lb facs="#facs_2_l_277" n="N031"/><rs type="person" key="Kimball, Robert">Mr. Robert Kimball</rs>, Assistant to <rs type="person" key="Tillich, Paul">Dr. Tillich</rs>. Office hours in Semitic 13 on
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_139" n="N013"/><rs type="person" ref="#Kegley, C.W.">Kegley, C. W.</rs> and
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_146" n="N014"/><rs type="person" ref="#Bretall, R.W.">Bretall, R. W.</rs> *The Theology of Paul Tillich (Chs. 1, 2, 3, 13, 14)
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_165" n="N015"/><rs type="person" ref="#Kroner, Richard">Kroner, Richard</rs> Culture and Faith
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_172" n="N016"/><rs type="person" ref="#May, Rollo">May, Rollo</rs> Man's Search for Himself
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_179" n="N017"/><rs type="person" ref="#Miller, Alexander">Miller, Alexander</rs> *The Christian Significance of Karl Marx
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_186" n="N018"/><rs type="person" ref="#Moberly, W.H.">Moberly, W. H.</rs> Crisis in the University
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_193" n="N019"/><rs type="person" ref="#Niebuhr, Reinhold">Niebuhr, Reinhold</rs> *Christian Realism and Political Problems
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_200" n="N020"/><rs type="person" ref="#Ortega y Gasset, ">Ortega y Gasset</rs> The Revolt of the Masses
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_207" n="N021"/><rs type="person" ref="#Randall, John H.">Randall, John H.</rs> The Making of the Modern Mind
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_214" n="N022"/><rs type="person" ref="#Riesman, David">Riesman, David</rs> The Lonely Crowd
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_221" n="N023"/><rs type="person" ref="#Sherill, Lewis">Sherill, Lewis</rs> The Struggle of the Soul
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_228" n="N024"/><rs type="person" ref="#Tawney, R.H.">Tawney, R. H.</rs> Christianity and the Rise of Capitalism
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_235" n="N025"/><rs type="person" ref="#Tillich, Paul">Tillich, Paul</rs> *The Protestant Era (Chs. II, IV, IX, XIII thru XVIII)
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_242" n="N026"/><rs type="person" ref="#Tolstoy, L.">Tolstoy, L.</rs> The Law of Love and the Law of Violence
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_249" n="N027"/><rs type="person" ref="#Toynbee, A.J.">Toynbee, A. J.</rs> An Historian's Approach to Religion
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_256" n="N028"/><rs type="person" ref="#Troeltsch, Ernst">Troeltsch, Ernst</rs> *Christian Thought
+             </p>
+             <p rend="without-space">
+               <lb facs="#facs_2_l_263" n="N029"/><rs type="person" ref="#Ulich, Robert">Ulich, Robert</rs> The Meaning of Education
+             </p>
+             <p>
+               <lb facs="#facs_2_l_270" n="N030"/><rs type="person" ref="#Tillich, Paul">Prof. Paul Tillich</rs>, Semitic Museum, Room 13. Office hours by appointment.
+             </p>
+             <p>
+               <lb facs="#facs_2_l_277" n="N031"/><rs type="person" ref="#Kimball, Robert">Mr. Robert Kimball</rs>, Assistant to <rs type="person" ref="#Tillich, Paul">Dr. Tillich</rs>. Office hours in Semitic 13 on
                <lb facs="#facs_2_l_284" n="N032"/>Tuesdays and Thursdays from 1:00 to 2:45.
             </p>
          </div>
