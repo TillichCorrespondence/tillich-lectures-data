@@ -182,115 +182,266 @@
       <body>
          <div>
             <pb facs="#facs_1" n="TLx-0015_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=RXTLTCNFYZPQWAPLMSRZTLCI"/>
-            <p facs="#facs_1_r">
+            <p facs="#facs_1_r" rend="handwritten" style="text-align: center;">
                <lb facs="#facs_1_l" n="N001"/><hi style="text-decoration: underline;">Pictures. I</hi>
+            </p>
+             <p rend="handwritten">
                <lb facs="#facs_1_l_1" n="N002"/>1. Romanesk building
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
                <lb facs="#facs_1_l_2" n="N003"/>a] Outside (with heavy walls and low towers)
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
                <lb facs="#facs_1_l_3" n="N004"/>b] Inside (low, cave-like, inner splendor)
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_1_l_4" n="N005"/>2. Gothic building 
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
                <lb facs="#facs_1_l_5" n="N006"/>a] Outside (Reims, facade-West)
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
                <lb facs="#facs_1_l_6" n="N007"/>b] Inside (Saint Chapelle)
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_1_l_7" n="N008"/>3. <rs type="keyword" ref="#Renaissance">Renaissance</rs> building
-               <lb facs="#facs_1_l_8" n="N009"/>
-               <lb facs="#facs_1_l_9" n="N010"/>a] Outside (Palazzo Farnese, Spedale degli Innocenti <hi style="vertical-align: superscript;">Syedale Innocenti</hi>)
-               <lb facs="#facs_1_l_10" n="N011"/>b] Inside (<hi style="text-decoration: underline;">S. Spirito <hi style="vertical-align: superscript;">Spiritu</hi> Florence</hi>, <hi style="text-decoration: underline;">Capella Pazzi</hi>)
+             </p>
+             <p rend="handwritten" style="text-align: right">
+                 <hi style="vertical-align: superscript;">Syedale Innocenti</hi>
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
+               <lb facs="#facs_1_l_9" n="N010"/>a] Outside (Palazzo Farnese, Spedale degli Innocenti)
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
+                 <lb facs="#facs_1_l_10" n="N011"/>b] Inside (<hi style="text-decoration-line: underline; text-decoration-style: double">S. Spirito</hi> <add>Spiritu</add> <hi style="text-decoration-line: underline; text-decoration-style: double">Florence</hi>, <hi style="text-decoration-line: underline; text-decoration-style: double;">Capella Pazzi</hi>)
             </p>
             <pb facs="#facs_2" n="TLx-0015_p002.jpg" xml:id="img_0002" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=PYGHHYQFGZQNRIGKUOXUHBIZ"/>
-            <p facs="#facs_2_r">
+            <p facs="#facs_2_r" rend="handwritten" style="text-align: center;">
                <lb facs="#facs_2_l" n="N001"/><hi style="text-decoration: underline;">Pictures II.</hi>
-               <lb facs="#facs_2_l_1" n="N002"/><rs type="person" ref="#tillich_person_id__681">Giotto</rs> <hi style="text-decoration: underline;">emph. <rs type="person" ref="#tillich_person_id__681">Giotto</rs></hi><rs type="person" ref="#tillich_person_id__681"/>
+            </p>
+             <p rend="handwritten" style="text-align: right;">
+               <lb facs="#facs_2_l_1" n="N002"/><rs type="person" ref="#tillich_person_id__681">Giotto</rs> <hi style="text-decoration: underline;">emph. <rs type="person" ref="#tillich_person_id__681">Giotto</rs></hi>
+             </p>
+             <p rend="handwritten" style="text-align: right;">
                <lb facs="#facs_2_l_16" n="N003"/>book illustration
-               <lb facs="#facs_2_l_2" n="N004"/>1. If possible some<hi style="text-decoration: underline;"> Romanesk</hi> miniatures (I. Archaic)
+             </p>
+             <p rend="handwritten">
+               <lb facs="#facs_2_l_2" n="N004"/>1. If possible some <hi style="text-decoration: underline;">Romanesk</hi> miniatures (I. Archaic)
+             </p>
+             <p rend="handwritten" style="text-align: right;">
                <lb facs="#facs_2_l_17" n="N005"/>or typical Romanesque mural
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_2_l_3" n="N006"/>2. Scenes of the legend of <hi style="text-decoration: underline;">St. Francis</hi> (2013)
-               <lb facs="#facs_2_l_4" n="N007"/>3.     "     "     "     stories of the <hi style="text-decoration: underline;">gospels</hi> (2013)
+             </p>
+             <p rend="handwritten">
+               <lb facs="#facs_2_l_4" n="N007"/>3. " " " stories of the <hi style="text-decoration: underline;">gospels</hi> (2013)
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_2_l_5" n="N008"/>(mostly form Padua and St. Croce Florence)
-               <lb facs="#facs_2_l_6" n="N009"/><hi style="text-decoration: underline;">{for instance:</hi>}
-               <lb facs="#facs_2_l_7" n="N010"/>{Dream of Innocent III.}
-               <lb facs="#facs_2_l_8" n="N011"/>{Visitation of Elisabeth}
-               <lb facs="#facs_2_l_9" n="N012"/>{Baptism of Christ}
-               <lb facs="#facs_2_l_10" n="N013"/>{Appearance of St. Francis in Arles} 
-               <lb facs="#facs_2_l_11" n="N014"/>{The betrothal of Maria}
-               <lb facs="#facs_2_l_12" n="N015"/>{St. Francis preaching}
-               <lb facs="#facs_2_l_13" n="N016"/>{<rs type="person" ref="#tillich_person_id__3029">Simone Martini</rs>}
-               <lb facs="#facs_2_l_14" n="N017"/>4. One pictures [sic.] from <rs type="person" ref="#tillich_person_id__3029">Simone Martini</rs>
-               <lb facs="#facs_2_l_15" n="N018"/>(showing the Lyric style of Siena)
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
+               <lb facs="#facs_2_l_6" n="N009"/><del><hi style="text-decoration: underline;">for instance:</hi></del>
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
+               <lb facs="#facs_2_l_7" n="N010"/><del>Dream of Innocent III.</del>
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
+               <lb facs="#facs_2_l_8" n="N011"/><del>Visitation of Elisabeth</del>
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
+               <lb facs="#facs_2_l_9" n="N012"/><del>Baptism of Christ</del>
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
+               <lb facs="#facs_2_l_10" n="N013"/><del>Appearance of St. Francis in Arles</del>
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
+               <lb facs="#facs_2_l_11" n="N014"/><del>The betrothal of Maria</del>
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
+               <lb facs="#facs_2_l_12" n="N015"/><del>St. Francis preaching</del>
+             </p>
+             <p rend="handwritten">
+               <lb facs="#facs_2_l_13" n="N016"/>
+                 <lb facs="#facs_2_l_14" n="N017"/>4. One pictures [sic.] from <rs type="person" ref="#tillich_person_id__3029">Simone Martini</rs> <add>Simone Martini</add>
+             </p>
+             <p rend="handwritten" style="text-align: right;">
+               <lb facs="#facs_2_l_15" n="N018"/>(showing the Lyric style of Siena <add>Siena</add>)
             </p>
             <pb facs="#facs_3" n="TLx-0015_p003.jpg" xml:id="img_0003" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=GUETDCEWXMMBXOABLWGRBPTA"/>
-            <p facs="#facs_3_r">
-               <lb facs="#facs_3_l" n="N001"/><hi style="text-decoration: underline;">Pictures III.</hi> {Early Renaissance} 
+            <p facs="#facs_3_r" rend="handwritten" style="text-align: center;">
+               <lb facs="#facs_3_l" n="N001"/><hi style="text-decoration: underline;">Pictures III.</hi>
+                </p>
+             <p rend="handwritten" style="text-align: right;"><del>Early Renaissance</del>
+             </p>
+             <p rend="handwritten" style="text-align: center;">
                <lb facs="#facs_3_l_1" n="N002"/><hi style="text-decoration: underline;">Transition</hi>
-               <lb facs="#facs_3_l_2" n="N003"/>I. <rs type="person" ref="#tillich_person_id__3099">Masaccio</rs>
+             </p>
+             <p rend="handwritten">
+               <lb facs="#facs_3_l_2" n="N003"/>I. <rs type="person" ref="#tillich_person_id__3099">Masaccio</rs> <add>Masazzio</add>
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
                <lb facs="#facs_3_l_3" n="N004"/>[Virgin with St. Anne and child]
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
                <lb facs="#facs_3_l_4" n="N005"/>Adoration
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
                <lb facs="#facs_3_l_5" n="N006"/>Spending alms
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_3_l_6" n="N007"/>2. <rs type="person" ref="#tillich_person_id__3888">Fra Angelico</rs>
-               <lb facs="#facs_3_l_7" n="N008"/>Annunciatione, <hi style="text-decoration: underline;">St. Dominic</hi>
-               <lb facs="#facs_3_l_8" n="N009"/>Murals of St. Marco (San Dominico) {Fiesole}
+             </p>
+             <p rend="handwritten" style="text-align: right;"><hi style="text-decoration: underline;">St. Dominic</hi></p>
+             <p rend="handwritten" style="margin-left: 4em;">
+               <lb facs="#facs_3_l_7" n="N008"/>Annunciatione
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
+               <lb facs="#facs_3_l_8" n="N009"/>Murals of St. Marco <add place="below">San Dominico</add> <del>Fiesole</del>
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_3_l_9" n="N010"/>3. <rs type="person" ref="#tillich_person_id__3969">Gozzoli</rs>: Franciscus-legend (2013)
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_3_l_10" n="N011"/>4. <rs type="person" ref="#tillich_person_id__3970">Lippi</rs>: Annunciatione
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
                <lb facs="#facs_3_l_11" n="N012"/>Virgin with child
-               <lb facs="#facs_3_l_12" n="N013"/>different steps in [...]
+             </p>
+             <p rend="handwritten" style="text-align: right;">
+               <lb facs="#facs_3_l_12" n="N013"/>different steps in <unclear>...</unclear>
+             </p>
+             <p rend="handwritten" style="text-align: right;">
                <lb facs="#facs_3_l_13" n="N014"/>St. Francis
             </p>
             <pb facs="#facs_4" n="TLx-0015_p004.jpg" xml:id="img_0004" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=OJRWNXXAFGVPZEZNXMLJPPLU"/>
-            <p facs="#facs_4_r">
-               <lb facs="#facs_4_l" n="N001"/><hi style="text-decoration: underline;">Pictures IV. </hi>Early Quattrocento
+            <p facs="#facs_4_r" rend="handwritten" style="text-align: center;">
+               <lb facs="#facs_4_l" n="N001"/><hi style="text-decoration: underline;">Pictures IV. </hi> Early Quattrocento
+            </p>
+             <p rend="heading handwritten">
                <lb facs="#facs_4_l_1" n="N002"/><rs type="person" ref="#tillich_person_id__3098"><hi style="text-decoration: underline;">Piero della Francesca</hi></rs>
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_4_l_2" n="N003"/>1. <rs type="person" ref="#tillich_person_id__3098">Piero della Francesca</rs>
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
                <lb facs="#facs_4_l_3" n="N004"/>Montefeltro
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
                <lb facs="#facs_4_l_4" n="N005"/>Miracle of Cross
-               <lb facs="#facs_4_l_5" n="N006"/>Queen of Saba (Sheba)
-               <lb facs="#facs_4_l_6" n="N007"/>2. {<rs type="person" ref="#tillich_person_id__3972">Chirlandajo (Chirlandajo) Ghirlandaio</rs>}
-               <lb facs="#facs_4_l_7" n="N008"/>{Legend of St. Francis (or Gospels or OT - portraits)}
-               <lb facs="#facs_4_l_8" n="N009"/>{Paintings in St. Maria Novella (Florence)}
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
+               <lb facs="#facs_4_l_5" n="N006"/>Queen of Saba <add>Sheba</add>
+             </p>
+             <p rend="handwritten">
+                 <lb facs="#facs_4_l_6" n="N007"/><del>2. <rs type="person" ref="#tillich_person_id__3972">Chirlandajo (Chirlandajo)</rs> <add>Ghirlandaio</add></del>
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
+               <lb facs="#facs_4_l_7" n="N008"/><del>Legend of St. Francis (or Gospels or OT - portraits)</del>
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
+               <lb facs="#facs_4_l_8" n="N009"/><del>Paintings in St. Maria Novella (Florence)</del>
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_4_l_9" n="N010"/>3. <rs type="person" ref="#tillich_person_id__263">Botticelli</rs>
-               <lb facs="#facs_4_l_10" n="N011"/>2) Portraits (Guiliano Medici), Adoration of Magi 
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
+               <lb facs="#facs_4_l_10" n="N011"/>2) Portraits (Guiliano Medici) <add>Adoration of Magi</add>
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
                <lb facs="#facs_4_l_11" n="N012"/>[Madonna in round (Magnificat)]
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
                <lb facs="#facs_4_l_12" n="N013"/>Primavera
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
                <lb facs="#facs_4_l_13" n="N014"/><hi style="text-decoration: underline;">Primavera</hi>
             </p>
             <pb facs="#facs_5" n="TLx-0015_p005.jpg" xml:id="img_0005" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=HOKSBEDEXPGNKMSRZSFMCCOR"/>
-            <p facs="#facs_5_r">
-               <lb facs="#facs_5_l" n="N001"/><hi style="text-decoration: underline;">Pictures V. </hi>
+            <p facs="#facs_5_r" rend="handwritten" style="text-align: center;">
+               <lb facs="#facs_5_l" n="N001"/><hi style="text-decoration: underline;">Pictures V.</hi>
                <lb facs="#facs_5_l_1" n="N002"/>Late Quattrocento
+            </p>
+             <p rend="handwritten">
                <lb facs="#facs_5_l_2" n="N003"/>1. <rs type="person" ref="#tillich_person_id__3889">Perugino</rs>, Surrender of keys
-               <lb facs="#facs_5_l_20" n="N004"/>{Picture of a boy}
+             </p>
+             <p rend="handwritten" style="margin-left: 12em;">
+               <lb facs="#facs_5_l_20" n="N004"/><del>Picture of a boy</del>
+             </p>
+             <p rend="handwritten" style="margin-left: 12em;">
                <lb facs="#facs_5_l_3" n="N005"/>Christ on the Cross
+             </p>
+             <p rend="handwritten" style="margin-left: 16em;">
                <lb facs="#facs_5_l_4" n="N006"/>or similar material
-               <lb facs="#facs_5_l_5" n="N007"/>2. <rs type="person" ref="#tillich_person_id__3973">Pinturicchio</rs>, <rs type="person" ref="#tillich_person_id__3973"><hi style="text-decoration: underline;">Pinturicchio</hi></rs>
+             </p>
+             <p facs="#facs_5_r_1" rend="handwritten" style="text-align: right;">
+                <lb facs="#facs_5_l_14" n="N001"/>leave out
+                <lb facs="#facs_5_l_15" n="N002"/>one in
+                <lb facs="#facs_5_l_16" n="N003"/>each
+                <lb facs="#facs_5_l_17" n="N004"/>case
+                <lb facs="#facs_5_l_18" n="N005"/>when
+                <lb facs="#facs_5_l_19" n="N006"/>necessary
+             </p>
+             <p rend="handwritten">
+               <lb facs="#facs_5_l_5" n="N007"/>2. <rs type="person" ref="#tillich_person_id__3973">Pinturicchio</rs>, <add><hi style="text-decoration: underline;">Pinturicchio</hi></add>
+             </p>
+             <p rend="handwritten" style="margin-left: 12em;">
                <lb facs="#facs_5_l_6" n="N008"/>Legend of Bernhard
+             </p>
+             <p rend="handwritten" style="margin-left: 12em;">
                <lb facs="#facs_5_l_7" n="N009"/>Enea Silvio
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_5_l_8" n="N010"/>3. <rs type="person" ref="#tillich_person_id__3907">Carpaccio</rs>
-               <lb facs="#facs_5_l_9" n="N011"/>Cycle of St. Ursula (1012), St. Catherine
+             </p>
+             <p rend="handwritten" style="margin-left: 12em;">
+               <lb facs="#facs_5_l_9" n="N011"/>Cycle of St. Ursula (1012) <add>St. Catherine</add>
+             </p>
+             <p rend="handwritten" style="margin-left: 12em;">
                <lb facs="#facs_5_l_10" n="N012"/>StF
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_5_l_11" n="N013"/>4. <rs type="person" ref="#tillich_person_id__3027">Giovanni Bellini</rs>
+             </p>
+             <p rend="handwritten" style="margin-left: 12em;">
                <lb facs="#facs_5_l_12" n="N014"/>Madonna
+             </p>
+             <p rend="handwritten" style="margin-left: 12em;">
                <lb facs="#facs_5_l_13" n="N015"/><hi style="text-decoration: underline;">Crucification</hi> [sic.]
             </p>
-            <p facs="#facs_5_r_1">
-               <lb facs="#facs_5_l_14" n="N001"/>leave out
-               <lb facs="#facs_5_l_15" n="N002"/>one in
-               <lb facs="#facs_5_l_16" n="N003"/>each
-               <lb facs="#facs_5_l_17" n="N004"/>case
-               <lb facs="#facs_5_l_18" n="N005"/>when
-               <lb facs="#facs_5_l_19" n="N006"/>necessary
-            </p>
             <pb facs="#facs_6" n="TLx-0015_p006.jpg" xml:id="img_0006" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=IPQSMUKMUOKCJKQDILAFSNBN"/>
-            <p facs="#facs_6_r">
+            <p facs="#facs_6_r" rend="handwritten" style="text-align: center;">
                <lb facs="#facs_6_l" n="N001"/><hi style="text-decoration: underline;">Pictures VI.</hi>
-               <lb facs="#facs_6_l_1" n="N002"/>[...] Cinquecento
+               <lb facs="#facs_6_l_1" n="N002"/><del>.....</del> Cinquecento
+            </p>
+             <p rend="handwritten">
                <lb facs="#facs_6_l_2" n="N003"/>1. <rs type="person" ref="#tillich_person_id__1167">Leonardo</rs>
+             </p>
+             <p rend="handwritten" style="margin-left: 12em;">
                <lb facs="#facs_6_l_3" n="N004"/>Studies
+             </p>
+             <p rend="handwritten" style="text-align: right;">
                <lb facs="#facs_6_l_4" n="N005"/>John Baptist (hermaphrodite)
+             </p>
+             <p rend="handwritten" style="margin-left: 12em;">
                <lb facs="#facs_6_l_5" n="N006"/>Lord's Supper
+             </p>
+             <p rend="handwritten" style="margin-left: 12em;">
                <lb facs="#facs_6_l_6" n="N007"/>Mona Lisa
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_6_l_7" n="N008"/>2. <rs type="person" ref="#tillich_person_id__1550">Raffael</rs>
-               <lb facs="#facs_6_l_8" n="N009"/>Disputa [Disputa] Alba Madonnna Madonna of Chair
-               <lb facs="#facs_6_l_9" n="N010"/>
-               <lb facs="#facs_6_l_10" n="N011"/>
+             </p>
+             <p rend="handwritten" style="margin-left: 12em;">
+               <lb facs="#facs_6_l_8" n="N009"/>Disputa [Disputa] <add>Alba Madonnna Madonna of Chair</add>
+             </p>
+             <p rend="handwritten" style="margin-left: 12em;">
                <lb facs="#facs_6_l_11" n="N012"/>School of Athens
+             </p>
+             <p rend="handwritten" style="margin-left: 12em;">
                <lb facs="#facs_6_l_12" n="N013"/>Sixtina Madonna
+             </p>
+             <p rend="handwritten" style="margin-left: 12em;">
                <lb facs="#facs_6_l_13" n="N014"/>Portraits
             </p>
          </div>
