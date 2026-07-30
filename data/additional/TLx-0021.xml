@@ -94,36 +94,44 @@
       <body>
          <div>
             <pb facs="#facs_1" n="TLx-0021_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=LQQAAWPUHDHEVEAVEGXRFHVK"/>
-            <p facs="#facs_1_tr_1">
+            <p facs="#facs_1_tr_1" rend="heading handwritten" style="text-align: center;">
                <lb facs="#facs_1_tr_1_tl_1" n="N001"/><hi style="text-decoration: underline;">Examples of historical styles</hi>
+            </p>
+             <p rend="handwritten">
                <lb facs="#facs_1_tr_1_tl_2" n="N002"/>I. Primitives, Stilo metaphysico, {Impressionism}
                <lb facs="#facs_1_tr_1_tl_4" n="N003"/>Pagan gods.
-               <lb facs="#facs_1_tr_1_tl_5" n="N004"/>II. {Byzantine}, radical abstraction, <rs type="keyword" ref="#Cubism">Cubists</rs>,
+             </p>
+             <p rend="handwritten">
+               <lb facs="#facs_1_tr_1_tl_5" n="N004"/>II. <del>Byzantine</del>, radical abstraction, <rs type="keyword" ref="#Cubism">Cubists</rs>,
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_1_tr_1_tl_7" n="N005"/><rs type="person" ref="#tillich_person_id__3090">Goya</rs>, Callas,
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_1_tr_1_tl_8" n="N006"/>III. <rs type="person" ref="#tillich_person_id__3914">Daumier</rs>, <rs type="person" ref="#tillich_person_id__728">Grosz</rs>, <rs type="person" ref="#tillich_person_id__476">Dix</rs>, <rs type="person" ref="#tillich_person_id__172">Beckmann</rs>, <rs type="person" ref="#tillich_person_id__3915">Maserell</rs>?
                <lb facs="#facs_1_tr_1_tl_11" n="N007"/>Futurism? Late Gothic
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_1_tr_1_tl_13" n="N008"/>IV. <rs type="keyword" ref="#Ancient_Greece">Classical Greek</rs>, Renaissance, Rococco [sic.], Classicism.
                <lb facs="#facs_1_tr_1_tl_14" n="N009"/>Natural pantheism, <rs type="keyword" ref="#Impressionism">impressionism</rs>
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_1_l" n="N010"/>V. [Archaic Greeks?] <rs type="keyword" ref="#Expressionism">Expressionists</rs>, Romanesk, Barock,
-               <lb facs="#facs_1_l_1" n="N011"/><rs type="person" key=", Rembrandt">Rembrandt</rs>, {late Gothic}, Romanticism, Orphism
+               <lb facs="#facs_1_l_1" n="N011"/><rs type="person" key=", Rembrandt">Rembrandt</rs>, <del>late Gothic</del>, Romanticism, Orphism
                <lb facs="#facs_1_l_2" n="N012"/>Futurism.
             </p>
             <pb facs="#facs_2" n="TLx-0021_p002.jpg" xml:id="img_0002" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=GTSQRSAUYZSSCPNRVDXXXFIT"/>
-            <p facs="#facs_2_tr_2">
+            <p facs="#facs_2_tr_2" rend="handwritten">
                <lb facs="#facs_2_tr_2_tl_1" n="N001"/>ad I. The numinous element in primitives.
                <lb facs="#facs_2_tr_2_tl_2" n="N002"/>a primitive mask or magic tool.
                <lb facs="#facs_2_tr_2_tl_3" n="N003"/><rs type="person" ref="#tillich_person_id__3916">Lipschitz</rs>: Figure. <rs type="person" ref="#tillich_person_id__1495">Picasso</rs>: Three Musicians?
                <lb facs="#facs_2_tr_2_tl_4" n="N004"/><rs type="person" ref="#tillich_person_id__3095">Chirico</rs>: Nostalgia of the Infinite.
-               <lb facs="#facs_2_l" n="N005"/>
+            </p>
+             <p rend="handwritten">
                <lb facs="#facs_2_tr_2_tl_5" n="N006"/>ad. II. The element of abstaction in
-               <lb facs="#facs_2_l_4" n="N007"/>
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_2_l_1" n="N008"/>Grace Tel
-            </p>
-            <p facs="#facs_2_r_1">
-               <lb facs="#facs_2_l_3" n="N001"/>
-            </p>
-            <p facs="#facs_2_r">
-               <lb facs="#facs_2_l_2" n="N001"/>
             </p>
          </div>
       </body>

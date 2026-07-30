@@ -240,13 +240,19 @@
       <body>
          <div>
             <pb facs="#facs_1" n="TLx-0028_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=OULHAELYKMYUYOVJXIIERXSH"/>
-            <p facs="#facs_1_tr_1">
-               <lb facs="#facs_1_tr_1_tl_1" n="N001"/><hi style="text-decoration: underline;"><rs type="keyword" ref="#Arts">Art</rs> and the <rs type="keyword" ref="#Spiritual_life">Spiritual</rs> Situation</hi>
-               <lb facs="#facs_1_tr_1_tl_3" n="N002"/><hi style="text-decoration: underline;">I. <rs type="keyword" ref="#Arts">Art</rs> and the Spiritual situation {meaning any} generally</hi>
+            <p facs="#facs_1_tr_1" rend="heading handwritten" style="text-align: center;">
+               <lb facs="#facs_1_tr_1_tl_1" n="N001"/><hi style="text-decoration-line: underline; text-decoration-style: double;"><rs type="keyword" ref="#Arts">Art</rs> and the <rs type="keyword" ref="#Spiritual_life">Spiritual</rs> Situation</hi>
+            </p>
+            <p rend="heading handwritten" style="text-align: center;">
+               <lb facs="#facs_1_tr_1_tl_3" n="N002"/><hi style="text-decoration: underline;">I. <rs type="keyword" ref="#Arts">Art</rs> and the Spiritual situation <choice><orig>meaning any</orig><corr>generally</corr></choice></hi>
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_1_tr_1_tl_4" n="N003"/>1. It is the intention of the groups, united for exhibition
                <lb facs="#facs_1_tr_1_tl_5" n="N004"/>and lectures to speak above all of <hi style="text-decoration: underline;">our</hi> <rs type="keyword" ref="#Spiritual_life">Spiritual</rs> Situation.
                <lb facs="#facs_1_tr_1_tl_6" n="N005"/>But (not for academic reasons) it is necessary to deal with pro-
                <lb facs="#facs_1_tr_1_tl_7" n="N006"/>blem generally (development of the categories = organs of grasping).
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_1_tr_1_tl_8" n="N007"/>2. Every <rs type="keyword" ref="#Spiritual_life">spiritual</rs> function of man has three elements,
                <lb facs="#facs_1_tr_1_tl_10" n="N008"/>the material or subject matter it forms and transforms, the
                <lb facs="#facs_1_tr_1_tl_11" n="N009"/>form which makes it a <rs type="keyword" ref="#Science">scientific </rs>or <rs type="keyword" ref="#Arts">artistic</rs> or <rs type="keyword" ref="#Society">social</rs> or [...]
@@ -255,148 +261,216 @@
                <lb facs="#facs_1_tr_1_tl_14" n="N012"/>lated to both the subject matter and the spiritual form. It
             </p>
             <pb facs="#facs_2" n="TLx-0028_p002.jpg" xml:id="img_0002" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=YCQPQNYKDJYCBWQBAGZIYVFT"/>
-            <p facs="#facs_2_tr_1">
+            <p facs="#facs_2_tr_1" rend="handwritten" style="text-align: center;">
                <lb facs="#facs_2_l" n="N001"/><hi style="text-decoration: underline;">2</hi>
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_2_tr_1_tl_1" n="N002"/>gives the form an overall character which is conditioned
                <lb facs="#facs_2_tr_1_tl_2" n="N003"/>by non-formal forces. And it choses the subject-matters
                <lb facs="#facs_2_tr_1_tl_3" n="N004"/>of preference which are adequate to the style.
-               <lb facs="#facs_2_tr_1_tl_4" n="N005"/>3. The art of the barock gave to all<rs type="keyword" ref="#Arts"> artists </rs>of that pe-
-               <lb facs="#facs_2_tr_1_tl_5" n="N006"/>riod the style which can be described as dynamic, {rising}
-               <lb facs="#facs_2_tr_1_tl_7" n="N007"/>rising up {to a top} and falling down in the sense of the absolutistic style in
+            </p>
+            <p rend="handwritten">
+               <lb facs="#facs_2_tr_1_tl_4" n="N005"/>3. The art of the barock gave to all <rs type="keyword" ref="#Arts">artists</rs> of that pe-
+               <lb facs="#facs_2_tr_1_tl_5" n="N006"/>riod the style which can be described as dynamic, <del>rising</del>
+               <lb facs="#facs_2_tr_1_tl_7" n="N007"/>rising up <del>to a top</del> and falling down in the sense of the absolutistic style in
                <lb facs="#facs_2_tr_1_tl_9" n="N008"/>politics, transforming everything into movement showing
-               <lb facs="#facs_2_tr_1_tl_11" n="N009"/>the {un bloody} immanence of the divine in illusionism and of the <rs type="keyword" ref="#Demonic">demonic</rs>, in the  selfdestructive consequences of life, {th} combi-
+               <lb facs="#facs_2_tr_1_tl_11" n="N009"/>the <del>un bloody</del> immanence of the divine in illusionism and of the <rs type="keyword" ref="#Demonic">demonic</rs>, in the  selfdestructive consequences of life, <del>th</del> combi-
                <lb facs="#facs_2_tr_1_tl_13" n="N010"/>ning a wipped up <rs type="keyword" ref="#Religion">religious</rs> ecstacy with erotic and sadistic
-               <lb facs="#facs_2_tr_1_tl_15" n="N011"/><rs type="keyword" ref="#Symbol">symbols.</rs> (Example Santa Theresa by <rs type="person" ref="#tillich_person_id__4021">Bernini</rs> {in St. Ignatio} in Rome the martyrs of <rs type="person" ref="#tillich_person_id__4022">Ribera</rs>)
-               <lb facs="#facs_2_tr_1_tl_17" n="N012"/>Here we have great new formal discoveries <rs type="keyword" ref="#Realism">(realism)</rs>, a definite
+               <lb facs="#facs_2_tr_1_tl_15" n="N011"/><rs type="keyword" ref="#Symbol">symbols.</rs> (Example Santa Theresa by <rs type="person" ref="#tillich_person_id__4021">Bernini</rs> <del>in St. Ignatio</del> in Rome the martyrs of <rs type="person" ref="#tillich_person_id__4022">Ribera</rs>)
+               <lb facs="#facs_2_tr_1_tl_17" n="N012"/>Here we have great new formal discoveries (<rs type="keyword" ref="#Realism">realism</rs>), a definite
                <lb facs="#facs_2_tr_1_tl_18" n="N013"/>choice of subject matter and the style of the Counter-Reforma-
                <lb facs="#facs_2_tr_1_tl_19" n="N014"/>tion.
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_2_tr_1_tl_20" n="N015"/>4 The <rs type="keyword" ref="#Politics">politics </rs>of absolutism, represented by <rs type="person" ref="#tillich_person_id__4023">Richelie</rs>u.
                <lb facs="#facs_2_tr_1_tl_22" n="N016"/>The material: The French society of the 17 century. The form: the whole system of
             </p>
             <pb facs="#facs_3" n="TLx-0028_p003.jpg" xml:id="img_0003" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=MYAVWOJBAQFZAEVIMSSLJQWH"/>
-            <p facs="#facs_3_tr_1">
+            <p facs="#facs_3_tr_1" rend="handwritten" style="text-align: center;">
                <lb facs="#facs_3_l" n="N001"/><hi style="text-decoration: underline;">3</hi>
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_3_tr_1_tl_1" n="N002"/>governemental actions in the name of the king, the centralisation
                <lb facs="#facs_3_tr_1_tl_2" n="N003"/>over against the feodal division as the <hi style="text-decoration: underline;">style</hi>, including all methods
                <lb facs="#facs_3_tr_1_tl_3" n="N004"/>of Macchiavellism in destroying the opposition. (The devils of Lou-
                <lb facs="#facs_3_tr_1_tl_4" n="N005"/>dumm by <rs type="person" ref="#tillich_person_id__948">Huxley</rs>). This barock-<rs type="keyword" ref="#Politics">politics</rs> [The decisive step to democracy]
-               <lb facs="#facs_3_tr_1_tl_6" n="N006"/>5. The <rs type="keyword" ref="#Philosophy">philosophical </rs>systems {of} from <rs type="person" ref="#tillich_person_id__1384">Newton</rs> and <rs type="person" ref="#tillich_person_id__452">Descartes</rs> to <rs type="person" ref="#tillich_person_id__1832">Spinoza</rs>.
+            </p>
+            <p rend="handwritten">
+               <lb facs="#facs_3_tr_1_tl_6" n="N006"/>5. The <rs type="keyword" ref="#Philosophy">philosophical</rs> systems <del>of</del> from <rs type="person" ref="#tillich_person_id__1384">Newton</rs> and <rs type="person" ref="#tillich_person_id__452">Descartes</rs> to <rs type="person" ref="#tillich_person_id__1832">Spinoza</rs>.
                <lb facs="#facs_3_tr_1_tl_9" n="N007"/>Material: The natural universe as a unity in itself (without transcendence). The scientific
                <lb facs="#facs_3_tr_1_tl_11" n="N008"/><hi style="text-decoration: underline;">form</hi> of mathematics and mechanics. The absolutistic <hi style="text-decoration: underline;">style</hi>
                <lb facs="#facs_3_tr_1_tl_12" n="N009"/>of a universe which smashes the individual and faces his re-
                <lb facs="#facs_3_tr_1_tl_13" n="N010"/>signation. God like the king <hi style="text-decoration: underline;">as</hi> the unity. L'état, c'est moi, l'uni-
                <lb facs="#facs_3_tr_1_tl_14" n="N011"/>verse, c'est moi!
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_3_tr_1_tl_15" n="N012"/>6. In all these cases the validity is not removed by the
                <lb facs="#facs_3_tr_1_tl_16" n="N013"/>significance: <hi style="text-decoration: underline;">Great</hi> <rs type="keyword" ref="#Arts">art</rs>, <hi style="text-decoration: underline;">great</hi> <rs type="keyword" ref="#Politics">politics,</rs> <hi style="text-decoration: underline;">great</hi> <rs type="keyword" ref="#Philosophy">philosophy</rs>. At the
                <lb facs="#facs_3_tr_1_tl_17" n="N014"/>same time expressing the real state of mind, individual
                <lb facs="#facs_3_tr_1_tl_18" n="N015"/>and social, in relation to the meaning of life.
             </p>
             <pb facs="#facs_4" n="TLx-0028_p004.jpg" xml:id="img_0004" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=JYXTRINEKGYIPXENCGIPIBDD"/>
-            <p facs="#facs_4_tr_1">
-               <lb facs="#facs_4_l_1" n="N001"/>[4]
+            <p facs="#facs_4_tr_1" rend="handwritten" style="text-align: center;">
+               <lb facs="#facs_4_l_1" n="N001"/>4
+            </p>
+            <p rend="heading handwritten" style="text-align: center;">
                <lb facs="#facs_4_tr_1_tl_1" n="N002"/><hi style="text-decoration: underline;">II. The expression of the <rs type="keyword" ref="#Spiritual_life">spiritual situation</rs> of <hi style="text-decoration: underline;">our</hi> time</hi>
                <lb facs="#facs_4_tr_1_tl_2" n="N003"/><hi style="text-decoration: underline;">in its visual <rs type="keyword" ref="#Arts">art</rs></hi>
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_4_tr_1_tl_3" n="N004"/>1. The visual arts a part of the movement of the 20.<hi style="vertical-align: superscript;">th</hi> cen-
                <lb facs="#facs_4_tr_1_tl_4" n="N005"/>tury from the beginning to the middle and in mass effect beyond
                <lb facs="#facs_4_tr_1_tl_5" n="N006"/>it – inspite of all reactions – collective names for it difficult,
-               <lb facs="#facs_4_tr_1_tl_7" n="N007"/>perhaps future periods will find it. Now <rs type="keyword" ref="#Existentialism">existentialist</rs> {generally, expressionist}
-               <lb facs="#facs_4_tr_1_tl_9" n="N008"/>{in the arts.} (Caution about {both} this name!)
-               <lb facs="#facs_4_tr_1_tl_10" n="N009"/>2. This movement is reactive to some {...} characte-
+               <lb facs="#facs_4_tr_1_tl_7" n="N007"/>perhaps future periods will find it. Now <rs type="keyword" ref="#Existentialism">existentialist</rs> <del>generally, expressionist</del>
+               <lb facs="#facs_4_tr_1_tl_9" n="N008"/><del>in the arts.</del> (Caution about <choice><orig>both</orig><corr>this</corr></choice> name!)
+            </p>
+            <p rend="handwritten">
+               <lb facs="#facs_4_tr_1_tl_10" n="N009"/>2. This movement is reactive to some <del>...</del> characte-
                <lb facs="#facs_4_tr_1_tl_11" n="N010"/>ristics of the industrial <rs type="keyword" ref="#Society">society</rs>, the most important of which is
                <lb facs="#facs_4_tr_1_tl_12" n="N011"/>objectivation. Reference to the <rs type="person" ref="#tillich_person_id__1384">Newton</rs>ian world view.
                <lb facs="#facs_4_tr_1_tl_13" n="N012"/>The corresponding creation of the world of analysis, management,
-               <lb facs="#facs_4_tr_1_tl_14" n="N013"/>{ad} advertisment, adjustment, competion and democratic collec-
+               <lb facs="#facs_4_tr_1_tl_14" n="N013"/><del>ad</del> advertisment, adjustment, competion and democratic collec-
                <lb facs="#facs_4_tr_1_tl_15" n="N014"/>tivism. The main thing: the destinction of the self, its rela-
-               <lb facs="#facs_4_tr_1_tl_16" n="N015"/>tion to {the ground of selfhood} God, and its standing upon this ground.
+               <lb facs="#facs_4_tr_1_tl_16" n="N015"/>tion to <del>the ground of selfhood</del> God, and its standing upon this ground.
             </p>
             <pb facs="#facs_5" n="TLx-0028_p005.jpg" xml:id="img_0005" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=VCCRKTKZYQQBSHCMEQDPJPJD"/>
-            <p facs="#facs_5_tr_1">
+            <p facs="#facs_5_tr_1" rend="handwritten" style="text-align: center;">
+               <hi style="text-decoration: underline;">5</hi>
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_5_tr_1_tl_1" n="N001"/>3. Reaction against this: The breaking up of the surface of
                <lb facs="#facs_5_tr_1_tl_3" n="N002"/>the objectified and idealised world: The emphasis on the deciding, passionate,
                <lb facs="#facs_5_tr_1_tl_6" n="N003"/>finite, estranged, empty etc. subject. The divine <rs type="keyword" ref="#Demonic">demonic</rs>
                <lb facs="#facs_5_tr_1_tl_9" n="N004"/>aspects of the human soul (depth = <rs type="keyword" ref="#Psychology">psychology</rs>). The being cut off from the sources
                <lb facs="#facs_5_tr_1_tl_10" n="N005"/>of meaning ("Castle"), grace (trial).
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_5_tr_1_tl_12" n="N006"/>4. The same in the visual <rs type="keyword" ref="#Arts">arts</rs>: <rs type="keyword" ref="#Existentialism">Existentialist</rs>
                <lb facs="#facs_5_tr_1_tl_13" n="N007"/>characteristics of the visual <rs type="keyword" ref="#Arts">arts</rs>:
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_5_tr_1_tl_16" n="N008"/>a] The independence of the picture (as a picture) of the sub-
-               <lb facs="#facs_5_tr_1_tl_18" n="N009"/>ject matter. The {ve} taking back of the three dimensionality (The picture as symbol) (<rs type="person" key="Cézanne, ">Cé-
+               <lb facs="#facs_5_tr_1_tl_18" n="N009"/>ject matter. The <del>ve</del> taking back of the three dimensionality (The picture as symbol) (<rs type="person" key="Cézanne, ">Cé-
                <lb break="no" facs="#facs_5_tr_1_tl_20" n="N010"/>zanne</rs>, <rs type="person" key="Brack, ">Brack</rs>, <rs type="person" key="Picasso, ">Picasso</rs>, <rs type="person" key="Klee, ">Klee</rs>). In sculpture the reduction
                <lb facs="#facs_5_tr_1_tl_22" n="N011"/>of the body to holes and curves (<rs type="person" key="Moore, ">Moore</rs>) or combinations of lines.
-               <lb facs="#facs_5_tr_1_tl_23" n="N012"/>b] The division of the natural bodies in {so} parts which
+            </p>
+            <p rend="handwritten">
+               <lb facs="#facs_5_tr_1_tl_23" n="N012"/>b] The division of the natural bodies in <del>so</del> parts which
                <lb facs="#facs_5_tr_1_tl_24" n="N013"/>are not determined by their natural relations, but predominant
                <lb facs="#facs_5_tr_1_tl_27" n="N014"/>in their pictural weight or their <rs type="keyword" ref="#Symbol">symbolic </rs>meaning or both (<rs type="person" key="Marc, Franz">Franz Marc</rs>,
                <lb facs="#facs_5_tr_1_tl_29" n="N015"/>(<rs type="person" key="Chagall, ">Chagall</rs>, <rs type="person" key="Legér, ">Legér</rs>)
             </p>
             <pb facs="#facs_6" n="TLx-0028_p006.jpg" xml:id="img_0006" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=PEUHVXRJOVAMJSKTKJXHYLOS"/>
-            <p facs="#facs_6_tr_1">
+            <p facs="#facs_6_tr_1" rend="handwritten" style="text-align: center;">
+               <hi style="text-decoration: underline;">6</hi>
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_6_tr_1_tl_1" n="N001"/>c] The expression of the inner state of the <rs type="keyword" ref="#Arts">painter</rs> in
                <lb facs="#facs_6_tr_1_tl_2" n="N002"/>encounter with reality, not the subjectivity only, but also
                <lb facs="#facs_6_tr_1_tl_3" n="N003"/>the inner qualities of the encountered reality. (The meaning of
                <lb facs="#facs_6_tr_1_tl_4" n="N004"/><rs type="keyword" ref="#Expressionism">expressionism</rs>: not subjectivism but beyond subject and object)
-               <lb facs="#facs_6_tr_1_tl_5" n="N005"/>German expressionists:. <rs type="person" key="Heckel, ">Heckel</rs>,<rs type="person" key="Nolde, "> Nolde</rs>, <rs type="person" key="Rotluff, ">Rotluff</rs>)
+               <lb facs="#facs_6_tr_1_tl_5" n="N005"/>German expressionists:. <rs type="person" key="Heckel, ">Heckel</rs>, <rs type="person" key="Nolde, ">Nolde</rs>, <rs type="person" key="Rotluff, ">Rotluff</rs>)
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_6_tr_1_tl_6" n="N006"/>d] The encounter of the uncunning of reality: The
-               <lb facs="#facs_6_tr_1_tl_7" n="N007"/>pieces of reality {in} broken and composed for the impression
+               <lb facs="#facs_6_tr_1_tl_7" n="N007"/>pieces of reality <del>in</del> broken and composed for the impression
                <lb facs="#facs_6_tr_1_tl_9" n="N008"/>of the <rs type="keyword" ref="#Demonic">demony</rs> (comparison with <rs type="person" key="Bosch, ">Bosch</rs> and <rs type="person" key="Breughel, ">Breughel</rs>. Italian <rs type="keyword" ref="#Surrealism">sur-
                <lb break="no" facs="#facs_6_tr_1_tl_10" n="N009"/>realists</rs>)
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_6_tr_1_tl_11" n="N010"/>e] Creeping behind the surface to the elements of the
                <lb facs="#facs_6_tr_1_tl_12" n="N011"/>physical experience, not in the subjectivity of the optic vision
                <lb facs="#facs_6_tr_1_tl_13" n="N012"/>(Monet) but in the objectivity of the geometrical elements (<rs type="keyword" ref="#Cubism">cu-
                <lb break="no" facs="#facs_6_tr_1_tl_15" n="N013"/>bism</rs>, <rs type="person" key="Picasso, ">Picasso</rs>)
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_6_tr_1_tl_17" n="N014"/>f] The non-representative tendency, based on these elements
             </p>
             <pb facs="#facs_7" n="TLx-0028_p007.jpg" xml:id="img_0007" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=KJFTVTJRMHQEFMZUNJWGWOUS"/>
-            <p facs="#facs_7_tr_1">
+            <p facs="#facs_7_tr_1" rend="handwritten" style="text-align: center;">
+               <hi style="text-decoration: underline;">7</hi>
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_7_tr_1_tl_1" n="N001"/>of the anatonomy of the picture and the going down to the simplest
                <lb facs="#facs_7_tr_1_tl_2" n="N002"/>elements. Either a decorative meaning as <rs type="person" key="Mondrian, ">Mondrian</rs>, or an expression
                <lb facs="#facs_7_tr_1_tl_3" n="N003"/>of a creatively formed chaos (<rs type="person" key="Pollack, ">Pollack</rs>, <rs type="person" key="Kandinski, ">Kandinski</rs>) or mere empti-
                <lb facs="#facs_7_tr_1_tl_4" n="N004"/>ness or in some 2-colour combination without any even chaotic
                <lb facs="#facs_7_tr_1_tl_6" n="N005"/>content.
-               <lb facs="#facs_7_tr_1_tl_7" n="N006"/>5. In all these examples the emphasis {of} on an expression of
+            </p>
+            <p rend="handwritten">
+               <lb facs="#facs_7_tr_1_tl_7" n="N006"/>5. In all these examples the emphasis <del>of</del> on an expression of
                <lb facs="#facs_7_tr_1_tl_8" n="N007"/>the conflicts of existence – As such a third over against <rs type="keyword" ref="#Naturalism">na-
                <lb break="no" facs="#facs_7_tr_1_tl_9" n="N008"/>nuralism </rs>and idealism. The three functions of all <rs type="keyword" ref="#Arts">art</rs>:
-               <lb facs="#facs_7_tr_1_tl_10" n="N009"/>The <hi style="text-decoration: underline;">mediating</hi> function (including a cognitive element) {the}
-               <lb facs="#facs_7_tr_1_tl_13" n="N010"/>{anticipat} most emphasized by naturalism. The <hi style="text-decoration: underline;">antici-</hi>
+               <lb facs="#facs_7_tr_1_tl_10" n="N009"/>The <hi style="text-decoration: underline;">mediating</hi> function (including a cognitive element) <del>the</del>
+               <lb facs="#facs_7_tr_1_tl_13" n="N010"/><del>anticipat</del> most emphasized by naturalism. The <hi style="text-decoration: underline;">antici-</hi>
                <lb facs="#facs_7_tr_1_tl_14" n="N011"/><hi style="text-decoration: underline;">pating</hi> function, overcoming of the conflicts of existence
                <lb facs="#facs_7_tr_1_tl_15" n="N012"/>(including a transformation), most emphasized by idealism
                <lb facs="#facs_7_tr_1_tl_16" n="N013"/>(This its justification). – The <hi style="text-decoration: underline;">expressive</hi> function which is like
                <lb facs="#facs_7_tr_1_tl_17" n="N014"/>the two others never completely lacking and tries to go to the
             </p>
             <pb facs="#facs_8" n="TLx-0028_p008.jpg" xml:id="img_0008" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=GBCQTYZRYTVUZHXRGEKXWPZB"/>
-            <p facs="#facs_8_tr_1">
-               <lb facs="#facs_8_tr_1_tl_1" n="N001"/>{imman} encounter of the meaning receiving subject with the mea-
+            <p facs="#facs_8_tr_1" rend="handwritten" style="text-align: center;">
+               <hi style="text-decoration: underline;">8</hi>
+            </p>
+            <p rend="handwritten">
+               <lb facs="#facs_8_tr_1_tl_1" n="N001"/><del>imman</del> encounter of the meaning receiving subject with the mea-
                <lb facs="#facs_8_tr_1_tl_2" n="N002"/>ning carrying object. The expression of this encounter is the
-               <lb facs="#facs_8_tr_1_tl_3" n="N003"/>nature of {our cont} the expressive {t} function.
+               <lb facs="#facs_8_tr_1_tl_3" n="N003"/>nature of <del>our cont</del> the expressive <del>t</del> function.
+            </p>
+            <p rend="heading handwritten" style="text-align: center;">
                <lb facs="#facs_8_tr_1_tl_4" n="N004"/><hi style="text-decoration: underline;">III. The relation of the contemporanious style to</hi>
                <lb facs="#facs_8_tr_1_tl_5" n="N005"/><hi style="text-decoration: underline;">the <rs type="keyword" ref="#Symbol">symbols </rs>of the <rs type="keyword" ref="#Religion">religious</rs> tradition</hi>
-               <lb facs="#facs_8_tr_1_tl_7" n="N006"/>1. The religious affinity of the <rs type="keyword" ref="#Expressionism">expressi{onistic}ve </rs>element.
+            </p>
+            <p rend="handwritten">
+               <lb facs="#facs_8_tr_1_tl_7" n="N006"/>1. The religious affinity of the <rs type="keyword" ref="#Expressionism">expressi<choice><orig>onistic</orig><corr>ve</corr></choice></rs> element.
                <lb facs="#facs_8_tr_1_tl_8" n="N007"/>The lack of <rs type="keyword" ref="#Religion">religious</rs> <rs type="keyword" ref="#Arts">painting </rs>in the periods of ruling <rs type="keyword" ref="#Naturalism">natura-
                <lb break="no" facs="#facs_8_tr_1_tl_10" n="N008"/>lism</rs>. The lack of religious power in the periods of ruling idea-
                <lb facs="#facs_8_tr_1_tl_11" n="N009"/>lism. The many forms of expressive styles in the religious
                <lb facs="#facs_8_tr_1_tl_12" n="N010"/>periods of mankind.
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_8_tr_1_tl_13" n="N011"/>2. The general character of <rs type="keyword" ref="#Existentialism">existentialism</rs> as raising the
                <lb facs="#facs_8_tr_1_tl_15" n="N012"/>question and not giving the answer (the answers coming from older
             </p>
             <pb facs="#facs_9" n="TLx-0028_p009.jpg" xml:id="img_0009" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=TRJVLPZJQXXNKXXBLLUFUWKK"/>
-            <p facs="#facs_9_tr_1">
-               <lb facs="#facs_9_tr_1_tl_1" n="N001"/>traditions, {But the arts cannot} but changed. This also attempted
-               <lb facs="#facs_9_tr_1_tl_4" n="N002"/>by the visual<rs type="keyword" ref="#Arts"> arts</rs>. But equally difficult, because of the {definite} known
+            <p facs="#facs_9_tr_1" rend="handwritten" style="text-align: center;">
+               <hi style="text-decoration: underline;">9</hi>
+            </p>
+            <p rend="handwritten">
+               <lb facs="#facs_9_tr_1_tl_1" n="N001"/>traditions, <del>But the arts cannot</del> but changed. This also attempted
+               <lb facs="#facs_9_tr_1_tl_4" n="N002"/>by the visual <rs type="keyword" ref="#Arts">arts</rs>. But equally difficult, because of the <choice><orig>definite</orig><corr>known</corr></choice>
                <lb facs="#facs_9_tr_1_tl_5" n="N003"/>forms of these traditions; can they be expressed in modern forms?
                <lb facs="#facs_9_tr_1_tl_6" n="N004"/>Are they living at all?
+            </p>
+            <p rend="handwritten" style="margin-left: 4em;">
                <lb facs="#facs_9_tr_1_tl_8" n="N005"/>3. Observations:
-               <lb facs="#facs_9_tr_1_tl_9" n="N006"/>a] The greater <rs type="keyword" ref="#Religion">religious </rs>power of some non-religious pain-
+            </p>
+            <p rend="handwritten">
+               <lb facs="#facs_9_tr_1_tl_9" n="N006"/>a] The greater <rs type="keyword" ref="#Religion">religious</rs> power of some non-religious pain-
                <lb facs="#facs_9_tr_1_tl_10" n="N007"/>tings in the Union Seminary exhibition.
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_9_tr_1_tl_11" n="N008"/>b] The greater power of pictures of tragedy generally.
-               <lb facs="#facs_9_tr_1_tl_12" n="N009"/>The harlequin {the} <rs type="person" key="Rouault, ">(Rouault</rs>, <rs type="person" key="Picasso, ">Picasso</rs>) the destruction of
+               <lb facs="#facs_9_tr_1_tl_12" n="N009"/>The harlequin <del>the</del> (<rs type="person" key="Rouault, ">Rouault</rs>, <rs type="person" key="Picasso, ">Picasso</rs>) the destruction of
                <lb facs="#facs_9_tr_1_tl_14" n="N010"/>the war (<rs type="person" key="Goya, ">Goya</rs> as predecessor, the ugly as expression), (com-
-               <lb facs="#facs_9_tr_1_tl_16" n="N011"/>parison with the <rs type="keyword" ref="#Demonic">demonic </rs>world of <rs type="person" key="Bosch, ">Bosch</rs>, <rs type="person" key="Bruegel, ">Bruegel</rs>,<rs type="person" key="Grünewald, "> Grünewald</rs>)
+               <lb facs="#facs_9_tr_1_tl_16" n="N011"/>parison with the <rs type="keyword" ref="#Demonic">demonic</rs> world of <rs type="person" key="Bosch, ">Bosch</rs>, <rs type="person" key="Bruegel, ">Bruegel</rs>, <rs type="person" key="Grünewald, ">Grünewald</rs>)
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_9_tr_1_tl_17" n="N012"/>c] In the <rs type="keyword" ref="#Religion">religious</rs> sphere the emphasis on the
                <lb facs="#facs_9_tr_1_tl_18" n="N013"/>cross (great crucifixions – not resurrections), the negative elements
-               <lb facs="#facs_9_tr_1_tl_19" n="N014"/>emphasized even in {sta} positive subject matters. The complete
+               <lb facs="#facs_9_tr_1_tl_19" n="N014"/>emphasized even in <del>sta</del> positive subject matters. The complete
             </p>
             <pb facs="#facs_10" n="TLx-0028_p010.jpg" xml:id="img_0010" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=GJPDXKVQBVAIUVADUPIBIKQB"/>
-            <p facs="#facs_10_tr_1">
+            <p facs="#facs_10_tr_1" rend="handwritten" style="text-align: center;">
+               <hi style="text-decoration: underline;">10</hi>
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_10_tr_1_tl_1" n="N001"/>lack of idealization or of <rs type="keyword" ref="#Naturalism">naturalism</rs>.
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_10_tr_1_tl_2" n="N002"/>d] The danger of the <rs type="keyword" ref="#Religion">religious </rs>revival and <rs type="person" key="Dalí, ">S. Dali</rs>.
+            </p>
+            <p rend="handwritten">
                <lb facs="#facs_10_tr_1_tl_3" n="N003"/>4. Architecture and the rebirth of religious <rs type="keyword" ref="#Arts">art</rs>. The prin-
                <lb facs="#facs_10_tr_1_tl_4" n="N004"/>ciple of honesty. The possibility of emptiness which might
                <lb facs="#facs_10_tr_1_tl_5" n="N005"/>become a holy one.
