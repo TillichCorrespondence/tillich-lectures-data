@@ -104,12 +104,20 @@
          <div>
             <pb facs="#facs_1" n="TLx-0038_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=ZEYYMOJGAHBQBPVWTHSKMEML"/>
             <pb facs="#facs_2" n="TLx-0038_p002.jpg" xml:id="img_0002" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=IELCKYUOVVVIPMWZNRFZSRVA"/>
-            <p facs="#facs_2_tr_1">
-               <lb facs="#facs_2_tr_1_tl_1" n="N001"/><hi style="text-decoration: underline;">Religion and Culture.</hi>
-               <lb facs="#facs_2_tr_1_tl_4" n="N002"/><hi style="text-decoration: underline;">First Lecture. Problems and concepts. [<rs type="keyword" ref="#Religion">Religion</rs>, <rs type="keyword" ref="#Science">scien-</rs></hi>
-               <lb facs="#facs_2_tr_1_tl_5" n="N003"/><hi style="text-decoration: underline;"><rs type="keyword" ref="#Science">tific and technical culture]</rs></hi>
+            <p facs="#facs_2_tr_1" rend="heading handwritten">
+               <lb facs="#facs_2_tr_1_tl_1" n="N001"/><hi style="text-decoration-line: underline; text-decoration-style: double;">Religion and Culture.</hi>
+            </p>
+             <p rend="heading handwritten">
+               <lb facs="#facs_2_tr_1_tl_4" n="N002"/><hi style="text-decoration-line: underline; text-decoration-style: double;">First Lecture. Problems and concepts. [<rs type="keyword" ref="#Religion">Religion</rs>, <rs type="keyword" ref="#Science">scien-</rs></hi>
+               <lb facs="#facs_2_tr_1_tl_5" n="N003"/><hi style="text-decoration-line: underline; text-decoration-style: double;"><rs type="keyword" ref="#Science">tific and technical culture]</rs></hi>
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_2_l" n="N004"/>[p. 3]
-               <lb facs="#facs_2_tr_1_tl_6" n="N005"/><hi style="text-decoration: underline;">I. The Problem and the particular {problems} realms.</hi>
+             </p>
+             <p rend="heading handwritten">
+               <lb facs="#facs_2_tr_1_tl_6" n="N005"/><hi style="text-decoration: underline;">I. The Problem and the particular <del>problems</del> realms.</hi>
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_2_tr_1_tl_7" n="N006"/>1). <rs type="keyword" ref="#Religion">Religion </rs>and <rs type="keyword" ref="#Culture">culture</rs> are so interwoven that it may
                <lb facs="#facs_2_tr_1_tl_8" n="N007"/>be questionable wether there is a problem at all. Is not reli-
                <lb facs="#facs_2_tr_1_tl_9" n="N008"/>gion simply a part of the general culture and de-
@@ -123,23 +131,26 @@
             <p facs="#facs_3_r">
                <lb facs="#facs_3_l" n="N001"/>
             </p>
-            <p facs="#facs_3_tr_1">
-               <lb facs="#facs_3_l_1" n="N001"/>[p. 4] <hi style="text-decoration: underline;">2</hi>
+             <p facs="#facs_3_tr_1" rend="handwritten" style="text-align: center;"><hi style="text-decoration: underline;">2</hi></p>
+             <p rend="handwritten">
+               <lb facs="#facs_3_l_1" n="N001"/>[p. 4]
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_3_tr_1_tl_1" n="N002"/>jor part of the history of these countries? Certainly, they are.
-               <lb facs="#facs_3_tr_1_tl_2" n="N003"/>and this means that | {there must be something special about}
-               <lb facs="#facs_3_tr_1_tl_3" n="N004"/>{<rs type="keyword" ref="#Religion">religion</rs> that it can [...]} | religion has a foundation above
-               <lb facs="#facs_3_tr_1_tl_4" n="N005"/>a given <rs type="keyword" ref="#Culture">culture</rs> and is able to attack {or} to trans-
-               <lb facs="#facs_3_tr_1_tl_7" n="N006"/>form {a culture} {it} or to destroy it. As in culture a religion may be almost eradicated. Although both, religion and culture
-               <lb facs="#facs_3_tr_1_tl_9" n="N007"/>{appear} {in man's spirit} are functions of the human <rs type="keyword" ref="#Spirit">spirit</rs>, they can fall ino dead-
+               <lb facs="#facs_3_tr_1_tl_2" n="N003"/>and this means that <del>there must be something special about</del>
+               <lb facs="#facs_3_tr_1_tl_3" n="N004"/><del><rs type="keyword" ref="#Religion">religion</rs> that it can ...</del> religion has a foundation above
+               <lb facs="#facs_3_tr_1_tl_4" n="N005"/>a given <rs type="keyword" ref="#Culture">culture</rs> and is able to attack <del>or</del> to trans-
+               <lb facs="#facs_3_tr_1_tl_7" n="N006"/>form <del>a culture</del> <del>it</del> or to destroy it. As in culture a religion may be almost eradicated. Although both, religion and culture
+               <lb facs="#facs_3_tr_1_tl_9" n="N007"/><del>appear</del> <del>in man's spirit</del> are functions of the human <rs type="keyword" ref="#Spirit">spirit</rs>, they can fall into dead-
                <lb facs="#facs_3_tr_1_tl_10" n="N008"/>ly enmity, trying to subject and enslave each other. –
-               <lb facs="#facs_3_tr_1_tl_11" n="N009"/>But the fact that they can fight {each other} shows also
-               <lb facs="#facs_3_tr_1_tl_14" n="N010"/>that {you} they cannot be separated {them} from each other {completely. If you one}
-               <lb facs="#facs_3_tr_1_tl_16" n="N011"/>{They belong to each other} Neither is possible without the other and, therefore, you cannot end
+               <lb facs="#facs_3_tr_1_tl_11" n="N009"/>But the fact that they can fight <del>each other</del> shows also
+               <lb facs="#facs_3_tr_1_tl_14" n="N010"/>that <del>you</del> they cannot be separated <del>them</del> from each other <del>completely. If you one</del>
+               <lb facs="#facs_3_tr_1_tl_16" n="N011"/><choice><orig>They belong to each other</orig><corr>Neither is possible without the other</corr></choice> and, therefore, you cannot end
                <lb facs="#facs_3_tr_1_tl_17" n="N012"/>their wars by putting each of them on a different island.
                <lb facs="#facs_3_tr_1_tl_18" n="N013"/>This situation leads to some of the most difficult pro-
                <lb facs="#facs_3_tr_1_tl_19" n="N014"/>blems of the philosophy of religion and of the philosophy of
-               <lb facs="#facs_3_tr_1_tl_22" n="N015"/>culture. {But} And it leads not only to theoretical [...], but {even more im-}
-               <lb facs="#facs_3_tr_1_tl_25" n="N016"/>{portant}, also to most serious and {dangerous} {profound} difficult practical problems.
+               <lb facs="#facs_3_tr_1_tl_22" n="N015"/>culture. <del>But</del> And it leads not only to theoretical <del>...</del>, but <del>even more im-
+               <lb facs="#facs_3_tr_1_tl_25" n="N016"/>portant</del>, also to most serious and <del>dangerous</del> <del>profound</del> difficult practical problems.
             </p>
          </div>
       </body>

@@ -129,64 +129,136 @@
       <body>
          <div>
             <pb facs="#facs_1" n="TLx-0017_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=CABXXMTEEVGKIHRISISFWYDP"/>
-            <p facs="#facs_1_r">
-               <lb facs="#facs_1_l" n="N001"/><hi style="text-decoration: underline;">First Level: {Non-religious content} <rs type="keyword" ref="#Secular">Secular</rs> subject matter and <rs type="keyword" ref="#Secular">secular</rs></hi>
+            <p facs="#facs_1_r" rend="heading handwritten">
+               <lb facs="#facs_1_l" n="N001"/><hi style="text-decoration: underline;">First Level: <choice><orig>Non-religious content</orig><corr>Secular subject matter</corr></choice> and <rs type="keyword" ref="#Secular">secular</rs></hi>
                <lb facs="#facs_1_l_1" n="N002"/><hi style="text-decoration: underline;">style</hi>
+            </p>
+             <p rend="handwritten">
                <lb facs="#facs_1_l_2" n="N003"/>1. The Dancing Couple, <rs type="person" ref="#tillich_person_id__3084">Jan Steen</rs>.
-               <lb facs="#facs_1_l_3" n="N004"/><rs type="person" ref="#tillich_person_id__3976">Widener </rs>677.
+             </p>
+             <p rend="handwritten">
+               <lb facs="#facs_1_l_3" n="N004"/><rs type="person" ref="#tillich_person_id__3976">Widener</rs> 677.
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_1_l_4" n="N005"/>2. The Forest of Coubron, <rs type="person" ref="#tillich_person_id__2574">Camille Corot</rs>
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_1_l_5" n="N006"/><rs type="person" ref="#tillich_person_id__3976">Widener</rs> 608
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_1_l_6" n="N007"/>3. Sylvia, <rs type="person" ref="#tillich_person_id__3086">Antoine Watteau</rs>
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_1_l_7" n="N008"/><rs type="person" ref="#tillich_person_id__3977">Kress</rs> p. 159
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_1_l_8" n="N009"/>4. Waterloo Bridge, <rs type="person" ref="#tillich_person_id__1343">Claude Monet</rs>
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_1_l_9" n="N010"/><rs type="person" ref="#tillich_person_id__3978">Chester Dale</rs> p. 53
             </p>
             <pb facs="#facs_2" n="TLx-0017_p002.jpg" xml:id="img_0002" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=MMZXKOFCNIICQGUPLOWMRJVR"/>
-            <p facs="#facs_2_r">
-               <lb facs="#facs_2_l" n="N001"/><hi style="text-decoration: underline;">Second Level: {Non-Religious content} <rs type="keyword" ref="#Secular">Secular</rs> subject-matter and <rs type="keyword" ref="#Religion">religious</rs></hi>
-               <lb facs="#facs_2_l_1" n="N002"/><hi style="text-decoration: underline;">{subject-matter</hi>} style <hi style="text-decoration: underline;">{style</hi>}
+            <p facs="#facs_2_r" rend="heading handwritten">
+               <lb facs="#facs_2_l" n="N001"/><hi style="text-decoration: underline;">Second Level: <choice><orig>Non-Religious content</orig><corr>Secular subject-matter</corr></choice> and <rs type="keyword" ref="#Religion">religious</rs></hi>
+               <lb facs="#facs_2_l_1" n="N002"/><hi style="text-decoration: underline;"><del>subject-matter</del></hi> style <hi style="text-decoration: underline;"><del>style</del></hi>
+            </p>
+             <p rend="handwritten">
                <lb facs="#facs_2_l_2" n="N003"/>1. Still Life, <rs type="person" ref="#tillich_person_id__2575">Paul Cezanne</rs>
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_2_l_3" n="N004"/><rs type="person" ref="#tillich_person_id__3978">Chester Dale</rs> I p. 71
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_2_l_4" n="N005"/>2. The Big Cloud, <rs type="person" ref="#tillich_person_id__3975">Jean Lurcat</rs>
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_2_l_5" n="N006"/><rs type="person" ref="#tillich_person_id__3978">Chester Dale</rs> II, p. 32.
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_2_l_6" n="N007"/>3. Gypsy Woman with Baby, <rs type="person" ref="#tillich_person_id__3925">Amedeo Modigliani</rs>
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_2_l_7" n="N008"/><rs type="person" ref="#tillich_person_id__3978">Chester Dale</rs> II, p. 2
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_2_l_8" n="N009"/>4. Conversation among the ruins, <rs type="person" ref="#tillich_person_id__3095">Giorgio de Chirico</rs>
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_2_l_9" n="N010"/><rs type="person" ref="#tillich_person_id__3978">Chester Dale</rs> II, p. 17.
-               <lb facs="#facs_2_l_10" n="N011"/>5. {Rouault} Café Scène, <rs type="person" ref="#tillich_person_id__3094">Georges Rouault</rs>
+             </p>
+             <p rend="handwritten">
+               <lb facs="#facs_2_l_10" n="N011"/>5. <del>Rouault</del> Café Scène, <rs type="person" ref="#tillich_person_id__3094">Georges Rouault</rs>
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_2_l_11" n="N012"/><rs type="person" ref="#tillich_person_id__3978">Chester Dale</rs> II p. 59
             </p>
             <pb facs="#facs_3" n="TLx-0017_p003.jpg" xml:id="img_0003" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=PGWUJUDCYYDBJHRSDTLSOTUE"/>
-            <p facs="#facs_3_r">
-               <lb facs="#facs_3_l" n="N001"/><hi style="text-decoration: underline;">Third Level: <rs type="keyword" ref="#Secular">Secular </rs>Style and <rs type="keyword" ref="#Religion">Religious</rs></hi>
+            <p facs="#facs_3_r" rend="heading handwritten">
+               <lb facs="#facs_3_l" n="N001"/><hi style="text-decoration: underline;">Third Level: <rs type="keyword" ref="#Secular">Secular</rs> Style and <rs type="keyword" ref="#Religion">Religious</rs></hi>
                <lb facs="#facs_3_l_1" n="N002"/><hi style="text-decoration: underline;">subject-matter.</hi>
+            </p>
+             <p rend="handwritten">
                <lb facs="#facs_3_l_2" n="N003"/>1. <rs type="person" ref="#tillich_person_id__3889">Perugino</rs>, The Crucifixion with Saints. (middle piece)
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
                <lb facs="#facs_3_l_3" n="N004"/><rs type="person" ref="#tillich_person_id__3979">Mellon</rs> Nr. 27
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_3_l_4" n="N005"/>2. The Finding of Moses,<rs type="person" key="Veronese, Paolo"> Paolo Veronese</rs>
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
                <lb facs="#facs_3_l_5" n="N006"/><rs type="person" ref="#tillich_person_id__3979">Mellon </rs>Nr. 38
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_3_l_6" n="N007"/>3. The Veil of Veronica, <rs type="person" key="Fetti, Domenico">Domenico Feti</rs>
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
                <lb facs="#facs_3_l_7" n="N008"/><rs type="person" ref="#tillich_person_id__3977">Kress</rs> p. 135
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_3_l_8" n="N009"/>4. <rs type="person" ref="#tillich_person_id__3980">Puvis de Chavannes</rs>, The Prodigal Son
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
                <lb facs="#facs_3_l_9" n="N010"/><rs type="person" ref="#tillich_person_id__3978">Chester Dale </rs>p. 31.
             </p>
             <pb facs="#facs_4" n="TLx-0017_p004.jpg" xml:id="img_0004" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=BKFWMWPKNJPZGLLWLEFWSFEJ"/>
-            <p facs="#facs_4_r">
-               <lb facs="#facs_4_l" n="N001"/><hi style="text-decoration: underline;">Fourth Level: <rs type="keyword" ref="#Religion">Religious </rs>style and <rs type="keyword" ref="#Religion">religious</rs></hi>
+            <p facs="#facs_4_r" rend="heading handwritten">
+               <lb facs="#facs_4_l" n="N001"/><hi style="text-decoration: underline;">Fourth Level: <rs type="keyword" ref="#Religion">Religious</rs> style and <rs type="keyword" ref="#Religion">religious</rs></hi>
                <lb facs="#facs_4_l_1" n="N002"/><hi style="text-decoration: underline;">subject-matter.</hi>
+            </p>
+             <p rend="handwritten">
                <lb facs="#facs_4_l_2" n="N003"/>1. The Calling of the Apostles <rs type="person" ref="#tillich_person_id__3982">Peter</rs> and <rs type="person" ref="#tillich_person_id__3983">Andrew</rs>, <rs type="person" ref="#tillich_person_id__3984">Duccio</rs>
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_4_l_3" n="N004"/><rs type="person" ref="#tillich_person_id__3977">Kress</rs> p. 8
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_4_l_4" n="N005"/>2. Saint Ildefonso, <rs type="person" ref="#tillich_person_id__3089">El Greco</rs>. - <rs type="person" ref="#tillich_person_id__3979">Mellon</rs> Nr. 83
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_4_l_5" n="N006"/>3. <rs type="person" ref="#tillich_person_id__3986">Jacobo Tintoretto</rs>, Christ and the Sea of Galilee
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_4_l_6" n="N007"/><rs type="person" ref="#tillich_person_id__3977">Kress</rs> p. 130
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_4_l_7" n="N008"/>4. Head of Saint Matthew, <rs type="person" ref="#tillich_person_id__1580">Rembrandt</rs>
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_4_l_8" n="N009"/><rs type="person" ref="#tillich_person_id__3976">Widener</rs> Nr. 654
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_4_l_9" n="N010"/>5. Crucifixion, <rs type="person" ref="#tillich_person_id__3094">George Rouault</rs>. -  Selections from the
                <lb facs="#facs_4_l_10" n="N011"/><rs type="person" ref="#tillich_person_id__3987">Rosenwald</rs> Collection, p. 139
             </p>
             <pb facs="#facs_5" n="TLx-0017_p005.jpg" xml:id="img_0005" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=SSOMMCWQRRVKLIZTHIHCHEVF"/>
-            <p facs="#facs_5_r">
+            <p facs="#facs_5_r" rend="heading handwritten">
                <lb facs="#facs_5_l" n="N001"/>Fourth Level cont.
+            </p>
+             <p rend="handwritten">
                <lb facs="#facs_5_l_1" n="N002"/>6. Le Dur métier de Vivre, <rs type="person" ref="#tillich_person_id__3094">Rouault</rs>.
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_5_l_2" n="N003"/><rs type="person" ref="#tillich_person_id__3987">Rosenwald</rs> 116
             </p>
          </div>

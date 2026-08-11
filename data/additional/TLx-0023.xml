@@ -108,41 +108,69 @@
       <body>
          <div>
             <pb facs="#facs_1" n="TLx-0023_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=SXLJORHTCLBPJLRKWHXFHNWD"/>
-            <p facs="#facs_1_r">
+            <p facs="#facs_1_r" rend="handwritten">
                <lb facs="#facs_1_l" n="N001"/>I. The human situation
-               <lb facs="#facs_1_l_1" n="N002"/>1. <rs type="person" ref="#tillich_person_id__295">Breughel </rs>(10). The triumph of death
-               <lb facs="#facs_1_l_2" n="N003"/>2. <rs type="person" ref="#tillich_person_id__1326">Michelangelo </rs>{(71)} {Even} Unknown.
-               <lb facs="#facs_1_l_3" n="N004"/>4. <rs type="person" ref="#tillich_person_id__496">Dürer</rs> (37) The knight, death and the devil
+            </p>
+             <p rend="handwritten" style="margin-left: 4em;">
+               <lb facs="#facs_1_l_1" n="N002"/>1. <rs type="person" ref="#tillich_person_id__295">Breughel</rs> (10). The triumph of death
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
+               <lb facs="#facs_1_l_2" n="N003"/>2. <rs type="person" ref="#tillich_person_id__1326">Michelangelo</rs> (<del>71</del>) <del>Even</del> Unknown.
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
+               <lb facs="#facs_1_l_3" n="N004"/><choice><orig>3</orig><corr>4</corr></choice>. <rs type="person" ref="#tillich_person_id__496">Dürer</rs> (37) The knight, death and the devil
+             </p>
+             <p rend="handwritten" style="margin-left: 4em;">
                <lb facs="#facs_1_l_4" n="N005"/>3. <rs type="person" ref="#tillich_person_id__4038">Sasetta</rs> (35) St. Antony.
             </p>
             <pb facs="#facs_2" n="TLx-0023_p002.jpg" xml:id="img_0002" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=JMQAPDBMZWZBAGMEEMWPHQAR"/>
-            <p facs="#facs_2_r">
+            <p facs="#facs_2_r" rend="handwritten" style="margin-left: 4em;">
                <lb facs="#facs_2_l" n="N001"/>5. Opening up.
             </p>
             <pb facs="#facs_3" n="TLx-0023_p003.jpg" xml:id="img_0003" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=OOICUVWIGEOTJVKLFFEUHGOI"/>
-            <p facs="#facs_3_r">
+            <p facs="#facs_3_r" rend="handwritten">
                <lb facs="#facs_3_l" n="N001"/><hi style="text-decoration: underline;">II. Transcendent Scenes</hi>
+            </p>
+             <p rend="handwritten">
                <lb facs="#facs_3_l_1" n="N002"/>1. <rs type="person" ref="#tillich_person_id__496">Dürer</rs>: 2 eschatological pictures
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_3_l_2" n="N003"/>2. <rs type="person" ref="#tillich_person_id__4039">Giovanni di Paolo</rs>. Paradise
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_3_l_3" n="N004"/>3. Christ as shepherd
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_3_l_4" n="N005"/>4. <rs type="person" ref="#tillich_person_id__3888">Fra Angelico</rs>: Coronation of the Virgin.
             </p>
             <pb facs="#facs_4" n="TLx-0023_p004.jpg" xml:id="img_0004" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=RDSLGUCUZPBDVKSYPIRTULGY"/>
-            <p facs="#facs_4_r">
-               <lb facs="#facs_4_l" n="N001"/>2. Painting beyond {oneself} themselves.
+            <p facs="#facs_4_r" rend="handwritten">
+               <lb facs="#facs_4_l" n="N001"/>2. Painting beyond <choice><orig>oneself</orig><corr>themselves</corr></choice>.
             </p>
             <pb facs="#facs_5" n="TLx-0023_p005.jpg" xml:id="img_0005" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=LVCFIAZKBWVSCMPFYBKUDHYA"/>
-            <p facs="#facs_5_r">
+            <p facs="#facs_5_r" rend="handwritten" style="text-align: center;">
                <lb facs="#facs_5_l" n="N001"/><hi style="text-decoration: underline;">III. Immanent-transcendent Scenes</hi>
+            </p>
+             <p rend="handwritten">
                <lb facs="#facs_5_l_1" n="N002"/>1. Annunciations (Table X and XI) Table 19.
-               <lb facs="#facs_5_l_2" n="N003"/>2. {Virginities} Birth of Jesus (<rs type="person" ref="#tillich_person_id__4040">Mantegna</rs>, <rs type="person" ref="#tillich_person_id__3970">Philippo Lippi</rs>),
+             </p>
+             <p rend="handwritten">
+               <lb facs="#facs_5_l_2" n="N003"/>2. <choice><orig>Virginities</orig><corr>Birth of Jesus</corr></choice> (<rs type="person" ref="#tillich_person_id__4040">Mantegna</rs>, <rs type="person" ref="#tillich_person_id__3970">Philippo Lippi</rs>),
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_5_l_3" n="N004"/>{3.} <rs type="person" ref="#tillich_person_id__3891">Roger v. d. Weyden</rs>
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_5_l_4" n="N005"/>3. Crucifixions etc.
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_5_l_5" n="N006"/>Baptisms.
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_5_l_6" n="N007"/>Mary with Child
             </p>
             <pb facs="#facs_6" n="TLx-0023_p006.jpg" xml:id="img_0006" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=OMUXBJVNZIJPJPNPYCPAGTMD"/>
-            <p facs="#facs_6_r">
+            <p facs="#facs_6_r" rend="handwritten">
                <lb facs="#facs_6_l" n="N001"/>3. Participating in the <rs type="keyword" ref="#Symbol">symbolized</rs>
             </p>
          </div>

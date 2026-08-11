@@ -150,46 +150,60 @@
          <div>
             <pb facs="#facs_1" n="TLx-0039_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=NZIIAPKKYSWLYIZBDGMYWGLV"/>
             <pb facs="#facs_2" n="TLx-0039_p002.jpg" xml:id="img_0002" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=HQDNYZPRDYOKTCZGJVXFPAKF"/>
-            <p facs="#facs_2_r">
-               <lb facs="#facs_2_l" n="N001"/><hi style="text-decoration: underline;">Religion and Culture (first draft)</hi>
-               <lb facs="#facs_2_l_13" n="N002"/><hi style="text-decoration: underline;">First Lecture: Fundamental Concepts and their relations.</hi>
-               <lb facs="#facs_2_l_20" n="N003"/><hi style="text-decoration: underline;">Intr.</hi> {The infinity of the <rs type="keyword" ref="#Subject">subject</rs> and the necessity
+            <p facs="#facs_2_r" rend="heading handwritten" style="text-align: center;">
+               <lb facs="#facs_2_l" n="N001"/><hi style="text-decoration-line: underline; text-decoration-style: double;">Religion and Culture</hi> (first draft)
+            </p>
+             <p rend="heading handwritten">
+               <lb facs="#facs_2_l_13" n="N002"/><hi style="text-decoration-line: underline; text-decoration-style: double;">First Lecture: Fundamental Concepts and their relations.</hi>
+             </p>
+             <p rend="handwritten">
+               <lb facs="#facs_2_l_20" n="N003"/><del><hi style="text-decoration: underline;">Intr.</hi> The infinity of the <rs type="keyword" ref="#Subject">subject</rs> and the necessity
                <lb facs="#facs_2_l_27" n="N004"/>of restriction to fundamental concepts and selected appli-
                <lb facs="#facs_2_l_34" n="N005"/>cations. The first in the first, the second in the second lecture.
                <lb facs="#facs_2_l_41" n="N006"/>The necessity of revising the concepts become of their loose
-               <lb facs="#facs_2_l_48" n="N007"/>{t} usage in daily life as well as in learned writings.}
+               <lb facs="#facs_2_l_48" n="N007"/>t usage in daily life as well as in learned writings.</del>
+             </p>
+             <p rend="heading handwritten" style="margin-left: 4em;">
                <lb facs="#facs_2_l_55" n="N008"/><hi style="text-decoration: underline;">I. The three functions of man's spiritual life</hi>
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_2_l_62" n="N009"/>1. The <hi style="text-decoration: underline;">life of man's <rs type="keyword" ref="#Spirit">spirit</rs></hi><rs type="keyword" ref="#Spirit"/> (a word to be saved from
                <lb facs="#facs_2_l_69" n="N010"/>its loss in English .. It is more than mind and necessary to under-
                <lb facs="#facs_2_l_76" n="N011"/>stand both the Western and the Eastern traditions) contains both,
-               <lb facs="#facs_2_l_83" n="N012"/>religion and culture. But it contains a third function, fundamen-
-               <lb facs="#facs_2_l_90" n="N013"/>tal for both: <rs type="keyword" ref="#Morality">morality</rs>. _ In order to understand them we must be
+               <lb facs="#facs_2_l_83" n="N012"/><hi style="text-decoration: underline;">religion and culture.</hi> But it contains a <hi style="text-decoration: underline;">third function, fundamen-
+               <lb facs="#facs_2_l_90" n="N013"/>tal for both: <rs type="keyword" ref="#Morality">morality</rs>.</hi> _ In order to understand them we must be
             </p>
             <pb facs="#facs_3" n="TLx-0039_p003.jpg" xml:id="img_0003" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=ENSQTMDBNWQABVKCRKULSLIX"/>
-            <p facs="#facs_3_r_2">
-               <lb facs="#facs_3_l" n="N001"/>[4]
-               <lb facs="#facs_3_l_20" n="N002"/>{of both} {Christianity} {<rs type="keyword" ref="#Religion">religion</rs> and <rs type="keyword" ref="#Morality">morals</rs>, if they make of the [...] good news a new}
-               <lb facs="#facs_3_l_27" n="N003"/>{law, based on the so called teachings of <rs type="person" ref="#tillich_person_id__981">Jesus</rs> and on absurd [willfull] prescriptions or prohibitions}
-               <lb facs="#facs_3_l_34" n="N004"/>{beyond it.} All moral <rs type="keyword" ref="#Law">laws</rs> are changing advices, born out of revelatory wisdom, about
-               <lb facs="#facs_3_l_41" n="N005"/>{the} They show maps of becoming {creation of the of} a centered self in the encounter with other
-               <lb facs="#facs_3_l_48" n="N006"/>centered selfs. Here the only ultimate {principle} law appears, na-
-               <lb facs="#facs_3_l_55" n="N007"/>mely <rs type="keyword" ref="#Love">love</rs> whose inner form is {<rs type="keyword" ref="#Justice">justice</rs>} reverence for the other one or justice and which transcends every law. {This is the second}
-               <lb facs="#facs_3_l_62" n="N008"/>{point where the religious dimension appears,} because it is the di-
-               <lb facs="#facs_3_l_69" n="N009"/>vine reality itself {(later more)}. Man tries to escape the responsibility
+            <p facs="#facs_3_r_2" rend="handwritten">
+               <lb facs="#facs_3_l" n="N001"/><hi style="text-decoration: underline;">4</hi>
+            </p>
+             <p rend="handwritten">
+               <lb facs="#facs_3_l_20" n="N002"/><del>of both</del> <del>Christianity</del> <del><rs type="keyword" ref="#Religion">religion</rs> and <rs type="keyword" ref="#Morality">morals</rs>, if they make of the ... good news a new
+               <lb facs="#facs_3_l_27" n="N003"/>law, based on the so called teachings of <rs type="person" ref="#tillich_person_id__981">Jesus</rs> and on absurd willfull prescriptions or prohibitions
+               <lb facs="#facs_3_l_34" n="N004"/>beyond it.</del> All moral <rs type="keyword" ref="#Law">laws</rs> are changing advices, born out of revelatory wisdom. <del>about</del>
+               <lb facs="#facs_3_l_41" n="N005"/><del>the</del> They show maps of becoming <del>creation of the of</del> a centered self in the encounter with other
+               <lb facs="#facs_3_l_48" n="N006"/>centered selfs. Here the only ultimate <choice><orig>principle</orig><corr>law</corr></choice> appears, na-
+               <lb facs="#facs_3_l_55" n="N007"/>mely <rs type="keyword" ref="#Love">love</rs> whose inner form is <del><rs type="keyword" ref="#Justice">justice</rs></del> reverence for the other one or justice and which transcends every law. <del>This is the second</del>
+               <lb facs="#facs_3_l_62" n="N008"/><del>point where the religious dimension appears,</del> because it is the di-
+               <lb facs="#facs_3_l_69" n="N009"/>vine reality itself <del>(later more)</del>. Man tries to escape the responsibility
                <lb facs="#facs_3_l_76" n="N010"/>of freedom and hide under the protective roof of laws.
-               <lb facs="#facs_3_l_83" n="N011"/>3. This leads to a [...] third element in the un-
+               <lb facs="#facs_3_l_83" n="N011"/>3. This leads to a <del>...</del> third element in the un-
                <lb facs="#facs_3_l_90" n="N012"/>derstanding of morality and religion. The question must be
                <lb facs="#facs_3_l_97" n="N013"/>raised: How can we become a centered self, a <rs type="keyword" ref="#Person">person</rs>? Which
                <lb facs="#facs_3_l_104" n="N014"/>agent is able to achieve it. If we answer: We ourselves we
                <lb facs="#facs_3_l_111" n="N015"/>escape the problem. For the question in which "we", which "I". The
-               <lb facs="#facs_3_l_118" n="N016"/>{person} person as centered self? But this person does not yet exist,
+               <lb facs="#facs_3_l_118" n="N016"/><del>person</del> person as centered self? But this person does not yet exist,
                <lb facs="#facs_3_l_125" n="N017"/>we shall become a person; then: can something that is less then
-               <lb facs="#facs_3_l_132" n="N018"/>a person {produce a person}?, namely you and I, create a person?
+               <lb facs="#facs_3_l_132" n="N018"/>a person <del>produce a person</del>?, namely you and I, create a person?
             </p>
             <pb facs="#facs_4" n="TLx-0039_p004.jpg" xml:id="img_0004" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=ZKGXEFWVCTLGQZJQUIEPBYYX"/>
-            <p facs="#facs_4_r_2">
-               <lb facs="#facs_4_l" n="N001"/>[3]
+            <p facs="#facs_4_r_2" rend="handwritten" style="text-align: center;">
+               <lb facs="#facs_4_l" n="N001"/><hi style="text-decoration: underline;">3</hi>
+            </p>
+             <p rend="heading handwritten" style="text-align: center;">
                <lb facs="#facs_4_l_15" n="N002"/><hi style="text-decoration: underline;">II. The function of <rs type="keyword" ref="#Morality">morality</rs></hi>
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_4_l_22" n="N003"/>1. The first act of man's <rs type="keyword" ref="#Spiritual_life">spiritual life</rs> is, what
                <lb facs="#facs_4_l_29" n="N004"/>in all being is selfintegration, centerednes. And this is
                <lb facs="#facs_4_l_36" n="N005"/>the moral act. In every single moral act man constitutes
@@ -197,37 +211,45 @@
                <lb facs="#facs_4_l_50" n="N007"/>of a centered self is a moral act. We call such a centered
                <lb facs="#facs_4_l_57" n="N008"/>self a <rs type="keyword" ref="#Person">person</rs> and call morality the selfconstitution of a
                <lb facs="#facs_4_l_64" n="N009"/>person as a person. This gives morality its greatness, its
-               <lb facs="#facs_4_l_71" n="N010"/>dignity, its absolute seriousness {and <hi style="text-decoration: underline;">this</hi> means} its first relation
+               <lb facs="#facs_4_l_71" n="N010"/>dignity, its absolute seriousness <del>and <hi style="text-decoration: underline;">this</hi> means</del> its first relation
                <lb facs="#facs_4_l_78" n="N011"/>to religion \\ But where there is integration there is also desintegration and man
-               <lb facs="#facs_4_l_85" n="N012"/>{(Later more)} is inclined to make the moral act conditional 
+               <lb facs="#facs_4_l_85" n="N012"/><del>(Later more)</del> is inclined to make the moral act conditional 
                <lb facs="#facs_4_l_92" n="N013"/>The religious functions represents the unconditional
-               <lb facs="#facs_4_l_99" n="N014"/>2. This concept of morals has a liberating power, {both}
-               <lb facs="#facs_4_l_106" n="N015"/>{in the sense of the good news of the Christian message and the}
-               <lb facs="#facs_4_l_113" n="N016"/>{freedom from<rs type="keyword" ref="#Law"> law</rs>, as}
-               <lb facs="#facs_4_l_120" n="N017"/>{liberation experienced in some forms of mystical experience} {piety.} - - -
-               <lb facs="#facs_4_l_127" n="N018"/><rs type="keyword" ref="#Morality">Morality </rs>is not the subjection to {a <rs type="keyword" ref="#Law">law</rs>} tables of laws, be
-               <lb facs="#facs_4_l_134" n="N019"/>they divine or human, be they sacred traditions or social conventions. {And}
-               <lb facs="#facs_4_l_141" n="N020"/>{the Christians should understand how they diminish the meaning}
+             </p>
+             <p rend="handwritten">
+               <lb facs="#facs_4_l_99" n="N014"/>2. This concept of morals has a liberating power, <del>both</del>
+               <lb facs="#facs_4_l_106" n="N015"/><del>in the sense of the good news of the Christian message and the
+               <lb facs="#facs_4_l_113" n="N016"/>freedom from <rs type="keyword" ref="#Law">law</rs>, as
+               <lb facs="#facs_4_l_120" n="N017"/>liberation experienced in some forms of mystical experience</del> <del>piety.</del> - - -
+             </p>
+             <p rend="handwritten">
+               <lb facs="#facs_4_l_127" n="N018"/><rs type="keyword" ref="#Morality">Morality </rs>is not the subjection to <del>a <rs type="keyword" ref="#Law">law</rs></del> tables of laws, be
+               <lb facs="#facs_4_l_134" n="N019"/>they divine or human, be they sacred traditions or social conventions. <del>And
+               <lb facs="#facs_4_l_141" n="N020"/>the Christians should understand how they diminish the meaning</del>
             </p>
             <pb facs="#facs_5" n="TLx-0039_p005.jpg" xml:id="img_0005" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=KAHRXBMXXMFWKJQHSWBCPBON"/>
-            <p facs="#facs_5_r">
-               <lb facs="#facs_5_l" n="N001"/>[2]
+            <p facs="#facs_5_r" rend="handwritten" style="text-align: center;">
+               <lb facs="#facs_5_l" n="N001"/><hi style="text-decoration: underline;">2</hi>
+            </p>
+             <p rend="handwritten">
                <lb facs="#facs_5_l_13" n="N002"/>aware of the fact, that man's <rs type="keyword" ref="#Spiritual_life">spiritual life</rs> is a process in
                <lb facs="#facs_5_l_20" n="N003"/>unity with the whole of life and that in the whole of life
                <lb facs="#facs_5_l_27" n="N004"/>the same basic processes are going on: Life integrates it-
                <lb facs="#facs_5_l_34" n="N005"/>self, life creates itself, life sublimates itself. In the dimen-
                <lb facs="#facs_5_l_41" n="N006"/>sion of the <rs type="keyword" ref="#Spirit">spirit</rs> this is <rs type="keyword" ref="#Morality">morality</rs>, <rs type="keyword" ref="#Culture">culture</rs> and <rs type="keyword" ref="#Religion">religion</rs>.
+             </p>
+             <p rend="handwritten">
                <lb facs="#facs_5_l_48" n="N007"/>2. My desire would be to show this in atoms and stars, in plants
                <lb facs="#facs_5_l_55" n="N008"/>and animals, especially in a notion with a most developped [sic.] relation
                <lb facs="#facs_5_l_62" n="N009"/>to nature. But this is impossible, and there is anyhow something
                <lb facs="#facs_5_l_69" n="N010"/>new in the dimension of the human spirit: It is life in mea-
                <lb facs="#facs_5_l_76" n="N011"/>nings, in language and thought, in the awareness of laws and norms, of
                <lb facs="#facs_5_l_83" n="N012"/>questions and answers, of commandments and decisions, of a
-               <lb facs="#facs_5_l_90" n="N013"/>selfconscious self with will and emotions. {All} This life in mea-
-               <lb facs="#facs_5_l_97" n="N014"/>nings is not separated from {the} all other life. all dimensions of life are
-               <lb facs="#facs_5_l_104" n="N015"/>in man, the inorganic and organic, the {veg} biological and the
-               <lb facs="#facs_5_l_111" n="N016"/>psychological; they add {give the} life-power to {his} the life in meanings, spirit
-               <lb facs="#facs_5_l_118" n="N017"/>is the unity of power and meaning, of vital life and {the consciousness of} rational life.
+               <lb facs="#facs_5_l_90" n="N013"/>selfconscious self with will and emotions. <del>All</del> This life in mea-
+               <lb facs="#facs_5_l_97" n="N014"/>nings is not separated from <del>the</del> all other life. all dimensions of life are
+               <lb facs="#facs_5_l_104" n="N015"/>in man, the inorganic and organic, the <del>veg</del> biological and the
+               <lb facs="#facs_5_l_111" n="N016"/>psychological; they <choice><orig>give the</orig><corr>add</corr></choice> life-power to <del>his</del> the life in meanings, spirit
+               <lb facs="#facs_5_l_118" n="N017"/>is the unity of power and meaning, of vital life and <choice><orig>the consciousness of</orig><corr>rational</corr></choice> life.
             </p>
          </div>
       </body>
