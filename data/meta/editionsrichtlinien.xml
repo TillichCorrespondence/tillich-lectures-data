@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Paul Tillich: Lectures - Editions- und Kodierrichtlinien</title>
+            <author>
+               <forename>Michaela</forename>
+               <surname>Durst</surname>
+            </author>
+            <author>
+               <forename>Thomas</forename>
+               <surname>Klampfl</surname>
+            </author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Institut für Systematische Theologie und Religionswissenschaft</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2024">2026</date>
+            <availability>
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+                  Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="level-1" xml:id="tl-editionsrichtlinien-1">
+            <head>Editionsrichtlinien</head>
+         </div>
+         <div type="level-1" xml:id="tl-editionsrichtlinien-3">
+            <head>Kodierrichtlinien - Lectures</head>
+         </div>
+         <div type="level-1" xml:id="tl-editionsrichtlinien-2">
+            <head>Kodierrichtlinien - Additional Material</head>
+            <div type="level-2" xml:id="tl-editionsrichtlinien-2-3">
+               <head>Das <code>div</code>-Element</head>
+               <p>Der gesamte Text eines Dokuments ist von einem <code>div</code> umschlossen. Die Untergliederung in Seiten erfolgt mit dem <code>pb</code>-Element.</p>
+            </div>
+            <div type="level-2" xml:id="tl-editionsrichtlinien-2-1">
+               <head>Paragraphen</head>
+               <p>Paragraphen werden mit dem <code>p</code>-Element erfasst. Zwei Attribute können verwendet werden: <code>@rend</code> und <code>@style</code>.</p>
+               <p>Das <code>rend</code>-Attribut spezifiziert, ob es sich um eine Überschrift oder normalen Text handelt, und ob es sich um handschriftlichen Text oder um Maschinenschrift handelt. Fehlt das <code>rend</code>-Attribut, so handelt es sich um maschinengeschriebenen, normalen Text. Ist <code>@rend = 'heading'</code> so liegt eine Überschrift vor, ist <code>@rend = 'handwritten'</code> so handelt es sich um handschriftlichen Text.</p>
+               <p>Das <code>style</code>-Attribut muss als Inhalt CSS-Angaben beinhalten; diese werden in das Ergebnis-HTML mit übernommen. Beispiele für das <code>style</code>-Attribut sind:</p>
+               <list type="index" rend="unordered-list">
+                  <item><code>@style = 'margin-left: 8em;'</code> - Einzug auf der linken Seite des Paragraphen.</item>
+                  <item><code>@style = 'margin-left: 8em; margin-right: 8em;'</code> - Einzug sowohl auf der linken als auch auf der rechten Seite des Paragraphen.</item>
+                  <item><code>@style = 'border-top: 1pt black solid; border-bottom: 1pt black solid;'</code> - Ein Text mit Über- und Unterstreichung.</item>
+                  <item><code>@style = 'text-align: center;'</code> - Der Textinhalt des Paragraphen wird horizontal zentriert dargestellt.</item>
+               </list>
+               <p>Weiters kann auf Paragraphen das <code>rend</code>-Attribut gesetzt werden. Unterstützte Werte sind <code>without-space</code>, <code>without-space-before</code> und <code>without-space-after</code>. Diese beinflussen den Abstand zwischen Paragraphen, und imitieren die Abstände im maschinengeschriebenen Text des Originals.</p>
+            </div>
+            <div type="level-2" xml:id="tl-editionsrichtlinien-2-2">
+               <head>Listen</head>
+               <p>Mit <code>list @type = 'index'</code> wird eine Liste kodiert. Die einzelnen Listenpunkte werden mit dem Tag <code>item</code> ausgezeichnet. Das <code>list</code>-Element trägt neben dem <code>type</code>-Attribut ein weiteres Attribut nämlich <code>@rend</code>. Dieses kann mit den Werten <code>none</code> oder <code>number-arabic</code> befüllt werden. Mit dem Attributwert <code>none</code> erhält man eine Liste ohne Markierung der Listenpunkte. Dies ist für Listen, die im Original eine Nummerierung tragen, geeignet. Mit dem Attributwert <code>number-arabic</code> erhält man eine mit arabischen Ziffern nummerierte Liste.</p>
+            </div>
+            <div type="level-2" xml:id="tl-editionsrichtlinien-2-4">
+               <head>Seitenbeginn</head>
+               <p>Jede beginnende Seite wird mit dem <code>pb</code>-Element markiert. Dieses trägt ein Attribut <code>@facs</code>, das eine Referenz auf ein <code>facsimile</code>-Element beinhaltet. Weiters trägt das <code>pb</code>-Element ein Attribut <code>xml:id</code>, mit einem eindeutigen Identifier, und <code>n</code> mit einer Bezeichnung. Diese <code>pb</code>-Elemente werden (vermutlich) von Transkribus automatisch erzeugt.</p>
+            </div>
+            <div type="level-2" xml:id="tl-editionsrichtlinien-2-5">
+               <head>Inline-Markup</head>
+               <p>Für die Auszeichnung von Textphänomenen innerhalb des laufenden Textes werden folgende Elemente verwendet:</p>
+               <list type="index" rend="unordered-list">
+                  <item><code>add</code> - Hinzufügungen des Autors.</item>
+                  <item><code>del</code> - Streichungen durch den Autor.</item>
+                  <item><code>choice</code> - Änderungen am Text durch den Autor.</item>
+                  <item><code>gap</code> - Lücken im Text.</item>
+                  <item><code>unclear</code> - Unleserlicher Text.</item>
+                  <item><code>hi</code> - Hervorhebungen im Text.</item>
+               </list>
+               <div type="level-3" xml:id="tl-editionsrichtlinien-2-5-1">
+                  <head>Hinzufügungen</head>
+                  <p>Für Hinzufügungen des Autors zum laufenden Text wird das <code>add</code>-Element verwendet. Befindet sich der hinzugefügte Text unterhalb der Zeile so wird das Attribut <code>@place</code> auf den Wert <code>below</code> gesetzt. Fehlt das Attribut <code>@place</code> so handelt es sich um eine Hinzufügung über der Zeile.</p>
+               </div>
+               <div type="level-3" xml:id="tl-editionsrichtlinien-2-5-2">
+                  <head>Löschungen</head>
+                  <p>Streichungen durch den Autor im laufenden Text werden durch <code>del</code> repräsentiert.</p>
+               </div>
+               <div type="level-3" xml:id="tl-editionsrichtlinien-2-5-3">
+                  <head>Änderungen</head>
+                  <p>Mittels <code>choice</code> werden Kombinationen von Streichungen und Hinzufügungen kodiert. Der ursprüngliche Text wird mittels dem <code>orig</code>-Element erfasst, die Korrektur des Textes mittels dem <code>corr</code>-Element.</p>
+               </div>
+               <div type="level-3" xml:id="tl-editionsrichtlinien-2-5-4">
+                  <head>Lücken</head>
+                  <p>Das <code>gap</code>-Element wird verwendet um Lücken im Text auszuzeichen. Es muss mit dem <code>@quantity</code>-Attribut die Breite des fehlenden Textes als Vielfaches eines Zeichens angegeben werden.</p>
+               </div>
+               <div type="level-3" xml:id="tl-editionsrichtlinien-2-5-5">
+                  <head>Unleserlicher Text</head>
+                  <p>Unleserlicher Text wird mit dem <code>unclear</code>-Element kodiert. Es muss das Attribut <code>@unit</code> und das Attribut <code>@quantity</code> für die Angabe der Länge des unlesbaren Textes verwendet werden.</p>
+               </div>
+               <div type="level-3" xml:id="tl-editionsrichtlinien-2-5-6">
+                  <head>Hervorhebungen</head>
+                  <p>Für Hervorhebungen durch den Autor im fließenden Text wird das Element <code>hi</code> verwendet. Über das Attribut <code>@style</code> wird die Darstellung mittels CSS-Deklarationen kodiert.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>
