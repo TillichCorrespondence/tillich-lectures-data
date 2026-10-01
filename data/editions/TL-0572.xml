@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-43">Lecture XLIII (Nr. 0572)</title>
+            <title type="main" n="TL-lecture-35">Lecture XXXV (Nr. 0455)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -30,7 +30,7 @@
          <publicationStmt>
             <p>
                <idno type="transkribus_col_id">271480</idno>
-               <idno type="transkribus_doc_id">1830352</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part4_p098</locus>
+                     <locus>part3_p063</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-04-24">1956-04-24</date>
+                <date when-iso="1956-03-12">1956-03-12</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,32 +63,35 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_98">
-         <graphic url="TL-0572.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=WZSLUPQJMWQOCMMUUQXCACST&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="310,260 2418,260 2418,2129 310,2129" rendition="TextRegion" xml:id="facs_98_tr_1">
-            <zone points="1138,309 1151,309 1171,324 1205,327 1240,327 1247,319 1262,319 1262,257 1238,257 1225,270 1200,270 1186,260 1173,272 1138,272" rendition="Line" xml:id="facs_98_tr_1_tl_1"/>
-            <zone points="324,485 2252,478 2277,431 1366,431 1275,379 1195,431 324,438" rendition="Line" xml:id="facs_98_tr_1_tl_2"/>
-            <zone points="540,616 2247,624 2210,564 540,567" rendition="Line" xml:id="facs_98_tr_1_tl_3" subtype="paragraph"/>
-            <zone points="309,770 2289,775 2289,718 309,740" rendition="Line" xml:id="facs_98_tr_1_tl_4"/>
-            <zone points="309,918 2133,933 2156,871 309,893" rendition="Line" xml:id="facs_98_tr_1_tl_5"/>
-            <zone points="312,1074 2121,1084 2279,1077 2282,1020 314,1025" rendition="Line" xml:id="facs_98_tr_1_tl_6"/>
-            <zone points="314,1228 2257,1230 2275,1168 314,1195" rendition="Line" xml:id="facs_98_tr_1_tl_7"/>
-            <zone points="968,1384 2044,1398 2413,1381 2413,1324 968,1332" rendition="Line" xml:id="facs_98_tr_1_tl_8"/>
-            <zone points="309,1527 2294,1532 2294,1473 309,1478" rendition="Line" xml:id="facs_98_tr_1_tl_10"/>
-            <zone points="302,1676 1401,1710 1797,1688 1797,1634 1443,1636 1393,1589 1346,1636 302,1653" rendition="Line" xml:id="facs_98_tr_1_tl_11"/>
-            <zone points="532,1817 1653,1809 1730,1844 1713,1760 532,1765" rendition="Line" xml:id="facs_98_tr_1_tl_14" subtype="paragraph"/>
-            <zone points="299,1963 2074,1980 2260,1970 2260,1918 299,1930" rendition="Line" xml:id="facs_98_tr_1_tl_15"/>
-            <zone points="297,2116 2049,2133 2143,2124 2143,2072 297,2094" rendition="Line" xml:id="facs_98_tr_1_tl_16"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_63">
+         <graphic url="TL-0455.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AREKQGJWTGVFNVVFENKYHNKA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,281 2295,281 2295,1407 298,1407" rendition="TextRegion" xml:id="facs_63_tr_1">
+            <zone points="1151,340 1186,340 1207,350 1278,350 1275,261 1250,261 1237,274 1148,279" rendition="Line" xml:id="facs_63_tr_1_tl_1"/>
+            <zone points="309,494 2289,492 2058,413 309,451" rendition="Line" xml:id="facs_63_tr_1_tl_2"/>
+            <zone points="297,639 750,692 2233,659 2233,601 2081,596 297,613" rendition="Line" xml:id="facs_63_tr_1_tl_3"/>
+            <zone points="304,788 383,837 1313,854 1460,796 2233,814 2233,755 2117,743 304,743" rendition="Line" xml:id="facs_63_tr_1_tl_4"/>
+            <zone points="299,948 2190,966 2190,905 2056,892 299,895" rendition="Line" xml:id="facs_63_tr_1_tl_5"/>
+            <zone points="284,1090 2137,1113 2137,1055 1906,1042 284,1065" rendition="Line" xml:id="facs_63_tr_1_tl_6"/>
+            <zone points="289,1247 2208,1262 2183,1199 289,1212" rendition="Line" xml:id="facs_63_tr_1_tl_7"/>
+            <zone points="289,1399 2178,1394 2142,1349 1582,1338 289,1366" rendition="Line" xml:id="facs_63_tr_1_tl_8"/>
          </zone>
-         <zone points="23,2210 2316,2210 2316,3464 23,3464" rendition="TextRegion" xml:id="facs_98_tr_2">
-            <zone points="302,2270 1903,2284 2279,2272 2279,2223 302,2228" rendition="Line" xml:id="facs_98_tr_2_tl_1"/>
-            <zone points="299,2423 1827,2438 2171,2421 2171,2371 299,2393" rendition="Line" xml:id="facs_98_tr_2_tl_2"/>
-            <zone points="297,2574 1572,2589 2133,2572 2133,2524 297,2534" rendition="Line" xml:id="facs_98_tr_2_tl_3"/>
-            <zone points="297,2725 1728,2740 2128,2725 2128,2668 297,2678" rendition="Line" xml:id="facs_98_tr_2_tl_4"/>
-            <zone points="290,2873 1111,2896 1252,2878 1255,2831 292,2834" rendition="Line" xml:id="facs_98_tr_2_tl_5"/>
-            <zone points="515,3032 2032,3037 2183,3029 2185,2985 517,2980" rendition="Line" xml:id="facs_98_tr_2_tl_6" subtype="paragraph"/>
-            <zone points="285,3175 1327,3180 1327,3118 1272,3143 285,3146" rendition="Line" xml:id="facs_98_tr_2_tl_9"/>
+         <zone points="280,1490 2239,1490 2239,2613 280,2613" rendition="TextRegion" xml:id="facs_63_tr_3">
+            <zone points="286,1556 1676,1602 1774,1549 2223,1556 2223,1498 286,1521" rendition="Line" xml:id="facs_63_tr_3_tl_1"/>
+            <zone points="286,1706 608,1767 1240,1729 1298,1780 2172,1709 2172,1653 2015,1638 286,1653" rendition="Line" xml:id="facs_63_tr_3_tl_2"/>
+            <zone points="286,1853 2140,1871 2104,1797 1982,1790 286,1800" rendition="Line" xml:id="facs_63_tr_3_tl_3"/>
+            <zone points="281,2000 717,2086 1516,1998 2104,2008 2053,1947 1011,1954 758,1866 598,1952 281,1952" rendition="Line" xml:id="facs_63_tr_3_tl_4"/>
+            <zone points="281,2152 2233,2155 2233,2107 2086,2091 281,2104" rendition="Line" xml:id="facs_63_tr_3_tl_5"/>
+            <zone points="271,2297 2152,2309 2152,2256 271,2254" rendition="Line" xml:id="facs_63_tr_3_tl_6"/>
+            <zone points="266,2449 1790,2461 1787,2408 266,2426" rendition="Line" xml:id="facs_63_tr_3_tl_7"/>
+            <zone points="489,2601 2185,2621 2185,2555 489,2576" rendition="Line" xml:id="facs_63_tr_3_tl_8" subtype="paragraph"/>
+         </zone>
+         <zone points="206,2696 2301,2696 2301,3488 206,3488" rendition="TextRegion" xml:id="facs_63_tr_2">
+            <zone points="261,2750 2294,2771 2294,2702 261,2705" rendition="Line" xml:id="facs_63_tr_2_tl_1"/>
+            <zone points="484,2913 2086,2910 2109,2852 487,2859" rendition="Line" xml:id="facs_63_tr_2_tl_3"/>
+            <zone points="261,3052 284,3062 368,3060 403,3072 418,3062 563,3062 563,3024 512,3024 484,2996 472,2996 444,3024 383,3019 373,3027 345,2999 261,2996" rendition="Line" xml:id="facs_63_tr_2_tl_4"/>
+            <zone points="497,3179 2051,3143 2183,3133 2183,3067 497,3072" rendition="Line" xml:id="facs_63_tr_2_tl_5" subtype="paragraph"/>
+            <zone points="254,3290 702,3334 2096,3308 2096,3250 563,3283 254,3240" rendition="Line" xml:id="facs_63_tr_2_tl_6"/>
          </zone>
       </surface>
       
@@ -96,33 +99,33 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0572.jpg" n="part4_p098.jpg" xml:id="img_0098" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p098.jpg"/>
+            <pb facs="#TL-0455.jpg" n="part3_p063.jpg" xml:id="img_0063" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p063.jpg"/>
             
-            <fw facs="#facs_98_tr_1">
-               <lb facs="#facs_98_tr_1_tl_1" n="N001"/>[567]</fw>
+            <fw facs="#facs_63_tr_1">
+               <lb facs="#facs_63_tr_1_tl_1" n="N001"/>[450]</fw>
            <p rend="tei-p-no-indent">
-              <lb facs="#facs_98_tr_1_tl_2" n="N002"/>good works. Now this is not European at all! <hi style="font-style: italic;">[little laughter]</hi> In <rs type="place">Europe</rs>, the state has to do this.</p>
+              <lb facs="#facs_63_tr_1_tl_2" n="N002"/>although, as <rs type="person" ref="#tillich_person_id__841">Karl Barth</rs> says, we all are romantics by nature (he means, by <rs type="keyword" ref="#History">history</rs>) <hi style="font-style: italic;">[some laughter]</hi>—it 
+               <lb facs="#facs_63_tr_1_tl_3" n="N003"/>is regrettable that the <emph rend="allcaps">true</emph> <rs type="keyword" ref="#Meaning">meaning</rs> of <rs type="keyword" ref="#Romanticism">romanticism</rs>, namely its heritage from the <rs type="keyword" ref="#Renaissance">Renaissance</rs>
+               <lb facs="#facs_63_tr_1_tl_4" n="N004"/>vision of reality as the self-manifestation of the Divine, has been lost so much and, instead of that,
+               <lb facs="#facs_63_tr_1_tl_5" n="N005"/>this theistic or rationalistic dualism which suppresses the natural and makes it exclusively
+               <lb facs="#facs_63_tr_1_tl_6" n="N006"/>a means for human ends. Are we still able, and if so, to what degree, to contemplate quietly,
+               <lb facs="#facs_63_tr_1_tl_7" n="N007"/>natural realities—not only taking a car and running through it [i.e. nature] and having swimming
+               <lb facs="#facs_63_tr_1_tl_8" n="N008"/>and other exercises, if we don’t prefer to read the <hi style="font-style: italic;">New York Times</hi>, sitting in a beautiful place—are 
+               <lb facs="#facs_63_tr_3_tl_1" n="N001"/>we able to contemplate the <rs type="keyword" ref="#Power_of_Being">power of being</rs> in natural phenomena? Or is the dynamics of the
+               <lb facs="#facs_63_tr_3_tl_2" n="N002"/>gadgets, of the means-for-ends which again are the means for other ends, etc., so powerful upon
+               <lb facs="#facs_63_tr_3_tl_3" n="N003"/>our lives (now I speak here against myself) that we are not able any more to have this intuitive
+               <lb facs="#facs_63_tr_3_tl_4" n="N004"/>relationship to the divine depths which we also find in nature? And it is interesting that the
+               <lb facs="#facs_63_tr_3_tl_5" n="N005"/>creators of modern <rs type="keyword" ref="#Science">science</rs>, and today again some of the great <rs type="keyword" ref="#Scientist">scientists</rs>, try to make us understand
+               <lb facs="#facs_63_tr_3_tl_6" n="N006"/>that their work is—just as <rs type="person" ref="#tillich_person_id__1042">Kepler</rs> said when he discovered the ways of the planets—that this is a
+              <lb facs="#facs_63_tr_3_tl_7" n="N007"/>description of the divine Glory, and that for this reason he wants to give this.</p>
            <p>
-               <lb facs="#facs_98_tr_1_tl_3" n="N003"/>Now on this basis I tried to find out—and I think I found it out just when I discovered
-               <lb facs="#facs_98_tr_1_tl_4" n="N004"/>the nature of British conformity—what is going on in this country sociologically, and I had to invent
-              <lb facs="#facs_98_tr_1_tl_5" n="N005"/>a new word (perhaps it already existed, perhaps not): <rs type="keyword" ref="#Patternization">patternization,</rs> derived from “pattern,”
-               <lb facs="#facs_98_tr_1_tl_6" n="N006"/>bringing every <rs type="keyword" ref="#Individual">individual</rs> into a pattern. This is not the same as collectivism or <rs type="keyword" ref="#Conformism">conformism,</rs> or even
-               <lb facs="#facs_98_tr_1_tl_7" n="N007"/>conformity, but it is not <rs type="keyword" ref="#Individualism">individualism</rs> either. It is a quite different sociological form for which we
-               <lb facs="#facs_98_tr_1_tl_8" n="N008"/>need another word. And if this word is too bad English, perhaps you will give me another or
-               <lb facs="#facs_98_tr_1_tl_10" n="N009"/>one could also say modelization, but I don't know whether that is much better English—in any case:
-              <lb facs="#facs_98_tr_1_tl_11" n="N010"/>making, forming, or shaping human beings according to a model or a pattern.</p>
+               <lb facs="#facs_63_tr_3_tl_8" n="N008"/>Now, is the ideal of <rs type="keyword" ref="#Personality">personality</rs> not a way of cutting us off from the nature beside us,
+               <lb facs="#facs_63_tr_2_tl_1" n="N001"/>as a manifestation of the <rs type="keyword" ref="#Ultimacy">ultimate</rs> which <emph rend="allcaps">speaks</emph> to us, and in which we are enriched in an encounter,
+               <lb facs="#facs_63_tr_2_tl_3" n="N002"/>by <rs type="keyword" ref="#Power_of_Being">power of being</rs>, expressing the <rs type="keyword" ref="#Ground_of_Being">ground of being</rs> in itself and for us?—That is the
+              <lb facs="#facs_63_tr_2_tl_4" n="N003"/>first question.</p>
            <p>
-               <lb facs="#facs_98_tr_1_tl_14" n="N011"/>Now this is developing in very radical ways in unity with the urbanization of this
-               <lb facs="#facs_98_tr_1_tl_15" n="N012"/>country. The so-called “grass roots,” as they are mainly to be found in the middle West, still have
-               <lb facs="#facs_98_tr_1_tl_16" n="N013"/>something of genuine conformity; they do not have <rs type="keyword" ref="#Individualism">individualism</rs> in the European sense, but
-               <lb facs="#facs_98_tr_2_tl_1" n="N001"/>they have some elements of conformity in the British sense. But in the big cities, the mechanization
-               <lb facs="#facs_98_tr_2_tl_2" n="N002"/>of life is one of the factors for the subjecting of every <rs type="keyword" ref="#Individual">individual</rs> to a special pattern of life and
-               <lb facs="#facs_98_tr_2_tl_3" n="N003"/>thought—but not on the basis of a living tradition, as in England, where the cathedrals of the
-               <lb facs="#facs_98_tr_2_tl_4" n="N004"/>15th century are as real as the latest, very poor amendments in plumbing. The reality of the
-              <lb facs="#facs_98_tr_2_tl_5" n="N005"/><rs type="keyword" ref="#Tradition">tradition</rs> distinguishes conformity from pattern.</p>
-           <p>
-               <lb facs="#facs_98_tr_2_tl_6" n="N006"/>We are now in this situation here, namely the problem of the pattern. This problem
-               <lb facs="#facs_98_tr_2_tl_9" n="N007"/>has been sharpened every day, almost, with the new inventions in the realm of public communications,
+               <lb facs="#facs_63_tr_2_tl_5" n="N004"/>The second is with respect to other beings. No, let me introduce another thing which
+               <lb facs="#facs_63_tr_2_tl_6" n="N005"/>has to do with nature, before I come to the human—namely the technical forming of nature.
             </p>
             
         </div>

@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-45">Lecture XLV (Nr. 0600)</title>
+            <title type="main" n="TL-lecture-43">Lecture XLIII (Nr. 0570)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part4_p126</locus>
+                     <locus>part4_p096</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-05-01">1956-05-01</date>
+                <date when-iso="1956-04-24">1956-04-24</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,30 +63,32 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_126">
-         <graphic url="TL-0600.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=SEXBDZKFLHPCGHHFXKHUVSQR&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="196,243 196,3463 2355,3463 2355,243" rendition="TextRegion" xml:id="facs_126_tr_2">
-            <zone points="1127,309 1140,309 1158,326 1198,326 1206,319 1227,324 1242,309 1255,309 1255,263 1219,263 1201,245 1188,258 1176,258 1163,270 1127,270" rendition="Line" xml:id="facs_126_tr_2_tl_1"/>
-            <zone points="306,462 2155,484 2155,431 2048,398 1971,431 1696,393 1556,428 1517,390 1461,426 1357,390 1262,426 1056,390 989,426 780,426 745,390 694,426 599,390 306,421" rendition="Line" xml:id="facs_126_tr_2_tl_2"/>
-            <zone points="301,604 2351,630 2351,576 1584,553 301,581" rendition="Line" xml:id="facs_126_tr_2_tl_3"/>
-            <zone points="306,760 2183,775 2183,722 2114,714 306,709" rendition="Line" xml:id="facs_126_tr_2_tl_4"/>
-            <zone points="296,910 2188,926 2188,875 1935,857 296,882" rendition="Line" xml:id="facs_126_tr_2_tl_5"/>
-            <zone points="1046,1079 2152,1074 2152,1020 1629,1043 1492,1005 1046,1002" rendition="Line" xml:id="facs_126_tr_2_tl_7"/>
-            <zone points="291,1209 1025,1250 2193,1227 2193,1170 291,1183" rendition="Line" xml:id="facs_126_tr_2_tl_8"/>
-            <zone points="291,1369 2127,1382 2127,1329 2030,1311 291,1321" rendition="Line" xml:id="facs_126_tr_2_tl_9"/>
-            <zone points="291,1517 339,1527 411,1522 421,1533 464,1522 548,1522 548,1487 533,1487 513,1466 326,1464 311,1482 291,1482" rendition="Line" xml:id="facs_126_tr_2_tl_10"/>
-            <zone points="520,1589 2203,1632 2203,1543 2165,1540 640,1561 520,1530" rendition="Line" xml:id="facs_126_tr_2_tl_11" subtype="paragraph"/>
-            <zone points="283,1744 1448,1798 2218,1757 2218,1686 283,1701" rendition="Line" xml:id="facs_126_tr_2_tl_12"/>
-            <zone points="283,1887 1660,1930 2218,1905 2218,1854 1933,1839 283,1861" rendition="Line" xml:id="facs_126_tr_2_tl_13"/>
-            <zone points="280,2032 2208,2053 2208,1994 2099,1986 280,2009" rendition="Line" xml:id="facs_126_tr_2_tl_14"/>
-            <zone points="268,2185 2106,2203 2106,2155 2017,2142 268,2162" rendition="Line" xml:id="facs_126_tr_2_tl_15"/>
-            <zone points="275,2338 2168,2366 2168,2308 275,2298" rendition="Line" xml:id="facs_126_tr_2_tl_16"/>
-            <zone points="273,2491 2127,2509 2127,2458 2088,2456 273,2445" rendition="Line" xml:id="facs_126_tr_2_tl_17"/>
-            <zone points="275,2644 1288,2660 1288,2606 1081,2586 275,2598" rendition="Line" xml:id="facs_126_tr_2_tl_18"/>
-            <zone points="487,2792 2234,2813 2234,2744 487,2741" rendition="Line" xml:id="facs_126_tr_2_tl_19" subtype="paragraph"/>
-            <zone points="260,2945 2157,2950 2116,2899 260,2917" rendition="Line" xml:id="facs_126_tr_2_tl_20"/>
-            <zone points="263,3101 2150,3116 2150,3060 2083,3042 263,3052" rendition="Line" xml:id="facs_126_tr_2_tl_21"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_96">
+         <graphic url="TL-0570.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=IMMXQEKICYKMIJQNXWNNDQTO&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,248 2301,248 2301,1977 298,1977" rendition="TextRegion" xml:id="facs_96_tr_1">
+            <zone points="1132,301 1145,301 1175,318 1205,318 1210,313 1215,318 1242,318 1250,311 1263,311 1265,240 1230,245 1217,235 1195,258 1132,263" rendition="Line" xml:id="facs_96_tr_1_tl_1"/>
+            <zone points="306,463 1971,468 2044,463 2044,403 306,423" rendition="Line" xml:id="facs_96_tr_1_tl_2"/>
+            <zone points="306,614 2037,631 2134,621 2134,564 306,584" rendition="Line" xml:id="facs_96_tr_1_tl_3"/>
+            <zone points="298,757 2124,774 2124,719 1881,704 298,734" rendition="Line" xml:id="facs_96_tr_1_tl_4"/>
+            <zone points="296,909 2184,927 2149,852 296,887" rendition="Line" xml:id="facs_96_tr_1_tl_5"/>
+            <zone points="303,1077 2092,1070 2134,1012 303,1035" rendition="Line" xml:id="facs_96_tr_1_tl_6"/>
+            <zone points="298,1225 1929,1230 2187,1220 2187,1165 298,1180" rendition="Line" xml:id="facs_96_tr_1_tl_7"/>
+            <zone points="296,1360 2047,1395 2134,1315 296,1335" rendition="Line" xml:id="facs_96_tr_1_tl_8"/>
+            <zone points="296,1516 1137,1533 1245,1526 1245,1463 336,1463 296,1485" rendition="Line" xml:id="facs_96_tr_1_tl_9"/>
+            <zone points="521,1671 2027,1701 2167,1668 2167,1608 521,1616" rendition="Line" xml:id="facs_96_tr_1_tl_10" subtype="paragraph"/>
+            <zone points="283,1814 711,1876 1445,1819 2297,1856 2297,1769 2134,1759 283,1791" rendition="Line" xml:id="facs_96_tr_1_tl_11"/>
+            <zone points="288,1971 2152,1974 2152,1919 288,1944" rendition="Line" xml:id="facs_96_tr_1_tl_12"/>
+         </zone>
+         <zone points="115,2057 2203,2057 2203,3455 115,3455" rendition="TextRegion" xml:id="facs_96_tr_2">
+            <zone points="283,2117 2197,2124 2197,2072 2052,2057 283,2077" rendition="Line" xml:id="facs_96_tr_2_tl_1"/>
+            <zone points="291,2272 2182,2280 2182,2219 291,2224" rendition="Line" xml:id="facs_96_tr_2_tl_2"/>
+            <zone points="293,2437 1996,2437 2169,2422 2169,2367 293,2375" rendition="Line" xml:id="facs_96_tr_2_tl_3"/>
+            <zone points="288,2580 2177,2580 2177,2525 288,2530" rendition="Line" xml:id="facs_96_tr_2_tl_4"/>
+            <zone points="281,2723 2102,2740 2102,2668 2039,2665 281,2680" rendition="Line" xml:id="facs_96_tr_2_tl_5"/>
+            <zone points="281,2891 734,2946 799,2881 2164,2883 2184,2821 281,2838" rendition="Line" xml:id="facs_96_tr_2_tl_6"/>
+            <zone points="281,3031 1974,3039 2177,3029 2177,2971 281,2983" rendition="Line" xml:id="facs_96_tr_2_tl_7"/>
+            <zone points="283,3174 2127,3181 2127,3121 283,3124" rendition="Line" xml:id="facs_96_tr_2_tl_8"/>
          </zone>
       </surface>
       
@@ -94,32 +96,31 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0600.jpg" n="part4_p126.jpg" xml:id="img_0126" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p126.jpg"/>
+            <pb facs="#TL-0570.jpg" n="part4_p096.jpg" xml:id="img_0096" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p096.jpg"/>
             
-            <fw facs="#facs_126_tr_2">
-               <lb facs="#facs_126_tr_2_tl_1" n="N001"/>[595]</fw>
+            <fw facs="#facs_96_tr_1">
+               <lb facs="#facs_96_tr_1_tl_1" n="N001"/>[565]</fw>
            <p rend="tei-p-no-indent">
-               <lb facs="#facs_126_tr_2_tl_2" n="N002"/>It is the special American type of relating the problems of <rs type="keyword" ref="#Ultimate_Concern">ultimate concern</rs> to the preliminary
-               <lb facs="#facs_126_tr_2_tl_3" n="N003"/>concerns which are <rs type="keyword" ref="#Politics">politics.</rs> And I think that the political realm [being] taken so seriously by American
-               <lb facs="#facs_126_tr_2_tl_4" n="N004"/><rs type="keyword" ref="#Christianity">Christianity</rs> is one of this country's greatest assets, and is something of which <rs type="keyword" ref="#Europe">Europe</rs> should be
-               <lb facs="#facs_126_tr_2_tl_5" n="N005"/>envious. Perhaps America should be envious about the seriousness of the <rs type="keyword" ref="#Philosophy">philosophical</rs> and even
-               <lb facs="#facs_126_tr_2_tl_7" n="N006"/>more the <rs type="keyword" ref="#Theology">theological</rs> problems [which] are taken in Europe. But the other side is that
-               <lb facs="#facs_126_tr_2_tl_8" n="N007"/>Europe <emph rend="allcaps">doesn't</emph> take the political problems, in the name of <rs type="keyword" ref="#Religion">religion,</rs> as seriously as it was done
-               <lb facs="#facs_126_tr_2_tl_9" n="N008"/>and is being done in this country. So I don't say that in terms of a criticism but in terms of a
-              <lb facs="#facs_126_tr_2_tl_10" n="N009"/>description.</p>
+               <lb facs="#facs_96_tr_1_tl_2" n="N002"/>two things and give to the essential description the term “conformity” and the distorted
+               <lb facs="#facs_96_tr_1_tl_3" n="N003"/>description the term “conformism.” Now if this is the case, then we have in <rs type="place">England</rs>, against
+               <lb facs="#facs_96_tr_1_tl_4" n="N004"/>the tremendous development of liberal individuality in <rs type="place">France</rs> and <rs type="place">Germany</rs> and the smaller
+               <lb facs="#facs_96_tr_1_tl_5" n="N005"/>countries around, we have in <rs type="place">Great Britain</rs> a development of <rs type="keyword" ref="#Tradition">traditions</rs> which do not necessarily
+               <lb facs="#facs_96_tr_1_tl_6" n="N006"/>produce conformism in terms of intentional subjection to conventional rules, but in terms of
+               <lb facs="#facs_96_tr_1_tl_7" n="N007"/>growth which is automatic and has not necessarily the character of an external subjection. This
+               <lb facs="#facs_96_tr_1_tl_8" n="N008"/>seems to me a very important distinction. This, for instance, accounts for the following little
+              <lb facs="#facs_96_tr_1_tl_9" n="N009"/>story I experienced a few years ago in<rs type="place"> England</rs>:</p>
            <p>
-               <lb facs="#facs_126_tr_2_tl_11" n="N010"/>Then you all know what has happened with this movement. It was destroyed both by
-               <lb facs="#facs_126_tr_2_tl_12" n="N011"/>Hitler and Stalin. I remember how Dr. Niebuhr's criticism of religious pacifism went hand in hand
-              <lb facs="#facs_126_tr_2_tl_13" n="N012"/>with the increasing aggressiveness of Hitlerism, then with the alliance of <rs type="person" ref="#tillich_person_id__910">Hitler</rs> and <rs type="person" ref="#tillich_person_id__1838">Stalin</rs>, and then
-              <lb facs="#facs_126_tr_2_tl_14" n="N013"/>with the beginning of the <rs type="keyword" ref="#Second_World_War">Second World War.</rs> In these fires of <rs type="keyword" ref="#History">history,</rs> <rs type="person" ref="#tillich_person_id__1390">Niebuhr</rs>’s understanding of
-               <lb facs="#facs_126_tr_2_tl_15" n="N014"/>the relation of Gospel and <rs type="keyword" ref="#Power">power</rs> <rs type="keyword" ref="#Politics">politics</rs> was carried through in millions of American minds.
-               <lb facs="#facs_126_tr_2_tl_16" n="N015"/>You in your development, mostly younger in this room, have not experienced, as we older ones,
-               <lb facs="#facs_126_tr_2_tl_17" n="N016"/>the radical change which happened both by <rs type="keyword" ref="#Theology">theological</rs> reflection and by the historical powers
-              <lb facs="#facs_126_tr_2_tl_18" n="N017"/>which are always more convincing than discussions.</p>
-           <p>
-               <lb facs="#facs_126_tr_2_tl_19" n="N018"/>Now what is behind this development? Here again the peace which is the ultimate unity
-               <lb facs="#facs_126_tr_2_tl_20" n="N019"/>of the disrupted elements of reality in the <rs type="keyword" ref="#Kingdom_of_God">kingdom of God</rs>—which is the <rs type="keyword" ref="#Symbols">symbol</rs> for this unity—was 
-               <lb facs="#facs_126_tr_2_tl_21" n="N020"/>applied to history not as a <emph rend="allcaps">criterion</emph>, but as a <rs type="keyword" ref="#Law"><emph rend="allcaps">law.</emph></rs> One was <emph rend="allcaps">asked to be</emph> a <rs type="keyword" ref="#Pacifism">pacifist,</rs>
+               <lb facs="#facs_96_tr_1_tl_10" n="N010"/>I had to give to a group of students and professors a lecture on <rs type="keyword" ref="#Existentialism">existentialism</rs>, and I
+               <lb facs="#facs_96_tr_1_tl_11" n="N011"/>developed the main ideas about the human predicament, which we find in philosophers like <rs type="person" ref="#tillich_person_id__841">Heidegger</rs>
+               <lb facs="#facs_96_tr_1_tl_12" n="N012"/>and theologians like <rs type="person" ref="#tillich_person_id__1049">Kierkegaard</rs> and artists and painters like <rs type="person" ref="#tillich_person_id__1495">Picasso</rs>, and novelists like <rs type="person" ref="#tillich_person_id__1008">Kafka</rs>.
+               <lb facs="#facs_96_tr_2_tl_1" n="N001"/>Now then, I wanted a discussion. There was first a great silence, and then I was asked, “Do you
+               <lb facs="#facs_96_tr_2_tl_2" n="N002"/>think that this fits the English life at all?” Now I could of course answer in terms of pointing to
+               <lb facs="#facs_96_tr_2_tl_3" n="N003"/>people like<rs type="person" ref="#tillich_person_id__523"> Eliot</rs> and<rs type="person" ref="#tillich_person_id__3156"> Greene</rs> and <rs type="person" ref="#tillich_person_id__3157">Auden</rs> and others, who are supposed to be British by birth or
+               <lb facs="#facs_96_tr_2_tl_4" n="N004"/>choice, and a few other things like this, and then I asked: Isn't there in the younger generation,
+               <lb facs="#facs_96_tr_2_tl_5" n="N005"/>in the <emph rend="allcaps">youngest</emph> generation, even on places like <rs type="place">Oxford</rs> and <rs type="place">Cambridge</rs>, where the logical
+               <lb facs="#facs_96_tr_2_tl_6" n="N006"/>positivistic <rs type="keyword" ref="#Tradition">tradition</rs> is now prevailing, a new tendency toward asking relevant questions, namely
+               <lb facs="#facs_96_tr_2_tl_7" n="N007"/>questions relevant to human existence, even in <rs type="keyword" ref="#Philosophy">philosophy</rs>? And there was hesitation, but there
+               <lb facs="#facs_96_tr_2_tl_8" n="N008"/>was the feeling that perhaps a change is going on. The same experience, ten years earlier, was
             </p>
             
         </div>

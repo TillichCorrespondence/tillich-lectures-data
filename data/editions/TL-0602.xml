@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-45">Lecture XLV (Nr. 0602)</title>
+            <title type="main" n="TL-lecture-43">Lecture XLIII (Nr. 0572)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part4_p128</locus>
+                     <locus>part4_p098</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-05-01">1956-05-01</date>
+                <date when-iso="1956-04-24">1956-04-24</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,29 +63,32 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_128">
-         <graphic url="TL-0602.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=IWEQNBPTEGKJPGJFKAHHTQNW&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="44,231 49,3255 2252,3265 2277,231" rendition="TextRegion" xml:id="facs_128_tr_1">
-            <zone points="1132,297 1145,297 1157,309 1231,309 1239,302 1256,302 1254,232 1219,237 1202,227 1187,242 1179,245 1174,240 1165,250 1130,250" rendition="Line" xml:id="facs_128_tr_1_tl_1"/>
-            <zone points="314,448 2178,470 2121,393 314,418" rendition="Line" xml:id="facs_128_tr_1_tl_2"/>
-            <zone points="312,601 1303,606 1404,645 1476,611 2191,618 2191,566 2035,551 312,576" rendition="Line" xml:id="facs_128_tr_1_tl_3"/>
-            <zone points="314,762 2223,781 2220,724 312,734" rendition="Line" xml:id="facs_128_tr_1_tl_4"/>
-            <zone points="312,915 2245,932 2245,880 2114,863 2079,895 312,870" rendition="Line" xml:id="facs_128_tr_1_tl_5"/>
-            <zone points="312,1061 497,1103 623,1068 1854,1078 1854,1021 312,1029" rendition="Line" xml:id="facs_128_tr_1_tl_6"/>
-            <zone points="519,1214 2267,1229 2267,1174 2030,1157 519,1172" rendition="Line" xml:id="facs_128_tr_1_tl_7" subtype="paragraph"/>
-            <zone points="297,1360 1145,1375 1179,1409 1315,1372 2205,1375 2205,1328 1929,1310 297,1338" rendition="Line" xml:id="facs_128_tr_1_tl_8"/>
-            <zone points="297,1513 2151,1526 2151,1479 1973,1461 297,1469" rendition="Line" xml:id="facs_128_tr_1_tl_9"/>
-            <zone points="299,1671 2270,1676 2270,1629 2134,1619 299,1624" rendition="Line" xml:id="facs_128_tr_1_tl_10"/>
-            <zone points="289,1820 2146,1830 2146,1773 289,1778" rendition="Line" xml:id="facs_128_tr_1_tl_11"/>
-            <zone points="289,1973 2119,1973 2020,1921 289,1926" rendition="Line" xml:id="facs_128_tr_1_tl_12"/>
-            <zone points="284,2116 2163,2134 2163,2087 2094,2069 2008,2104 1637,2065 284,2079" rendition="Line" xml:id="facs_128_tr_1_tl_13"/>
-            <zone points="287,2272 804,2309 2092,2285 2092,2233 1889,2218 287,2230" rendition="Line" xml:id="facs_128_tr_1_tl_14"/>
-            <zone points="279,2418 2107,2438 2107,2391 2023,2374 279,2396" rendition="Line" xml:id="facs_128_tr_1_tl_15"/>
-            <zone points="272,2571 2260,2586 2260,2534 2124,2524 272,2549" rendition="Line" xml:id="facs_128_tr_1_tl_16"/>
-            <zone points="494,2725 2156,2737 2156,2668 1278,2702 494,2675" rendition="Line" xml:id="facs_128_tr_1_tl_17" subtype="paragraph"/>
-            <zone points="272,2876 2129,2880 2129,2833 1835,2826 272,2851" rendition="Line" xml:id="facs_128_tr_1_tl_18"/>
-            <zone points="274,3029 2215,3039 2215,2982 2176,2977 1899,3009 1864,2977 274,2989" rendition="Line" xml:id="facs_128_tr_1_tl_19"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_98">
+         <graphic url="TL-0572.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WZSLUPQJMWQOCMMUUQXCACST&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="310,260 2418,260 2418,2129 310,2129" rendition="TextRegion" xml:id="facs_98_tr_1">
+            <zone points="1138,309 1151,309 1171,324 1205,327 1240,327 1247,319 1262,319 1262,257 1238,257 1225,270 1200,270 1186,260 1173,272 1138,272" rendition="Line" xml:id="facs_98_tr_1_tl_1"/>
+            <zone points="324,485 2252,478 2277,431 1366,431 1275,379 1195,431 324,438" rendition="Line" xml:id="facs_98_tr_1_tl_2"/>
+            <zone points="540,616 2247,624 2210,564 540,567" rendition="Line" xml:id="facs_98_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="309,770 2289,775 2289,718 309,740" rendition="Line" xml:id="facs_98_tr_1_tl_4"/>
+            <zone points="309,918 2133,933 2156,871 309,893" rendition="Line" xml:id="facs_98_tr_1_tl_5"/>
+            <zone points="312,1074 2121,1084 2279,1077 2282,1020 314,1025" rendition="Line" xml:id="facs_98_tr_1_tl_6"/>
+            <zone points="314,1228 2257,1230 2275,1168 314,1195" rendition="Line" xml:id="facs_98_tr_1_tl_7"/>
+            <zone points="968,1384 2044,1398 2413,1381 2413,1324 968,1332" rendition="Line" xml:id="facs_98_tr_1_tl_8"/>
+            <zone points="309,1527 2294,1532 2294,1473 309,1478" rendition="Line" xml:id="facs_98_tr_1_tl_10"/>
+            <zone points="302,1676 1401,1710 1797,1688 1797,1634 1443,1636 1393,1589 1346,1636 302,1653" rendition="Line" xml:id="facs_98_tr_1_tl_11"/>
+            <zone points="532,1817 1653,1809 1730,1844 1713,1760 532,1765" rendition="Line" xml:id="facs_98_tr_1_tl_14" subtype="paragraph"/>
+            <zone points="299,1963 2074,1980 2260,1970 2260,1918 299,1930" rendition="Line" xml:id="facs_98_tr_1_tl_15"/>
+            <zone points="297,2116 2049,2133 2143,2124 2143,2072 297,2094" rendition="Line" xml:id="facs_98_tr_1_tl_16"/>
+         </zone>
+         <zone points="23,2210 2316,2210 2316,3464 23,3464" rendition="TextRegion" xml:id="facs_98_tr_2">
+            <zone points="302,2270 1903,2284 2279,2272 2279,2223 302,2228" rendition="Line" xml:id="facs_98_tr_2_tl_1"/>
+            <zone points="299,2423 1827,2438 2171,2421 2171,2371 299,2393" rendition="Line" xml:id="facs_98_tr_2_tl_2"/>
+            <zone points="297,2574 1572,2589 2133,2572 2133,2524 297,2534" rendition="Line" xml:id="facs_98_tr_2_tl_3"/>
+            <zone points="297,2725 1728,2740 2128,2725 2128,2668 297,2678" rendition="Line" xml:id="facs_98_tr_2_tl_4"/>
+            <zone points="290,2873 1111,2896 1252,2878 1255,2831 292,2834" rendition="Line" xml:id="facs_98_tr_2_tl_5"/>
+            <zone points="515,3032 2032,3037 2183,3029 2185,2985 517,2980" rendition="Line" xml:id="facs_98_tr_2_tl_6" subtype="paragraph"/>
+            <zone points="285,3175 1327,3180 1327,3118 1272,3143 285,3146" rendition="Line" xml:id="facs_98_tr_2_tl_9"/>
          </zone>
       </surface>
       
@@ -93,31 +96,33 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0602.jpg" n="part4_p128.jpg" xml:id="img_0128" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p128.jpg"/>
+            <pb facs="#TL-0572.jpg" n="part4_p098.jpg" xml:id="img_0098" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p098.jpg"/>
             
-            <fw facs="#facs_128_tr_1">
-               <lb facs="#facs_128_tr_1_tl_1" n="N001"/>[597]</fw>
+            <fw facs="#facs_98_tr_1">
+               <lb facs="#facs_98_tr_1_tl_1" n="N001"/>[567]</fw>
            <p rend="tei-p-no-indent">
-               <lb facs="#facs_128_tr_1_tl_2" n="N002"/>tendency in Prussian militarism to glorify war, not to see that it is in itself an expression of the
-               <lb facs="#facs_128_tr_1_tl_3" n="N003"/><rs type="keyword" ref="#Demonic">demonic</rs> possession of mankind as a whole, but to call it a glorious thing in itself. Now of course
-               <lb facs="#facs_128_tr_1_tl_4" n="N004"/>every evil can produce virtues which otherwise never would come into existence, as diseases often
-               <lb facs="#facs_128_tr_1_tl_5" n="N005"/>do to people. But a disease is a disease even if has a wholesome effect on a special person. And so,
-               <lb facs="#facs_128_tr_1_tl_6" n="N006"/>war is <emph rend="allcaps">evil</emph>, even if it produces [something] which can be considered as good.</p>
+              <lb facs="#facs_98_tr_1_tl_2" n="N002"/>good works. Now this is not European at all! <hi style="font-style: italic;">[little laughter]</hi> In <rs type="place">Europe</rs>, the state has to do this.</p>
            <p>
-               <lb facs="#facs_128_tr_1_tl_7" n="N007"/>Now let’s look at the second type, the legalistic. It says: “If this is true, if the <rs type="keyword" ref="#Kingdom_of_God">kingdom
-               <lb break="no" facs="#facs_128_tr_1_tl_8" n="N008"/>of God </rs>implies the universal peace, because everything is rooted in the same eternal ground, then
-               <lb facs="#facs_128_tr_1_tl_9" n="N009"/>let’s try to do that, and everybody <emph rend="allcaps">must</emph> be a pacifist, and everybody must <emph rend="allcaps">refuse</emph> to go to
-               <lb facs="#facs_128_tr_1_tl_10" n="N010"/>war.” This legalistic form of <rs type="keyword" ref="#Pacifism">pacifism</rs> <emph rend="allcaps">also</emph> overlooks the separation of essence and existence.
-               <lb facs="#facs_128_tr_1_tl_11" n="N011"/>It doesn’t see that under the conditions of existence, of human <rs type="keyword" ref="#Estrangement">estrangement</rs>, estrangement of
-               <lb facs="#facs_128_tr_1_tl_12" n="N012"/>everything <emph rend="allcaps">from</emph> everything and from <emph rend="allcaps">itself</emph>, the <rs type="keyword" ref="#Power">power</rs> which is the <rs type="keyword" ref="#Structure_of_reality">structure of reality</rs> 
-              <lb facs="#facs_128_tr_1_tl_13" n="N013"/>—<rs type="keyword" ref="#God">God</rs> himself is <rs type="keyword" ref="#Ultimacy">ultimate</rs> power—actualizes itself in terms of compulsion, through force. This is
-               <lb facs="#facs_128_tr_1_tl_14" n="N014"/>the situation which we have in [the] inner-political realm—without the inner application, or
-               <lb facs="#facs_128_tr_1_tl_15" n="N015"/>at least the threat of force, no <rs type="keyword" ref="#Community">community</rs>, even the smallest, could exist. And we have it in
-              <lb facs="#facs_128_tr_1_tl_16" n="N016"/>relation of the great groups to each other. This is man's <rs type="keyword" ref="#Predicament">predicament</rs>, and it is impossible to deny it.</p>
+               <lb facs="#facs_98_tr_1_tl_3" n="N003"/>Now on this basis I tried to find out—and I think I found it out just when I discovered
+               <lb facs="#facs_98_tr_1_tl_4" n="N004"/>the nature of British conformity—what is going on in this country sociologically, and I had to invent
+              <lb facs="#facs_98_tr_1_tl_5" n="N005"/>a new word (perhaps it already existed, perhaps not): <rs type="keyword" ref="#Patternization">patternization,</rs> derived from “pattern,”
+               <lb facs="#facs_98_tr_1_tl_6" n="N006"/>bringing every <rs type="keyword" ref="#Individual">individual</rs> into a pattern. This is not the same as collectivism or <rs type="keyword" ref="#Conformism">conformism,</rs> or even
+               <lb facs="#facs_98_tr_1_tl_7" n="N007"/>conformity, but it is not <rs type="keyword" ref="#Individualism">individualism</rs> either. It is a quite different sociological form for which we
+               <lb facs="#facs_98_tr_1_tl_8" n="N008"/>need another word. And if this word is too bad English, perhaps you will give me another or
+               <lb facs="#facs_98_tr_1_tl_10" n="N009"/>one could also say modelization, but I don't know whether that is much better English—in any case:
+              <lb facs="#facs_98_tr_1_tl_11" n="N010"/>making, forming, or shaping human beings according to a model or a pattern.</p>
            <p>
-               <lb facs="#facs_128_tr_1_tl_17" n="N017"/>But then there is a third consideration, namely the consideration that <emph rend="allcaps">if</emph> the idea of
-               <lb facs="#facs_128_tr_1_tl_18" n="N018"/>the <rs type="keyword" ref="#Kingdom_of_God">kingdom of Go</rs>d is the universal unity, and <emph rend="allcaps">if</emph> there are saving powers in existence so that
-               <lb facs="#facs_128_tr_1_tl_19" n="N019"/>existence is not thoroughly self-destructive, then these saving powers should work, and one should
+               <lb facs="#facs_98_tr_1_tl_14" n="N011"/>Now this is developing in very radical ways in unity with the urbanization of this
+               <lb facs="#facs_98_tr_1_tl_15" n="N012"/>country. The so-called “grass roots,” as they are mainly to be found in the middle West, still have
+               <lb facs="#facs_98_tr_1_tl_16" n="N013"/>something of genuine conformity; they do not have <rs type="keyword" ref="#Individualism">individualism</rs> in the European sense, but
+               <lb facs="#facs_98_tr_2_tl_1" n="N001"/>they have some elements of conformity in the British sense. But in the big cities, the mechanization
+               <lb facs="#facs_98_tr_2_tl_2" n="N002"/>of life is one of the factors for the subjecting of every <rs type="keyword" ref="#Individual">individual</rs> to a special pattern of life and
+               <lb facs="#facs_98_tr_2_tl_3" n="N003"/>thought—but not on the basis of a living tradition, as in England, where the cathedrals of the
+               <lb facs="#facs_98_tr_2_tl_4" n="N004"/>15th century are as real as the latest, very poor amendments in plumbing. The reality of the
+              <lb facs="#facs_98_tr_2_tl_5" n="N005"/><rs type="keyword" ref="#Tradition">tradition</rs> distinguishes conformity from pattern.</p>
+           <p>
+               <lb facs="#facs_98_tr_2_tl_6" n="N006"/>We are now in this situation here, namely the problem of the pattern. This problem
+               <lb facs="#facs_98_tr_2_tl_9" n="N007"/>has been sharpened every day, almost, with the new inventions in the realm of public communications,
             </p>
             
         </div>

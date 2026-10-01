@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-44">Lecture XLIV (Nr. 0587)</title>
+            <title type="main" n="TL-lecture-42">Lecture XLII (Nr. 0557)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part4_p113</locus>
+                     <locus>part4_p083</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-04-26">1956-04-26</date>
+                <date when-iso="1956-04-17">1956-04-17</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,30 +63,32 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_113">
-         <graphic url="TL-0587.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=AGWOFKOCFSCQGIHOXUZCQUIE&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="267,266 267,3461 2301,3461 2301,266" rendition="TextRegion" xml:id="facs_113_tr_3">
-            <zone points="1096,333 1116,333 1126,343 1156,338 1176,343 1218,341 1216,251 1191,256 1178,269 1094,271" rendition="Line" xml:id="facs_113_tr_3_tl_1"/>
-            <zone points="296,492 873,487 935,525 1032,485 2185,490 2185,435 2128,423 1067,448 1032,410 994,448 547,452 460,370 375,455 298,455" rendition="Line" xml:id="facs_113_tr_3_tl_2"/>
-            <zone points="306,654 1164,644 1164,589 624,612 440,567 306,617" rendition="Line" xml:id="facs_113_tr_3_tl_3"/>
-            <zone points="547,793 2200,798 2200,716 547,758" rendition="Line" xml:id="facs_113_tr_3_tl_4" subtype="paragraph"/>
-            <zone points="298,942 2188,935 2188,895 2111,870 298,917" rendition="Line" xml:id="facs_113_tr_3_tl_5"/>
-            <zone points="296,1096 2183,1084 2185,1034 2133,1019 298,1052" rendition="Line" xml:id="facs_113_tr_3_tl_6"/>
-            <zone points="296,1241 2195,1238 2195,1176 296,1216" rendition="Line" xml:id="facs_113_tr_3_tl_7"/>
-            <zone points="296,1400 1084,1390 1283,1427 1407,1390 2233,1387 2233,1328 2039,1315 296,1370" rendition="Line" xml:id="facs_113_tr_3_tl_8"/>
-            <zone points="296,1549 507,1581 796,1539 2228,1532 2228,1482 2016,1472 296,1504" rendition="Line" xml:id="facs_113_tr_3_tl_9"/>
-            <zone points="298,1703 2185,1686 2170,1628 298,1656" rendition="Line" xml:id="facs_113_tr_3_tl_10"/>
-            <zone points="298,1852 2131,1837 2131,1788 2071,1778 298,1825" rendition="Line" xml:id="facs_113_tr_3_tl_11"/>
-            <zone points="296,2006 1989,1999 2141,1989 2143,1932 380,1934 296,1977" rendition="Line" xml:id="facs_113_tr_3_tl_12"/>
-            <zone points="296,2153 378,2168 592,2156 592,2108 544,2108 532,2096 520,2108 500,2101 467,2111 328,2108 296,2128" rendition="Line" xml:id="facs_113_tr_3_tl_13"/>
-            <zone points="547,2228 2297,2213 2297,2143 2116,2178 798,2163 743,2195 547,2161" rendition="Line" xml:id="facs_113_tr_3_tl_14" subtype="paragraph"/>
-            <zone points="291,2374 1895,2364 1952,2402 2285,2404 2255,2310 291,2350" rendition="Line" xml:id="facs_113_tr_3_tl_15"/>
-            <zone points="298,2553 440,2606 661,2558 1571,2563 1636,2514 2131,2514 2133,2464 1912,2454 1631,2491 301,2484" rendition="Line" xml:id="facs_113_tr_3_tl_16"/>
-            <zone points="293,2680 2183,2670 2170,2611 1559,2606 293,2655" rendition="Line" xml:id="facs_113_tr_3_tl_17"/>
-            <zone points="296,2834 2098,2822 2101,2772 298,2775" rendition="Line" xml:id="facs_113_tr_3_tl_18"/>
-            <zone points="303,2974 2019,2991 2019,2916 1969,2901 303,2931" rendition="Line" xml:id="facs_113_tr_3_tl_19"/>
-            <zone points="288,3140 865,3138 999,3205 1094,3167 1937,3155 1982,3113 2101,3115 2103,3061 288,3113" rendition="Line" xml:id="facs_113_tr_3_tl_20"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_83">
+         <graphic url="TL-0557.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XBPJMNEIXUJNGCKIKYHRFARL&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="289,278 2307,278 2307,2001 289,2001" rendition="TextRegion" xml:id="facs_83_tr_1">
+            <zone points="1100,337 1113,337 1126,350 1141,345 1148,352 1161,350 1169,342 1179,350 1224,347 1224,281 1186,279 1179,271 1158,269 1136,294 1100,294" rendition="Line" xml:id="facs_83_tr_1_tl_1"/>
+            <zone points="294,484 2218,502 2140,426 738,454 657,373 575,454 294,418" rendition="Line" xml:id="facs_83_tr_1_tl_2"/>
+            <zone points="299,641 2172,657 2147,591 624,558 299,608" rendition="Line" xml:id="facs_83_tr_1_tl_3"/>
+            <zone points="294,788 2259,799 2221,740 294,743" rendition="Line" xml:id="facs_83_tr_1_tl_4"/>
+            <zone points="286,940 1235,946 1235,897 1189,887 286,897" rendition="Line" xml:id="facs_83_tr_1_tl_5"/>
+            <zone points="489,1095 847,1093 928,1156 1166,1105 1313,1156 1486,1093 2185,1100 2185,1037 489,1042" rendition="Line" xml:id="facs_83_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="286,1245 2236,1247 2236,1197 2137,1186 286,1199" rendition="Line" xml:id="facs_83_tr_1_tl_7"/>
+            <zone points="284,1389 2238,1399 2188,1333 284,1361" rendition="Line" xml:id="facs_83_tr_1_tl_8"/>
+            <zone points="284,1539 2302,1549 2200,1488 284,1501" rendition="Line" xml:id="facs_83_tr_1_tl_9"/>
+            <zone points="276,1691 2203,1701 2152,1638 276,1653" rendition="Line" xml:id="facs_83_tr_1_tl_10"/>
+            <zone points="281,1843 1919,1853 1919,1792 281,1792" rendition="Line" xml:id="facs_83_tr_1_tl_11"/>
+            <zone points="482,1998 1161,2000 1361,2053 1600,2051 1671,1993 2178,1995 2178,1949 2051,1932 482,1949" rendition="Line" xml:id="facs_83_tr_1_tl_12" subtype="paragraph"/>
+         </zone>
+         <zone points="35,2087 2316,2087 2316,3470 35,3470" rendition="TextRegion" xml:id="facs_83_tr_2">
+            <zone points="276,2152 2287,2157 2309,2096 276,2102" rendition="Line" xml:id="facs_83_tr_2_tl_1"/>
+            <zone points="269,2292 2142,2309 2104,2249 269,2266" rendition="Line" xml:id="facs_83_tr_2_tl_2"/>
+            <zone points="264,2441 2104,2454 2124,2403 264,2418" rendition="Line" xml:id="facs_83_tr_2_tl_3"/>
+            <zone points="233,2598 2271,2614 2271,2555 233,2576" rendition="Line" xml:id="facs_83_tr_2_tl_4"/>
+            <zone points="261,2756 1896,2766 2205,2750 2205,2692 261,2705" rendition="Line" xml:id="facs_83_tr_2_tl_5"/>
+            <zone points="266,2903 1767,2918 2142,2900 2142,2849 266,2877" rendition="Line" xml:id="facs_83_tr_2_tl_6"/>
+            <zone points="261,3052 1962,3062 2109,3052 2109,3007 261,3014" rendition="Line" xml:id="facs_83_tr_2_tl_7"/>
+            <zone points="266,3214 1597,3222 1660,3214 1660,3159 266,3161" rendition="Line" xml:id="facs_83_tr_2_tl_8"/>
          </zone>
       </surface>
       
@@ -94,32 +96,32 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0587.jpg" n="part4_p113.jpg" xml:id="img_0113" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p113.jpg"/>
+            <pb facs="#TL-0557.jpg" n="part4_p083.jpg" xml:id="img_0083" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p083.jpg"/>
             
-            <fw facs="#facs_113_tr_3">
-               <lb facs="#facs_113_tr_3_tl_1" n="N001"/>[582]</fw>
+            <fw facs="#facs_83_tr_1">
+               <lb facs="#facs_83_tr_1_tl_1" n="N001"/>[552]</fw>
            <p rend="tei-p-no-indent">
-              <lb facs="#facs_113_tr_3_tl_2" n="N002"/>But you must add the word “living,” because if you say only <rs type="keyword" ref="#Structure_of_reality">“structure”</rs> then the full meaning
-              <lb facs="#facs_113_tr_3_tl_3" n="N003"/>of the <rs type="keyword" ref="#German_language">German</rs> word <rs type="keyword" ref="#Gestalt"><hi style="font-style: italic;">Gestalt</hi></rs> is not grasped.</p>
+               <lb facs="#facs_83_tr_1_tl_2" n="N002"/>in several cases, in many experiences, to be able to be trusted because, very often, what he said or
+               <lb facs="#facs_83_tr_1_tl_3" n="N003"/>demanded proved to be the right thing, theoretically or practically. Now this kind of <rs type="keyword" ref="#Authority">authority</rs>
+               <lb facs="#facs_83_tr_1_tl_4" n="N004"/>is of course still a very living authority, and is hard to resist, but is still not an authority in principle.
+              <lb facs="#facs_83_tr_1_tl_5" n="N005"/>But it <emph rend="allcaps">can become</emph> an authority in principle.</p>
            <p>
-               <lb facs="#facs_113_tr_3_tl_4" n="N004"/>Now if I say a social group, society as a whole, in a special period, is a living <hi style="font-style: italic;">Gestalt</hi>,
-               <lb facs="#facs_113_tr_3_tl_5" n="N005"/>then this means what every doctor can tell you, that there is no point in the human <rs type="keyword" ref="#Body">body</rs> whose
-               <lb facs="#facs_113_tr_3_tl_6" n="N006"/>function is the cause of all the others, but the functioning of <emph rend="allcaps">each</emph> of them is implanted in the
-               <lb facs="#facs_113_tr_3_tl_7" n="N007"/>functioning of the whole, and the functioning of the whole is determining for the functioning of
-               <lb facs="#facs_113_tr_3_tl_8" n="N008"/>each of them. In this sense the cultural functions in human groups are completely interdependent,
-               <lb facs="#facs_113_tr_3_tl_9" n="N009"/>and the whole scheme of <rs type="keyword" ref="#Causality">causality,</rs> especially this terribly mechanistic scheme of substructure
-               <lb facs="#facs_113_tr_3_tl_10" n="N010"/>and superstructure (which have not even the dynamic element of causality in it, but is even
-               <lb facs="#facs_113_tr_3_tl_11" n="N011"/>more external and mechanical) <emph rend="allcaps">should be dismissed radically</emph>. This is my genuine
-              <lb facs="#facs_113_tr_3_tl_12" n="N012"/>criticism against <rs type="person" ref="#tillich_person_id__1275">Marx</rs>, but not that his so-called <rs type="keyword" ref="#Materialism">materialism</rs> has <rs type="keyword" ref="#Ethics">ethical</rs> and bad <rs type="keyword" ref="#Metaphysics">metaphysical</rs>
-              <lb facs="#facs_113_tr_3_tl_13" n="N013"/>connotations.</p>
+               <lb facs="#facs_83_tr_1_tl_6" n="N006"/>Here we come to the third level, the <rs type="keyword" ref="#Authority">authority</rs> in principle which we have for instance
+               <lb facs="#facs_83_tr_1_tl_7" n="N007"/>in Protestant biblicism, which we have in most perfect, and almost incomparably perfect, form
+               <lb facs="#facs_83_tr_1_tl_8" n="N008"/>in the Roman Catholic Church, which we have in secularized form in totalitarian movements like
+               <lb facs="#facs_83_tr_1_tl_9" n="N009"/><rs type="keyword" ref="#Nazism">Nazism,</rs> and which we have in the paternalistic systems of family life where the authority of the father
+               <lb facs="#facs_83_tr_1_tl_10" n="N010"/>is neither that of the older man who knows more, nor of the man whom one can trust, but of the
+              <lb facs="#facs_83_tr_1_tl_11" n="N011"/>divinely established authority about everything which happens in the family.</p>
            <p>
-               <lb facs="#facs_113_tr_3_tl_14" n="N014"/>Now I want to give you a description of the relationship of <rs type="keyword" ref="#Culture">culture</rs> in its <rs type="keyword" ref="#Economy">economic</rs>-social
-               <lb facs="#facs_113_tr_3_tl_15" n="N015"/>functioning, to <rs type="keyword" ref="#Religion">religion</rs>—not in terms of abstract categories but in terms of a story, namely the story
-               <lb facs="#facs_113_tr_3_tl_16" n="N016"/>of the <rs type="keyword" ref="#Germany">German</rs> religious <rs type="keyword" ref="#Religious_socialism">socialism,</rs> after the <rs type="keyword" ref="#First_World_War">First World War.</rs> I give you this story not
-               <lb facs="#facs_113_tr_3_tl_17" n="N017"/>only because I am largely responsible myself for the theoretical formulations of this movement,
-               <lb facs="#facs_113_tr_3_tl_18" n="N018"/>but also because I believe that from the point of view of our subject during this whole year,
-              <lb facs="#facs_113_tr_3_tl_19" n="N019"/>“Religion and Culture,” it is a very useful model to study, because it went down to the
-               <lb facs="#facs_113_tr_3_tl_20" n="N020"/>principles not <hi style="font-style: italic;">in abstracto</hi>, but on the basis of the given German situation in the year 1919.
+               <lb facs="#facs_83_tr_1_tl_12" n="N012"/>Now this last form of <rs type="keyword" ref="#Authority">authority</rs> is the authority in principle. It can be defined in the
+               <lb facs="#facs_83_tr_2_tl_1" n="N001"/>following way: There is somewhere in reality a place which is not only the bearer of expert knowledge
+               <lb facs="#facs_83_tr_2_tl_2" n="N002"/>or immediate experience, which is not only a place trustworthy, because of his character,
+               <lb facs="#facs_83_tr_2_tl_3" n="N003"/>but which has the quality of infallibility for those who belong to the group of which he is the
+               <lb facs="#facs_83_tr_2_tl_4" n="N004"/>ultimate representative and authority. This authority in principle, as I would say, religiously speaking,
+               <lb facs="#facs_83_tr_2_tl_5" n="N005"/>has demonic character. Why? Because here one place beside all other places is singled out to have
+               <lb facs="#facs_83_tr_2_tl_6" n="N006"/>ultimacy, because authority in principle (or <emph rend="allcaps">infallible</emph> authority, which is the same) is the
+               <lb facs="#facs_83_tr_2_tl_7" n="N007"/>identification of this place with God Himself. Therefore the real problem of authority is this
+               <lb facs="#facs_83_tr_2_tl_8" n="N008"/>ultimate authority, the place which is identical with the ultimate itself.
             </p>
             
         </div>

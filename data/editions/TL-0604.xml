@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-45">Lecture XLV (Nr. 0604)</title>
+            <title type="main" n="TL-lecture-43">Lecture XLIII (Nr. 0574)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part4_p130</locus>
+                     <locus>part4_p100</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-05-01">1956-05-01</date>
+                <date when-iso="1956-04-24">1956-04-24</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,29 +63,35 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_130">
-         <graphic url="TL-0604.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=JKOZNRHHTMBDWNDGJGUPUTEX&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="203,0 194,3229 2324,3268 2319,0" rendition="TextRegion" xml:id="facs_130_tr_4">
-            <zone points="1149,327 1175,324 1198,332 1250,332 1261,322 1276,322 1274,280 1242,280 1219,259 1209,270 1193,270 1183,280 1146,283" rendition="Line" xml:id="facs_130_tr_4_tl_2"/>
-            <zone points="316,459 2171,501 2168,454 1989,451 1950,412 1912,449 1364,436 1261,397 1185,436 316,420" rendition="Line" xml:id="facs_130_tr_4_tl_3"/>
-            <zone points="314,604 2127,654 2127,591 1810,576 1730,607 1331,568 1209,597 1172,563 314,581" rendition="Line" xml:id="facs_130_tr_4_tl_4"/>
-            <zone points="309,752 2220,807 2264,804 2264,747 306,721" rendition="Line" xml:id="facs_130_tr_4_tl_5"/>
-            <zone points="303,908 656,947 2251,949 2251,895 2212,892 303,882" rendition="Line" xml:id="facs_130_tr_4_tl_6"/>
-            <zone points="301,1061 1219,1082 1489,1165 1611,1110 2129,1139 2127,1043 1561,1040 1390,934 1235,1032 301,1030" rendition="Line" xml:id="facs_130_tr_4_tl_7"/>
-            <zone points="296,1219 2129,1261 2233,1253 2233,1198 293,1167" rendition="Line" xml:id="facs_130_tr_4_tl_8"/>
-            <zone points="296,1377 2215,1401 2212,1351 2049,1320 1930,1351 296,1315" rendition="Line" xml:id="facs_130_tr_4_tl_9"/>
-            <zone points="293,1574 1761,1606 1857,1541 2163,1551 2163,1504 290,1473" rendition="Line" xml:id="facs_130_tr_4_tl_10"/>
-            <zone points="278,1670 1582,1699 1580,1631 278,1629" rendition="Line" xml:id="facs_130_tr_4_tl_11"/>
-            <zone points="189,1855 288,1816 2176,1865 2270,1860 2270,1800 272,1790 187,1751" rendition="Line" xml:id="facs_130_tr_4_tl_13"/>
-            <zone points="272,1969 2223,2013 2220,1943 272,1925" rendition="Line" xml:id="facs_130_tr_4_tl_14"/>
-            <zone points="270,2124 1556,2150 1554,2096 1380,2083 270,2075" rendition="Line" xml:id="facs_130_tr_4_tl_15"/>
-            <zone points="485,2270 2207,2306 2207,2267 2129,2244 485,2244" rendition="Line" xml:id="facs_130_tr_4_tl_16" subtype="paragraph"/>
-            <zone points="257,2415 2244,2461 2241,2402 257,2386" rendition="Line" xml:id="facs_130_tr_4_tl_17"/>
-            <zone points="1149,2607 2233,2614 2231,2557 2155,2547 1756,2544 1696,2573 1434,2532 1149,2542" rendition="Line" xml:id="facs_130_tr_4_tl_19"/>
-            <zone points="249,2760 897,2731 1696,2791 1764,2747 2028,2757 2028,2700 249,2692" rendition="Line" xml:id="facs_130_tr_4_tl_20"/>
-            <zone points="244,2874 2026,2918 2023,2856 1746,2840 244,2851" rendition="Line" xml:id="facs_130_tr_4_tl_21"/>
-            <zone points="233,3019 2254,3061 2254,3006 1842,2991 233,2993" rendition="Line" xml:id="facs_130_tr_4_tl_22"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_100">
+         <graphic url="TL-0574.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ASRRHMSCJBRBUIIQQHZODBCT&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="310,215 2340,215 2340,1484 310,1484" rendition="TextRegion" xml:id="facs_100_tr_2">
+            <zone points="1149,273 1162,273 1180,286 1247,286 1271,281 1271,203 1227,200 1216,210 1149,210" rendition="Line" xml:id="facs_100_tr_2_tl_1"/>
+            <zone points="327,413 1055,421 1141,486 1258,421 2217,431 2217,385 2079,361 327,346" rendition="Line" xml:id="facs_100_tr_2_tl_2"/>
+            <zone points="320,564 2214,598 2214,525 320,533" rendition="Line" xml:id="facs_100_tr_2_tl_3"/>
+            <zone points="314,712 2225,769 2225,678 1988,634 314,686" rendition="Line" xml:id="facs_100_tr_2_tl_4"/>
+            <zone points="314,876 2235,933 2235,829 314,839" rendition="Line" xml:id="facs_100_tr_2_tl_5"/>
+            <zone points="312,1040 2235,1091 2235,967 312,982" rendition="Line" xml:id="facs_100_tr_2_tl_6"/>
+            <zone points="312,1193 1468,1219 2118,1188 2118,1117 312,1120" rendition="Line" xml:id="facs_100_tr_2_tl_7"/>
+            <zone points="304,1344 1629,1380 1694,1331 2334,1333 2334,1279 1624,1237 304,1268" rendition="Line" xml:id="facs_100_tr_2_tl_8"/>
+            <zone points="296,1463 2212,1484 2212,1432 2035,1419 296,1419" rendition="Line" xml:id="facs_100_tr_2_tl_9"/>
+         </zone>
+         <zone points="211,1565 2289,1565 2289,2840 211,2840" rendition="TextRegion" xml:id="facs_100_tr_3">
+            <zone points="307,1624 2123,1642 2123,1585 1887,1572 307,1575" rendition="Line" xml:id="facs_100_tr_3_tl_1"/>
+            <zone points="296,1775 2191,1788 2191,1733 296,1723" rendition="Line" xml:id="facs_100_tr_3_tl_2"/>
+            <zone points="296,1926 2245,1941 2245,1879 296,1889" rendition="Line" xml:id="facs_100_tr_3_tl_3"/>
+            <zone points="294,2084 1151,2115 1201,2162 1258,2118 1435,2115 1435,2035 294,2027" rendition="Line" xml:id="facs_100_tr_3_tl_4"/>
+            <zone points="483,2225 2178,2245 2139,2175 483,2196" rendition="Line" xml:id="facs_100_tr_3_tl_5" subtype="paragraph"/>
+            <zone points="283,2375 2147,2427 2147,2331 283,2341" rendition="Line" xml:id="facs_100_tr_3_tl_6"/>
+            <zone points="286,2529 1980,2534 2173,2581 2173,2484 286,2479" rendition="Line" xml:id="facs_100_tr_3_tl_7"/>
+            <zone points="198,2716 2076,2723 2282,2685 2282,2633 198,2640" rendition="Line" xml:id="facs_100_tr_3_tl_8"/>
+            <zone points="273,2830 2167,2833 2167,2786 1983,2773 273,2781" rendition="Line" xml:id="facs_100_tr_3_tl_9"/>
+         </zone>
+         <zone points="29,2926 2239,2926 2239,3467 29,3467" rendition="TextRegion" xml:id="facs_100_tr_1">
+            <zone points="275,2991 398,2996 468,3046 793,3043 860,3009 1141,3043 1221,2991 1221,2937 275,2937" rendition="Line" xml:id="facs_100_tr_1_tl_2"/>
+            <zone points="265,3126 2232,3150 2232,3090 2032,3080 265,3103" rendition="Line" xml:id="facs_100_tr_1_tl_3"/>
+            <zone points="262,3267 283,3267 294,3277 327,3277 335,3272 346,3277 366,3274 379,3282 418,3280 418,3220 262,3220" rendition="Line" xml:id="facs_100_tr_1_tl_4"/>
          </zone>
       </surface>
       
@@ -93,30 +99,32 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0604.jpg" n="part4_p130.jpg" xml:id="img_0130" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p130.jpg"/>
+            <pb facs="#TL-0574.jpg" n="part4_p100.jpg" xml:id="img_0100" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p100.jpg"/>
             
-            <fw facs="#facs_130_tr_4">
-               <lb facs="#facs_130_tr_4_tl_2" n="N001"/>[599]</fw>
+            <fw facs="#facs_100_tr_2">
+               <lb facs="#facs_100_tr_2_tl_1" n="N001"/>[569]</fw>
            <p rend="tei-p-no-indent">
-               <lb facs="#facs_130_tr_4_tl_3" n="N002"/>half-consciously alive: not “What shall we do?” (I think this question belongs to 20 years ago
-               <lb facs="#facs_130_tr_4_tl_4" n="N003"/>also), but the question “How could the <rs type="keyword" ref="#State">state</rs> of disintegration, the state of dehumanization,
-               <lb facs="#facs_130_tr_4_tl_5" n="N004"/>the state of becoming into an object, which threatens everybody today, how can this be overcome?
-               <lb facs="#facs_130_tr_4_tl_6" n="N005"/>Is there a picture of a state of society which, differs from our presently given society and which
-               <lb facs="#facs_130_tr_4_tl_7" n="N006"/>nevertheless does not have the character of utopia?” Utopia means: to do just what I called
-               <lb facs="#facs_130_tr_4_tl_8" n="N007"/>legalistic socialism or legalistic <rs type="keyword" ref="#Pacifism">pacifism</rs>. But there is a possibility of the <rs type="keyword" ref="#Ultimacy">ultimate</rs> present in all
-               <lb facs="#facs_130_tr_4_tl_9" n="N008"/>cultural realms without transforming the <rs type="keyword" ref="#Culture">culture</rs> in terms of a utopian ideal which, as such, never
-               <lb facs="#facs_130_tr_4_tl_10" n="N009"/>can be actualized in <rs type="keyword" ref="#Time">time </rs>and <space/>space, and which therefore leads (and I can speak in this year
-              <lb facs="#facs_130_tr_4_tl_11" n="N010"/>[1956] of 70 years of experience, from my first year of life on) [1886] <hi style="font-style: italic;">[smiling]</hi>—the result
-               <lb facs="#facs_130_tr_4_tl_13" n="N011"/>is always <rs type="keyword" ref="#Metaphysics">metaphysical</rs> disappointment! Every utopia had this consequence, that after a certain time
-               <lb facs="#facs_130_tr_4_tl_14" n="N012"/>it will be revealed in its erroneous character; one will <emph rend="allcaps">see</emph> that one had believed in a <emph rend="allcaps">wrong</emph> <rs type="keyword" ref="#God">god,</rs>
-               <lb facs="#facs_130_tr_4_tl_15" n="N013"/>and had tried to avoid what <rs type="keyword" ref="#Christianity">Christianity</rs> symbolizes in the <rs type="keyword" ref="#Cross_of_Christ">Cross</rs>.</p>
+               <lb facs="#facs_100_tr_2_tl_2" n="N002"/>become ends without an ultimate end—they all agreed with this—and the advertisement situation
+               <lb facs="#facs_100_tr_2_tl_3" n="N003"/>and the selling situation, the problem of human relations only as a problem of selling. Then they
+               <lb facs="#facs_100_tr_2_tl_4" n="N004"/>said: “Now sum up what is the most important thing you would tell us.” Then I said: “What I told
+               <lb facs="#facs_100_tr_2_tl_5" n="N005"/>you about solitude is the most important thing, because only out of solitude the resistance against
+               <lb facs="#facs_100_tr_2_tl_6" n="N006"/><rs type="keyword" ref="#Patternization">patternization</rs> on a level in which resistance is broken without pain—with amusing [oneself], with
+               <lb facs="#facs_100_tr_2_tl_7" n="N007"/>fun, with having a good time—but the resistance is broken—only in solitude can elements of
+               <lb facs="#facs_100_tr_2_tl_8" n="N008"/>human potentialities, of resistance against patternization, be saved.” I want to give you this answer too:
+               <lb facs="#facs_100_tr_2_tl_9" n="N009"/>I believe that the great danger in which the personality ideal (which we discussed before) and the
+               <lb facs="#facs_100_tr_3_tl_1" n="N001"/>working for a neo-collectivism in the <emph rend="allcaps">whole</emph> Western civilization, has brought this country,
+               <lb facs="#facs_100_tr_3_tl_2" n="N002"/>is not so much the resistance against the external forms, enforced forms, of neo-collectivism, as
+               <lb facs="#facs_100_tr_3_tl_3" n="N003"/>we have them in the Communist countries, and had them (and may have them again) in the Fascist
+              <lb facs="#facs_100_tr_3_tl_4" n="N004"/>and Nazi countries, but is the process of patternization.</p>
            <p>
-               <lb facs="#facs_130_tr_4_tl_16" n="N014"/>Now if this is so, then a <rs type="keyword" ref="#Culture">culture</rs> which is neither utopian nor cynical—these are the two
-               <lb facs="#facs_130_tr_4_tl_17" n="N015"/>things—which neither leaves things go according to the <rs type="keyword" ref="#Power">power</rs> structures, nor believes in a fulfillment
-               <lb facs="#facs_130_tr_4_tl_19" n="N016"/>in <rs type="keyword" ref="#Time">time</rs> and <space/>space—could be called a <emph rend="allcaps">theonomous</emph> structure. This word is derived from
-               <lb facs="#facs_130_tr_4_tl_20" n="N017"/><hi style="font-style: italic;">theos</hi> (God) and <hi style="font-style: italic;">nomos</hi> (law). The word <rs type="keyword" ref="#Theonomy">theonomy</rs> is in parallelism to two other words:
-               <lb facs="#facs_130_tr_4_tl_21" n="N018"/><rs type="keyword" ref="#Autonomy">autonomy</rs> (from <hi style="font-style: italic;">autos</hi>, being oneself the law to oneself), and <rs type="keyword" ref="#Heteronomy">heteronomy</rs> (from <hi style="font-style: italic;">heteros</hi>,
-               <lb facs="#facs_130_tr_4_tl_22" n="N019"/>strange, foreign, outside, a law which doesn’t come from inside but from outside). <rs type="keyword" ref="#Religion">Religion</rs>—and this
+               <lb facs="#facs_100_tr_3_tl_5" n="N005"/>Now I think this should bring to an end these problems, but in any case, I must come
+               <lb facs="#facs_100_tr_3_tl_6" n="N006"/>now to other questions, and the next question I want to discuss is the problem of <rs type="keyword" ref="#Religion">religion</rs> and
+               <lb facs="#facs_100_tr_3_tl_7" n="N007"/><rs type="keyword" ref="#Economy">economics</rs>. Perhaps I should conclude this statement about <rs type="keyword" ref="#Patternization">patternization</rs> by saying: Solitude,
+               <lb facs="#facs_100_tr_3_tl_8" n="N008"/>in relation to an <rs type="keyword" ref="#Ultimate_Concern">ultimate concern</rs>, is the only power of resistance. Not an empty solitude (which then
+               <lb facs="#facs_100_tr_3_tl_9" n="N009"/>becomes loneliness and, with even stronger force, drives us <emph rend="allcaps">back</emph> to the patterns of life, in the
+               <lb facs="#facs_100_tr_1_tl_2" n="N001"/>gang)—but I mean a loneliness in relationship to an ultimate concern: this is the only power
+               <lb facs="#facs_100_tr_1_tl_3" n="N002"/>of real resistance. And here I see the relationship of religion and the problems of cultural sociology
+               <lb facs="#facs_100_tr_1_tl_4" n="N003"/>today.
             </p>
             
         </div>

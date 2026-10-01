@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-43">Lecture XLIII (Nr. 0575)</title>
+            <title type="main" n="TL-lecture-35">Lecture XXXV (Nr. 0458)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -30,7 +30,7 @@
          <publicationStmt>
             <p>
                <idno type="transkribus_col_id">271480</idno>
-               <idno type="transkribus_doc_id">1830352</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part4_p101</locus>
+                     <locus>part3_p066</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-04-24">1956-04-24</date>
+                <date when-iso="1956-03-12">1956-03-12</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,30 +63,34 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_101">
-         <graphic url="TL-0575.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=VZVJZAOMWAUTTLEXZWYNRLNZ&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="187,258 187,3475 2325,3475 2325,258" rendition="TextRegion" xml:id="facs_101_tr_3">
-            <zone points="1151,328 1164,328 1169,333 1264,333 1262,248 1241,250 1218,271 1195,261 1174,284 1151,286" rendition="Line" xml:id="facs_101_tr_3_tl_1"/>
-            <zone points="516,467 906,482 1006,529 1385,482 2190,493 2165,436 1223,439 1120,374 1042,436 516,433" rendition="Line" xml:id="facs_101_tr_3_tl_2" subtype="paragraph"/>
-            <zone points="315,627 2211,653 2211,588 2172,586 315,588" rendition="Line" xml:id="facs_101_tr_3_tl_3"/>
-            <zone points="307,769 1997,789 2116,833 2229,800 2227,743 1883,728 307,720" rendition="Line" xml:id="facs_101_tr_3_tl_4"/>
-            <zone points="304,929 2211,949 2211,893 2172,890 304,872" rendition="Line" xml:id="facs_101_tr_3_tl_5"/>
-            <zone points="299,1073 2260,1102 2260,1040 299,1019" rendition="Line" xml:id="facs_101_tr_3_tl_6"/>
-            <zone points="302,1228 2242,1254 2242,1195 1974,1215 1870,1179 302,1182" rendition="Line" xml:id="facs_101_tr_3_tl_7"/>
-            <zone points="292,1373 2043,1391 1992,1339 292,1326" rendition="Line" xml:id="facs_101_tr_3_tl_8"/>
-            <zone points="490,1522 2229,1551 2229,1494 490,1476" rendition="Line" xml:id="facs_101_tr_3_tl_9" subtype="paragraph"/>
-            <zone points="284,1708 717,1682 828,1747 1140,1690 1434,1731 2193,1698 2159,1641 284,1654" rendition="Line" xml:id="facs_101_tr_3_tl_10"/>
-            <zone points="286,1829 2211,1852 2211,1793 286,1778" rendition="Line" xml:id="facs_101_tr_3_tl_11"/>
-            <zone points="271,1974 968,2028 2232,2010 2232,1950 1997,1938 271,1950" rendition="Line" xml:id="facs_101_tr_3_tl_12"/>
-            <zone points="276,2131 2247,2152 2247,2095 276,2098" rendition="Line" xml:id="facs_101_tr_3_tl_13"/>
-            <zone points="268,2276 2283,2304 2283,2247 268,2250" rendition="Line" xml:id="facs_101_tr_3_tl_14"/>
-            <zone points="276,2433 2239,2454 2239,2381 276,2386" rendition="Line" xml:id="facs_101_tr_3_tl_15"/>
-            <zone points="263,2580 2214,2595 2172,2546 263,2534" rendition="Line" xml:id="facs_101_tr_3_tl_16"/>
-            <zone points="854,2737 2301,2758 2301,2701 2255,2686 854,2714" rendition="Line" xml:id="facs_101_tr_3_tl_18"/>
-            <zone points="253,2882 2307,2900 2307,2843 253,2856" rendition="Line" xml:id="facs_101_tr_3_tl_19"/>
-            <zone points="248,3034 2322,3065 2322,3003 2273,3001 248,3008" rendition="Line" xml:id="facs_101_tr_3_tl_20"/>
-            <zone points="248,3199 1772,3279 2250,3269 2245,3197 2175,3230 1605,3197 1558,3230 862,3148 361,3163 284,3127 245,3158" rendition="Line" xml:id="facs_101_tr_3_tl_21"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_66">
+         <graphic url="TL-0458.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MGMDUUZDEHKACOBSUCLKSGXK&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="250,54 2266,54 2266,831 250,831" rendition="TextRegion" xml:id="facs_66_tr_3">
+            <zone points="1180,370 1195,370 1200,375 1207,370 1220,382 1235,382 1238,377 1248,382 1276,382 1288,372 1304,370 1299,316 1263,319 1245,301 1233,311 1220,306 1202,319 1174,319" rendition="Line" xml:id="facs_66_tr_3_tl_2"/>
+            <zone points="329,516 1855,532 2215,504 2215,446 1934,458 1855,405 1800,461 329,473" rendition="Line" xml:id="facs_66_tr_3_tl_3"/>
+            <zone points="319,673 2197,709 2245,706 2245,597 319,640" rendition="Line" xml:id="facs_66_tr_3_tl_4"/>
+            <zone points="319,850 2060,823 2260,807 2260,749 319,767" rendition="Line" xml:id="facs_66_tr_3_tl_5"/>
+         </zone>
+         <zone points="334,896 2361,896 2361,2034 334,2034" rendition="TextRegion" xml:id="facs_66_tr_2">
+            <zone points="324,975 2167,964 2253,909 324,932" rendition="Line" xml:id="facs_66_tr_2_tl_1"/>
+            <zone points="324,1129 2354,1116 2354,1050 324,1091" rendition="Line" xml:id="facs_66_tr_2_tl_2"/>
+            <zone points="319,1276 2136,1316 2172,1197 319,1220" rendition="Line" xml:id="facs_66_tr_2_tl_3"/>
+            <zone points="327,1443 2146,1420 2273,1405 2276,1344 329,1374" rendition="Line" xml:id="facs_66_tr_2_tl_4"/>
+            <zone points="319,1580 2045,1602 2182,1585 2184,1504 321,1526" rendition="Line" xml:id="facs_66_tr_2_tl_5"/>
+            <zone points="327,1739 2076,1724 2222,1711 2222,1655 327,1678" rendition="Line" xml:id="facs_66_tr_2_tl_6"/>
+            <zone points="324,1881 1757,1893 2055,1878 2081,1815 324,1850" rendition="Line" xml:id="facs_66_tr_2_tl_7"/>
+            <zone points="544,2022 2081,2025 2212,2012 2212,1954 544,1974" rendition="Line" xml:id="facs_66_tr_2_tl_8" subtype="paragraph"/>
+         </zone>
+         <zone points="54,2105 2245,2105 2245,3485 54,3485" rendition="TextRegion" xml:id="facs_66_tr_1">
+            <zone points="316,2184 408,2245 1871,2212 2202,2162 2202,2109 316,2149" rendition="Line" xml:id="facs_66_tr_1_tl_1"/>
+            <zone points="316,2329 1643,2334 2119,2314 2119,2265 316,2303" rendition="Line" xml:id="facs_66_tr_1_tl_2"/>
+            <zone points="311,2476 2121,2468 2121,2407 311,2450" rendition="Line" xml:id="facs_66_tr_1_tl_3"/>
+            <zone points="316,2627 1825,2630 2167,2612 2167,2554 316,2577" rendition="Line" xml:id="facs_66_tr_1_tl_4"/>
+            <zone points="324,2800 2103,2774 2238,2721 324,2731" rendition="Line" xml:id="facs_66_tr_1_tl_5"/>
+            <zone points="324,2934 2055,2919 2162,2911 2162,2860 324,2886" rendition="Line" xml:id="facs_66_tr_1_tl_6"/>
+            <zone points="324,3091 2081,3078 2169,3065 2172,3005 327,3032" rendition="Line" xml:id="facs_66_tr_1_tl_7"/>
+            <zone points="329,3250 1088,3237 1088,3184 329,3194" rendition="Line" xml:id="facs_66_tr_1_tl_8"/>
          </zone>
       </surface>
       
@@ -94,31 +98,31 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0575.jpg" n="part4_p101.jpg" xml:id="img_0101" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p101.jpg"/>
+            <pb facs="#TL-0458.jpg" n="part3_p066.jpg" xml:id="img_0066" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p066.jpg"/>
             
-            <fw facs="#facs_101_tr_3">
-               <lb facs="#facs_101_tr_3_tl_1" n="N001"/>[570]</fw>
+            <fw facs="#facs_66_tr_3">
+               <lb facs="#facs_66_tr_3_tl_2" n="N001"/>[453]</fw>
+           <p rend="tei-p-no-indent">
+               <lb facs="#facs_66_tr_3_tl_3" n="N002"/>because man remains man, even if Queen Victoria demands him to be not man! <hi style="font-style: italic;">[little laughter]</hi>
+               <lb facs="#facs_66_tr_3_tl_4" n="N003"/>And therefore, suddenly, sporadically and then generally, the revolt of the repressed seeps up and
+               <lb facs="#facs_66_tr_3_tl_5" n="N004"/>becomes powerful. But now the situation is the following: this revolt is still under the pressure of
+               <lb facs="#facs_66_tr_2_tl_1" n="N001"/>the suppressing commandments of the ideal of <rs type="keyword" ref="#Personality">personality</rs>. Therefore it is done with <rs type="keyword" ref="#Passion">passion</rs>, but
+               <lb facs="#facs_66_tr_2_tl_2" n="N002"/>not always with good <rs type="keyword" ref="#Conscience">conscience</rs>. The conscience represents not in itself a divine or rational command,
+               <lb facs="#facs_66_tr_2_tl_3" n="N003"/>but it represents the <rs type="keyword" ref="#Symbols">symbols</rs> of the Victorian period. Therefore it produces a bad conscience
+               <lb facs="#facs_66_tr_2_tl_4" n="N004"/>about the acceptance of<rs type="keyword" ref="#Vitality"> vitality</rs> generally. On the other hand, the <rs type="keyword" ref="#Power">power </rs>of that which is <rs type="keyword" ref="#Repression">repressed</rs>
+               <lb facs="#facs_66_tr_2_tl_5" n="N005"/>is so strong that it breaks through and forces revolt with bad conscience. Now this is my main
+               <lb facs="#facs_66_tr_2_tl_6" n="N006"/>analysis of the state of <rs type="keyword" ref="#Mind">mind</rs> in the present and the little bit preceding generation—perhaps more
+              <lb facs="#facs_66_tr_2_tl_7" n="N007"/>even the preceding than the present. All this is a consequence of the ideal of personality.</p>
            <p>
-               <lb facs="#facs_101_tr_3_tl_2" n="N002"/>Now I come to the <rs type="keyword" ref="#Economy">economic </rs>problem. You have not experienced, perhaps, as much
-               <lb facs="#facs_101_tr_3_tl_3" n="N003"/>as the Europeans, especially the older ones who come from the 19th century, as I do, the central
-               <lb facs="#facs_101_tr_3_tl_4" n="N004"/>importance which, in European civilization, was attributed to the economic problem. Don't push
-               <lb facs="#facs_101_tr_3_tl_5" n="N005"/>this away by identifying it with the most hated name of the last few hundred years, namely<rs type="person" ref="#tillich_person_id__1275"> Karl
-               <lb break="no" facs="#facs_101_tr_3_tl_6" n="N006"/>Marx</rs>—that alone is not a sufficient explanation for the movements which have happened in <rs type="place">Europe</rs>
-               <lb facs="#facs_101_tr_3_tl_7" n="N007"/>and now have conquered more than half of the world. But the explanation is: <rs type="person" ref="#tillich_person_id__1275">Marx</rs>—as <emph rend="allcaps">always</emph>
-              <lb facs="#facs_101_tr_3_tl_8" n="N008"/>if one man represents something—<emph rend="allcaps">represents</emph> something which otherwise is present.</p>
-           <p>
-               <lb facs="#facs_101_tr_3_tl_9" n="N009"/>We have in <rs type="place">Europe </rs>a continuous development of <rs type="keyword" ref="#Revolution">revolution</rs>, since the end of the Middle
-               <lb facs="#facs_101_tr_3_tl_10" n="N010"/>Ages. First the great Peasant Revolutions; then the bourgeois revolutions; and then the 
-               <lb facs="#facs_101_tr_3_tl_11" n="N011"/>socialist-Communist, the revolutions of the fourth [force? i.e. labor? working?] class of society, as we had
-               <lb facs="#facs_101_tr_3_tl_12" n="N012"/>it in <rs type="place">Europe</rs>. All these movements had a special relationship to <rs type="keyword" ref="#Religion">religion</rs>. The peasants' movement,
-               <lb facs="#facs_101_tr_3_tl_13" n="N013"/>the twelve articles of the peasants were done in the name of the religiously sanctified natural law, as
-               <lb facs="#facs_101_tr_3_tl_14" n="N014"/>derived from the Stoic-Christian doctrine of the situation of man in the Paradise, which was identified
-               <lb facs="#facs_101_tr_3_tl_15" n="N015"/>with the natural <rs type="keyword" ref="#Law">law</rs>. In the bourgeois revolution, it was also the religious idea of the equality of all
-               <lb facs="#facs_101_tr_3_tl_16" n="N016"/>men before God, which then became <rs type="keyword" ref="#Secular">secularized</rs> to the equality of all men in terms of rationality—not 
-               <lb facs="#facs_101_tr_3_tl_18" n="N017"/>of reasonableness—nobody was ever stupid enough to say such a thing, not even <rs type="person" ref="#tillich_person_id__839">Hegel</rs>, who
-               <lb facs="#facs_101_tr_3_tl_19" n="N018"/>is sometimes considered much more stupid than a 10-year old boy—but what these men meant was that
-               <lb facs="#facs_101_tr_3_tl_20" n="N019"/>man is potentially rational, and that this power of reason in him can be developed equally in everybody,
-               <lb facs="#facs_101_tr_3_tl_21" n="N020"/>if the chances are given—whereby reasonableness is not identified with intelligence; the differences in
+               <lb facs="#facs_66_tr_2_tl_8" n="N008"/>The question now arises: what, in the different forms, can help us to overcome this
+               <lb facs="#facs_66_tr_1_tl_1" n="N001"/>ideal of <rs type="keyword" ref="#Personality">personality</rs> which is equally supported by <rs type="keyword" ref="#Religion">religion</rs> and by <rs type="keyword" ref="#Humanism">humanism</rs>? Very often—and
+               <lb facs="#facs_66_tr_1_tl_2" n="N002"/>maybe you have learned this from these lectures—the answer “religion” is not answer at all,
+               <lb facs="#facs_66_tr_1_tl_3" n="N003"/>because religion has entered the same transformations which we find in the general <rs type="keyword" ref="#Culture">culture</rs>.
+               <lb facs="#facs_66_tr_1_tl_4" n="N004"/>Whether [it is] <rs type="keyword" ref="#Repression">repression</rs> by the <rs type="keyword" ref="#Ten_Commandments">Ten Commandments </rs>and their interpretation in <rs type="keyword" ref="#Protestantism">Protestant</rs>
+               <lb facs="#facs_66_tr_1_tl_5" n="N005"/>preaching and indoctrination, from earliest days on—or whether the demands of a <rs type="keyword" ref="#Secular">secular</rs> <rs type="keyword" ref="#Puritan">puritan</rs>
+               <lb facs="#facs_66_tr_1_tl_6" n="N006"/><rs type="keyword" ref="#Rationality">rationality</rs>, as we find it in Kantianism—doesn't make any difference. And the one is not the
+               <lb facs="#facs_66_tr_1_tl_7" n="N007"/>solution for the other. Ultimately the secular repressive powers are only secularized religious
+               <lb facs="#facs_66_tr_1_tl_8" n="N008"/>powers from which they finally come.
             </p>
             
         </div>

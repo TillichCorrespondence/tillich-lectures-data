@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-43">Lecture XLIII (Nr. 0571)</title>
+            <title type="main" n="TL-lecture-35">Lecture XXXV (Nr. 0454)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -30,7 +30,7 @@
          <publicationStmt>
             <p>
                <idno type="transkribus_col_id">271480</idno>
-               <idno type="transkribus_doc_id">1830352</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part4_p097</locus>
+                     <locus>part3_p062</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-04-24">1956-04-24</date>
+                <date when-iso="1956-03-12">1956-03-12</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,34 +63,31 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_97">
-         <graphic url="TL-0571.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=ZUVKJSDRJEGTGRQIZTKZLHTH&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="298,257 2298,257 2298,929 298,929" rendition="TextRegion" xml:id="facs_97_tr_3">
-            <zone points="1118,315 1131,315 1141,325 1173,320 1178,325 1188,325 1196,318 1203,323 1218,323 1228,313 1241,313 1241,263 1206,263 1191,248 1173,263 1163,260 1153,270 1118,270" rendition="Line" xml:id="facs_97_tr_3_tl_1"/>
-            <zone points="285,463 2291,470 2291,413 285,428" rendition="Line" xml:id="facs_97_tr_3_tl_2"/>
-            <zone points="295,618 710,615 783,668 2234,630 2196,568 295,573" rendition="Line" xml:id="facs_97_tr_3_tl_3"/>
-            <zone points="288,768 2179,775 2124,703 288,725" rendition="Line" xml:id="facs_97_tr_3_tl_4"/>
-            <zone points="288,923 1278,995 1473,915 2224,933 2261,865 288,873" rendition="Line" xml:id="facs_97_tr_3_tl_5"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_62">
+         <graphic url="TL-0454.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CBKBJVTTLGUNRREVAEHJAECF&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="268,344 2319,344 2319,1923 268,1923" rendition="TextRegion" xml:id="facs_62_tr_1">
+            <zone points="1115,400 1151,405 1156,413 1245,408 1245,340 1221,343 1206,356 1115,356" rendition="Line" xml:id="facs_62_tr_1_tl_1"/>
+            <zone points="275,564 2196,569 2214,502 275,520" rendition="Line" xml:id="facs_62_tr_1_tl_2"/>
+            <zone points="265,709 2056,717 2264,707 2264,655 265,683" rendition="Line" xml:id="facs_62_tr_1_tl_3"/>
+            <zone points="262,863 2136,871 2313,860 2313,803 262,832" rendition="Line" xml:id="facs_62_tr_1_tl_4"/>
+            <zone points="260,1008 1450,1016 1479,959 1208,949 975,990 811,954 260,964" rendition="Line" xml:id="facs_62_tr_1_tl_6"/>
+            <zone points="265,1177 2256,1159 2256,1102 268,1115" rendition="Line" xml:id="facs_62_tr_1_tl_7"/>
+            <zone points="255,1312 2196,1320 2219,1253 255,1286" rendition="Line" xml:id="facs_62_tr_1_tl_8"/>
+            <zone points="262,1476 2295,1466 2295,1401 262,1435" rendition="Line" xml:id="facs_62_tr_1_tl_9"/>
+            <zone points="255,1614 1325,1622 1325,1557 255,1567" rendition="Line" xml:id="facs_62_tr_1_tl_11"/>
+            <zone points="255,1762 2245,1765 2245,1702 255,1736" rendition="Line" xml:id="facs_62_tr_1_tl_12"/>
+            <zone points="483,1923 2126,1926 2126,1863 483,1874" rendition="Line" xml:id="facs_62_tr_1_tl_13" subtype="paragraph"/>
          </zone>
-         <zone points="280,1006 2289,1006 2289,2589 280,2589" rendition="TextRegion" xml:id="facs_97_tr_2">
-            <zone points="285,1073 1936,1086 2079,1068 2079,1018 285,1046" rendition="Line" xml:id="facs_97_tr_2_tl_1"/>
-            <zone points="288,1226 2149,1228 2149,1156 288,1181" rendition="Line" xml:id="facs_97_tr_2_tl_2"/>
-            <zone points="278,1373 2206,1373 2119,1311 278,1328" rendition="Line" xml:id="facs_97_tr_2_tl_3"/>
-            <zone points="503,1526 2189,1541 2284,1526 2284,1471 503,1481" rendition="Line" xml:id="facs_97_tr_2_tl_4" subtype="paragraph"/>
-            <zone points="273,1676 2026,1686 2114,1673 2114,1618 273,1643" rendition="Line" xml:id="facs_97_tr_2_tl_5"/>
-            <zone points="273,1828 2029,1828 2209,1821 2209,1771 273,1801" rendition="Line" xml:id="facs_97_tr_2_tl_6"/>
-            <zone points="273,1973 2209,1973 2209,1903 273,1948" rendition="Line" xml:id="facs_97_tr_2_tl_7"/>
-            <zone points="273,2126 1561,2141 2091,2091 273,2101" rendition="Line" xml:id="facs_97_tr_2_tl_8"/>
-            <zone points="505,2279 1261,2324 1588,2271 2179,2279 2206,2226 505,2229" rendition="Line" xml:id="facs_97_tr_2_tl_9" subtype="paragraph"/>
-            <zone points="273,2429 2196,2429 2196,2369 273,2404" rendition="Line" xml:id="facs_97_tr_2_tl_10"/>
-            <zone points="265,2576 2094,2581 2151,2521 265,2531" rendition="Line" xml:id="facs_97_tr_2_tl_11"/>
-         </zone>
-         <zone points="23,2660 2224,2660 2224,3464 23,3464" rendition="TextRegion" xml:id="facs_97_tr_1">
-            <zone points="275,2746 2179,2726 2179,2666 275,2691" rendition="Line" xml:id="facs_97_tr_1_tl_1"/>
-            <zone points="265,2876 2114,2879 2209,2876 2209,2821 265,2834" rendition="Line" xml:id="facs_97_tr_1_tl_2"/>
-            <zone points="265,3032 2091,3037 2194,3029 2194,2976 265,3007" rendition="Line" xml:id="facs_97_tr_1_tl_3"/>
-            <zone points="263,3182 2219,3182 2221,3127 263,3157" rendition="Line" xml:id="facs_97_tr_1_tl_4"/>
+         <zone points="256,2004 2334,2004 2334,3132 256,3132" rendition="TextRegion" xml:id="facs_62_tr_2">
+            <zone points="247,2061 2136,2069 2154,2006 247,2035" rendition="Line" xml:id="facs_62_tr_2_tl_1"/>
+            <zone points="247,2217 1900,2225 2123,2212 2141,2147 247,2175" rendition="Line" xml:id="facs_62_tr_2_tl_2"/>
+            <zone points="249,2365 2032,2373 2264,2360 2264,2305 249,2315" rendition="Line" xml:id="facs_62_tr_2_tl_3"/>
+            <zone points="257,2518 2082,2518 2113,2456 257,2471" rendition="Line" xml:id="facs_62_tr_2_tl_4"/>
+            <zone points="255,2674 1980,2674 2170,2659 2170,2596 255,2614" rendition="Line" xml:id="facs_62_tr_2_tl_5"/>
+            <zone points="244,2820 2037,2853 2165,2814 2165,2749 244,2768" rendition="Line" xml:id="facs_62_tr_2_tl_6"/>
+            <zone points="242,3033 2118,2968 2154,2908 242,2947" rendition="Line" xml:id="facs_62_tr_2_tl_7"/>
+            <zone points="242,3129 2180,3126 2331,3111 2334,3048 242,3098" rendition="Line" xml:id="facs_62_tr_2_tl_8"/>
          </zone>
       </surface>
       
@@ -98,32 +95,30 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0571.jpg" n="part4_p097.jpg" xml:id="img_0097" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p097.jpg"/>
+            <pb facs="#TL-0454.jpg" n="part3_p062.jpg" xml:id="img_0062" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p062.jpg"/>
             
-            <fw facs="#facs_97_tr_3">
-               <lb facs="#facs_97_tr_3_tl_1" n="N001"/>[566]</fw>
+            <fw facs="#facs_62_tr_1">
+               <lb facs="#facs_62_tr_1_tl_1" n="N001"/>[449]</fw>
            <p rend="tei-p-no-indent">
-               <lb facs="#facs_97_tr_3_tl_2" n="N002"/>had by my very highly valuated friend <rs type="person" ref="#tillich_person_id__1255">Karl Mannheim</rs>, who came as a refugee to <rs type="place">England </rs>in 1934 and
-               <lb facs="#facs_97_tr_3_tl_3" n="N003"/>'35, and introduced “sociology of knowledge”—which was his very special interest—namely trying
-               <lb facs="#facs_97_tr_3_tl_4" n="N004"/>to find out which sociological group is responsible for a special <rs type="keyword" ref="#Ideology">ideology</rs>. This of course means
-               <lb facs="#facs_97_tr_3_tl_5" n="N005"/><emph rend="allcaps">undercutting</emph> the certainty of these ideologies. So the English people, the educated groups
-               <lb facs="#facs_97_tr_2_tl_1" n="N001"/>and the professors, to a great extent, resisted his influence tremendously. And only in the
-               <lb facs="#facs_97_tr_2_tl_2" n="N002"/>catastrophes of the <rs type="keyword" ref="#Second_World_War">Second World War</rs> and a little bit after it—actually only in the years [after]
-              <lb facs="#facs_97_tr_2_tl_3" n="N003"/>his death, he became generally acknowledged as an important man even for the English situation.</p>
+               <lb facs="#facs_62_tr_1_tl_2" n="N002"/>which one gets in one week. Now what does this mean? This means that something is going wrong
+               <lb facs="#facs_62_tr_1_tl_3" n="N003"/>with the ideal of <rs type="keyword" ref="#Personality">personality</rs> as it has been carried through in <rs type="keyword" ref="#Protestantism">Protestantism</rs> and <rs type="keyword" ref="#Humanism">humanism</rs>, and in the
+               <lb facs="#facs_62_tr_1_tl_4" n="N004"/>alliance of these two in many Protestant groups, and in many <rs type="keyword" ref="#Secular">secular</rs> groups too. What is wrong with it?
+               <lb facs="#facs_62_tr_1_tl_6" n="N005"/>My answer is: In spite of the greatness of the <emph rend="allcaps">idea</emph> of personality, the <emph rend="allcaps">ideal</emph> of
+               <lb facs="#facs_62_tr_1_tl_7" n="N006"/>personality is a distinction of this ideal [idea?]. Man indeed is in his structural essence determined to
+               <lb facs="#facs_62_tr_1_tl_8" n="N007"/><emph rend="allcaps">become</emph> a personality, to use his <rs type="keyword" ref="#Individual">individual</rs> basis (with <rs type="keyword" ref="#Vitality">vitality</rs>, <rs type="keyword" ref="#Community">community</rs> and nature in him and
+               <lb facs="#facs_62_tr_1_tl_9" n="N008"/>around him) to impregnate it with forms and meanings. That is his <rs type="keyword" ref="#Destiny">destiny</rs>. For that, he is determined;
+               <lb facs="#facs_62_tr_1_tl_11" n="N009"/>but on the other hand, what has happened is that this concentrated, conscious, self-
+              <lb facs="#facs_62_tr_1_tl_12" n="N010"/>controlling personality has suppressed and cut off the relationship to the basis on which it has arisen.</p>
            <p>
-               <lb facs="#facs_97_tr_2_tl_4" n="N004"/>Now this was the resistance of conformity against analysis of the roots of this conformity.
-               <lb facs="#facs_97_tr_2_tl_5" n="N005"/>And you can find this always, that very self-certain groups are extremely sensitive if they are
-               <lb facs="#facs_97_tr_2_tl_6" n="N006"/>sociologically analyzed, because they feel that this undercuts the unbroken self-identity of their
-               <lb facs="#facs_97_tr_2_tl_7" n="N007"/>existence, it undercuts their natural conformity. Of course such resistance <emph rend="allcaps">already</emph> transforms
-              <lb facs="#facs_97_tr_2_tl_8" n="N008"/>conformity into <rs type="keyword" ref="#Conformism">conformism</rs>, and the situation in <rs type="place">England</rs> is very much in the balance now.</p>
-           <p>
-               <lb facs="#facs_97_tr_2_tl_9" n="N009"/>Now in this country, the European <rs type="keyword" ref="#Individualism">individualism</rs> never was very strong. The so-called
-               <lb facs="#facs_97_tr_2_tl_10" n="N010"/>American “rugged individualism” is an economic <hi style="font-style: italic;">factum</hi> [?] and has very little to do with
-               <lb facs="#facs_97_tr_2_tl_11" n="N011"/><rs type="keyword" ref="#Ideology">ideology</rs>, with ideas generally, with the idea of the <rs type="keyword" ref="#Individual">individual</rs> as developed in the romantic and
-               <lb facs="#facs_97_tr_1_tl_1" n="N001"/>post-romantic traditions, and Bohemian traditions, which we can call post-romantic traditions in
-               <lb facs="#facs_97_tr_1_tl_2" n="N002"/><rs type="place">Europe</rs>. Very little of this existed genuinely in this country. The economic individualism did not
-               <lb facs="#facs_97_tr_1_tl_3" n="N003"/>express itself in intellectual individualism <gap/> The most rugged individualist became the most pious
-               <lb facs="#facs_97_tr_1_tl_4" n="N004"/>members of some church and gave millions and billions of money either to these churches or other
+               <lb facs="#facs_62_tr_1_tl_13" n="N011"/>Let us first look at nature, the relationship of man and nature. This relationship is,
+               <lb facs="#facs_62_tr_2_tl_1" n="N001"/>in types of <rs type="keyword" ref="#Protestantism">Protestantism</rs> and type of <rs type="keyword" ref="#Humanism">humanism</rs>, a relationship of control and nothing but this.
+               <lb facs="#facs_62_tr_2_tl_2" n="N002"/>Religiously speaking, the <rs type="keyword" ref="#Renaissance">Renaissance</rs> idea of the infinite being-present in the finite, of <emph rend="allcaps">every</emph>
+               <lb facs="#facs_62_tr_2_tl_3" n="N003"/>finite—nature and <rs type="keyword" ref="#History">history</rs>—has been transformed into the idea of a <rs type="keyword" ref="#Kingdom_of_God">kingdom of God</rs>, or a will of
+               <lb facs="#facs_62_tr_2_tl_4" n="N004"/>God, or a <rs type="keyword" ref="#Law">law</rs> of <rs type="keyword" ref="#Reason">reason,</rs> which is in opposition to the natural powers, and demands their
+               <lb facs="#facs_62_tr_2_tl_5" n="N005"/>suppression. Now first, this was very much in the line with the analysis I gave about the status of
+               <lb facs="#facs_62_tr_2_tl_6" n="N006"/>industrial society, in the period of history in which we are living. Nature <emph rend="allcaps">means</emph> a tool, but not
+               <lb facs="#facs_62_tr_2_tl_7" n="N007"/>an end in itself, not a mirror of the divine potentialities in every atom and in every plant and
+               <lb facs="#facs_62_tr_2_tl_8" n="N008"/>animal. This is denied as European romanticism, and since <rs type="keyword" ref="#Romanticism">romanticism</rs> has become a name-calling word—
             </p>
             
         </div>

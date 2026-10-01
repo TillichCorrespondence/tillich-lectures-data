@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-43">Lecture XLIII (Nr. 0570)</title>
+            <title type="main" n="TL-lecture-35">Lecture XXXV (Nr. 0453)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -30,7 +30,7 @@
          <publicationStmt>
             <p>
                <idno type="transkribus_col_id">271480</idno>
-               <idno type="transkribus_doc_id">1830352</idno>
+               <idno type="transkribus_doc_id">1830350</idno>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part4_p096</locus>
+                     <locus>part3_p061</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-04-24">1956-04-24</date>
+                <date when-iso="1956-03-12">1956-03-12</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,32 +63,34 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_96">
-         <graphic url="TL-0570.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=IMMXQEKICYKMIJQNXWNNDQTO&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="298,248 2301,248 2301,1977 298,1977" rendition="TextRegion" xml:id="facs_96_tr_1">
-            <zone points="1132,301 1145,301 1175,318 1205,318 1210,313 1215,318 1242,318 1250,311 1263,311 1265,240 1230,245 1217,235 1195,258 1132,263" rendition="Line" xml:id="facs_96_tr_1_tl_1"/>
-            <zone points="306,463 1971,468 2044,463 2044,403 306,423" rendition="Line" xml:id="facs_96_tr_1_tl_2"/>
-            <zone points="306,614 2037,631 2134,621 2134,564 306,584" rendition="Line" xml:id="facs_96_tr_1_tl_3"/>
-            <zone points="298,757 2124,774 2124,719 1881,704 298,734" rendition="Line" xml:id="facs_96_tr_1_tl_4"/>
-            <zone points="296,909 2184,927 2149,852 296,887" rendition="Line" xml:id="facs_96_tr_1_tl_5"/>
-            <zone points="303,1077 2092,1070 2134,1012 303,1035" rendition="Line" xml:id="facs_96_tr_1_tl_6"/>
-            <zone points="298,1225 1929,1230 2187,1220 2187,1165 298,1180" rendition="Line" xml:id="facs_96_tr_1_tl_7"/>
-            <zone points="296,1360 2047,1395 2134,1315 296,1335" rendition="Line" xml:id="facs_96_tr_1_tl_8"/>
-            <zone points="296,1516 1137,1533 1245,1526 1245,1463 336,1463 296,1485" rendition="Line" xml:id="facs_96_tr_1_tl_9"/>
-            <zone points="521,1671 2027,1701 2167,1668 2167,1608 521,1616" rendition="Line" xml:id="facs_96_tr_1_tl_10" subtype="paragraph"/>
-            <zone points="283,1814 711,1876 1445,1819 2297,1856 2297,1769 2134,1759 283,1791" rendition="Line" xml:id="facs_96_tr_1_tl_11"/>
-            <zone points="288,1971 2152,1974 2152,1919 288,1944" rendition="Line" xml:id="facs_96_tr_1_tl_12"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_61">
+         <graphic url="TL-0453.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AXIYQZQINMXTDTZAQAHNFOQQ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="280,329 2257,329 2257,1380 280,1380" rendition="TextRegion" xml:id="facs_61_tr_2">
+            <zone points="1129,383 1162,386 1177,398 1214,398 1221,393 1231,398 1254,398 1251,318 1226,318 1211,333 1127,333" rendition="Line" xml:id="facs_61_tr_2_tl_1"/>
+            <zone points="279,540 920,547 973,597 1960,537 2251,580 2254,500 2000,420 1903,497 279,502" rendition="Line" xml:id="facs_61_tr_2_tl_2"/>
+            <zone points="289,701 500,694 520,706 634,694 634,639 289,639" rendition="Line" xml:id="facs_61_tr_2_tl_3"/>
+            <zone points="505,766 2206,771 2206,704 505,704" rendition="Line" xml:id="facs_61_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="276,923 1848,935 2102,925 2102,868 276,873" rendition="Line" xml:id="facs_61_tr_2_tl_5"/>
+            <zone points="271,1067 2090,1085 2090,1022 1816,1007 271,1025" rendition="Line" xml:id="facs_61_tr_2_tl_6"/>
+            <zone points="269,1216 1843,1239 2162,1224 2162,1167 269,1192" rendition="Line" xml:id="facs_61_tr_2_tl_7"/>
+            <zone points="266,1368 1490,1373 2022,1435 2167,1381 2099,1306 266,1323" rendition="Line" xml:id="facs_61_tr_2_tl_8"/>
          </zone>
-         <zone points="115,2057 2203,2057 2203,3455 115,3455" rendition="TextRegion" xml:id="facs_96_tr_2">
-            <zone points="283,2117 2197,2124 2197,2072 2052,2057 283,2077" rendition="Line" xml:id="facs_96_tr_2_tl_1"/>
-            <zone points="291,2272 2182,2280 2182,2219 291,2224" rendition="Line" xml:id="facs_96_tr_2_tl_2"/>
-            <zone points="293,2437 1996,2437 2169,2422 2169,2367 293,2375" rendition="Line" xml:id="facs_96_tr_2_tl_3"/>
-            <zone points="288,2580 2177,2580 2177,2525 288,2530" rendition="Line" xml:id="facs_96_tr_2_tl_4"/>
-            <zone points="281,2723 2102,2740 2102,2668 2039,2665 281,2680" rendition="Line" xml:id="facs_96_tr_2_tl_5"/>
-            <zone points="281,2891 734,2946 799,2881 2164,2883 2184,2821 281,2838" rendition="Line" xml:id="facs_96_tr_2_tl_6"/>
-            <zone points="281,3031 1974,3039 2177,3029 2177,2971 281,2983" rendition="Line" xml:id="facs_96_tr_2_tl_7"/>
-            <zone points="283,3174 2127,3181 2127,3121 283,3124" rendition="Line" xml:id="facs_96_tr_2_tl_8"/>
+         <zone points="268,1466 2263,1466 2263,2738 268,2738" rendition="TextRegion" xml:id="facs_61_tr_1">
+            <zone points="261,1520 2256,1532 2256,1473 261,1495" rendition="Line" xml:id="facs_61_tr_1_tl_1"/>
+            <zone points="264,1677 2109,1684 2229,1677 2229,1622 264,1624" rendition="Line" xml:id="facs_61_tr_1_tl_2"/>
+            <zone points="269,1823 692,1828 848,1893 1420,1826 2164,1858 2164,1776 269,1781" rendition="Line" xml:id="facs_61_tr_1_tl_3"/>
+            <zone points="485,1968 2189,1980 2189,1928 485,1928" rendition="Line" xml:id="facs_61_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="261,2129 1983,2142 2174,2127 2174,2072 261,2092" rendition="Line" xml:id="facs_61_tr_1_tl_6"/>
+            <zone points="264,2276 2050,2284 2127,2274 2127,2216 264,2229" rendition="Line" xml:id="facs_61_tr_1_tl_7"/>
+            <zone points="254,2420 2109,2435 2149,2373 254,2395" rendition="Line" xml:id="facs_61_tr_1_tl_8"/>
+            <zone points="254,2580 2104,2582 2119,2522 254,2550" rendition="Line" xml:id="facs_61_tr_1_tl_9"/>
+            <zone points="264,2734 2226,2724 1955,2657 264,2677" rendition="Line" xml:id="facs_61_tr_1_tl_10"/>
+         </zone>
+         <zone points="131,2816 2182,2816 2182,3470 131,3470" rendition="TextRegion" xml:id="facs_61_tr_3">
+            <zone points="249,2881 1933,2888 2137,2873 2137,2823 249,2851" rendition="Line" xml:id="facs_61_tr_3_tl_1"/>
+            <zone points="249,3027 2119,3040 2142,2978 249,3002" rendition="Line" xml:id="facs_61_tr_3_tl_2"/>
+            <zone points="251,3189 2032,3196 2177,3184 2177,3129 251,3139" rendition="Line" xml:id="facs_61_tr_3_tl_3"/>
          </zone>
       </surface>
       
@@ -96,31 +98,32 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0570.jpg" n="part4_p096.jpg" xml:id="img_0096" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p096.jpg"/>
+            <pb facs="#TL-0453.jpg" n="part3_p061.jpg" xml:id="img_0061" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p061.jpg"/>
             
-            <fw facs="#facs_96_tr_1">
-               <lb facs="#facs_96_tr_1_tl_1" n="N001"/>[565]</fw>
+            <fw facs="#facs_61_tr_2">
+               <lb facs="#facs_61_tr_2_tl_1" n="N001"/>[448]</fw>
            <p rend="tei-p-no-indent">
-               <lb facs="#facs_96_tr_1_tl_2" n="N002"/>two things and give to the essential description the term “conformity” and the distorted
-               <lb facs="#facs_96_tr_1_tl_3" n="N003"/>description the term “conformism.” Now if this is the case, then we have in <rs type="place">England</rs>, against
-               <lb facs="#facs_96_tr_1_tl_4" n="N004"/>the tremendous development of liberal individuality in <rs type="place">France</rs> and <rs type="place">Germany</rs> and the smaller
-               <lb facs="#facs_96_tr_1_tl_5" n="N005"/>countries around, we have in <rs type="place">Great Britain</rs> a development of <rs type="keyword" ref="#Tradition">traditions</rs> which do not necessarily
-               <lb facs="#facs_96_tr_1_tl_6" n="N006"/>produce conformism in terms of intentional subjection to conventional rules, but in terms of
-               <lb facs="#facs_96_tr_1_tl_7" n="N007"/>growth which is automatic and has not necessarily the character of an external subjection. This
-               <lb facs="#facs_96_tr_1_tl_8" n="N008"/>seems to me a very important distinction. This, for instance, accounts for the following little
-              <lb facs="#facs_96_tr_1_tl_9" n="N009"/>story I experienced a few years ago in<rs type="place"> England</rs>:</p>
+               <lb facs="#facs_61_tr_2_tl_2" n="N002"/>Lutheran; and in consequence, of <rs type="keyword" ref="#Cartesian_philosophy">Cartesian</rs> development of the <rs type="keyword" ref="#Renaissance">Renaissance</rs>, namely the <rs type="keyword" ref="#Philosophy">philosophy</rs>
+              <lb facs="#facs_61_tr_2_tl_3" n="N003"/>of<rs type="keyword" ref="#Consciousness"> consciousness</rs>.</p>
            <p>
-               <lb facs="#facs_96_tr_1_tl_10" n="N010"/>I had to give to a group of students and professors a lecture on <rs type="keyword" ref="#Existentialism">existentialism</rs>, and I
-               <lb facs="#facs_96_tr_1_tl_11" n="N011"/>developed the main ideas about the human predicament, which we find in philosophers like <rs type="person" ref="#tillich_person_id__841">Heidegger</rs>
-               <lb facs="#facs_96_tr_1_tl_12" n="N012"/>and theologians like <rs type="person" ref="#tillich_person_id__1049">Kierkegaard</rs> and artists and painters like <rs type="person" ref="#tillich_person_id__1495">Picasso</rs>, and novelists like <rs type="person" ref="#tillich_person_id__1008">Kafka</rs>.
-               <lb facs="#facs_96_tr_2_tl_1" n="N001"/>Now then, I wanted a discussion. There was first a great silence, and then I was asked, “Do you
-               <lb facs="#facs_96_tr_2_tl_2" n="N002"/>think that this fits the English life at all?” Now I could of course answer in terms of pointing to
-               <lb facs="#facs_96_tr_2_tl_3" n="N003"/>people like<rs type="person" ref="#tillich_person_id__523"> Eliot</rs> and<rs type="person" ref="#tillich_person_id__3156"> Greene</rs> and <rs type="person" ref="#tillich_person_id__3157">Auden</rs> and others, who are supposed to be British by birth or
-               <lb facs="#facs_96_tr_2_tl_4" n="N004"/>choice, and a few other things like this, and then I asked: Isn't there in the younger generation,
-               <lb facs="#facs_96_tr_2_tl_5" n="N005"/>in the <emph rend="allcaps">youngest</emph> generation, even on places like <rs type="place">Oxford</rs> and <rs type="place">Cambridge</rs>, where the logical
-               <lb facs="#facs_96_tr_2_tl_6" n="N006"/>positivistic <rs type="keyword" ref="#Tradition">tradition</rs> is now prevailing, a new tendency toward asking relevant questions, namely
-               <lb facs="#facs_96_tr_2_tl_7" n="N007"/>questions relevant to human existence, even in <rs type="keyword" ref="#Philosophy">philosophy</rs>? And there was hesitation, but there
-               <lb facs="#facs_96_tr_2_tl_8" n="N008"/>was the feeling that perhaps a change is going on. The same experience, ten years earlier, was
+               <lb facs="#facs_61_tr_2_tl_4" n="N004"/>On this basis an ideal of <rs type="keyword" ref="#Personality">personality</rs> has appeared which looks like this: the <rs type="keyword" ref="#Individual">individual</rs>
+               <lb facs="#facs_61_tr_2_tl_5" n="N005"/>is a strong, directed character, dependent on the universal structures of reality; dependent in
+               <lb facs="#facs_61_tr_2_tl_6" n="N006"/><rs type="keyword" ref="#Religion">religion,</rs> in <rs type="keyword" ref="#Protestantism">Protestantism,</rs> on the divine <rs type="keyword" ref="#Law">law</rs>; dependent, in humanism, on the law of <rs type="keyword" ref="#Reason">reason</rs>,
+               <lb facs="#facs_61_tr_2_tl_7" n="N007"/>determined by it, self-controlled, conscious and suppressive, namely suppressing those elements
+               <lb facs="#facs_61_tr_2_tl_8" n="N008"/>in oneself which are given on the basis of our vital existence, repressing the dynamics of <rs type="keyword" ref="#Vitality">vitality</rs>,
+               <lb facs="#facs_61_tr_1_tl_1" n="N001"/>and cutting off the relationship not only to one's own vital and <rs type="keyword" ref="#Unconscious">unconscious</rs> tendencies and realities,
+               <lb facs="#facs_61_tr_1_tl_2" n="N002"/>but also to the others and also to nature as a whole. This ideal of personality you find in these two
+              <lb facs="#facs_61_tr_1_tl_3" n="N003"/>developments: in the later development of <rs type="keyword" ref="#Calvinism">Calvinism</rs> and in the later development of bourgeois society.</p>
+           <p>
+               <lb facs="#facs_61_tr_1_tl_5" n="N004"/>Now let us think a little about the implications of this idea of personality which is
+               <lb facs="#facs_61_tr_1_tl_6" n="N005"/>still alive in some parts of your own <rs type="keyword" ref="#Conscience">conscience</rs>, and which on the other hand is in the process of
+               <lb facs="#facs_61_tr_1_tl_7" n="N006"/>explosion. And out of this double fact—that it is still present and that it is not really accepted
+               <lb facs="#facs_61_tr_1_tl_8" n="N007"/>any more—most of the disturbing consequences of the present situation have arisen. One of
+               <lb facs="#facs_61_tr_1_tl_9" n="N008"/>these consequences is the immense increase in mental disease, or at least mental distortedness.
+               <lb facs="#facs_61_tr_1_tl_10" n="N009"/>This morning I went through the mail of a few days, with my secretary, and as <emph rend="allcaps">always</emph>, when we
+               <lb facs="#facs_61_tr_3_tl_1" n="N001"/>do this, there are a few letters where she immediately tells me, “I suppose this belongs into the
+              <lb facs="#facs_61_tr_3_tl_2" n="N002"/>folder of 'Crazy People.'”—and this folder is increasing. <hi style="font-style: italic;">[laughter]</hi> Now but this is terrible!
+               <lb facs="#facs_61_tr_3_tl_3" n="N003"/>I am really appalled, each time this happens, by the proportion of healthy letters to crazy letters
             </p>
             
         </div>

@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-45">Lecture XLV (Nr. 0603)</title>
+            <title type="main" n="TL-lecture-43">Lecture XLIII (Nr. 0573)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part4_p129</locus>
+                     <locus>part4_p099</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-05-01">1956-05-01</date>
+                <date when-iso="1956-04-24">1956-04-24</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,30 +63,34 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_129">
-         <graphic url="TL-0603.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=UVOEXWUKGTEWGPJAQZGHGTST&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="274,259 274,3463 2304,3463 2304,259" rendition="TextRegion" xml:id="facs_129_tr_2">
-            <zone points="1148,330 1160,330 1170,340 1185,342 1237,337 1247,345 1262,345 1262,270 1225,270 1215,260 1182,285 1148,285" rendition="Line" xml:id="facs_129_tr_2_tl_1"/>
-            <zone points="322,471 2194,491 2191,416 2142,451 2100,416 2057,451 1562,449 1282,411 1041,439 1004,404 873,436 835,402 322,439" rendition="Line" xml:id="facs_129_tr_2_tl_2"/>
-            <zone points="315,620 2233,647 2233,595 2164,578 1859,610 1522,573 1383,607 1222,565 315,578" rendition="Line" xml:id="facs_129_tr_2_tl_3"/>
-            <zone points="320,771 1948,806 2184,798 2181,746 317,746" rendition="Line" xml:id="facs_129_tr_2_tl_4"/>
-            <zone points="315,949 2241,939 2241,892 2085,885 315,900" rendition="Line" xml:id="facs_129_tr_2_tl_5"/>
-            <zone points="307,1073 2159,1103 2157,1051 1809,1049 1772,1011 1720,1049 1336,1061 528,1019 307,1051" rendition="Line" xml:id="facs_129_tr_2_tl_6"/>
-            <zone points="312,1229 2184,1249 2184,1177 312,1182" rendition="Line" xml:id="facs_129_tr_2_tl_7"/>
-            <zone points="302,1383 2090,1398 2030,1316 1745,1363 1549,1329 302,1334" rendition="Line" xml:id="facs_129_tr_2_tl_8"/>
-            <zone points="302,1532 2179,1549 2137,1482 302,1485" rendition="Line" xml:id="facs_129_tr_2_tl_9"/>
-            <zone points="300,1683 2169,1693 2169,1643 1842,1633 300,1653" rendition="Line" xml:id="facs_129_tr_2_tl_10"/>
-            <zone points="290,1824 2283,1854 2283,1797 290,1782" rendition="Line" xml:id="facs_129_tr_2_tl_11"/>
-            <zone points="292,1985 2060,2013 2149,2000 2149,1946 290,1933" rendition="Line" xml:id="facs_129_tr_2_tl_12"/>
-            <zone points="290,2137 2080,2157 2080,2104 1906,2080 290,2102" rendition="Line" xml:id="facs_129_tr_2_tl_13"/>
-            <zone points="285,2283 2142,2298 2142,2248 2087,2243 285,2231" rendition="Line" xml:id="facs_129_tr_2_tl_14"/>
-            <zone points="285,2434 2134,2454 2134,2407 1775,2390 285,2390" rendition="Line" xml:id="facs_129_tr_2_tl_15"/>
-            <zone points="273,2578 337,2595 377,2585 491,2605 508,2595 533,2598 530,2546 362,2541 352,2531 342,2541 327,2528 290,2556 273,2556" rendition="Line" xml:id="facs_129_tr_2_tl_16"/>
-            <zone points="503,2662 2095,2684 2092,2635 2018,2613 845,2635 503,2598" rendition="Line" xml:id="facs_129_tr_2_tl_17" subtype="paragraph"/>
-            <zone points="270,2818 2176,2826 2176,2774 270,2769" rendition="Line" xml:id="facs_129_tr_2_tl_18"/>
-            <zone points="273,2962 2142,2979 2142,2932 2055,2922 273,2917" rendition="Line" xml:id="facs_129_tr_2_tl_19"/>
-            <zone points="260,3106 2104,3133 2104,3076 260,3064" rendition="Line" xml:id="facs_129_tr_2_tl_20"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_99">
+         <graphic url="TL-0573.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XYVRUHBMWZEWTFYAVABPTESP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="47,18 2254,18 2254,1407 47,1407" rendition="TextRegion" xml:id="facs_99_tr_2">
+            <zone points="1128,338 1160,345 1199,382 1206,382 1238,347 1248,347 1248,291 1213,294 1194,276 1186,286 1128,291" rendition="Line" xml:id="facs_99_tr_2_tl_2"/>
+            <zone points="308,506 2165,501 2165,453 2035,418 308,431" rendition="Line" xml:id="facs_99_tr_2_tl_3"/>
+            <zone points="306,643 1774,660 2155,646 2155,594 306,621" rendition="Line" xml:id="facs_99_tr_2_tl_4"/>
+            <zone points="969,797 2224,812 2251,751 1517,753 1460,719 1426,753 969,768" rendition="Line" xml:id="facs_99_tr_2_tl_5"/>
+            <zone points="1306,939 1588,966 2145,949 2165,947 2165,893 1348,893 1306,915" rendition="Line" xml:id="facs_99_tr_2_tl_7"/>
+            <zone points="298,1093 2118,1101 2199,1096 2199,1037 298,1071" rendition="Line" xml:id="facs_99_tr_2_tl_9"/>
+            <zone points="303,1252 1825,1260 2192,1245 2192,1182 303,1206" rendition="Line" xml:id="facs_99_tr_2_tl_10"/>
+            <zone points="296,1404 1448,1429 2126,1404 2140,1350 296,1360" rendition="Line" xml:id="facs_99_tr_2_tl_11"/>
+         </zone>
+         <zone points="307,1490 2263,1490 2263,2162 307,2162" rendition="TextRegion" xml:id="facs_99_tr_3">
+            <zone points="303,1568 2072,1561 2148,1556 2148,1502 303,1517" rendition="Line" xml:id="facs_99_tr_3_tl_1"/>
+            <zone points="303,1707 1348,1705 1441,1747 2126,1698 2126,1649 303,1659" rendition="Line" xml:id="facs_99_tr_3_tl_2"/>
+            <zone points="296,1854 2177,1854 2177,1798 296,1830" rendition="Line" xml:id="facs_99_tr_3_tl_3"/>
+            <zone points="294,2008 2172,2013 2260,2006 2260,1955 294,1967" rendition="Line" xml:id="facs_99_tr_3_tl_4"/>
+            <zone points="492,2158 2221,2158 2221,2099 492,2111" rendition="Line" xml:id="facs_99_tr_3_tl_5" subtype="paragraph"/>
+         </zone>
+         <zone points="23,2242 2301,2242 2301,3464 23,3464" rendition="TextRegion" xml:id="facs_99_tr_1">
+            <zone points="284,2304 2057,2309 2170,2304 2170,2251 284,2282" rendition="Line" xml:id="facs_99_tr_1_tl_1"/>
+            <zone points="284,2456 1820,2468 2194,2451 2194,2405 284,2434" rendition="Line" xml:id="facs_99_tr_1_tl_2"/>
+            <zone points="294,2613 2175,2608 2175,2554 294,2566" rendition="Line" xml:id="facs_99_tr_1_tl_3"/>
+            <zone points="289,2767 2224,2757 2224,2701 289,2718" rendition="Line" xml:id="facs_99_tr_1_tl_4"/>
+            <zone points="289,2916 2043,2918 2194,2909 2197,2855 291,2872" rendition="Line" xml:id="facs_99_tr_1_tl_5"/>
+            <zone points="279,3060 2060,3063 2153,3048 2153,2980 279,3036" rendition="Line" xml:id="facs_99_tr_1_tl_6"/>
+            <zone points="886,3219 2251,3212 2295,3207 2295,3153 886,3173" rendition="Line" xml:id="facs_99_tr_1_tl_7"/>
          </zone>
       </surface>
       
@@ -94,31 +98,31 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0603.jpg" n="part4_p129.jpg" xml:id="img_0129" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p129.jpg"/>
+            <pb facs="#TL-0573.jpg" n="part4_p099.jpg" xml:id="img_0099" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p099.jpg"/>
             
-            <fw facs="#facs_129_tr_2">
-               <lb facs="#facs_129_tr_2_tl_1" n="N001"/>[598]</fw>
+            <fw facs="#facs_99_tr_2">
+               <lb facs="#facs_99_tr_2_tl_2" n="N001"/>[568]</fw>
            <p rend="tei-p-no-indent">
-               <lb facs="#facs_129_tr_2_tl_2" n="N002"/>let them work, not to <emph rend="allcaps">overcome</emph> existence—this can never happen, in <rs type="keyword" ref="#Time">time</rs> and <space/>space—but to
-               <lb facs="#facs_129_tr_2_tl_3" n="N003"/>balance the saving <rs type="keyword" ref="#Power">power</rs> against the <rs type="keyword" ref="#Demonic">demonic</rs> powers. And in order to do this, a type of <rs type="keyword" ref="#Pacifism">pacifism</rs>
-               <lb facs="#facs_129_tr_2_tl_4" n="N004"/>can occur, in groups and <rs type="keyword" ref="#Individual">individuals</rs>, which can be called <rs type="keyword" ref="#Symbols">symbolic</rs> pacifism, namely individuals
-               <lb facs="#facs_129_tr_2_tl_5" n="N005"/>or groups resigning themselves, or for their group, of the application of compulsion; not of power—that 
-               <lb facs="#facs_129_tr_2_tl_6" n="N006"/>would mean non-existence—but of compulsion. These symbolic pacifists—as I would say
-               <lb facs="#facs_129_tr_2_tl_7" n="N007"/>the Quakers are, in their basic principles, and the <rs type="keyword" ref="#Church">Church</rs> always must be, <emph rend="allcaps">as church</emph>, even if
-               <lb facs="#facs_129_tr_2_tl_8" n="N008"/>it doesn’t demand pacifism legalistically of the state; and individuals who, as conscientious
-               <lb facs="#facs_129_tr_2_tl_9" n="N009"/>objectors, point to the <rs type="keyword" ref="#Ultimacy">ultimate</rs> unity of everything which is alive, but <emph rend="allcaps">do not make a <rs type="keyword" ref="#Law">law</rs></emph>
-               <lb facs="#facs_129_tr_2_tl_10" n="N010"/>out of it. Now this is a third form, and a form of which I only want that it wouldn't disappear
-               <lb facs="#facs_129_tr_2_tl_11" n="N011"/>from the surface of the earth, and not from the surface of this country which was on a wrong way, in
-               <lb facs="#facs_129_tr_2_tl_12" n="N012"/>the period in which <emph rend="allcaps">legalistic</emph> pacifism was predominant, but which now should not go to
-               <lb facs="#facs_129_tr_2_tl_13" n="N013"/>the other extreme to a simple affirmation of military power, as it sometimes <emph rend="allcaps">seems</emph> to be,
-               <lb facs="#facs_129_tr_2_tl_14" n="N014"/>in <rs type="keyword" ref="#Politics">political</rs> utterances of the leaders of this country. But there should always be the symbolic
-               <lb facs="#facs_129_tr_2_tl_15" n="N015"/>representatives of the <rs type="keyword" ref="#Eternity">eternal</rs> peace in some individuals and some acts in which they represent
-               <lb facs="#facs_129_tr_2_tl_16" n="N016"/>this reality.</p>
+               <lb facs="#facs_99_tr_2_tl_3" n="N002"/>[such] as radio, movie, and television. There are, in all these things, some elements which one
+               <lb facs="#facs_99_tr_2_tl_4" n="N003"/>could call cultural goods of the past, which are brought especially in music, and there is much
+               <lb facs="#facs_99_tr_2_tl_5" n="N004"/>information, and the information problem leads to these extraordinary things
+               <lb facs="#facs_99_tr_2_tl_7" n="N005"/>like the $100,000-questions, in order to answer which, you must empty your mind
+               <lb facs="#facs_99_tr_2_tl_9" n="N006"/>of every meaningful content to take in innumerable facts, and then you might win the $100,000
+               <lb facs="#facs_99_tr_2_tl_10" n="N007"/>on the basis of this ideal! But this is not the worst part of it. A much worse part is the <emph rend="allcaps">silent</emph>
+               <lb facs="#facs_99_tr_2_tl_11" n="N008"/><emph rend="allcaps">production</emph> of patterns of thought which are not enforced, as in totalitarian countries, by
+               <lb facs="#facs_99_tr_3_tl_1" n="N001"/>police power from outside, but which are mediated by the very soft form of taking from you,
+               <lb facs="#facs_99_tr_3_tl_2" n="N002"/>without any external enforcement, many hours of your day, and from children often, all the
+               <lb facs="#facs_99_tr_3_tl_3" n="N003"/>non-school hours of their day, and what is going on in school under the heading <rs type="keyword" ref="#Education">“Education</rs> for
+              <lb facs="#facs_99_tr_3_tl_4" n="N004"/>Adjustment” is often not much better—so that from early time on, this <rs type="keyword" ref="#Patternization">patternization</rs> is going on.</p>
            <p>
-               <lb facs="#facs_129_tr_2_tl_17" n="N017"/>Now I think this makes it clear what one could say in the relationship of such a
-               <lb facs="#facs_129_tr_2_tl_18" n="N018"/>problem. And I would believe that this is true of many other problems too. This brings me to a
-               <lb facs="#facs_129_tr_2_tl_19" n="N019"/>last consideration in this whole lecture, which in some way is supposed to sum up this whole
-               <lb facs="#facs_129_tr_2_tl_20" n="N020"/>lecture [i.e. course of lectures]. I believe that in many of you the question is, consciously or
+               <lb facs="#facs_99_tr_3_tl_5" n="N005"/>Now here we are before a problem, namely, under these circumstances, is the resistance
+               <lb facs="#facs_99_tr_1_tl_1" n="N001"/>against neo-collectivism in this country more possible than in the <rs type="keyword" ref="#Totalitarian">totalitarian</rs> countries? In the
+               <lb facs="#facs_99_tr_1_tl_2" n="N002"/>totalitarian countries, a resistance is a matter of danger of life. In this country the resistance is a
+               <lb facs="#facs_99_tr_1_tl_3" n="N003"/>matter of preserving <emph rend="allcaps">internally</emph> elements which can be preserved <emph rend="allcaps">only</emph> in the situation of
+               <lb facs="#facs_99_tr_1_tl_4" n="N004"/>solitude. I can tell you a discussion I had in the Business School two months ago, I think it was,
+               <lb facs="#facs_99_tr_1_tl_5" n="N005"/>about the meaning of business in our time, with very advanced students of a special group there;
+               <lb facs="#facs_99_tr_1_tl_6" n="N006"/>and the final question which I was asked was: “Now if you sum up all what you have told us”—about 
+               <lb facs="#facs_99_tr_1_tl_7" n="N007"/>the confusion of means and ends, the creation of means for ends which then themselves
             </p>
             
         </div>

@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-44">Lecture XLIV (Nr. 0585)</title>
+            <title type="main" n="TL-lecture-42">Lecture XLII (Nr. 0555)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part4_p111</locus>
+                     <locus>part4_p081</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-04-26">1956-04-26</date>
+                <date when-iso="1956-04-17">1956-04-17</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,29 +63,33 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_111">
-         <graphic url="TL-0585.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=UNESBJCONHNVWEVTMHNXGKNG&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="47,236 47,3461 2343,3461 2343,236" rendition="TextRegion" xml:id="facs_111_tr_1">
-            <zone points="1098,300 1114,300 1136,318 1185,308 1218,308 1220,239 1187,239 1167,257 1149,259 1142,252 1131,257 1101,257" rendition="Line" xml:id="facs_111_tr_1_tl_1"/>
-            <zone points="292,460 2115,460 2115,407 2034,369 1996,407 735,425 592,369 488,427 455,392 292,425" rendition="Line" xml:id="facs_111_tr_1_tl_2"/>
-            <zone points="303,613 1884,646 1960,597 2235,608 2235,542 303,562" rendition="Line" xml:id="facs_111_tr_1_tl_3"/>
-            <zone points="303,773 1116,803 1470,750 2126,750 2128,702 303,725" rendition="Line" xml:id="facs_111_tr_1_tl_4"/>
-            <zone points="305,918 2197,903 2199,844 305,887" rendition="Line" xml:id="facs_111_tr_1_tl_5"/>
-            <zone points="292,1065 2011,1060 2047,1014 292,1037" rendition="Line" xml:id="facs_111_tr_1_tl_6"/>
-            <zone points="295,1210 2151,1200 2151,1144 1986,1129 297,1185" rendition="Line" xml:id="facs_111_tr_1_tl_7"/>
-            <zone points="295,1363 2100,1348 2100,1294 295,1320" rendition="Line" xml:id="facs_111_tr_1_tl_8"/>
-            <zone points="295,1518 2006,1520 2153,1500 2156,1447 295,1492" rendition="Line" xml:id="facs_111_tr_1_tl_9"/>
-            <zone points="295,1668 2194,1653 2194,1597 1851,1594 295,1637" rendition="Line" xml:id="facs_111_tr_1_tl_10"/>
-            <zone points="300,1826 2169,1803 2169,1752 1889,1737 303,1792" rendition="Line" xml:id="facs_111_tr_1_tl_11"/>
-            <zone points="305,1968 2143,1958 2143,1904 2047,1897 308,1922" rendition="Line" xml:id="facs_111_tr_1_tl_12"/>
-            <zone points="300,2120 2253,2098 2253,2044 303,2092" rendition="Line" xml:id="facs_111_tr_1_tl_13"/>
-            <zone points="300,2270 2143,2253 2103,2194 303,2227" rendition="Line" xml:id="facs_111_tr_1_tl_14"/>
-            <zone points="295,2413 2176,2413 2339,2400 2342,2344 295,2387" rendition="Line" xml:id="facs_111_tr_1_tl_15"/>
-            <zone points="300,2570 2080,2581 2301,2548 2301,2502 2237,2492 300,2545" rendition="Line" xml:id="facs_111_tr_1_tl_16"/>
-            <zone points="305,2731 2220,2700 2220,2647 2021,2639 308,2682" rendition="Line" xml:id="facs_111_tr_1_tl_17"/>
-            <zone points="305,2817 1904,2837 2184,2804 2184,2751 1953,2746 305,2779" rendition="Line" xml:id="facs_111_tr_1_tl_18" subtype="footnote"/>
-            <zone points="325,2878 1322,2870 1304,2817 325,2830" rendition="Line" xml:id="facs_111_tr_1_tl_19"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_81">
+         <graphic url="TL-0555.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KDXYBBJLOLZSAQPRNYXAHOVA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="125,15 2301,15 2301,1893 125,1893" rendition="TextRegion" xml:id="facs_81_tr_2">
+            <zone points="1109,342 1121,342 1136,360 1171,355 1215,357 1223,350 1235,350 1238,293 1218,293 1198,310 1193,300 1178,308 1168,295 1161,300 1151,298 1136,310 1109,308" rendition="Line" xml:id="facs_81_tr_2_tl_3"/>
+            <zone points="308,491 1967,526 1924,449 771,466 684,409 590,464 308,464" rendition="Line" xml:id="facs_81_tr_2_tl_4"/>
+            <zone points="312,645 2225,680 2225,618 312,598" rendition="Line" xml:id="facs_81_tr_2_tl_5"/>
+            <zone points="303,799 2267,821 2267,769 1954,756 303,746" rendition="Line" xml:id="facs_81_tr_2_tl_6"/>
+            <zone points="305,950 2130,965 2056,903 305,903" rendition="Line" xml:id="facs_81_tr_2_tl_7"/>
+            <zone points="293,1091 2081,1114 2081,1064 1833,1049 583,1027 293,1069" rendition="Line" xml:id="facs_81_tr_2_tl_8"/>
+            <zone points="300,1252 2215,1277 2190,1215 300,1200" rendition="Line" xml:id="facs_81_tr_2_tl_9"/>
+            <zone points="290,1401 2118,1419 2034,1337 290,1354" rendition="Line" xml:id="facs_81_tr_2_tl_10"/>
+            <zone points="288,1548 2021,1580 2021,1518 1840,1505 288,1503" rendition="Line" xml:id="facs_81_tr_2_tl_11"/>
+            <zone points="280,1719 1853,1734 1813,1669 280,1689" rendition="Line" xml:id="facs_81_tr_2_tl_12"/>
+            <zone points="280,1867 2163,1902 2113,1833 280,1823" rendition="Line" xml:id="facs_81_tr_2_tl_13"/>
+         </zone>
+         <zone points="23,1965 2280,1965 2280,3470 23,3470" rendition="TextRegion" xml:id="facs_81_tr_1">
+            <zone points="278,2021 2123,2036 2123,1989 1969,1974 278,1996" rendition="Line" xml:id="facs_81_tr_1_tl_1"/>
+            <zone points="275,2172 2138,2190 2073,2128 275,2125" rendition="Line" xml:id="facs_81_tr_1_tl_2"/>
+            <zone points="280,2316 2053,2341 1999,2282 280,2254" rendition="Line" xml:id="facs_81_tr_1_tl_3"/>
+            <zone points="265,2470 702,2515 2128,2492 2128,2440 1791,2423 265,2445" rendition="Line" xml:id="facs_81_tr_1_tl_4"/>
+            <zone points="263,2619 1810,2639 1810,2587 263,2574" rendition="Line" xml:id="facs_81_tr_1_tl_5"/>
+            <zone points="464,2780 1662,2822 2056,2783 2056,2730 464,2728" rendition="Line" xml:id="facs_81_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="263,2941 1054,2941 1054,2882 263,2879" rendition="Line" xml:id="facs_81_tr_1_tl_7"/>
+            <zone points="456,3006 1027,3013 1215,3075 2143,3016 2143,2964 1967,2954 456,2956" rendition="Line" xml:id="facs_81_tr_1_tl_8" subtype="paragraph"/>
+            <zone points="248,3150 2242,3182 2242,3120 248,3127" rendition="Line" xml:id="facs_81_tr_1_tl_9"/>
+            <zone points="250,3288 2215,3286 2215,3231 250,3246" rendition="Line" xml:id="facs_81_tr_1_tl_10"/>
          </zone>
       </surface>
       
@@ -93,29 +97,34 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0585.jpg" n="part4_p111.jpg" xml:id="img_0111" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p111.jpg"/>
+            <pb facs="#TL-0555.jpg" n="part4_p081.jpg" xml:id="img_0081" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p081.jpg"/>
             
-            <fw facs="#facs_111_tr_1">
-               <lb facs="#facs_111_tr_1_tl_1" n="N001"/>[580]</fw>
+            <fw facs="#facs_81_tr_2">
+               <lb facs="#facs_81_tr_2_tl_3" n="N001"/>[550]</fw>
            <p rend="tei-p-no-indent">
-               <lb facs="#facs_111_tr_1_tl_2" n="N002"/>within the limits of this special estate, be it the king, be it the beggar, and everything
-               <lb facs="#facs_111_tr_1_tl_3" n="N003"/>in between. Now these are what I could call <rs type="keyword" ref="#Economy">economic</rs> will, or economic valuation, not in terms of
-               <lb facs="#facs_111_tr_1_tl_4" n="N004"/>prices but in terms of expressions of the meaning of life. So if you discuss these things, don't
-               <lb facs="#facs_111_tr_1_tl_5" n="N005"/>complain, with a kind of complaining sentimentality, that this bad <rs type="keyword" ref="#Materialism">materialistic</rs> interpretation of
-               <lb facs="#facs_111_tr_1_tl_6" n="N006"/><rs type="keyword" ref="#History">history</rs> devaluates all the wonderful high values which we have in our wonderful society—don't 
-               <lb facs="#facs_111_tr_1_tl_7" n="N007"/>say <emph rend="allcaps">this</emph>, especially that it is <rs type="keyword" ref="#Atheism">atheistic</rs> and has many other <rs type="keyword" ref="#Morals">moral </rs>failures from the point
-               <lb facs="#facs_111_tr_1_tl_8" n="N008"/>of view of suburban bourgeoisie, but use your academic <rs type="keyword" ref="#Mind">mind</rs> and criticize, not in terms of
-               <lb facs="#facs_111_tr_1_tl_9" n="N009"/>sentimental complaint about these bad people, but criticize in terms of logical analysis and
-               <lb facs="#facs_111_tr_1_tl_10" n="N010"/>show them what actually the <rs type="keyword" ref="#Concept">concept</rs> of the economic means. And if you do this, then you also
-               <lb facs="#facs_111_tr_1_tl_11" n="N011"/>do something else: you show how <emph rend="allcaps">right</emph> they are <emph rend="allcaps">in</emph> their analysis; that actually you cannot
-               <lb facs="#facs_111_tr_1_tl_12" n="N012"/>write a history of the <rs type="keyword" ref="#Artist">artistic</rs> interpretation of the human face, in the <rs type="keyword" ref="#Western_Culture">Western</rs> world, without
-               <lb facs="#facs_111_tr_1_tl_13" n="N013"/>continuous references to the economic foundation. I once have written an article, in a collective work
-              <lb facs="#facs_111_tr_1_tl_14" n="N014"/>called <rs type="work" rend="italics" ref="#tillich__ZATSNTWD">The Christian Answer</rs> (1945)—“The Analysis of Our Time”<note type="ea">The actual title is “The World Situation,” in the book edited by H. P. Van Dusen. Note that in
-                 <lb facs="#facs_111_tr_1_tl_20" n="N020"/>later republication, the pictures are omitted.—Ed.</note>—and to show the way in
-               <lb facs="#facs_111_tr_1_tl_15" n="N015"/>which the idea of <rs type="keyword" ref="#Personality">personality</rs> (which I have discussed in the last hours) has developed, I added pictures:
-              <lb facs="#facs_111_tr_1_tl_16" n="N016"/>the personality in a man like <rs type="person" ref="#tillich_person_id__681">Giotto</rs>, in a man like <rs type="person" ref="#tillich_person_id__3088">Titian</rs>, in a man like <rs type="person" ref="#tillich_person_id__1580">Rembrandt</rs>, and in a man like
-              <lb facs="#facs_111_tr_1_tl_17" n="N017"/>American 19th-century <rs type="person" ref="#tillich_person_id__3909">Sargent</rs>, showing the differences, not looking so much at the valuation or</p>
-       
+               <lb facs="#facs_81_tr_2_tl_4" n="N002"/>the <rs type="keyword" ref="#Authority">authority</rs> in principle and the authority in fact. Let's use these two distinctions,
+               <lb facs="#facs_81_tr_2_tl_5" n="N003"/>which can both be used—the word “rational” has connotations which make it very difficult today
+               <lb facs="#facs_81_tr_2_tl_6" n="N004"/>to use it. In <rs type="place">Williams College</rs>, two days ago, I had a discussion with the students and someone asked
+               <lb facs="#facs_81_tr_2_tl_7" n="N005"/>me about the relation of <rs type="keyword" ref="#Reason">reason</rs> and <rs type="keyword" ref="#Faith">faith</rs>, and I asked back with the words, “Whenever I hear
+              <lb facs="#facs_81_tr_2_tl_8" n="N006"/>somebody ask such a question, I ask back, 'What do you mean with “reason”' ?” And he
+               <lb facs="#facs_81_tr_2_tl_9" n="N007"/>reacted almost immediately, he was not shocked, because he knew exactly what reason is, namely
+               <lb facs="#facs_81_tr_2_tl_10" n="N008"/>intellectual endeavor: that was his definition of reason. Now of course, if this is reason, then
+               <lb facs="#facs_81_tr_2_tl_11" n="N009"/>it doesn't cover what <rs type="person" ref="#tillich_person_id__647">Fromm </rs>means at all, and it never covers what <hi style="text-decoration: underline;">I</hi> mean with reason,
+               <lb facs="#facs_81_tr_2_tl_12" n="N010"/>and it doesn't cover what the history of philosophy meant with reason. Reason
+               <lb facs="#facs_81_tr_2_tl_13" n="N011"/>meant the structure of mind and reality. But this immediate reaction of a younger boy to my
+               <lb facs="#facs_81_tr_1_tl_1" n="N001"/>question which tried to trap him <hi style="font-style: italic;">[smiling]</hi>, was very revealing to me. It revealed the fact that
+               <lb facs="#facs_81_tr_1_tl_2" n="N002"/>it's almost beyond salvation to try to bring back the original meaning of the word reason: it is
+               <lb facs="#facs_81_tr_1_tl_3" n="N003"/>“intellectual endeavor,” and this is what it is, and if you speak of <rs type="keyword" ref="#Morals">morals</rs> or aesthetics
+               <lb facs="#facs_81_tr_1_tl_4" n="N004"/>or <rs type="keyword" ref="#Politics">politics</rs> or the universe and its structure, then you shouldn't use that word any more. I am
+              <lb facs="#facs_81_tr_1_tl_5" n="N005"/>very sorry, but I am afraid I have to resign!—this boy revealed that to me.</p>
+           <p>
+               <lb facs="#facs_81_tr_1_tl_6" n="N006"/>In any case, this is why I hesitate a little to use <rs type="person" ref="#tillich_person_id__647">Fromm</rs>'s distinction, although it
+              <lb facs="#facs_81_tr_1_tl_7" n="N007"/>points very much to the same direction.</p>
+           <p>
+               <lb facs="#facs_81_tr_1_tl_8" n="N008"/>Now let's use my own, namely <rs type="keyword" ref="#Authority">authority</rs> in principle and authority in fact. The first
+               <lb facs="#facs_81_tr_1_tl_9" n="N009"/>thing is authority in fact. None of you would be in this room, in this moment, if I were not for you,
+               <lb facs="#facs_81_tr_1_tl_10" n="N010"/>in a limited realm, an authority in fact. But I <emph rend="allcaps">hope</emph> nobody is in this room who considers me to be
+            </p>
             
         </div>
       </body>

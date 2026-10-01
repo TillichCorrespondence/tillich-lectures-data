@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-45">Lecture XLV (Nr. 0608)</title>
+            <title type="main" n="TL-lecture-43">Lecture XLIII (Nr. 0578)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part4_p134</locus>
+                     <locus>part4_p104</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-05-01">1956-05-01</date>
+                <date when-iso="1956-04-24">1956-04-24</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,29 +63,30 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_134">
-         <graphic url="TL-0608.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=QODPVRHHBIKISBRTLOSIVEOQ&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="56,28 14,3453 2349,3453 2349,0" rendition="TextRegion" xml:id="facs_134_tr_2">
-            <zone points="1118,324 1240,324 1240,254 1218,257 1210,252 1195,259 1188,257 1178,267 1163,267 1148,282 1118,282" rendition="Line" xml:id="facs_134_tr_2_tl_2"/>
-            <zone points="297,457 414,516 2196,544 2196,342 2053,342 1831,437 1734,402 1015,434 963,399 916,432 881,397 374,432 297,394" rendition="Line" xml:id="facs_134_tr_2_tl_3"/>
-            <zone points="294,691 404,706 506,644 926,674 1118,624 2208,634 2208,581 1871,566 487,574 382,504 294,504" rendition="Line" xml:id="facs_134_tr_2_tl_4"/>
-            <zone points="289,766 506,806 584,768 1759,783 1806,821 2088,788 2008,731 289,714" rendition="Line" xml:id="facs_134_tr_2_tl_6"/>
-            <zone points="287,976 1105,958 1342,996 1751,933 2143,948 2143,891 2006,883 287,898" rendition="Line" xml:id="facs_134_tr_2_tl_7"/>
-            <zone points="279,1070 2173,1105 2173,1038 1639,1020 279,1048" rendition="Line" xml:id="facs_134_tr_2_tl_8"/>
-            <zone points="287,1225 2101,1245 2101,1190 2063,1188 1010,1205 287,1155" rendition="Line" xml:id="facs_134_tr_2_tl_9"/>
-            <zone points="279,1380 479,1430 599,1380 2151,1405 2151,1345 2031,1307 1998,1340 279,1332" rendition="Line" xml:id="facs_134_tr_2_tl_10"/>
-            <zone points="272,1532 2053,1557 2053,1495 272,1482" rendition="Line" xml:id="facs_134_tr_2_tl_12"/>
-            <zone points="259,1709 2036,1694 2036,1642 1647,1627 322,1617 259,1657" rendition="Line" xml:id="facs_134_tr_2_tl_13"/>
-            <zone points="267,1826 2098,1854 2098,1796 2033,1784 267,1784" rendition="Line" xml:id="facs_134_tr_2_tl_14"/>
-            <zone points="259,1979 591,2018 753,1984 2161,1996 2161,1934 259,1946" rendition="Line" xml:id="facs_134_tr_2_tl_16"/>
-            <zone points="259,2128 2116,2148 2116,2096 1836,2083 259,2086" rendition="Line" xml:id="facs_134_tr_2_tl_17"/>
-            <zone points="259,2280 1180,2293 1223,2335 1330,2335 1330,2238 259,2233" rendition="Line" xml:id="facs_134_tr_2_tl_19"/>
-            <zone points="259,2428 2236,2450 2233,2380 317,2370 257,2403" rendition="Line" xml:id="facs_134_tr_2_tl_22"/>
-            <zone points="252,2585 2048,2600 2048,2550 1974,2537 252,2542" rendition="Line" xml:id="facs_134_tr_2_tl_23"/>
-            <zone points="252,2737 2208,2749 2208,2695 1861,2682 252,2692" rendition="Line" xml:id="facs_134_tr_2_tl_24"/>
-            <zone points="237,2947 514,2889 2238,2914 2238,2854 2098,2834 237,2847" rendition="Line" xml:id="facs_134_tr_2_tl_25"/>
-            <zone points="242,3039 2101,3051 2101,2999 1904,2992 1475,3024 943,2979 778,3019 719,2982 242,2992" rendition="Line" xml:id="facs_134_tr_2_tl_26"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_104">
+         <graphic url="TL-0578.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QVRRVZTLXEGROMGPJKGCAYYX&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="59,9 59,3487 2289,3487 2289,9" rendition="TextRegion" xml:id="facs_104_tr_1">
+            <zone points="1072,316 1095,318 1102,326 1130,323 1150,328 1175,326 1187,316 1200,316 1200,263 1165,266 1145,253 1135,263 1117,258 1107,266 1072,266" rendition="Line" xml:id="facs_104_tr_1_tl_2"/>
+            <zone points="281,483 2164,461 2164,408 1708,421 1676,388 1611,426 1007,433 947,371 882,433 281,441" rendition="Line" xml:id="facs_104_tr_1_tl_3"/>
+            <zone points="273,631 1147,631 1150,576 924,564 659,571 606,599 276,586" rendition="Line" xml:id="facs_104_tr_1_tl_4"/>
+            <zone points="436,784 2137,764 2137,699 847,746 436,716" rendition="Line" xml:id="facs_104_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="271,934 2094,917 2094,862 1864,849 1666,889 273,884" rendition="Line" xml:id="facs_104_tr_1_tl_6"/>
+            <zone points="273,1077 1979,1075 2119,1070 2122,1012 273,1050" rendition="Line" xml:id="facs_104_tr_1_tl_7"/>
+            <zone points="276,1235 2117,1220 2117,1157 2054,1150 278,1175" rendition="Line" xml:id="facs_104_tr_1_tl_8"/>
+            <zone points="273,1383 2117,1365 2117,1313 1984,1308 273,1335" rendition="Line" xml:id="facs_104_tr_1_tl_9"/>
+            <zone points="273,1531 2182,1516 2169,1458 273,1480" rendition="Line" xml:id="facs_104_tr_1_tl_10"/>
+            <zone points="276,1688 2154,1673 2157,1621 276,1643" rendition="Line" xml:id="facs_104_tr_1_tl_11"/>
+            <zone points="273,1836 2187,1829 2187,1769 2104,1751 273,1789" rendition="Line" xml:id="facs_104_tr_1_tl_12"/>
+            <zone points="273,1984 2262,1966 2262,1911 273,1956" rendition="Line" xml:id="facs_104_tr_1_tl_13"/>
+            <zone points="273,2144 2199,2119 2199,2059 273,2094" rendition="Line" xml:id="facs_104_tr_1_tl_14"/>
+            <zone points="273,2287 2202,2270 2202,2217 273,2244" rendition="Line" xml:id="facs_104_tr_1_tl_15"/>
+            <zone points="273,2447 2212,2422 2212,2367 2064,2357 1881,2395 1686,2360 273,2395" rendition="Line" xml:id="facs_104_tr_1_tl_16"/>
+            <zone points="268,2583 2177,2573 2177,2518 1886,2515 268,2558" rendition="Line" xml:id="facs_104_tr_1_tl_17"/>
+            <zone points="423,2735 1293,2733 1293,2685 1177,2665 746,2685 724,2708 701,2685 423,2688" rendition="Line" xml:id="facs_104_tr_1_tl_20" subtype="paragraph"/>
+            <zone points="266,2891 1736,2873 1736,2823 266,2866" rendition="Line" xml:id="facs_104_tr_1_tl_21"/>
+            <zone points="413,3059 2132,3051 2132,2981 413,3034" rendition="Line" xml:id="facs_104_tr_1_tl_22" subtype="paragraph"/>
+            <zone points="273,3221 1150,3277 2282,3254 2282,3189 1340,3231 812,3174 273,3194" rendition="Line" xml:id="facs_104_tr_1_tl_23"/>
          </zone>
       </surface>
       
@@ -93,29 +94,33 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0608.jpg" n="part4_p134.jpg" xml:id="img_0134" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p134.jpg"/>
+            <pb facs="#TL-0578.jpg" n="part4_p104.jpg" xml:id="img_0104" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p104.jpg"/>
             
-            <fw facs="#facs_134_tr_2">
-               <lb facs="#facs_134_tr_2_tl_2" n="N001"/>[603]</fw>
+            <fw facs="#facs_104_tr_1">
+               <lb facs="#facs_104_tr_1_tl_2" n="N001"/>[573]</fw>
            <p rend="tei-p-no-indent">
-               <lb facs="#facs_134_tr_2_tl_3" n="N002"/>The situation after the <rs type="keyword" ref="#First_World_War">First World War </rs> was one of strong prophetic feeling about the <rs type="keyword" ref="#Signs">signs</rs> of the
-               <lb facs="#facs_134_tr_2_tl_4" n="N003"/>times, about the breaking in of a <rs type="keyword" ref="#Kairos"><hi style="font-style: italic;">kairos</hi>,</rs> something<rs type="keyword" ref="#Eternity"> eternal</rs>, something <rs type="keyword" ref="#Ultimacy">ultimate</rs>, into our temporal
-               <lb facs="#facs_134_tr_2_tl_6" n="N004"/>existence, and out of this consciousness an immense <rs type="keyword" ref="#Creativity">creativity,</rs> in all realms of<rs type="keyword" ref="#Spirit"> spiritual</rs> life <gap/>
-               <lb facs="#facs_134_tr_2_tl_7" n="N005"/>After the <rs type="keyword" ref="#Second_World_War">Second World War</rs> there was also a <hi style="font-style: italic;">kairos</hi>, but a negative one. It was not the feeling
-               <lb facs="#facs_134_tr_2_tl_8" n="N006"/>of something positive which can and must be done now, or which will come upon us now, but it
-               <lb facs="#facs_134_tr_2_tl_9" n="N007"/>was a feeling of a void, an emptiness, a vacuum. And then I said—and I repeat this now—this
-               <lb facs="#facs_134_tr_2_tl_10" n="N008"/>vacuum, which many of us still feel, should not be covered over by anything whatsoever,
-               <lb facs="#facs_134_tr_2_tl_12" n="N009"/>in terms of <rs type="keyword" ref="#Religion">religion</rs> or <rs type="keyword" ref="#Culture">culture</rs>. It should not be covered over by the resurgence of religion,
-               <lb facs="#facs_134_tr_2_tl_13" n="N010"/>as we experience it today, if this resurgence is a form of escape from the emptiness of our
-               <lb facs="#facs_134_tr_2_tl_14" n="N011"/>situation. It should not be covered over by cultural creativity, neither in the technical realm,
-               <lb facs="#facs_134_tr_2_tl_16" n="N012"/>where it is going on at a tremendous pace all the time, nor in the spiritual realms which are more
-               <lb facs="#facs_134_tr_2_tl_17" n="N013"/>fundamental. But if there is a basic feeling of emptiness, if the <rs type="keyword" ref="#Autonomy">autonomous</rs> culture which has
-               <lb facs="#facs_134_tr_2_tl_19" n="N014"/>ruled for the last 500 years has come to a point where its lack of <rs type="keyword" ref="#Ultimacy">ultimacy</rs> is felt by <emph rend="allcaps">all</emph>
-               <lb facs="#facs_134_tr_2_tl_22" n="N015"/>of us as a real threat to our <rs type="keyword" ref="#Personality">personality</rs> and society, then perhaps a presupposition is given not in the
-               <lb facs="#facs_134_tr_2_tl_23" n="N016"/>sense of a <hi style="font-style: italic;">kairos</hi>, where we are asked to act, but in terms of a <hi style="font-style: italic;">kairos</hi> where we are asked to
-               <lb facs="#facs_134_tr_2_tl_24" n="N017"/><emph rend="allcaps">stand</emph>, and to <emph rend="allcaps">wait</emph>—to wait not in the sense of passivity, but in the sense of the most intensive
-               <lb facs="#facs_134_tr_2_tl_25" n="N018"/>tension—but not covering over the actual emptiness by activities in <emph rend="allcaps">any</emph> realm, be it in the religious,
-               <lb facs="#facs_134_tr_2_tl_26" n="N019"/>be it in the cultural, realm. And this, I must conclude now, is indeed the meaning of this
+               <lb facs="#facs_104_tr_1_tl_3" n="N002"/>sects of the Reformation period, also construed their age as the Age of Reason, which is the last
+              <lb facs="#facs_104_tr_1_tl_4" n="N003"/>age after all the others are only preparatory.</p>
+           <p>
+               <lb facs="#facs_104_tr_1_tl_5" n="N004"/>The same idea, then, was finally taken over by the proletariat, and the idea of the third
+               <lb facs="#facs_104_tr_1_tl_6" n="N005"/>stage of <rs type="keyword" ref="#History">history,</rs> the final <rs type="keyword" ref="#Revolution">revolution,</rs> the revolution of the lowest class, which will abolish all
+               <lb facs="#facs_104_tr_1_tl_7" n="N006"/>classes, was the religious impetus behind the proletarian revolutions. And this is even the case
+              <lb facs="#facs_104_tr_1_tl_8" n="N007"/>in <rs type="person" ref="#tillich_person_id__1275">Karl Marx</rs>, who is usually accused by sometimes very questionable <rs type="keyword" ref="#Christianity">Christianity</rs> as <rs type="keyword" ref="#Atheism">“atheist,”</rs>
+               <lb facs="#facs_104_tr_1_tl_9" n="N008"/>but who, in spite of his so-called atheism, was grasped by the idea of a completely <rs type="keyword" ref="#Secular">secularized</rs>
+               <lb facs="#facs_104_tr_1_tl_10" n="N009"/>kingdom of God, which has very similar structures to the religious idea of the kingdom of God
+               <lb facs="#facs_104_tr_1_tl_11" n="N010"/><emph rend="allcaps">in history</emph>, only in a secularized form without the traditional religious symbolism. For him,
+               <lb facs="#facs_104_tr_1_tl_12" n="N011"/>in <emph rend="allcaps">some</emph> of his utterances at least, there was a kind of original <rs type="keyword" ref="#Communism">communism</rs>—<hi style="font-style: italic;">Urkommunismus</hi>,
+               <lb facs="#facs_104_tr_1_tl_13" n="N012"/>as he called it—or at least a state of things like in <rs type="person" ref="#tillich_person_id__1652">Rousseau</rs>, in which the separation of classes did not
+               <lb facs="#facs_104_tr_1_tl_14" n="N013"/>exist. Then, with the establishment of private property, the differentiation of classes started, and
+               <lb facs="#facs_104_tr_1_tl_15" n="N014"/>at the same time the tremendous economic development which <rs type="person" ref="#tillich_person_id__1275">Marx</rs> describes in the <hi style="font-style: italic;">Communist</hi>
+               <lb facs="#facs_104_tr_1_tl_16" n="N015"/><hi style="font-style: italic;">Manifesto</hi>, almost in hymnic praises of the bourgeois society and its achievement. But at the same
+              <lb facs="#facs_104_tr_1_tl_17" n="N016"/>time, it was the period of the class wars, and now a third period will come: the classless society.</p>
+           <p>
+               <lb facs="#facs_104_tr_1_tl_20" n="N017"/>This structure of thinking gave the religious impetus without which no strong movement
+              <lb facs="#facs_104_tr_1_tl_21" n="N018"/>can exist—if you interpret <rs type="keyword" ref="#Religion">religion,</rs> as I do, as being <rs type="keyword" ref="#Ultimate_Concern">ultimately concerned.</rs></p>
+           <p>
+               <lb facs="#facs_104_tr_1_tl_22" n="N019"/>In all these cases, the problem was the <rs type="keyword" ref="#Economy">economic</rs> situation of the <rs type="keyword" ref="#Revolution">revolutionary</rs>
+               <lb facs="#facs_104_tr_1_tl_23" n="N020"/>classes. Fist the economic situation of the peasants, and partly the lower nobility, who also revolted
             </p>
             
         </div>

@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-44">Lecture XLIV (Nr. 0590)</title>
+            <title type="main" n="TL-lecture-42">Lecture XLII (Nr. 0560)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part4_p116</locus>
+                     <locus>part4_p086</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-04-26">1956-04-26</date>
+                <date when-iso="1956-04-17">1956-04-17</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,30 +63,34 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_116">
-         <graphic url="TL-0590.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=WSRSMCWEHFJTLFYYZEKIRUYL&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="262,206 262,3468 2295,3468 2295,206" rendition="TextRegion" xml:id="facs_116_tr_1">
-            <zone points="1091,262 1104,260 1129,277 1164,280 1200,280 1217,267 1230,267 1230,222 1194,224 1187,217 1172,217 1167,222 1091,222" rendition="Line" xml:id="facs_116_tr_1_tl_1"/>
-            <zone points="297,411 554,454 610,423 2223,444 2223,391 1845,363 297,368" rendition="Line" xml:id="facs_116_tr_1_tl_2"/>
-            <zone points="297,567 2220,572 2124,522 297,534" rendition="Line" xml:id="facs_116_tr_1_tl_3"/>
-            <zone points="292,716 2172,731 2172,675 292,683" rendition="Line" xml:id="facs_116_tr_1_tl_4"/>
-            <zone points="292,859 2094,885 2094,822 2019,819 292,834" rendition="Line" xml:id="facs_116_tr_1_tl_5"/>
-            <zone points="297,1021 2210,1046 2210,973 2172,970 297,985" rendition="Line" xml:id="facs_116_tr_1_tl_6"/>
-            <zone points="378,1169 1278,1177 1278,1139 1225,1121 496,1114 378,1137" rendition="Line" xml:id="facs_116_tr_1_tl_8"/>
-            <zone points="277,1320 2210,1358 2208,1300 2134,1278 277,1293" rendition="Line" xml:id="facs_116_tr_1_tl_10"/>
-            <zone points="272,1472 2248,1494 2200,1431 272,1444" rendition="Line" xml:id="facs_116_tr_1_tl_11"/>
-            <zone points="282,1630 2185,1648 2185,1585 282,1572" rendition="Line" xml:id="facs_116_tr_1_tl_12"/>
-            <zone points="282,1782 1421,1789 1421,1736 282,1726" rendition="Line" xml:id="facs_116_tr_1_tl_13"/>
-            <zone points="517,1928 2197,1940 2109,1880 517,1887" rendition="Line" xml:id="facs_116_tr_1_tl_14" subtype="paragraph"/>
-            <zone points="272,2079 2210,2094 2170,2034 995,2056 272,2021" rendition="Line" xml:id="facs_116_tr_1_tl_15"/>
-            <zone points="270,2243 2197,2245 2197,2182 270,2177" rendition="Line" xml:id="facs_116_tr_1_tl_16"/>
-            <zone points="267,2384 2288,2397 2288,2334 1056,2359 267,2323" rendition="Line" xml:id="facs_116_tr_1_tl_17"/>
-            <zone points="260,2530 1557,2540 1663,2578 2175,2550 2175,2487 260,2500" rendition="Line" xml:id="facs_116_tr_1_tl_18"/>
-            <zone points="262,2681 2039,2709 2039,2641 262,2626" rendition="Line" xml:id="facs_116_tr_1_tl_19"/>
-            <zone points="257,2838 1938,2848 1938,2787 257,2777" rendition="Line" xml:id="facs_116_tr_1_tl_20"/>
-            <zone points="255,2989 2109,3001 2087,2941 255,2931" rendition="Line" xml:id="facs_116_tr_1_tl_21"/>
-            <zone points="247,3170 2117,3175 2117,3107 920,3153 247,3087" rendition="Line" xml:id="facs_116_tr_1_tl_22"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_86">
+         <graphic url="TL-0560.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DYPAODZZKBUIAXHJGBVOCQZW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="29,18 2289,18 2289,1383 29,1383" rendition="TextRegion" xml:id="facs_86_tr_2">
+            <zone points="1083,311 1096,311 1118,326 1140,326 1145,321 1150,326 1183,326 1193,316 1205,316 1203,256 1168,254 1143,259 1125,251 1116,261 1081,261" rendition="Line" xml:id="facs_86_tr_2_tl_2"/>
+            <zone points="284,466 2286,478 2286,393 637,431 545,369 284,433" rendition="Line" xml:id="facs_86_tr_2_tl_3"/>
+            <zone points="478,615 2012,630 2221,615 2224,565 481,575" rendition="Line" xml:id="facs_86_tr_2_tl_4" subtype="paragraph"/>
+            <zone points="286,782 2194,782 2241,720 286,725" rendition="Line" xml:id="facs_86_tr_2_tl_5"/>
+            <zone points="284,924 1865,936 2136,916 2136,869 284,894" rendition="Line" xml:id="facs_86_tr_2_tl_6"/>
+            <zone points="276,1066 2196,1068 2196,1016 276,1026" rendition="Line" xml:id="facs_86_tr_2_tl_7"/>
+            <zone points="279,1250 2057,1223 2094,1168 279,1200" rendition="Line" xml:id="facs_86_tr_2_tl_8"/>
+            <zone points="279,1372 1910,1382 2161,1367 2161,1320 279,1332" rendition="Line" xml:id="facs_86_tr_2_tl_9"/>
+         </zone>
+         <zone points="286,1457 2230,1457 2230,2287 286,2287" rendition="TextRegion" xml:id="facs_86_tr_3">
+            <zone points="844,1516 2029,1521 2099,1516 2099,1469 1549,1492 1145,1457 844,1494" rendition="Line" xml:id="facs_86_tr_3_tl_1"/>
+            <zone points="271,1673 1900,1681 2154,1668 2156,1614 271,1651" rendition="Line" xml:id="facs_86_tr_3_tl_3"/>
+            <zone points="271,1823 1843,1860 2092,1820 2092,1770 271,1800" rendition="Line" xml:id="facs_86_tr_3_tl_4"/>
+            <zone points="271,1975 2049,1977 2129,1972 2129,1920 271,1952" rendition="Line" xml:id="facs_86_tr_3_tl_5"/>
+            <zone points="279,2129 2161,2134 2176,2074 279,2084" rendition="Line" xml:id="facs_86_tr_3_tl_6"/>
+            <zone points="271,2278 1937,2293 2224,2268 2224,2211 271,2253" rendition="Line" xml:id="facs_86_tr_3_tl_7"/>
+         </zone>
+         <zone points="80,2362 2233,2362 2233,3470 80,3470" rendition="TextRegion" xml:id="facs_86_tr_1">
+            <zone points="276,2433 2024,2438 2024,2378 276,2393" rendition="Line" xml:id="facs_86_tr_1_tl_1"/>
+            <zone points="266,2577 513,2605 1307,2590 1337,2535 789,2522 266,2555" rendition="Line" xml:id="facs_86_tr_1_tl_2"/>
+            <zone points="473,2727 1925,2734 2097,2717 2097,2662 473,2677" rendition="Line" xml:id="facs_86_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="279,2888 2064,2878 2082,2821 279,2839" rendition="Line" xml:id="facs_86_tr_1_tl_5"/>
+            <zone points="269,3038 1823,3048 2226,3028 2229,2976 269,2993" rendition="Line" xml:id="facs_86_tr_1_tl_6"/>
+            <zone points="276,3200 2052,3197 2154,3180 2154,3115 276,3150" rendition="Line" xml:id="facs_86_tr_1_tl_7"/>
          </zone>
       </surface>
       
@@ -94,31 +98,32 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0590.jpg" n="part4_p116.jpg" xml:id="img_0116" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p116.jpg"/>
+            <pb facs="#TL-0560.jpg" n="part4_p086.jpg" xml:id="img_0086" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p086.jpg"/>
             
-            <fw facs="#facs_116_tr_1">
-               <lb facs="#facs_116_tr_1_tl_1" n="N001"/>[585]</fw>
+            <fw facs="#facs_86_tr_2">
+               <lb facs="#facs_86_tr_2_tl_2" n="N001"/>[555]</fw>
            <p rend="tei-p-no-indent">
-               <lb facs="#facs_116_tr_1_tl_2" n="N002"/>demanding subordination to the <rs type="keyword" ref="#Power">powers</rs> in power, especially the old traditional conservative ones,
-               <lb facs="#facs_116_tr_1_tl_3" n="N003"/>much less those who are now in power—or were then in power—the republican, <rs type="keyword" ref="#Democracy">democratic </rs>ones—but 
-               <lb facs="#facs_116_tr_1_tl_4" n="N004"/>anyhow, even there they subjected themselves. This is the negative-transcendental point of
-               <lb facs="#facs_116_tr_1_tl_5" n="N005"/>view which was almost inborn in every <rs type="keyword" ref="#Germany">German</rs> at that <rs type="keyword" ref="#Time">time</rs>—except one group, namely the
-               <lb facs="#facs_116_tr_1_tl_6" n="N006"/>socialist group, which had the opposite point of view: the utopian-immanent point of view,
-               <lb facs="#facs_116_tr_1_tl_8" n="N007"/>the point of view that<rs type="keyword" ref="#History"> history</rs> <emph rend="allcaps">is</emph> the place to change the given reality,
-               <lb facs="#facs_116_tr_1_tl_10" n="N008"/>to change it under the criteria of the <rs type="keyword" ref="#Natural_Law">natural law,</rs> the <rs type="keyword" ref="#Justice">justice,</rs> equality, and realizing this in history
-               <lb facs="#facs_116_tr_1_tl_11" n="N009"/>and not beyond history. In this, <gap/> an either revolutionary or more progressivistic socialism
-               <lb facs="#facs_116_tr_1_tl_12" n="N010"/>was in political <rs type="keyword" ref="#Power">power,</rs> while the <rs type="keyword" ref="#Church">churches</rs> and all those directly or indirectly influenced by them
-              <lb facs="#facs_116_tr_1_tl_13" n="N011"/>were looking above, towards the transcendent fulfillment.</p>
+              <lb facs="#facs_86_tr_2_tl_3" n="N002"/>as the history of the German catastrophe has destroyed Hitlerism (not for all, but for most, Germans).</p>
            <p>
-               <lb facs="#facs_116_tr_1_tl_14" n="N012"/>Now how could this situation be bridged? This was a question we had to face when
-               <lb facs="#facs_116_tr_1_tl_15" n="N013"/>we came out of the <rs type="keyword" ref="#First_World_War">First World War.</rs> This was the radical conflict which tore the whole <rs type="keyword" ref="#Nation">nation</rs> to
-               <lb facs="#facs_116_tr_1_tl_16" n="N014"/>pieces—at least two parts in radical conflict with each other. It was the idea of <rs type="keyword" ref="#Religious_socialism">religious socialism</rs>
-               <lb facs="#facs_116_tr_1_tl_17" n="N015"/>to overcome this situation. In doing so, we introduced a large amount of fundamental <rs type="keyword" ref="#Concept">concepts</rs> which
-               <lb facs="#facs_116_tr_1_tl_18" n="N016"/>expressed the valuation of our situation. First of all we criticized the <rs type="keyword" ref="#Luther">Lutheran</rs> solution that the
-               <lb facs="#facs_116_tr_1_tl_19" n="N017"/>world remains unchanged in the <rs type="keyword" ref="#Power">power</rs> of the<rs type="keyword" ref="#Devil"> Devil.</rs> We accepted this as a universal <rs type="keyword" ref="#Truth">truth,</rs>
-               <lb facs="#facs_116_tr_1_tl_20" n="N018"/>but we refused to accept it with respect to <emph rend="allcaps">any special</emph> <rs type="keyword" ref="#Demonic">demonic</rs> power. We said:
-               <lb facs="#facs_116_tr_1_tl_21" n="N019"/><emph rend="allcaps">of course</emph> there will be no utopian actualization of the <rs type="keyword" ref="#Kingdom_of_God">kingdom of God</rs> in <rs type="keyword" ref="#Time">time</rs> and <space/>space.
-               <lb facs="#facs_116_tr_1_tl_22" n="N020"/>In this we were in the line of universally <rs type="keyword" ref="#Christianity">Christian</rs> thinking. But we believed that it is possible,
+               <lb facs="#facs_86_tr_2_tl_4" n="N003"/>Now the <rs type="keyword" ref="#Roman_church">Roman Church.</rs> Here the situation is much more consistent. <rs type="person" ref="#tillich_person_id__910">Hitler</rs> prophesied
+               <lb facs="#facs_86_tr_2_tl_5" n="N004"/>a thousand years—which is a very small stretch of time, seen in the light of the absolute—but he got
+               <lb facs="#facs_86_tr_2_tl_6" n="N005"/>twelve! The biblical absolutism was not able to maintain itself, even in very early times of the
+               <lb facs="#facs_86_tr_2_tl_7" n="N006"/>Protestant history, because the Bible needs interpretation. And if this interpretation is done with
+               <lb facs="#facs_86_tr_2_tl_8" n="N007"/>scientific honesty, the verbal authority of the Bible must fall down. This simple problem of
+               <lb facs="#facs_86_tr_2_tl_9" n="N008"/>interpretation undercuts the <rs type="keyword" ref="#Demonic">demonization</rs> of the biblicistic attitude, because interpretation can
+               <lb facs="#facs_86_tr_3_tl_1" n="N001"/>never be commanded except through a second <rs type="keyword" ref="#Authority">authority,</rs> which then becomes a first
+               <lb facs="#facs_86_tr_3_tl_3" n="N002"/>authority. And this was the way of the Roman Church. The Roman Church always said—and I
+               <lb facs="#facs_86_tr_3_tl_4" n="N003"/>think with historical [justification]—that the Bible is a product of the Church—although the
+               <lb facs="#facs_86_tr_3_tl_5" n="N004"/>Church is also produced, and re-produced, by the Bible. Therefore the Church must interpret
+               <lb facs="#facs_86_tr_3_tl_6" n="N005"/>the Bible. And since the Church is identical—for Roman thinking—with the head of the Church,
+               <lb facs="#facs_86_tr_3_tl_7" n="N006"/>the Vicar of Christ, the <rs type="keyword" ref="#Pope">Pope,</rs> the <emph rend="allcaps">pope</emph> has the ultimate authority for interpreting the Bible, and
+               <lb facs="#facs_86_tr_1_tl_1" n="N001"/>not, as in Protestantism, every layman, and not even every theological faculty, as in early
+              <lb facs="#facs_86_tr_1_tl_2" n="N002"/>Protestantism often was the replacement of the Pope.</p>
+           <p>
+               <lb facs="#facs_86_tr_1_tl_4" n="N003"/>This is a much more consistent ultimate <rs type="keyword" ref="#Authority">authority,</rs> or <rs type="keyword" ref="#Authority_in_principle">authority in principle.</rs> And it is
+               <lb facs="#facs_86_tr_1_tl_5" n="N004"/>much more <rs type="keyword" ref="#Demonic">demonic</rs> for this very reason. Now why is this so? Because here <emph rend="allcaps">one place</emph>,
+               <lb facs="#facs_86_tr_1_tl_6" n="N005"/><emph rend="allcaps">in history</emph>, is made the place in which no error is possible; that means, in which the human
+               <lb facs="#facs_86_tr_1_tl_7" n="N006"/>existential situation is radically transcended. And the formula “Vicar of Christ” is a very good
             </p>
             
         </div>

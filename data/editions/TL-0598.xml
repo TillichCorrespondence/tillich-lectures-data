@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" subtype="first_page" n="TL-lecture-45">Lecture XLV (Nr. 0598)</title>
+            <title type="main" n="TL-lecture-43">Lecture XLIII (Nr. 0568)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part4_p124</locus>
+                     <locus>part4_p094</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-05-01">1956-05-01</date>
+                <date when-iso="1956-04-24">1956-04-24</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,29 +63,34 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_124">
-         <graphic url="TL-0598.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=MWHPOHSJQBRYPJAQKDAAYZRI&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="23,250 23,3457 2236,3457 2236,250" rendition="TextRegion" xml:id="facs_124_tr_2">
-            <zone points="1043,309 1055,309 1076,324 1112,326 1132,321 1165,326 1168,249 1141,249 1127,264 1105,266 1088,259 1072,271 1043,271" rendition="Line" xml:id="facs_124_tr_2_tl_1"/>
-            <zone points="302,472 928,477 947,470 949,412 844,412 813,432 789,412 762,436 710,403 659,436 626,400 436,400 355,403 302,432" rendition="Line" xml:id="facs_124_tr_2_tl_2" subtype="heading"/>
-            <zone points="530,631 2124,631 2100,561 1187,595 530,566" rendition="Line" xml:id="facs_124_tr_2_tl_3" subtype="paragraph"/>
-            <zone points="307,782 2110,782 2110,724 307,736" rendition="Line" xml:id="facs_124_tr_2_tl_4"/>
-            <zone points="300,925 2064,935 2067,875 302,887" rendition="Line" xml:id="facs_124_tr_2_tl_5"/>
-            <zone points="307,1086 2153,1086 2153,1036 2007,1019 307,1041" rendition="Line" xml:id="facs_124_tr_2_tl_6"/>
-            <zone points="295,1237 1642,1251 2069,1228 2071,1168 295,1199" rendition="Line" xml:id="facs_124_tr_2_tl_7"/>
-            <zone points="297,1383 1623,1398 2194,1381 2196,1333 297,1345" rendition="Line" xml:id="facs_124_tr_2_tl_8"/>
-            <zone points="290,1534 2031,1542 2182,1532 2184,1470 290,1510" rendition="Line" xml:id="facs_124_tr_2_tl_9"/>
-            <zone points="307,1702 2230,1676 2230,1626 307,1630" rendition="Line" xml:id="facs_124_tr_2_tl_10"/>
-            <zone points="290,1834 2081,1820 1913,1767 290,1793" rendition="Line" xml:id="facs_124_tr_2_tl_11"/>
-            <zone points="300,1990 2208,1980 2208,1930 1824,1920 300,1942" rendition="Line" xml:id="facs_124_tr_2_tl_12"/>
-            <zone points="295,2146 2141,2131 2141,2088 1664,2071 295,2105" rendition="Line" xml:id="facs_124_tr_2_tl_13"/>
-            <zone points="290,2292 1762,2285 1721,2222 290,2268" rendition="Line" xml:id="facs_124_tr_2_tl_14"/>
-            <zone points="515,2445 1721,2460 2059,2436 2062,2386 515,2398" rendition="Line" xml:id="facs_124_tr_2_tl_15" subtype="paragraph"/>
-            <zone points="295,2604 2105,2585 2105,2534 295,2551" rendition="Line" xml:id="facs_124_tr_2_tl_16"/>
-            <zone points="295,2760 2040,2724 2203,2755 2203,2683 2091,2668 2033,2702 1959,2671 295,2704" rendition="Line" xml:id="facs_124_tr_2_tl_17"/>
-            <zone points="290,2889 2177,2882 2177,2829 2124,2819 290,2848" rendition="Line" xml:id="facs_124_tr_2_tl_18"/>
-            <zone points="290,3047 1985,3038 1985,2990 1911,2975 290,3004" rendition="Line" xml:id="facs_124_tr_2_tl_19"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_94">
+         <graphic url="TL-0568.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LZVOPFMMKHZZYMZLIYUKKKNP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="328,311 2236,311 2236,1583 328,1583" rendition="TextRegion" xml:id="facs_94_tr_2">
+            <zone points="1159,366 1174,366 1188,380 1200,380 1207,373 1263,373 1275,363 1294,382 1313,382 1313,308 1267,308 1251,291 1229,310 1159,308" rendition="Line" xml:id="facs_94_tr_2_tl_1"/>
+            <zone points="558,522 2071,524 2071,447 1277,486 558,452" rendition="Line" xml:id="facs_94_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="329,666 2126,673 2126,623 329,623" rendition="Line" xml:id="facs_94_tr_2_tl_3"/>
+            <zone points="320,818 1987,837 2109,830 2109,777 320,791" rendition="Line" xml:id="facs_94_tr_2_tl_4"/>
+            <zone points="320,969 1436,984 1412,928 320,928" rendition="Line" xml:id="facs_94_tr_2_tl_6"/>
+            <zone points="320,1123 1898,1135 2162,1123 2162,1077 320,1097" rendition="Line" xml:id="facs_94_tr_2_tl_7"/>
+            <zone points="315,1272 2047,1282 2229,1277 2229,1231 315,1248" rendition="Line" xml:id="facs_94_tr_2_tl_8"/>
+            <zone points="327,1433 885,1436 885,1366 690,1385 628,1368 608,1385 327,1380" rendition="Line" xml:id="facs_94_tr_2_tl_9"/>
+            <zone points="536,1570 2121,1580 2121,1515 1061,1549 536,1515" rendition="Line" xml:id="facs_94_tr_2_tl_10" subtype="paragraph"/>
+         </zone>
+         <zone points="316,1669 2242,1669 2242,2490 316,2490" rendition="TextRegion" xml:id="facs_94_tr_3">
+            <zone points="308,1724 2232,1732 2232,1679 308,1681" rendition="Line" xml:id="facs_94_tr_3_tl_1"/>
+            <zone points="315,1878 2128,1888 2128,1830 315,1830" rendition="Line" xml:id="facs_94_tr_3_tl_2"/>
+            <zone points="536,2030 1989,2044 2054,2030 2054,1972 536,1987" rendition="Line" xml:id="facs_94_tr_3_tl_3" subtype="paragraph"/>
+            <zone points="308,2179 1830,2191 2157,2181 2157,2128 308,2152" rendition="Line" xml:id="facs_94_tr_3_tl_4"/>
+            <zone points="303,2330 2088,2342 2181,2335 2181,2282 303,2302" rendition="Line" xml:id="facs_94_tr_3_tl_5"/>
+            <zone points="305,2480 2015,2494 2239,2482 2239,2429 305,2456" rendition="Line" xml:id="facs_94_tr_3_tl_6"/>
+         </zone>
+         <zone points="29,2574 2206,2574 2206,3467 29,3467" rendition="TextRegion" xml:id="facs_94_tr_1">
+            <zone points="308,2653 2003,2638 2037,2585 308,2590" rendition="Line" xml:id="facs_94_tr_1_tl_1"/>
+            <zone points="301,2787 1876,2790 2177,2780 2179,2730 303,2739" rendition="Line" xml:id="facs_94_tr_1_tl_2"/>
+            <zone points="296,2932 1498,2944 1498,2886 527,2879 296,2910" rendition="Line" xml:id="facs_94_tr_1_tl_3"/>
+            <zone points="524,3086 1063,3141 1114,3093 2186,3086 2201,3025 524,3038" rendition="Line" xml:id="facs_94_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="291,3249 734,3331 887,3268 2145,3237 2145,3177 782,3240 293,3201" rendition="Line" xml:id="facs_94_tr_1_tl_5"/>
          </zone>
       </surface>
       
@@ -93,33 +98,33 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0598.jpg" n="part4_p124.jpg" xml:id="img_0124" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p124.jpg"/>
+            <pb facs="#TL-0568.jpg" n="part4_p094.jpg" xml:id="img_0094" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p094.jpg"/>
             
-            <fw facs="#facs_124_tr_2">
-               <lb facs="#facs_124_tr_2_tl_1" n="N001"/>[593]</fw>
-           <p rend="tei-p-no-indent">
-              <lb facs="#facs_124_tr_2_tl_2" n="N002"/>
-              <title type="lecture"><emph rend="allcaps">Lecture XLV</emph></title> 
-              <date when-iso="1956-05-01">May 1, 1956</date></p>
+            <fw facs="#facs_94_tr_2">
+               <lb facs="#facs_94_tr_2_tl_1" n="N001"/>[563]</fw>
            <p>
-               <lb facs="#facs_124_tr_2_tl_3" n="N003"/>Now this last hour shall answer in some way the question which was developed in
-               <lb facs="#facs_124_tr_2_tl_4" n="N004"/>connection with my description of <rs type="keyword" ref="#Religious_socialism">religious socialism</rs>. My last word last Thursday was that
-               <lb facs="#facs_124_tr_2_tl_5" n="N005"/>we didn't consider religious socialism as a matter of the <rs type="keyword" ref="#Church">church</rs> as such, but as a matter of
-               <lb facs="#facs_124_tr_2_tl_6" n="N006"/>Christians who dare to be in error, if they give judgments about the concrete issues of the day,
-               <lb facs="#facs_124_tr_2_tl_7" n="N007"/>and I emphasized especially that in <emph rend="allcaps">no</emph> relationship of Christianity and <rs type="keyword" ref="#Politics">politics </rs>should
-               <lb facs="#facs_124_tr_2_tl_8" n="N008"/><rs type="keyword" ref="#Christianity">Christianity</rs> be used as the support of a special <emph rend="allcaps">solution</emph>, in the political, social and economic
-               <lb facs="#facs_124_tr_2_tl_9" n="N009"/>realm. What <rs type="keyword" ref="#Religion">religion</rs> can do and must do is to state the principles—for instance <rs type="keyword" ref="#Love">love</rs>, <rs type="keyword" ref="#Power">power</rs> and
-               <lb facs="#facs_124_tr_2_tl_10" n="N010"/><rs type="keyword" ref="#Justice">justice</rs>—and to criticize, in the light of these principles, the concrete situation. But in the moment
-               <lb facs="#facs_124_tr_2_tl_11" n="N011"/>in which the minister goes beyond this, for instance, then he speaks as a Christian layman—
-               <lb facs="#facs_124_tr_2_tl_12" n="N012"/>which he anyhow is also—who is responsible for the <rs type="keyword" ref="#Culture">cultural</rs> realms with which he deals, and who
-               <lb facs="#facs_124_tr_2_tl_13" n="N013"/>speaks then in the name of a Christian movement which <rs type="keyword" ref="#Belief"><emph rend="allcaps">believes</emph></rs> that it comes nearest to a
-              <lb facs="#facs_124_tr_2_tl_14" n="N014"/>concrete actualization of the principles. But this is not a matter of <hi style="font-style: italic;">de fide</hi>.</p>
+               <lb facs="#facs_94_tr_2_tl_2" n="N002"/>In contrast to this, the idea became predominant that the individual who did
+               <lb facs="#facs_94_tr_2_tl_3" n="N003"/>something against the <rs type="keyword" ref="#Law">laws</rs> of his own being and the being of the group, is responsible for it
+               <lb facs="#facs_94_tr_2_tl_4" n="N004"/>and therefore must expiate his own guilt. And you remember the other development
+               <lb facs="#facs_94_tr_2_tl_6" n="N005"/>to which I referred was the development of questioning. Asking the question
+               <lb facs="#facs_94_tr_2_tl_7" n="N006"/>means separating oneself from the unity with the universe. The universal <rs type="keyword" ref="#We-consciousness">we-consciousness</rs> is
+               <lb facs="#facs_94_tr_2_tl_8" n="N007"/>dissolved by the human act of asking a question about that with which one felt identical before.
+              <lb facs="#facs_94_tr_2_tl_9" n="N008"/>Now this identity is cut off.</p>
            <p>
-               <lb facs="#facs_124_tr_2_tl_15" n="N015"/>Now after I said this, I finished with the statement that religious socialism has
-               <lb facs="#facs_124_tr_2_tl_16" n="N016"/><emph rend="allcaps">experienced</emph> that its judgments were the more true the nearer they were to the <rs type="keyword" ref="#Ultimacy">ultimate</rs>
-               <lb facs="#facs_124_tr_2_tl_17" n="N017"/>principles, and the less true the nearer they were to an analysis of the concrete situation. <rs type="keyword" ref="#History">History</rs>
-               <lb facs="#facs_124_tr_2_tl_18" n="N018"/>was a very harsh judge about this movement, as about many other movements, some also in this
-               <lb facs="#facs_124_tr_2_tl_19" n="N019"/>country, who in the name <emph rend="allcaps">of</emph> the ultimate, raised demands for the concrete situation.
+               <lb facs="#facs_94_tr_2_tl_10" n="N009"/>We have considered, then, the consequences of this development in terms of the
+               <lb facs="#facs_94_tr_3_tl_1" n="N001"/>ideal [idea?] of <rs type="keyword" ref="#Personality">personality.</rs> Now we go back to the state out of which this came, which one
+              <lb facs="#facs_94_tr_3_tl_2" n="N002"/>can call primitive collectivism, or original <rs type="keyword" ref="#We-consciousness">we-consciousness</rs> preceding the ego-consciousness.</p>
+           <p>
+               <lb facs="#facs_94_tr_3_tl_3" n="N003"/>Collectivism is in the beginning, and there is a tendency towards returning to
+               <lb facs="#facs_94_tr_3_tl_4" n="N004"/>collectivism as long as the human race has a historical memory. It is just as in <rs type="person" ref="#tillich_person_id__619">Freud's</rs>
+               <lb facs="#facs_94_tr_3_tl_5" n="N005"/>analysis of living beings of a higher degree who have a tendency to return to the lower degrees
+               <lb facs="#facs_94_tr_3_tl_6" n="N006"/>out of which they come, because in these lower degrees the problems of the higher degrees do not
+               <lb facs="#facs_94_tr_1_tl_1" n="N001"/>yet exist.<rs type="person" ref="#tillich_person_id__619"> Freud's</rs> doctrine of death-instinct in man is nothing but an expression of this
+               <lb facs="#facs_94_tr_1_tl_2" n="N002"/>tendency to go down again to the non-responsible situation of animal existence, or even to the
+              <lb facs="#facs_94_tr_1_tl_3" n="N003"/>non-conscious existence of vegetative or inorganic existence.</p>
+           <p>
+               <lb facs="#facs_94_tr_1_tl_4" n="N004"/>In the same way, <rs type="person" ref="#tillich_person_id__1049">Kierkegaard</rs> describes the desire of man to get rid of himself as the
+               <lb facs="#facs_94_tr_1_tl_5" n="N005"/>phenomenon of despair, because the problem of man, his being a combination of finitude and
             </p>
             
         </div>

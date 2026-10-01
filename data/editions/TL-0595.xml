@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-44">Lecture XLIV (Nr. 0595)</title>
+            <title type="main" n="TL-lecture-42">Lecture XLII (Nr. 0565)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part4_p121</locus>
+                     <locus>part4_p091</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-04-26">1956-04-26</date>
+                <date when-iso="1956-04-17">1956-04-17</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,29 +63,34 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_121">
-         <graphic url="TL-0595.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=KXEXNWQEBGXDZDEIDQCQOMKR&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="20,266 20,3462 2277,3462 2277,266" rendition="TextRegion" xml:id="facs_121_tr_1">
-            <zone points="1115,325 1127,325 1142,340 1159,337 1172,342 1231,342 1228,271 1196,268 1189,278 1154,278 1149,286 1112,281" rendition="Line" xml:id="facs_121_tr_1_tl_1"/>
-            <zone points="322,475 2191,497 2191,438 2090,458 2018,418 1703,418 1649,455 1607,418 1536,453 1499,418 1455,453 1208,418 1174,453 1132,413 1068,448 876,413 628,448 404,409 322,443" rendition="Line" xml:id="facs_121_tr_1_tl_2"/>
-            <zone points="322,633 554,677 2200,697 2230,601 320,578" rendition="Line" xml:id="facs_121_tr_1_tl_3"/>
-            <zone points="322,785 1255,795 1255,746 1034,729 896,761 807,729 322,738" rendition="Line" xml:id="facs_121_tr_1_tl_4"/>
-            <zone points="537,930 2272,957 2272,913 2186,889 537,881" rendition="Line" xml:id="facs_121_tr_1_tl_5" subtype="paragraph"/>
-            <zone points="315,1085 2112,1125 2112,1048 315,1053" rendition="Line" xml:id="facs_121_tr_1_tl_6"/>
-            <zone points="313,1280 573,1245 650,1285 2119,1282 2119,1201 1841,1184 313,1199" rendition="Line" xml:id="facs_121_tr_1_tl_7"/>
-            <zone points="303,1381 2195,1405 2195,1346 2043,1322 303,1341" rendition="Line" xml:id="facs_121_tr_1_tl_8"/>
-            <zone points="303,1528 2122,1548 2092,1504 1915,1487 303,1489" rendition="Line" xml:id="facs_121_tr_1_tl_9"/>
-            <zone points="295,1679 2225,1711 2225,1654 2117,1634 1410,1666 1332,1634 295,1639" rendition="Line" xml:id="facs_121_tr_1_tl_10"/>
-            <zone points="834,1841 2060,1890 2058,1804 1979,1787 834,1794" rendition="Line" xml:id="facs_121_tr_1_tl_12"/>
-            <zone points="293,2003 381,2053 539,2021 731,2050 810,1989 2136,2013 2136,1937 293,1942" rendition="Line" xml:id="facs_121_tr_1_tl_13"/>
-            <zone points="761,2136 2119,2163 2117,2107 2026,2097 761,2097" rendition="Line" xml:id="facs_121_tr_1_tl_15"/>
-            <zone points="288,2294 588,2365 871,2294 2262,2316 2262,2255 288,2247" rendition="Line" xml:id="facs_121_tr_1_tl_16"/>
-            <zone points="273,2437 2230,2454 2183,2387 273,2397" rendition="Line" xml:id="facs_121_tr_1_tl_17"/>
-            <zone points="281,2592 847,2629 2173,2602 2173,2550 1917,2542 281,2547" rendition="Line" xml:id="facs_121_tr_1_tl_18"/>
-            <zone points="276,2739 1632,2781 2070,2754 2070,2698 276,2710" rendition="Line" xml:id="facs_121_tr_1_tl_20"/>
-            <zone points="266,2887 694,2904 751,2949 2178,2949 2176,2860 2097,2848 266,2865" rendition="Line" xml:id="facs_121_tr_1_tl_21"/>
-            <zone points="268,3047 2193,3069 2193,3017 2058,3000 1046,3030 332,2993 268,3025" rendition="Line" xml:id="facs_121_tr_1_tl_22"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_91">
+         <graphic url="TL-0565.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ACOYAWWEZAQFTBJWBMNBMWZE&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="83,12 2239,12 2239,947 83,947" rendition="TextRegion" xml:id="facs_91_tr_3">
+            <zone points="1141,322 1166,325 1171,330 1200,327 1208,332 1242,332 1252,325 1267,325 1269,266 1250,268 1245,263 1235,266 1230,261 1218,261 1200,276 1191,271 1176,283 1144,283" rendition="Line" xml:id="facs_91_tr_3_tl_3"/>
+            <zone points="554,485 2167,485 2167,433 2091,403 1611,438 1412,371 1274,443 554,418" rendition="Line" xml:id="facs_91_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="300,637 809,708 891,645 1894,625 2066,701 2234,676 2236,573 300,595" rendition="Line" xml:id="facs_91_tr_3_tl_5"/>
+            <zone points="298,787 1651,804 2194,780 2194,726 298,748" rendition="Line" xml:id="facs_91_tr_3_tl_6"/>
+            <zone points="288,935 2059,932 2032,881 1835,866 290,913" rendition="Line" xml:id="facs_91_tr_3_tl_7"/>
+         </zone>
+         <zone points="149,1018 2274,1018 2274,2723 149,2723" rendition="TextRegion" xml:id="facs_91_tr_1">
+            <zone points="300,1090 2000,1085 2184,1075 2187,1031 303,1036" rendition="Line" xml:id="facs_91_tr_1_tl_1"/>
+            <zone points="290,1240 2052,1245 2160,1230 2160,1183 290,1215" rendition="Line" xml:id="facs_91_tr_1_tl_2"/>
+            <zone points="551,1390 2125,1387 2089,1321 551,1331" rendition="Line" xml:id="facs_91_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="293,1538 2271,1520 2236,1476 293,1493" rendition="Line" xml:id="facs_91_tr_1_tl_4"/>
+            <zone points="293,1690 2140,1685 2140,1633 293,1651" rendition="Line" xml:id="facs_91_tr_1_tl_5"/>
+            <zone points="293,1843 2165,1833 2165,1779 293,1818" rendition="Line" xml:id="facs_91_tr_1_tl_6"/>
+            <zone points="293,2066 335,2052 701,2044 728,2020 819,2012 819,1946 551,1951 536,1938 448,1953 428,1936 411,1953 391,1936 374,1953 293,1953" rendition="Line" xml:id="facs_91_tr_1_tl_7"/>
+            <zone points="524,2108 2116,2098 2057,2032 526,2052" rendition="Line" xml:id="facs_91_tr_1_tl_8" subtype="paragraph"/>
+            <zone points="300,2268 2118,2256 2150,2197 300,2219" rendition="Line" xml:id="facs_91_tr_1_tl_10"/>
+            <zone points="290,2413 2170,2406 2212,2352 290,2371" rendition="Line" xml:id="facs_91_tr_1_tl_11"/>
+            <zone points="298,2563 2002,2566 2214,2549 2214,2499 298,2519" rendition="Line" xml:id="facs_91_tr_1_tl_12"/>
+            <zone points="288,2721 2076,2699 2076,2654 1865,2640 290,2674" rendition="Line" xml:id="facs_91_tr_1_tl_13"/>
+         </zone>
+         <zone points="50,2789 2331,2789 2331,3473 50,3473" rendition="TextRegion" xml:id="facs_91_tr_2">
+            <zone points="293,2881 2108,2856 2125,2799 293,2829" rendition="Line" xml:id="facs_91_tr_2_tl_1"/>
+            <zone points="290,3043 2108,3006 2111,2947 293,2974" rendition="Line" xml:id="facs_91_tr_2_tl_2"/>
+            <zone points="288,3171 2032,3166 2111,3156 2111,3102 290,3144" rendition="Line" xml:id="facs_91_tr_2_tl_3"/>
          </zone>
       </surface>
       
@@ -93,30 +98,32 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0595.jpg" n="part4_p121.jpg" xml:id="img_0121" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p121.jpg"/>
+            <pb facs="#TL-0565.jpg" n="part4_p091.jpg" xml:id="img_0091" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p091.jpg"/>
             
-            <fw facs="#facs_121_tr_1">
-               <lb facs="#facs_121_tr_1_tl_1" n="N001"/>[590]</fw>
-           <p rend="tei-p-no-indent">
-               <lb facs="#facs_121_tr_1_tl_2" n="N002"/>a temporal [i.e. temporary] banning of the <rs type="keyword" ref="#Demonic">demonic</rs> from the earth, but only <emph rend="allcaps">temporal</emph>, not
-               <lb facs="#facs_121_tr_1_tl_3" n="N003"/><emph rend="allcaps">final</emph>. Finally, towards the great struggle at the end of <rs type="keyword" ref="#History">history,</rs> the demonic will let loose again,
-              <lb facs="#facs_121_tr_1_tl_4" n="N004"/>out of its underworld prison, and will reappear.</p>
+            <fw facs="#facs_91_tr_3">
+               <lb facs="#facs_91_tr_3_tl_3" n="N001"/>[560]</fw>
            <p>
-               <lb facs="#facs_121_tr_1_tl_5" n="N005"/>This is the <rs type="keyword" ref="#Language">language</rs> of the <rs type="keyword" ref="#Myth">myth.</rs> Now we tried to translate this language in the problem
-               <lb facs="#facs_121_tr_1_tl_6" n="N006"/>of the <rs type="keyword" ref="#Europe">European</rs> situation in the twenties, and it is easy to do this. The biblical vision is not
-               <lb facs="#facs_121_tr_1_tl_7" n="N007"/>utopian. The development of the divine is connected with the development of the <rs type="keyword" ref="#Demonic">demonic.</rs>
-               <lb facs="#facs_121_tr_1_tl_8" n="N008"/>Both of them grow in <rs type="keyword" ref="#Power">power</rs> and destructiveness. But there is always one special demonic power
-               <lb facs="#facs_121_tr_1_tl_9" n="N009"/>which can be fought against and which will be thrown into the prison and banned for a time.
-               <lb facs="#facs_121_tr_1_tl_10" n="N010"/>This is the depth and <rs type="keyword" ref="#Wisdom">wisdom</rs> of the <rs type="keyword" ref="#Symbols_religious">biblical symbolism,</rs> which you could see in the actual<rs type="keyword" ref="#History"> history</rs>
-               <lb facs="#facs_121_tr_1_tl_12" n="N011"/>of this century. Some demons were de-demonized, for instance the capitalists.
-               <lb facs="#facs_121_tr_1_tl_13" n="N012"/>Others grew in power, for instance the <rs type="keyword" ref="#Nationalism">nationalistic.</rs> But also the nationalistic was conquered,
-               <lb facs="#facs_121_tr_1_tl_15" n="N013"/>for a certain time. These demonic forces are not the ultimate; they can be attacked and
-               <lb facs="#facs_121_tr_1_tl_16" n="N014"/>they can be conquered. And in the very attack against them, even<rs type="keyword" ref="#Luther"> Lutheran</rs> <rs type="keyword" ref="#Christianity">Christianity</rs> in <rs type="keyword" ref="#Germany">Germany</rs>
-               <lb facs="#facs_121_tr_1_tl_17" n="N015"/>has developed its greatest spirituality and power against the transcendentalism of the Lutheran
-              <lb facs="#facs_121_tr_1_tl_18" n="N016"/>tradition. A man like Karl <rs type="person" ref="#tillich_person_id__137">Barth</rs> changed several times when he saw that <rs type="person" ref="#tillich_person_id__910">Hitler</rs> <emph rend="allcaps">represents</emph>
-               <lb facs="#facs_121_tr_1_tl_20" n="N017"/>what <rs type="keyword" ref="#Religious_socialism">religious socialism</rs> had told him, years and years before, namely not a <rs type="keyword" ref="#Secular">secular</rs> phenomenon
-               <lb facs="#facs_121_tr_1_tl_21" n="N018"/>of history only, but in its depth-dimension a demonic force reaching down to dimensions of the
-               <lb facs="#facs_121_tr_1_tl_22" n="N019"/>ultimate—then he changed his position, and again started the fight which he had done as religious-
+               <lb facs="#facs_91_tr_3_tl_4" n="N002"/>This brings me immediately to the problem which belongs already to social ethics,
+               <lb facs="#facs_91_tr_3_tl_5" n="N003"/>namely<rs type="keyword" ref="#Tradition"> tradition</rs> and revolt, or tradition and autonomy. Now how is this relationship? Religion is
+               <lb facs="#facs_91_tr_3_tl_6" n="N004"/>usually identified with tradition because of the long authoritarian history of the <rs type="keyword" ref="#Church">Church</rs> and the
+               <lb facs="#facs_91_tr_3_tl_7" n="N005"/>continuous relapse to authoritarian elements, even in the <emph rend="allcaps">anti</emph>-authoritarian <rs type="keyword" ref="#Protestantism">Protestants</rs>.
+               <lb facs="#facs_91_tr_1_tl_1" n="N001"/>Tradition must be understood in the following way: it must be understood as the life substance
+              <lb facs="#facs_91_tr_1_tl_2" n="N002"/>of our historical existence. And there is one irrefutable argument about this, namely language.</p>
+           <p>
+               <lb facs="#facs_91_tr_1_tl_3" n="N003"/>Whatever you reject, in the <rs type="keyword" ref="#Tradition">tradition</rs> which comes to you, you can reject it only
+               <lb facs="#facs_91_tr_1_tl_4" n="N004"/>in terms of language, even if you don't speak out, even if you only <emph rend="allcaps">think</emph>—but we are <emph rend="allcaps">thinking</emph>—in 
+               <lb facs="#facs_91_tr_1_tl_5" n="N005"/>universals—and universals are real only in words, for us. Therefore language is that element
+               <lb facs="#facs_91_tr_1_tl_6" n="N006"/>of tradition from which nobody can extricate himself because in order to do so, he <emph rend="allcaps">needs</emph> the
+              <lb facs="#facs_91_tr_1_tl_7" n="N007"/>traditional language itself.</p>
+           <p>
+               <lb facs="#facs_91_tr_1_tl_8" n="N008"/>The same is true of all other realms. On no place can one start completely anew.
+               <lb facs="#facs_91_tr_1_tl_10" n="N009"/><rs type="place">America</rs> is especially interested in this problem because the <rs type="keyword" ref="#History">history</rs> of the United States is the
+               <lb facs="#facs_91_tr_1_tl_11" n="N010"/>history of a new beginning, or a radical way, as it has seldom happened in the history of mankind.
+               <lb facs="#facs_91_tr_1_tl_12" n="N011"/>Therefore the historical sense, which is also the sense for tradition, is often very poorly developed
+               <lb facs="#facs_91_tr_1_tl_13" n="N012"/>in this country, and historical knowledge cannot be presupposed, if you teach <rs type="keyword" ref="#Theology">theology</rs> or
+               <lb facs="#facs_91_tr_2_tl_1" n="N001"/><rs type="keyword" ref="#Philosophy">philosophy</rs>, or any other thing, for that matter. So the question is: In how far can rebellion
+               <lb facs="#facs_91_tr_2_tl_2" n="N002"/>really make [one] independent? Now the answer cannot be given in abstract terms, but the
+               <lb facs="#facs_91_tr_2_tl_3" n="N003"/>rebel should realize at least one thing, that he always rebels in terms of elements of the past
             </p>
             
         </div>

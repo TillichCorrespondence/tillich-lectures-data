@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-45">Lecture XLV (Nr. 0599)</title>
+            <title type="main" n="TL-lecture-43">Lecture XLIII (Nr. 0569)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part4_p125</locus>
+                     <locus>part4_p095</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-05-01">1956-05-01</date>
+                <date when-iso="1956-04-24">1956-04-24</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,30 +63,35 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_125">
-         <graphic url="TL-0599.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=WQBUOASMWEQNTSORCNEFHUOA&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="115,228 115,3459 2373,3459 2373,228" rendition="TextRegion" xml:id="facs_125_tr_1">
-            <zone points="1101,293 1116,293 1124,301 1151,298 1171,301 1176,296 1211,301 1208,251 1178,251 1161,234 1154,239 1144,236 1134,249 1099,249" rendition="Line" xml:id="facs_125_tr_1_tl_1"/>
-            <zone points="497,448 2188,438 2190,361 2103,395 2044,358 1867,395 1494,368 1445,403 1382,365 1345,403 1206,370 1171,405 500,418" rendition="Line" xml:id="facs_125_tr_1_tl_2"/>
-            <zone points="283,619 2175,597 2175,535 2136,532 283,557" rendition="Line" xml:id="facs_125_tr_1_tl_3"/>
-            <zone points="278,758 2230,741 2233,686 2170,684 281,706" rendition="Line" xml:id="facs_125_tr_1_tl_4"/>
-            <zone points="273,903 2185,895 2188,838 273,860" rendition="Line" xml:id="facs_125_tr_1_tl_5"/>
-            <zone points="273,1052 2074,1047 2076,992 273,1012" rendition="Line" xml:id="facs_125_tr_1_tl_6"/>
-            <zone points="273,1211 1676,1196 1676,1146 1599,1129 1303,1169 273,1169" rendition="Line" xml:id="facs_125_tr_1_tl_7"/>
-            <zone points="502,1353 2185,1335 2185,1275 502,1305" rendition="Line" xml:id="facs_125_tr_1_tl_8" subtype="paragraph"/>
-            <zone points="276,1517 1330,1502 1372,1534 1407,1499 2205,1494 2205,1435 278,1464" rendition="Line" xml:id="facs_125_tr_1_tl_9"/>
-            <zone points="273,1661 2163,1648 2163,1591 1852,1584 273,1614" rendition="Line" xml:id="facs_125_tr_1_tl_10"/>
-            <zone points="278,1820 2083,1793 2083,1743 1706,1733 278,1778" rendition="Line" xml:id="facs_125_tr_1_tl_11"/>
-            <zone points="500,1959 2131,1937 2131,1887 500,1912" rendition="Line" xml:id="facs_125_tr_1_tl_12" subtype="paragraph"/>
-            <zone points="278,2123 2277,2098 2277,2036 278,2066" rendition="Line" xml:id="facs_125_tr_1_tl_13"/>
-            <zone points="269,2258 1156,2253 1208,2287 1357,2248 2193,2245 2193,2195 2091,2183 1263,2205 1203,2158 1141,2208 269,2218" rendition="Line" xml:id="facs_125_tr_1_tl_14"/>
-            <zone points="343,2412 2136,2397 2136,2332 1987,2330 537,2345 343,2384" rendition="Line" xml:id="facs_125_tr_1_tl_15"/>
-            <zone points="276,2568 2228,2541 2230,2484 278,2519" rendition="Line" xml:id="facs_125_tr_1_tl_16"/>
-            <zone points="276,2712 2188,2693 2188,2625 276,2683" rendition="Line" xml:id="facs_125_tr_1_tl_17"/>
-            <zone points="276,2867 2190,2844 2156,2785 1855,2782 1780,2819 278,2804" rendition="Line" xml:id="facs_125_tr_1_tl_18"/>
-            <zone points="266,3013 2059,3006 2166,2996 2168,2944 266,2991" rendition="Line" xml:id="facs_125_tr_1_tl_19"/>
-            <zone points="271,3172 1131,3163 1191,3200 1241,3163 2156,3148 2156,3095 2001,3093 273,3140" rendition="Line" xml:id="facs_125_tr_1_tl_21"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_95">
+         <graphic url="TL-0569.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=OXKAQEVWOYLHEARVWNINMFAB&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="104,30 2283,30 2283,1460 104,1460" rendition="TextRegion" xml:id="facs_95_tr_2">
+            <zone points="1128,343 1148,340 1156,348 1181,350 1253,345 1251,285 1238,285 1226,298 1201,285 1171,285 1158,298 1126,300" rendition="Line" xml:id="facs_95_tr_2_tl_2"/>
+            <zone points="305,470 2021,485 2221,470 2221,418 305,428" rendition="Line" xml:id="facs_95_tr_2_tl_3"/>
+            <zone points="305,623 338,630 578,630 578,575 305,575" rendition="Line" xml:id="facs_95_tr_2_tl_4"/>
+            <zone points="533,695 2276,700 2276,643 2219,635 533,638" rendition="Line" xml:id="facs_95_tr_2_tl_5" subtype="paragraph"/>
+            <zone points="303,843 1926,860 2194,850 2194,793 303,818" rendition="Line" xml:id="facs_95_tr_2_tl_6"/>
+            <zone points="295,993 2126,1011 2256,945 295,970" rendition="Line" xml:id="facs_95_tr_2_tl_7"/>
+            <zone points="935,1148 2229,1148 2246,1093 1141,1088 935,1126" rendition="Line" xml:id="facs_95_tr_2_tl_9"/>
+            <zone points="295,1298 1843,1311 2169,1301 2169,1248 295,1271" rendition="Line" xml:id="facs_95_tr_2_tl_11"/>
+            <zone points="293,1456 2099,1461 2099,1406 293,1426" rendition="Line" xml:id="facs_95_tr_2_tl_12"/>
+         </zone>
+         <zone points="298,1547 2307,1547 2307,2750 298,2750" rendition="TextRegion" xml:id="facs_95_tr_3">
+            <zone points="293,1611 1558,1608 1861,1668 1943,1608 2174,1666 2174,1553 293,1563" rendition="Line" xml:id="facs_95_tr_3_tl_1"/>
+            <zone points="290,1761 350,1776 380,1768 395,1783 440,1788 563,1786 563,1733 548,1733 523,1708 335,1708 310,1733 290,1733" rendition="Line" xml:id="facs_95_tr_3_tl_2"/>
+            <zone points="518,1836 2109,1843 2146,1773 518,1788" rendition="Line" xml:id="facs_95_tr_3_tl_3" subtype="paragraph"/>
+            <zone points="290,1991 1451,2021 2091,1988 2091,1936 290,1941" rendition="Line" xml:id="facs_95_tr_3_tl_4"/>
+            <zone points="290,2136 2036,2151 2159,2139 2159,2084 290,2094" rendition="Line" xml:id="facs_95_tr_3_tl_5"/>
+            <zone points="293,2291 2206,2294 2274,2234 293,2239" rendition="Line" xml:id="facs_95_tr_3_tl_6"/>
+            <zone points="293,2439 2304,2446 2271,2384 2046,2376 293,2411" rendition="Line" xml:id="facs_95_tr_3_tl_7"/>
+            <zone points="285,2586 2161,2589 2161,2536 285,2539" rendition="Line" xml:id="facs_95_tr_3_tl_8"/>
+            <zone points="285,2741 2151,2749 2196,2681 285,2714" rendition="Line" xml:id="facs_95_tr_3_tl_9"/>
+         </zone>
+         <zone points="41,2825 2188,2825 2188,3470 41,3470" rendition="TextRegion" xml:id="facs_95_tr_1">
+            <zone points="288,2899 2034,2894 2111,2884 2111,2834 288,2851" rendition="Line" xml:id="facs_95_tr_1_tl_1"/>
+            <zone points="278,3044 2181,3042 2184,2984 278,2999" rendition="Line" xml:id="facs_95_tr_1_tl_2"/>
+            <zone points="275,3194 1921,3212 2124,3197 2126,3144 278,3154" rendition="Line" xml:id="facs_95_tr_1_tl_3"/>
          </zone>
       </surface>
       
@@ -94,32 +99,33 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0599.jpg" n="part4_p125.jpg" xml:id="img_0125" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p125.jpg"/>
+            <pb facs="#TL-0569.jpg" n="part4_p095.jpg" xml:id="img_0095" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p095.jpg"/>
             
-            <fw facs="#facs_125_tr_1">
-               <lb facs="#facs_125_tr_1_tl_1" n="N001"/>[594]</fw>
+            <fw facs="#facs_95_tr_2">
+               <lb facs="#facs_95_tr_2_tl_2" n="N001"/>[564]</fw>
+           <p rend="tei-p-no-indent">
+               <lb facs="#facs_95_tr_2_tl_3" n="N002"/>infinity, is unsolvable for him, and he tries to get rid of it by returning to something which is less
+              <lb facs="#facs_95_tr_2_tl_4" n="N003"/>than human.</p>
            <p>
-               <lb facs="#facs_125_tr_1_tl_2" n="N002"/>Let me give another example which is especially near to this country. I <emph rend="allcaps">could</emph> refer
-              <lb facs="#facs_125_tr_1_tl_3" n="N003"/>(but I want to do it only in passing) to the legislation which is usually called “Prohibition,”
-               <lb facs="#facs_125_tr_1_tl_4" n="N004"/>where the <rs type="keyword" ref="#Church">churches</rs> identified <rs type="keyword" ref="#God">God</rs> with special political <rs type="keyword" ref="#Law">law</rs>s—not with special <emph rend="allcaps">principles</emph>, which
-               <lb facs="#facs_125_tr_1_tl_5" n="N005"/>is right, but with special laws and legal procedures; and the result was the same judgment, namely
-               <lb facs="#facs_125_tr_1_tl_6" n="N006"/>that these legal procedures proved to be the greatest boon for gangsterism that ever existed,
-              <lb facs="#facs_125_tr_1_tl_7" n="N007"/>perhaps, and did not do what it was supposed to do—on the contrary.</p>
+               <lb facs="#facs_95_tr_2_tl_5" n="N004"/>In the same way, all highly individualized cultures have a tendency to return to primitive
+               <lb facs="#facs_95_tr_2_tl_6" n="N005"/>collectivism. And this is so important because it was a characteristic of our <emph rend="allcaps">own</emph> period, where
+               <lb facs="#facs_95_tr_2_tl_7" n="N006"/>at the end of the 19th century, <rs type="keyword" ref="#Individualism">individualism</rs> (in the one sense which I gave you) was developed to
+               <lb facs="#facs_95_tr_2_tl_9" n="N007"/>such a degree that the <rs type="keyword" ref="#Individual">individual</rs> subject, the completely separated personality, was unable to exist
+               <lb facs="#facs_95_tr_2_tl_11" n="N008"/>any longer; and especially in the younger generation of the early 20th century, in the different
+               <lb facs="#facs_95_tr_2_tl_12" n="N009"/>youth movements, the tendency to return to the group prevailed. This was the fertile soil
+               <lb facs="#facs_95_tr_3_tl_1" n="N001"/>for the other neo-collectivistic movements which appeared both as <rs type="keyword" ref="#Communism">Communism </rs>and as <rs type="keyword" ref="#Fascism">Fascism</rs>
+              <lb facs="#facs_95_tr_3_tl_2" n="N002"/>and <rs type="keyword" ref="#Nazism">Nazism.</rs></p>
            <p>
-               <lb facs="#facs_125_tr_1_tl_8" n="N008"/>Now if you identify, in such a case, your <rs type="keyword" ref="#Ultimate_Concern">ultimate concern</rs> with a concrete method of
-               <lb facs="#facs_125_tr_1_tl_9" n="N009"/>carrying-through principles, then you are under the judgment of <rs type="keyword" ref="#History">history,</rs> and this judgment should
-               <lb facs="#facs_125_tr_1_tl_10" n="N010"/>be applied, but it shouldn't be applied to that for which <rs type="keyword" ref="#Religion">religion</rs> ultimately stands, because then
-              <lb facs="#facs_125_tr_1_tl_11" n="N011"/>religion itself is drawn into the catastrophe of a special system of ideas of a special moment.</p>
-           <p>
-               <lb facs="#facs_125_tr_1_tl_12" n="N012"/>But the main example perhaps in this country, and at the same time a step beyond
-               <lb facs="#facs_125_tr_1_tl_13" n="N013"/>problems of <rs type="keyword" ref="#Religious_socialism">religious socialism,</rs> is religious <rs type="keyword" ref="#Pacifism">pacifism,</rs> which was one of the most energetic movements,
-               <lb facs="#facs_125_tr_1_tl_14" n="N014"/>22 years ago, when I came to this country, and I always tell the story that whenever I spoke about
-               <lb facs="#facs_125_tr_1_tl_15" n="N015"/><rs type="keyword" ref="#Aristotelianism">Aristotelian</rs> logic or about the doctrine of sin or about the relationship of Father, Son and
-              <lb facs="#facs_125_tr_1_tl_16" n="N016"/><rs type="keyword" ref="#Spirit">Spirit</rs> in the Holy Trinity, the question was not “How is it with these problems?,” but the question
-               <lb facs="#facs_125_tr_1_tl_17" n="N017"/>was, after two seconds, “What do you think about pacifism?” There was nothing in the <emph rend="allcaps">whole</emph>
-               <lb facs="#facs_125_tr_1_tl_18" n="N018"/><emph rend="allcaps">world</emph> which was not focused at that time at the problem of war or peace, and the relationship
-               <lb facs="#facs_125_tr_1_tl_19" n="N019"/>of <rs type="keyword" ref="#Christianity">Christianity</rs> to it. Now I don’t mind this at all—I didn’t understand it; I simply was surprised
-               <lb facs="#facs_125_tr_1_tl_21" n="N020"/>and didn’t know what to answer—but perhaps now I am able to understand it and even to valuate it.
+               <lb facs="#facs_95_tr_3_tl_3" n="N003"/>Now in order to discuss this situation, I suggest some distinctions. All this has not
+               <lb facs="#facs_95_tr_3_tl_4" n="N004"/>happened in <rs type="place">England</rs>, while it happened in Continental Europe. It has not happened in this
+               <lb facs="#facs_95_tr_3_tl_5" n="N005"/>country either. Why not? Because in <rs type="place">England</rs> we have another form of existence over against
+               <lb facs="#facs_95_tr_3_tl_6" n="N006"/>Continental <rs type="keyword" ref="#Individualism">individualism,</rs> namely <rs type="keyword" ref="#Conformism">conformism.</rs> Let's look at this word for a moment. Conformism
+               <lb facs="#facs_95_tr_3_tl_7" n="N007"/>can be understood in a merely negative sense, namely as subjecting oneself to the laws of convention,
+               <lb facs="#facs_95_tr_3_tl_8" n="N008"/>to avoid being outstanding, standing on oneself, or as I formulated it in the <hi style="font-style: italic;">Courage to Be</hi>, the
+               <lb facs="#facs_95_tr_3_tl_9" n="N009"/>courage to be oneself. Where this is lacking, there, conformism can develop. But conformism is,
+               <lb facs="#facs_95_tr_1_tl_1" n="N001"/>like all “isms”,  something which is verbally critical, is negative. Whenever we look at British
+               <lb facs="#facs_95_tr_1_tl_2" n="N002"/>life, we wouldn't call it conformism in this negative sense, although it has conformistic elements
+               <lb facs="#facs_95_tr_1_tl_3" n="N003"/>in it; but we would call it a system of conformity. And perhaps it is wise to distinguish these
             </p>
             
         </div>
