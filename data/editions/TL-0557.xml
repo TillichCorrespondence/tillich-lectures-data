@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-34">Lecture XXXIV (Nr. 0440)</title>
+            <title type="main" n="TL-lecture-42">Lecture XLII (Nr. 0557)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -30,7 +30,7 @@
          <publicationStmt>
             <p>
                <idno type="transkribus_col_id">271480</idno>
-               <idno type="transkribus_doc_id">1830350</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part3_p048</locus>
+                     <locus>part4_p083</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-03-10">1956-03-10</date>
+                <date when-iso="1956-04-17">1956-04-17</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,32 +63,32 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_48">
-         <graphic url="TL-0440.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=VJGOMKSLDKAMSOMGFGEPEGAY&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="313,347 2274,347 2274,1622 313,1622" rendition="TextRegion" xml:id="facs_48_tr_2">
-            <zone points="1161,402 1196,402 1205,412 1240,417 1262,412 1274,402 1286,402 1284,343 1250,343 1235,328 1220,343 1159,345" rendition="Line" xml:id="facs_48_tr_2_tl_1"/>
-            <zone points="309,551 2161,566 2019,483 309,517" rendition="Line" xml:id="facs_48_tr_2_tl_2"/>
-            <zone points="309,706 2122,725 2193,718 2193,664 309,679" rendition="Line" xml:id="facs_48_tr_2_tl_3"/>
-            <zone points="311,860 1985,877 2269,870 2269,813 311,826" rendition="Line" xml:id="facs_48_tr_2_tl_4"/>
-            <zone points="311,1009 2171,1022 2119,951 311,943" rendition="Line" xml:id="facs_48_tr_2_tl_5"/>
-            <zone points="301,1152 2163,1166 2163,1112 301,1125" rendition="Line" xml:id="facs_48_tr_2_tl_6"/>
-            <zone points="301,1306 1938,1328 2200,1318 2200,1262 301,1281" rendition="Line" xml:id="facs_48_tr_2_tl_7"/>
-            <zone points="299,1463 2048,1458 1999,1414 299,1416" rendition="Line" xml:id="facs_48_tr_2_tl_8"/>
-            <zone points="299,1612 2034,1624 2146,1619 2146,1566 299,1583" rendition="Line" xml:id="facs_48_tr_2_tl_9"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_83">
+         <graphic url="TL-0557.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XBPJMNEIXUJNGCKIKYHRFARL&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="289,278 2307,278 2307,2001 289,2001" rendition="TextRegion" xml:id="facs_83_tr_1">
+            <zone points="1100,337 1113,337 1126,350 1141,345 1148,352 1161,350 1169,342 1179,350 1224,347 1224,281 1186,279 1179,271 1158,269 1136,294 1100,294" rendition="Line" xml:id="facs_83_tr_1_tl_1"/>
+            <zone points="294,484 2218,502 2140,426 738,454 657,373 575,454 294,418" rendition="Line" xml:id="facs_83_tr_1_tl_2"/>
+            <zone points="299,641 2172,657 2147,591 624,558 299,608" rendition="Line" xml:id="facs_83_tr_1_tl_3"/>
+            <zone points="294,788 2259,799 2221,740 294,743" rendition="Line" xml:id="facs_83_tr_1_tl_4"/>
+            <zone points="286,940 1235,946 1235,897 1189,887 286,897" rendition="Line" xml:id="facs_83_tr_1_tl_5"/>
+            <zone points="489,1095 847,1093 928,1156 1166,1105 1313,1156 1486,1093 2185,1100 2185,1037 489,1042" rendition="Line" xml:id="facs_83_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="286,1245 2236,1247 2236,1197 2137,1186 286,1199" rendition="Line" xml:id="facs_83_tr_1_tl_7"/>
+            <zone points="284,1389 2238,1399 2188,1333 284,1361" rendition="Line" xml:id="facs_83_tr_1_tl_8"/>
+            <zone points="284,1539 2302,1549 2200,1488 284,1501" rendition="Line" xml:id="facs_83_tr_1_tl_9"/>
+            <zone points="276,1691 2203,1701 2152,1638 276,1653" rendition="Line" xml:id="facs_83_tr_1_tl_10"/>
+            <zone points="281,1843 1919,1853 1919,1792 281,1792" rendition="Line" xml:id="facs_83_tr_1_tl_11"/>
+            <zone points="482,1998 1161,2000 1361,2053 1600,2051 1671,1993 2178,1995 2178,1949 2051,1932 482,1949" rendition="Line" xml:id="facs_83_tr_1_tl_12" subtype="paragraph"/>
          </zone>
-         <zone points="47,1708 2263,1708 2263,3462 47,3462" rendition="TextRegion" xml:id="facs_48_tr_1">
-            <zone points="294,1764 2122,1776 2122,1717 294,1717" rendition="Line" xml:id="facs_48_tr_1_tl_1"/>
-            <zone points="296,1916 2019,1933 2161,1926 2161,1869 296,1887" rendition="Line" xml:id="facs_48_tr_1_tl_2"/>
-            <zone points="292,2063 2256,2070 2256,2016 292,2036" rendition="Line" xml:id="facs_48_tr_1_tl_3"/>
-            <zone points="292,2215 1872,2230 2127,2220 2127,2168 292,2185" rendition="Line" xml:id="facs_48_tr_1_tl_4"/>
-            <zone points="287,2362 2163,2376 2198,2315 287,2337" rendition="Line" xml:id="facs_48_tr_1_tl_5"/>
-            <zone points="287,2514 345,2528 742,2526 782,2521 782,2470 323,2467 287,2487" rendition="Line" xml:id="facs_48_tr_1_tl_6"/>
-            <zone points="537,2587 2097,2597 2097,2536 537,2536" rendition="Line" xml:id="facs_48_tr_1_tl_7" subtype="paragraph"/>
-            <zone points="279,2742 2016,2756 2058,2695 279,2717" rendition="Line" xml:id="facs_48_tr_1_tl_8"/>
-            <zone points="282,2898 2134,2901 2136,2844 284,2847" rendition="Line" xml:id="facs_48_tr_1_tl_9"/>
-            <zone points="274,3045 850,3045 1007,3109 1142,3045 2215,3060 2215,2979 274,3021" rendition="Line" xml:id="facs_48_tr_1_tl_10"/>
-            <zone points="274,3197 2185,3212 2185,3151 274,3170" rendition="Line" xml:id="facs_48_tr_1_tl_11"/>
+         <zone points="35,2087 2316,2087 2316,3470 35,3470" rendition="TextRegion" xml:id="facs_83_tr_2">
+            <zone points="276,2152 2287,2157 2309,2096 276,2102" rendition="Line" xml:id="facs_83_tr_2_tl_1"/>
+            <zone points="269,2292 2142,2309 2104,2249 269,2266" rendition="Line" xml:id="facs_83_tr_2_tl_2"/>
+            <zone points="264,2441 2104,2454 2124,2403 264,2418" rendition="Line" xml:id="facs_83_tr_2_tl_3"/>
+            <zone points="233,2598 2271,2614 2271,2555 233,2576" rendition="Line" xml:id="facs_83_tr_2_tl_4"/>
+            <zone points="261,2756 1896,2766 2205,2750 2205,2692 261,2705" rendition="Line" xml:id="facs_83_tr_2_tl_5"/>
+            <zone points="266,2903 1767,2918 2142,2900 2142,2849 266,2877" rendition="Line" xml:id="facs_83_tr_2_tl_6"/>
+            <zone points="261,3052 1962,3062 2109,3052 2109,3007 261,3014" rendition="Line" xml:id="facs_83_tr_2_tl_7"/>
+            <zone points="266,3214 1597,3222 1660,3214 1660,3159 266,3161" rendition="Line" xml:id="facs_83_tr_2_tl_8"/>
          </zone>
       </surface>
       
@@ -96,31 +96,32 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0440.jpg" n="part3_p048.jpg" xml:id="img_0048" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p048.jpg"/>
+            <pb facs="#TL-0557.jpg" n="part4_p083.jpg" xml:id="img_0083" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p083.jpg"/>
             
-            <fw facs="#facs_48_tr_2">
-               <lb facs="#facs_48_tr_2_tl_1" n="N001"/>[435]</fw>
+            <fw facs="#facs_83_tr_1">
+               <lb facs="#facs_83_tr_1_tl_1" n="N001"/>[552]</fw>
            <p rend="tei-p-no-indent">
-               <lb facs="#facs_48_tr_2_tl_2" n="N002"/>that every <rs type="keyword" ref="#Individual">individual</rs> is ultimately isolated from the other one, in the development of his own
-               <lb facs="#facs_48_tr_2_tl_3" n="N003"/><rs type="keyword" ref="#Rationality">rationality</rs>. The classical philosophical expression of this situation is <rs type="person" ref="#tillich_person_id__1159">Leibniz’s</rs> monadology, his
-               <lb facs="#facs_48_tr_2_tl_4" n="N004"/>doctrine that the world concists of monads, each of which is developing within itself, each of which
-               <lb facs="#facs_48_tr_2_tl_5" n="N005"/>is more or less clear or dark <rs type="keyword" ref="#Consciousness">consciousness</rs>—even in the inorganic matter, there are innumerable
-               <lb facs="#facs_48_tr_2_tl_6" n="N006"/>monads of this type; they have a very dark consciousness in the inorganic matter, a lighter one
-               <lb facs="#facs_48_tr_2_tl_7" n="N007"/>or brighter one in the realm of living beings; and a potentially complete one, namely the state of
-               <lb facs="#facs_48_tr_2_tl_8" n="N008"/>rationality, in the human monad, the human which makes man man. Now this monad
-               <lb facs="#facs_48_tr_2_tl_9" n="N009"/>develops within itself and has no windows and doors, as Leibnitz says, towards other monads.
-               <lb facs="#facs_48_tr_1_tl_1" n="N001"/>Every monad and his development of rationality is completely included in itself. This is the
-               <lb facs="#facs_48_tr_1_tl_2" n="N002"/>classical <rs type="keyword" ref="#Philosophy">philosophy</rs> of society, in contrast to a philosophy of <rs type="keyword" ref="#Community">community</rs>. It is society which
-               <lb facs="#facs_48_tr_1_tl_3" n="N003"/>consists of atomized monads, which are beside each other, which have no possible communion with
-               <lb facs="#facs_48_tr_1_tl_4" n="N004"/>each other, and if they communicate with each other, they do it by <rs type="keyword" ref="#Signs">signs</rs>, by signs which are
-               <lb facs="#facs_48_tr_1_tl_5" n="N005"/>mutually understood, but there is no <rs type="keyword" ref="#Participation">participation</rs> of the one in the other, and each is left to his
-              <lb facs="#facs_48_tr_1_tl_6" n="N006"/>own inner development.</p>
+               <lb facs="#facs_83_tr_1_tl_2" n="N002"/>in several cases, in many experiences, to be able to be trusted because, very often, what he said or
+               <lb facs="#facs_83_tr_1_tl_3" n="N003"/>demanded proved to be the right thing, theoretically or practically. Now this kind of <rs type="keyword" ref="#Authority">authority</rs>
+               <lb facs="#facs_83_tr_1_tl_4" n="N004"/>is of course still a very living authority, and is hard to resist, but is still not an authority in principle.
+              <lb facs="#facs_83_tr_1_tl_5" n="N005"/>But it <emph rend="allcaps">can become</emph> an authority in principle.</p>
            <p>
-               <lb facs="#facs_48_tr_1_tl_7" n="N007"/>This has many consequences, for instance for <rs type="keyword" ref="#Language">language</rs>: language is a means of
-               <lb facs="#facs_48_tr_1_tl_8" n="N008"/>communication; external signs are enough because words and letters are nothing but signs
-               <lb facs="#facs_48_tr_1_tl_9" n="N009"/>in the social cooperation which makes this cooperation possible. I may make here a footnote
-               <lb facs="#facs_48_tr_1_tl_10" n="N010"/>about the <rs type="keyword" ref="#New">new</rs> language, for which I am too old, unfortunately (or fortunately—I don't know yet),
-               <lb facs="#facs_48_tr_1_tl_11" n="N011"/>namely the language of abbreviations. There are very few people who still use words; when they
+               <lb facs="#facs_83_tr_1_tl_6" n="N006"/>Here we come to the third level, the <rs type="keyword" ref="#Authority">authority</rs> in principle which we have for instance
+               <lb facs="#facs_83_tr_1_tl_7" n="N007"/>in Protestant biblicism, which we have in most perfect, and almost incomparably perfect, form
+               <lb facs="#facs_83_tr_1_tl_8" n="N008"/>in the Roman Catholic Church, which we have in secularized form in totalitarian movements like
+               <lb facs="#facs_83_tr_1_tl_9" n="N009"/><rs type="keyword" ref="#Nazism">Nazism,</rs> and which we have in the paternalistic systems of family life where the authority of the father
+               <lb facs="#facs_83_tr_1_tl_10" n="N010"/>is neither that of the older man who knows more, nor of the man whom one can trust, but of the
+              <lb facs="#facs_83_tr_1_tl_11" n="N011"/>divinely established authority about everything which happens in the family.</p>
+           <p>
+               <lb facs="#facs_83_tr_1_tl_12" n="N012"/>Now this last form of <rs type="keyword" ref="#Authority">authority</rs> is the authority in principle. It can be defined in the
+               <lb facs="#facs_83_tr_2_tl_1" n="N001"/>following way: There is somewhere in reality a place which is not only the bearer of expert knowledge
+               <lb facs="#facs_83_tr_2_tl_2" n="N002"/>or immediate experience, which is not only a place trustworthy, because of his character,
+               <lb facs="#facs_83_tr_2_tl_3" n="N003"/>but which has the quality of infallibility for those who belong to the group of which he is the
+               <lb facs="#facs_83_tr_2_tl_4" n="N004"/>ultimate representative and authority. This authority in principle, as I would say, religiously speaking,
+               <lb facs="#facs_83_tr_2_tl_5" n="N005"/>has demonic character. Why? Because here one place beside all other places is singled out to have
+               <lb facs="#facs_83_tr_2_tl_6" n="N006"/>ultimacy, because authority in principle (or <emph rend="allcaps">infallible</emph> authority, which is the same) is the
+               <lb facs="#facs_83_tr_2_tl_7" n="N007"/>identification of this place with God Himself. Therefore the real problem of authority is this
+               <lb facs="#facs_83_tr_2_tl_8" n="N008"/>ultimate authority, the place which is identical with the ultimate itself.
             </p>
             
         </div>

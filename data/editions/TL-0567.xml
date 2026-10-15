@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-34">Lecture XXXIV (Nr. 0450)</title>
+            <title type="main" subtype="first_page" n="TL-lecture-43">Lecture XLIII (Nr. 0567)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -30,7 +30,7 @@
          <publicationStmt>
             <p>
                <idno type="transkribus_col_id">271480</idno>
-               <idno type="transkribus_doc_id">1830350</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part3_p058</locus>
+                     <locus>part4_p093</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-03-10">1956-03-10</date>
+                <date when-iso="1956-04-24">1956-04-24</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,25 +63,35 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_58">
-         <graphic url="TL-0450.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=ZRJBGHSJYWOWIHXWQTIOIXDX&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="316,332 2307,332 2307,1460 316,1460" rendition="TextRegion" xml:id="facs_58_tr_2">
-            <zone points="1181,390 1208,390 1228,400 1275,400 1290,390 1303,390 1300,343 1266,343 1246,323 1238,331 1226,331 1213,343 1178,343" rendition="Line" xml:id="facs_58_tr_2_tl_1"/>
-            <zone points="540,554 2245,549 2248,460 540,490" rendition="Line" xml:id="facs_58_tr_2_tl_2"/>
-            <zone points="303,696 2240,736 2240,636 2004,627 303,671" rendition="Line" xml:id="facs_58_tr_2_tl_3"/>
-            <zone points="303,860 2215,853 2215,798 303,818" rendition="Line" xml:id="facs_58_tr_2_tl_4"/>
-            <zone points="306,1007 2300,999 2302,937 306,957" rendition="Line" xml:id="facs_58_tr_2_tl_5"/>
-            <zone points="311,1156 1897,1156 2193,1141 2195,1079 311,1111" rendition="Line" xml:id="facs_58_tr_2_tl_6"/>
-            <zone points="303,1343 2148,1295 2148,1238 2064,1236 306,1261" rendition="Line" xml:id="facs_58_tr_2_tl_7"/>
-            <zone points="303,1454 2046,1459 2258,1449 2258,1387 303,1427" rendition="Line" xml:id="facs_58_tr_2_tl_8"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_93">
+         <graphic url="TL-0567.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZMEBXXTLVMYULQHYPBWCNRHX&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="304,266 2143,266 2143,1246 304,1246" rendition="TextRegion" xml:id="facs_93_tr_2">
+            <zone points="1126,324 1139,321 1156,336 1236,336 1251,331 1243,249 1228,254 1208,279 1186,279 1168,272 1163,272 1158,282 1146,277 1124,279" rendition="Line" xml:id="facs_93_tr_2_tl_1"/>
+            <zone points="296,473 992,486 992,424 894,428 872,406 750,416 730,436 493,409 296,436" rendition="Line" xml:id="facs_93_tr_2_tl_2" subtype="heading"/>
+            <zone points="528,623 2068,653 2000,570 528,561" rendition="Line" xml:id="facs_93_tr_2_tl_3" subtype="paragraph"/>
+            <zone points="296,775 2118,797 2118,737 1659,708 296,722" rendition="Line" xml:id="facs_93_tr_2_tl_4"/>
+            <zone points="301,932 2137,939 2137,889 2053,872 301,882" rendition="Line" xml:id="facs_93_tr_2_tl_5"/>
+            <zone points="294,1079 2073,1094 2073,1041 2010,1039 294,1049" rendition="Line" xml:id="facs_93_tr_2_tl_6"/>
+            <zone points="291,1231 2085,1243 2083,1188 291,1183" rendition="Line" xml:id="facs_93_tr_2_tl_7"/>
          </zone>
-         <zone points="59,1535 2269,1535 2269,3482 59,3482" rendition="TextRegion" xml:id="facs_58_tr_1">
-            <zone points="296,1601 2262,1606 2262,1539 296,1576" rendition="Line" xml:id="facs_58_tr_1_tl_1"/>
-            <zone points="298,1758 1877,1758 1902,1698 298,1713" rendition="Line" xml:id="facs_58_tr_1_tl_2"/>
-            <zone points="527,1902 1564,1899 1638,1949 1895,1957 1959,1904 2178,1929 2180,1840 527,1855" rendition="Line" xml:id="facs_58_tr_1_tl_3" subtype="paragraph"/>
-            <zone points="298,2071 2205,2054 2205,1991 298,2016" rendition="Line" xml:id="facs_58_tr_1_tl_4"/>
-            <zone points="296,2220 1693,2215 1723,2158 296,2175" rendition="Line" xml:id="facs_58_tr_1_tl_5"/>
+         <zone points="277,1326 2248,1326 2248,2977 277,2977" rendition="TextRegion" xml:id="facs_93_tr_1">
+            <zone points="284,1383 2083,1398 2083,1340 1948,1330 284,1335" rendition="Line" xml:id="facs_93_tr_1_tl_1"/>
+            <zone points="282,1530 767,1572 2113,1542 2063,1490 1821,1482 282,1505" rendition="Line" xml:id="facs_93_tr_1_tl_2"/>
+            <zone points="279,1684 1547,1746 2245,1702 2245,1642 1971,1634 279,1654" rendition="Line" xml:id="facs_93_tr_1_tl_3"/>
+            <zone points="279,1836 324,1846 376,1836 419,1846 471,1844 478,1836 501,1846 538,1846 538,1806 523,1804 501,1781 409,1784 399,1794 334,1781 314,1801 279,1801" rendition="Line" xml:id="facs_93_tr_1_tl_4"/>
+            <zone points="506,1911 2190,1926 2155,1861 506,1846" rendition="Line" xml:id="facs_93_tr_1_tl_5" subtype="paragraph"/>
+            <zone points="272,2053 2230,2078 2182,2005 272,2028" rendition="Line" xml:id="facs_93_tr_1_tl_6"/>
+            <zone points="272,2202 2133,2222 2130,2160 272,2180" rendition="Line" xml:id="facs_93_tr_1_tl_7"/>
+            <zone points="272,2399 2180,2374 2180,2322 2013,2312 272,2312" rendition="Line" xml:id="facs_93_tr_1_tl_8"/>
+            <zone points="272,2514 2028,2526 2028,2474 272,2449" rendition="Line" xml:id="facs_93_tr_1_tl_9"/>
+            <zone points="264,2661 1995,2691 2063,2678 2063,2611 264,2638" rendition="Line" xml:id="facs_93_tr_1_tl_10"/>
+            <zone points="264,2830 2155,2820 2023,2755 264,2770" rendition="Line" xml:id="facs_93_tr_1_tl_11"/>
+            <zone points="264,2965 2232,2975 2232,2920 1933,2902 264,2917" rendition="Line" xml:id="facs_93_tr_1_tl_12"/>
+         </zone>
+         <zone points="26,3057 2292,3057 2292,3467 26,3467" rendition="TextRegion" xml:id="facs_93_tr_3">
+            <zone points="254,3112 2257,3127 2257,3072 2060,3064 254,3084" rendition="Line" xml:id="facs_93_tr_3_tl_1"/>
+            <zone points="252,3261 2210,3246 2245,3194 254,3216" rendition="Line" xml:id="facs_93_tr_3_tl_2"/>
          </zone>
       </surface>
       
@@ -89,24 +99,36 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0450.jpg" n="part3_p058.jpg" xml:id="img_0058" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p058.jpg"/>
+            <pb facs="#TL-0567.jpg" n="part4_p093.jpg" xml:id="img_0093" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p093.jpg"/>
             
-            <fw facs="#facs_58_tr_2">
-               <lb facs="#facs_58_tr_2_tl_1" n="N001"/>[445]</fw>
+            <fw facs="#facs_93_tr_2">
+               <lb facs="#facs_93_tr_2_tl_1" n="N001"/>[562]</fw>
+           <p rend="tei-p-no-indent">
+              <lb facs="#facs_93_tr_2_tl_2" n="N002"/>
+              <title type="lecture"><emph rend="allcaps">Lecture XLIII</emph></title> 
+              <date when-iso="1956-04-24">April 24, 1956</date></p>
+           <lb rend="lb-show"/>   
            <p>
-               <lb facs="#facs_58_tr_2_tl_2" n="N002"/>Now let me conclude in brief. We must distinguish two things: the idea, and the ideal,
-               <lb facs="#facs_58_tr_2_tl_3" n="N003"/>of <rs type="keyword" ref="#Personality">personality</rs>. The idea of person, of personality, is simply the nature of man: man is potentially
-               <lb facs="#facs_58_tr_2_tl_4" n="N004"/>personality because he is actually person. And this is always and in every period so. Out of this,
-               <lb facs="#facs_58_tr_2_tl_5" n="N005"/>something else has developed, under the urge of the Protestant <rs type="keyword" ref="#Form">form</rs> of the relation between man and
-               <lb facs="#facs_58_tr_2_tl_6" n="N006"/><rs type="keyword" ref="#God">God</rs>, and under the urge of the <rs type="keyword" ref="#Renaissance">Renaissance</rs> idea of man as <rs type="keyword" ref="#Microcosmos">microcosmos</rs>, namely the <emph rend="allcaps">ideal</emph> of
-               <lb facs="#facs_58_tr_2_tl_7" n="N007"/>personality, the ideal that the <rs type="keyword" ref="#Meaning">meaning</rs> of ethical self-realization and ultimately of human life
-               <lb facs="#facs_58_tr_2_tl_8" n="N008"/>completely and generally, is to become a personality. The consequences of this ideal of personality
-               <lb facs="#facs_58_tr_1_tl_1" n="N001"/>are developed by me in [these lectures], when I speak about the state of mankind in our period,
-              <lb facs="#facs_58_tr_1_tl_2" n="N002"/>but I will go into it once more from the point of view of the ideal of personality.</p>
+               <lb facs="#facs_93_tr_2_tl_3" n="N003"/>The last lecture discussed the problem of the idea and the ideal of <rs type="keyword" ref="#Personality">personality,</rs>
+               <lb facs="#facs_93_tr_2_tl_4" n="N004"/>in their relation to each other. I came to the conclusion that the ideal of personality and the
+               <lb facs="#facs_93_tr_2_tl_5" n="N005"/>separation of the personal center from the unconscious elements of our personality, and from
+               <lb facs="#facs_93_tr_2_tl_6" n="N006"/>the community with other beings, has consequences of a devastating  character for Western
+               <lb facs="#facs_93_tr_2_tl_7" n="N007"/>civilization, that it is one of the causes for the further disintegration of the personality just
+               <lb facs="#facs_93_tr_1_tl_1" n="N001"/>because it has lost its foundation in the unconscious and communal elements. I don't want
+               <lb facs="#facs_93_tr_1_tl_2" n="N002"/>to go further into this; we still have three hours—today, Thursday, and a week from today—and 
+               <lb facs="#facs_93_tr_1_tl_3" n="N003"/>I want to discuss the social, economic and political problems of the relationship of religion
+              <lb facs="#facs_93_tr_1_tl_4" n="N004"/>and culture.</p>
            <p>
-               <lb facs="#facs_58_tr_1_tl_3" n="N003"/>This ideal, in all its greatness, has become one of the most demonic and destructive
-               <lb facs="#facs_58_tr_1_tl_4" n="N004"/>powers in Western <rs type="keyword" ref="#History">history</rs>. And so our next task will be to develop the dialectics of the ideal of
-               <lb facs="#facs_58_tr_1_tl_5" n="N005"/>personality and relate it to <rs type="keyword" ref="#Social_Ethics">social ethics</rs> and the problem of <rs type="keyword" ref="#Community">community</rs>.
+               <lb facs="#facs_93_tr_1_tl_5" n="N005"/>The first is a sociological remark with which I want to start because it has much to do
+               <lb facs="#facs_93_tr_1_tl_6" n="N006"/>with the discussion of the idea and the ideal of <rs type="keyword" ref="#Personality">personality.</rs> We can say that more genuine than the
+               <lb facs="#facs_93_tr_1_tl_7" n="N007"/>development of personality is something which one could call genuine collectivism, or original
+               <lb facs="#facs_93_tr_1_tl_8" n="N008"/><rs type="keyword" ref="#We-consciousness">we-consciousness.</rs> We-consciousness precedes, historically and ontologically, the I-consciousness.
+               <lb facs="#facs_93_tr_1_tl_9" n="N009"/>Beings don't feel separated, in the beginning of cultural development, from each other as
+               <lb facs="#facs_93_tr_1_tl_10" n="N010"/>centered beings. Of course this was always given potentially, but in order to transform this
+               <lb facs="#facs_93_tr_1_tl_11" n="N011"/>potentiality into actuality, very fundamental events had to happen, and I gave you two of them.
+               <lb facs="#facs_93_tr_1_tl_12" n="N012"/>The one is the experience of personal guilt, which takes the guilt away from the “we” and therefore
+               <lb facs="#facs_93_tr_3_tl_1" n="N001"/>the expiation of the guilt away from the chances, from the contingent search for a victim who carries
+               <lb facs="#facs_93_tr_3_tl_2" n="N002"/>the expiation, although he himself is subjectively not guilty. You find this still in the Old Testament.
             </p>
             
         </div>

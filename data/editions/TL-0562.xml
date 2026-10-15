@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-34">Lecture XXXIV (Nr. 0445)</title>
+            <title type="main" n="TL-lecture-42">Lecture XLII (Nr. 0562)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -30,7 +30,7 @@
          <publicationStmt>
             <p>
                <idno type="transkribus_col_id">271480</idno>
-               <idno type="transkribus_doc_id">1830350</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part3_p053</locus>
+                     <locus>part4_p088</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-03-10">1956-03-10</date>
+                <date when-iso="1956-04-17">1956-04-17</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,34 +63,34 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_53">
-         <graphic url="TL-0445.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=VAFBKPOEAGLDWHUWXANNWVEM&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="310,350 2239,350 2239,1326 310,1326" rendition="TextRegion" xml:id="facs_53_tr_3">
-            <zone points="1184,401 1199,401 1226,413 1304,411 1304,342 1270,345 1258,332 1245,332 1218,359 1184,359" rendition="Line" xml:id="facs_53_tr_3_tl_1"/>
-            <zone points="537,554 2232,581 2232,529 1888,482 1824,524 1373,485 1211,522 1172,482 1122,522 537,514" rendition="Line" xml:id="facs_53_tr_3_tl_2"/>
-            <zone points="303,694 2200,731 2200,665 2114,662 303,669" rendition="Line" xml:id="facs_53_tr_3_tl_3"/>
-            <zone points="303,852 701,901 1061,854 2159,869 2159,822 2048,810 303,805" rendition="Line" xml:id="facs_53_tr_3_tl_4"/>
-            <zone points="295,999 2176,1021 2127,965 295,975" rendition="Line" xml:id="facs_53_tr_3_tl_5"/>
-            <zone points="295,1149 1093,1162 1093,1115 980,1105 295,1108" rendition="Line" xml:id="facs_53_tr_3_tl_6"/>
-            <zone points="519,1307 935,1364 1231,1309 2203,1334 2203,1258 519,1248" rendition="Line" xml:id="facs_53_tr_3_tl_7" subtype="paragraph"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_88">
+         <graphic url="TL-0562.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KQLIGGKOWOPSTEXWUOMLQJRW&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="29,39 2236,39 2236,834 29,834" rendition="TextRegion" xml:id="facs_88_tr_3">
+            <zone points="1073,364 1093,364 1100,372 1120,374 1172,374 1184,364 1196,364 1196,300 1162,303 1152,293 1130,315 1073,320" rendition="Line" xml:id="facs_88_tr_3_tl_2"/>
+            <zone points="281,532 2188,512 2230,450 281,495" rendition="Line" xml:id="facs_88_tr_3_tl_3"/>
+            <zone points="273,677 1159,706 2191,625 273,630" rendition="Line" xml:id="facs_88_tr_3_tl_4"/>
+            <zone points="276,832 1875,822 2198,807 2198,753 276,780" rendition="Line" xml:id="facs_88_tr_3_tl_5"/>
          </zone>
-         <zone points="280,1400 2230,1400 2230,2676 280,2676" rendition="TextRegion" xml:id="facs_53_tr_1">
-            <zone points="290,1452 2163,1469 2163,1420 2003,1410 290,1410" rendition="Line" xml:id="facs_53_tr_1_tl_1"/>
-            <zone points="318,1620 2156,1624 2156,1570 1738,1553 318,1560" rendition="Line" xml:id="facs_53_tr_1_tl_2"/>
-            <zone points="290,1760 2163,1775 2163,1723 1962,1713 290,1723" rendition="Line" xml:id="facs_53_tr_1_tl_3"/>
-            <zone points="281,1917 2225,1935 2225,1875 2023,1861 281,1871" rendition="Line" xml:id="facs_53_tr_1_tl_4"/>
-            <zone points="288,2065 2122,2090 2075,2013 286,2016" rendition="Line" xml:id="facs_53_tr_1_tl_5"/>
-            <zone points="286,2220 1568,2277 1651,2220 1981,2230 1981,2173 1883,2161 286,2163" rendition="Line" xml:id="facs_53_tr_1_tl_6"/>
-            <zone points="281,2365 847,2365 957,2412 1167,2360 2077,2380 2077,2326 1971,2316 281,2314" rendition="Line" xml:id="facs_53_tr_1_tl_7"/>
-            <zone points="266,2503 2213,2523 2163,2469 266,2478" rendition="Line" xml:id="facs_53_tr_1_tl_8"/>
-            <zone points="268,2666 1297,2685 1336,2673 1336,2619 551,2604 495,2638 406,2611 268,2636" rendition="Line" xml:id="facs_53_tr_1_tl_9"/>
+         <zone points="286,896 2254,896 2254,2496 286,2496" rendition="TextRegion" xml:id="facs_88_tr_1">
+            <zone points="273,980 1944,972 2247,957 2247,903 273,953" rendition="Line" xml:id="facs_88_tr_1_tl_1"/>
+            <zone points="278,1127 908,1127 957,1172 1135,1174 1743,1112 1743,1068 1519,1053 281,1088" rendition="Line" xml:id="facs_88_tr_1_tl_2"/>
+            <zone points="485,1300 2173,1263 2191,1196 485,1228" rendition="Line" xml:id="facs_88_tr_1_tl_3" subtype="paragraph"/>
+            <zone points="271,1440 1829,1430 2191,1413 2191,1351 273,1408" rendition="Line" xml:id="facs_88_tr_1_tl_4"/>
+            <zone points="273,1583 2163,1568 2218,1506 273,1558" rendition="Line" xml:id="facs_88_tr_1_tl_5"/>
+            <zone points="278,1735 1053,1740 1083,1733 1083,1686 967,1666 945,1686 278,1691" rendition="Line" xml:id="facs_88_tr_1_tl_6"/>
+            <zone points="470,1880 2178,1863 2181,1794 470,1851" rendition="Line" xml:id="facs_88_tr_1_tl_7" subtype="paragraph"/>
+            <zone points="273,2035 2067,2023 2215,2016 2215,1957 273,1989" rendition="Line" xml:id="facs_88_tr_1_tl_8"/>
+            <zone points="278,2181 2227,2168 2227,2109 278,2156" rendition="Line" xml:id="facs_88_tr_1_tl_9"/>
+            <zone points="286,2338 1935,2326 2095,2316 2097,2262 286,2294" rendition="Line" xml:id="facs_88_tr_1_tl_10"/>
+            <zone points="286,2496 2102,2476 2131,2414 286,2459" rendition="Line" xml:id="facs_88_tr_1_tl_11"/>
          </zone>
-         <zone points="47,2759 2248,2759 2248,3485 47,3485" rendition="TextRegion" xml:id="facs_53_tr_2">
-            <zone points="487,2813 2183,2823 2136,2759 487,2759" rendition="Line" xml:id="facs_53_tr_2_tl_1" subtype="paragraph"/>
-            <zone points="261,2971 2159,2978 2159,2919 1994,2909 261,2922" rendition="Line" xml:id="facs_53_tr_2_tl_2"/>
-            <zone points="254,3116 1024,3128 1021,3059 992,3077 849,3057 829,3077 254,3086" rendition="Line" xml:id="facs_53_tr_2_tl_3"/>
-            <zone points="266,3197 2245,3205 2245,3150 266,3145" rendition="Line" xml:id="facs_53_tr_2_tl_4"/>
+         <zone points="47,2502 2310,2502 2310,3473 47,3473" rendition="TextRegion" xml:id="facs_88_tr_2">
+            <zone points="278,2638 1686,2619 1789,2661 1792,2574 281,2589" rendition="Line" xml:id="facs_88_tr_2_tl_3"/>
+            <zone points="278,2791 1565,2803 2144,2774 2200,2705 281,2742" rendition="Line" xml:id="facs_88_tr_2_tl_4"/>
+            <zone points="288,2949 1900,2946 2107,2914 2109,2862 288,2899" rendition="Line" xml:id="facs_88_tr_2_tl_5"/>
+            <zone points="288,3101 2252,3077 2252,3013 290,3047" rendition="Line" xml:id="facs_88_tr_2_tl_6"/>
+            <zone points="288,3249 655,3301 1304,3286 2085,3254 2085,3192 724,3249 288,3202" rendition="Line" xml:id="facs_88_tr_2_tl_7"/>
          </zone>
       </surface>
       
@@ -98,33 +98,32 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0445.jpg" n="part3_p053.jpg" xml:id="img_0053" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p053.jpg"/>
+            <pb facs="#TL-0562.jpg" n="part4_p088.jpg" xml:id="img_0088" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p088.jpg"/>
             
-            <fw facs="#facs_53_tr_3">
-               <lb facs="#facs_53_tr_3_tl_1" n="N001"/>[440]</fw>
+            <fw facs="#facs_88_tr_3">
+               <lb facs="#facs_88_tr_3_tl_2" n="N001"/>[557]</fw>
+           <p rend="tei-p-no-indent">
+               <lb facs="#facs_88_tr_3_tl_3" n="N002"/>of the <rs type="keyword" ref="#Authority_doctrinal">doctrinal authority</rs> in its infallible character. If the Pope writes a theological book, he is not
+               <lb facs="#facs_88_tr_3_tl_4" n="N003"/>infallible; if he gives a decision, as for instance the Assumption of the Virgin, then he is infallible.
+               <lb facs="#facs_88_tr_3_tl_5" n="N004"/>Now this means: we are now in a situation where a large amount of former and present decisions
+               <lb facs="#facs_88_tr_1_tl_1" n="N001"/>must be accepted by everybody who wants to be a member, with <emph rend="allcaps">good</emph> conscience, of this Church.
+              <lb facs="#facs_88_tr_1_tl_2" n="N002"/>What's the result? There are only two possible results—or perhaps three:</p>
            <p>
-               <lb facs="#facs_53_tr_3_tl_2" n="N002"/>Persona means the character of the actor in a play—one has derived it from <hi style="font-style: italic;">personare</hi>,
-               <lb facs="#facs_53_tr_3_tl_3" n="N003"/>which means “sounding through,” namely through the mask. <hi style="font-style: italic;">Persona</hi>, and the <rs type="keyword" ref="#Greek_Language">Greek</rs> <hi style="font-style: italic;">prosopon</hi>,
-               <lb facs="#facs_53_tr_3_tl_4" n="N004"/>have received the <rs type="keyword" ref="#Meaning">meaning</rs> of “mask,” of the special character a member of the theatrical cast
-               <lb facs="#facs_53_tr_3_tl_5" n="N005"/>represents. From there it was applied to the centered self, which we today call a person, which
-              <lb facs="#facs_53_tr_3_tl_6" n="N006"/>establishes itself in his ethical decisions.</p>
+               <lb facs="#facs_88_tr_1_tl_3" n="N003"/>1) The one is the primitive acceptance of these things without critical thought. This is
+               <lb facs="#facs_88_tr_1_tl_4" n="N004"/>always a possibility, and in my lectures on education, you remember I was very hesitant to break
+               <lb facs="#facs_88_tr_1_tl_5" n="N005"/>this kind of naivete or primitivism, which can be <emph rend="allcaps">full of spirit</emph>, in relation to God, and which
+              <lb facs="#facs_88_tr_1_tl_6" n="N006"/>therefore one should not break wilfully.</p>
            <p>
-               <lb facs="#facs_53_tr_3_tl_7" n="N007"/>Now in German, person—<hi style="font-style: italic;">Person</hi>—is the <emph rend="allcaps">potentiality of self</emph>-<emph rend="allcaps">realization</emph>,
-               <lb facs="#facs_53_tr_1_tl_1" n="N001"/>in the different forms: religious, rational and romantic. In <rs type="keyword" ref="#English_Language">English</rs>, I have been told, the word
-              <lb facs="#facs_53_tr_1_tl_2" n="N002"/><rs type="keyword" ref="#Personality">“personality”</rs> is much more used for that. In German the word “personality,” means a person
-               <lb facs="#facs_53_tr_1_tl_3" n="N003"/>which has become actually what it potentially is: a developed <hi style="font-style: italic;">persona</hi>, is a personality, while
-               <lb facs="#facs_53_tr_1_tl_4" n="N004"/><hi style="font-style: italic;">persona</hi> is legal [?] a complete [?] thing—one must be treated as a person; therefore if somebody
-               <lb facs="#facs_53_tr_1_tl_5" n="N005"/>kills me, he will be killed himself—but that doesn’t mean that anything is developed; even the
-               <lb facs="#facs_53_tr_1_tl_6" n="N006"/>murder of a baby, where no person is developed, is a full murder. So <rs type="keyword" ref="#German_language">German</rs> makes a
-               <lb facs="#facs_53_tr_1_tl_7" n="N007"/>difference between <hi style="font-style: italic;">persona</hi> and personality. “He is a personality” means he <emph rend="allcaps">is</emph> something,
-               <lb facs="#facs_53_tr_1_tl_8" n="N008"/>he has developed his potentialities, he is reasonable, he is impregnated in his being with values and
-              <lb facs="#facs_53_tr_1_tl_9" n="N009"/>meanings. All this would be the word “personality.”</p>
-           <p>
-               <lb facs="#facs_53_tr_2_tl_1" n="N001"/>Now may I ask <emph rend="allcaps">you</emph>, those of you who feel they can answer it more from their more
-              <lb facs="#facs_53_tr_2_tl_2" n="N002"/>genuine feeling for the English <rs type="keyword" ref="#Language">language</rs> than I have it: what is the difference between “person”
-              <lb facs="#facs_53_tr_2_tl_3" n="N003"/>and “personality” <emph rend="allcaps">you</emph> would make?</p>
-           <p>
-              <lb facs="#facs_53_tr_2_tl_4" n="N004"/><emph rend="allcaps">Student</emph> (<rs type="person" ref="#tillich_person_id__4686">Susan Lord</rs>): It seems to me that you use “personality” in two senses: 1) as opposed
+               <lb facs="#facs_88_tr_1_tl_7" n="N007"/>2) There is the second way, namely to accept this doctrine and to interpret it. This is
+               <lb facs="#facs_88_tr_1_tl_8" n="N008"/>the way which liberal <rs type="keyword" ref="#Catholicism">Catholicism</rs> always tries to go. And there is always a kind of margin within
+               <lb facs="#facs_88_tr_1_tl_9" n="N009"/>which it can do this. But this margin, in the course of history, has become narrower and narrower.
+               <lb facs="#facs_88_tr_1_tl_10" n="N010"/>The last great attempt to escape the <rs type="keyword" ref="#Demonic">demonic</rs> <rs type="keyword" ref="#Authority">authority</rs> of an <rs type="keyword" ref="#Authority_in_principle">authority in principle,</rs> was the
+               <lb facs="#facs_88_tr_1_tl_11" n="N011"/>symbolism of the <hi style="font-style: italic;">symbolae fideistes [?sp]</hi>, in the beginning and middle of the 19th century.
+               <lb facs="#facs_88_tr_2_tl_3" n="N001"/>They were rejected by the <rs type="keyword" ref="#Church">Church;</rs> this way out was closed. Today we had conversations between 
+               <lb facs="#facs_88_tr_2_tl_4" n="N002"/><rs type="keyword" ref="#Protestantism">Protestants</rs> and <rs type="keyword" ref="#Roman_Catholicism">Roman Catholics.</rs> And they were going on for a certain time, and then the <rs type="keyword" ref="#Pope">Pope</rs>
+               <lb facs="#facs_88_tr_2_tl_5" n="N003"/>came down with the sword of Damocles—which always soars above the head of every liberal
+               <lb facs="#facs_88_tr_2_tl_6" n="N004"/>Catholic—and these conversations were cut off. And I know Roman Catholics in Eastern Germany
+               <lb facs="#facs_88_tr_2_tl_7" n="N005"/>with whom I spoke, who are very near to my not quite orthodox theology <hi style="font-style: italic;">[little laugther]</hi>,
             </p>
             
         </div>

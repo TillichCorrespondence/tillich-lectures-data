@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" subtype="first_page" n="TL-lecture-35">Lecture XXXV (Nr. 0451)</title>
+            <title type="main" n="TL-lecture-43">Lecture XLIII (Nr. 0568)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -30,7 +30,7 @@
          <publicationStmt>
             <p>
                <idno type="transkribus_col_id">271480</idno>
-               <idno type="transkribus_doc_id">1830350</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part3_p059</locus>
+                     <locus>part4_p094</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-03-12">1956-03-12</date>
+                <date when-iso="1956-04-24">1956-04-24</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,34 +63,34 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_59">
-         <graphic url="TL-0451.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=KORPYUECSASZHQMJVMWJEJEQ&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="295,287 2355,287 2355,959 295,959" rendition="TextRegion" xml:id="facs_59_tr_2">
-            <zone points="1126,344 1138,344 1150,356 1185,356 1189,351 1194,356 1234,356 1241,349 1253,349 1251,270 1226,270 1212,285 1172,283 1157,290 1123,290" rendition="Line" xml:id="facs_59_tr_2_tl_1"/>
-            <zone points="283,499 619,501 654,533 705,499 963,501 1000,496 1000,410 949,447 880,452 848,425 821,452 735,452 708,428 678,457 634,418 425,423 386,460 344,423 283,464" rendition="Line" xml:id="facs_59_tr_2_tl_2" subtype="heading"/>
-            <zone points="509,646 2310,624 2303,575 2042,548 840,609 511,575" rendition="Line" xml:id="facs_59_tr_2_tl_3" subtype="paragraph"/>
-            <zone points="288,806 1071,799 1172,784 1172,757 968,732 772,737 725,764 612,737 585,764 558,740 460,769 381,745 354,772 329,747 288,772" rendition="Line" xml:id="facs_59_tr_2_tl_5"/>
-            <zone points="290,958 440,1027 966,963 1986,966 2155,949 2197,863 290,926" rendition="Line" xml:id="facs_59_tr_2_tl_6"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_94">
+         <graphic url="TL-0568.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LZVOPFMMKHZZYMZLIYUKKKNP&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="328,311 2236,311 2236,1583 328,1583" rendition="TextRegion" xml:id="facs_94_tr_2">
+            <zone points="1159,366 1174,366 1188,380 1200,380 1207,373 1263,373 1275,363 1294,382 1313,382 1313,308 1267,308 1251,291 1229,310 1159,308" rendition="Line" xml:id="facs_94_tr_2_tl_1"/>
+            <zone points="558,522 2071,524 2071,447 1277,486 558,452" rendition="Line" xml:id="facs_94_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="329,666 2126,673 2126,623 329,623" rendition="Line" xml:id="facs_94_tr_2_tl_3"/>
+            <zone points="320,818 1987,837 2109,830 2109,777 320,791" rendition="Line" xml:id="facs_94_tr_2_tl_4"/>
+            <zone points="320,969 1436,984 1412,928 320,928" rendition="Line" xml:id="facs_94_tr_2_tl_6"/>
+            <zone points="320,1123 1898,1135 2162,1123 2162,1077 320,1097" rendition="Line" xml:id="facs_94_tr_2_tl_7"/>
+            <zone points="315,1272 2047,1282 2229,1277 2229,1231 315,1248" rendition="Line" xml:id="facs_94_tr_2_tl_8"/>
+            <zone points="327,1433 885,1436 885,1366 690,1385 628,1368 608,1385 327,1380" rendition="Line" xml:id="facs_94_tr_2_tl_9"/>
+            <zone points="536,1570 2121,1580 2121,1515 1061,1549 536,1515" rendition="Line" xml:id="facs_94_tr_2_tl_10" subtype="paragraph"/>
          </zone>
-         <zone points="298,1006 2266,1006 2266,2159 298,2159" rendition="TextRegion" xml:id="facs_59_tr_3">
-            <zone points="290,1111 1853,1108 2209,1071 2212,1010 290,1057" rendition="Line" xml:id="facs_59_tr_3_tl_1"/>
-            <zone points="285,1256 2219,1224 2222,1160 285,1229" rendition="Line" xml:id="facs_59_tr_3_tl_2"/>
-            <zone points="300,1411 2177,1381 2180,1322 300,1376" rendition="Line" xml:id="facs_59_tr_3_tl_3"/>
-            <zone points="288,1551 2086,1536 2261,1479 290,1524" rendition="Line" xml:id="facs_59_tr_3_tl_4"/>
-            <zone points="292,1706 2207,1686 2209,1622 292,1674" rendition="Line" xml:id="facs_59_tr_3_tl_5"/>
-            <zone points="290,1853 1757,1890 2231,1823 2155,1762 292,1801" rendition="Line" xml:id="facs_59_tr_3_tl_6"/>
-            <zone points="300,2010 1012,2005 1015,1968 688,1944 302,1966" rendition="Line" xml:id="facs_59_tr_3_tl_7"/>
-            <zone points="526,2150 2180,2126 2116,2050 1563,2101 528,2082" rendition="Line" xml:id="facs_59_tr_3_tl_8" subtype="paragraph"/>
+         <zone points="316,1669 2242,1669 2242,2490 316,2490" rendition="TextRegion" xml:id="facs_94_tr_3">
+            <zone points="308,1724 2232,1732 2232,1679 308,1681" rendition="Line" xml:id="facs_94_tr_3_tl_1"/>
+            <zone points="315,1878 2128,1888 2128,1830 315,1830" rendition="Line" xml:id="facs_94_tr_3_tl_2"/>
+            <zone points="536,2030 1989,2044 2054,2030 2054,1972 536,1987" rendition="Line" xml:id="facs_94_tr_3_tl_3" subtype="paragraph"/>
+            <zone points="308,2179 1830,2191 2157,2181 2157,2128 308,2152" rendition="Line" xml:id="facs_94_tr_3_tl_4"/>
+            <zone points="303,2330 2088,2342 2181,2335 2181,2282 303,2302" rendition="Line" xml:id="facs_94_tr_3_tl_5"/>
+            <zone points="305,2480 2015,2494 2239,2482 2239,2429 305,2456" rendition="Line" xml:id="facs_94_tr_3_tl_6"/>
          </zone>
-         <zone points="50,2213 2185,2213 2185,3488 50,3488" rendition="TextRegion" xml:id="facs_59_tr_1">
-            <zone points="302,2315 2035,2293 2136,2239 302,2276" rendition="Line" xml:id="facs_59_tr_1_tl_1"/>
-            <zone points="302,2460 1954,2438 2086,2428 2089,2376 302,2413" rendition="Line" xml:id="facs_59_tr_1_tl_2"/>
-            <zone points="297,2615 2013,2590 2094,2578 2096,2516 297,2558" rendition="Line" xml:id="facs_59_tr_1_tl_3"/>
-            <zone points="310,2777 2077,2738 2145,2679 312,2708" rendition="Line" xml:id="facs_59_tr_1_tl_4"/>
-            <zone points="302,2905 2111,2880 2138,2819 302,2856" rendition="Line" xml:id="facs_59_tr_1_tl_5"/>
-            <zone points="305,3062 2180,3030 2182,2964 307,3035" rendition="Line" xml:id="facs_59_tr_1_tl_6"/>
-            <zone points="302,3209 976,3212 1044,3207 1044,3158 302,3168" rendition="Line" xml:id="facs_59_tr_1_tl_7"/>
+         <zone points="29,2574 2206,2574 2206,3467 29,3467" rendition="TextRegion" xml:id="facs_94_tr_1">
+            <zone points="308,2653 2003,2638 2037,2585 308,2590" rendition="Line" xml:id="facs_94_tr_1_tl_1"/>
+            <zone points="301,2787 1876,2790 2177,2780 2179,2730 303,2739" rendition="Line" xml:id="facs_94_tr_1_tl_2"/>
+            <zone points="296,2932 1498,2944 1498,2886 527,2879 296,2910" rendition="Line" xml:id="facs_94_tr_1_tl_3"/>
+            <zone points="524,3086 1063,3141 1114,3093 2186,3086 2201,3025 524,3038" rendition="Line" xml:id="facs_94_tr_1_tl_4" subtype="paragraph"/>
+            <zone points="291,3249 734,3331 887,3268 2145,3237 2145,3177 782,3240 293,3201" rendition="Line" xml:id="facs_94_tr_1_tl_5"/>
          </zone>
       </surface>
       
@@ -98,34 +98,33 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0451.jpg" n="part3_p059.jpg" xml:id="img_0059" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p059.jpg"/>
+            <pb facs="#TL-0568.jpg" n="part4_p094.jpg" xml:id="img_0094" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p094.jpg"/>
             
-            <fw facs="#facs_59_tr_2">
-               <lb facs="#facs_59_tr_2_tl_1" n="N001"/>[446]</fw>
-           <p rend="tei-p-no-indent">
-              <lb facs="#facs_59_tr_2_tl_2" n="N002"/>
-              <title type="lecture"><emph rend="allcaps">Lecture XXXV</emph></title> 
-              <date when-iso="1956-03-12">March 12, 1956</date></p>
+            <fw facs="#facs_94_tr_2">
+               <lb facs="#facs_94_tr_2_tl_1" n="N001"/>[563]</fw>
            <p>
-               <lb facs="#facs_59_tr_2_tl_3" n="N003"/>I have received a very nice but unfortunately unfeasible request, namely to add a few hours
-               <lb facs="#facs_59_tr_2_tl_5" n="N004"/>to the ordinary hours, of which we have only five—today and the next two weeks, two hours each.
-               <lb facs="#facs_59_tr_2_tl_6" n="N005"/>And there are some mathematical calculations that these hours do not completely agree with the
-               <lb facs="#facs_59_tr_3_tl_1" n="N001"/>program I gave you in the beginning. Now it is not as bad as it seems to be because some of these
-               <lb facs="#facs_59_tr_3_tl_2" n="N002"/>points can be discussed together in one more embracing discussion. On the other hand, I talked it
-              <lb facs="#facs_59_tr_3_tl_3" n="N003"/>over with <rs type="person" ref="#tillich_person_id__1160">Mr. Leibrecht</rs> and we agreed that it will be absolutely impossible—not only relatively,
-               <lb facs="#facs_59_tr_3_tl_4" n="N004"/>but absolutely <hi style="font-style: italic;">[laughter]</hi>—to find an hour in which the whole class will be able to come, outside
-               <lb facs="#facs_59_tr_3_tl_5" n="N005"/>the ordinary hours which are reserved for it. So I am sorry I cannot accept this suggestion,
-               <lb facs="#facs_59_tr_3_tl_6" n="N006"/>but I feel very much moved by it to intensify the presentation and to concentrate a little bit more
-              <lb facs="#facs_59_tr_3_tl_7" n="N007"/>than I did perhaps in the last hours.</p>
+               <lb facs="#facs_94_tr_2_tl_2" n="N002"/>In contrast to this, the idea became predominant that the individual who did
+               <lb facs="#facs_94_tr_2_tl_3" n="N003"/>something against the <rs type="keyword" ref="#Law">laws</rs> of his own being and the being of the group, is responsible for it
+               <lb facs="#facs_94_tr_2_tl_4" n="N004"/>and therefore must expiate his own guilt. And you remember the other development
+               <lb facs="#facs_94_tr_2_tl_6" n="N005"/>to which I referred was the development of questioning. Asking the question
+               <lb facs="#facs_94_tr_2_tl_7" n="N006"/>means separating oneself from the unity with the universe. The universal <rs type="keyword" ref="#We-consciousness">we-consciousness</rs> is
+               <lb facs="#facs_94_tr_2_tl_8" n="N007"/>dissolved by the human act of asking a question about that with which one felt identical before.
+              <lb facs="#facs_94_tr_2_tl_9" n="N008"/>Now this identity is cut off.</p>
            <p>
-               <lb facs="#facs_59_tr_3_tl_8" n="N008"/>The problem we have discussed was <rs type="keyword" ref="#Personal_Ethics">individual ethics</rs>. I gave you a discussion of the
-               <lb facs="#facs_59_tr_1_tl_1" n="N001"/>different types of <rs type="keyword" ref="#Individualism">individualism</rs>, and then we came to the <rs type="keyword" ref="#Concept">concept</rs> of person, personality, and
-               <lb facs="#facs_59_tr_1_tl_2" n="N002"/>the different <rs type="keyword" ref="#Meaning">meanings</rs> of the second word in different languages. In the meantime, I have
-               <lb facs="#facs_59_tr_1_tl_3" n="N003"/>learned that there is another use of the word <rs type="keyword" ref="#Personality">personality</rs>, introduced by the psychology of
-               <lb facs="#facs_59_tr_1_tl_4" n="N004"/>personality, the idea of personality structure. Since this structure already has its roots in the
-               <lb facs="#facs_59_tr_1_tl_5" n="N005"/>baby period of human beings, one could speak of the “personality” of a baby. Now this means
-               <lb facs="#facs_59_tr_1_tl_6" n="N006"/>the word personality has become useless, and if we want to use it we must always say which of
-               <lb facs="#facs_59_tr_1_tl_7" n="N007"/>these different meanings we will use.
+               <lb facs="#facs_94_tr_2_tl_10" n="N009"/>We have considered, then, the consequences of this development in terms of the
+               <lb facs="#facs_94_tr_3_tl_1" n="N001"/>ideal [idea?] of <rs type="keyword" ref="#Personality">personality.</rs> Now we go back to the state out of which this came, which one
+              <lb facs="#facs_94_tr_3_tl_2" n="N002"/>can call primitive collectivism, or original <rs type="keyword" ref="#We-consciousness">we-consciousness</rs> preceding the ego-consciousness.</p>
+           <p>
+               <lb facs="#facs_94_tr_3_tl_3" n="N003"/>Collectivism is in the beginning, and there is a tendency towards returning to
+               <lb facs="#facs_94_tr_3_tl_4" n="N004"/>collectivism as long as the human race has a historical memory. It is just as in <rs type="person" ref="#tillich_person_id__619">Freud's</rs>
+               <lb facs="#facs_94_tr_3_tl_5" n="N005"/>analysis of living beings of a higher degree who have a tendency to return to the lower degrees
+               <lb facs="#facs_94_tr_3_tl_6" n="N006"/>out of which they come, because in these lower degrees the problems of the higher degrees do not
+               <lb facs="#facs_94_tr_1_tl_1" n="N001"/>yet exist.<rs type="person" ref="#tillich_person_id__619"> Freud's</rs> doctrine of death-instinct in man is nothing but an expression of this
+               <lb facs="#facs_94_tr_1_tl_2" n="N002"/>tendency to go down again to the non-responsible situation of animal existence, or even to the
+              <lb facs="#facs_94_tr_1_tl_3" n="N003"/>non-conscious existence of vegetative or inorganic existence.</p>
+           <p>
+               <lb facs="#facs_94_tr_1_tl_4" n="N004"/>In the same way, <rs type="person" ref="#tillich_person_id__1049">Kierkegaard</rs> describes the desire of man to get rid of himself as the
+               <lb facs="#facs_94_tr_1_tl_5" n="N005"/>phenomenon of despair, because the problem of man, his being a combination of finitude and
             </p>
             
         </div>

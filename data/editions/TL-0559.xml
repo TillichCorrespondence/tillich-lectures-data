@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-34">Lecture XXXIV (Nr. 0442)</title>
+            <title type="main" n="TL-lecture-42">Lecture XLII (Nr. 0559)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -30,7 +30,7 @@
          <publicationStmt>
             <p>
                <idno type="transkribus_col_id">271480</idno>
-               <idno type="transkribus_doc_id">1830350</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part3_p050</locus>
+                     <locus>part4_p085</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-03-10">1956-03-10</date>
+                <date when-iso="1956-04-17">1956-04-17</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,32 +63,34 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_50">
-         <graphic url="TL-0442.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=NJGKAJYHNQLXHPJEIMOIJPUR&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="292,353 2289,353 2289,2535 292,2535" rendition="TextRegion" xml:id="facs_50_tr_1">
-            <zone points="1139,406 1152,406 1177,421 1239,421 1249,411 1274,411 1274,371 1259,371 1254,366 1242,371 1222,351 1209,346 1204,349 1187,334 1157,369 1139,369" rendition="Line" xml:id="facs_50_tr_1_tl_1"/>
-            <zone points="301,569 2230,567 2175,487 301,497" rendition="Line" xml:id="facs_50_tr_1_tl_2"/>
-            <zone points="299,715 1731,733 1806,718 1806,670 299,675" rendition="Line" xml:id="facs_50_tr_1_tl_3"/>
-            <zone points="549,866 2132,878 2283,868 2283,815 549,818" rendition="Line" xml:id="facs_50_tr_1_tl_4" subtype="paragraph"/>
-            <zone points="291,1024 2168,1021 2190,966 291,996" rendition="Line" xml:id="facs_50_tr_1_tl_5"/>
-            <zone points="1066,1169 2235,1174 2235,1119 1182,1111 1066,1141" rendition="Line" xml:id="facs_50_tr_1_tl_6"/>
-            <zone points="283,1320 715,1327 768,1380 2092,1327 2022,1254 283,1274" rendition="Line" xml:id="facs_50_tr_1_tl_8"/>
-            <zone points="294,1473 2168,1470 2168,1417 294,1422" rendition="Line" xml:id="facs_50_tr_1_tl_9"/>
-            <zone points="283,1618 2140,1623 2163,1568 283,1575" rendition="Line" xml:id="facs_50_tr_1_tl_10"/>
-            <zone points="291,1784 2097,1796 2158,1716 291,1729" rendition="Line" xml:id="facs_50_tr_1_tl_11"/>
-            <zone points="286,1934 2230,1924 2278,1867 286,1887" rendition="Line" xml:id="facs_50_tr_1_tl_12"/>
-            <zone points="283,2075 2090,2085 2253,2070 2253,2025 381,2002 283,2050" rendition="Line" xml:id="facs_50_tr_1_tl_13"/>
-            <zone points="283,2228 2150,2240 2205,2170 283,2183" rendition="Line" xml:id="facs_50_tr_1_tl_14"/>
-            <zone points="278,2381 2213,2373 2215,2308 281,2333" rendition="Line" xml:id="facs_50_tr_1_tl_15"/>
-            <zone points="283,2531 2170,2526 2137,2461 283,2476" rendition="Line" xml:id="facs_50_tr_1_tl_16"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_85">
+         <graphic url="TL-0559.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WUINBYCKVXAMXDNEIVVXIKUK&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="298,21 2209,21 2209,1269 298,1269" rendition="TextRegion" xml:id="facs_85_tr_3">
+            <zone points="1088,352 1100,349 1117,364 1147,364 1164,357 1191,364 1199,357 1211,357 1208,288 1191,286 1174,305 1149,308 1132,303 1122,310 1088,313" rendition="Line" xml:id="facs_85_tr_3_tl_2"/>
+            <zone points="293,505 1327,519 1489,509 1489,468 1322,436 1240,470 682,475 598,443 546,477 500,443 465,475 293,475" rendition="Line" xml:id="facs_85_tr_3_tl_3"/>
+            <zone points="497,662 2205,650 2168,601 497,613" rendition="Line" xml:id="facs_85_tr_3_tl_4" subtype="paragraph"/>
+            <zone points="293,812 2058,812 2087,758 293,770" rendition="Line" xml:id="facs_85_tr_3_tl_5"/>
+            <zone points="286,960 2095,957 2097,901 286,921" rendition="Line" xml:id="facs_85_tr_3_tl_6"/>
+            <zone points="293,1112 1834,1110 1853,1056 468,1048 293,1085" rendition="Line" xml:id="facs_85_tr_3_tl_7"/>
+            <zone points="288,1260 1693,1270 2058,1253 2058,1201 288,1216" rendition="Line" xml:id="facs_85_tr_3_tl_8"/>
          </zone>
-         <zone points="62,2607 2298,2607 2298,3485 62,3485" rendition="TextRegion" xml:id="facs_50_tr_2">
-            <zone points="278,2674 2180,2682 2290,2669 2290,2617 278,2632" rendition="Line" xml:id="facs_50_tr_2_tl_1"/>
-            <zone points="286,2762 2203,2767 2195,2719 2012,2704 286,2725" rendition="Line" xml:id="facs_50_tr_2_tl_2" subtype="footnote"/>
-            <zone points="356,2820 2032,2830 2235,2820 2235,2770 356,2775" rendition="Line" xml:id="facs_50_tr_2_tl_3"/>
-            <zone points="351,2880 2230,2885 2230,2822 351,2852" rendition="Line" xml:id="facs_50_tr_2_tl_4"/>
-            <zone points="354,2945 424,2958 467,2940 554,2958 569,2943 783,2940 871,2958 871,2895 740,2908 728,2895 595,2893 557,2910 469,2895 452,2913 354,2913" rendition="Line" xml:id="facs_50_tr_2_tl_5"/>
+         <zone points="292,1341 2269,1341 2269,2702 292,2702" rendition="TextRegion" xml:id="facs_85_tr_2">
+            <zone points="288,1413 2173,1405 2173,1351 288,1371" rendition="Line" xml:id="facs_85_tr_2_tl_1"/>
+            <zone points="286,1580 2213,1558 2213,1501 288,1533" rendition="Line" xml:id="facs_85_tr_2_tl_2"/>
+            <zone points="286,1713 2259,1708 2259,1654 286,1691" rendition="Line" xml:id="facs_85_tr_2_tl_3"/>
+            <zone points="288,1878 2262,1868 2264,1809 290,1826" rendition="Line" xml:id="facs_85_tr_2_tl_4"/>
+            <zone points="288,2021 1932,2021 2232,2003 2232,1957 288,1976" rendition="Line" xml:id="facs_85_tr_2_tl_5"/>
+            <zone points="288,2171 1201,2198 2188,2159 2188,2107 288,2129" rendition="Line" xml:id="facs_85_tr_2_tl_6"/>
+            <zone points="281,2318 962,2355 2156,2311 2156,2259 281,2277" rendition="Line" xml:id="facs_85_tr_2_tl_7"/>
+            <zone points="288,2471 1999,2469 2144,2461 2144,2407 288,2444" rendition="Line" xml:id="facs_85_tr_2_tl_8"/>
+            <zone points="278,2619 413,2626 426,2638 490,2626 512,2643 554,2626 699,2621 699,2577 667,2562 647,2577 357,2579 337,2565 322,2579 278,2579" rendition="Line" xml:id="facs_85_tr_2_tl_9"/>
+            <zone points="475,2693 2048,2685 2065,2616 475,2636" rendition="Line" xml:id="facs_85_tr_2_tl_10" subtype="paragraph"/>
+         </zone>
+         <zone points="26,2768 2206,2768 2206,3470 26,3470" rendition="TextRegion" xml:id="facs_85_tr_1">
+            <zone points="281,2848 1819,2853 2200,2828 2203,2776 283,2798" rendition="Line" xml:id="facs_85_tr_1_tl_1"/>
+            <zone points="278,2995 2023,2998 2102,2976 2102,2917 281,2956" rendition="Line" xml:id="facs_85_tr_1_tl_2"/>
+            <zone points="864,3150 2112,3128 2077,3086 1971,3077 1868,3106 1637,3077 866,3101" rendition="Line" xml:id="facs_85_tr_1_tl_3"/>
          </zone>
       </surface>
       
@@ -96,31 +98,33 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0442.jpg" n="part3_p050.jpg" xml:id="img_0050" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p050.jpg"/>
+            <pb facs="#TL-0559.jpg" n="part4_p085.jpg" xml:id="img_0085" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p085.jpg"/>
             
-            <fw facs="#facs_50_tr_1">
-               <lb facs="#facs_50_tr_1_tl_1" n="N001"/>[437]</fw>
+            <fw facs="#facs_85_tr_3">
+               <lb facs="#facs_85_tr_3_tl_2" n="N001"/>[554]</fw>
            <p rend="tei-p-no-indent">
-               <lb facs="#facs_50_tr_1_tl_2" n="N002"/>is a direct interference of <rs type="keyword" ref="#God">God</rs>, i.e., a fundamental <rs type="keyword" ref="#Substance">substance</rs> which is the point of unity in all this.
-              <lb facs="#facs_50_tr_1_tl_3" n="N003"/>When we today speak of atomizing <rs type="keyword" ref="#Individualism">individualism</rs>, we usually mean this type.</p>
+              <lb facs="#facs_85_tr_3_tl_3" n="N002"/>over against all other <rs type="keyword" ref="#Nation">nations</rs>, in theory as well as in practice.</p>
            <p>
-               <lb facs="#facs_50_tr_1_tl_4" n="N004"/>Then there is a third type of individualism—I called it the <rs type="keyword" ref="#Renaissance">Renaissance</rs> type, but you can
-               <lb facs="#facs_50_tr_1_tl_5" n="N005"/>also call it the romantic type, but it has negative connotations, and “Renaissance” does not have
-               <lb facs="#facs_50_tr_1_tl_6" n="N006"/>too much—except for some <rs type="keyword" ref="#Theologian">theologians</rs>! This Renaissance type of individualism has a
-              <lb facs="#facs_50_tr_1_tl_8" n="N007"/>basis in the <rs type="keyword" ref="#Philosophy">philosophy </rs>of <rs type="person" ref="#tillich_person_id__417">Nicholas Cusanus</rs>,<note type="ea">Cf. Karl-Hermann Kandler, “Die Einheit von Endlichem und Unendlichem. Zum Verhältnis von
-                 <lb facs="#facs_50_tr_2_tl_4" n="N004"/>Paul Tillich und Nikolaus von Kues.” KuD 25, 1979, 106-122. [Noted in his article, “Nikolaus
-                 <lb facs="#facs_50_tr_2_tl_5" n="N005"/>von Kues als Theologe.” <hi style="font-style: italic;">Theologische Literaturzeitung</hi>, 115, No. 7, July 1990, cols. 481-490,
-                 <lb facs="#facs_50_tr_2_tl_6" n="N006"/>esp. 488, 490n.68.—<emph rend="allcaps"><rs type="person" ref="#tillich_person_id__3056">P.H. John</rs></emph></note> namely the idea that in every individual being,
-               <lb facs="#facs_50_tr_1_tl_9" n="N008"/>especially in man, the whole <rs type="keyword" ref="#Universe">universe</rs> is mirrored. For this reason, man is called the <rs type="keyword" ref="#Microcosmos">microcosm</rs>
-               <lb facs="#facs_50_tr_1_tl_10" n="N009"/>in contrast to the macrocosm, but representing the macrocosm and being at the same time a
-               <lb facs="#facs_50_tr_1_tl_11" n="N010"/>part of it. And since the macrocosm is the self-manifestation of the Divine, is the Divine
-               <lb facs="#facs_50_tr_1_tl_12" n="N011"/>going over into manifoldness, according to the Renaissance man, every individual becomes the mirror
-               <lb facs="#facs_50_tr_1_tl_13" n="N012"/>of the divine <rs type="keyword" ref="#Ground_of_Being">ground of being</rs> himself. As such, the individual represents something unique, but not
-               <lb facs="#facs_50_tr_1_tl_14" n="N013"/>unique as before God, in <emph rend="allcaps">christian</emph> thinking, namely an object of the <rs type="keyword" ref="#Love">love</rs> of God, but unique
-               <lb facs="#facs_50_tr_1_tl_15" n="N014"/>in the cultural sense, the representative of unique creative possibilities. This is the <emph rend="allcaps">difference</emph>
-               <lb facs="#facs_50_tr_1_tl_16" n="N015"/>from the <rs type="keyword" ref="#Rationality">rational</rs> <rs type="keyword" ref="#Concept">concept</rs> also, because it is not the development of <rs type="keyword" ref="#Consciousness"><emph rend="allcaps">consciousness</emph></rs> which is
-              <lb facs="#facs_50_tr_2_tl_1" n="N001"/>decisive here, but it is a qualitative character, qualitative elements, which are potentially in every man</p>
-         
+               <lb facs="#facs_85_tr_3_tl_4" n="N003"/>Now the biblical <rs type="keyword" ref="#Authority">authority</rs>. The biblical authority is based on the identification of the
+               <lb facs="#facs_85_tr_3_tl_5" n="N004"/>biblical text with the presence of the Divine Spirit, in the Old and New Testament writings.
+               <lb facs="#facs_85_tr_3_tl_6" n="N005"/>In this way every word of this book is a place of infallible ultimate authority and cannot be
+               <lb facs="#facs_85_tr_3_tl_7" n="N006"/>criticized from any point of view. The history has here also judged this idea
+               <lb facs="#facs_85_tr_3_tl_8" n="N007"/>by the very fact of Protestantism being related to<rs type="keyword" ref="#Secular"> secularism</rs>, and taking the secular world
+               <lb facs="#facs_85_tr_2_tl_1" n="N001"/>seriously because God is not identical with the sacred realm; God is related to the secular realm
+               <lb facs="#facs_85_tr_2_tl_2" n="N002"/>as much as to the sacred realm. If this is the case, then the realm of scientific research has its own
+               <lb facs="#facs_85_tr_2_tl_3" n="N003"/>religious dignity, by its own rules, by its own honesty, by its own service to the truth. Now if this is
+               <lb facs="#facs_85_tr_2_tl_4" n="N004"/>admitted, then the historical work done with the biblical books cannot be rejected by Protestantism,
+               <lb facs="#facs_85_tr_2_tl_5" n="N005"/>and if it is accepted, it is obvious that the doctrine which is usually called verbal inspiration cannot
+               <lb facs="#facs_85_tr_2_tl_6" n="N006"/>be accepted, neither from a historical nor from a religious point of view: it is a <rs type="keyword" ref="#Demonic">demonization </rs>of the
+               <lb facs="#facs_85_tr_2_tl_7" n="N007"/>belief (which is a Christian belief) that the Bible <emph rend="allcaps">contains</emph> the genuine documents about the
+               <lb facs="#facs_85_tr_2_tl_8" n="N008"/>event on which Christianity is based, namely the appearance of the Christ and the reception of
+              <lb facs="#facs_85_tr_2_tl_9" n="N009"/>him by the Church.</p>
+           <p>
+               <lb facs="#facs_85_tr_2_tl_10" n="N010"/>But if this is transformed into a place where every word and every sentence
+               <lb facs="#facs_85_tr_1_tl_1" n="N001"/>has unconditional <rs type="keyword" ref="#Authority">authority</rs> about everything in the world, history as well as <rs type="keyword" ref="#Physics">physics</rs>, then we are
+               <lb facs="#facs_85_tr_1_tl_2" n="N002"/>in a <rs type="keyword" ref="#Demonic">demonization</rs> which is always identical with authority in principle. And the history of
+               <lb facs="#facs_85_tr_1_tl_3" n="N003"/>Protestantism has destroyed this demonization for most Protestants—not for all—
+            </p>
             
         </div>
       </body>

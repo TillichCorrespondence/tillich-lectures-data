@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-34">Lecture XXXIV (Nr. 0439)</title>
+            <title type="main" n="TL-lecture-42">Lecture XLII (Nr. 0555)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -30,7 +30,7 @@
          <publicationStmt>
             <p>
                <idno type="transkribus_col_id">271480</idno>
-               <idno type="transkribus_doc_id">1830350</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part3_p047</locus>
+                     <locus>part4_p081</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-03-10">1956-03-10</date>
+                <date when-iso="1956-04-17">1956-04-17</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,33 +63,33 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_47">
-         <graphic url="TL-0439.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=DNCJCKJPLKZHTOLRCPJJXWGA&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="286,69 2269,69 2269,2287 286,2287" rendition="TextRegion" xml:id="facs_47_tr_1">
-            <zone points="1145,384 1158,384 1170,397 1213,404 1225,404 1230,399 1235,404 1270,402 1270,339 1235,342 1223,329 1200,352 1190,347 1183,352 1175,344 1145,344" rendition="Line" xml:id="facs_47_tr_1_tl_2"/>
-            <zone points="304,539 1811,546 1811,469 1564,509 1480,462 1435,506 1183,509 1095,472 676,509 636,469 382,509 304,469" rendition="Line" xml:id="facs_47_tr_1_tl_3"/>
-            <zone points="297,691 1355,694 1514,744 1579,701 1781,699 1781,644 297,644" rendition="Line" xml:id="facs_47_tr_1_tl_6"/>
-            <zone points="554,846 2023,853 2023,798 554,793" rendition="Line" xml:id="facs_47_tr_1_tl_7" subtype="paragraph"/>
-            <zone points="294,996 2023,1013 2158,1005 2158,953 294,966" rendition="Line" xml:id="facs_47_tr_1_tl_8"/>
-            <zone points="294,1158 1632,1190 2138,1158 2158,1100 294,1103" rendition="Line" xml:id="facs_47_tr_1_tl_10"/>
-            <zone points="289,1302 2133,1310 2133,1255 289,1255" rendition="Line" xml:id="facs_47_tr_1_tl_11"/>
-            <zone points="284,1450 2113,1465 2161,1407 284,1422" rendition="Line" xml:id="facs_47_tr_1_tl_12"/>
-            <zone points="294,1617 2141,1614 2158,1557 294,1559" rendition="Line" xml:id="facs_47_tr_1_tl_13"/>
-            <zone points="284,1682 2265,1684 2265,1639 2051,1624 284,1639" rendition="Line" xml:id="facs_47_tr_1_tl_14"/>
-            <zone points="282,1826 1694,1859 1919,1836 1919,1769 282,1786" rendition="Line" xml:id="facs_47_tr_1_tl_15"/>
-            <zone points="531,1984 2101,1989 2101,1931 2048,1924 531,1934" rendition="Line" xml:id="facs_47_tr_1_tl_16" subtype="paragraph"/>
-            <zone points="279,2141 1851,2146 2016,2133 2016,2081 279,2106" rendition="Line" xml:id="facs_47_tr_1_tl_17"/>
-            <zone points="272,2275 1939,2295 2106,2285 2106,2233 272,2253" rendition="Line" xml:id="facs_47_tr_1_tl_18"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_81">
+         <graphic url="TL-0555.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KDXYBBJLOLZSAQPRNYXAHOVA&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="125,15 2301,15 2301,1893 125,1893" rendition="TextRegion" xml:id="facs_81_tr_2">
+            <zone points="1109,342 1121,342 1136,360 1171,355 1215,357 1223,350 1235,350 1238,293 1218,293 1198,310 1193,300 1178,308 1168,295 1161,300 1151,298 1136,310 1109,308" rendition="Line" xml:id="facs_81_tr_2_tl_3"/>
+            <zone points="308,491 1967,526 1924,449 771,466 684,409 590,464 308,464" rendition="Line" xml:id="facs_81_tr_2_tl_4"/>
+            <zone points="312,645 2225,680 2225,618 312,598" rendition="Line" xml:id="facs_81_tr_2_tl_5"/>
+            <zone points="303,799 2267,821 2267,769 1954,756 303,746" rendition="Line" xml:id="facs_81_tr_2_tl_6"/>
+            <zone points="305,950 2130,965 2056,903 305,903" rendition="Line" xml:id="facs_81_tr_2_tl_7"/>
+            <zone points="293,1091 2081,1114 2081,1064 1833,1049 583,1027 293,1069" rendition="Line" xml:id="facs_81_tr_2_tl_8"/>
+            <zone points="300,1252 2215,1277 2190,1215 300,1200" rendition="Line" xml:id="facs_81_tr_2_tl_9"/>
+            <zone points="290,1401 2118,1419 2034,1337 290,1354" rendition="Line" xml:id="facs_81_tr_2_tl_10"/>
+            <zone points="288,1548 2021,1580 2021,1518 1840,1505 288,1503" rendition="Line" xml:id="facs_81_tr_2_tl_11"/>
+            <zone points="280,1719 1853,1734 1813,1669 280,1689" rendition="Line" xml:id="facs_81_tr_2_tl_12"/>
+            <zone points="280,1867 2163,1902 2113,1833 280,1823" rendition="Line" xml:id="facs_81_tr_2_tl_13"/>
          </zone>
-         <zone points="47,2374 2269,2374 2269,3473 47,3473" rendition="TextRegion" xml:id="facs_47_tr_2">
-            <zone points="274,2435 2001,2448 2081,2438 2081,2380 274,2405" rendition="Line" xml:id="facs_47_tr_2_tl_1"/>
-            <zone points="272,2580 2248,2587 2248,2535 272,2537" rendition="Line" xml:id="facs_47_tr_2_tl_2"/>
-            <zone points="267,2740 1961,2749 1961,2687 267,2707" rendition="Line" xml:id="facs_47_tr_2_tl_3"/>
-            <zone points="267,2889 1018,2899 1018,2839 267,2837" rendition="Line" xml:id="facs_47_tr_2_tl_4"/>
-            <zone points="511,2959 2121,2967 2121,2907 2058,2904 511,2912" rendition="Line" xml:id="facs_47_tr_2_tl_5" subtype="paragraph"/>
-            <zone points="259,3111 1756,3126 2193,3116 2193,3074 259,3084" rendition="Line" xml:id="facs_47_tr_2_tl_6"/>
-            <zone points="259,3278 976,3333 2265,3311 2265,3253 259,3251" rendition="Line" xml:id="facs_47_tr_2_tl_7"/>
+         <zone points="23,1965 2280,1965 2280,3470 23,3470" rendition="TextRegion" xml:id="facs_81_tr_1">
+            <zone points="278,2021 2123,2036 2123,1989 1969,1974 278,1996" rendition="Line" xml:id="facs_81_tr_1_tl_1"/>
+            <zone points="275,2172 2138,2190 2073,2128 275,2125" rendition="Line" xml:id="facs_81_tr_1_tl_2"/>
+            <zone points="280,2316 2053,2341 1999,2282 280,2254" rendition="Line" xml:id="facs_81_tr_1_tl_3"/>
+            <zone points="265,2470 702,2515 2128,2492 2128,2440 1791,2423 265,2445" rendition="Line" xml:id="facs_81_tr_1_tl_4"/>
+            <zone points="263,2619 1810,2639 1810,2587 263,2574" rendition="Line" xml:id="facs_81_tr_1_tl_5"/>
+            <zone points="464,2780 1662,2822 2056,2783 2056,2730 464,2728" rendition="Line" xml:id="facs_81_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="263,2941 1054,2941 1054,2882 263,2879" rendition="Line" xml:id="facs_81_tr_1_tl_7"/>
+            <zone points="456,3006 1027,3013 1215,3075 2143,3016 2143,2964 1967,2954 456,2956" rendition="Line" xml:id="facs_81_tr_1_tl_8" subtype="paragraph"/>
+            <zone points="248,3150 2242,3182 2242,3120 248,3127" rendition="Line" xml:id="facs_81_tr_1_tl_9"/>
+            <zone points="250,3288 2215,3286 2215,3231 250,3246" rendition="Line" xml:id="facs_81_tr_1_tl_10"/>
          </zone>
       </surface>
       
@@ -97,34 +97,33 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0439.jpg" n="part3_p047.jpg" xml:id="img_0047" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p047.jpg"/>
+            <pb facs="#TL-0555.jpg" n="part4_p081.jpg" xml:id="img_0081" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p081.jpg"/>
             
-            <fw facs="#facs_47_tr_1">
-               <lb facs="#facs_47_tr_1_tl_2" n="N001"/>[434]</fw>
+            <fw facs="#facs_81_tr_2">
+               <lb facs="#facs_81_tr_2_tl_3" n="N001"/>[550]</fw>
            <p rend="tei-p-no-indent">
-               <lb facs="#facs_47_tr_1_tl_3" n="N002"/>There, collectivism, hierarchy, aristocracy, and many other forms can prevail without
-              <lb facs="#facs_47_tr_1_tl_6" n="N003"/>interference from the point of view of the individual meaning before [i.e. significance to] <rs type="keyword" ref="#God">God.</rs></p>
+               <lb facs="#facs_81_tr_2_tl_4" n="N002"/>the <rs type="keyword" ref="#Authority">authority</rs> in principle and the authority in fact. Let's use these two distinctions,
+               <lb facs="#facs_81_tr_2_tl_5" n="N003"/>which can both be used—the word “rational” has connotations which make it very difficult today
+               <lb facs="#facs_81_tr_2_tl_6" n="N004"/>to use it. In <rs type="place">Williams College</rs>, two days ago, I had a discussion with the students and someone asked
+               <lb facs="#facs_81_tr_2_tl_7" n="N005"/>me about the relation of <rs type="keyword" ref="#Reason">reason</rs> and <rs type="keyword" ref="#Faith">faith</rs>, and I asked back with the words, “Whenever I hear
+              <lb facs="#facs_81_tr_2_tl_8" n="N006"/>somebody ask such a question, I ask back, 'What do you mean with “reason”' ?” And he
+               <lb facs="#facs_81_tr_2_tl_9" n="N007"/>reacted almost immediately, he was not shocked, because he knew exactly what reason is, namely
+               <lb facs="#facs_81_tr_2_tl_10" n="N008"/>intellectual endeavor: that was his definition of reason. Now of course, if this is reason, then
+               <lb facs="#facs_81_tr_2_tl_11" n="N009"/>it doesn't cover what <rs type="person" ref="#tillich_person_id__647">Fromm </rs>means at all, and it never covers what <hi style="text-decoration: underline;">I</hi> mean with reason,
+               <lb facs="#facs_81_tr_2_tl_12" n="N010"/>and it doesn't cover what the history of philosophy meant with reason. Reason
+               <lb facs="#facs_81_tr_2_tl_13" n="N011"/>meant the structure of mind and reality. But this immediate reaction of a younger boy to my
+               <lb facs="#facs_81_tr_1_tl_1" n="N001"/>question which tried to trap him <hi style="font-style: italic;">[smiling]</hi>, was very revealing to me. It revealed the fact that
+               <lb facs="#facs_81_tr_1_tl_2" n="N002"/>it's almost beyond salvation to try to bring back the original meaning of the word reason: it is
+               <lb facs="#facs_81_tr_1_tl_3" n="N003"/>“intellectual endeavor,” and this is what it is, and if you speak of <rs type="keyword" ref="#Morals">morals</rs> or aesthetics
+               <lb facs="#facs_81_tr_1_tl_4" n="N004"/>or <rs type="keyword" ref="#Politics">politics</rs> or the universe and its structure, then you shouldn't use that word any more. I am
+              <lb facs="#facs_81_tr_1_tl_5" n="N005"/>very sorry, but I am afraid I have to resign!—this boy revealed that to me.</p>
            <p>
-               <lb facs="#facs_47_tr_1_tl_7" n="N004"/>The second type is <rs type="keyword" ref="#Rationality">rational</rs> <rs type="keyword" ref="#Individualism">individualism</rs>. The rational individualism is the
-               <lb facs="#facs_47_tr_1_tl_8" n="N005"/>result of the development of the modern mind since the second half of the <rs type="keyword" ref="#Renaissance">Renaissance</rs>, and is
-               <lb facs="#facs_47_tr_1_tl_10" n="N006"/>based on the idea that the divine <rs type="keyword" ref="#Logos"><hi style="font-style: italic;">logos</hi></rs> is present in every individual <rs type="keyword" ref="#Mind">mind</rs> and makes it possible
-               <lb facs="#facs_47_tr_1_tl_11" n="N007"/>for every individual mind to act according to the principles of reason. Of course this <rs type="keyword" ref="#Concept">concept</rs>
-              <lb facs="#facs_47_tr_1_tl_12" n="N008"/>of reason is not the deteriorized concept of reason<emph rend="allcaps">ing</emph>, which we use today in the deteriorized
-               <lb facs="#facs_47_tr_1_tl_13" n="N009"/>philosophies of the 19th century; but it is the classical concept of <rs type="keyword" ref="#Reason">reason</rs>, reason as a structure
-               <lb facs="#facs_47_tr_1_tl_14" n="N010"/>of the human mind and the structure of the world which is encountered by the human mind—reason
-              <lb facs="#facs_47_tr_1_tl_15" n="N011"/>as structure of <rs type="keyword" ref="#Meaning"><emph rend="allcaps">meaning</emph></rs>, in all realms of life, in theoretical as well as in practical.</p>
+               <lb facs="#facs_81_tr_1_tl_6" n="N006"/>In any case, this is why I hesitate a little to use <rs type="person" ref="#tillich_person_id__647">Fromm</rs>'s distinction, although it
+              <lb facs="#facs_81_tr_1_tl_7" n="N007"/>points very much to the same direction.</p>
            <p>
-               <lb facs="#facs_47_tr_1_tl_16" n="N012"/>Now this concept of reason is applied to every individual human being, and the
-               <lb facs="#facs_47_tr_1_tl_17" n="N013"/>presupposition is that every individual is able to develop, out of this potentiality, actual
-               <lb facs="#facs_47_tr_1_tl_18" n="N014"/><rs type="keyword" ref="#Rationality">rationality</rs>. The people of <rs type="keyword" ref="#Enlightenment">Enlightenment</rs> were not stupid enough to think that people <emph rend="allcaps">are</emph>
-               <lb facs="#facs_47_tr_2_tl_1" n="N001"/>reasonable, but they were convinced that people can <emph rend="allcaps">become</emph> reasonable, because they all
-               <lb facs="#facs_47_tr_2_tl_2" n="N002"/>have potentially the same rationality, and if they are developed in the adequate way, by educational
-               <lb facs="#facs_47_tr_2_tl_3" n="N003"/>and political institutions, they can come to the age of reason, to the age of rationality
-              <lb facs="#facs_47_tr_2_tl_4" n="N004"/>in themselves and generally speaking.</p>
-           <p>
-               <lb facs="#facs_47_tr_2_tl_5" n="N005"/>This produces the individualism which underlies <rs type="keyword" ref="#Democracy">democracy</rs>, namely the rational
-               <lb facs="#facs_47_tr_2_tl_6" n="N006"/>individualism of every one able to make decisions about universal problems, theoretical as well as
-               <lb facs="#facs_47_tr_2_tl_7" n="N007"/>practical, on the basis of the development of his own rationality. This of course has the consequence
+               <lb facs="#facs_81_tr_1_tl_8" n="N008"/>Now let's use my own, namely <rs type="keyword" ref="#Authority">authority</rs> in principle and authority in fact. The first
+               <lb facs="#facs_81_tr_1_tl_9" n="N009"/>thing is authority in fact. None of you would be in this room, in this moment, if I were not for you,
+               <lb facs="#facs_81_tr_1_tl_10" n="N010"/>in a limited realm, an authority in fact. But I <emph rend="allcaps">hope</emph> nobody is in this room who considers me to be
             </p>
             
         </div>

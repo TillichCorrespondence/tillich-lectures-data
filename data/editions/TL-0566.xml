@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-34">Lecture XXXIV (Nr. 0449)</title>
+            <title type="main" n="TL-lecture-42">Lecture XLII (Nr. 0566)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -30,7 +30,7 @@
          <publicationStmt>
             <p>
                <idno type="transkribus_col_id">271480</idno>
-               <idno type="transkribus_doc_id">1830350</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part3_p057</locus>
+                     <locus>part4_p092</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-03-10">1956-03-10</date>
+                <date when-iso="1956-04-17">1956-04-17</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,35 +63,22 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_57">
-         <graphic url="TL-0449.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=RQQPOIOJKLGSNFISRNYUTJHG&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="1203,75 2254,75 2254,401 1203,401" rendition="TextRegion" xml:id="facs_57_tr_2">
-            <zone points="1191,396 1222,396 1229,404 1247,401 1257,406 1265,406 1273,399 1278,404 1306,401 1303,348 1270,353 1257,340 1252,345 1234,348 1189,345" rendition="Line" xml:id="facs_57_tr_2_tl_2"/>
-         </zone>
-         <zone points="226,487 2260,487 2260,1541 226,1541" rendition="TextRegion" xml:id="facs_57_tr_3">
-            <zone points="310,549 836,554 836,505 772,503 754,485 310,488" rendition="Line" xml:id="facs_57_tr_3_tl_1"/>
-            <zone points="541,615 2202,638 2202,572 541,561" rendition="Line" xml:id="facs_57_tr_3_tl_2" subtype="paragraph"/>
-            <zone points="307,777 472,828 879,772 2210,782 2210,726 307,719" rendition="Line" xml:id="facs_57_tr_3_tl_3"/>
-            <zone points="302,914 2022,945 2212,930 2212,879 300,871" rendition="Line" xml:id="facs_57_tr_3_tl_4"/>
-            <zone points="305,1069 2228,1095 2228,1031 2022,1019 305,1024" rendition="Line" xml:id="facs_57_tr_3_tl_5"/>
-            <zone points="292,1219 2156,1234 2253,1229 2253,1179 292,1194" rendition="Line" xml:id="facs_57_tr_3_tl_6"/>
-            <zone points="290,1369 2197,1384 2197,1331 2106,1326 290,1346" rendition="Line" xml:id="facs_57_tr_3_tl_7"/>
-            <zone points="211,1590 312,1527 2253,1532 2202,1478 211,1466" rendition="Line" xml:id="facs_57_tr_3_tl_8"/>
-         </zone>
-         <zone points="38,1618 2301,1618 2301,3491 38,3491" rendition="TextRegion" xml:id="facs_57_tr_1">
-            <zone points="290,1674 2169,1684 2169,1633 290,1626" rendition="Line" xml:id="facs_57_tr_1_tl_1"/>
-            <zone points="287,1829 2233,1847 2233,1786 287,1775" rendition="Line" xml:id="facs_57_tr_1_tl_2"/>
-            <zone points="287,1981 2189,1991 2189,1938 2014,1920 287,1933" rendition="Line" xml:id="facs_57_tr_1_tl_3"/>
-            <zone points="282,2129 2228,2179 2225,2083 279,2080" rendition="Line" xml:id="facs_57_tr_1_tl_4"/>
-            <zone points="201,2296 2200,2329 2200,2235 2149,2230 201,2187" rendition="Line" xml:id="facs_57_tr_1_tl_5"/>
-            <zone points="272,2423 2195,2438 2212,2385 272,2400" rendition="Line" xml:id="facs_57_tr_1_tl_7"/>
-            <zone points="269,2573 2291,2596 2291,2532 269,2527" rendition="Line" xml:id="facs_57_tr_1_tl_8"/>
-            <zone points="272,2730 1356,2743 1379,2672 1153,2703 1128,2677 551,2677 526,2703 312,2677 272,2703" rendition="Line" xml:id="facs_57_tr_1_tl_10"/>
-            <zone points="267,2875 2253,2901 2205,2822 267,2832" rendition="Line" xml:id="facs_57_tr_1_tl_13"/>
-            <zone points="267,3033 2296,3045 2296,2987 1918,2967 267,2984" rendition="Line" xml:id="facs_57_tr_1_tl_14"/>
-            <zone points="259,3180 2131,3190 2131,3127 259,3137" rendition="Line" xml:id="facs_57_tr_1_tl_15"/>
-            <zone points="269,3340 335,3330 475,3338 516,3332 516,3277 269,3279" rendition="Line" xml:id="facs_57_tr_1_tl_16"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_92">
+         <graphic url="TL-0566.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XZGBMFABIIAKKNAOSWIKLKWJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="304,239 2242,239 2242,1974 304,1974" rendition="TextRegion" xml:id="facs_92_tr_1">
+            <zone points="1135,296 1152,296 1164,305 1186,308 1241,308 1248,298 1265,298 1263,257 1205,257 1188,240 1169,260 1133,260" rendition="Line" xml:id="facs_92_tr_1_tl_1"/>
+            <zone points="320,452 2090,459 2090,418 1888,387 320,392" rendition="Line" xml:id="facs_92_tr_1_tl_2"/>
+            <zone points="317,604 1337,628 2167,604 2167,558 317,560" rendition="Line" xml:id="facs_92_tr_1_tl_3"/>
+            <zone points="313,748 2186,758 2186,707 2015,697 313,709" rendition="Line" xml:id="facs_92_tr_1_tl_4"/>
+            <zone points="308,904 2237,909 2191,844 308,854" rendition="Line" xml:id="facs_92_tr_1_tl_5"/>
+            <zone points="296,1049 2169,1065 2148,1003 1763,993 296,1027" rendition="Line" xml:id="facs_92_tr_1_tl_6"/>
+            <zone points="305,1207 1679,1222 2155,1205 2155,1154 305,1159" rendition="Line" xml:id="facs_92_tr_1_tl_7"/>
+            <zone points="303,1359 2092,1364 2232,1354 2232,1291 303,1328" rendition="Line" xml:id="facs_92_tr_1_tl_8"/>
+            <zone points="303,1542 1532,1520 1474,1465 305,1472" rendition="Line" xml:id="facs_92_tr_1_tl_9"/>
+            <zone points="529,1667 2191,1674 2191,1616 529,1619" rendition="Line" xml:id="facs_92_tr_1_tl_10" subtype="paragraph"/>
+            <zone points="291,1811 2177,1821 2104,1753 291,1772" rendition="Line" xml:id="facs_92_tr_1_tl_11"/>
+            <zone points="293,1962 375,1989 1421,1972 1421,1938 1337,1919 293,1919" rendition="Line" xml:id="facs_92_tr_1_tl_12"/>
          </zone>
       </surface>
       
@@ -99,32 +86,23 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0449.jpg" n="part3_p057.jpg" xml:id="img_0057" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p057.jpg"/>
+            <pb facs="#TL-0566.jpg" n="part4_p092.jpg" xml:id="img_0092" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p092.jpg"/>
             
-            <fw facs="#facs_57_tr_2">
-               <lb facs="#facs_57_tr_2_tl_2" n="N001"/>[444]</fw>
+            <fw facs="#facs_92_tr_1">
+               <lb facs="#facs_92_tr_1_tl_1" n="N001"/>[561]</fw>
            <p rend="tei-p-no-indent">
-              <lb facs="#facs_57_tr_3_tl_1" n="N001"/>and become a <rs type="keyword" ref="#Personality">personality</rs>.</p>
+               <lb facs="#facs_92_tr_1_tl_2" n="N002"/>which he puts against other elements in order to break down a fixed authoritarian system.
+               <lb facs="#facs_92_tr_1_tl_3" n="N003"/>On the other hand, the traditionalist who is willing to maintain all the traditions doesn't know
+               <lb facs="#facs_92_tr_1_tl_4" n="N004"/>that his act of maintaining them is already an act of transforming them, namely of taking them
+               <lb facs="#facs_92_tr_1_tl_5" n="N005"/>into the category of the situation out of which he wants to reestablish them. So we have here the
+               <lb facs="#facs_92_tr_1_tl_6" n="N006"/>situation that, since there cannot be <rs type="keyword" ref="#Authority_in_principle">authority in principle</rs> but there must be authority in fact,
+               <lb facs="#facs_92_tr_1_tl_7" n="N007"/>so there cannot be a tradition which is immovable, but there must be tradition even for those
+               <lb facs="#facs_92_tr_1_tl_8" n="N008"/>who rebel against a fixed tradition. They can rebel against it only in the power of elements which
+              <lb facs="#facs_92_tr_1_tl_9" n="N009"/>are present <emph rend="allcaps">in</emph> the tradition. This, I hope, gives some answers.</p>
            <p>
-               <lb facs="#facs_57_tr_3_tl_2" n="N002"/>Then the second source for this movement towards <rs type="keyword" ref="#Individualism">individualism</rs> is the possibility of
-               <lb facs="#facs_57_tr_3_tl_3" n="N003"/>man to ask questions. What does this possibility mean? Why is asking questions the beginning of
-               <lb facs="#facs_57_tr_3_tl_4" n="N004"/>man’s personal development? You know how worried parents are when the children begin to ask
-               <lb facs="#facs_57_tr_3_tl_5" n="N005"/>questions. And the parents are justified about this, because in the moment in which this happens,
-               <lb facs="#facs_57_tr_3_tl_6" n="N006"/>the differentiation, the separation in the beginning, <emph rend="allcaps">is already a fact</emph>. You cannot ask about
-               <lb facs="#facs_57_tr_3_tl_7" n="N007"/>that with which you are identical. You can ask only about something which you <emph rend="allcaps">do not</emph> have.
-               <lb facs="#facs_57_tr_3_tl_8" n="N008"/>Having (otherwise you could not ask either) and not having, together: that is the situation of
-               <lb facs="#facs_57_tr_1_tl_1" n="N001"/>him who asks questions. So if someone asks questions about life as such, about the <rs type="keyword" ref="#Symbols">symbols</rs> of
-               <lb facs="#facs_57_tr_1_tl_2" n="N002"/>the daily life, about the behavior of the rulers of a tribe or a <rs type="keyword" ref="#Nation">nation,</rs> then he is somehow separated,
-               <lb facs="#facs_57_tr_1_tl_3" n="N003"/>separated to such a degree that he now is a persona for himself and has the possibility of making
-               <lb facs="#facs_57_tr_1_tl_4" n="N004"/>decisions of his own. The separation by the guilt, every individual has to carry, and the separation
-               <lb facs="#facs_57_tr_1_tl_5" n="N005"/>which is implied in asking a question—these two are the two big roots for the development of the
-               <lb facs="#facs_57_tr_1_tl_7" n="N006"/><rs type="keyword" ref="#Individual">individual</rs> person. After this separation has been performed, this person elevated itself above that
-               <lb facs="#facs_57_tr_1_tl_8" n="N007"/>from which it comes—society first of all, but since society is a way in which we deal with nature,
-               <lb facs="#facs_57_tr_1_tl_10" n="N008"/>nature also. The isolated person starts a process of self-elevation above that where he comes from.
-               <lb facs="#facs_57_tr_1_tl_13" n="N009"/>Now this self-elevation leads to an ideal, namely to the ideal of personality. This ideal of personality
-               <lb facs="#facs_57_tr_1_tl_14" n="N010"/>is an invention of the <rs type="keyword" ref="#Renaissance">Renaissance</rs>, is taken over by <rs type="keyword" ref="#Enlightenment">Enlightenment</rs>, and is supported by <rs type="keyword" ref="#Protestantism">Protestantism</rs>.
-               <lb facs="#facs_57_tr_1_tl_15" n="N011"/>It is not only Renaissance, but it is also Protestantism, which has helped to develop the ideal of
-               <lb facs="#facs_57_tr_1_tl_16" n="N012"/><rs type="keyword" ref="#Personality">personality.</rs>
+               <lb facs="#facs_92_tr_1_tl_10" n="N010"/>Now I will then come next Tuesday to the sociological-political realm more directly
+               <lb facs="#facs_92_tr_1_tl_11" n="N011"/>because Thursday is an unknown holiday <hi style="font-style: italic;">[i.e. Patriot's Day—smiling—laughter]</hi>, but we still
+               <lb facs="#facs_92_tr_1_tl_12" n="N012"/>have three hours, which will give us ample possibility <gap/>
             </p>
             
         </div>

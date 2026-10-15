@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" subtype="first_page" n="TL-lecture-34">Lecture XXXIV (Nr. 0437)</title>
+            <title type="main" n="TL-lecture-42">Lecture XLII (Nr. 0554)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -30,7 +30,7 @@
          <publicationStmt>
             <p>
                <idno type="transkribus_col_id">271480</idno>
-               <idno type="transkribus_doc_id">1830350</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part3_p045</locus>
+                     <locus>part4_p080</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-03-10">1956-03-10</date>
+                <date when-iso="1956-04-17">1956-04-17</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,34 +63,36 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_45">
-         <graphic url="TL-0437.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=JTSVSLYPEVSNBJVGBLBTYFTQ&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="289,27 2197,27 2197,986 289,986" rendition="TextRegion" xml:id="facs_45_tr_2">
-            <zone points="1125,368 1155,373 1167,382 1247,380 1244,288 1224,288 1205,308 1195,310 1177,325 1167,323 1157,333 1123,333" rendition="Line" xml:id="facs_45_tr_2_tl_4"/>
-            <zone points="278,524 1021,532 1021,464 815,484 695,378 586,467 278,467" rendition="Line" xml:id="facs_45_tr_2_tl_5" subtype="heading"/>
-            <zone points="524,673 2089,683 2089,613 599,646 524,611" rendition="Line" xml:id="facs_45_tr_2_tl_6" subtype="paragraph"/>
-            <zone points="276,830 2044,844 2044,777 276,800" rendition="Line" xml:id="facs_45_tr_2_tl_7"/>
-            <zone points="276,991 1220,1028 1272,979 2191,979 2191,929 276,949" rendition="Line" xml:id="facs_45_tr_2_tl_8"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_80">
+         <graphic url="TL-0554.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=IQHKOEVGBIKBBMVTMJACMFQB&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="1113,18 2286,18 2286,341 1113,341" rendition="TextRegion" xml:id="facs_80_tr_2">
+            <zone points="1099,334 1112,334 1124,346 1134,348 1143,348 1151,341 1193,344 1210,334 1222,334 1224,290 1190,290 1170,270 1158,272 1136,294 1102,294" rendition="Line" xml:id="facs_80_tr_2_tl_2"/>
          </zone>
-         <zone points="274,1072 2224,1072 2224,1890 274,1890" rendition="TextRegion" xml:id="facs_45_tr_3">
-            <zone points="273,1133 2183,1135 2183,1080 273,1103" rendition="Line" xml:id="facs_45_tr_3_tl_1"/>
-            <zone points="268,1279 1912,1292 2116,1284 2116,1229 268,1237" rendition="Line" xml:id="facs_45_tr_3_tl_2"/>
-            <zone points="268,1431 546,1475 599,1436 1038,1433 1793,1478 1793,1386 1729,1366 268,1386" rendition="Line" xml:id="facs_45_tr_3_tl_3"/>
-            <zone points="512,1577 1937,1597 2218,1580 2218,1525 512,1532" rendition="Line" xml:id="facs_45_tr_3_tl_4" subtype="paragraph"/>
-            <zone points="261,1731 2081,1734 2163,1731 2163,1679 261,1681" rendition="Line" xml:id="facs_45_tr_3_tl_5"/>
-            <zone points="263,1885 1957,1895 2129,1885 2131,1833 266,1835" rendition="Line" xml:id="facs_45_tr_3_tl_6"/>
+         <zone points="298,427 2239,427 2239,1404 298,1404" rendition="TextRegion" xml:id="facs_80_tr_4">
+            <zone points="299,496 2189,498 2189,422 844,454 751,371 542,456 299,454" rendition="Line" xml:id="facs_80_tr_4_tl_1"/>
+            <zone points="299,640 2064,648 2064,589 1774,574 299,594" rendition="Line" xml:id="facs_80_tr_4_tl_2"/>
+            <zone points="297,790 2127,800 2088,736 1821,726 297,753" rendition="Line" xml:id="facs_80_tr_4_tl_3"/>
+            <zone points="287,935 1207,974 2191,942 2206,891 287,913" rendition="Line" xml:id="facs_80_tr_4_tl_4"/>
+            <zone points="294,1097 2233,1094 2203,1028 294,1035" rendition="Line" xml:id="facs_80_tr_4_tl_5"/>
+            <zone points="285,1237 1867,1254 2103,1244 2103,1195 285,1215" rendition="Line" xml:id="facs_80_tr_4_tl_6"/>
+            <zone points="285,1394 2051,1404 2130,1396 2130,1340 285,1369" rendition="Line" xml:id="facs_80_tr_4_tl_7"/>
          </zone>
-         <zone points="26,1977 2266,1977 2266,3467 26,3467" rendition="TextRegion" xml:id="facs_45_tr_1">
-            <zone points="253,2032 2196,2044 2198,1987 253,1989" rendition="Line" xml:id="facs_45_tr_1_tl_1"/>
-            <zone points="263,2188 1855,2186 1808,2136 263,2136" rendition="Line" xml:id="facs_45_tr_1_tl_4"/>
-            <zone points="509,2305 2260,2327 2260,2258 1967,2243 509,2263" rendition="Line" xml:id="facs_45_tr_1_tl_5" subtype="paragraph"/>
-            <zone points="253,2449 415,2516 956,2454 1532,2501 1644,2449 2233,2451 2233,2404 253,2407" rendition="Line" xml:id="facs_45_tr_1_tl_6"/>
-            <zone points="258,2605 2203,2613 2250,2551 258,2556" rendition="Line" xml:id="facs_45_tr_1_tl_7"/>
-            <zone points="253,2759 1535,2759 1567,2705 253,2712" rendition="Line" xml:id="facs_45_tr_1_tl_8"/>
-            <zone points="504,2946 2193,2901 2196,2841 507,2849" rendition="Line" xml:id="facs_45_tr_1_tl_9" subtype="paragraph"/>
-            <zone points="251,3075 2243,3060 2243,2998 251,3010" rendition="Line" xml:id="facs_45_tr_1_tl_10"/>
-            <zone points="268,3202 817,3254 894,3211 2121,3207 2121,3159 1873,3137 268,3162" rendition="Line" xml:id="facs_45_tr_1_tl_11"/>
+         <zone points="286,1481 2251,1481 2251,2762 286,2762" rendition="TextRegion" xml:id="facs_80_tr_3">
+            <zone points="282,1548 1872,1570 2162,1548 2162,1492 282,1509" rendition="Line" xml:id="facs_80_tr_3_tl_1"/>
+            <zone points="285,1703 2093,1710 2164,1693 2167,1629 287,1659" rendition="Line" xml:id="facs_80_tr_3_tl_2"/>
+            <zone points="287,1845 2012,1855 2167,1843 2167,1796 287,1806" rendition="Line" xml:id="facs_80_tr_3_tl_3"/>
+            <zone points="282,1995 820,2007 820,1938 783,1958 407,1958 390,1941 282,1958" rendition="Line" xml:id="facs_80_tr_3_tl_4"/>
+            <zone points="275,2206 393,2142 2248,2154 2248,2081 2174,2078 275,2081" rendition="Line" xml:id="facs_80_tr_3_tl_5" subtype="paragraph"/>
+            <zone points="272,2294 1529,2309 1644,2302 1644,2253 272,2272" rendition="Line" xml:id="facs_80_tr_3_tl_6"/>
+            <zone points="488,2454 2078,2459 2118,2397 488,2405" rendition="Line" xml:id="facs_80_tr_3_tl_7" subtype="paragraph"/>
+            <zone points="280,2603 2196,2606 2216,2549 280,2559" rendition="Line" xml:id="facs_80_tr_3_tl_8"/>
+            <zone points="280,2758 2191,2756 2194,2697 280,2709" rendition="Line" xml:id="facs_80_tr_3_tl_9"/>
+         </zone>
+         <zone points="68,2842 2242,2842 2242,3470 68,3470" rendition="TextRegion" xml:id="facs_80_tr_1">
+            <zone points="280,2910 1772,2915 2088,2903 2088,2854 280,2864" rendition="Line" xml:id="facs_80_tr_1_tl_1"/>
+            <zone points="272,3052 2061,3060 2061,3006 272,3030" rendition="Line" xml:id="facs_80_tr_1_tl_2"/>
+            <zone points="275,3205 1337,3236 2235,3212 2235,3153 275,3165" rendition="Line" xml:id="facs_80_tr_1_tl_3"/>
          </zone>
       </surface>
       
@@ -98,36 +100,34 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0437.jpg" n="part3_p045.jpg" xml:id="img_0045" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p045.jpg"/>
+            <pb facs="#TL-0554.jpg" n="part4_p080.jpg" xml:id="img_0080" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p080.jpg"/>
             
-            <fw facs="#facs_45_tr_2">
-               <lb facs="#facs_45_tr_2_tl_4" n="N001"/>[432]</fw>
+            <fw facs="#facs_80_tr_2">
+               <lb facs="#facs_80_tr_2_tl_2" n="N001"/>[549]</fw>
            <p rend="tei-p-no-indent">
-              <lb facs="#facs_45_tr_2_tl_5" n="N002"/>
-              <title type="lecture"><emph rend="allcaps">Lecture XXXIV</emph></title>
-              <date when-iso="1956-03-10">March 10, 1956</date></p>
+               <lb facs="#facs_80_tr_4_tl_1" n="N001"/>dynamics and <rs type="keyword" ref="#Form">form,</rs> the form can be a repressive <rs type="keyword" ref="#Power">power</rs> with respect to the dynamics of our life,
+               <lb facs="#facs_80_tr_4_tl_2" n="N002"/>to go beyond the limits in, let us say, vocational respect, national respect, family respect,
+               <lb facs="#facs_80_tr_4_tl_3" n="N003"/>to go beyond the given place on which we are (“place” not only geographical but, even more,
+               <lb facs="#facs_80_tr_4_tl_4" n="N004"/>intellectually and socially and psychologically). Repressions are always possible. The form makes
+               <lb facs="#facs_80_tr_4_tl_5" n="N005"/>life possible. But the form at the same time is able to repress life. Now take the best example, for
+               <lb facs="#facs_80_tr_4_tl_6" n="N006"/>which I gave you the pictures as an example: academic art, where the creative dynamics are
+               <lb facs="#facs_80_tr_4_tl_7" n="N007"/>repressed in the academies of art by traditions of form. The learning of the form is good, but
+               <lb facs="#facs_80_tr_3_tl_1" n="N001"/>if this learning of the form <emph rend="allcaps">represses</emph> the creative impact of the artist, we have that kind of
+               <lb facs="#facs_80_tr_3_tl_2" n="N002"/>art which we call academic and which is <emph rend="allcaps">repressed</emph> art, and therefore very much loved by all
+               <lb facs="#facs_80_tr_3_tl_3" n="N003"/>those who are in principle repressors in <emph rend="allcaps">all</emph> realms of life. Now I think that was the question.
+              <lb facs="#facs_80_tr_3_tl_4" n="N004"/>Now we have to go ahead.</p>
+           <lb rend="lb-show"/>
+           <p><supplied resp="editor"><hi rend="italic"><emph rend="allcaps">Lecture (continued):</emph></hi></supplied></p>
            <p>
-               <lb facs="#facs_45_tr_2_tl_6" n="N003"/>We have discussed the formal <rs type="keyword" ref="#Ethics">ethics</rs>, so to speak—the fundamental problem of
-               <lb facs="#facs_45_tr_2_tl_7" n="N004"/>ethics and religion. Today I come to a special section of the general ethical realm, namely
-               <lb facs="#facs_45_tr_2_tl_8" n="N005"/><rs type="keyword" ref="#Personal_Ethics">personal ethics</rs>, in contrast to communal ethics; or as we also could say: individual in contrast to
-              <lb facs="#facs_45_tr_3_tl_1" n="N001"/><rs type="keyword" ref="#Social_Ethics">social ethics</rs>. In both of these realms, the problem <rs type="keyword" ref="#Culture">“Culture</rs> and <rs type="keyword" ref="#Religion">Religion”</rs> has a large amount of
-               <lb facs="#facs_45_tr_3_tl_2" n="N002"/>implications and demands a large amount of answers. Let me first give you a survey on what
-              <lb facs="#facs_45_tr_3_tl_3" n="N003"/>individual ethics means by speaking about different <rs type="keyword" ref="#Concept">concepts</rs> of individuality.</p>
+               <lb facs="#facs_80_tr_3_tl_5" n="N005"/>I gave you one example of the social problems of <rs type="keyword" ref="#Ethics">ethics,</rs> namely the family life, and especially
+              <lb facs="#facs_80_tr_3_tl_6" n="N006"/>that element in the family life which has to do with <rs type="keyword" ref="#Sex">sexual relation.</rs></p>
            <p>
-              <lb facs="#facs_45_tr_3_tl_4" n="N004"/>The word <rs type="keyword" ref="#Individualism">“individualism”</rs> is used very much as a critical word against special forms of
-               <lb facs="#facs_45_tr_3_tl_5" n="N005"/>behavior or special structures of society, in our period of <rs type="keyword" ref="#History">history</rs>. This word is valid to a certain
-               <lb facs="#facs_45_tr_3_tl_6" n="N006"/>extent—one <emph rend="allcaps">can</emph> speak of modern individualism—but it is valid only in a limited way, because
-               <lb facs="#facs_45_tr_1_tl_1" n="N001"/>it uses the word “individual” in an undifferentiated, unqualified way. The first thing we must do,
-              <lb facs="#facs_45_tr_1_tl_4" n="N002"/>when we deal with such a concept as individualism, is to make the qualifications referring to such a term.</p>
-           <p>
-               <lb facs="#facs_45_tr_1_tl_5" n="N003"/>Individualism can mean three different things. Let me call the one the <rs type="keyword" ref="#Religion">religious</rs> concept,
-               <lb facs="#facs_45_tr_1_tl_6" n="N004"/>the other the <rs type="keyword" ref="#Rationality">rational</rs> concept, and the third the <rs type="keyword" ref="#Renaissance">Renaissance</rs> concept. These three are by no means
-               <lb facs="#facs_45_tr_1_tl_7" n="N005"/>identical and must be discussed in a special way, and it is quite possible that <emph rend="allcaps">some</emph> of these concepts
-              <lb facs="#facs_45_tr_1_tl_8" n="N006"/>are to be combined with opposite concepts in different structures.</p>
-           <p>
-               <lb facs="#facs_45_tr_1_tl_9" n="N007"/>The religious concept is the concept of the infinite value of the individual <rs type="keyword" ref="#Soul">soul</rs> in the
-               <lb facs="#facs_45_tr_1_tl_10" n="N008"/>face of <rs type="keyword" ref="#God">God</rs>. The word “infinite value” is not directly biblical; the biblical phrase would be, perhaps,
-              <lb facs="#facs_45_tr_1_tl_11" n="N009"/>“object of the divine <rs type="keyword" ref="#Love">love</rs>.” But this is true of every human being; there are no differentiation
+               <lb facs="#facs_80_tr_3_tl_7" n="N007"/>The other element, which also needs full development, is the element of <rs type="keyword" ref="#Authority">authority.</rs>
+               <lb facs="#facs_80_tr_3_tl_8" n="N008"/>I would like to go into this problem from different points of view. If you want to read somebody
+               <lb facs="#facs_80_tr_3_tl_9" n="N009"/>who is outspoken and almost bitter of authority, then read <emph rend="allcaps">every</emph> book of <rs type="person" ref="#tillich_person_id__647">Erich Fromm,</rs>
+               <lb facs="#facs_80_tr_1_tl_1" n="N001"/>especially his book on <rs type="keyword" ref="#Religion">religion</rs> and psychoanalysis. He distinguishes two types of authority,
+               <lb facs="#facs_80_tr_1_tl_2" n="N002"/>what he calls rational authority and irrational authority. This is an interesting distinction;
+               <lb facs="#facs_80_tr_1_tl_3" n="N003"/>I myself have always distinguished, on the basis of the difference of <rs type="keyword" ref="#Catholicism">Catholicism</rs> and <rs type="keyword" ref="#Protestantism">Protestantism,</rs>
             </p>
             
         </div>

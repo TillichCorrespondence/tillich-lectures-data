@@ -2,7 +2,7 @@
     <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" n="TL-lecture-35">Lecture XXXV (Nr. 0452)</title>
+            <title type="main" n="TL-lecture-43">Lecture XLIII (Nr. 0569)</title>
             <title type="sub">Religion and Culture Project</title>
             <principal>
                <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
@@ -30,7 +30,7 @@
          <publicationStmt>
             <p>
                <idno type="transkribus_col_id">271480</idno>
-               <idno type="transkribus_doc_id">1830350</idno>
+               <idno type="transkribus_doc_id">1830352</idno>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -42,7 +42,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <locus>part3_p060</locus>
+                     <locus>part4_p095</locus>
                      <p/>
                   </msItem>
                </msContents>
@@ -55,7 +55,7 @@
           </abstract>
           <settingDesc>
              <setting>
-                <date when-iso="1956-03-12">1956-03-12</date>
+                <date when-iso="1956-04-24">1956-04-24</date>
                 <date type="term">Semester II</date>
                 <placeName>Harvard University</placeName>
              </setting>
@@ -63,35 +63,35 @@
        </profileDesc>
    </teiHeader>
    <facsimile>
-    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_60">
-         <graphic url="TL-0452.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=AZBNPQOLQUWIYAVSJZJUHMER&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="313,66 2283,66 2283,1159 313,1159" rendition="TextRegion" xml:id="facs_60_tr_2">
-            <zone points="1150,384 1165,384 1182,397 1215,397 1222,404 1237,399 1244,404 1277,399 1277,320 1257,322 1239,340 1195,337 1185,345 1150,345" rendition="Line" xml:id="facs_60_tr_2_tl_2"/>
-            <zone points="533,548 2278,558 2278,473 2149,508 2038,414 1941,506 533,513" rendition="Line" xml:id="facs_60_tr_2_tl_3"/>
-            <zone points="307,697 2112,709 2263,701 2263,649 307,662" rendition="Line" xml:id="facs_60_tr_2_tl_4"/>
-            <zone points="300,858 2176,863 2233,801 300,823" rendition="Line" xml:id="facs_60_tr_2_tl_5"/>
-            <zone points="312,1004 1909,1014 2184,1004 2184,949 312,957" rendition="Line" xml:id="facs_60_tr_2_tl_6"/>
-            <zone points="300,1145 2097,1158 2161,1096 300,1103" rendition="Line" xml:id="facs_60_tr_2_tl_7"/>
+    <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_95">
+         <graphic url="TL-0569.jpg" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=OXKAQEVWOYLHEARVWNINMFAB&amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="104,30 2283,30 2283,1460 104,1460" rendition="TextRegion" xml:id="facs_95_tr_2">
+            <zone points="1128,343 1148,340 1156,348 1181,350 1253,345 1251,285 1238,285 1226,298 1201,285 1171,285 1158,298 1126,300" rendition="Line" xml:id="facs_95_tr_2_tl_2"/>
+            <zone points="305,470 2021,485 2221,470 2221,418 305,428" rendition="Line" xml:id="facs_95_tr_2_tl_3"/>
+            <zone points="305,623 338,630 578,630 578,575 305,575" rendition="Line" xml:id="facs_95_tr_2_tl_4"/>
+            <zone points="533,695 2276,700 2276,643 2219,635 533,638" rendition="Line" xml:id="facs_95_tr_2_tl_5" subtype="paragraph"/>
+            <zone points="303,843 1926,860 2194,850 2194,793 303,818" rendition="Line" xml:id="facs_95_tr_2_tl_6"/>
+            <zone points="295,993 2126,1011 2256,945 295,970" rendition="Line" xml:id="facs_95_tr_2_tl_7"/>
+            <zone points="935,1148 2229,1148 2246,1093 1141,1088 935,1126" rendition="Line" xml:id="facs_95_tr_2_tl_9"/>
+            <zone points="295,1298 1843,1311 2169,1301 2169,1248 295,1271" rendition="Line" xml:id="facs_95_tr_2_tl_11"/>
+            <zone points="293,1456 2099,1461 2099,1406 293,1426" rendition="Line" xml:id="facs_95_tr_2_tl_12"/>
          </zone>
-         <zone points="301,1239 2349,1239 2349,2894 301,2894" rendition="TextRegion" xml:id="facs_60_tr_1">
-            <zone points="302,1299 1767,1316 2258,1301 2258,1249 302,1252" rendition="Line" xml:id="facs_60_tr_1_tl_1"/>
-            <zone points="300,1455 473,1458 483,1467 516,1458 620,1460 620,1403 498,1403 478,1423 456,1403 300,1403" rendition="Line" xml:id="facs_60_tr_1_tl_2"/>
-            <zone points="523,1524 1197,1574 2342,1529 2288,1460 523,1467" rendition="Line" xml:id="facs_60_tr_1_tl_3" subtype="paragraph"/>
-            <zone points="297,1673 2176,1686 2285,1678 2288,1624 297,1631" rendition="Line" xml:id="facs_60_tr_1_tl_4"/>
-            <zone points="297,1829 1963,1837 2149,1827 2149,1780 297,1782" rendition="Line" xml:id="facs_60_tr_1_tl_5"/>
-            <zone points="297,1993 2256,1981 2256,1924 300,1938" rendition="Line" xml:id="facs_60_tr_1_tl_6"/>
-            <zone points="292,2127 2040,2142 2231,2132 2231,2075 292,2082" rendition="Line" xml:id="facs_60_tr_1_tl_7"/>
-            <zone points="292,2283 2119,2285 2179,2231 292,2238" rendition="Line" xml:id="facs_60_tr_1_tl_8"/>
-            <zone points="290,2444 1713,2424 1847,2501 2209,2461 2176,2377 290,2390" rendition="Line" xml:id="facs_60_tr_1_tl_9"/>
-            <zone points="292,2590 2124,2580 2124,2526 1886,2516 292,2526" rendition="Line" xml:id="facs_60_tr_1_tl_10"/>
-            <zone points="297,2749 2199,2741 2199,2677 297,2697" rendition="Line" xml:id="facs_60_tr_1_tl_11"/>
-            <zone points="288,2890 2214,2880 2251,2823 288,2838" rendition="Line" xml:id="facs_60_tr_1_tl_12"/>
+         <zone points="298,1547 2307,1547 2307,2750 298,2750" rendition="TextRegion" xml:id="facs_95_tr_3">
+            <zone points="293,1611 1558,1608 1861,1668 1943,1608 2174,1666 2174,1553 293,1563" rendition="Line" xml:id="facs_95_tr_3_tl_1"/>
+            <zone points="290,1761 350,1776 380,1768 395,1783 440,1788 563,1786 563,1733 548,1733 523,1708 335,1708 310,1733 290,1733" rendition="Line" xml:id="facs_95_tr_3_tl_2"/>
+            <zone points="518,1836 2109,1843 2146,1773 518,1788" rendition="Line" xml:id="facs_95_tr_3_tl_3" subtype="paragraph"/>
+            <zone points="290,1991 1451,2021 2091,1988 2091,1936 290,1941" rendition="Line" xml:id="facs_95_tr_3_tl_4"/>
+            <zone points="290,2136 2036,2151 2159,2139 2159,2084 290,2094" rendition="Line" xml:id="facs_95_tr_3_tl_5"/>
+            <zone points="293,2291 2206,2294 2274,2234 293,2239" rendition="Line" xml:id="facs_95_tr_3_tl_6"/>
+            <zone points="293,2439 2304,2446 2271,2384 2046,2376 293,2411" rendition="Line" xml:id="facs_95_tr_3_tl_7"/>
+            <zone points="285,2586 2161,2589 2161,2536 285,2539" rendition="Line" xml:id="facs_95_tr_3_tl_8"/>
+            <zone points="285,2741 2151,2749 2196,2681 285,2714" rendition="Line" xml:id="facs_95_tr_3_tl_9"/>
          </zone>
-         <zone points="81,2968 2277,2968 2277,3490 81,3490" rendition="TextRegion" xml:id="facs_60_tr_3">
-            <zone points="283,3044 1202,3036 1234,3029 1234,2977 283,2997" rendition="Line" xml:id="facs_60_tr_3_tl_1"/>
-            <zone points="508,3096 2243,3103 2271,3046 508,3054" rendition="Line" xml:id="facs_60_tr_3_tl_2" subtype="paragraph"/>
-            <zone points="283,3255 2199,3252 2226,3195 283,3225" rendition="Line" xml:id="facs_60_tr_3_tl_3"/>
+         <zone points="41,2825 2188,2825 2188,3470 41,3470" rendition="TextRegion" xml:id="facs_95_tr_1">
+            <zone points="288,2899 2034,2894 2111,2884 2111,2834 288,2851" rendition="Line" xml:id="facs_95_tr_1_tl_1"/>
+            <zone points="278,3044 2181,3042 2184,2984 278,2999" rendition="Line" xml:id="facs_95_tr_1_tl_2"/>
+            <zone points="275,3194 1921,3212 2124,3197 2126,3144 278,3154" rendition="Line" xml:id="facs_95_tr_1_tl_3"/>
          </zone>
       </surface>
       
@@ -99,33 +99,33 @@
    <text>
       <body>
         <div>
-            <pb facs="#TL-0452.jpg" n="part3_p060.jpg" xml:id="img_0060" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p060.jpg"/>
+            <pb facs="#TL-0569.jpg" n="part4_p095.jpg" xml:id="img_0095" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p095.jpg"/>
             
-            <fw facs="#facs_60_tr_2">
-               <lb facs="#facs_60_tr_2_tl_2" n="N001"/>[447]</fw>
+            <fw facs="#facs_95_tr_2">
+               <lb facs="#facs_95_tr_2_tl_2" n="N001"/>[564]</fw>
+           <p rend="tei-p-no-indent">
+               <lb facs="#facs_95_tr_2_tl_3" n="N002"/>infinity, is unsolvable for him, and he tries to get rid of it by returning to something which is less
+              <lb facs="#facs_95_tr_2_tl_4" n="N003"/>than human.</p>
            <p>
-               <lb facs="#facs_60_tr_2_tl_3" n="N002"/>I use here the term “the ideal of <rs type="keyword" ref="#Personality">personality</rs>.” I don't mean it in the sense of personality
-               <lb facs="#facs_60_tr_2_tl_4" n="N003"/>structure, and I <emph rend="allcaps">don't</emph> mean it in the sense of person, as someone who is legally protected, or who
-               <lb facs="#facs_60_tr_2_tl_5" n="N004"/>potentially has the possibility to <emph rend="allcaps">become</emph> a personality, but I mean it in the sense of a developed
-               <lb facs="#facs_60_tr_2_tl_6" n="N005"/>character on the basis of an individual being. This ideal of personality has developed under the
-               <lb facs="#facs_60_tr_2_tl_7" n="N006"/>impact both of the <rs type="keyword" ref="#Reformation">Reformation</rs> and of the <rs type="keyword" ref="#Renaissance">Renaissance</rs>. It has shown some characteristics of
-               <lb facs="#facs_60_tr_1_tl_1" n="N001"/>which we must say that it is one of the greatest and perhaps most catastrophic developments in our
-              <lb facs="#facs_60_tr_1_tl_2" n="N002"/>modern period.</p>
+               <lb facs="#facs_95_tr_2_tl_5" n="N004"/>In the same way, all highly individualized cultures have a tendency to return to primitive
+               <lb facs="#facs_95_tr_2_tl_6" n="N005"/>collectivism. And this is so important because it was a characteristic of our <emph rend="allcaps">own</emph> period, where
+               <lb facs="#facs_95_tr_2_tl_7" n="N006"/>at the end of the 19th century, <rs type="keyword" ref="#Individualism">individualism</rs> (in the one sense which I gave you) was developed to
+               <lb facs="#facs_95_tr_2_tl_9" n="N007"/>such a degree that the <rs type="keyword" ref="#Individual">individual</rs> subject, the completely separated personality, was unable to exist
+               <lb facs="#facs_95_tr_2_tl_11" n="N008"/>any longer; and especially in the younger generation of the early 20th century, in the different
+               <lb facs="#facs_95_tr_2_tl_12" n="N009"/>youth movements, the tendency to return to the group prevailed. This was the fertile soil
+               <lb facs="#facs_95_tr_3_tl_1" n="N001"/>for the other neo-collectivistic movements which appeared both as <rs type="keyword" ref="#Communism">Communism </rs>and as <rs type="keyword" ref="#Fascism">Fascism</rs>
+              <lb facs="#facs_95_tr_3_tl_2" n="N002"/>and <rs type="keyword" ref="#Nazism">Nazism.</rs></p>
            <p>
-               <lb facs="#facs_60_tr_1_tl_3" n="N003"/>To understand that, we must distinguish the idea of <rs type="keyword" ref="#Personality">personality</rs> and the ideal of personality.
-               <lb facs="#facs_60_tr_1_tl_4" n="N004"/>The idea of personality simply means that man is created to be a person, on the basis of a completed
-               <lb facs="#facs_60_tr_1_tl_5" n="N005"/>individualized self, and to develop, on this basis, those characteristics which we attribute to a
-               <lb facs="#facs_60_tr_1_tl_6" n="N006"/>personality—a character, a special direction of life, special insights, special experiences, which make
-               <lb facs="#facs_60_tr_1_tl_7" n="N007"/>him a being who represents actually a human possibility whereby, on an <rs type="keyword" ref="#Individual">individual</rs> basis, universal
-               <lb facs="#facs_60_tr_1_tl_8" n="N008"/><rs type="keyword" ref="#Meaning">meanings</rs> are embodied, incarnated, impregnated and actualized. The phrase would be “He is a
-               <lb facs="#facs_60_tr_1_tl_9" n="N009"/>personality.” But of another man we would say “He is no personality.” Certainly he is a person—I 
-               <lb facs="#facs_60_tr_1_tl_10" n="N010"/>cannot kill him as I can an animal. But he is not a personality. On the basis of his personal
-               <lb facs="#facs_60_tr_1_tl_11" n="N011"/>potentialities, he has nothing developed which makes him a real personality, a concentrated will,
-               <lb facs="#facs_60_tr_1_tl_12" n="N012"/>an educational <rs type="keyword" ref="#Form">form</rs>, a <rs type="keyword" ref="#Participation">participation</rs> in universals, in thought and action. That’s what I would call a
-              <lb facs="#facs_60_tr_3_tl_1" n="N001"/>personality.—This is the <emph rend="allcaps">idea</emph> of personality.</p>
-           <p>
-               <lb facs="#facs_60_tr_3_tl_2" n="N002"/>Out of this the <emph rend="allcaps">ideal</emph> of personality has developed, in consequence of <rs type="keyword" ref="#Reformation">Reformation</rs> and
-               <lb facs="#facs_60_tr_3_tl_3" n="N003"/>of <rs type="keyword" ref="#Renaissance">Renaissance</rs>, and <emph rend="allcaps">especially</emph> in consequence of <rs type="keyword" ref="#Calvinism">Calvinist </rs>Reformation, much more than the
+               <lb facs="#facs_95_tr_3_tl_3" n="N003"/>Now in order to discuss this situation, I suggest some distinctions. All this has not
+               <lb facs="#facs_95_tr_3_tl_4" n="N004"/>happened in <rs type="place">England</rs>, while it happened in Continental Europe. It has not happened in this
+               <lb facs="#facs_95_tr_3_tl_5" n="N005"/>country either. Why not? Because in <rs type="place">England</rs> we have another form of existence over against
+               <lb facs="#facs_95_tr_3_tl_6" n="N006"/>Continental <rs type="keyword" ref="#Individualism">individualism,</rs> namely <rs type="keyword" ref="#Conformism">conformism.</rs> Let's look at this word for a moment. Conformism
+               <lb facs="#facs_95_tr_3_tl_7" n="N007"/>can be understood in a merely negative sense, namely as subjecting oneself to the laws of convention,
+               <lb facs="#facs_95_tr_3_tl_8" n="N008"/>to avoid being outstanding, standing on oneself, or as I formulated it in the <hi style="font-style: italic;">Courage to Be</hi>, the
+               <lb facs="#facs_95_tr_3_tl_9" n="N009"/>courage to be oneself. Where this is lacking, there, conformism can develop. But conformism is,
+               <lb facs="#facs_95_tr_1_tl_1" n="N001"/>like all “isms”,  something which is verbally critical, is negative. Whenever we look at British
+               <lb facs="#facs_95_tr_1_tl_2" n="N002"/>life, we wouldn't call it conformism in this negative sense, although it has conformistic elements
+               <lb facs="#facs_95_tr_1_tl_3" n="N003"/>in it; but we would call it a system of conformity. And perhaps it is wise to distinguish these
             </p>
             
         </div>
